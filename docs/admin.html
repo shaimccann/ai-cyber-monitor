@@ -398,6 +398,35 @@
             saveBar.classList.add("visible");
         }
 
+        function sourceRow(s, i) {
+            const catBadge = s.category === "ai"
+                ? '<span class="card__badge card__badge--ai">🤖 AI</span>'
+                : '<span class="card__badge card__badge--cyber">🔒 סייבר</span>';
+            const statusBadge = s.enabled
+                ? '<span class="status-badge status-badge--active">פעיל</span>'
+                : '<span class="status-badge status-badge--disabled">מושבת</span>';
+            const method = s.method === "rss" ? "RSS" : "Scraping";
+
+            return `<tr>
+                <td>
+                    <strong>${esc(s.name)}</strong><br>
+                    <a href="${esc(s.url)}" target="_blank" rel="noopener"
+                       style="font-size: 0.8rem; color: var(--color-link);">${esc(s.url)}</a>
+                </td>
+                <td>${catBadge}</td>
+                <td>${method}</td>
+                <td>${statusBadge}</td>
+                <td style="white-space: nowrap;">
+                    <button class="btn btn--small ${s.enabled ? 'btn--danger' : 'btn--primary'}"
+                            data-action="toggle" data-index="${i}">
+                        ${s.enabled ? 'השבת' : 'הפעל'}
+                    </button>
+                    <button class="btn btn--small btn--danger" data-action="delete" data-index="${i}"
+                            style="margin-top: 4px;">מחק</button>
+                </td>
+            </tr>`;
+        }
+
         function renderSources() {
             sourceCount.textContent = sources.length;
 
@@ -406,34 +435,39 @@
                 return;
             }
 
-            sourcesBody.innerHTML = sources.map((s, i) => {
-                const catBadge = s.category === "ai"
-                    ? '<span class="card__badge card__badge--ai">🤖 AI</span>'
-                    : '<span class="card__badge card__badge--cyber">🔒 סייבר</span>';
-                const statusBadge = s.enabled
-                    ? '<span class="status-badge status-badge--active">פעיל</span>'
-                    : '<span class="status-badge status-badge--disabled">מושבת</span>';
-                const method = s.method === "rss" ? "RSS" : "Scraping";
+            // Sort: AI first, then Cyber, alphabetical within each group
+            const indexed = sources.map((s, i) => ({ s, i }));
+            indexed.sort((a, b) => {
+                if (a.s.category !== b.s.category) {
+                    return a.s.category === "ai" ? -1 : 1;
+                }
+                return (a.s.name || "").localeCompare(b.s.name || "");
+            });
 
-                return `<tr>
-                    <td>
-                        <strong>${esc(s.name)}</strong><br>
-                        <a href="${esc(s.url)}" target="_blank" rel="noopener"
-                           style="font-size: 0.8rem; color: var(--color-link);">${esc(s.url)}</a>
-                    </td>
-                    <td>${catBadge}</td>
-                    <td>${method}</td>
-                    <td>${statusBadge}</td>
-                    <td style="white-space: nowrap;">
-                        <button class="btn btn--small ${s.enabled ? 'btn--danger' : 'btn--primary'}"
-                                data-action="toggle" data-index="${i}">
-                            ${s.enabled ? 'השבת' : 'הפעל'}
-                        </button>
-                        <button class="btn btn--small btn--danger" data-action="delete" data-index="${i}"
-                                style="margin-top: 4px;">מחק</button>
-                    </td>
-                </tr>`;
-            }).join("");
+            const aiCount = sources.filter(s => s.category === "ai").length;
+            const cyberCount = sources.filter(s => s.category === "cyber").length;
+
+            let html = "";
+
+            // AI section header
+            html += `<tr><td colspan="5" style="background: #f3e8ff; padding: 10px 16px; font-weight: 700; font-size: 1.05rem; color: #7c3aed;">
+                🤖 AI (${aiCount})
+            </td></tr>`;
+
+            for (const { s, i } of indexed.filter(x => x.s.category === "ai")) {
+                html += sourceRow(s, i);
+            }
+
+            // Cyber section header
+            html += `<tr><td colspan="5" style="background: #d1fae5; padding: 10px 16px; font-weight: 700; font-size: 1.05rem; color: #047857;">
+                🔒 סייבר (${cyberCount})
+            </td></tr>`;
+
+            for (const { s, i } of indexed.filter(x => x.s.category === "cyber")) {
+                html += sourceRow(s, i);
+            }
+
+            sourcesBody.innerHTML = html;
         }
 
         // Event delegation for table buttons
