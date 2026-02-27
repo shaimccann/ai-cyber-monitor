@@ -299,7 +299,10 @@
                 }
                 const data = await resp.json();
                 fileSha = data.sha;
-                const content = atob(data.content.replace(/\n/g, ""));
+                const raw = atob(data.content.replace(/\n/g, ""));
+                const bytes = new Uint8Array(raw.length);
+                for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i);
+                const content = new TextDecoder("utf-8").decode(bytes);
                 const parsed = JSON.parse(content);
                 sources = parsed.sources || [];
                 originalJson = JSON.stringify({ sources }, null, 2);
