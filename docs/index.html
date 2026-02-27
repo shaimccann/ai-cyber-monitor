@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="he" dir="rtl">
+<html lang="en" dir="ltr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,12 +10,17 @@
 </head>
 <body>
     <header class="header">
-        <div class="container">
-            <h1 class="header__title">AI & Cyber Daily Monitor</h1>
-            <p class="header__subtitle">עדכון יומי אוטומטי בתחומי בינה מלאכותית וסייבר</p>
-            <nav class="header__nav">
-                <a href="index.html" class="header__link header__link--active">עדכונים</a>
-            </nav>
+        <div class="container header__container">
+            <div class="header__text">
+                <h1 class="header__title">AI & Cyber Daily Monitor</h1>
+                <p class="header__subtitle">Automated daily AI & Cybersecurity news digest</p>
+                <nav class="header__nav">
+                    <a href="index.html" class="header__link header__link--active">Updates</a>
+                </nav>
+            </div>
+            <a href="index.html" class="header__logo">
+                <img src="logo.svg" alt="Shai·eld" height="60">
+            </a>
         </div>
     </header>
 
@@ -24,23 +29,23 @@
         <section class="filters">
             <div class="filters__row">
                 <div class="filters__group">
-                    <button class="filter-btn filter-btn--active" data-category="all">הכל</button>
+                    <button class="filter-btn filter-btn--active" data-category="all">All</button>
                     <button class="filter-btn" data-category="ai">🤖 AI</button>
-                    <button class="filter-btn" data-category="cyber">🔒 סייבר</button>
+                    <button class="filter-btn" data-category="cyber">🔒 Cyber</button>
                 </div>
                 <div class="filters__group">
-                    <button class="filter-btn filter-btn--active" data-period="today">היום</button>
-                    <button class="filter-btn" data-period="week">השבוע</button>
-                    <button class="filter-btn" data-period="month">החודש</button>
+                    <button class="filter-btn filter-btn--active" data-period="today">Today</button>
+                    <button class="filter-btn" data-period="week">This Week</button>
+                    <button class="filter-btn" data-period="month">This Month</button>
                 </div>
             </div>
             <div class="filters__search">
-                <input type="text" id="searchInput" class="search-input" placeholder="חיפוש חופשי בכותרות ותקצירים...">
+                <input type="text" id="searchInput" class="search-input" placeholder="Search articles...">
             </div>
             <div class="filters__date">
-                <label for="dateSelect">תאריך:</label>
+                <label for="dateSelect">Date:</label>
                 <select id="dateSelect" class="date-select">
-                    <option value="">היום</option>
+                    <option value="">Today</option>
                 </select>
             </div>
         </section>
@@ -51,23 +56,23 @@
             <span class="stats__separator">|</span>
             <span class="stats__item" id="statsAI">0 AI</span>
             <span class="stats__separator">|</span>
-            <span class="stats__item" id="statsCyber">0 סייבר</span>
+            <span class="stats__item" id="statsCyber">0 Cyber</span>
         </section>
 
         <!-- Articles Grid -->
         <section class="articles" id="articlesGrid">
-            <div class="loading" id="loading">טוען עדכונים...</div>
+            <div class="loading" id="loading">Loading updates...</div>
         </section>
 
         <!-- No Results -->
         <section class="no-results" id="noResults" style="display: none;">
-            <p>לא נמצאו עדכונים התואמים את החיפוש</p>
+            <p>No results matching your search</p>
         </section>
     </main>
 
     <footer class="footer">
         <div class="container">
-            <p>AI & Cyber Daily Monitor — נוצר באופן אוטומטי באמצעות RSS, Gemini API ו-GitHub Actions</p>
+            <p>AI & Cyber Daily Monitor — Automated with RSS, Gemini API & GitHub Actions</p>
         </div>
     </footer>
 

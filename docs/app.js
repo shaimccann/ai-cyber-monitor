@@ -118,7 +118,7 @@
   }
 
   // Max articles to display
-  const MAX_DISPLAY = 10;
+  const MAX_DISPLAY = 20;
 
   // === Filtering ===
 
@@ -169,9 +169,9 @@
     const ai = filteredArticles.filter((a) => a.category === "ai").length;
     const cyber = filteredArticles.filter((a) => a.category === "cyber").length;
 
-    statsTotal.textContent = `מציג ${filteredArticles.length} מתוך ${totalMatched} עדכונים`;
+    statsTotal.textContent = `Showing ${filteredArticles.length} of ${totalMatched} articles`;
     statsAI.textContent = `${ai} AI`;
-    statsCyber.textContent = `${cyber} סייבר`;
+    statsCyber.textContent = `${cyber} Cyber`;
   }
 
   // === Rendering ===
@@ -179,9 +179,9 @@
   function formatDateHe(dateStr) {
     try {
       const date = new Date(dateStr);
-      return date.toLocaleDateString("he-IL", {
+      return date.toLocaleDateString("en-US", {
         day: "numeric",
-        month: "long",
+        month: "short",
         year: "numeric",
       });
     } catch {
@@ -192,7 +192,7 @@
   function formatTime(isoStr) {
     try {
       const date = new Date(isoStr);
-      return date.toLocaleTimeString("he-IL", {
+      return date.toLocaleTimeString("en-US", {
         hour: "2-digit",
         minute: "2-digit",
       });
@@ -207,14 +207,20 @@
 
     const isAI = article.category === "ai";
     const badgeClass = isAI ? "card__badge--ai" : "card__badge--cyber";
-    const badgeText = isAI ? "🤖 AI" : "🔒 סייבר";
+    const badgeText = isAI ? "🤖 AI" : "🔒 Cyber";
 
-    const title = article.title_he || article.title_original || "ללא כותרת";
+    const title = article.title_he || article.title_original || "No title";
     const fullDesc = article.description || "";
-    // Short summary: first ~80 chars for collapsed view
-    const summary = article.summary_he || truncateText(fullDesc, 120);
-    // Details: prefer details_he, fallback to full description
-    const details = article.details_he || fullDesc;
+    // Short summary: use summary_he only if different from title, else use description
+    const rawSummary = article.summary_he && article.summary_he !== title
+        ? article.summary_he
+        : fullDesc;
+    const summary = truncateText(rawSummary, 160);
+    // Details: prefer details_he (if different from title), fallback to full description
+    const rawDetails = article.details_he && !article.details_he.startsWith(title)
+        ? article.details_he
+        : fullDesc;
+    const details = rawDetails;
     const dateStr = formatDateHe(article.published || article.date || "");
 
     // Primary article link
@@ -230,7 +236,7 @@
 
     // Article link button
     const articleLinkHtml = articleUrl
-      ? `<a href="${escapeHtml(articleUrl)}" target="_blank" rel="noopener" class="card__read-more">קרא את המאמר המלא ↗</a>`
+      ? `<a href="${escapeHtml(articleUrl)}" target="_blank" rel="noopener" class="card__read-more">Read full article ↗</a>`
       : "";
 
     card.innerHTML = `
@@ -240,12 +246,12 @@
       </div>
       <h3 class="card__title">${escapeHtml(title)}</h3>
       <p class="card__summary">${escapeHtml(summary)}</p>
-      <span class="card__expand-hint">לחץ להרחבה</span>
+      <span class="card__expand-hint">Click to expand</span>
       <div class="card__details">
         <p class="card__details-text">${escapeHtml(details)}</p>
         ${articleLinkHtml}
         <div class="card__sources-section">
-          <strong>מקורות:</strong>
+          <strong>Sources:</strong>
           <ul class="card__sources-list">${sourcesHtml}</ul>
         </div>
       </div>

@@ -31,7 +31,7 @@ def load_config():
 
 
 def build_email_html(articles, config):
-    """Build RTL Hebrew HTML email content."""
+    """Build LTR English HTML email content with logo."""
     dashboard_url = config["email"].get("dashboard_url", "")
     max_articles = config["email"]["max_articles"]
 
@@ -45,20 +45,26 @@ def build_email_html(articles, config):
     ai_articles = [a for a in sorted_articles if a.get("category") == "ai"]
     cyber_articles = [a for a in sorted_articles if a.get("category") == "cyber"]
 
-    today_str = datetime.now(timezone.utc).strftime("%d/%m/%Y")
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     def article_row(article):
         title = article.get("title_he", article.get("title_original", ""))
+        # Use description as summary if summary_he is same as title
         summary = article.get("summary_he", "")
+        if not summary or summary == title:
+            summary = article.get("description", "")
+        # Truncate summary to ~160 chars
+        if len(summary) > 160:
+            summary = summary[:160].rsplit(" ", 1)[0] + "..."
         url = article.get("url", "#")
         source = article.get("source_name", "")
         cat = article.get("category", "ai")
         badge_color = "#8b5cf6" if cat == "ai" else "#059669"
-        badge_text = "🤖 AI" if cat == "ai" else "🔒 סייבר"
+        badge_text = "🤖 AI" if cat == "ai" else "🔒 Cyber"
 
         return f"""
         <tr>
-            <td style="padding: 12px 16px; border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px 16px; border-bottom: 1px solid #e2e8f0; text-align: left;">
                 <span style="display: inline-block; background: {badge_color}20; color: {badge_color};
                              padding: 2px 8px; border-radius: 12px; font-size: 12px; margin-bottom: 4px;">
                     {badge_text}
@@ -80,35 +86,52 @@ def build_email_html(articles, config):
         <div style="text-align: center; margin: 24px 0;">
             <a href="{dashboard_url}" style="display: inline-block; background: #2563eb; color: #fff;
                      padding: 12px 24px; border-radius: 8px; text-decoration: none; font-size: 14px;">
-                צפייה בכל העדכונים בדשבורד
+                View all updates on Dashboard
             </a>
         </div>"""
 
+    # Logo URL on GitHub Pages
+    logo_url = dashboard_url.rstrip("/") + "/logo.svg" if dashboard_url else ""
+    logo_html = ""
+    if logo_url:
+        logo_html = f"""
+            <img src="{logo_url}" alt="Shai·eld" width="160" height="48"
+                 style="display: block; margin: 0; opacity: 0.9;">"""
+
     html = f"""<!DOCTYPE html>
-<html lang="he" dir="rtl">
+<html lang="en" dir="ltr">
 <head><meta charset="UTF-8"></head>
-<body style="font-family: Arial, sans-serif; direction: rtl; background: #f5f7fa; margin: 0; padding: 20px;">
+<body style="font-family: Arial, sans-serif; direction: ltr; background: #f5f7fa; margin: 0; padding: 20px;">
     <div style="max-width: 600px; margin: 0 auto; background: #fff; border-radius: 12px;
                 box-shadow: 0 1px 3px rgba(0,0,0,0.1); overflow: hidden;">
 
         <!-- Header -->
         <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #fff;
-                     padding: 24px; text-align: center;">
-            <h1 style="margin: 0; font-size: 22px;">AI & Cyber Daily Monitor</h1>
-            <p style="margin: 4px 0 0; opacity: 0.8; font-size: 14px;">עדכון יומי — {today_str}</p>
+                     padding: 24px;">
+            <table style="width: 100%; border: none; border-collapse: collapse;">
+                <tr>
+                    <td style="text-align: left; vertical-align: middle; border: none; padding: 0;">
+                        <h1 style="margin: 0; font-size: 22px; color: #fff;">AI & Cyber Daily Monitor</h1>
+                        <p style="margin: 4px 0 0; opacity: 0.8; font-size: 14px; color: #fff;">Daily digest — {today_str}</p>
+                    </td>
+                    <td style="text-align: right; vertical-align: middle; border: none; padding: 0; width: 170px;">
+                        {logo_html}
+                    </td>
+                </tr>
+            </table>
         </div>
 
         {dashboard_link}
 
         <!-- Stats -->
         <div style="padding: 16px 24px; background: #f8f9fa; text-align: center; font-size: 14px; color: #555;">
-            {len(sorted_articles)} עדכונים | {len(ai_articles)} AI | {len(cyber_articles)} סייבר
+            {len(sorted_articles)} articles | {len(ai_articles)} AI | {len(cyber_articles)} Cyber
         </div>
 
         <!-- AI Section -->
         {"" if not ai_articles else f'''
         <div style="padding: 16px 24px 8px;">
-            <h2 style="font-size: 18px; color: #8b5cf6; margin: 0;">🤖 בינה מלאכותית</h2>
+            <h2 style="font-size: 18px; color: #8b5cf6; margin: 0;">🤖 AI</h2>
         </div>
         <table style="width: 100%; border-collapse: collapse;">{ai_rows}</table>
         '''}
@@ -116,7 +139,7 @@ def build_email_html(articles, config):
         <!-- Cyber Section -->
         {"" if not cyber_articles else f'''
         <div style="padding: 16px 24px 8px;">
-            <h2 style="font-size: 18px; color: #059669; margin: 0;">🔒 סייבר</h2>
+            <h2 style="font-size: 18px; color: #059669; margin: 0;">🔒 Cyber</h2>
         </div>
         <table style="width: 100%; border-collapse: collapse;">{cyber_rows}</table>
         '''}
@@ -124,7 +147,7 @@ def build_email_html(articles, config):
         <!-- Footer -->
         <div style="padding: 16px 24px; text-align: center; font-size: 12px; color: #888;
                      border-top: 1px solid #e2e8f0;">
-            נוצר באופן אוטומטי ע״י AI & Cyber Daily Monitor
+            Automated by AI & Cyber Daily Monitor
         </div>
     </div>
 </body>
