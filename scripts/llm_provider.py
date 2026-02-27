@@ -14,13 +14,13 @@ CONFIG_DIR = PROJECT_ROOT / "config"
 
 log = logging.getLogger(__name__)
 
-SUMMARIZE_PROMPT = """You are a cybersecurity and AI news analyst. Summarize the following article.
+SUMMARIZE_PROMPT = """You are a cybersecurity and AI news analyst. Analyze the following article thoroughly.
 Category: [{category}].
 
 Provide your response in this JSON format ONLY:
 {{
-  "summary": "A 2-3 sentence summary of the article in English. Be concise but informative.",
-  "details": "A detailed analysis in English (5-8 sentences). For cyber articles: focus on the vulnerability details, real-world exploitation, attacker techniques, official responses, and actionable recommendations. For AI articles: focus on the key innovation, impact, technical details, industry reactions, and practical implications.",
+  "summary": "A 2-3 sentence summary in English. Cover the key facts: what happened, who is affected, and why it matters.",
+  "details": "A structured detailed analysis in English using labeled sections. Use this EXACT format with section labels followed by colons:\\n\\nThe Vulnerability: [description of the vulnerability, CVE, severity score, affected products]\\n\\nActive Exploitation: [who is exploiting it, how long, what they achieved]\\n\\nAttacker Techniques: [specific TTPs, tools, methods used]\\n\\nOfficial Response: [vendor patches, CISA directives, government advisories]\\n\\nRecommendations: [what organizations should do to protect themselves]\\n\\nFor AI articles use these sections instead:\\n\\nKey Innovation: [what is new]\\n\\nTechnical Details: [how it works]\\n\\nIndustry Impact: [who is affected, market implications]\\n\\nExpert Reactions: [what analysts and experts say]\\n\\nPractical Implications: [what this means for users/organizations]\\n\\nOnly include sections that are relevant based on the article content. Each section should be 2-4 sentences.",
   "category": "ai" or "cyber",
   "title_he": "Keep the original English title as-is"
 }}

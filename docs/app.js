@@ -216,12 +216,12 @@
         ? article.summary_he
         : fullDesc;
     const summary = truncateText(rawSummary, 250);
-    // Details: detailed analysis from LLM, fallback to full description
-    const rawDetails = article.details_he && article.details_he !== title
+    // Details: structured analysis from LLM; only use if it's genuinely different content
+    const hasDetails = article.details_he
+        && article.details_he !== title
         && article.details_he !== article.summary_he
-        ? article.details_he
-        : fullDesc;
-    const details = rawDetails;
+        && article.details_he !== fullDesc;
+    const details = hasDetails ? article.details_he : "";
     const dateStr = formatDateHe(article.published || article.date || "");
 
     // Primary article link
@@ -249,8 +249,10 @@
       <p class="card__summary">${escapeHtml(summary)}</p>
       <span class="card__expand-hint">Click to expand</span>
       <div class="card__details">
-        <div class="card__details-header">Detailed Analysis</div>
-        <p class="card__details-text">${escapeHtml(details)}</p>
+        ${details ? `
+          <div class="card__details-header">Detailed Analysis</div>
+          <div class="card__details-text">${formatDetails(details)}</div>
+        ` : ""}
         ${articleLinkHtml}
         <div class="card__sources-section">
           <strong>Sources:</strong>
@@ -270,6 +272,19 @@
     });
 
     return card;
+  }
+
+  function formatDetails(text) {
+    if (!text) return "";
+    // Split into sections by known headers pattern "Header:" at start of line
+    const escaped = escapeHtml(text);
+    // Format section headers: "The Vulnerability:", "Active Exploitation:", etc.
+    const formatted = escaped.replace(
+      /(?:^|\n)((?:The Vulnerability|Active Exploitation|Attacker Techniques|Official Response|Recommendations|Key Innovation|Technical Details|Industry Impact|Expert Reactions|Practical Implications)\s*:)/g,
+      '\n<div class="card__detail-section"><strong>$1</strong></div>'
+    );
+    // Convert remaining newlines to <br>
+    return formatted.replace(/\n/g, "<br>");
   }
 
   function truncateText(text, maxLen) {
