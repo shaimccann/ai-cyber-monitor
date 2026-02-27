@@ -62,18 +62,17 @@ def _parse_llm_json(text):
 
 
 class GeminiProvider:
-    """Google Gemini API provider."""
+    """Google Gemini API provider using google-genai SDK."""
 
     def __init__(self, config):
-        import google.generativeai as genai
+        from google import genai
 
         api_key = os.environ.get("GEMINI_API_KEY", "")
         if not api_key:
             raise ValueError("GEMINI_API_KEY environment variable not set")
 
-        genai.configure(api_key=api_key)
-        model_name = config["llm"]["gemini"]["model"]
-        self.model = genai.GenerativeModel(model_name)
+        self.client = genai.Client(api_key=api_key)
+        self.model_name = config["llm"]["gemini"]["model"]
         self.max_rpm = config["llm"]["gemini"]["max_rpm"]
         self._last_call = 0
 
@@ -93,7 +92,10 @@ class GeminiProvider:
                 title=title, content=content[:6000], category=category
             )
             try:
-                response = self.model.generate_content(prompt)
+                response = self.client.models.generate_content(
+                    model=self.model_name,
+                    contents=prompt,
+                )
                 result = _parse_llm_json(response.text)
                 # Validate: summary should not be identical to title
                 if result.get("summary", "").strip() == title.strip():
@@ -119,7 +121,10 @@ class GeminiProvider:
         self._rate_limit()
         prompt = DEDUP_PROMPT.format(title_a=title_a, title_b=title_b)
         try:
-            response = self.model.generate_content(prompt)
+            response = self.client.models.generate_content(
+                model=self.model_name,
+                contents=prompt,
+            )
             return "same" in response.text.strip().lower()
         except Exception as e:
             log.warning(f"Gemini dedup check failed: {e}")
