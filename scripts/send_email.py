@@ -98,6 +98,8 @@ def build_email_html(articles, config):
             <p style="margin: 4px 0 0; opacity: 0.8; font-size: 14px;">עדכון יומי — {today_str}</p>
         </div>
 
+        {dashboard_link}
+
         <!-- Stats -->
         <div style="padding: 16px 24px; background: #f8f9fa; text-align: center; font-size: 14px; color: #555;">
             {len(sorted_articles)} עדכונים | {len(ai_articles)} AI | {len(cyber_articles)} סייבר
@@ -118,8 +120,6 @@ def build_email_html(articles, config):
         </div>
         <table style="width: 100%; border-collapse: collapse;">{cyber_rows}</table>
         '''}
-
-        {dashboard_link}
 
         <!-- Footer -->
         <div style="padding: 16px 24px; text-align: center; font-size: 12px; color: #888;
