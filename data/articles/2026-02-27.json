@@ -2039,5 +2039,47 @@
     "title_he": "Third-Party Patching and the Business Footprint We All Share",
     "summary_he": "Third-Party Patching and the Business Footprint We All Share",
     "details_he": "Third-Party Patching and the Business Footprint We All Share\n\nEveryday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]"
+  },
+  {
+    "id": "8eb31103970a81c9",
+    "title_original": "The Galaxy S26 is a photography nightmare",
+    "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
+    "description": "In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bit of tech and a really useful new feature - and a lot of iterative year-over-year changes. The new camera features, […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-02-27T10:15:52-05:00",
+    "fetched_at": "2026-02-27T15:34:34.739533+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Galaxy S26 is a photography nightmare",
+    "summary_he": "The Galaxy S26 is a photography nightmare",
+    "details_he": "The Galaxy S26 is a photography nightmare\n\nIn many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bit of tech and a really useful new feature - and a lot of iterative year-over-year changes. The new camera features, […]"
+  },
+  {
+    "id": "afff6f8d4a0dfdcb",
+    "title_original": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators",
+    "url": "https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/",
+    "description": "Other noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach.The postIn Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicatorsappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-27T15:23:39+00:00",
+    "fetched_at": "2026-02-27T15:34:37.931221+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators",
+    "summary_he": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses ",
+    "details_he": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators\n\nOther noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach.The postIn Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicatorsappeared first onSecurityWeek."
   }
 ]
