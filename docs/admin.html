@@ -200,9 +200,36 @@
 
         // === Auth ===
 
+        function detectRepoFromUrl() {
+            // GitHub Pages URL: username.github.io/repo-name/
+            const host = window.location.hostname;
+            const path = window.location.pathname;
+            if (host.endsWith(".github.io")) {
+                const username = host.replace(".github.io", "");
+                const repoName = path.split("/").filter(Boolean)[0];
+                if (username && repoName) {
+                    return `${username}/${repoName}`;
+                }
+            }
+            return "";
+        }
+
         function init() {
+            console.log("[admin] init start");
             token = localStorage.getItem(STORAGE_KEY_TOKEN) || "";
             repo = localStorage.getItem(STORAGE_KEY_REPO) || "";
+
+            // Auto-detect repo from GitHub Pages URL if not set
+            if (!repo) {
+                const detected = detectRepoFromUrl();
+                if (detected) {
+                    console.log("[admin] auto-detected repo:", detected);
+                    repo = detected;
+                    localStorage.setItem(STORAGE_KEY_REPO, repo);
+                }
+            }
+
+            console.log("[admin] token:", token ? "set" : "empty", "repo:", repo || "empty");
 
             if (token) {
                 verifyToken();
@@ -220,6 +247,7 @@
                 if (!repo) {
                     document.getElementById("repoSetup").style.display = "block";
                     repoDisplay.textContent = "לא הוגדר";
+                    sourcesBody.innerHTML = '<tr><td colspan="5" style="text-align: center; color: #f59e0b;">יש להגדיר ריפו למעלה כדי לטעון מקורות</td></tr>';
                 } else {
                     repoDisplay.textContent = repo;
                     loadSourcesFromRepo();
