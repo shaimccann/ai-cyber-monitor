@@ -2140,5 +2140,89 @@
     "title_he": "The Agile FedRAMP Playbook, Part 3: Preventative Risk Management by building Secure by Design",
     "summary_he": "The Agile FedRAMP Playbook, Part 3: Preventative Risk Management by building Secure by Design",
     "details_he": "The Agile FedRAMP Playbook, Part 3: Preventative Risk Management by building Secure by Design\n\nIn the third part of our series, we explore Preventative Risk Management. We discuss how shifting security into the development lifecycle helps organizations meet FedRAMP requirements."
+  },
+  {
+    "id": "22dd00e512bf5b1d",
+    "title_original": "We don&#8217;t have to have unsupervised killer robots",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+    "description": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-02-27T11:18:26-05:00",
+    "fetched_at": "2026-02-27T17:00:25.922720+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "We don&#8217;t have to have unsupervised killer robots",
+    "summary_he": "We don&#8217;t have to have unsupervised killer robots",
+    "details_he": "We don&#8217;t have to have unsupervised killer robots\n\nIt's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers […]"
+  },
+  {
+    "id": "1d60eeb167b99a34",
+    "title_original": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+    "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+    "description": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-27T16:23:58+00:00",
+    "fetched_at": "2026-02-27T17:00:26.480006+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+    "summary_he": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+    "details_he": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter\n\nWhile Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry."
+  },
+  {
+    "id": "ddd7eb7d6ba30e03",
+    "title_original": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+    "url": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
+    "description": "Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe.\nThe Go module, github[.]com/xinfeisoft/crypto, impersonates the legitimate \"golang.org/x/crypto\" codebase, but injects malicious code that's responsible for exfiltrating secrets entered via terminal password",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-02-27T21:03:00+05:30",
+    "fetched_at": "2026-02-27T17:00:27.823380+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+    "summary_he": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+    "details_he": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor\n\nCybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe.\nThe Go module, github[.]com/xinfeisoft/crypto, impersonates the legitimate \"golang.org/x/crypto\" codebase, but injects malicious code that's responsible for exfiltrating secrets entered via terminal password"
+  },
+  {
+    "id": "010db65ed575de5a",
+    "title_original": "Instagram to start alerting parents when children search for terms relating to self-harm",
+    "url": "https://therecord.media/instagram-alert-parents-children-search-terms-self-harm",
+    "description": "Parents in the U.S., U.K., Australia and Canada will soon receive alerts if a child repeatedly searches Instagram for content relating to self-harm or suicide.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-02-27T16:36:54+00:00",
+    "fetched_at": "2026-02-27T17:00:29.119168+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/instagram-alert-parents-children-search-terms-self-harm"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Instagram to start alerting parents when children search for terms relating to self-harm",
+    "summary_he": "Instagram to start alerting parents when children search for terms relating to self-harm",
+    "details_he": "Instagram to start alerting parents when children search for terms relating to self-harm\n\nParents in the U.S., U.K., Australia and Canada will soon receive alerts if a child repeatedly searches Instagram for content relating to self-harm or suicide."
   }
 ]
