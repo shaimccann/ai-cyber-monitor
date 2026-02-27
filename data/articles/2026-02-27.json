@@ -2224,5 +2224,47 @@
     "title_he": "Instagram to start alerting parents when children search for terms relating to self-harm",
     "summary_he": "Instagram to start alerting parents when children search for terms relating to self-harm",
     "details_he": "Instagram to start alerting parents when children search for terms relating to self-harm\n\nParents in the U.S., U.K., Australia and Canada will soon receive alerts if a child repeatedly searches Instagram for content relating to self-harm or suicide."
+  },
+  {
+    "id": "d0a2a7c2ab4d4b01",
+    "title_original": "Perplexity’s new Computer is another bet that users need many AI models",
+    "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+    "description": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\"",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-27T17:00:55+00:00",
+    "fetched_at": "2026-02-27T17:10:52.724074+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Perplexity’s new Computer is another bet that users need many AI models",
+    "summary_he": "Perplexity’s new Computer is another bet that users need many AI models",
+    "details_he": "Perplexity’s new Computer is another bet that users need many AI models\n\nPerplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\""
+  },
+  {
+    "id": "75f8797ede99c222",
+    "title_original": "The Case for Why Better Breach Transparency Matters",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters",
+    "description": "It's become a standard practice for organizations to disclose the bare minimum about a data breach, or worse — not disclose the incident at all.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-02-27T16:18:19+00:00",
+    "fetched_at": "2026-02-27T17:10:54.370965+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Case for Why Better Breach Transparency Matters",
+    "summary_he": "The Case for Why Better Breach Transparency Matters",
+    "details_he": "The Case for Why Better Breach Transparency Matters\n\nIt's become a standard practice for organizations to disclose the bare minimum about a data breach, or worse — not disclose the incident at all."
   }
 ]
