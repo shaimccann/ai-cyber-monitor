@@ -1,0 +1,396 @@
+{
+  "sources": [
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com",
+      "rss_url": "https://openai.com/news/rss.xml",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google",
+      "rss_url": "https://deepmind.google/blog/rss.xml",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "rss_url": "https://blog.google/technology/ai/rss",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/",
+      "rss_url": "https://www.microsoft.com/en-us/research/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "rss_url": "https://huggingface.co/blog/feed.xml",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "NVIDIA AI Blog",
+      "url": "https://blogs.nvidia.com",
+      "rss_url": "https://blogs.nvidia.com/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Amazon Science",
+      "url": "https://www.amazon.science",
+      "rss_url": "https://www.amazon.science/index.rss",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com",
+      "rss_url": null,
+      "category": "ai",
+      "enabled": true,
+      "method": "scrape"
+    },
+    {
+      "name": "Meta AI",
+      "url": "https://ai.meta.com/blog/",
+      "rss_url": null,
+      "category": "ai",
+      "enabled": true,
+      "method": "scrape"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com",
+      "rss_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "The Verge (AI)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "rss_url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Ars Technica (AI)",
+      "url": "https://arstechnica.com/ai/",
+      "rss_url": "https://arstechnica.com/ai/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "TechCrunch (AI)",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "rss_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "VentureBeat (AI)",
+      "url": "https://venturebeat.com/category/ai/",
+      "rss_url": "https://venturebeat.com/category/ai/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org",
+      "rss_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "arXiv (AI/CL/LG)",
+      "url": "https://arxiv.org",
+      "rss_url": "https://rss.arxiv.org/rss/cs.AI+cs.CL+cs.LG",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com",
+      "rss_url": "https://www.bleepingcomputer.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com",
+      "rss_url": "https://krebsonsecurity.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://thehackernews.com",
+      "rss_url": "https://feeds.feedburner.com/TheHackersNews",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Dark Reading",
+      "url": "https://www.darkreading.com",
+      "rss_url": "https://www.darkreading.com/rss.xml",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "SecurityWeek",
+      "url": "https://www.securityweek.com",
+      "rss_url": "https://feeds.feedburner.com/securityweek",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "The Record",
+      "url": "https://therecord.media",
+      "rss_url": "https://therecord.media/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "CyberScoop",
+      "url": "https://cyberscoop.com",
+      "rss_url": "https://cyberscoop.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "SANS ISC",
+      "url": "https://isc.sans.edu",
+      "rss_url": "https://isc.sans.edu/rssfeed_full.xml",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Bruce Schneier",
+      "url": "https://www.schneier.com",
+      "rss_url": "https://www.schneier.com/feed/atom/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/",
+      "rss_url": "https://www.microsoft.com/en-us/security/blog/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Google Project Zero",
+      "url": "https://googleprojectzero.blogspot.com",
+      "rss_url": "https://googleprojectzero.blogspot.com/feeds/posts/default",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "CrowdStrike Blog",
+      "url": "https://www.crowdstrike.com/blog/",
+      "rss_url": "https://www.crowdstrike.com/blog/feed",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Palo Alto Unit 42",
+      "url": "https://unit42.paloaltonetworks.com",
+      "rss_url": "https://unit42.paloaltonetworks.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com",
+      "rss_url": "https://blog.talosintelligence.com/feeds/posts/default",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Kaspersky Securelist",
+      "url": "https://securelist.com",
+      "rss_url": "https://securelist.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "SentinelOne Labs",
+      "url": "https://www.sentinelone.com",
+      "rss_url": "https://www.sentinelone.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Check Point Research",
+      "url": "https://research.checkpoint.com",
+      "rss_url": "https://research.checkpoint.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Israel Defense",
+      "url": "https://www.israeldefense.co.il/en",
+      "rss_url": "https://www.israeldefense.co.il/rss.xml",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Wiz Blog",
+      "url": "https://www.wiz.io/blog",
+      "rss_url": "https://www.wiz.io/feed/rss.xml",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Cybereason Blog",
+      "url": "https://www.cybereason.com/blog",
+      "rss_url": "https://www.cybereason.com/blog/rss.xml",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "CyberArk Blog",
+      "url": "https://www.cyberark.com/resources/blog",
+      "rss_url": "https://www.cyberark.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Pentera Blog",
+      "url": "https://pentera.io/blog",
+      "rss_url": "https://pentera.io/blog/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Sygnia Blog",
+      "url": "https://www.sygnia.co/blog",
+      "rss_url": "https://www.sygnia.co/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Cato Networks Blog",
+      "url": "https://www.catonetworks.com/blog",
+      "rss_url": "https://www.catonetworks.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "XM Cyber Blog",
+      "url": "https://xmcyber.com/blog",
+      "rss_url": "https://xmcyber.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Claroty Team82",
+      "url": "https://claroty.com/team82",
+      "rss_url": "https://claroty.com/team82/disclosure-dashboard/feed",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Check Point Blog",
+      "url": "https://blog.checkpoint.com",
+      "rss_url": "https://blog.checkpoint.com/feed/",
+      "category": "cyber",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Geektime (גיקטיים)",
+      "url": "https://www.geektime.co.il",
+      "rss_url": "https://www.geektime.co.il/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "NoCamels",
+      "url": "https://nocamels.com",
+      "rss_url": "https://nocamels.com/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Techtime (טקטיים)",
+      "url": "https://techtime.co.il",
+      "rss_url": "https://techtime.co.il/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Globes Tech (גלובס טכנולוגיה)",
+      "url": "https://www.globes.co.il",
+      "rss_url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=594",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Times of Israel Tech",
+      "url": "https://www.timesofisrael.com/tech-israel/",
+      "rss_url": "https://www.timesofisrael.com/tech-israel/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "AI Blog Israel (בלוג AI)",
+      "url": "https://www.ai-blog.co.il",
+      "rss_url": "https://www.ai-blog.co.il/feed/",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    }
+  ]
+}

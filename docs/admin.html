@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ניהול מקורות — Admin</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        .auth-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+        }
+        .auth-box {
+            background: #fff;
+            border-radius: 16px;
+            padding: 32px;
+            max-width: 440px;
+            width: 90%;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+        }
+        .auth-box h2 { margin-bottom: 8px; font-size: 1.3rem; }
+        .auth-box p { color: #555; font-size: 0.9rem; margin-bottom: 16px; line-height: 1.5; }
+        .auth-box input {
+            width: 100%; padding: 10px 12px; border: 1px solid #e2e8f0;
+            border-radius: 8px; font-family: monospace; font-size: 0.9rem;
+            direction: ltr; margin-bottom: 12px;
+        }
+        .auth-box input:focus { outline: none; border-color: #2563eb; box-shadow: 0 0 0 3px #dbeafe; }
+        .auth-error { color: #dc2626; font-size: 0.85rem; margin-bottom: 8px; min-height: 20px; }
+        .admin-content { display: none; }
+        .admin-content.visible { display: block; }
+        .save-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: #fef3c7; border-bottom: 2px solid #f59e0b;
+            padding: 12px 20px; display: none; align-items: center;
+            justify-content: space-between; gap: 12px;
+        }
+        .save-bar.visible { display: flex; }
+        .save-bar__text { font-size: 0.9rem; font-weight: 500; color: #92400e; }
+        .token-bar {
+            background: var(--color-surface); border-bottom: 1px solid var(--color-border);
+            padding: 8px 20px; display: flex; align-items: center;
+            justify-content: space-between; font-size: 0.8rem; color: var(--color-text-secondary);
+        }
+        .token-bar button { font-size: 0.8rem; }
+        .repo-setup { margin-bottom: 20px; }
+        .repo-setup input {
+            padding: 8px 12px; border: 1px solid var(--color-border);
+            border-radius: 8px; font-family: inherit; font-size: 0.9rem;
+            direction: ltr; width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Auth Overlay -->
+    <div class="auth-overlay" id="authOverlay">
+        <div class="auth-box">
+            <h2>התחברות לניהול מקורות</h2>
+            <p>
+                הכנס GitHub Personal Access Token כדי לנהל מקורות.
+                <br>ה-Token צריך הרשאת <strong>repo</strong> (קריאה + כתיבה).
+                <br><a href="https://github.com/settings/tokens/new?scopes=repo&description=AI-Cyber-Monitor-Admin" target="_blank" rel="noopener" style="color: #2563eb;">צור Token חדש</a>
+            </p>
+            <input type="password" id="tokenInput" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="off">
+            <div class="auth-error" id="authError"></div>
+            <div style="display: flex; gap: 8px;">
+                <button class="btn btn--primary" id="loginBtn">התחבר</button>
+                <a href="index.html" class="btn" style="text-decoration: none; background: #e2e8f0; color: #333;">חזרה לדשבורד</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Token Bar -->
+    <div class="token-bar" id="tokenBar" style="display: none;">
+        <span>מחובר לריפו: <strong id="repoDisplay"></strong></span>
+        <div style="display: flex; gap: 8px;">
+            <button class="btn btn--small" style="background: #e2e8f0;" onclick="window.location.href='index.html'">דשבורד</button>
+            <button class="btn btn--small btn--danger" id="logoutBtn">התנתק</button>
+        </div>
+    </div>
+
+    <!-- Save Bar (shows when there are unsaved changes) -->
+    <div class="save-bar" id="saveBar">
+        <span class="save-bar__text">יש שינויים שלא נשמרו</span>
+        <div style="display: flex; gap: 8px;">
+            <button class="btn btn--primary" id="saveBtn">שמור לריפו</button>
+            <button class="btn" style="background: #e2e8f0;" id="discardBtn">בטל שינויים</button>
+        </div>
+    </div>
+
+    <div class="admin-content" id="adminContent">
+        <header class="header">
+            <div class="container">
+                <h1 class="header__title">ניהול מקורות</h1>
+                <p class="header__subtitle">הוספה, הסרה והפעלה/השבתה של מקורות חדשות</p>
+            </div>
+        </header>
+
+        <main class="container">
+            <!-- Repo Setup -->
+            <section class="repo-setup" id="repoSetup" style="display: none;">
+                <div class="add-source-form">
+                    <h2>הגדרת ריפו</h2>
+                    <p style="color: var(--color-text-secondary); font-size: 0.9rem; margin-bottom: 12px;">
+                        הכנס את שם הריפו בפורמט <code>owner/repo-name</code>
+                    </p>
+                    <div style="display: flex; gap: 8px; align-items: center;">
+                        <input type="text" id="repoInput" placeholder="username/ai-cyber-monitor" dir="ltr">
+                        <button class="btn btn--primary" id="setRepoBtn">שמור</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Add Source Form -->
+            <section class="add-source-form">
+                <h2>הוספת מקור חדש</h2>
+                <div class="form-group">
+                    <label for="sourceName">שם המקור</label>
+                    <input type="text" id="sourceName" placeholder="לדוגמה: OpenAI Blog">
+                </div>
+                <div class="form-group">
+                    <label for="sourceUrl">כתובת האתר</label>
+                    <input type="url" id="sourceUrl" placeholder="https://openai.com" dir="ltr">
+                </div>
+                <div class="form-group">
+                    <label for="sourceRssUrl">כתובת RSS (אופציונלי)</label>
+                    <input type="url" id="sourceRssUrl" placeholder="https://openai.com/news/rss.xml" dir="ltr">
+                </div>
+                <div class="form-group">
+                    <label for="sourceCategory">קטגוריה</label>
+                    <select id="sourceCategory">
+                        <option value="ai">🤖 AI</option>
+                        <option value="cyber">🔒 סייבר</option>
+                    </select>
+                </div>
+                <button class="btn btn--primary" id="addSourceBtn">הוסף מקור</button>
+                <span id="addSourceMsg" style="margin-right: 12px; font-size: 0.9rem;"></span>
+            </section>
+
+            <!-- Sources Table -->
+            <section style="margin-top: 24px;">
+                <h2 style="margin-bottom: 16px; font-size: 1.3rem;">
+                    מקורות (<span id="sourceCount">0</span>)
+                </h2>
+                <table class="sources-table">
+                    <thead>
+                        <tr>
+                            <th>שם</th>
+                            <th>קטגוריה</th>
+                            <th>שיטה</th>
+                            <th>סטטוס</th>
+                            <th>פעולות</th>
+                        </tr>
+                    </thead>
+                    <tbody id="sourcesBody">
+                        <tr><td colspan="5" style="text-align: center;">טוען...</td></tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <!-- Status Log -->
+            <section style="margin-top: 24px; margin-bottom: 40px;">
+                <div id="statusLog" style="font-size: 0.85rem; color: var(--color-text-secondary);"></div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+    (function() {
+        "use strict";
+
+        const STORAGE_KEY_TOKEN = "acm_github_token";
+        const STORAGE_KEY_REPO = "acm_github_repo";
+        const SOURCES_PATH = "config/sources.json";
+
+        let token = "";
+        let repo = "";
+        let sources = [];
+        let originalJson = "";
+        let fileSha = "";
+        let hasChanges = false;
+
+        // DOM
+        const authOverlay = document.getElementById("authOverlay");
+        const tokenBar = document.getElementById("tokenBar");
+        const adminContent = document.getElementById("adminContent");
+        const saveBar = document.getElementById("saveBar");
+        const repoDisplay = document.getElementById("repoDisplay");
+        const authError = document.getElementById("authError");
+        const sourcesBody = document.getElementById("sourcesBody");
+        const sourceCount = document.getElementById("sourceCount");
+        const statusLog = document.getElementById("statusLog");
+
+        // === Auth ===
+
+        function init() {
+            token = localStorage.getItem(STORAGE_KEY_TOKEN) || "";
+            repo = localStorage.getItem(STORAGE_KEY_REPO) || "";
+
+            if (token) {
+                verifyToken();
+            }
+        }
+
+        async function verifyToken() {
+            try {
+                const resp = await ghApi("/user");
+                if (!resp.ok) throw new Error("Token לא תקין");
+                authOverlay.style.display = "none";
+                tokenBar.style.display = "flex";
+                adminContent.classList.add("visible");
+
+                if (!repo) {
+                    document.getElementById("repoSetup").style.display = "block";
+                    repoDisplay.textContent = "לא הוגדר";
+                } else {
+                    repoDisplay.textContent = repo;
+                    loadSourcesFromRepo();
+                }
+            } catch (e) {
+                localStorage.removeItem(STORAGE_KEY_TOKEN);
+                token = "";
+                authError.textContent = "Token לא תקין או פג תוקף. נסה שוב.";
+            }
+        }
+
+        document.getElementById("loginBtn").addEventListener("click", () => {
+            const val = document.getElementById("tokenInput").value.trim();
+            if (!val) {
+                authError.textContent = "נא להכניס Token";
+                return;
+            }
+            token = val;
+            localStorage.setItem(STORAGE_KEY_TOKEN, token);
+            authError.textContent = "";
+            verifyToken();
+        });
+
+        document.getElementById("tokenInput").addEventListener("keydown", (e) => {
+            if (e.key === "Enter") document.getElementById("loginBtn").click();
+        });
+
+        document.getElementById("logoutBtn").addEventListener("click", () => {
+            localStorage.removeItem(STORAGE_KEY_TOKEN);
+            token = "";
+            window.location.reload();
+        });
+
+        document.getElementById("setRepoBtn").addEventListener("click", () => {
+            const val = document.getElementById("repoInput").value.trim();
+            if (!val || !val.includes("/")) {
+                alert("פורמט נדרש: owner/repo-name");
+                return;
+            }
+            repo = val;
+            localStorage.setItem(STORAGE_KEY_REPO, repo);
+            repoDisplay.textContent = repo;
+            document.getElementById("repoSetup").style.display = "none";
+            loadSourcesFromRepo();
+        });
+
+        // === GitHub API ===
+
+        function ghApi(path, options = {}) {
+            const base = "https://api.github.com";
+            const url = path.startsWith("http") ? path : `${base}${path}`;
+            return fetch(url, {
+                ...options,
+                headers: {
+                    "Authorization": `Bearer ${token}`,
+                    "Accept": "application/vnd.github.v3+json",
+                    "Content-Type": "application/json",
+                    ...(options.headers || {}),
+                },
+            });
+        }
+
+        async function loadSourcesFromRepo() {
+            log("טוען מקורות מהריפו...");
+            try {
+                const resp = await ghApi(`/repos/${repo}/contents/${SOURCES_PATH}`);
+                if (!resp.ok) {
+                    if (resp.status === 404) {
+                        log("קובץ sources.json לא נמצא בריפו. יצור קובץ חדש בשמירה הראשונה.");
+                        sources = [];
+                        fileSha = "";
+                        originalJson = JSON.stringify({ sources: [] }, null, 2);
+                        renderSources();
+                        return;
+                    }
+                    throw new Error(`שגיאה ${resp.status}`);
+                }
+                const data = await resp.json();
+                fileSha = data.sha;
+                const content = atob(data.content.replace(/\n/g, ""));
+                const parsed = JSON.parse(content);
+                sources = parsed.sources || [];
+                originalJson = JSON.stringify({ sources }, null, 2);
+                renderSources();
+                log(`נטענו ${sources.length} מקורות מהריפו.`);
+            } catch (e) {
+                log(`שגיאה בטעינה: ${e.message}`);
+            }
+        }
+
+        async function saveToRepo() {
+            const newContent = JSON.stringify({ sources }, null, 2);
+            const encoded = btoa(unescape(encodeURIComponent(newContent)));
+
+            log("שומר שינויים לריפו...");
+            document.getElementById("saveBtn").disabled = true;
+
+            try {
+                const body = {
+                    message: `Update sources.json via admin dashboard`,
+                    content: encoded,
+                    branch: "main",
+                };
+                if (fileSha) body.sha = fileSha;
+
+                const resp = await ghApi(`/repos/${repo}/contents/${SOURCES_PATH}`, {
+                    method: "PUT",
+                    body: JSON.stringify(body),
+                });
+
+                if (!resp.ok) {
+                    const err = await resp.json();
+                    throw new Error(err.message || `שגיאה ${resp.status}`);
+                }
+
+                const result = await resp.json();
+                fileSha = result.content.sha;
+                originalJson = newContent;
+                hasChanges = false;
+                saveBar.classList.remove("visible");
+                log("השינויים נשמרו בהצלחה! הסריקה הבאה תשתמש במקורות המעודכנים.");
+            } catch (e) {
+                log(`שגיאה בשמירה: ${e.message}`);
+            }
+            document.getElementById("saveBtn").disabled = false;
+        }
+
+        // === Source Management ===
+
+        function markChanged() {
+            hasChanges = true;
+            saveBar.classList.add("visible");
+        }
+
+        function renderSources() {
+            sourceCount.textContent = sources.length;
+
+            if (sources.length === 0) {
+                sourcesBody.innerHTML = '<tr><td colspan="5" style="text-align: center;">אין מקורות</td></tr>';
+                return;
+            }
+
+            sourcesBody.innerHTML = sources.map((s, i) => {
+                const catBadge = s.category === "ai"
+                    ? '<span class="card__badge card__badge--ai">🤖 AI</span>'
+                    : '<span class="card__badge card__badge--cyber">🔒 סייבר</span>';
+                const statusBadge = s.enabled
+                    ? '<span class="status-badge status-badge--active">פעיל</span>'
+                    : '<span class="status-badge status-badge--disabled">מושבת</span>';
+                const method = s.method === "rss" ? "RSS" : "Scraping";
+
+                return `<tr>
+                    <td>
+                        <strong>${esc(s.name)}</strong><br>
+                        <a href="${esc(s.url)}" target="_blank" rel="noopener"
+                           style="font-size: 0.8rem; color: var(--color-link);">${esc(s.url)}</a>
+                    </td>
+                    <td>${catBadge}</td>
+                    <td>${method}</td>
+                    <td>${statusBadge}</td>
+                    <td style="white-space: nowrap;">
+                        <button class="btn btn--small ${s.enabled ? 'btn--danger' : 'btn--primary'}"
+                                data-action="toggle" data-index="${i}">
+                            ${s.enabled ? 'השבת' : 'הפעל'}
+                        </button>
+                        <button class="btn btn--small btn--danger" data-action="delete" data-index="${i}"
+                                style="margin-top: 4px;">מחק</button>
+                    </td>
+                </tr>`;
+            }).join("");
+        }
+
+        // Event delegation for table buttons
+        document.getElementById("sourcesBody").addEventListener("click", (e) => {
+            const btn = e.target.closest("[data-action]");
+            if (!btn) return;
+            const idx = parseInt(btn.dataset.index);
+            if (btn.dataset.action === "toggle") {
+                sources[idx].enabled = !sources[idx].enabled;
+                renderSources();
+                markChanged();
+            } else if (btn.dataset.action === "delete") {
+                if (confirm(`למחוק את "${sources[idx].name}"?`)) {
+                    sources.splice(idx, 1);
+                    renderSources();
+                    markChanged();
+                }
+            }
+        });
+
+        // Add source
+        document.getElementById("addSourceBtn").addEventListener("click", () => {
+            const name = document.getElementById("sourceName").value.trim();
+            const url = document.getElementById("sourceUrl").value.trim();
+            const rssUrl = document.getElementById("sourceRssUrl").value.trim();
+            const category = document.getElementById("sourceCategory").value;
+            const msg = document.getElementById("addSourceMsg");
+
+            if (!name || !url) {
+                msg.textContent = "נא למלא שם וכתובת";
+                msg.style.color = "#dc2626";
+                return;
+            }
+            if (sources.some(s => s.url === url)) {
+                msg.textContent = "מקור זה כבר קיים!";
+                msg.style.color = "#dc2626";
+                return;
+            }
+
+            sources.push({
+                name,
+                url,
+                rss_url: rssUrl || null,
+                category,
+                enabled: true,
+                method: rssUrl ? "rss" : "scrape",
+            });
+
+            renderSources();
+            markChanged();
+            document.getElementById("sourceName").value = "";
+            document.getElementById("sourceUrl").value = "";
+            document.getElementById("sourceRssUrl").value = "";
+            msg.textContent = "המקור נוסף! לחץ 'שמור לריפו' כדי לשמור.";
+            msg.style.color = "#059669";
+            setTimeout(() => { msg.textContent = ""; }, 4000);
+        });
+
+        // Save / Discard
+        document.getElementById("saveBtn").addEventListener("click", saveToRepo);
+        document.getElementById("discardBtn").addEventListener("click", () => {
+            const parsed = JSON.parse(originalJson);
+            sources = parsed.sources || [];
+            hasChanges = false;
+            saveBar.classList.remove("visible");
+            renderSources();
+            log("השינויים בוטלו.");
+        });
+
+        // Warn before leaving with unsaved changes
+        window.addEventListener("beforeunload", (e) => {
+            if (hasChanges) {
+                e.preventDefault();
+                e.returnValue = "";
+            }
+        });
+
+        // === Helpers ===
+
+        function esc(text) {
+            if (!text) return "";
+            const d = document.createElement("div");
+            d.textContent = text;
+            return d.innerHTML;
+        }
+
+        function log(text) {
+            statusLog.textContent = text;
+        }
+
+        // Init
+        init();
+    })();
+    </script>
+</body>
+</html>

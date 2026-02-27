@@ -1,0 +1,43 @@
+name: Daily AI & Cyber Scan
+on:
+  schedule:
+    - cron: '0 5 * * *'    # 05:00 UTC = 08:00 Israel
+  workflow_dispatch:         # Manual trigger
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scan RSS feeds
+        run: python scripts/scan.py
+
+      - name: Deduplicate articles
+        run: python scripts/deduplicate.py
+
+      - name: Summarize with Gemini
+        run: python scripts/summarize.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Send email report
+        run: python scripts/send_email.py
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/ docs/
+          git commit -m "Daily scan $(date +%Y-%m-%d)" || exit 0
+          git push

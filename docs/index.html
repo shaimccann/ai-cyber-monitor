@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI & Cyber Daily Monitor</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="header__title">AI & Cyber Daily Monitor</h1>
+            <p class="header__subtitle">עדכון יומי אוטומטי בתחומי בינה מלאכותית וסייבר</p>
+            <nav class="header__nav">
+                <a href="index.html" class="header__link header__link--active">עדכונים</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Filters -->
+        <section class="filters">
+            <div class="filters__row">
+                <div class="filters__group">
+                    <button class="filter-btn filter-btn--active" data-category="all">הכל</button>
+                    <button class="filter-btn" data-category="ai">🤖 AI</button>
+                    <button class="filter-btn" data-category="cyber">🔒 סייבר</button>
+                </div>
+                <div class="filters__group">
+                    <button class="filter-btn filter-btn--active" data-period="today">היום</button>
+                    <button class="filter-btn" data-period="week">השבוע</button>
+                    <button class="filter-btn" data-period="month">החודש</button>
+                </div>
+            </div>
+            <div class="filters__search">
+                <input type="text" id="searchInput" class="search-input" placeholder="חיפוש חופשי בכותרות ותקצירים...">
+            </div>
+            <div class="filters__date">
+                <label for="dateSelect">תאריך:</label>
+                <select id="dateSelect" class="date-select">
+                    <option value="">היום</option>
+                </select>
+            </div>
+        </section>
+
+        <!-- Stats -->
+        <section class="stats" id="stats">
+            <span class="stats__item" id="statsTotal">0 עדכונים</span>
+            <span class="stats__separator">|</span>
+            <span class="stats__item" id="statsAI">0 AI</span>
+            <span class="stats__separator">|</span>
+            <span class="stats__item" id="statsCyber">0 סייבר</span>
+        </section>
+
+        <!-- Articles Grid -->
+        <section class="articles" id="articlesGrid">
+            <div class="loading" id="loading">טוען עדכונים...</div>
+        </section>
+
+        <!-- No Results -->
+        <section class="no-results" id="noResults" style="display: none;">
+            <p>לא נמצאו עדכונים התואמים את החיפוש</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>AI & Cyber Daily Monitor — נוצר באופן אוטומטי באמצעות RSS, Gemini API ו-GitHub Actions</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
