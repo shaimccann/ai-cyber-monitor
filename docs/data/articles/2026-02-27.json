@@ -97,13 +97,9 @@
       {
         "name": "Google DeepMind",
         "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/"
-      },
-      {
-        "name": "Google AI Blog",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"
       }
     ],
-    "duplicate_count": 2,
+    "duplicate_count": 1,
     "title_he": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
     "summary_he": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
     "details_he": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed\n\nOur latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
@@ -2081,5 +2077,68 @@
     "title_he": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators",
     "summary_he": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses ",
     "details_he": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators\n\nOther noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach.The postIn Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicatorsappeared first onSecurityWeek."
+  },
+  {
+    "id": "a3034d3ef512c4ca",
+    "title_original": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released new details about RESURGE, a malicious implant used in zero-day attacks exploiting CVE-2025-0282 to breach Ivanti Connect Secure devices. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-27T10:57:04-05:00",
+    "fetched_at": "2026-02-27T16:18:33.543850+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
+    "summary_he": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
+    "details_he": "CISA warns that RESURGE malware can be dormant on Ivanti devices\n\nThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released new details about RESURGE, a malicious implant used in zero-day attacks exploiting CVE-2025-0282 to breach Ivanti Connect Secure devices. [...]"
+  },
+  {
+    "id": "5a493993f3ac819c",
+    "title_original": "EU lawmakers propose that youth under 16 be barred from social media without parental consent",
+    "url": "https://therecord.media/eu-lawmakers-propose-youth-under-16-social-media-parental-consent",
+    "description": "The opinion also states that social media access should not be allowed for children below age 13 under any circumstances.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-02-27T16:01:41+00:00",
+    "fetched_at": "2026-02-27T16:18:35.192971+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/eu-lawmakers-propose-youth-under-16-social-media-parental-consent"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "EU lawmakers propose that youth under 16 be barred from social media without parental consent",
+    "summary_he": "EU lawmakers propose that youth under 16 be barred from social media without parental consent",
+    "details_he": "EU lawmakers propose that youth under 16 be barred from social media without parental consent\n\nThe opinion also states that social media access should not be allowed for children below age 13 under any circumstances."
+  },
+  {
+    "id": "72891a5dbea904b1",
+    "title_original": "The Agile FedRAMP Playbook, Part 3: Preventative Risk Management by building Secure by Design",
+    "url": "https://www.wiz.io/blog/the-agile-fedramp-playbook-part-3-preventative-risk-management-by-building-secure",
+    "description": "In the third part of our series, we explore Preventative Risk Management. We discuss how shifting security into the development lifecycle helps organizations meet FedRAMP requirements.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-02-27T15:33:55+00:00",
+    "fetched_at": "2026-02-27T16:18:43.123904+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/the-agile-fedramp-playbook-part-3-preventative-risk-management-by-building-secure"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Agile FedRAMP Playbook, Part 3: Preventative Risk Management by building Secure by Design",
+    "summary_he": "The Agile FedRAMP Playbook, Part 3: Preventative Risk Management by building Secure by Design",
+    "details_he": "The Agile FedRAMP Playbook, Part 3: Preventative Risk Management by building Secure by Design\n\nIn the third part of our series, we explore Preventative Risk Management. We discuss how shifting security into the development lifecycle helps organizations meet FedRAMP requirements."
   }
 ]
