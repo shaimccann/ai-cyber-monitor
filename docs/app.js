@@ -280,7 +280,7 @@
     const escaped = escapeHtml(text);
     // Format section headers: "The Vulnerability:", "Active Exploitation:", etc.
     const formatted = escaped.replace(
-      /(?:^|\n)((?:The Vulnerability|Active Exploitation|Attacker Techniques|Official Response|Recommendations|Key Innovation|Technical Details|Industry Impact|Expert Reactions|Practical Implications)\s*:)/g,
+      /(?:^|\n)((?:The Vulnerability|Active Exploitation|Attacker Techniques|Impact|Official Response|Recommendations|Key Innovation|Technical Details|Industry Impact|Expert Reactions|Practical Implications)\s*:)/g,
       '\n<div class="card__detail-section"><strong>$1</strong></div>'
     );
     // Convert remaining newlines to <br>

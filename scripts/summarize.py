@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
-"""Summarization - Translates and summarizes articles to Hebrew using LLM."""
+"""Summarization - Fetches full article content and summarizes using LLM."""
 
 import json
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
 
+import requests
 import yaml
+from bs4 import BeautifulSoup
 
 from llm_provider import get_provider, load_config
 
@@ -20,6 +22,58 @@ logging.basicConfig(
     datefmt="%H:%M:%S",
 )
 log = logging.getLogger(__name__)
+
+HEADERS = {
+    "User-Agent": "AI-Cyber-Monitor/1.0 (News Aggregator; +https://github.com)",
+}
+
+
+def fetch_article_content(url, timeout=15):
+    """Fetch full article text from a URL using requests + BeautifulSoup."""
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=timeout)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        log.debug(f"  Could not fetch {url}: {e}")
+        return ""
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    # Remove noise elements
+    for tag in soup.find_all(["script", "style", "nav", "footer", "header",
+                              "aside", "form", "iframe", "noscript"]):
+        tag.decompose()
+
+    # Try to find the main article content
+    article_text = ""
+
+    # Strategy 1: <article> tag
+    article_tag = soup.find("article")
+    if article_tag:
+        article_text = article_tag.get_text(separator="\n", strip=True)
+
+    # Strategy 2: Common content containers
+    if len(article_text) < 200:
+        for selector in [
+            "[class*='article-body']", "[class*='post-content']",
+            "[class*='entry-content']", "[class*='story-body']",
+            "[class*='article-content']", "[class*='content-body']",
+            "main", "[role='main']",
+        ]:
+            el = soup.select_one(selector)
+            if el:
+                candidate = el.get_text(separator="\n", strip=True)
+                if len(candidate) > len(article_text):
+                    article_text = candidate
+
+    # Strategy 3: Collect all <p> tags as fallback
+    if len(article_text) < 200:
+        paragraphs = [p.get_text(strip=True) for p in soup.find_all("p")
+                      if len(p.get_text(strip=True)) > 40]
+        if paragraphs:
+            article_text = "\n".join(paragraphs)
+
+    return article_text[:8000]
 
 
 def summarize_articles():
@@ -50,15 +104,29 @@ def summarize_articles():
 
     for i, article in enumerate(to_summarize):
         title = article.get("title_original", "")
-        content = article.get("description", "")
+        description = article.get("description", "")
+        url = article.get("url", "")
         category = article.get("category", "ai")
-
-        # Use title + description as input
-        full_text = f"{title}\n\n{content}" if content else title
 
         log.info(f"  [{i+1}/{len(to_summarize)}] {title[:60]}...")
 
-        result = provider.summarize(title, full_text, category)
+        # Fetch full article content from URL
+        full_content = ""
+        if url:
+            log.info(f"    Fetching full article from {url[:80]}...")
+            full_content = fetch_article_content(url)
+            if full_content:
+                log.info(f"    Got {len(full_content)} chars of article text")
+            else:
+                log.info(f"    Could not fetch, using RSS description")
+
+        # Build the best possible content for the LLM
+        if full_content and len(full_content) > len(description or ""):
+            content = full_content
+        else:
+            content = description or ""
+
+        result = provider.summarize(title, content, category)
 
         # Update article with Hebrew content
         article["title_he"] = result.get("title_he", title)

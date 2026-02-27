@@ -17,10 +17,12 @@ log = logging.getLogger(__name__)
 SUMMARIZE_PROMPT = """You are a cybersecurity and AI news analyst. Analyze the following article thoroughly.
 Category: [{category}].
 
+IMPORTANT: The "summary" and "details" fields MUST contain DIFFERENT content. The summary is a brief overview. The details is a comprehensive structured analysis with much more information.
+
 Provide your response in this JSON format ONLY:
 {{
-  "summary": "A 2-3 sentence summary in English. Cover the key facts: what happened, who is affected, and why it matters.",
-  "details": "A structured detailed analysis in English using labeled sections. Use this EXACT format with section labels followed by colons:\\n\\nThe Vulnerability: [description of the vulnerability, CVE, severity score, affected products]\\n\\nActive Exploitation: [who is exploiting it, how long, what they achieved]\\n\\nAttacker Techniques: [specific TTPs, tools, methods used]\\n\\nOfficial Response: [vendor patches, CISA directives, government advisories]\\n\\nRecommendations: [what organizations should do to protect themselves]\\n\\nFor AI articles use these sections instead:\\n\\nKey Innovation: [what is new]\\n\\nTechnical Details: [how it works]\\n\\nIndustry Impact: [who is affected, market implications]\\n\\nExpert Reactions: [what analysts and experts say]\\n\\nPractical Implications: [what this means for users/organizations]\\n\\nOnly include sections that are relevant based on the article content. Each section should be 2-4 sentences.",
+  "summary": "A concise 2-3 sentence overview in English. State what happened, who is involved, and why it matters. Do NOT repeat the title.",
+  "details": "A comprehensive structured analysis in English. This must be MUCH longer and more detailed than the summary. Use labeled sections with this EXACT format — each section header on its own line followed by a colon:\\n\\nFor CYBER articles, use relevant sections from:\\n\\nThe Vulnerability: [CVE IDs, severity scores, affected products and versions, nature of the flaw]\\n\\nActive Exploitation: [threat actors involved, duration, scope of attacks, what was compromised]\\n\\nAttacker Techniques: [specific TTPs, tools, malware families, attack vectors]\\n\\nImpact: [number of affected organizations, data exposed, financial damage]\\n\\nOfficial Response: [vendor patches, CISA advisories, government statements, timelines]\\n\\nRecommendations: [specific steps organizations should take to protect themselves]\\n\\nFor AI articles, use relevant sections from:\\n\\nKey Innovation: [what is genuinely new, how it differs from prior work]\\n\\nTechnical Details: [architecture, methodology, benchmarks, performance metrics]\\n\\nIndustry Impact: [market implications, competitive landscape, affected sectors]\\n\\nExpert Reactions: [analyst opinions, community response, concerns raised]\\n\\nPractical Implications: [what this means for developers, businesses, end users]\\n\\nOnly include sections relevant to the article. Each section should be 2-4 sentences with specific facts from the article.",
   "category": "ai" or "cyber",
   "title_he": "Keep the original English title as-is"
 }}
@@ -72,7 +74,7 @@ class GeminiProvider:
         """Summarize and translate an article to Hebrew."""
         self._rate_limit()
         prompt = SUMMARIZE_PROMPT.format(
-            title=title, content=content[:3000], category=category
+            title=title, content=content[:6000], category=category
         )
         try:
             response = self.model.generate_content(prompt)
@@ -132,7 +134,7 @@ class ClaudeProvider:
     def summarize(self, title, content, category):
         self._rate_limit()
         prompt = SUMMARIZE_PROMPT.format(
-            title=title, content=content[:3000], category=category
+            title=title, content=content[:6000], category=category
         )
         try:
             message = self.client.messages.create(
