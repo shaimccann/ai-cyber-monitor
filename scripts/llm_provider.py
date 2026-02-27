@@ -14,24 +14,22 @@ CONFIG_DIR = PROJECT_ROOT / "config"
 
 log = logging.getLogger(__name__)
 
-SUMMARIZE_PROMPT = """אתה מתרגם וסוכם חדשות טכנולוגיה לעברית.
-קטגוריה של התוכן הזה: [{category}]. סכם אותו בפורמט הבא:
+SUMMARIZE_PROMPT = """You are a cybersecurity and AI news analyst. Summarize the following article.
+Category: [{category}].
 
-1. תקציר (שורה אחת בעברית, עד 20 מילים)
-2. עיקרי הדברים (פסקה בעברית, 3-5 משפטים)
-3. קטגוריה: ai או cyber
+Provide your response in this JSON format ONLY:
+{{
+  "summary": "A 2-3 sentence summary of the article in English. Be concise but informative.",
+  "details": "A detailed analysis in English (5-8 sentences). For cyber articles: focus on the vulnerability details, real-world exploitation, attacker techniques, official responses, and actionable recommendations. For AI articles: focus on the key innovation, impact, technical details, industry reactions, and practical implications.",
+  "category": "ai" or "cyber",
+  "title_he": "Keep the original English title as-is"
+}}
 
-כותרת: {title}
-תוכן:
+Title: {title}
+Content:
 {content}
 
-ענה בפורמט JSON בלבד:
-{{
-  "summary": "תקציר קצר בעברית",
-  "details": "פסקת עיקרי הדברים בעברית",
-  "category": "ai" או "cyber",
-  "title_he": "כותרת בעברית"
-}}"""
+Respond with valid JSON only, no markdown code blocks."""
 
 DEDUP_PROMPT = """בדוק אם שתי הכותרות הבאות מדברות על אותו נושא:
 כותרת 1: {title_a}

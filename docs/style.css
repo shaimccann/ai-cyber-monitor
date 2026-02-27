@@ -325,6 +325,15 @@ body {
     display: block;
 }
 
+.card__details-header {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 8px;
+}
+
 .card__details-text {
     font-size: 0.9rem;
     line-height: 1.7;

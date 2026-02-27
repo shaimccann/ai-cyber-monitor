@@ -49,13 +49,13 @@ def build_email_html(articles, config):
 
     def article_row(article):
         title = article.get("title_he", article.get("title_original", ""))
-        # Use description as summary if summary_he is same as title
+        # Use 2-3 sentence summary; fallback to description if summary equals title
         summary = article.get("summary_he", "")
         if not summary or summary == title:
             summary = article.get("description", "")
-        # Truncate summary to ~160 chars
-        if len(summary) > 160:
-            summary = summary[:160].rsplit(" ", 1)[0] + "..."
+        # Truncate summary to ~250 chars to fit 2-3 sentences
+        if len(summary) > 250:
+            summary = summary[:250].rsplit(" ", 1)[0] + "..."
         url = article.get("url", "#")
         source = article.get("source_name", "")
         cat = article.get("category", "ai")

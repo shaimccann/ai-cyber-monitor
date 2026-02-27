@@ -211,13 +211,14 @@
 
     const title = article.title_he || article.title_original || "No title";
     const fullDesc = article.description || "";
-    // Short summary: use summary_he only if different from title, else use description
+    // Summary: 2-3 sentence summary; use summary_he if meaningful, else description
     const rawSummary = article.summary_he && article.summary_he !== title
         ? article.summary_he
         : fullDesc;
-    const summary = truncateText(rawSummary, 160);
-    // Details: prefer details_he (if different from title), fallback to full description
-    const rawDetails = article.details_he && !article.details_he.startsWith(title)
+    const summary = truncateText(rawSummary, 250);
+    // Details: detailed analysis from LLM, fallback to full description
+    const rawDetails = article.details_he && article.details_he !== title
+        && article.details_he !== article.summary_he
         ? article.details_he
         : fullDesc;
     const details = rawDetails;
@@ -248,6 +249,7 @@
       <p class="card__summary">${escapeHtml(summary)}</p>
       <span class="card__expand-hint">Click to expand</span>
       <div class="card__details">
+        <div class="card__details-header">Detailed Analysis</div>
         <p class="card__details-text">${escapeHtml(details)}</p>
         ${articleLinkHtml}
         <div class="card__sources-section">
