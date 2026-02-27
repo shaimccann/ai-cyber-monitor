@@ -284,18 +284,28 @@
 
         async function loadSourcesFromRepo() {
             log("טוען מקורות מהריפו...");
+            console.log("[admin] loading sources from", repo);
             try {
-                const resp = await ghApi(`/repos/${repo}/contents/${SOURCES_PATH}`);
+                const apiUrl = `/repos/${repo}/contents/${SOURCES_PATH}`;
+                console.log("[admin] API call:", apiUrl);
+                const resp = await ghApi(apiUrl);
+                console.log("[admin] response status:", resp.status);
                 if (!resp.ok) {
+                    const errBody = await resp.text();
+                    console.error("[admin] error body:", errBody);
                     if (resp.status === 404) {
-                        log("קובץ sources.json לא נמצא בריפו. יצור קובץ חדש בשמירה הראשונה.");
+                        log("קובץ sources.json לא נמצא בריפו. בדוק שם ריפו: " + repo);
                         sources = [];
                         fileSha = "";
                         originalJson = JSON.stringify({ sources: [] }, null, 2);
                         renderSources();
                         return;
                     }
-                    throw new Error(`שגיאה ${resp.status}`);
+                    if (resp.status === 403) {
+                        log("אין הרשאה. ודא שה-Token כולל הרשאת Contents: Read לריפו " + repo);
+                        return;
+                    }
+                    throw new Error(`שגיאה ${resp.status}: ${errBody}`);
                 }
                 const data = await resp.json();
                 fileSha = data.sha;
@@ -303,13 +313,16 @@
                 const bytes = new Uint8Array(raw.length);
                 for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i);
                 const content = new TextDecoder("utf-8").decode(bytes);
+                console.log("[admin] decoded content length:", content.length);
                 const parsed = JSON.parse(content);
                 sources = parsed.sources || [];
                 originalJson = JSON.stringify({ sources }, null, 2);
                 renderSources();
                 log(`נטענו ${sources.length} מקורות מהריפו.`);
             } catch (e) {
+                console.error("[admin] load error:", e);
                 log(`שגיאה בטעינה: ${e.message}`);
+                sourcesBody.innerHTML = `<tr><td colspan="5" style="text-align: center; color: #dc2626;">שגיאה: ${esc(e.message)}</td></tr>`;
             }
         }
 
