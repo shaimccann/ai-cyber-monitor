@@ -95,7 +95,7 @@ def build_email_html(articles, config):
     logo_html = ""
     if logo_url:
         logo_html = f"""
-            <img src="{logo_url}" alt="Shai·eld" width="160" height="48"
+            <img src="{logo_url}" alt="Shai·eld" width="208" height="62"
                  style="display: block; margin: 0; opacity: 0.9;">"""
 
     html = f"""<!DOCTYPE html>

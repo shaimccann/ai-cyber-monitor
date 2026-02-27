@@ -58,7 +58,7 @@ body {
 }
 
 .header__logo img {
-    height: 60px;
+    height: 78px;
     width: auto;
     opacity: 0.9;
     transition: var(--transition);
