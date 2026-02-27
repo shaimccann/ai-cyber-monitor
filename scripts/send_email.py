@@ -133,6 +133,24 @@ def build_email_html(articles, config):
     return html
 
 
+def load_recipients():
+    """Load additional recipients from config/recipients.json."""
+    recipients_file = CONFIG_DIR / "recipients.json"
+    if not recipients_file.exists():
+        return []
+    try:
+        with open(recipients_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return [
+            r["email"]
+            for r in data.get("recipients", [])
+            if r.get("enabled", True) and r.get("email")
+        ]
+    except Exception as e:
+        log.warning(f"Could not load recipients.json: {e}")
+        return []
+
+
 def send_email():
     """Send daily email report."""
     config = load_config()
@@ -162,6 +180,15 @@ def send_email():
         log.info("No articles to send")
         return
 
+    # Build recipient list: primary + additional from recipients.json
+    all_recipients = [email_address]
+    extra = load_recipients()
+    for addr in extra:
+        if addr not in all_recipients:
+            all_recipients.append(addr)
+
+    log.info(f"Sending to {len(all_recipients)} recipients: {', '.join(all_recipients)}")
+
     # Build email
     subject_prefix = config["email"]["subject_prefix"]
     subject = f"{subject_prefix} — {today}"
@@ -171,7 +198,7 @@ def send_email():
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = email_address
-    msg["To"] = email_address
+    msg["To"] = ", ".join(all_recipients)
 
     msg.attach(MIMEText(html_content, "html", "utf-8"))
 
@@ -179,8 +206,8 @@ def send_email():
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
             server.login(email_address, email_password)
-            server.sendmail(email_address, email_address, msg.as_string())
-        log.info(f"Email sent successfully to {email_address}")
+            server.sendmail(email_address, all_recipients, msg.as_string())
+        log.info(f"Email sent successfully to {len(all_recipients)} recipients")
     except Exception as e:
         log.error(f"Failed to send email: {e}")
 

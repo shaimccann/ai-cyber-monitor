@@ -165,6 +165,35 @@
                 </table>
             </section>
 
+            <!-- Recipients Management -->
+            <section style="margin-top: 36px;">
+                <h2 style="margin-bottom: 8px; font-size: 1.3rem;">רשימת תפוצה לאימייל</h2>
+                <p style="color: var(--color-text-secondary); font-size: 0.9rem; margin-bottom: 16px;">
+                    הוסף כתובות אימייל שיקבלו את הדוח היומי. האימייל הראשי (EMAIL_ADDRESS) תמיד מקבל.
+                </p>
+                <div style="display: flex; gap: 8px; align-items: center; margin-bottom: 16px;">
+                    <input type="email" id="newRecipientEmail" placeholder="user@example.com" dir="ltr"
+                           style="padding: 8px 12px; border: 1px solid var(--color-border); border-radius: 8px; font-size: 0.9rem; width: 300px;">
+                    <input type="text" id="newRecipientName" placeholder="שם (אופציונלי)"
+                           style="padding: 8px 12px; border: 1px solid var(--color-border); border-radius: 8px; font-size: 0.9rem; width: 200px;">
+                    <button class="btn btn--primary" id="addRecipientBtn">הוסף</button>
+                    <span id="addRecipientMsg" style="font-size: 0.9rem;"></span>
+                </div>
+                <table class="sources-table" id="recipientsTable">
+                    <thead>
+                        <tr>
+                            <th>אימייל</th>
+                            <th>שם</th>
+                            <th>סטטוס</th>
+                            <th>פעולות</th>
+                        </tr>
+                    </thead>
+                    <tbody id="recipientsBody">
+                        <tr><td colspan="4" style="text-align: center;">טוען...</td></tr>
+                    </tbody>
+                </table>
+            </section>
+
             <!-- Status Log -->
             <section style="margin-top: 24px; margin-bottom: 40px;">
                 <div id="statusLog" style="font-size: 0.85rem; color: var(--color-text-secondary);"></div>
@@ -179,12 +208,16 @@
         const STORAGE_KEY_TOKEN = "acm_github_token";
         const STORAGE_KEY_REPO = "acm_github_repo";
         const SOURCES_PATH = "config/sources.json";
+        const RECIPIENTS_PATH = "config/recipients.json";
 
         let token = "";
         let repo = "";
         let sources = [];
         let originalJson = "";
         let fileSha = "";
+        let recipients = [];
+        let originalRecipientsJson = "";
+        let recipientsFileSha = "";
         let hasChanges = false;
 
         // DOM
@@ -197,6 +230,7 @@
         const sourcesBody = document.getElementById("sourcesBody");
         const sourceCount = document.getElementById("sourceCount");
         const statusLog = document.getElementById("statusLog");
+        const recipientsBody = document.getElementById("recipientsBody");
 
         // === Auth ===
 
@@ -251,6 +285,7 @@
                 } else {
                     repoDisplay.textContent = repo;
                     loadSourcesFromRepo();
+                    loadRecipientsFromRepo();
                 }
             } catch (e) {
                 localStorage.removeItem(STORAGE_KEY_TOKEN);
@@ -292,6 +327,7 @@
             repoDisplay.textContent = repo;
             document.getElementById("repoSetup").style.display = "none";
             loadSourcesFromRepo();
+            loadRecipientsFromRepo();
         });
 
         // === GitHub API ===
@@ -355,41 +391,170 @@
         }
 
         async function saveToRepo() {
-            const newContent = JSON.stringify({ sources }, null, 2);
-            const encoded = btoa(unescape(encodeURIComponent(newContent)));
-
             log("שומר שינויים לריפו...");
             document.getElementById("saveBtn").disabled = true;
 
             try {
-                const body = {
-                    message: `Update sources.json via admin dashboard`,
-                    content: encoded,
+                // Save sources
+                const newSourcesContent = JSON.stringify({ sources }, null, 2);
+                const sourcesEncoded = btoa(unescape(encodeURIComponent(newSourcesContent)));
+                const sourcesBody = {
+                    message: "Update sources.json via admin dashboard",
+                    content: sourcesEncoded,
                     branch: "main",
                 };
-                if (fileSha) body.sha = fileSha;
+                if (fileSha) sourcesBody.sha = fileSha;
 
                 const resp = await ghApi(`/repos/${repo}/contents/${SOURCES_PATH}`, {
                     method: "PUT",
-                    body: JSON.stringify(body),
+                    body: JSON.stringify(sourcesBody),
                 });
-
                 if (!resp.ok) {
                     const err = await resp.json();
                     throw new Error(err.message || `שגיאה ${resp.status}`);
                 }
-
                 const result = await resp.json();
                 fileSha = result.content.sha;
-                originalJson = newContent;
+                originalJson = newSourcesContent;
+
+                // Save recipients
+                await saveRecipientsToRepo();
+
                 hasChanges = false;
                 saveBar.classList.remove("visible");
-                log("השינויים נשמרו בהצלחה! הסריקה הבאה תשתמש במקורות המעודכנים.");
+                log("השינויים נשמרו בהצלחה! הסריקה הבאה תשתמש בהגדרות המעודכנות.");
             } catch (e) {
                 log(`שגיאה בשמירה: ${e.message}`);
             }
             document.getElementById("saveBtn").disabled = false;
         }
+
+        // === Recipients ===
+
+        async function loadRecipientsFromRepo() {
+            try {
+                const resp = await ghApi(`/repos/${repo}/contents/${RECIPIENTS_PATH}`);
+                if (!resp.ok) {
+                    if (resp.status === 404) {
+                        recipients = [];
+                        recipientsFileSha = "";
+                        originalRecipientsJson = JSON.stringify({ recipients: [] }, null, 2);
+                        renderRecipients();
+                        return;
+                    }
+                    throw new Error(`שגיאה ${resp.status}`);
+                }
+                const data = await resp.json();
+                recipientsFileSha = data.sha;
+                const raw = atob(data.content.replace(/\n/g, ""));
+                const bytes = new Uint8Array(raw.length);
+                for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i);
+                const content = new TextDecoder("utf-8").decode(bytes);
+                const parsed = JSON.parse(content);
+                recipients = parsed.recipients || [];
+                originalRecipientsJson = JSON.stringify({ recipients }, null, 2);
+                renderRecipients();
+            } catch (e) {
+                console.error("[admin] recipients load error:", e);
+                recipientsBody.innerHTML = `<tr><td colspan="4" style="text-align: center; color: #dc2626;">שגיאה: ${esc(e.message)}</td></tr>`;
+            }
+        }
+
+        async function saveRecipientsToRepo() {
+            const newContent = JSON.stringify({ recipients }, null, 2);
+            const encoded = btoa(unescape(encodeURIComponent(newContent)));
+            try {
+                const body = {
+                    message: "Update recipients.json via admin dashboard",
+                    content: encoded,
+                    branch: "main",
+                };
+                if (recipientsFileSha) body.sha = recipientsFileSha;
+                const resp = await ghApi(`/repos/${repo}/contents/${RECIPIENTS_PATH}`, {
+                    method: "PUT",
+                    body: JSON.stringify(body),
+                });
+                if (!resp.ok) {
+                    const err = await resp.json();
+                    throw new Error(err.message || `שגיאה ${resp.status}`);
+                }
+                const result = await resp.json();
+                recipientsFileSha = result.content.sha;
+                originalRecipientsJson = newContent;
+                return true;
+            } catch (e) {
+                log(`שגיאה בשמירת נמענים: ${e.message}`);
+                return false;
+            }
+        }
+
+        function renderRecipients() {
+            if (recipients.length === 0) {
+                recipientsBody.innerHTML = '<tr><td colspan="4" style="text-align: center; color: var(--color-text-secondary);">אין נמענים נוספים. האימייל נשלח רק לכתובת הראשית.</td></tr>';
+                return;
+            }
+            recipientsBody.innerHTML = recipients.map((r, i) => {
+                const statusBadge = r.enabled !== false
+                    ? '<span class="status-badge status-badge--active">פעיל</span>'
+                    : '<span class="status-badge status-badge--disabled">מושבת</span>';
+                return `<tr>
+                    <td dir="ltr" style="font-family: monospace;">${esc(r.email)}</td>
+                    <td>${esc(r.name || "—")}</td>
+                    <td>${statusBadge}</td>
+                    <td style="white-space: nowrap;">
+                        <button class="btn btn--small ${r.enabled !== false ? 'btn--danger' : 'btn--primary'}"
+                                data-raction="toggle" data-rindex="${i}">
+                            ${r.enabled !== false ? 'השבת' : 'הפעל'}
+                        </button>
+                        <button class="btn btn--small btn--danger" data-raction="delete" data-rindex="${i}"
+                                style="margin-top: 4px;">מחק</button>
+                    </td>
+                </tr>`;
+            }).join("");
+        }
+
+        // Recipients table event delegation
+        recipientsBody.addEventListener("click", (e) => {
+            const btn = e.target.closest("[data-raction]");
+            if (!btn) return;
+            const idx = parseInt(btn.dataset.rindex);
+            if (btn.dataset.raction === "toggle") {
+                recipients[idx].enabled = recipients[idx].enabled === false ? true : false;
+                renderRecipients();
+                markChanged();
+            } else if (btn.dataset.raction === "delete") {
+                if (confirm(`להסיר את ${recipients[idx].email}?`)) {
+                    recipients.splice(idx, 1);
+                    renderRecipients();
+                    markChanged();
+                }
+            }
+        });
+
+        // Add recipient
+        document.getElementById("addRecipientBtn").addEventListener("click", () => {
+            const email = document.getElementById("newRecipientEmail").value.trim();
+            const name = document.getElementById("newRecipientName").value.trim();
+            const msg = document.getElementById("addRecipientMsg");
+            if (!email || !email.includes("@")) {
+                msg.textContent = "נא להכניס כתובת אימייל תקינה";
+                msg.style.color = "#dc2626";
+                return;
+            }
+            if (recipients.some(r => r.email === email)) {
+                msg.textContent = "כתובת זו כבר ברשימה!";
+                msg.style.color = "#dc2626";
+                return;
+            }
+            recipients.push({ email, name: name || "", enabled: true });
+            renderRecipients();
+            markChanged();
+            document.getElementById("newRecipientEmail").value = "";
+            document.getElementById("newRecipientName").value = "";
+            msg.textContent = "נמען נוסף! לחץ 'שמור לריפו' כדי לשמור.";
+            msg.style.color = "#059669";
+            setTimeout(() => { msg.textContent = ""; }, 4000);
+        });
 
         // === Source Management ===
 
@@ -531,9 +696,12 @@
         document.getElementById("discardBtn").addEventListener("click", () => {
             const parsed = JSON.parse(originalJson);
             sources = parsed.sources || [];
+            const parsedR = JSON.parse(originalRecipientsJson || '{"recipients":[]}');
+            recipients = parsedR.recipients || [];
             hasChanges = false;
             saveBar.classList.remove("visible");
             renderSources();
+            renderRecipients();
             log("השינויים בוטלו.");
         });
 
