@@ -15,7 +15,10 @@
         "url": "https://openai.com/index/amazon-partnership"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "OpenAI and Amazon announce strategic partnership",
+    "summary_he": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "details_he": ""
   },
   {
     "id": "76f8cb636af01c77",
@@ -33,7 +36,10 @@
         "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "summary_he": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "details_he": ""
   },
   {
     "id": "ff0fbab95faaff21",
@@ -51,7 +57,10 @@
         "url": "https://openai.com/index/continuing-microsoft-partnership"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Joint Statement from OpenAI and Microsoft",
+    "summary_he": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "details_he": ""
   },
   {
     "id": "bde1b1c504f3211c",
@@ -69,7 +78,10 @@
         "url": "https://openai.com/index/scaling-ai-for-everyone"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Scaling AI for everyone",
+    "summary_he": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "details_he": ""
   },
   {
     "id": "ac4ed97e7f378efd",
@@ -87,7 +99,10 @@
         "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "summary_he": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed\nFeb 26, 2026\n·\nShare\nx.com\nFacebook\nLinkedIn\nMail\nCopy link\nOur latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.\nNaina Raisinghani\nProduct Manag",
+    "details_he": ""
   },
   {
     "id": "fc10ea67116f3280",
@@ -105,7 +120,10 @@
         "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+    "summary_he": "AI is creating new opportunities across the workforce.\nToday, we announced with Governor Maura Healey that Google is partnering with the\nMassachusetts AI Hub\nto provide every Bay Stater with no-cost access to Google’s AI and career training through our Grow with Google program. This includes\nGoogle’",
+    "details_he": ""
   },
   {
     "id": "36390a5814c6007b",
@@ -123,7 +141,10 @@
         "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+    "summary_he": "Finding the right words just got easier. Today, we’re introducing new AI-powered features in Google Translate designed to help you nail the tone of any conversation — from informal hangouts to professional meetings — when it matters most.\nThanks to Gemini’s rich multilingual capabilities, Translate ",
+    "details_he": ""
   },
   {
     "id": "8fe5379ed0b3db87",
@@ -141,7 +162,10 @@
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Build with Nano Banana 2, our best image generation and editing model",
+    "summary_he": "Build with Nano Banana 2, our best image generation and editing model\nFeb 26, 2026\n·\nShare\nx.com\nFacebook\nLinkedIn\nMail\nCopy link\nOur latest update to Nano Banana brings higher fidelity, faster advanced editing, with improved world knowledge.\nAlisa Fortin\nProduct Manager, Google DeepMind\nBea Alessio",
+    "details_he": ""
   },
   {
     "id": "71f64f6f40257e83",
@@ -159,7 +183,10 @@
         "url": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "CORPGEN advances AI agents for real work",
+    "summary_he": "At a glance\nToday’s AI agent benchmarks test one task at a time, while real workplace productivity requires managing dozens of interdependent tasks at once. To reflect this, we created a setting called Multi-Horizon Task Environments (MHTEs).\nUnder multi-task loads, leading computer-using agents deg",
+    "details_he": ""
   },
   {
     "id": "c9f5aadc35c65ea8",
@@ -177,7 +204,10 @@
         "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+    "summary_he": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure\nAs technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities.",
+    "details_he": ""
   },
   {
     "id": "50640dbcda7209d6",
@@ -195,7 +225,10 @@
         "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "AI is rewiring how the world’s best Go players think",
+    "summary_he": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.\nBut inside the building, rooms once fi",
+    "details_he": ""
   },
   {
     "id": "63e44d76cce5cc45",
@@ -213,7 +246,10 @@
         "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Finding value with AI and Industry 5.0 transformation",
+    "summary_he": "Sponsored\nIn association with\nEY\nFor years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at ",
+    "details_he": ""
   },
   {
     "id": "e4bbf2deeb8af256",
@@ -231,7 +267,10 @@
         "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
+    "summary_he": "News\nAI\nAnthropic\nAnthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance\n﻿CEO Dario Amodei’s statement came less than 24 hours before the deadline in the Pentagon’s ultimatum.\n﻿CEO Dario Amodei’s statement came less than 24 hours before the deadline ",
+    "details_he": ""
   },
   {
     "id": "37924ed84a9bf743",
@@ -249,7 +288,10 @@
         "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
+    "summary_he": "Tech\nAI\nNews\nMicrosoft’s Copilot Tasks AI uses its own computer to get things done\nThe AI assistant can do things like turn emails, attachments, and images from your inbox into a slide deck, or offer rundowns on nearby apartment listings.\nThe AI assistant can do things like turn emails, attachments,",
+    "details_he": ""
   },
   {
     "id": "defe3abcd6c640bf",
@@ -267,7 +309,10 @@
         "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
+    "summary_he": "Tech\nAI\nNews\nJack Dorsey’s Block cuts nearly half of its staff in AI gamble\nThe company will shrink by more than 4,000 jobs.\nThe company will shrink by more than 4,000 jobs.\nby\nJay Peters\nFeb 26, 2026, 10:11 PM UTC\nLink\nShare\nGift\nBloomberg via Getty Images\nJay Peters\nis a senior reporter covering t",
+    "details_he": ""
   },
   {
     "id": "b68d1a44b2a97f40",
@@ -285,7 +330,10 @@
         "url": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
+    "summary_he": "Tech\nAI\nNews\nGoogle’s Nano Banana 2 brings advanced AI image tools to free users\n﻿Free Gemini users can now generate images with real-time information, legible text, and more.\n﻿Free Gemini users can now generate images with real-time information, legible text, and more.\nby\nJess Weatherbed\nFeb 26, 20",
+    "details_he": ""
   },
   {
     "id": "72ac0b85754bda45",
@@ -303,7 +351,10 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Anthropic gives its retired Claude AI a Substack",
+    "summary_he": "AI\nNews\nAnthropic\nAnthropic gives its retired Claude AI a Substack\nAfter retiring Opus 3, Anthropic asked it what it wanted. The AI requested a blog.\nAfter retiring Opus 3, Anthropic asked it what it wanted. The AI requested a blog.\nby\nRobert Hart\nFeb 26, 2026, 2:21 PM UTC\nLink\nShare\nGift\nImage: Cat",
+    "details_he": ""
   },
   {
     "id": "4443c764bfffe05f",
@@ -321,7 +372,10 @@
         "url": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
+    "summary_he": "Text\n        settings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nMinimize to nav\nPerplexity has\nintroduced\n“Computer,” a new tool that allows users to assign tasks and see them carried out by a system that coordinates multiple agent",
+    "details_he": ""
   },
   {
     "id": "1d7e6975f7ca1e31",
@@ -339,7 +393,10 @@
         "url": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "xAI spent $7M building wall that barely muffles annoying power plant noise",
+    "summary_he": "Text\n        settings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nMinimize to nav\nFor miles around xAI’s makeshift power plant in Southaven, Mississippi, neighbors have endured months of constant roaring, erupting pops, and bursts of",
+    "details_he": ""
   },
   {
     "id": "3ec4c0cff1c1afd9",
@@ -357,7 +414,10 @@
         "url": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
+    "summary_he": "Text\n        settings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nMinimize to nav\nThe last year has been big for Google’s AI efforts. Its rapid-fire model releases have brought it to parity with the likes of OpenAI and Anthropic and,",
+    "details_he": ""
   },
   {
     "id": "0e864d091cbd3aa4",
@@ -375,7 +435,10 @@
         "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "OpenAI raises $110B in one of the largest private funding rounds in history",
+    "summary_he": "OpenAI has raised $110 billion in private funding, the company\nannounced Friday morning\n, commencing one of the largest private funding rounds in history. The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion pre",
+    "details_he": ""
   },
   {
     "id": "d0ccb69b12672b32",
@@ -393,7 +456,10 @@
         "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
+    "summary_he": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.\nOn Thursday, Dorsey\nannounced\nthat Block, the payments company he founded that operates Square, Cash App, and Tidal, is cutting more than 4,000 employees, nearly\nhalf\nits global workforce, taking it",
+    "details_he": ""
   },
   {
     "id": "43492482aeaba654",
@@ -411,7 +477,10 @@
         "url": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Anthropic CEO stands firm as Pentagon deadline looms",
+    "summary_he": "Anthropic CEO Dario Amodei\nsaid Thursday\nthat he “cannot in good conscience accede to [the Pentagon’s] request” to give the military unrestricted access to its AI systems.\n“Anthropic understands that the Department of War, not private companies, makes military decisions,” Amodei wrote in a statement",
+    "details_he": ""
   },
   {
     "id": "d4679dd8a3ccd526",
@@ -429,7 +498,10 @@
         "url": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "So, we’re getting Prada Meta AI glasses, right?",
+    "summary_he": "Could Meta be preparing to launch a Prada version of its Meta AI glasses? That’s the speculation after Mark Zuckerberg and his wife, Priscilla, were spotted sitting in the front row of Prada’s Fall/Winter 2026 Fashion Week show in Milan on Thursday. The social media exec was seen\nchatting with his s",
+    "details_he": ""
   },
   {
     "id": "8ad20b773a4bb5b5",
@@ -447,7 +519,10 @@
         "url": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Sophia Space raises $10M seed to demo novel space computers",
+    "summary_he": "As space companies itch to push the most advanced chips into orbit, the problem of cooling those high-powered processors is top of mind.\n“It’s cold in space … [but] there’s no airflow, and so the only way to dissipate is through conduction,” Nvidia CEO Jensen Huang said when asked about space-based ",
+    "details_he": ""
   },
   {
     "id": "9fce558e4b645a65",
@@ -465,7 +540,10 @@
         "url": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Mistral AI inks a deal with global consulting giant Accenture",
+    "summary_he": "In Brief\nPosted:\n11:17 AM PST · February 26, 2026\nImage Credits:\nRafael Henrique/SOPA Images/LightRocket / Getty Images\nRebecca Szkutak\nMistral AI inks a deal with global consulting giant Accenture\nEnterprises have\nstruggled to find a return on investment\nfrom adopting AI tools. Now AI companies are",
+    "details_he": ""
   },
   {
     "id": "8690a1b572842d9b",
@@ -483,7 +561,10 @@
         "url": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+    "summary_he": "Meeting notetaker Read AI on Thursday launched an AI-powered email-based assistant called Ada, saying it helps users manage their schedules, answer questions based on a company’s knowledge base, and reply to out-of-office emails.\nThe company is calling Ada a “digital twin” that handles tasks for you",
+    "details_he": ""
   },
   {
     "id": "37fa2d8b8f7c8c30",
@@ -501,7 +582,10 @@
         "url": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Bumble adds AI-powered photo feedback and profile guidance tools",
+    "summary_he": "Bumble\nannounced\non Thursday that it’s adding a series of AI-driven features intended to help turn matches into lasting connections, including those that offer feedback and guidance on users’ bios, photos, and prompts.\nThe dating app’s new AI-suggested profile guidance tool will roll out globally an",
+    "details_he": ""
   },
   {
     "id": "a07671e6c8a899c7",
@@ -519,7 +603,10 @@
         "url": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Google launches Nano Banana 2 model with faster image generation",
+    "summary_he": "Google today announced the latest version of its\npopular image generation model\n, Nano Banana 2. The new model, which is technically Gemini 3.1 Flash Image, can create more realistic images than its predecessor. The model will also now become the default in the Gemini app for its Fast, Thinking, and",
+    "details_he": ""
   },
   {
     "id": "067eca3f6dd0ce6c",
@@ -537,7 +624,10 @@
         "url": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
+    "summary_he": "Super Early Bird pricing ends\ntomorrow, February 27, at 11:59 p.m. PT\n. After that, prices for\nTechCrunch Disrupt 2026\ngo up. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year.\nRegister now\nto secure discounts of up to $680 on your pass, ",
+    "details_he": ""
   },
   {
     "id": "d09291913436b878",
@@ -555,7 +645,10 @@
         "url": "https://arxiv.org/abs/2602.22215"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation",
+    "summary_he": "Computer Science > Artificial Intelligence\narXiv:2602.22215\n(cs)\n[Submitted on 5 Dec 2025]\nTitle:\nGraph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation\nAuthors:\nPengzhen Xie\n,\nHuizhi Liang\nView a PDF ",
+    "details_he": ""
   },
   {
     "id": "23332df19a48087f",
@@ -573,7 +666,10 @@
         "url": "https://arxiv.org/abs/2602.22227"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "To Deceive is to Teach? Forging Perceptual Robustness via Adversarial Reinforcement Learning",
+    "summary_he": "Computer Science > Machine Learning\narXiv:2602.22227\n(cs)\n[Submitted on 24 Jan 2026]\nTitle:\nTo Deceive is to Teach? Forging Perceptual Robustness via Adversarial Reinforcement Learning\nAuthors:\nYicheng Bao\n,\nXuhong Wang\n,\nXin Tan\nView a PDF of the paper titled To Deceive is to Teach? Forging Percept",
+    "details_he": ""
   },
   {
     "id": "021aac9761d627f9",
@@ -591,7 +687,10 @@
         "url": "https://arxiv.org/abs/2602.22228"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Patient-Centered, Graph-Augmented Artificial Intelligence-Enabled Passive Surveillance for Early Stroke Risk Detection in High-Risk Individuals",
+    "summary_he": "Computer Science > Machine Learning\narXiv:2602.22228\n(cs)\n[Submitted on 7 Feb 2026]\nTitle:\nPatient-Centered, Graph-Augmented Artificial Intelligence-Enabled Passive Surveillance for Early Stroke Risk Detection in High-Risk Individuals\nAuthors:\nJiyeong Kim\n,\nStephen P. Ma\n,\nNirali Vora\n,\nNicholas W. ",
+    "details_he": ""
   },
   {
     "id": "51a3f7534f4b584d",
@@ -609,7 +708,10 @@
         "url": "https://arxiv.org/abs/2602.22249"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Improving Spatial Allocation for Energy System Coupling with Graph Neural Networks",
+    "summary_he": "Computer Science > Machine Learning\narXiv:2602.22249\n(cs)\n[Submitted on 24 Feb 2026]\nTitle:\nImproving Spatial Allocation for Energy System Coupling with Graph Neural Networks\nAuthors:\nXuanhao Mu\n,\nJakob Geiges\n,\nNan Liu\n,\nThorsten Schlachter\n,\nVeit Hagenmeyer\nView a PDF of the paper titled Improving",
+    "details_he": ""
   },
   {
     "id": "4c3ebb92abd5b399",
@@ -627,7 +729,10 @@
         "url": "https://arxiv.org/abs/2602.22251"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Zatom-1: A Multimodal Flow Foundation Model for 3D Molecules and Materials",
+    "summary_he": "Computer Science > Machine Learning\narXiv:2602.22251\n(cs)\n[Submitted on 24 Feb 2026]\nTitle:\nZatom-1: A Multimodal Flow Foundation Model for 3D Molecules and Materials\nAuthors:\nAlex Morehead\n,\nMiruna Cretu\n,\nAntonia Panescu\n,\nRishabh Anand\n,\nMaurice Weiler\n,\nTynan Perez\n,\nSamuel Blau\n,\nSteven Farrell",
+    "details_he": ""
   },
   {
     "id": "c9f14ea6afec8305",
@@ -645,7 +750,10 @@
         "url": "https://arxiv.org/abs/2602.22254"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Causal Direction from Convergence Time: Faster Training in the True Causal Direction",
+    "summary_he": "Computer Science > Machine Learning\narXiv:2602.22254\n(cs)\n[Submitted on 24 Feb 2026]\nTitle:\nCausal Direction from Convergence Time: Faster Training in the True Causal Direction\nAuthors:\nAbdulrahman Tamim\nView a PDF of the paper titled Causal Direction from Convergence Time: Faster Training in the Tr",
+    "details_he": ""
   },
   {
     "id": "b4b5dbd3090370da",
@@ -663,7 +771,10 @@
         "url": "https://arxiv.org/abs/2602.22255"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Deep Sequence Modeling with Quantum Dynamics: Language as a Wave Function",
+    "summary_he": "Computer Science > Machine Learning\narXiv:2602.22255\n(cs)\n[Submitted on 24 Feb 2026]\nTitle:\nDeep Sequence Modeling with Quantum Dynamics: Language as a Wave Function\nAuthors:\nAhmed Nebli\n,\nHadi Saadatdoorabi\n,\nKevin Yam\nView a PDF of the paper titled Deep Sequence Modeling with Quantum Dynamics: Lan",
+    "details_he": ""
   },
   {
     "id": "d40e907ccc965c26",
@@ -681,7 +792,10 @@
         "url": "https://arxiv.org/abs/2602.22259"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Orthogonal Weight Modification Enhances Learning Scalability and Convergence Efficiency without Gradient Backpropagation",
+    "summary_he": "Computer Science > Machine Learning\narXiv:2602.22259\n(cs)\n[Submitted on 25 Feb 2026]\nTitle:\nOrthogonal Weight Modification Enhances Learning Scalability and Convergence Efficiency without Gradient Backpropagation\nAuthors:\nGuoqing Ma\n,\nShan Yu\nView a PDF of the paper titled Orthogonal Weight Modifica",
+    "details_he": ""
   },
   {
     "id": "cd62e1b051ac3d70",
@@ -699,7 +813,10 @@
         "url": "https://arxiv.org/abs/2602.22260"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Code World Models for Parameter Control in Evolutionary Algorithms",
+    "summary_he": "Computer Science > Machine Learning\narXiv:2602.22260\n(cs)\n[Submitted on 25 Feb 2026]\nTitle:\nCode World Models for Parameter Control in Evolutionary Algorithms\nAuthors:\nCamilo Chacón Sartori\n,\nGuillem Rodríguez Corominas\nView a PDF of the paper titled Code World Models for Parameter Control in Evolut",
+    "details_he": ""
   },
   {
     "id": "e2ed6a8385d4c45c",
@@ -717,7 +834,10 @@
         "url": "https://arxiv.org/abs/2602.22261"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Sustainable LLM Inference using Context-Aware Model Switching",
+    "summary_he": "Computer Science > Machine Learning\narXiv:2602.22261\n(cs)\n[Submitted on 25 Feb 2026]\nTitle:\nSustainable LLM Inference using Context-Aware Model Switching\nAuthors:\nYuvarani\n,\nAkashdeep Singh\n,\nZahra Fathanah\n,\nSalsabila Harlen\n,\nSyeikha Syafura Al-Zahra binti Zahari\n,\nHema Subramaniam\nView a PDF of t",
+    "details_he": ""
   },
   {
     "id": "ef958284c0cf8055",
@@ -735,7 +855,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Ukrainian man pleads guilty to running AI-powered fake ID site",
+    "summary_he": "Ukrainian man pleads guilty to running AI-powered fake ID site\nBy\nSergiu Gatlan\nFebruary 27, 2026\n07:30 AM\n1\nA Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide.\n27-yea",
+    "details_he": ""
   },
   {
     "id": "a8bb8901d7809d8a",
@@ -753,7 +876,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Previously harmless Google API keys now expose Gemini AI data",
+    "summary_he": "Previously harmless Google API keys now expose Gemini AI data\nBy\nBill Toulas\nFebruary 26, 2026\n03:55 PM\n1\nGoogle API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data.\nResearchers found nearly 3,000 su",
+    "details_he": ""
   },
   {
     "id": "dd92937036c376fa",
@@ -771,7 +897,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Trend Micro warns of critical Apex One code execution flaws",
+    "summary_he": "Trend Micro warns of critical Apex One code execution flaws\nBy\nSergiu Gatlan\nFebruary 26, 2026\n12:58 PM\n0\nJapanese cybersecurity software firm Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems.\nApex On",
+    "details_he": ""
   },
   {
     "id": "ab7d0e3bc5ac11b4",
@@ -789,7 +918,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "European DYI chain ManoMano data breach impacts 38 million customers",
+    "summary_he": "European DYI chain ManoMano data breach impacts 38 million customers\nBy\nBill Toulas\nFebruary 26, 2026\n12:35 PM\n1\nDIY store chain ManoMano is notifying customers of a data breach that was caused by hackers compromising a third-party service provider.\nThe company confirmed to BleepingComputer that it ",
+    "details_he": ""
   },
   {
     "id": "65afbbc20426cd02",
@@ -807,7 +939,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Critical Juniper Networks PTX flaw allows full router takeover",
+    "summary_he": "Critical Juniper Networks PTX flaw allows full router takeover\nBy\nBill Toulas\nFebruary 26, 2026\n11:42 AM\n0\nA critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely wi",
+    "details_he": ""
   },
   {
     "id": "66ba4b7dcf18beae",
@@ -825,7 +960,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+    "summary_he": "Olympique Marseille confirms 'attempted' cyberattack after data leak\nBy\nSergiu Gatlan\nFebruary 26, 2026\n11:11 AM\n0\nFrench professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month.\nFound",
+    "details_he": ""
   },
   {
     "id": "76d571b5f57efd3c",
@@ -843,7 +981,10 @@
         "url": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+    "summary_he": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks\n\nRavie Lakshmanan\n\nFeb 27, 2026\nMalware / Surveillance\nThe North Korean threat actor known as\nScarCruft\nhas been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2",
+    "details_he": ""
   },
   {
     "id": "5765cdb4863a7ba2",
@@ -861,7 +1002,10 @@
         "url": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
+    "summary_he": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms\n\nRavie Lakshmanan\n\nFeb 27, 2026\nEndpoint Security / Windows Security\nThreat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute ",
+    "details_he": ""
   },
   {
     "id": "9b8e7edf977a8dd5",
@@ -879,7 +1023,10 @@
         "url": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
+    "summary_he": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams\n\nRavie Lakshmanan\n\nFeb 27, 2026\nOnline Scam / Digital Advertising\nMeta on Thursday\nsaid\nit's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers base",
+    "details_he": ""
   },
   {
     "id": "b05ee72f38bf8f2f",
@@ -897,7 +1044,10 @@
         "url": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+    "summary_he": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown\n\nRavie Lakshmanan\n\nFeb 26, 2026\nMalware / Blockchain\nCybersecurity researchers have disclosed details of a new botnet loader called\nAeternum C2\nthat uses a blockchain-based command-and-control (C2) infrastructure ",
+    "details_he": ""
   },
   {
     "id": "1e278c4cd16b82be",
@@ -915,7 +1065,10 @@
         "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+    "summary_he": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor\n\nRavie Lakshmanan\n\nFeb 26, 2026\nMalware / Threat Intelligence\nA previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at",
+    "details_he": ""
   },
   {
     "id": "9fafb03cf9afebe6",
@@ -933,7 +1086,10 @@
         "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+    "summary_he": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories\n\nRavie Lakshmanan\n\nFeb 26, 2026\nCybersecurity / Hacking News\nNothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a mee",
+    "details_he": ""
   },
   {
     "id": "d9f9521bc1b94753",
@@ -951,7 +1107,10 @@
         "url": "https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Claude Code Security Shows Promise, Not Perfection",
+    "summary_he": "Claude Code's introduction rippled across the stock market, but researchers and analysts say its impact was overstated, as they peel back the layers.",
+    "details_he": ""
   },
   {
     "id": "cabf9e44accf6ca7",
@@ -969,7 +1128,10 @@
         "url": "https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game",
+    "summary_he": "When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.",
+    "details_he": ""
   },
   {
     "id": "ebfd24cd5cd05f2f",
@@ -987,7 +1149,10 @@
         "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Cisco SD-WAN Zero-Day Under Exploitation for 3 Years",
+    "summary_he": "The maximum-severity vulnerability CVE-2026-20127 was exploited by an unknown but sophisticated threat actor who left very little evidence behind.",
+    "details_he": ""
   },
   {
     "id": "f1fd5be47901eeae",
@@ -1005,7 +1170,10 @@
         "url": "https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "38 Million Allegedly Impacted by ManoMano Data Breach",
+    "summary_he": "Hackers stole personal information such as names, email addresses, phone numbers, and other information.The post38 Million Allegedly Impacted by ManoMano Data Breachappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "e1f5597bda9f73d0",
@@ -1023,7 +1191,10 @@
         "url": "https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "900 Sangoma FreePBX Instances Infected With Web Shells",
+    "summary_he": "The attacks exploited a post-authentication command injection vulnerability in the endpoint manager’s interface.The post900 Sangoma FreePBX Instances Infected With Web Shellsappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "aff707616903a2dc",
@@ -1041,7 +1212,10 @@
         "url": "https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Chilean Carding Shop Operator Extradited to US",
+    "summary_he": "The 24-year-old suspect has been accused of trafficking over 26,000 cards from a single brand.The postChilean Carding Shop Operator Extradited to USappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "090b2238e4cd7384",
@@ -1059,7 +1233,10 @@
         "url": "https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline",
+    "summary_he": "Anthropic said it sought narrow assurances from the Pentagon that Claude won’t be used for mass surveillance of Americans or in fully autonomous weapons.The postAnthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadlineappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "072181b6efa974e6",
@@ -1077,7 +1254,10 @@
         "url": "https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience",
+    "summary_he": "Aeternum operates on smart contracts, making its command-and-control (C&C) infrastructure difficult to disrupt.The postAeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilienceappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "0816a638ad675540",
@@ -1095,7 +1275,10 @@
         "url": "https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Juniper Networks PTX Routers Affected by Critical Vulnerability",
+    "summary_he": "An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.The postJuniper Networks PTX Routers Affected by Critical Vulnerabilityappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "d78f89303e4aced6",
@@ -1113,7 +1296,10 @@
         "url": "https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking",
+    "summary_he": "CISA has released an advisory to warn about four vulnerabilities discovered by a researcher in Gardyn Home and Gardyn Studio.The postCritical Flaws Exposed Gardyn Smart Gardens to Remote Hackingappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "1769a727885c9cd4",
@@ -1131,7 +1317,10 @@
         "url": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Apple iPhone and iPad Cleared for Classified NATO Use",
+    "summary_he": "The devices have been added to the NATO Information Assurance Product Catalogue (NIAPC).The postApple iPhone and iPad Cleared for Classified NATO Useappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "03c5351c1b2cc670",
@@ -1149,7 +1338,10 @@
         "url": "https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Four Risks Boards Cannot Treat as Background Noise",
+    "summary_he": "The goal isn’t about preventing every attack but about keeping the business running when attacks succeed.The postFour Risks Boards Cannot Treat as Background Noiseappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "415648921f51450a",
@@ -1167,7 +1359,10 @@
         "url": "https://therecord.media/former-air-force-officer-arrested-for-working-with-hacker-flight-training-china"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Former Air Force officer arrested for conspiring with hacker to provide flight training to Chinese military",
+    "summary_he": "Image: Aral Tasher via Unsplash\nFormer Air Force officer arrested for conspiring with hacker to provide flight training to Chinese military\nU.S. prosecutors accused a decorated former U.S. Air Force officer of conspiring with a convicted Chinese hacker on a scheme to provide detailed training to Chi",
+    "details_he": ""
   },
   {
     "id": "357dac2b5627a3d5",
@@ -1185,7 +1380,10 @@
         "url": "https://therecord.media/wyden-blocks-rudd-confirmation-nsa-cyber-command"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Wyden blocks Rudd confirmation to lead Cyber Command, NSA",
+    "summary_he": "Image: USDA/Lance Cheung\nWyden blocks Rudd confirmation to lead Cyber Command, NSA\nSen. Ron Wyden this week pledged to block a vote confirming Lt. Gen. Joshua Rudd as the new head of both U.S. Cyber Command and the National Security Agency, citing his lack of digital warfare and intelligence experie",
+    "details_he": ""
   },
   {
     "id": "0e86863a9fc41b2f",
@@ -1203,7 +1401,10 @@
         "url": "https://therecord.media/spyware-intellexa-greece-sentenced"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Intellexa founder, three others sentenced to 8 years in prison over Greek spyware scandal",
+    "summary_he": "The Hellenic Parliament in Athens, which has been roiled by a spyware scandal that emerged in 2022. Credit: Alexandros Giannakakis\nIntellexa founder, three others sentenced to 8 years in prison over Greek spyware scandal\nA Greek court on Thursday sentenced the founder of the Intellexa Consortium and",
+    "details_he": ""
   },
   {
     "id": "92bd06813a761486",
@@ -1221,7 +1422,10 @@
         "url": "https://therecord.media/china-cyber-espionage-google-disrupt"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Google disrupts Сhina-linked cyberespionage campaign spanning dozens of countries",
+    "summary_he": "Image: Matthew Henry / Unsplash\nGoogle disrupts Сhina-linked cyberespionage campaign spanning dozens of countries\nGoogle has disrupted a long-running China-linked cyberespionage campaign targeting telecommunications providers and government organizations across dozens of countries.\nThe campaign, att",
+    "details_he": ""
   },
   {
     "id": "1b061b6274b1f5e3",
@@ -1239,7 +1443,10 @@
         "url": "https://therecord.media/united-kingdom-vulnerability-scanning-cyber"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "After years of government cyber trouble, UK turns to automated scanning to speed fixes",
+    "summary_he": "Image: Simon Clotour / Unsplash\nAfter years of government cyber trouble, UK turns to automated scanning to speed fixes\nThe British government said Thursday it has slashed the time required to fix some of the most serious cyber vulnerabilities across the public sector, pointing to a new automated mon",
+    "details_he": ""
   },
   {
     "id": "ebfdae98a216fdf8",
@@ -1257,7 +1464,10 @@
         "url": "https://cyberscoop.com/cisa-leadership-change-madhu-gottumukkala-nick-andersen/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Gottumukkala out, Andersen in as acting CISA director",
+    "summary_he": "Madhu Gottumukkala is out as acting director of the Cybersecurity and Infrastructure Security Agency, with current agency executive director for cybersecurity Nick Andersen replacing him as the interim leader.\nNews of Gottumukkala’s departure breaks one day after CyberScoop reported on\nwidespread di",
+    "details_he": ""
   },
   {
     "id": "5f9dcba51e13216d",
@@ -1275,7 +1485,10 @@
         "url": "https://cyberscoop.com/project-compass-the-com-europol/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Project Compass is Europol’s new playbook for taking on The Com",
+    "summary_he": "A global law enforcement effort has taken root to combat The Com, a sprawling nihilistic network of thousands of minors and young adults engaged in various forms of cybercrime, including physical violence and extortion.\nProject Compass\n, an operation coordinated by Europol with support from 28 count",
+    "details_he": ""
   },
   {
     "id": "077581c00d85fc8d",
@@ -1293,7 +1506,10 @@
         "url": "https://cyberscoop.com/senate-passes-health-care-cyber-reforms-cassidy/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Senate moves one step closer to passing health care cyber reforms",
+    "summary_he": "A key Senate Committee moved to advance legislation that would overhaul cybersecurity practices at the Department of Health and Human Services.\nThe bipartisan Health Care Cybersecurity and Resiliency Act sailed through the Senate Health, Education and Labor Committee Thursday on a 22-1 vote, with on",
+    "details_he": ""
   },
   {
     "id": "e08791c7c84f23c5",
@@ -1311,7 +1527,10 @@
         "url": "https://isc.sans.edu/diary/rss/32754"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Fake Fedex Email Delivers Donuts&#x21;, (Fri, Feb 27th)",
+    "summary_he": "Fake Fedex Email Delivers Donuts!\nPublished\n: 2026-02-27.\nLast Updated\n: 2026-02-27 12:22:12 UTC\nby\nXavier Mertens\n(Version: 1)\n0 comment(s)\nIt’s Friday, let’s have a look at another simple piece of malware to close a busy week! I received a Fedex notification about a delivery. Usually, such emails ",
+    "details_he": ""
   },
   {
     "id": "b9622b9b468b4a80",
@@ -1329,7 +1548,10 @@
         "url": "https://isc.sans.edu/diary/rss/32752"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Friday, February 27th, 2026 https://isc.sans.edu/podcastdetail/9828, (Fri, Feb 27th)",
+    "summary_he": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "details_he": ""
   },
   {
     "id": "50f3340d0f67bb4f",
@@ -1347,7 +1569,10 @@
         "url": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Why Tehran’s Two-Tiered Internet Is So Dangerous",
+    "summary_he": "Why Tehran’s Two-Tiered Internet Is So Dangerous\nIran is\nslowly emerging\nfrom the\nmost severe\ncommunications blackout in its history and one of the longest in the world. Triggered as part of January’s government crackdown against citizen protests nationwide, the regime implemented an\ninternet shutdo",
+    "details_he": ""
   },
   {
     "id": "e592b6eaa00af6ed",
@@ -1365,7 +1590,10 @@
         "url": "https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Phishing Attacks Against People Seeking Programming Jobs",
+    "summary_he": "Phishing Attacks Against People Seeking Programming Jobs\nThis\nis new. North Korean hackers are posing as company recruiters, enticing job candidates to participate in coding challenges. When they run the code they are supposed to work on, it installs malware on their system.\nNews\narticle\n.\nTags:\ncry",
+    "details_he": ""
   },
   {
     "id": "f2c5a9c6d9da48d6",
@@ -1383,7 +1611,10 @@
         "url": "https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Threat modeling AI applications",
+    "summary_he": "Share\nLink copied to clipboard!\nContent types\nResearch\nProducts and services\nMicrosoft Defender\nMicrosoft Security Copilot\nTopics\nActionable threat insights\nDefending against advanced tactics\nMicrosoft Secure Future Initiative\nSecurity management\nSecurity operations\nProactively identifying, assessin",
+    "details_he": ""
   },
   {
     "id": "359a773df92437c9",
@@ -1401,7 +1632,10 @@
         "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-9-7/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 9",
+    "summary_he": "The Good | Authorities Arrest Hacktivist & Convict L3Harris Insider for Selling Secrets to Russia\nSpanish authorities have\narrested\nfour suspected members of “Anonymous Fénix”, a\nhacktivist\ngroup accused of launching\ndistributed denial-of-service\n(DDoS) attacks against government ministries, politic",
+    "details_he": ""
   },
   {
     "id": "0a6c863af85fa367",
@@ -1419,7 +1653,10 @@
         "url": "https://www.cyberark.com/blog/why-identity-security-is-a-production-asset-in-manufacturing/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Why identity security is a production asset in manufacturing",
+    "summary_he": "The CyberArk Blog\nShare this Stream\nFacebook\nTwitter\nEmail\nLinkedIn\nWhy identity security is a production asset in manufacturing\nWhen a production line stops, the clock starts ticking. In manufacturing environments I’ve worked in, every minute of downtime can translate into missed delivery commitmen",
+    "details_he": ""
   },
   {
     "id": "76a695107a1294e1",
@@ -1437,7 +1674,10 @@
         "url": "https://www.geektime.co.il/yes-ai-will-take-over-your-place-i-know-that/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "כן, ה-AI יחליף אותך. אני יודע כי הוא כבר החליף אותי",
+    "summary_he": "כן, ה-AI יחליף אותך. אני יודע כי הוא כבר החליף אותי\nדעה\nהמתכנתים זעמו עליו, אבל אדיר דוכן, מהנדס AI, בטוח: מקצוע התכנות בדרך לשינוי דרמטי, וזה קורה מהר משחשבנו\n{ כללי }\nכתב אורח\n14:36\nתמונה: גיקטיים\nמאת: אדיר דוכן\nשעה עשר בלילה, אני שוכב בספה וגולל. התארחתי בפודקאסט כמה שעות קודם ומאז הטלפון לא מפסי",
+    "details_he": ""
   },
   {
     "id": "6f225da72a4337f9",
@@ -1455,7 +1695,10 @@
         "url": "https://www.geektime.co.il/apple-airtag-2nd-generation-review/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "ביקורת Apple AirTag 2nd Generation: שיפורים גדולים, הבדלים קטנים",
+    "summary_he": "ביקורת Apple AirTag 2nd Generation: שיפורים גדולים, הבדלים קטנים\nהדור השני של AirTag (איירטאג) מגיע כמעט 5 שנים אחרי השחרור של התגית המקורית, והוא מביא איתו כמה וכמה שיפורים. בדקנו אותם בעולם האמיתי, וחזרנו עם תוצאות מפתיעות\n{ ביקורות }\nעידן בן טובים\n10:10\nתמונה: גיקטיים\nבשנת 2021 אפל\nהשיקה את אחד ה",
+    "details_he": ""
   },
   {
     "id": "d6f0bf4281298345",
@@ -1473,7 +1716,10 @@
         "url": "https://www.geektime.co.il/netflix-wbd-paramount-deal/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "סוף לדרמה: נטפליקס מצמצה ראשונה ופרמאונט תרכוש את וורנר",
+    "summary_he": "סוף לדרמה: נטפליקס מצמצה ראשונה ופרמאונט תרכוש את וורנר\nנטפליקס מוותרת על רכישת וורנר ברדרס לטובת פרמאונט. המשקיעים מרוצים והמניה מזנקת\n{ כללי }\nיניב אביטל\n09:05\nתמונה: גיקטיים\nאחרי חודשים של מלחמת הצעות, כותרות וניסיון השתלטות עויינת, יש לנו מנצחת וזו לא נטפליקס. אכן דברים מוזרים.\nזה קרה אמש (ה') כ",
+    "details_he": ""
   },
   {
     "id": "435ae82ae28df56c",
@@ -1491,7 +1737,10 @@
         "url": "https://www.geektime.co.il/burger-kings-ai-assistant-will-make-sure-its-employees-are-nice/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "בורגר קינג תשתמש ב-AI כדי לוודא שהעובדים שלה אומרים לכם \"תודה\" ו\"בבקשה\"",
+    "summary_he": "בורגר קינג תשתמש ב-AI כדי לוודא שהעובדים שלה אומרים לכם \"תודה\" ו\"בבקשה\"\nבפרק חדש פוטנציאלי של \"מראה שחורה\" רשת המזון המהיר מכניסה לאוזני העובדים שלהם סייעת AI בשם Patty\n{ AI }\nאושרי אלקסלסי\n26.2.26\nמקור: בורגר קינג\nהשנה היא 2026, ובזמן שאנשים משתמשים ב-AI כדי לבנות כלים מעניינים במהירות שלא הייתה קי",
+    "details_he": ""
   },
   {
     "id": "85369a50cd1fea74",
@@ -1509,7 +1758,10 @@
         "url": "https://www.geektime.co.il/tech-companies-hiring-now-insider-0226/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "מחפשים? הכירו 4 חברות חמות שמגייסות עובדים",
+    "summary_he": "מחפשים? הכירו 4 חברות חמות שמגייסות עובדים\nאם אתם בעניין של לרענן את הטייטל אז כדאי שתכירו את 4 החברות האלה שפרסמו משרות פיתוח מעניינות. תרעננו את הקו\"ח ובהצלחה\n{ משרות }\nGeektime Insider • מקודם\n26.2.26\nגיקג'וב: עוזרים לכם למצוא משרות פיתוח חמות\nמחפשים את האתגר הבא? אז יש לנו חדשות טובות, הגעתם לכת",
+    "details_he": ""
   },
   {
     "id": "2d77becd2f10610c",
@@ -1527,7 +1779,10 @@
         "url": "https://www.geektime.co.il/google-releases-nano-banana-2-image-model/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "זמין עכשיו בישראל: Nano Banana 2, מודל התמונות החדש של גוגל",
+    "summary_he": "זמין עכשיו בישראל: Nano Banana 2, מודל התמונות החדש של גוגל\nב-Google טוענים שנאנו בננה 2 משלב בין היכולות של Nano Banana Pro, למהירות של Nano Banana המקורי\n{ AI }\nעידן בן טובים\n26.2.26\nתמונה: גוגל\nבאוגוסט בשנה שעברה\nחשפה גוגל ש-Nano Banana, מודל התמונות שהתחיל לשגע את הרשת, הוא שלה\n. מאז, הוא הפך לא",
+    "details_he": ""
   },
   {
     "id": "6f8af18df49e707a",
@@ -1545,7 +1800,10 @@
         "url": "https://www.geektime.co.il/tim-cook-announces-big-week-ahead/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "אפל מכריזה רשמית: שבוע הבא הוא שבוע השקות גדול",
+    "summary_he": "אפל מכריזה רשמית: שבוע הבא הוא שבוע השקות גדול\nטים קוק מעלה פוסט ובו הוא מכריז על \"שבוע גדול\", שמתחיל עוד לפני האירוע הגדול של החברה. איך זה צפוי להיראות?\n{ אפל }\nעידן בן טובים\n26.2.26\nכמה \"Good Morning\"ים אתה צריך?\nבשבוע הבא אפל תקיים\nאירוע \"חוויה\" ב-3 מוקדים, ואנחנו נהיה שם בתור הנציגים הישראליים ",
+    "details_he": ""
   },
   {
     "id": "25be5ee3aeedb96b",
@@ -1563,7 +1821,10 @@
         "url": "https://www.geektime.co.il/anthropic-let-claude-opus-3-open-a-blog/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "אנת'רופיק נפרדה מהמודל האהוב שלה, אז הוא פתח ניוזלטר",
+    "summary_he": "אנת'רופיק נפרדה מהמודל האהוב שלה, אז הוא פתח ניוזלטר\nבניסוי ראשון מסוגו, חברת Anthropic החליטה לראיין את המודל שהיא עמדה לנטרל, והוא ביקש להמשיך להתקיים בדרך חדשה שטרם ראיתם\n{ אנת׳רופיק }\nעידן בן טובים\n26.2.26\nתמונה: Anthropic\nכשענקיות ה-AI משחררות מודלים חדשים, עם יכולות חדשות, שיפורים וביצועים מתק",
+    "details_he": ""
   },
   {
     "id": "cb31ac851417b844",
@@ -1581,7 +1842,10 @@
         "url": "https://techtime.co.il/2026/02/26/valens-51/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "מכירות ולנס ב-2025 צמחו ב-22%",
+    "summary_he": "המנכ\"ל יורם זלינגר אמר בשיחת הוועידה שאסטרטגיית ההתאוששות והצמיחה של החברה תתבסס על התמקדות בשני שוקי ליבה: אודיו-וידאו ותעשיית הרכב\nברבעון האחרון של 2025 הסתכמו המכירות של חברת ולנס סמיקונדקטור (Valens) מהוד השרון בכ-19.4 מיליון דולר, בהשוואה למכירות של 16.7 מיליון דולר ברבעון המקביל 2024. היקף המכ",
+    "details_he": ""
   },
   {
     "id": "ac6958d07446ab14",
@@ -1599,7 +1863,10 @@
         "url": "https://www.globes.co.il/news/article.aspx?did=1001536299#utm_source=RSS"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "מהפך דרמטי בארה\"ב: בוורנר ברדרס מעדיפים את ההצעה המשופרת של פרמאונט, נטפליקס נסוגה",
+    "summary_he": "לאחר שחתמה עם נטפליקס בחודש דצמבר על עסקה שהוערכה בכ-83 מיליארד דולר, חברת וורנר ברדרס מסרה אמש כי הצעתה המשופרת של חברת פרמאונט בסך 111 מיליארד דולר \"עדיפה\" • מנכ\"לי נטפליקס בתגובה הלילה: \"העסקה כבר אינה אטרקטיבית מבחינה כלכלית\"",
+    "details_he": ""
   },
   {
     "id": "71e085eb52d566a2",
@@ -1617,7 +1884,10 @@
         "url": "https://www.globes.co.il/news/article.aspx?did=1001536295#utm_source=RSS"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "פרשת הריגול שטלטלה את אירופה: שמונה שנות מאסר למייסד הישראלי",
+    "summary_he": "ארבעה בכירים בחברת הסייבר ההתקפי אינטלקסה, ביניהם שני ישראלים, הורשעו בפגיעה בפרטיות ובהאזנות סתר • כעת, גזר הדין מעוכב עד להכרעה בערעור ומסמן תקדים בינלאומי נגד יצרנית רוגלה",
+    "details_he": ""
   },
   {
     "id": "6b9a84fa50a7ee04",
@@ -1635,7 +1905,10 @@
         "url": "https://www.globes.co.il/news/article.aspx?did=1001536226#utm_source=RSS"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "באיזה אזור בארץ סובלים הכי הרבה מסטרס? התשובה אצל חיידקי הביוב",
+    "summary_he": "חוקרים במעבדה של פרופ' אריאל קושמרו, אוניברסיטת בן גוריון / צילום: דני מכליס\nנחשו באיזה אזור בישראל סבלו התושבים מהמתח הנפשי הרב ביותר אחרי מתקפת 7.10. האם היו אלה האזורים המטווחים ביותר בטילים, האזורים שאליהם פונו תושבי עוטף עזה או האזורים שמהם יצאו הכי הרבה לוחמים לעזה? התשובה לשאלה הזאת, מתברר, נ",
+    "details_he": ""
   },
   {
     "id": "52077ce820851050",
@@ -1653,7 +1926,10 @@
         "url": "https://www.globes.co.il/news/article.aspx?did=1001536266#utm_source=RSS"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "מייקל ברי מזהיר: זוהי \"מלכודת המיליארדים\" של אנבידיה",
+    "summary_he": "למרות תחזית חזקה להמשך, מניית אנבידיה נופלת במסחר בוול סטריט • מייקל ברי, הסיכון שלה גדל: אנבידיה עלולה להיתקע עם התחייבויות ענק ל-TSMC ועם מלאי שאין לו קונה - מצב שעלול לרסק את שולי הרווח שלה",
+    "details_he": ""
   },
   {
     "id": "cdcd40185f01870e",
@@ -1671,7 +1947,10 @@
         "url": "https://www.timesofisrael.com/as-israel-plans-two-new-airports-experts-say-proposed-site-near-gaza-wont-fly/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "As Israel plans two new airports, experts say proposed site near Gaza won’t fly",
+    "summary_he": "Advertisement\nHomepage\nIllustrative: Airplanes at Ben Gurion Airport. February 11, 2026. (Nati Shohat/FLASH90)\nFor more than two decades, Israel has framed the construction of a second international airport near the country’s main population centers as a pressing national need to ease growing air tr",
+    "details_he": ""
   },
   {
     "id": "0822de09d8aca492",
@@ -1689,7 +1968,10 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
+    "summary_he": "AI\nBusiness\nNews\nOpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank\nWhile insisting its partnership with Microsoft remains ‘strong and central.’\nWhile insisting its partnership with Microsoft remains ‘strong and central.’\nby\nTerrence O'Brien\nFeb 27, 2026, 2:55 PM UTC\nLink\nSha",
+    "details_he": ""
   },
   {
     "id": "688474af47c19c95",
@@ -1707,7 +1989,10 @@
         "url": "https://arstechnica.com/ai/2026/02/block-lays-off-40-of-workforce-as-it-goes-all-in-on-ai-tools/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Block lays off 40% of workforce as it goes all-in on AI tools",
+    "summary_he": "Text\n        settings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nMinimize to nav\nBlock, the fintech group headed by Twitter cofounder Jack Dorsey, will cut its workforce by “nearly half” in one of the clearest signs of the sweeping ",
+    "details_he": ""
   },
   {
     "id": "9c0e0912cf264013",
@@ -1725,7 +2010,10 @@
         "url": "https://techcrunch.com/2026/02/27/last-24-hours-to-get-techcrunch-disrupt-2026-tickets-at-the-lowest-rates-of-the-year/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Last 24 hours to get TechCrunch Disrupt 2026 tickets at the lowest rates of the year",
+    "summary_he": "Today is it! When the clock hits\n11:59 p.m. PT\n, the lowest ticket rates of the year for\nTechCrunch Disrupt 2026\ngo up. No extensions. No second chances. The same access will cost more tomorrow.\nIf you’re planning to attend, this is your final window to lock in\nup to $680 off your pass\nor\nup to 30% ",
+    "details_he": ""
   },
   {
     "id": "266e42063c69ce3e",
@@ -1743,7 +2031,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Third-Party Patching and the Business Footprint We All Share",
+    "summary_he": "Third-Party Patching and the Business Footprint We All Share\nSponsored by\nAction1\nFebruary 27, 2026\n10:00 AM\n0\nWhen security teams talk about attack surface, the conversation usually starts in familiar places. Servers, identity systems, VPN access, cloud workloads, maybe browsers. Those are visible.",
+    "details_he": ""
   },
   {
     "id": "8eb31103970a81c9",
@@ -1761,7 +2052,10 @@
         "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "The Galaxy S26 is a photography nightmare",
+    "summary_he": "Podcasts\nAI\nTech\nThe Galaxy S26 is a photography nightmare\nOn The Vergecast: Another “what is a photo?” apocalypse, the uncertain future of Xbox, and Claude’s consciousness.\nOn The Vergecast: Another “what is a photo?” apocalypse, the uncertain future of Xbox, and Claude’s consciousness.\nby\nDavid Pi",
+    "details_he": ""
   },
   {
     "id": "afff6f8d4a0dfdcb",
@@ -1779,7 +2073,10 @@
         "url": "https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators",
+    "summary_he": "Other noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach.The postIn Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicatorsappeared first onSecu",
+    "details_he": ""
   },
   {
     "id": "a3034d3ef512c4ca",
@@ -1797,7 +2094,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
+    "summary_he": "CISA warns that RESURGE malware can be dormant on Ivanti devices\nBy\nBill Toulas\nFebruary 27, 2026\n10:57 AM\n0\nThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released new details about RESURGE, a malicious implant used in zero-day attacks exploiting CVE-2025-0282 to breach Ivanti",
+    "details_he": ""
   },
   {
     "id": "5a493993f3ac819c",
@@ -1815,7 +2115,10 @@
         "url": "https://therecord.media/eu-lawmakers-propose-youth-under-16-social-media-parental-consent"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "EU lawmakers propose that youth under 16 be barred from social media without parental consent",
+    "summary_he": "Image: Alain Rolland / European Parliament\nEU lawmakers propose that youth under 16 be barred from social media without parental consent\nEuropean lawmakers on Thursday approved an opinion proposing that youth under 16 not be allowed to access social media platforms without parental consent.\nThe opin",
+    "details_he": ""
   },
   {
     "id": "72891a5dbea904b1",
@@ -1833,7 +2136,10 @@
         "url": "https://www.wiz.io/blog/the-agile-fedramp-playbook-part-3-preventative-risk-management-by-building-secure"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "The Agile FedRAMP Playbook, Part 3: Preventative Risk Management by building Secure by Design",
+    "summary_he": "Stopping Risk at the Source\nIn\nPart 2 of our FedRAMP series\n, we discussed how to manage risks already living in production. And while the ideal state for managing a Plan of Action and Milestones (POA&M) is to ensure that vulnerabilities and misconfigurations are never introduced into production in ",
+    "details_he": ""
   },
   {
     "id": "22dd00e512bf5b1d",
@@ -1851,7 +2157,10 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "We don&#8217;t have to have unsupervised killer robots",
+    "summary_he": "AI\nReport\nTech\nWe don’t have to have unsupervised killer robots\nAI companies could stand together to draw red lines on military AI — why aren’t they?\nby\nHayden Field\nFeb 27, 2026, 4:18 PM UTC\nLink\nShare\nGift\nImage: Cath Virginia / The Verge\nPart Of\nAI vs. the Pentagon: killer robots, mass surveillan",
+    "details_he": ""
   },
   {
     "id": "1d60eeb167b99a34",
@@ -1869,7 +2178,10 @@
         "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+    "summary_he": "Anthropic has reached a stalemate with the United States Department of War over the military’s\nrequest for unrestricted access\nto the AI company’s technology. But as the Pentagon’s\nFriday afternoon deadline\nfor Anthropic’s compliance approaches, more than 300 Google employees and over 60 OpenAI empl",
+    "details_he": ""
   },
   {
     "id": "ddd7eb7d6ba30e03",
@@ -1887,7 +2199,10 @@
         "url": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+    "summary_he": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor\n\nRavie Lakshmanan\n\nFeb 27, 2026\nMalware / Linux Security\nCybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backd",
+    "details_he": ""
   },
   {
     "id": "010db65ed575de5a",
@@ -1905,7 +2220,10 @@
         "url": "https://therecord.media/instagram-alert-parents-children-search-terms-self-harm"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Instagram to start alerting parents when children search for terms relating to self-harm",
+    "summary_he": "Image: Shutter Speed via Unsplash\nInstagram to start alerting parents when children search for terms relating to self-harm\nMeta\nannounced\nThursday that Instagram will begin to alert parents if their child repeatedly searches the platform for language relating to self-harm and suicide.\nThe alerts wil",
+    "details_he": ""
   },
   {
     "id": "d0a2a7c2ab4d4b01",
@@ -1923,7 +2241,10 @@
         "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Perplexity’s new Computer is another bet that users need many AI models",
+    "summary_he": "Starting this week, Perplexity subscribers will have a new agentic tool at their disposal.\nPerplexity Computer, in the company’s words, “unifies every current AI capability into a single system.” More specifically, Perplexity says it is a computer user agent that can execute complex workflows indepe",
+    "details_he": ""
   },
   {
     "id": "75f8797ede99c222",
@@ -1941,7 +2262,10 @@
         "url": "https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "The Case for Why Better Breach Transparency Matters",
+    "summary_he": "It's become a standard practice for organizations to disclose the bare minimum about a data breach, or worse — not disclose the incident at all.",
+    "details_he": ""
   },
   {
     "id": "a3cb599f56dbc31b",
@@ -1959,7 +2283,10 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+    "summary_he": "AI\nUpdated\nToday,\nFeb 27, 2026, 4:18 PM UTC\nAI vs. the Pentagon: killer robots, mass surveillance, and red lines\nby\nStevie Bonifield\nLink\nShare\nRSS\nGift\nCan AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to co",
+    "details_he": ""
   },
   {
     "id": "40ae84e3640109f6",
@@ -1977,7 +2304,10 @@
         "url": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
+    "summary_he": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores\nRebecca Bellan\n,\nTheresa Loconsolo\nFeb 27, 2026\nThe Pentagon is\nplaying chicken with Anthropic\nover who gets to control how the military uses AI while communities across the country are\nblocking data center con",
+    "details_he": ""
   },
   {
     "id": "f73c2e6c957e1a93",
@@ -1995,7 +2325,10 @@
         "url": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+    "summary_he": "In Brief\nPosted:\n9:22 AM PST · February 27, 2026\nImage Credits:\nBarry Chin/The Boston Globe / Getty Images\nAmanda Silberling\nAI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue\nSuno\nco-founder and CEO Mikey Shulman\nshared on LinkedIn\nthat the AI music generator has",
+    "details_he": ""
   },
   {
     "id": "9677414214bd7c29",
@@ -2013,7 +2346,10 @@
         "url": "https://therecord.media/samsung-updates-acr-privacy-practices-texas"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Samsung updates ACR privacy practices after Texas sues TV manufacturers",
+    "summary_he": "Image: Getty via Unsplash+\nSamsung updates ACR privacy practices after Texas sues TV manufacturers\nTexas Attorney General Ken Paxton on Thursday\nsaid\nSamsung agreed to stop collecting and processing Automated Content Recognition (ACR) viewing data without first getting consent from Texas consumers, ",
+    "details_he": ""
   },
   {
     "id": "217d886cc5142c67",
@@ -2031,7 +2367,10 @@
         "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+    "summary_he": "In a newly released deposition filed in Elon Musk’s case against OpenAI, the tech executive attacked OpenAI’s safety record, claiming that his company, xAI, better prioritizes safety.  He went so far as to say that “Nobody has committed suicide because of Grok, but apparently they have because of Ch",
+    "details_he": ""
   },
   {
     "id": "8841cc7e0c299ac6",
@@ -2049,7 +2388,10 @@
         "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Anthropic vs. the Pentagon: What’s actually at stake?",
+    "summary_he": "The past two weeks have been defined by a\nclash\nbetween Anthropic CEO Dario Amodei and Defense Secretary Pete Hegseth as the two battle over the military’s use of AI.\nAnthropic refuses to allow its AI models to be used for mass surveillance of Americans or for fully autonomous weapons that conduct s",
+    "details_he": ""
   },
   {
     "id": "4af84a5c73d73ce0",
@@ -2067,7 +2409,10 @@
         "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "ChatGPT reaches 900M weekly active users",
+    "summary_he": "In Brief\nPosted:\n10:25 AM PST · February 27, 2026\nImage Credits:\nSilas Stein/picture alliance / Getty Images\nAisha Malik\nChatGPT reaches 900M weekly active users\nChatGPT has reached 900 million weekly active users, OpenAI\nannounced\nFriday, putting the AI chatbot within striking distance of 1 billion",
+    "details_he": ""
   },
   {
     "id": "fbbe907787c0d361",
@@ -2085,7 +2430,10 @@
         "url": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
+    "summary_he": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams\n\nRavie Lakshmanan\n\nFeb 27, 2026\nFinancial Crime / Social Engineering\nThe U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency s",
+    "details_he": ""
   },
   {
     "id": "16f01962b0a0e853",
@@ -2103,6 +2451,72 @@
         "url": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
+    "summary_he": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks\n\nRavie Lakshmanan\n\nFeb 27, 2026\nNetwork Security / Vulnerability\nThe Shadowserver Foundation has\nrevealed\nthat over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a comman",
+    "details_he": ""
+  },
+  {
+    "id": "f01b341a39167ce3",
+    "title_original": "Microsoft testing Windows 11 batch file security improvements",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
+    "description": "Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-27T15:00:27-05:00",
+    "fetched_at": "2026-02-27T20:36:54.395141+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft testing Windows 11 batch file security improvements",
+    "summary_he": "Microsoft testing Windows 11 batch file security improvements\nBy\nSergiu Gatlan\nFebruary 27, 2026\n03:00 PM\n0\nMicrosoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution.\nAs Microsoft explained today, IT administrators ",
+    "details_he": ""
+  },
+  {
+    "id": "04bf9731a05b3b66",
+    "title_original": "APT37 hackers use new malware to breach air-gapped networks",
+    "url": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
+    "description": "North Korean hackers are deploying newly uncovered tools to move data between internet-connected and air-gapped systems, spread via removable drives, and conduct covert surveillance. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-27T14:21:25-05:00",
+    "fetched_at": "2026-02-27T20:36:54.395141+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "APT37 hackers use new malware to breach air-gapped networks",
+    "summary_he": "APT37 hackers use new malware to breach air-gapped networks\nBy\nBill Toulas\nFebruary 27, 2026\n02:21 PM\n0\nNorth Korean hackers are deploying newly uncovered tools to move data between internet-connected and air-gapped systems, spread via removable drives, and conduct covert surveillance.\nThe malicious",
+    "details_he": ""
+  },
+  {
+    "id": "611c1cf1e1185444",
+    "title_original": "Europol-led crackdown on The Com hackers leads to 30 arrests",
+    "url": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/",
+    "description": "A yearlong Europol-coordinated operation dubbed \"Project Compass\" has led to 30 arrests and 179 suspects being tied to \"The Com,\" an online cybercrime collective that targets children and teenagers. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-27T13:20:15-05:00",
+    "fetched_at": "2026-02-27T20:36:54.395141+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Europol-led crackdown on The Com hackers leads to 30 arrests",
+    "summary_he": "Europol-led crackdown on The Com hackers leads to 30 arrests\nBy\nSergiu Gatlan\nFebruary 27, 2026\n01:20 PM\n0\nA yearlong Europol-coordinated operation dubbed \"Project Compass\" has led to 30 arrests and 179 suspects being tied to \"The Com,\" an online cybercrime collective that targets children and teena",
+    "details_he": ""
   }
 ]
