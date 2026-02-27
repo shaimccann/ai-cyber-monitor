@@ -25,7 +25,7 @@ email:
   enabled: true
   max_articles: 15
   subject_prefix: "AI & Cyber Daily"
-  dashboard_url: ""  # Set to your GitHub Pages URL
+  dashboard_url: "https://shaimccann.github.io/ai-cyber-monitor/"
 
 dashboard:
   title: "AI & Cyber Daily Monitor"

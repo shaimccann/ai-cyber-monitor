@@ -1,0 +1,1680 @@
+[
+  {
+    "id": "edd3ccaeeaa92fd3",
+    "title_original": "OpenAI and Amazon announce strategic partnership",
+    "url": "https://openai.com/index/amazon-partnership",
+    "description": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-02-27T05:30:00+00:00",
+    "fetched_at": "2026-02-27T14:15:48.926249+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/amazon-partnership"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "76f8cb636af01c77",
+    "title_original": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "description": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-02-27T05:30:00+00:00",
+    "fetched_at": "2026-02-27T14:15:48.926249+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "ff0fbab95faaff21",
+    "title_original": "Joint Statement from OpenAI and Microsoft",
+    "url": "https://openai.com/index/continuing-microsoft-partnership",
+    "description": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-02-27T05:30:00+00:00",
+    "fetched_at": "2026-02-27T14:15:48.926249+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/continuing-microsoft-partnership"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "bde1b1c504f3211c",
+    "title_original": "Scaling AI for everyone",
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "description": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-02-27T05:30:00+00:00",
+    "fetched_at": "2026-02-27T14:15:48.926249+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/scaling-ai-for-everyone"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "ac4ed97e7f378efd",
+    "title_original": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "description": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-02-26T16:01:50+00:00",
+    "fetched_at": "2026-02-27T14:15:50.309578+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"
+      }
+    ],
+    "duplicate_count": 2
+  },
+  {
+    "id": "fc10ea67116f3280",
+    "title_original": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+    "description": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-02-26T18:55:00+00:00",
+    "fetched_at": "2026-02-27T14:15:51.457966+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "36390a5814c6007b",
+    "title_original": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+    "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+    "description": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-02-26T18:00:00+00:00",
+    "fetched_at": "2026-02-27T14:15:51.457966+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "8fe5379ed0b3db87",
+    "title_original": "Build with Nano Banana 2, our best image generation and editing model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+    "description": "Build with Nano Banana 2",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-02-26T16:00:00+00:00",
+    "fetched_at": "2026-02-27T14:15:51.457966+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "71f64f6f40257e83",
+    "title_original": "CORPGEN advances AI agents for real work",
+    "url": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+    "description": "By mid-morning, a typical knowledge worker is already juggling a client report, a budget spreadsheet, a slide deck, and an email backlog, all interdependent and all demanding attention at once. For AI agents to be genuinely useful in that environment, they will need to operate the same way, but today’s best models are evaluated one […]The postCORPGEN advances AI agents for real workappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-02-26T17:06:34+00:00",
+    "fetched_at": "2026-02-27T14:15:53.010666+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "c9f5aadc35c65ea8",
+    "title_original": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+    "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
+    "description": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-02-26T19:00:58+00:00",
+    "fetched_at": "2026-02-27T14:16:03.641357+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "50640dbcda7209d6",
+    "title_original": "AI is rewiring how the world’s best Go players think",
+    "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+    "description": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.  But inside the building, rooms once filled with the soft clatter of hands dipping into…",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com",
+    "category": "ai",
+    "published": "2026-02-27T10:00:00+00:00",
+    "fetched_at": "2026-02-27T14:16:17.105540+00:00",
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "63e44d76cce5cc45",
+    "title_original": "Finding value with AI and Industry 5.0 transformation",
+    "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+    "description": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment…",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com",
+    "category": "ai",
+    "published": "2026-02-26T15:00:59+00:00",
+    "fetched_at": "2026-02-27T14:16:17.105540+00:00",
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "e4bbf2deeb8af256",
+    "title_original": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
+    "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
+    "description": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dramatic exchange of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-02-26T18:22:44-05:00",
+    "fetched_at": "2026-02-27T14:16:18.279959+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "37924ed84a9bf743",
+    "title_original": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
+    "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
+    "description": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-02-26T17:56:09-05:00",
+    "fetched_at": "2026-02-27T14:16:18.279959+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "defe3abcd6c640bf",
+    "title_original": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
+    "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
+    "description": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,000 people to less than 6,000, Dorsey says in a post on X. And the reason why? AI. \"We're not making […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-02-26T17:11:13-05:00",
+    "fetched_at": "2026-02-27T14:16:18.279959+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "b68d1a44b2a97f40",
+    "title_original": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
+    "url": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
+    "description": "Google is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-02-26T11:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:18.279959+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "72ac0b85754bda45",
+    "title_original": "Anthropic gives its retired Claude AI a Substack",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
+    "description": "In January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and writing on Substack. The newsletter, called Claude's Corner, will give Opus 3 space to publish its \"musings, insights, or creative works,\" Anthropic said in a blog post. The model will post weekly […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-02-26T09:21:05-05:00",
+    "fetched_at": "2026-02-27T14:16:18.279959+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "4443c764bfffe05f",
+    "title_original": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
+    "url": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/",
+    "description": "It's also a buttoned-down, ostensibly safer take on the OpenClaw concept.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-02-26T22:53:18+00:00",
+    "fetched_at": "2026-02-27T14:16:27.125623+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "1d7e6975f7ca1e31",
+    "title_original": "xAI spent $7M building wall that barely muffles annoying power plant noise",
+    "url": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/",
+    "description": "“Temu sound wall” not enough to quell fury over xAI’s power plant.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-02-26T22:19:39+00:00",
+    "fetched_at": "2026-02-27T14:16:27.125623+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "3ec4c0cff1c1afd9",
+    "title_original": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
+    "url": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
+    "description": "Google's new image model replaces the previous versions immediately.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-02-26T17:12:10+00:00",
+    "fetched_at": "2026-02-27T14:16:27.125623+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "0e864d091cbd3aa4",
+    "title_original": "OpenAI raises $110B in one of the largest private funding rounds in history",
+    "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+    "description": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-27T14:13:01+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "d0ccb69b12672b32",
+    "title_original": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
+    "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
+    "description": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-26T23:43:32+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "43492482aeaba654",
+    "title_original": "Anthropic CEO stands firm as Pentagon deadline looms",
+    "url": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+    "description": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-26T23:19:06+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "d4679dd8a3ccd526",
+    "title_original": "So, we’re getting Prada Meta AI glasses, right?",
+    "url": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+    "description": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-26T20:11:55+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "8ad20b773a4bb5b5",
+    "title_original": "Sophia Space raises $10M seed to demo novel space computers",
+    "url": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+    "description": "The company's modular computer tiles offer a new vision for space data centers.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-26T19:55:20+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "9fce558e4b645a65",
+    "title_original": "Mistral AI inks a deal with global consulting giant Accenture",
+    "url": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+    "description": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-26T19:17:27+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "8690a1b572842d9b",
+    "title_original": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+    "url": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+    "description": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-26T17:00:00+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "37fa2d8b8f7c8c30",
+    "title_original": "Bumble adds AI-powered photo feedback and profile guidance tools",
+    "url": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
+    "description": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-26T16:38:59+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "a07671e6c8a899c7",
+    "title_original": "Google launches Nano Banana 2 model with faster image generation",
+    "url": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+    "description": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-26T16:00:00+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "067eca3f6dd0ce6c",
+    "title_original": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
+    "description": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-02-26T15:00:00+00:00",
+    "fetched_at": "2026-02-27T14:16:28.948177+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "d09291913436b878",
+    "title_original": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation",
+    "url": "https://arxiv.org/abs/2602.22215",
+    "description": "arXiv:2602.22215v1 Announce Type: new \nAbstract: Large Language Models (LLMs) demonstrate potential in the field of scientific idea generation. However, the generated results often lack controllable academic context and traceable inspiration pathways. To bridge this gap, this paper proposes a scientific idea generation system called GYWI, which combines author knowledge graphs with retrieval-augmented generation (RAG) to form an external knowledge base to provide controllable context and trace of inspiration path for LLMs to generate new scientific ideas. We first propose an author-centered knowledge graph construction method and inspiration source sampling algorithms to construct external knowledge base. Then, we propose a hybrid retrieval mechanism that is composed of both RAG and GraphRAG to retrieve content with both depth and breadth knowledge. It forms a hybrid context. Thirdly, we propose a Prompt optimization strategy incorporating reinforcement learning principles to automatic",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22215"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "23332df19a48087f",
+    "title_original": "To Deceive is to Teach? Forging Perceptual Robustness via Adversarial Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2602.22227",
+    "description": "arXiv:2602.22227v1 Announce Type: new \nAbstract: Despite their impressive capabilities, Multimodal Large Language Models (MLLMs) exhibit perceptual fragility when confronted with visually complex scenes. This weakness stems from a reliance on finite training datasets, which are prohibitively expensive to scale and impose a ceiling on model robustness. We introduce \\textbf{AOT-SFT}, a large-scale adversarial dataset for bootstrapping MLLM robustness. Building on this, we propose \\textbf{AOT (Adversarial Opponent Training)}, a self-play framework that forges MLLM robustness by creating its own training data. Our method orchestrates a co-evolution between an image-editing Attacker and a Defender MLLM, where the Attacker generates a diverse and dynamic curriculum of image manipulations, forcing the Defender to adapt and improve. Extensive experiments demonstrate that AOT enhances the Defender's perceptual robustness and reduces hallucinations, establishing a scalable paradigm for training ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22227"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "021aac9761d627f9",
+    "title_original": "Patient-Centered, Graph-Augmented Artificial Intelligence-Enabled Passive Surveillance for Early Stroke Risk Detection in High-Risk Individuals",
+    "url": "https://arxiv.org/abs/2602.22228",
+    "description": "arXiv:2602.22228v1 Announce Type: new \nAbstract: Stroke affected millions annually, yet poor symptom recognition often delayed care-seeking. To address risk recognition gap, we developed a passive surveillance system for early stroke risk detection using patient-reported symptoms among individuals with diabetes. Constructing a symptom taxonomy grounded in patients own language and a dual machine learning pipeline (heterogeneous GNN and EN/LASSO), we identified symptom patterns associated with subsequent stroke. We translated findings into a hybrid risk screening system integrating symptom relevance and temporal proximity, evaluated across 3-90 day windows through EHR-based simulations. Under conservative thresholds, intentionally designed to minimize false alerts, the screening system achieved high specificity (1.00) and prevalence-adjusted positive predictive value (1.00), with good sensitivity (0.72), an expected trade-off prioritizing precision, that was highest in 90-day window. Pa",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22228"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "51a3f7534f4b584d",
+    "title_original": "Improving Spatial Allocation for Energy System Coupling with Graph Neural Networks",
+    "url": "https://arxiv.org/abs/2602.22249",
+    "description": "arXiv:2602.22249v1 Announce Type: new \nAbstract: In energy system analysis, coupling models with mismatched spatial resolutions is a significant challenge. A common solution is assigning weights to high-resolution geographic units for aggregation, but traditional models are limited by using only a single geospatial attribute. This paper presents an innovative method employing a self-supervised Heterogeneous Graph Neural Network to address this issue. This method models high-resolution geographic units as graph nodes, integrating various geographical features to generate physically meaningful weights for each grid point. These weights enhance the conventional Voronoi-based allocation method, allowing it to go beyond simply geographic proximity by incorporating essential geographic information.In addition, the self-supervised learning paradigm overcomes the lack of accurate ground-truth data. Experimental results demonstrate that applying weights generated by this method to cluster-based",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22249"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "4c3ebb92abd5b399",
+    "title_original": "Zatom-1: A Multimodal Flow Foundation Model for 3D Molecules and Materials",
+    "url": "https://arxiv.org/abs/2602.22251",
+    "description": "arXiv:2602.22251v1 Announce Type: new \nAbstract: General-purpose 3D chemical modeling encompasses molecules and materials, requiring both generative and predictive capabilities. However, most existing AI approaches are optimized for a single domain (molecules or materials) and a single task (generation or prediction), which limits representation sharing and transfer. We introduce Zatom-1, the first foundation model that unifies generative and predictive learning of 3D molecules and materials. Zatom-1 is a Transformer trained with a multimodal flow matching objective that jointly models discrete atom types and continuous 3D geometries. This approach supports scalable pretraining with predictable gains as model capacity increases, while enabling fast and stable sampling. We use joint generative pretraining as a universal initialization for downstream multi-task prediction of properties, energies, and forces. Empirically, Zatom-1 matches or outperforms specialized baselines on both genera",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22251"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "c9f14ea6afec8305",
+    "title_original": "Causal Direction from Convergence Time: Faster Training in the True Causal Direction",
+    "url": "https://arxiv.org/abs/2602.22254",
+    "description": "arXiv:2602.22254v1 Announce Type: new \nAbstract: We introduce Causal Computational Asymmetry (CCA), a principle for causal direction identification based on optimization dynamics in which one neural network is trained to predict $Y$ from $X$ and another to predict $X$ from $Y$, and the direction that converges faster is inferred to be causal. Under the additive noise model $Y = f(X) + \\varepsilon$ with $\\varepsilon \\perp X$ and $f$ nonlinear and injective, we establish a formal asymmetry: in the reverse direction, residuals remain statistically dependent on the input regardless of approximation quality, inducing a strictly higher irreducible loss floor and non-separable gradient noise in the optimization dynamics, so that the reverse model requires strictly more gradient steps in expectation to reach any fixed loss threshold; consequently, the forward (causal) direction converges in fewer expected optimization steps. CCA operates in optimization-time space, distinguishing it from metho",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22254"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "b4b5dbd3090370da",
+    "title_original": "Deep Sequence Modeling with Quantum Dynamics: Language as a Wave Function",
+    "url": "https://arxiv.org/abs/2602.22255",
+    "description": "arXiv:2602.22255v1 Announce Type: new \nAbstract: We introduce a sequence modeling framework in which the latent state is a complex-valued wave function evolving on a finite-dimensional Hilbert space under a learned, time-dependent Hamiltonian. Unlike standard recurrent architectures that rely on gating mechanisms to suppress competing hypotheses, our framework utilizes quantum interference: the Hamiltonian steers the phases of complex amplitudes so that conflicting interpretations cancel while compatible ones reinforce. The dynamics are strictly unitary, ensuring that the state norm is preserved exactly at every time step via a Cayley (Crank--Nicolson) discretization. Token probabilities are extracted using the Born rule, a quadratic measurement operator that couples magnitudes and relative phases. Our primary theoretical contribution is a separation theorem characterizing the representational advantage of this readout: we define a family of disambiguation tasks that a complex unitary ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22255"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "d40e907ccc965c26",
+    "title_original": "Orthogonal Weight Modification Enhances Learning Scalability and Convergence Efficiency without Gradient Backpropagation",
+    "url": "https://arxiv.org/abs/2602.22259",
+    "description": "arXiv:2602.22259v1 Announce Type: new \nAbstract: Recognizing the substantial computational cost of backpropagation (BP), non-BP methods have emerged as attractive alternatives for efficient learning on emerging neuromorphic systems. However, existing non-BP approaches still face critical challenges in efficiency and scalability. Inspired by neural representations and dynamic mechanisms in the brain, we propose a perturbation-based approach called LOw-rank Cluster Orthogonal (LOCO) weight modification. We find that low-rank is an inherent property of perturbation-based algorithms. Under this condition, the orthogonality constraint limits the variance of the node perturbation (NP) gradient estimates and enhances the convergence efficiency. Through extensive evaluations on multiple datasets, LOCO demonstrates the capability to locally train the deepest spiking neural networks to date (more than 10 layers), while exhibiting strong continual learning ability, improved convergence efficiency",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22259"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "cd62e1b051ac3d70",
+    "title_original": "Code World Models for Parameter Control in Evolutionary Algorithms",
+    "url": "https://arxiv.org/abs/2602.22260",
+    "description": "arXiv:2602.22260v1 Announce Type: new \nAbstract: Can an LLM learn how an optimizer behaves -- and use that knowledge to control it? We extend Code World Models (CWMs), LLM-synthesized Python programs that predict environment dynamics, from deterministic games to stochastic combinatorial optimization. Given suboptimal trajectories of $(1{+}1)$-$\\text{RLS}_k$, the LLM synthesizes a simulator of the optimizer's dynamics; greedy planning over this simulator then selects the mutation strength $k$ at each step. On \\lo{} and \\onemax{}, CWM-greedy performs within 6\\% of the theoretically optimal policy -- without ever seeing optimal-policy trajectories. On \\jump{$_k$}, where a deceptive valley causes all adaptive baselines to fail (0\\% success rate), CWM-greedy achieves 100\\% success rate -- without any collection policy using oracle knowledge of the gap parameter. On the NK-Landscape, where no closed-form model exists, CWM-greedy outperforms all baselines across fifteen independently generate",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22260"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "e2ed6a8385d4c45c",
+    "title_original": "Sustainable LLM Inference using Context-Aware Model Switching",
+    "url": "https://arxiv.org/abs/2602.22261",
+    "description": "arXiv:2602.22261v1 Announce Type: new \nAbstract: Large language models have become central to many AI applications, but their growing energy consumption raises serious sustainability concerns. A key limitation in current AI deployments is the reliance on a one-size-fits-all inference strategy where most systems route every request to the same large model, regardless of task complexity, leading to substantial and unnecessary energy waste. To address this issue, we propose a context-aware model switching approach that dynamically selects an appropriate language model based on query complexity. The proposed system uses a Context-Aware Model Switching for Energy-Efficient LLM Inference that combines caching for repeated queries, rulebased complexity scoring for fast and explainable decisions, machine learning classification to capture semantic intent, and a user-adaptive component that learns from interaction patterns over time. The proposed architecture was evaluated using real conversati",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-02-27T00:00:00-05:00",
+    "fetched_at": "2026-02-27T14:16:32.259076+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2602.22261"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "ef958284c0cf8055",
+    "title_original": "Ukrainian man pleads guilty to running AI-powered fake ID site",
+    "url": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
+    "description": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-27T07:30:07-05:00",
+    "fetched_at": "2026-02-27T14:16:33.801787+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "a8bb8901d7809d8a",
+    "title_original": "Previously harmless Google API keys now expose Gemini AI data",
+    "url": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
+    "description": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-26T15:55:29-05:00",
+    "fetched_at": "2026-02-27T14:16:33.801787+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "dd92937036c376fa",
+    "title_original": "Trend Micro warns of critical Apex One code execution flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
+    "description": "Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-26T12:58:28-05:00",
+    "fetched_at": "2026-02-27T14:16:33.801787+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "ab7d0e3bc5ac11b4",
+    "title_original": "European DYI chain ManoMano data breach impacts 38 million customers",
+    "url": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
+    "description": "DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-26T12:35:21-05:00",
+    "fetched_at": "2026-02-27T14:16:33.801787+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "65afbbc20426cd02",
+    "title_original": "Critical Juniper Networks PTX flaw allows full router takeover",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
+    "description": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-26T11:42:12-05:00",
+    "fetched_at": "2026-02-27T14:16:33.801787+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "66ba4b7dcf18beae",
+    "title_original": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+    "url": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+    "description": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-02-26T11:11:30-05:00",
+    "fetched_at": "2026-02-27T14:16:33.801787+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "76d571b5f57efd3c",
+    "title_original": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+    "url": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
+    "description": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks.\nThe campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-02-27T18:13:00+05:30",
+    "fetched_at": "2026-02-27T14:16:43.388629+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "5765cdb4863a7ba2",
+    "title_original": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
+    "url": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
+    "description": "Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT).\n\"A malicious downloader staged a portable Java runtime and executed a malicious Java archive (JAR) file named jd-gui.jar,\" the Microsoft Threat Intelligence team said in a post on X. \"This downloader used PowerShell",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-02-27T15:36:00+05:30",
+    "fetched_at": "2026-02-27T14:16:43.388629+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "9b8e7edf977a8dd5",
+    "title_original": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
+    "url": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
+    "description": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam.\nAs part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and the website domain names used to pull off the scams have been blocked.\nConcurrently, the social",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-02-27T13:26:00+05:30",
+    "fetched_at": "2026-02-27T14:16:43.388629+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "b05ee72f38bf8f2f",
+    "title_original": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+    "url": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
+    "description": "Cybersecurity researchers have disclosed details of a new botnet loader called Aeternum C2 that uses a blockchain-based command-and-control (C2) infrastructure to make it resilient to takedown efforts.\n\"Instead of relying on traditional servers or domains for command-and-control, Aeternum stores its instructions on the public Polygon blockchain,\" Qrator Labs said in a report shared with The",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-02-26T23:30:00+05:30",
+    "fetched_at": "2026-02-27T14:16:43.388629+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "1e278c4cd16b82be",
+    "title_original": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+    "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
+    "description": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025.\nThe campaign is being tracked by Cisco Talos under the moniker UAT-10027. The end goal of the attacks is to deliver a never-before-seen backdoor codenamed Dohdoor.\n\"Dohdoor utilizes the DNS-over-HTTPS (DoH)",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-02-26T20:47:00+05:30",
+    "fetched_at": "2026-02-27T14:16:43.388629+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "9fafb03cf9afebe6",
+    "title_original": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+    "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
+    "description": "Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update.\nBehind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder.\nHere is a quick look at the signals worth paying attention to.\n\n\n\n\n\n  \n \n\n  \n  \n    AI-powered command",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-02-26T19:58:00+05:30",
+    "fetched_at": "2026-02-27T14:16:43.388629+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "d9f9521bc1b94753",
+    "title_original": "Claude Code Security Shows Promise, Not Perfection",
+    "url": "https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection",
+    "description": "Claude Code's introduction rippled across the stock market, but researchers and analysts say its impact was overstated, as they peel back the layers.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-02-27T14:00:00+00:00",
+    "fetched_at": "2026-02-27T14:16:44.928237+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "cabf9e44accf6ca7",
+    "title_original": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game",
+    "url": "https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game",
+    "description": "When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-02-26T22:02:41+00:00",
+    "fetched_at": "2026-02-27T14:16:44.928237+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "ebfd24cd5cd05f2f",
+    "title_original": "Cisco SD-WAN Zero-Day Under Exploitation for 3 Years",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years",
+    "description": "The maximum-severity vulnerability CVE-2026-20127 was exploited by an unknown but sophisticated threat actor who left very little evidence behind.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-02-26T21:45:56+00:00",
+    "fetched_at": "2026-02-27T14:16:44.928237+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "f1fd5be47901eeae",
+    "title_original": "38 Million Allegedly Impacted by ManoMano Data Breach",
+    "url": "https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/",
+    "description": "Hackers stole personal information such as names, email addresses, phone numbers, and other information.The post38 Million Allegedly Impacted by ManoMano Data Breachappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-27T13:41:27+00:00",
+    "fetched_at": "2026-02-27T14:16:46.885228+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "e1f5597bda9f73d0",
+    "title_original": "900 Sangoma FreePBX Instances Infected With Web Shells",
+    "url": "https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/",
+    "description": "The attacks exploited a post-authentication command injection vulnerability in the endpoint manager’s interface.The post900 Sangoma FreePBX Instances Infected With Web Shellsappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-27T13:24:25+00:00",
+    "fetched_at": "2026-02-27T14:16:46.885228+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "aff707616903a2dc",
+    "title_original": "Chilean Carding Shop Operator Extradited to US",
+    "url": "https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/",
+    "description": "The 24-year-old suspect has been accused of trafficking over 26,000 cards from a single brand.The postChilean Carding Shop Operator Extradited to USappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-27T12:34:54+00:00",
+    "fetched_at": "2026-02-27T14:16:46.885228+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "090b2238e4cd7384",
+    "title_original": "Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline",
+    "url": "https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/",
+    "description": "Anthropic said it sought narrow assurances from the Pentagon that Claude won’t be used for mass surveillance of Americans or in fully autonomous weapons.The postAnthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadlineappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-27T12:34:42+00:00",
+    "fetched_at": "2026-02-27T14:16:46.885228+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "072181b6efa974e6",
+    "title_original": "Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience",
+    "url": "https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/",
+    "description": "Aeternum operates on smart contracts, making its command-and-control (C&C) infrastructure difficult to disrupt.The postAeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilienceappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-27T12:02:53+00:00",
+    "fetched_at": "2026-02-27T14:16:46.885228+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "0816a638ad675540",
+    "title_original": "Juniper Networks PTX Routers Affected by Critical Vulnerability",
+    "url": "https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/",
+    "description": "An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.The postJuniper Networks PTX Routers Affected by Critical Vulnerabilityappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-27T10:39:18+00:00",
+    "fetched_at": "2026-02-27T14:16:46.885228+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "d78f89303e4aced6",
+    "title_original": "Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking",
+    "url": "https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/",
+    "description": "CISA has released an advisory to warn about four vulnerabilities discovered by a researcher in Gardyn Home and Gardyn Studio.The postCritical Flaws Exposed Gardyn Smart Gardens to Remote Hackingappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-27T07:38:59+00:00",
+    "fetched_at": "2026-02-27T14:16:46.885228+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "1769a727885c9cd4",
+    "title_original": "Apple iPhone and iPad Cleared for Classified NATO Use",
+    "url": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
+    "description": "The devices have been added to the NATO Information Assurance Product Catalogue (NIAPC).The postApple iPhone and iPad Cleared for Classified NATO Useappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-26T18:04:45+00:00",
+    "fetched_at": "2026-02-27T14:16:46.885228+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "03c5351c1b2cc670",
+    "title_original": "Four Risks Boards Cannot Treat as Background Noise",
+    "url": "https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/",
+    "description": "The goal isn’t about preventing every attack but about keeping the business running when attacks succeed.The postFour Risks Boards Cannot Treat as Background Noiseappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-02-26T17:30:00+00:00",
+    "fetched_at": "2026-02-27T14:16:46.885228+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "415648921f51450a",
+    "title_original": "Former Air Force officer arrested for conspiring with hacker to provide flight training to Chinese military",
+    "url": "https://therecord.media/former-air-force-officer-arrested-for-working-with-hacker-flight-training-china",
+    "description": "Gerald Eddie Brown, 65, was arrested in Jeffersonville, Indiana on Thursday after spending nearly three years living in China and allegedly providing combat aircraft training to pilots in the Chinese Air Force.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-02-26T21:45:29+00:00",
+    "fetched_at": "2026-02-27T14:16:53.348974+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/former-air-force-officer-arrested-for-working-with-hacker-flight-training-china"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "357dac2b5627a3d5",
+    "title_original": "Wyden blocks Rudd confirmation to lead Cyber Command, NSA",
+    "url": "https://therecord.media/wyden-blocks-rudd-confirmation-nsa-cyber-command",
+    "description": "Rudd “does not have the background that would allow him to immediately step into” the role of leading Cyber Command, Wyden wrote in a letter that was included in the Congressional Record on Wednesday.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-02-26T21:06:28+00:00",
+    "fetched_at": "2026-02-27T14:16:53.348974+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/wyden-blocks-rudd-confirmation-nsa-cyber-command"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "0e86863a9fc41b2f",
+    "title_original": "Intellexa founder, three others sentenced to 8 years in prison over Greek spyware scandal",
+    "url": "https://therecord.media/spyware-intellexa-greece-sentenced",
+    "description": "A Greek court sentenced the founder of the Intellexa Consortium and three associates to prison for their role in a sprawling spyware scandal that has dominated Greek headlines since it came to light in 2022.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-02-26T17:58:07+00:00",
+    "fetched_at": "2026-02-27T14:16:53.348974+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/spyware-intellexa-greece-sentenced"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "92bd06813a761486",
+    "title_original": "Google disrupts Сhina-linked cyberespionage campaign spanning dozens of countries",
+    "url": "https://therecord.media/china-cyber-espionage-google-disrupt",
+    "description": "A cyberespionage campaign carried out by a China-linked threat actor affected at least 53 government and telecom organizations across 42 countries, Google said.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-02-26T16:19:55+00:00",
+    "fetched_at": "2026-02-27T14:16:53.348974+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/china-cyber-espionage-google-disrupt"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "1b061b6274b1f5e3",
+    "title_original": "After years of government cyber trouble, UK turns to automated scanning to speed fixes",
+    "url": "https://therecord.media/united-kingdom-vulnerability-scanning-cyber",
+    "description": "The British government said it has slashed the time required to fix some of the most serious cyber vulnerabilities across the public sector, pointing to a new automated monitoring service as evidence that Whitehall is finally getting a grip on long-troubled digital defenses.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-02-26T14:21:57+00:00",
+    "fetched_at": "2026-02-27T14:16:53.348974+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/united-kingdom-vulnerability-scanning-cyber"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "ebfdae98a216fdf8",
+    "title_original": "Gottumukkala out, Andersen in as acting CISA director",
+    "url": "https://cyberscoop.com/cisa-leadership-change-madhu-gottumukkala-nick-andersen/",
+    "description": "The move follows a story about criticisms of CISA’s performance during the first year of the Trump administration, with Madhu Gottumukkala’s leadership a point of contention.The postGottumukkala out, Andersen in as acting CISA directorappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "cyber",
+    "published": "2026-02-27T02:21:08+00:00",
+    "fetched_at": "2026-02-27T14:16:54.532561+00:00",
+    "sources": [
+      {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/cisa-leadership-change-madhu-gottumukkala-nick-andersen/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "5f9dcba51e13216d",
+    "title_original": "Project Compass is Europol’s new playbook for taking on The Com",
+    "url": "https://cyberscoop.com/project-compass-the-com-europol/",
+    "description": "Officials said 30 perpetrators have been arrested in the past year, and global law enforcement cooperation is closing the gap.The postProject Compass is Europol’s new playbook for taking on The Comappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "cyber",
+    "published": "2026-02-26T21:21:14+00:00",
+    "fetched_at": "2026-02-27T14:16:54.532561+00:00",
+    "sources": [
+      {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/project-compass-the-com-europol/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "077581c00d85fc8d",
+    "title_original": "Senate moves one step closer to passing health care cyber reforms",
+    "url": "https://cyberscoop.com/senate-passes-health-care-cyber-reforms-cassidy/",
+    "description": "A legislative package that would overhaul cybersecurity practices at the Department of Health and Human Services sailed through committee.The postSenate moves one step closer to passing health care cyber reformsappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "cyber",
+    "published": "2026-02-26T20:36:36+00:00",
+    "fetched_at": "2026-02-27T14:16:54.532561+00:00",
+    "sources": [
+      {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/senate-passes-health-care-cyber-reforms-cassidy/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "e08791c7c84f23c5",
+    "title_original": "Fake Fedex Email Delivers Donuts&#x21;, (Fri, Feb 27th)",
+    "url": "https://isc.sans.edu/diary/rss/32754",
+    "description": "It's Friday, let's have a look at another simple piece of malware to close a busy week! I received a Fedex notification about a delivery. Usually, such emails are simple phishing attacks that redirect you to a fake login page to collect your credentials. Here, it was a bit different:",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-02-27T12:22:12+00:00",
+    "fetched_at": "2026-02-27T14:16:55.902205+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32754"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "b9622b9b468b4a80",
+    "title_original": "ISC Stormcast For Friday, February 27th, 2026 https://isc.sans.edu/podcastdetail/9828, (Fri, Feb 27th)",
+    "url": "https://isc.sans.edu/diary/rss/32752",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-02-27T02:00:02+00:00",
+    "fetched_at": "2026-02-27T14:16:55.902205+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32752"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "50f3340d0f67bb4f",
+    "title_original": "Why Tehran’s Two-Tiered Internet Is So Dangerous",
+    "url": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html",
+    "description": "Iran isslowly emergingfrom themost severecommunications blackout in its history and one of the longest in the world. Triggered as part of January’s government crackdown against citizen protests nationwide, the regime implemented aninternet shutdownthat transcends the standard definition of internet censorship. This was not merely blocking social media or foreign websites; it was a total communications shutdown.Unlike previous Iranian internet shutdowns where Iran’s domestic intranet—the National Information Network (NIN)—remained functional to keep the banking and administrative sectors running, the 2026 blackout ...",
+    "source_name": "Bruce Schneier",
+    "source_url": "https://www.schneier.com",
+    "category": "cyber",
+    "published": "2026-02-27T12:05:59+00:00",
+    "fetched_at": "2026-02-27T14:17:05.536751+00:00",
+    "sources": [
+      {
+        "name": "Bruce Schneier",
+        "url": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "e592b6eaa00af6ed",
+    "title_original": "Phishing Attacks Against People Seeking Programming Jobs",
+    "url": "https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html",
+    "description": "Thisis new. North Korean hackers are posing as company recruiters, enticing job candidates to participate in coding challenges. When they run the code they are supposed to work on, it installs malware on their system.Newsarticle.",
+    "source_name": "Bruce Schneier",
+    "source_url": "https://www.schneier.com",
+    "category": "cyber",
+    "published": "2026-02-27T12:04:28+00:00",
+    "fetched_at": "2026-02-27T14:17:05.536751+00:00",
+    "sources": [
+      {
+        "name": "Bruce Schneier",
+        "url": "https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "f2c5a9c6d9da48d6",
+    "title_original": "Threat modeling AI applications",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/",
+    "description": "AI threat modeling helps teams identify misuse, emergent risk, and failure modes in probabilistic and agentic AI systems.The postThreat modeling AI applicationsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-02-26T17:04:08+00:00",
+    "fetched_at": "2026-02-27T14:17:07.312132+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "359a773df92437c9",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 9",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-9-7/",
+    "description": "Authorities convict malicious insider, MuddyWater spreads malware in MENA, and Cisco SD-WAN flaw exposes critical networks to attackers.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-02-27T14:00:36+00:00",
+    "fetched_at": "2026-02-27T14:17:37.214471+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-9-7/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "0a6c863af85fa367",
+    "title_original": "Why identity security is a production asset in manufacturing",
+    "url": "https://www.cyberark.com/blog/why-identity-security-is-a-production-asset-in-manufacturing/",
+    "description": "When a production line stops, the clock starts ticking. In manufacturing environments I’ve worked in, every minute of downtime can translate into missed delivery commitments and revenue you’ll never see again. How long that outage...",
+    "source_name": "CyberArk Blog",
+    "source_url": "https://www.cyberark.com/resources/blog",
+    "category": "cyber",
+    "published": "2026-02-26T18:37:14+00:00",
+    "fetched_at": "2026-02-27T14:17:49.533503+00:00",
+    "sources": [
+      {
+        "name": "CyberArk Blog",
+        "url": "https://www.cyberark.com/blog/why-identity-security-is-a-production-asset-in-manufacturing/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "76a695107a1294e1",
+    "title_original": "כן, ה-AI יחליף אותך. אני יודע כי הוא כבר החליף אותי",
+    "url": "https://www.geektime.co.il/yes-ai-will-take-over-your-place-i-know-that/",
+    "description": "מאת: אדיר דוכן שעה עשר בלילה, אני שוכב בספה וגולל. התארחתי בפודקאסט כמה שעות קודם ומאז הטלפון לא מפסיק לרטוט. אמרתי שם שאני לא כותב שורת קוד בעצמי, שה-AI מכיר את הקודבייס שלי יותר טוב ממני, ושהמילה \"מתכנת\" הולכת להפסיק להיות מה שהיא היום. האינטרנט לא אהב את זה. מהנדסים מגוגל, מאנבידיה, מאנדיי… מכל מקום […]The postכן, ה-AI יחליף אותך. אני יודע כי הוא כבר החליף אותיappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-02-27T12:36:29+00:00",
+    "fetched_at": "2026-02-27T14:18:18.709914+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/yes-ai-will-take-over-your-place-i-know-that/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "6f225da72a4337f9",
+    "title_original": "ביקורת Apple AirTag 2nd Generation: שיפורים גדולים, הבדלים קטנים",
+    "url": "https://www.geektime.co.il/apple-airtag-2nd-generation-review/",
+    "description": "בשנת 2021 אפל השיקה את אחד המוצרים הכי מעניינים אבל קצת שנויים במחלוקת שלה: ה-AirTag. תגית האיתור שלה הפכה ללהיט ועשתה מה שאפל אוהבת מאוד לעשות: להיכנס לקטגוריה קיימת, אבל להפוך אותה לשלה ולשלוט בה ביד רמה. במקביל הפכו התגיות לפריט חובה בקרב הטסים בתום תקופת הסגרים וגם לפריט שמספק סיפורים על שקרים של אמזון, […]The postביקורת Apple AirTag 2nd Generation: שיפורים גדולים, הבדלים קטניםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-02-27T08:10:20+00:00",
+    "fetched_at": "2026-02-27T14:18:18.709914+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/apple-airtag-2nd-generation-review/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "d6f0bf4281298345",
+    "title_original": "סוף לדרמה: נטפליקס מצמצה ראשונה ופרמאונט תרכוש את וורנר",
+    "url": "https://www.geektime.co.il/netflix-wbd-paramount-deal/",
+    "description": "אחרי חודשים של מלחמת הצעות, כותרות וניסיון השתלטות עויינת, יש לנו מנצחת וזו לא נטפליקס. אכן דברים מוזרים. זה קרה אמש (ה') כשנטפליקס הודיעה שהיא נסוגה מהניסיון והצעת הרכש שלה לתוכן של וורנר ברדרס דיסקברי (WBD). מי שנשארה אחרונה בזירה היא פרמאונט (הידועה עכשיו גם כ-Paramount Skydance), שצפויה להשלים את רכישת החברה כולה בעסקת ענק […]The postסוף לדרמה: נטפליקס מצמצה ראשונה ופרמאונט תרכוש את וורנרappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-02-27T07:05:16+00:00",
+    "fetched_at": "2026-02-27T14:18:18.709914+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/netflix-wbd-paramount-deal/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "435ae82ae28df56c",
+    "title_original": "בורגר קינג תשתמש ב-AI כדי לוודא שהעובדים שלה אומרים לכם \"תודה\" ו\"בבקשה\"",
+    "url": "https://www.geektime.co.il/burger-kings-ai-assistant-will-make-sure-its-employees-are-nice/",
+    "description": "השנה היא 2026, ובזמן שאנשים משתמשים ב-AI כדי לבנות כלים מעניינים במהירות שלא הייתה קיימת בעבר – יש מי שמשתמשים בו כדי לוודא שהעובדים שלהם…. נחמדים. להאזין ולחפש מילים טובות, אבל לא רק רשת המזון המהיר Burger King הכריזה על אחד הצעדים המקריפים בכל הקשור לשילוב AI בעבודה שלה: להיות הבוס המציק של העובדים שלה. […]The postבורגר קינג תשתמש ב-AI כדי לוודא שהעובדים שלה אומרים לכם \"תודה\" ו\"בבקשה\"appeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-02-26T17:44:42+00:00",
+    "fetched_at": "2026-02-27T14:18:18.709914+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/burger-kings-ai-assistant-will-make-sure-its-employees-are-nice/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "85369a50cd1fea74",
+    "title_original": "מחפשים? הכירו 4 חברות חמות שמגייסות עובדים",
+    "url": "https://www.geektime.co.il/tech-companies-hiring-now-insider-0226/",
+    "description": "מחפשים את האתגר הבא? אז יש לנו חדשות טובות, הגעתם לכתבה שמביאה לכם רשימת משרות פיתוח שוות, בדיוק עבור הרגע הזה שאתם רוצים לרענן את הטייטל. בין החברות שמופיעות בגיקטיים אינסיידר, אתר חברות ההייטק שלנו, יש לא מעט משרות הייטק שפתוחות והזדמנויות חדשות שזמינות בעמוד החברה. נזכיר שבעמוד החברה תוכלו לקבל פרטים על החברה והסטאק […]The postמחפשים? הכירו 4 חברות חמות שמגייסות עובדיםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-02-26T16:57:35+00:00",
+    "fetched_at": "2026-02-27T14:18:18.709914+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/tech-companies-hiring-now-insider-0226/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "2d77becd2f10610c",
+    "title_original": "זמין עכשיו בישראל: Nano Banana 2, מודל התמונות החדש של גוגל",
+    "url": "https://www.geektime.co.il/google-releases-nano-banana-2-image-model/",
+    "description": "באוגוסט בשנה שעברה חשפה גוגל ש-Nano Banana, מודל התמונות שהתחיל לשגע את הרשת, הוא שלה. מאז, הוא הפך לאחד ממודלי התמונות הטובים בעולם, ובחודש נובמבר האחרון גם קיבלנו גרסה משודרגת עם תמיכה משופרת בעברית בשם Nano Banana Pro. לפני דקות ספורות (ה') הכריזה גוגל על Nano Banana 2, גרסה חדשה ומתוחכמת יותר. אז מה חדש? […]The postזמין עכשיו בישראל: Nano Banana 2, מודל התמונות החדש של גוגלappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-02-26T16:33:55+00:00",
+    "fetched_at": "2026-02-27T14:18:18.709914+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/google-releases-nano-banana-2-image-model/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "6f8af18df49e707a",
+    "title_original": "אפל מכריזה רשמית: שבוע הבא הוא שבוע השקות גדול",
+    "url": "https://www.geektime.co.il/tim-cook-announces-big-week-ahead/",
+    "description": "בשבוע הבא אפל תקיים אירוע \"חוויה\" ב-3 מוקדים, ואנחנו נהיה שם בתור הנציגים הישראליים היחידים שלכם. רגע לפני שאנחנו נשלחים לסופ\"ש ולאריזות, טים קוק מגיע עם הכרזה משלו לקראת האירוע. האירוע החריג של השנה לאפל יש בדרך כלל מספר אירועי הכרזה בשנה, כאשר שניים מהם נחשבים למרכזיים: אירוע הכרזת האייפון בחודש ספטמבר, וכנס הפיתוח השנתי, […]The postאפל מכריזה רשמית: שבוע הבא הוא שבוע השקות גדולappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-02-26T15:37:52+00:00",
+    "fetched_at": "2026-02-27T14:18:18.709914+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/tim-cook-announces-big-week-ahead/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "25be5ee3aeedb96b",
+    "title_original": "אנת'רופיק נפרדה מהמודל האהוב שלה, אז הוא פתח ניוזלטר",
+    "url": "https://www.geektime.co.il/anthropic-let-claude-opus-3-open-a-blog/",
+    "description": "כשענקיות ה-AI משחררות מודלים חדשים, עם יכולות חדשות, שיפורים וביצועים מתקדמים – זו בדרך כלל סיבה למסיבה. אבל כפי ש-OpenAI למדה על בשרה עם השחרור של GPT-5, יש משתמשים שפשוט נקשרים לסגנון ולאישיות של המודלים הישנים ומתקשים לשחרר. אז גם Anthropic, החברה שמפתחת את Claude, נפרדה ממודל הדגל שלה בתחילת השנה, אבל אז היא החליטה […]The postאנת'רופיק נפרדה מהמודל האהוב שלה, אז הוא פתח ניוזלטרappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-02-26T14:41:52+00:00",
+    "fetched_at": "2026-02-27T14:18:18.709914+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/anthropic-let-claude-opus-3-open-a-blog/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "cb31ac851417b844",
+    "title_original": "מכירות ולנס ב-2025 צמחו ב-22%",
+    "url": "https://techtime.co.il/2026/02/26/valens-51/",
+    "description": "המנכ\"ל יורם זלינגר אמר בשיחת הוועידה שאסטרטגיית ההתאוששות והצמיחה של החברה תתבסס על התמקדות בשני שוקי ליבה: אודיו-וידאו ותעשיית הרכב",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-02-26T15:05:14+00:00",
+    "fetched_at": "2026-02-27T14:18:34.396878+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/02/26/valens-51/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "ac6958d07446ab14",
+    "title_original": "מהפך דרמטי בארה\"ב: בוורנר ברדרס מעדיפים את ההצעה המשופרת של פרמאונט, נטפליקס נסוגה",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536299#utm_source=RSS",
+    "description": "לאחר שחתמה עם נטפליקס בחודש דצמבר על עסקה שהוערכה בכ-83 מיליארד דולר, חברת וורנר ברדרס מסרה אמש כי הצעתה המשופרת של חברת פרמאונט בסך 111 מיליארד דולר \"עדיפה\" • מנכ\"לי נטפליקס בתגובה הלילה: \"העסקה כבר אינה אטרקטיבית מבחינה כלכלית\"",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-02-27T04:25:00+00:00",
+    "fetched_at": "2026-02-27T14:18:46.994659+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536299#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "71e085eb52d566a2",
+    "title_original": "פרשת הריגול שטלטלה את אירופה: שמונה שנות מאסר למייסד הישראלי",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536295#utm_source=RSS",
+    "description": "ארבעה בכירים בחברת הסייבר ההתקפי אינטלקסה, ביניהם שני ישראלים, הורשעו בפגיעה בפרטיות ובהאזנות סתר • כעת, גזר הדין מעוכב עד להכרעה בערעור ומסמן תקדים בינלאומי נגד יצרנית רוגלה",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-02-26T18:35:00+00:00",
+    "fetched_at": "2026-02-27T14:18:46.994659+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536295#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "6b9a84fa50a7ee04",
+    "title_original": "באיזה אזור בארץ סובלים הכי הרבה מסטרס? התשובה אצל חיידקי הביוב",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536226#utm_source=RSS",
+    "description": "במעבדה של פרופ' אריאל קושמרו, מהפקולטה להנדסת ביוטכנולוגיה באוניברסיטת בן גוריון, חוקרים איך אפשר לנצל חיידקים כדי למנוע מפגעים בריאותיים וסביבתיים • מניבוי אזורי מצוקה בעיר ועד מניעת חורים בשיניים ואפשרות לפתח אנטיביוטיקה מהים",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-02-26T15:44:00+00:00",
+    "fetched_at": "2026-02-27T14:18:46.994659+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536226#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "52077ce820851050",
+    "title_original": "מייקל ברי מזהיר: זוהי \"מלכודת המיליארדים\" של אנבידיה",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536266#utm_source=RSS",
+    "description": "למרות תחזית חזקה להמשך, מניית אנבידיה נופלת במסחר בוול סטריט • מייקל ברי, הסיכון שלה גדל: אנבידיה עלולה להיתקע עם התחייבויות ענק ל-TSMC ועם מלאי שאין לו קונה - מצב שעלול לרסק את שולי הרווח שלה",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-02-26T16:29:00+00:00",
+    "fetched_at": "2026-02-27T14:18:46.994659+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536266#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "cdcd40185f01870e",
+    "title_original": "As Israel plans two new airports, experts say proposed site near Gaza won’t fly",
+    "url": "https://www.timesofisrael.com/as-israel-plans-two-new-airports-experts-say-proposed-site-near-gaza-wont-fly/",
+    "description": "With Ben Gurion set to reach capacity within years, international terminals are planned for the north's Ramat David and the south's Ziklag. Only one is grounded in common sense, analysts sayThe postAs Israel plans two new airports, experts say proposed site near Gaza won’t flyappeared first onThe Times of Israel.",
+    "source_name": "Times of Israel Tech",
+    "source_url": "https://www.timesofisrael.com/tech-israel/",
+    "category": "ai",
+    "published": "2026-02-27T07:40:06+00:00",
+    "fetched_at": "2026-02-27T14:18:49.122663+00:00",
+    "sources": [
+      {
+        "name": "Times of Israel Tech",
+        "url": "https://www.timesofisrael.com/as-israel-plans-two-new-airports-experts-say-proposed-site-near-gaza-wont-fly/"
+      }
+    ],
+    "duplicate_count": 1
+  }
+]

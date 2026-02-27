@@ -34,6 +34,11 @@ jobs:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
 
+      - name: Copy data to docs for GitHub Pages
+        run: |
+          mkdir -p docs/data/articles
+          cp data/articles/*.json docs/data/articles/
+
       - name: Commit and push data
         run: |
           git config user.name "github-actions"

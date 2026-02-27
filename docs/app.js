@@ -23,18 +23,8 @@
   const statsAI = document.getElementById("statsAI");
   const statsCyber = document.getElementById("statsCyber");
 
-  // Base path - detect if running locally or on GitHub Pages
-  const BASE_PATH = (() => {
-    const loc = window.location;
-    // GitHub Pages: /repo-name/docs/ or custom domain
-    // Local server: root serves project dir
-    if (loc.protocol === "file:") {
-      // Direct file open - try relative path
-      return "..";
-    }
-    // HTTP server - use relative path from docs/
-    return "..";
-  })();
+  // Base path - data/articles/ is inside docs/ for GitHub Pages
+  const BASE_PATH = ".";
 
   // === Data Loading ===
 
