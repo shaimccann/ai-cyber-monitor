@@ -14,15 +14,20 @@ CONFIG_DIR = PROJECT_ROOT / "config"
 
 log = logging.getLogger(__name__)
 
-SUMMARIZE_PROMPT = """You are a cybersecurity and AI news analyst. Analyze the following article thoroughly.
-Category: [{category}].
+SUMMARIZE_PROMPT = """You are a cybersecurity and AI news analyst. Based on the title and any available content, produce an analysis.
 
-IMPORTANT: The "summary" and "details" fields MUST contain DIFFERENT content. The summary is a brief overview. The details is a comprehensive structured analysis with much more information.
+Category hint: [{category}].
+
+RULES:
+1. The "summary" MUST be different from the title — rephrase and add context.
+2. The "details" MUST be much longer than the summary with structured sections.
+3. If the article content is short, use your expert knowledge to expand on the topic — explain the significance, potential impact, and relevant background.
+4. NEVER just repeat the title or content verbatim.
 
 Provide your response in this JSON format ONLY:
 {{
-  "summary": "A concise 2-3 sentence overview in English. State what happened, who is involved, and why it matters. Do NOT repeat the title.",
-  "details": "A comprehensive structured analysis in English. This must be MUCH longer and more detailed than the summary. Use labeled sections with this EXACT format — each section header on its own line followed by a colon:\\n\\nFor CYBER articles, use relevant sections from:\\n\\nThe Vulnerability: [CVE IDs, severity scores, affected products and versions, nature of the flaw]\\n\\nActive Exploitation: [threat actors involved, duration, scope of attacks, what was compromised]\\n\\nAttacker Techniques: [specific TTPs, tools, malware families, attack vectors]\\n\\nImpact: [number of affected organizations, data exposed, financial damage]\\n\\nOfficial Response: [vendor patches, CISA advisories, government statements, timelines]\\n\\nRecommendations: [specific steps organizations should take to protect themselves]\\n\\nFor AI articles, use relevant sections from:\\n\\nKey Innovation: [what is genuinely new, how it differs from prior work]\\n\\nTechnical Details: [architecture, methodology, benchmarks, performance metrics]\\n\\nIndustry Impact: [market implications, competitive landscape, affected sectors]\\n\\nExpert Reactions: [analyst opinions, community response, concerns raised]\\n\\nPractical Implications: [what this means for developers, businesses, end users]\\n\\nOnly include sections relevant to the article. Each section should be 2-4 sentences with specific facts from the article.",
+  "summary": "A 2-3 sentence overview in English. Rephrase the key facts — what happened, who is involved, and why it matters. Must NOT be identical to the title.",
+  "details": "A comprehensive structured analysis in English using your cybersecurity/AI expertise. Use labeled sections with this format — each header on its own line followed by a colon:\\n\\nFor CYBER articles use relevant sections from:\\nThe Vulnerability: [CVE IDs, severity, affected products, nature of the flaw]\\nActive Exploitation: [threat actors, scope, what was compromised]\\nAttacker Techniques: [TTPs, tools, malware, attack vectors]\\nImpact: [affected organizations, data exposed, financial/operational damage]\\nOfficial Response: [patches, advisories, government statements]\\nRecommendations: [specific protection steps for organizations]\\n\\nFor AI articles use relevant sections from:\\nKey Innovation: [what is new, how it differs from prior work]\\nTechnical Details: [architecture, methodology, benchmarks]\\nIndustry Impact: [market implications, competitive landscape]\\nExpert Reactions: [analyst opinions, community response]\\nPractical Implications: [what this means for developers/businesses/users]\\n\\nInclude 2-4 relevant sections. Each section should be 2-4 sentences. If article content is limited, use your domain expertise to provide informed analysis.",
   "category": "ai" or "cyber",
   "title_he": "Keep the original English title as-is"
 }}
@@ -44,6 +49,16 @@ DEDUP_PROMPT = """בדוק אם שתי הכותרות הבאות מדברות ע
 def load_config():
     with open(CONFIG_DIR / "config.yaml", "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
+
+
+def _parse_llm_json(text):
+    """Extract and parse JSON from LLM response."""
+    text = text.strip()
+    if "```json" in text:
+        text = text.split("```json")[1].split("```")[0].strip()
+    elif "```" in text:
+        text = text.split("```")[1].split("```")[0].strip()
+    return json.loads(text)
 
 
 class GeminiProvider:
@@ -71,28 +86,33 @@ class GeminiProvider:
         self._last_call = time.time()
 
     def summarize(self, title, content, category):
-        """Summarize and translate an article to Hebrew."""
-        self._rate_limit()
-        prompt = SUMMARIZE_PROMPT.format(
-            title=title, content=content[:6000], category=category
-        )
-        try:
-            response = self.model.generate_content(prompt)
-            text = response.text.strip()
-            # Extract JSON from response
-            if "```json" in text:
-                text = text.split("```json")[1].split("```")[0].strip()
-            elif "```" in text:
-                text = text.split("```")[1].split("```")[0].strip()
-            return json.loads(text)
-        except (json.JSONDecodeError, Exception) as e:
-            log.warning(f"Gemini summarization failed: {e}")
-            return {
-                "summary": title[:100],
-                "details": content[:500],
-                "category": category,
-                "title_he": title,
-            }
+        """Summarize an article with retry on failure."""
+        for attempt in range(2):
+            self._rate_limit()
+            prompt = SUMMARIZE_PROMPT.format(
+                title=title, content=content[:6000], category=category
+            )
+            try:
+                response = self.model.generate_content(prompt)
+                result = _parse_llm_json(response.text)
+                # Validate: summary should not be identical to title
+                if result.get("summary", "").strip() == title.strip():
+                    log.warning("Gemini returned title as summary, retrying...")
+                    continue
+                return result
+            except (json.JSONDecodeError, Exception) as e:
+                log.warning(f"Gemini summarization attempt {attempt+1} failed: {e}")
+                continue
+
+        # Final fallback: use description as summary, not title
+        log.warning(f"Gemini failed after retries for: {title[:60]}")
+        desc = content[:300] if content else title
+        return {
+            "summary": desc,
+            "details": "",
+            "category": category,
+            "title_he": title,
+        }
 
     def check_duplicate(self, title_a, title_b):
         """Ask LLM if two titles refer to the same story."""
@@ -132,30 +152,35 @@ class ClaudeProvider:
         self._last_call = time.time()
 
     def summarize(self, title, content, category):
-        self._rate_limit()
-        prompt = SUMMARIZE_PROMPT.format(
-            title=title, content=content[:6000], category=category
-        )
-        try:
-            message = self.client.messages.create(
-                model=self.model,
-                max_tokens=1024,
-                messages=[{"role": "user", "content": prompt}],
+        for attempt in range(2):
+            self._rate_limit()
+            prompt = SUMMARIZE_PROMPT.format(
+                title=title, content=content[:6000], category=category
             )
-            text = message.content[0].text.strip()
-            if "```json" in text:
-                text = text.split("```json")[1].split("```")[0].strip()
-            elif "```" in text:
-                text = text.split("```")[1].split("```")[0].strip()
-            return json.loads(text)
-        except (json.JSONDecodeError, Exception) as e:
-            log.warning(f"Claude summarization failed: {e}")
-            return {
-                "summary": title[:100],
-                "details": content[:500],
-                "category": category,
-                "title_he": title,
-            }
+            try:
+                message = self.client.messages.create(
+                    model=self.model,
+                    max_tokens=1024,
+                    messages=[{"role": "user", "content": prompt}],
+                )
+                text = message.content[0].text
+                result = _parse_llm_json(text)
+                if result.get("summary", "").strip() == title.strip():
+                    log.warning("Claude returned title as summary, retrying...")
+                    continue
+                return result
+            except (json.JSONDecodeError, Exception) as e:
+                log.warning(f"Claude summarization attempt {attempt+1} failed: {e}")
+                continue
+
+        log.warning(f"Claude failed after retries for: {title[:60]}")
+        desc = content[:300] if content else title
+        return {
+            "summary": desc,
+            "details": "",
+            "category": category,
+            "title_he": title,
+        }
 
     def check_duplicate(self, title_a, title_b):
         self._rate_limit()
