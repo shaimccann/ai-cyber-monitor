@@ -16,21 +16,12 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 ARTICLES_DIR = DATA_DIR / "articles"
 
-LOG_DIR = DATA_DIR / "logs"
-
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     datefmt="%H:%M:%S",
 )
 log = logging.getLogger(__name__)
-
-# Also log to a file for debugging (gets committed to repo)
-LOG_DIR.mkdir(parents=True, exist_ok=True)
-_file_handler = logging.FileHandler(LOG_DIR / "summarize_debug.log", mode="w", encoding="utf-8")
-_file_handler.setLevel(logging.DEBUG)
-_file_handler.setFormatter(logging.Formatter("%(asctime)s [%(levelname)s] %(name)s: %(message)s"))
-logging.getLogger().addHandler(_file_handler)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -109,11 +100,18 @@ def summarize_articles():
 
     log.info(f"Summarizing {len(to_summarize)} articles...")
 
+    # Save debug info to JSON (not blocked by *.log in .gitignore)
+    debug_info = {"timestamp": datetime.now(timezone.utc).isoformat(), "errors": []}
+    debug_file = DATA_DIR / "summarize_debug.json"
+
     provider = get_provider(config)
+    log.info(f"Provider: {type(provider).__name__}")
 
     # Test API connection before processing all articles
     if hasattr(provider, 'test_connection'):
-        if not provider.test_connection():
+        ok = provider.test_connection()
+        debug_info["api_test"] = "OK" if ok else "FAILED"
+        if not ok:
             log.error("LLM API connection test failed! Check API key and model name.")
 
     success_count = 0
@@ -155,10 +153,25 @@ def summarize_articles():
             success_count += 1
         else:
             fail_count += 1
+            # Log first 5 failures for debugging
+            if len(debug_info["errors"]) < 5:
+                debug_info["errors"].append({
+                    "title": title[:80],
+                    "error": result.get("_error", "unknown"),
+                    "summary_preview": result.get("summary", "")[:100],
+                    "details_empty": result.get("details", "") == "",
+                })
 
     # Save enriched articles
     with open(articles_file, "w", encoding="utf-8") as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)
+
+    # Save debug info
+    debug_info["success"] = success_count
+    debug_info["fallback"] = fail_count
+    debug_info["total"] = len(articles)
+    with open(debug_file, "w", encoding="utf-8") as f:
+        json.dump(debug_info, f, ensure_ascii=False, indent=2)
 
     log.info(
         f"Summarization complete: {success_count} success, {fail_count} fallback, "

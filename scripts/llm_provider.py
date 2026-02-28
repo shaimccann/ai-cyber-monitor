@@ -137,6 +137,7 @@ class GeminiProvider:
             "details": "",
             "category": category,
             "title_he": title,
+            "_error": last_error or "unknown",
         }
 
     def check_duplicate(self, title_a, title_b):
