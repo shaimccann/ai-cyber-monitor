@@ -1,8 +1,70 @@
 {
-  "timestamp": "2026-02-28T06:42:14.441420+00:00",
-  "errors": [],
+  "timestamp": "2026-02-28T07:00:11.636740+00:00",
+  "errors": [
+    {
+      "title": "AI is rewiring how the world’s best Go players think",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Trump orders federal agencies to drop Anthropic’s AI",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "We don&#8217;t have to have unsupervised killer robots",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "The Galaxy S26 is a photography nightmare",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Block lays off 40% of workforce as it goes all-in on AI tools",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Gr",
+      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "FAILED",
-  "success": 57,
-  "fallback": 0,
+  "api_test_detail": "model=gemini-2.5-flash-lite, error=ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+  "success": 0,
+  "fallback": 57,
   "total": 57
 }
