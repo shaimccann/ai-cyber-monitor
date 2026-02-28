@@ -34,6 +34,10 @@ jobs:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
 
+      - name: Show summarize debug log
+        if: always()
+        run: cat data/logs/summarize_debug.log 2>/dev/null || echo "No debug log found"
+
       - name: Copy data to docs for GitHub Pages
         run: |
           mkdir -p docs/data/articles

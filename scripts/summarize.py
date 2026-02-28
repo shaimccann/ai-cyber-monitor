@@ -16,12 +16,21 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 ARTICLES_DIR = DATA_DIR / "articles"
 
+LOG_DIR = DATA_DIR / "logs"
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     datefmt="%H:%M:%S",
 )
 log = logging.getLogger(__name__)
+
+# Also log to a file for debugging (gets committed to repo)
+LOG_DIR.mkdir(parents=True, exist_ok=True)
+_file_handler = logging.FileHandler(LOG_DIR / "summarize_debug.log", mode="w", encoding="utf-8")
+_file_handler.setLevel(logging.DEBUG)
+_file_handler.setFormatter(logging.Formatter("%(asctime)s [%(levelname)s] %(name)s: %(message)s"))
+logging.getLogger().addHandler(_file_handler)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -101,6 +110,12 @@ def summarize_articles():
     log.info(f"Summarizing {len(to_summarize)} articles...")
 
     provider = get_provider(config)
+
+    # Test API connection before processing all articles
+    if hasattr(provider, 'test_connection'):
+        if not provider.test_connection():
+            log.error("LLM API connection test failed! Check API key and model name.")
+
     success_count = 0
     fail_count = 0
 

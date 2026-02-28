@@ -84,8 +84,22 @@ class GeminiProvider:
             time.sleep(min_interval - elapsed)
         self._last_call = time.time()
 
+    def test_connection(self):
+        """Quick test to verify Gemini API works."""
+        try:
+            response = self.client.models.generate_content(
+                model=self.model_name,
+                contents="Reply with exactly: OK",
+            )
+            log.info(f"Gemini API test OK: model={self.model_name}, response={response.text[:50]}")
+            return True
+        except Exception as e:
+            log.error(f"Gemini API test FAILED: model={self.model_name}, error={type(e).__name__}: {e}")
+            return False
+
     def summarize(self, title, content, category):
         """Summarize an article with retry on failure."""
+        last_error = None
         for attempt in range(2):
             self._rate_limit()
             prompt = SUMMARIZE_PROMPT.format(
@@ -96,18 +110,27 @@ class GeminiProvider:
                     model=self.model_name,
                     contents=prompt,
                 )
-                result = _parse_llm_json(response.text)
+                raw_text = response.text
+                log.info(f"Gemini raw response ({len(raw_text)} chars): {raw_text[:150]}...")
+                result = _parse_llm_json(raw_text)
                 # Validate: summary should not be identical to title
                 if result.get("summary", "").strip() == title.strip():
                     log.warning("Gemini returned title as summary, retrying...")
                     continue
                 return result
-            except (json.JSONDecodeError, Exception) as e:
-                log.warning(f"Gemini summarization attempt {attempt+1} failed: {e}")
+            except json.JSONDecodeError as e:
+                last_error = f"JSON parse error: {e}"
+                log.warning(f"Gemini attempt {attempt+1} JSON parse failed: {e}")
+                if 'raw_text' in locals():
+                    log.warning(f"Raw text was: {raw_text[:300]}")
+                continue
+            except Exception as e:
+                last_error = f"{type(e).__name__}: {e}"
+                log.error(f"Gemini attempt {attempt+1} API error: {type(e).__name__}: {e}")
                 continue
 
         # Final fallback: use description as summary, not title
-        log.warning(f"Gemini failed after retries for: {title[:60]}")
+        log.warning(f"Gemini failed after retries for: {title[:60]} | Last error: {last_error}")
         desc = content[:300] if content else title
         return {
             "summary": desc,
