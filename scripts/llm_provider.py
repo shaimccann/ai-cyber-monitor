@@ -14,29 +14,27 @@ CONFIG_DIR = PROJECT_ROOT / "config"
 
 log = logging.getLogger(__name__)
 
-SUMMARIZE_PROMPT = """You are a cybersecurity and AI news analyst. Based on the title and any available content, produce an analysis.
+SUMMARIZE_PROMPT = """You are a cybersecurity and AI news analyst. Summarize the following article in the SAME LANGUAGE it is written in.
 
 Category hint: [{category}].
 
 RULES:
 1. The "summary" MUST be different from the title — rephrase and add context.
 2. The "details" MUST be much longer than the summary with structured sections.
-3. If the article content is short, use your expert knowledge to expand on the topic — explain the significance, potential impact, and relevant background.
+3. If the article content is short, use your expert knowledge to expand on the topic.
 4. NEVER just repeat the title or content verbatim.
+5. Keep the same language as the original article.
 
-Provide your response in this JSON format ONLY:
+Respond with ONLY this JSON (no markdown, no code blocks):
 {{
-  "summary": "A 2-3 sentence overview in English. Rephrase the key facts — what happened, who is involved, and why it matters. Must NOT be identical to the title.",
-  "details": "A comprehensive structured analysis in English using your cybersecurity/AI expertise. Use labeled sections with this format — each header on its own line followed by a colon:\\n\\nFor CYBER articles use relevant sections from:\\nThe Vulnerability: [CVE IDs, severity, affected products, nature of the flaw]\\nActive Exploitation: [threat actors, scope, what was compromised]\\nAttacker Techniques: [TTPs, tools, malware, attack vectors]\\nImpact: [affected organizations, data exposed, financial/operational damage]\\nOfficial Response: [patches, advisories, government statements]\\nRecommendations: [specific protection steps for organizations]\\n\\nFor AI articles use relevant sections from:\\nKey Innovation: [what is new, how it differs from prior work]\\nTechnical Details: [architecture, methodology, benchmarks]\\nIndustry Impact: [market implications, competitive landscape]\\nExpert Reactions: [analyst opinions, community response]\\nPractical Implications: [what this means for developers/businesses/users]\\n\\nInclude 2-4 relevant sections. Each section should be 2-4 sentences. If article content is limited, use your domain expertise to provide informed analysis.",
-  "category": "ai" or "cyber",
-  "title_he": "Keep the original English title as-is"
+  "summary": "2-3 sentence overview. Rephrase key facts: what happened, who is involved, why it matters.",
+  "details": "Structured analysis with 2-4 sections. For CYBER: use sections like Vulnerability, Exploitation, Impact, Recommendations. For AI: use sections like Key Innovation, Technical Details, Industry Impact, Practical Implications. Each section header followed by colon on its own line. Each section 2-4 sentences.",
+  "category": "ai or cyber"
 }}
 
 Title: {title}
 Content:
-{content}
-
-Respond with valid JSON only, no markdown code blocks."""
+{content}"""
 
 DEDUP_PROMPT = """בדוק אם שתי הכותרות הבאות מדברות על אותו נושא:
 כותרת 1: {title_a}
@@ -85,17 +83,19 @@ class GeminiProvider:
         self._last_call = time.time()
 
     def test_connection(self):
-        """Quick test to verify Gemini API works."""
+        """Quick test to verify Gemini API works. Returns (ok, error_message)."""
         try:
             response = self.client.models.generate_content(
                 model=self.model_name,
                 contents="Reply with exactly: OK",
             )
-            log.info(f"Gemini API test OK: model={self.model_name}, response={response.text[:50]}")
-            return True
+            msg = f"model={self.model_name}, response={response.text[:50]}"
+            log.info(f"Gemini API test OK: {msg}")
+            return True, msg
         except Exception as e:
-            log.error(f"Gemini API test FAILED: model={self.model_name}, error={type(e).__name__}: {e}")
-            return False
+            msg = f"model={self.model_name}, error={type(e).__name__}: {e}"
+            log.error(f"Gemini API test FAILED: {msg}")
+            return False, msg
 
     def summarize(self, title, content, category):
         """Summarize an article with retry on failure."""
@@ -129,14 +129,12 @@ class GeminiProvider:
                 log.error(f"Gemini attempt {attempt+1} API error: {type(e).__name__}: {e}")
                 continue
 
-        # Final fallback: use description as summary, not title
+        # Final fallback
         log.warning(f"Gemini failed after retries for: {title[:60]} | Last error: {last_error}")
-        desc = content[:300] if content else title
         return {
-            "summary": desc,
+            "summary": "",
             "details": "",
             "category": category,
-            "title_he": title,
             "_error": last_error or "unknown",
         }
 

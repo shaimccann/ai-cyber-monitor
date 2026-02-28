@@ -109,10 +109,11 @@ def summarize_articles():
 
     # Test API connection before processing all articles
     if hasattr(provider, 'test_connection'):
-        ok = provider.test_connection()
+        ok, test_msg = provider.test_connection()
         debug_info["api_test"] = "OK" if ok else "FAILED"
+        debug_info["api_test_detail"] = test_msg
         if not ok:
-            log.error("LLM API connection test failed! Check API key and model name.")
+            log.error(f"LLM API connection test failed: {test_msg}")
 
     success_count = 0
     fail_count = 0
@@ -143,24 +144,25 @@ def summarize_articles():
 
         result = provider.summarize(title, content, category)
 
-        # Update article with Hebrew content
-        article["title_he"] = result.get("title_he", title)
-        article["summary_he"] = result.get("summary", title)
-        article["details_he"] = result.get("details", content[:500])
+        is_fallback = "_error" in result
+
+        # Update article fields
+        article["title_he"] = title  # Keep original title
+        article["summary_he"] = result.get("summary", "") or description or title
+        article["details_he"] = result.get("details", "") or ""
         article["category"] = result.get("category", category)
 
-        if result.get("summary") and result["summary"] != title[:100]:
-            success_count += 1
-        else:
+        if is_fallback:
             fail_count += 1
-            # Log first 5 failures for debugging
-            if len(debug_info["errors"]) < 5:
+            if len(debug_info["errors"]) < 10:
                 debug_info["errors"].append({
                     "title": title[:80],
                     "error": result.get("_error", "unknown"),
                     "summary_preview": result.get("summary", "")[:100],
-                    "details_empty": result.get("details", "") == "",
+                    "has_details": bool(result.get("details")),
                 })
+        else:
+            success_count += 1
 
     # Save enriched articles
     with open(articles_file, "w", encoding="utf-8") as f:
