@@ -3,7 +3,7 @@
 llm:
   provider: "gemini"  # gemini / claude
   gemini:
-    model: "gemini-2.5-flash-lite"
+    model: "gemini-2.0-flash"
     max_rpm: 15
     max_tokens: 1000000
   claude:
