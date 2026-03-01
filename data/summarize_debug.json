@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-01T07:11:32.951334+00:00",
+  "timestamp": "2026-03-01T09:55:13.020497+00:00",
   "errors": [
     {
       "title": "Our agreement with the Department of War",
@@ -63,7 +63,7 @@
     }
   ],
   "api_test": "FAILED",
-  "api_test_detail": "model=gemini-2.5-flash-lite, error=ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+  "api_test_detail": "model=gemini-2.0-flash, error=ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
   "success": 0,
   "fallback": 16,
   "total": 16

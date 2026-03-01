@@ -15,7 +15,10 @@
         "url": "https://openai.com/index/our-agreement-with-the-department-of-war"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Our agreement with the Department of War",
+    "summary_he": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "details_he": ""
   },
   {
     "id": "c930ab73ee7f13b7",
@@ -33,7 +36,10 @@
         "url": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+    "summary_he": "Autonomous networks — intelligent, self-managing telecommunications operations — are moving from a future vision to a current priority for telecom operators. In the latest NVIDIA State of AI in Telecommunications report, network automation emerged as the top AI use case for investment and return on investment. Automation is different from autonomy. Beyond executing predefined workflows,Read Article",
+    "details_he": ""
   },
   {
     "id": "9cbc5f6cf01f7597",
@@ -51,7 +57,10 @@
         "url": "https://blogs.nvidia.com/blog/software-defined-ai-ran/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
+    "summary_he": "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RANRead Article",
+    "details_he": ""
   },
   {
     "id": "993121b7b3fab986",
@@ -69,7 +78,10 @@
         "url": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Trump moves to ban Anthropic from the US government",
+    "summary_he": "The Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+    "details_he": ""
   },
   {
     "id": "7b23d5a9d434ea7e",
@@ -87,7 +99,10 @@
         "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "The trap Anthropic built for itself",
+    "summary_he": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+    "details_he": ""
   },
   {
     "id": "6908bb7fa3d80bff",
@@ -105,7 +120,10 @@
         "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+    "summary_he": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+    "details_he": ""
   },
   {
     "id": "67482166251d8cae",
@@ -123,7 +141,10 @@
         "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "The billion-dollar infrastructure deals powering the AI boom",
+    "summary_he": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+    "details_he": ""
   },
   {
     "id": "ac68913a09cbbdb6",
@@ -141,7 +162,10 @@
         "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+    "summary_he": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+    "details_he": ""
   },
   {
     "id": "223f827ecc41321a",
@@ -159,7 +183,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
+    "summary_he": "A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of users. [...]",
+    "details_he": ""
   },
   {
     "id": "8922786342115120",
@@ -177,7 +204,10 @@
         "url": "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed",
+    "summary_he": "South Korea's National Tax Service accidentally exposed the mnemonic recovery phrase of a seized cryptocurrency wallet in an official press release, allowing hackers to steal 6.4 billion won ($4.8M) worth in cryptocurrency. [...]",
+    "details_he": ""
   },
   {
     "id": "4a131d8bae95efe6",
@@ -195,7 +225,10 @@
         "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Who is the Kimwolf Botmaster “Dort”?",
+    "summary_he": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
+    "details_he": ""
   },
   {
     "id": "d5d923ab97bfad16",
@@ -213,7 +246,10 @@
         "url": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
+    "summary_he": "OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take over control.\n\"Our vulnerability lives in the core system itself – no plugins, no marketplace, no user-installed extensions – just the bare OpenClaw gateway, running exactly as documented,\" Oasis",
+    "details_he": ""
   },
   {
     "id": "26e605083f67329b",
@@ -231,7 +267,10 @@
         "url": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
+    "summary_he": "New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data.\nThe findings come from Truffle Security, which discovered nearly 3,000 Google API keys (identified by the prefix \"AIza\") embedded in client-side code to provide Google-related services like",
+    "details_he": ""
   },
   {
     "id": "b711654174d44bee",
@@ -249,7 +288,10 @@
         "url": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "Canadian Tire Data Breach Impacts 38 Million Accounts",
+    "summary_he": "Names, addresses, email addresses, phone numbers, and encrypted passwords were compromised in the attack.The postCanadian Tire Data Breach Impacts 38 Million Accountsappeared first onSecurityWeek.",
+    "details_he": ""
   },
   {
     "id": "7c01095f08582ca6",
@@ -267,7 +309,10 @@
         "url": "https://www.sentinelone.com/blog/sentinelone-intelligence-brief-iranian-cyber-activity-outlook/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "SentinelOne Intelligence Brief: Iranian Cyber Activity Outlook",
+    "summary_he": "Iran-linked cyber activity may surge after strikes, targeting US and Israeli sectors; SentinelOne provides intel and urges vigilance.",
+    "details_he": ""
   },
   {
     "id": "8ce9743cbf1107f4",
@@ -285,6 +330,9 @@
         "url": "https://www.geektime.co.il/trump-vs-anthropic-government-ban/"
       }
     ],
-    "duplicate_count": 1
+    "duplicate_count": 1,
+    "title_he": "לא רק איראן: טראמפ והפנטגון הכריזו מלחמה על אנת'רופיק",
+    "summary_he": "דרמה לא רק במזרח התיכון, אלא גם בעמק הסיליקון: ממשל טראמפ הודיע הלילה (ו') על צעד חריג: ביטול מיידי של כל החוזים הממשלתיים שנחתמו עם חברת ה-AI אנת'רופיק (Anthropic), המפתחת של Claude והכנסתה לרשימה השחורה של הממשל. ההחלטה, שפורסמה בפוסט של הנשיא דונלד טראמפ ברשת Truth Social, מסמנת רגע מכונן ביחסים בין חברות הטכנולוגיה לדרג […]The postלא רק איראן: טראמפ והפנטגון הכריזו מלחמה על אנת'רופיקappeared first onגיקטיים.",
+    "details_he": ""
   }
 ]
