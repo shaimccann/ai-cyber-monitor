@@ -391,6 +391,22 @@
       "category": "ai",
       "enabled": true,
       "method": "rss"
+    },
+    {
+      "name": "Claude Code Issues",
+      "url": "https://github.com/anthropics/claude-code/issues",
+      "rss_url": "https://github.com/anthropics/claude-code/issues.atom",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
+    },
+    {
+      "name": "Claude Code Releases",
+      "url": "https://github.com/anthropics/claude-code/releases",
+      "rss_url": "https://github.com/anthropics/claude-code/releases.atom",
+      "category": "ai",
+      "enabled": true,
+      "method": "rss"
     }
   ]
 }
