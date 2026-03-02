@@ -17,8 +17,8 @@
     ],
     "duplicate_count": 1,
     "title_he": "ה-AI מגיע לאנטנה ומשנה את פני הרשת",
-    "summary_he": "בתערוכת MWC 2026 בברצלונה, מוצגות 33 הדגמות להטמעת בינה מלאכותית בתשתית האלחוטית של הדור השישי. \"כאשר 6G יהיה עמוד השדרה של עידן ה-AI, הטלקום ישמש כמערכת העצבים של הכלכלה\"",
-    "details_he": ""
+    "summary_he": "ארגון AI-RAN Alliance, שהוקם ב-2024, מטרתו לשפר את פריסת רשתות הדור החמישי ולהיערך לדור השישי באמצעות בניית רשתות סלולריות מבוססות בינה מלאכותית (AI-native).",
+    "details_he": "בתערוכת MWC 2026, 33 הדגמות להטמעת בינה מלאכותית בתשתית האלחוטית של הדור השישי נוצגו. הארגון AI-RAN Alliance, שהוקם ב-2024, מטרתו לשפר את פריסת רשתות הדור החמישי ולהיערך לדור השישי באמצעות בניית רשתות סלולריות מבוססות בינה מלאכותית (AI-native). הארגון כבר צבר 132 חברות, כולל ענקיות כמו קואלקום, וודאפון ו-SK Telecom, שיבצעו 33 הדגמות מעשיות. חברת אינטל דיווחה שהרעיון כבר נמצא בשימוש מעשי, והודיעה לקראת התערוכה שיש לה 6 לקוחות שהן חברות הטלקום הגדולות בעולם, אשר משתמשות במעבדי Intel Xeon 6 כדי לבצע אופטימיזציה מבוססת בינה מלאכותית של הרשתות האלחוטיות."
   },
   {
     "id": "91b26978e9557f7f",
@@ -168,45 +168,45 @@
     "details_he": "חברי צוות הביטחון הסייברי Socket חשפו תקציר של קמפיין חדש של האיום הצפון-קוריאני, שפרסם 26 כרטיסי פקדון npm שמסתירים תקשורת C2 עבור RAT רב-פלטפורמי. הכרטיסים מתחזים לכלי פיתוח, אך מכילים תכונות להפיץ את התקשורת C2, על ידי שימוש בתוכן Pastebin חסר-ערך כמסדר דברים מת. התקשורת C2 מאוחסנת ב-Vercel ב-31 התקנות. הקמפיין, שנעקב על ידי Socket וקמסק.או.קיי. קיירן מיימוטו, נעקב תחת השם StegaBin. הוא מיוחס לקבוצת האיומים הצפון-קוריאנית Famous Chollima. "
   },
   {
-    "id": "273c53d40670a05e",
-    "title_original": "Cyberattack briefly disrupts Russian internet regulator and defense ministry websites",
-    "url": "https://therecord.media/cyberattack-briefly-takes-down-russian-government-websites",
-    "description": "Russia’s internet regulator and defense ministry said their servers were hit by a large DDoS attack that briefly disrupted access to several government websites late last week.",
-    "source_name": "The Record",
-    "source_url": "https://therecord.media",
-    "category": "cyber",
-    "published": "2026-03-02T10:47:39+00:00",
-    "fetched_at": "2026-03-02T10:52:34.805146+00:00",
+    "id": "cb1120bc0469cd18",
+    "title_original": "From fake nudes to fake quotes: AI deepfakes plagued Olympic athletes",
+    "url": "https://cyberscoop.com/ai-deepfakes-olympic-athletes-political-manipulation/",
+    "description": "Trolls on 4chan generated sexualized images of female athletes, and the White House shared an AI-manipulated video of a hockey player—welcome to the new normal.The postFrom fake nudes to fake quotes: AI deepfakes plagued Olympic athletesappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "ai",
+    "published": "2026-03-02T11:00:00+00:00",
+    "fetched_at": "2026-03-02T11:02:54.427129+00:00",
     "sources": [
       {
-        "name": "The Record",
-        "url": "https://therecord.media/cyberattack-briefly-takes-down-russian-government-websites"
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/ai-deepfakes-olympic-athletes-political-manipulation/"
       }
     ],
     "duplicate_count": 1,
-    "title_he": "Cyberattack briefly disrupts Russian internet regulator and defense ministry websites",
-    "summary_he": "DDoS attack briefly disrupted access to several Russian government websites, including those operated by Roskomnadzor and the Defense Ministry, late last week. The attack, which originated from servers and botnets in several countries, was described as a 'complex multi-vector' operation by Roskomnadzor. The regulator said it had contained the attack on Friday, but users continued to report access problems over the weekend and Monday.",
-    "details_he": "The DDoS attack overwhelmed targeted servers with traffic, making websites temporarily unavailable to regular users. Roskomnadzor, which oversees internet censorship and digital surveillance rules in Russia, said the attack originated from servers and botnets located mainly in Russia, as well as in the United States, China, the United Kingdom, and the Netherlands. The incident comes as Roskomnadzor has tightened controls on messaging platforms, including restricting access to Telegram and moving to tighten restrictions on WhatsApp. The group responsible for the attack has not been identified, and no threat actor has publicly claimed responsibility."
+    "title_he": "From fake nudes to fake quotes: AI deepfakes plagued Olympic athletes",
+    "summary_he": "אי-אפקטים של AI פגעו באתלטיות אולימפיות, כולל תמונות מגונות וציטוטים מזויפים. פלטפורמות כמו 4chan ו-Telegram הפכו לכלי להפצת תמונות מגונות וציטוטים מזויפים.",
+    "details_he": "במהלך אולימפיאדת החורף במילאנו, איטליה, אתלטיות אולימפיות אמריקאיות נתקלו בתמונות מגונות שלהן שנוצרו בעזרת טכנולוגיות AI. התמונות, שכללו גם ציטוטים מזויפים, נפוצו באמצעות פלטפורמות כמו 4chan ו-Telegram. חברות מחקר, כולל Graphika, חקרו את התמונות והציטוטים שנפוצו באלגוריתם. על פי החברה, קהילות ברשת שהתמקדו בייצור והפצת תמונות מגונות של נשים קיימו קודם לכן, אך הטכנולוגיות AI הפכו את התהליך קל יותר ומהיר יותר."
   },
   {
-    "id": "ed490397e49d102b",
-    "title_original": "ISC Stormcast For Monday, March 2nd, 2026 https://isc.sans.edu/podcastdetail/9830, (Mon, Mar 2nd)",
-    "url": "https://isc.sans.edu/diary/rss/32756",
-    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-    "source_name": "SANS ISC",
-    "source_url": "https://isc.sans.edu",
+    "id": "8b0cb3316f951ca4",
+    "title_original": "How ‘silent probing’ can make your security playbook a liability",
+    "url": "https://cyberscoop.com/ai-silent-probing-cyber-risk-behavioral-defense-op-ed/",
+    "description": "Silent probing uses AI to measure your team’s response patterns over time, building a behavioral profile that makes follow-on attacks harder to spot and easier to time.The postHow ‘silent probing’ can make your security playbook a liabilityappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
     "category": "cyber",
-    "published": "2026-03-02T02:00:03+00:00",
-    "fetched_at": "2026-03-02T10:52:35.499749+00:00",
+    "published": "2026-03-02T11:00:00+00:00",
+    "fetched_at": "2026-03-02T11:02:54.427129+00:00",
     "sources": [
       {
-        "name": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/32756"
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/ai-silent-probing-cyber-risk-behavioral-defense-op-ed/"
       }
     ],
     "duplicate_count": 1,
-    "title_he": "ISC Stormcast For Monday, March 2nd, 2026 https://isc.sans.edu/podcastdetail/9830, (Mon, Mar 2nd)",
-    "summary_he": "SANS Internet Storm Center published its weekly podcast for March 2nd, 2026, providing insights and updates on the current cybersecurity landscape.",
-    "details_he": "The ISC Stormcast for Monday, March 2nd, 2026, covers various topics, including critical security issues and emerging threats. The podcast is available on the SANS Internet Storm Center website and is licensed under the Creative Commons Attribution-Noncommercial 3.0 United States License. This allows users to freely share and adapt the content for non-commercial purposes, promoting collaboration and knowledge sharing within the cybersecurity community."
+    "title_he": "How ‘silent probing’ can make your security playbook a liability",
+    "summary_he": "תקיפות סייבר מתפתחות כך שהן כוללות גם 'חיפוש סמוי' של תקיפה, שבו התוקפים משתמשים ב-AI כדי ללמוד את התגובות של המגן, ולזהות חולשות במערכת ההגנה.",
+    "details_he": "בעבר, תקיפות סייבר היו תלויות במערכת הפעלה, חולשות טכניות ופגמים בבטיחות. היום, תקיפות סייבר כוללות גם 'חיפוש סמוי' של תקיפה, שבו התוקפים משתמשים ב-AI כדי ללמוד את התגובות של המגן. התקיפות האלה כוללות קמפיינים ארוכי זמן, שבהם התוקפים מסתגלים לתגובות של המגן, ומשתמשים בזאת כדי לזהות חולשות במערכת ההגנה. זה חולש את ההגנה, ומפחית את היכולת של המגן להגיב."
   }
 ]
