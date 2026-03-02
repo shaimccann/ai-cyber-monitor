@@ -79,11 +79,11 @@ def build_email_html(articles, config):
                              padding: 2px 8px; border-radius: 12px; font-size: 12px; margin-bottom: 4px;">
                     {badge_text}
                 </span>
+                <span style="font-size: 12px; color: #888; margin-left: 8px;">{source}</span>
                 <div style="font-size: 15px; font-weight: 600; margin: 4px 0;">
                     <a href="{url}" style="color: #1a1a2e; text-decoration: none;">{title}</a>
                 </div>
                 <div style="font-size: 13px; color: #555; line-height: 1.5;">{summary}</div>
-                <div style="font-size: 12px; color: #888; margin-top: 4px;">{source}</div>
             </td>
         </tr>"""
 

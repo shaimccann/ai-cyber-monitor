@@ -256,6 +256,7 @@
     card.innerHTML = `
       <div class="card__header">
         <span class="card__badge ${badgeClass}">${badgeText}</span>
+        <span class="card__source">${escapeHtml(article.source_name || "")}</span>
         <span class="card__date">${dateStr}</span>
       </div>
       <h3 class="card__title">${escapeHtml(title)}</h3>
