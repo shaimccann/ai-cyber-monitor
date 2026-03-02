@@ -69,7 +69,7 @@
       "url": "https://ai.meta.com/blog/",
       "rss_url": null,
       "category": "ai",
-      "enabled": true,
+      "enabled": false,
       "method": "scrape"
     },
     {
@@ -235,7 +235,7 @@
     {
       "name": "Cisco Talos",
       "url": "https://blog.talosintelligence.com",
-      "rss_url": "https://blog.talosintelligence.com/feeds/posts/default/-/threat-research",
+      "rss_url": "https://blog.talosintelligence.com/feeds/posts/default",
       "category": "cyber",
       "enabled": true,
       "method": "rss"

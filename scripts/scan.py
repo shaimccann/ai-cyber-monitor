@@ -74,8 +74,13 @@ def fetch_rss(source, config):
 
     log.info(f"  Fetching RSS: {source['name']} ({rss_url})")
 
+    # GitHub atom feeds need a simpler User-Agent (full browser UA gets 406)
+    headers = HEADERS
+    if "github.com" in rss_url:
+        headers = {**HEADERS, "User-Agent": "Mozilla/5.0 (compatible; AI-Cyber-Monitor/1.0)"}
+
     try:
-        resp = requests.get(rss_url, headers=HEADERS, timeout=timeout)
+        resp = requests.get(rss_url, headers=headers, timeout=timeout)
         resp.raise_for_status()
     except requests.RequestException as e:
         log.warning(f"  Failed to fetch {source['name']}: {e}")
