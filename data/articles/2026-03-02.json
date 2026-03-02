@@ -1,5 +1,47 @@
 [
   {
+    "id": "cdffde3b2dd9347c",
+    "title_original": "The Post-Quantum Journey Begins: Enforce, See, and Evolve with Quantum-Safe SASE",
+    "url": "https://www.catonetworks.com/blog/the-post-quantum-journey-begins/",
+    "description": "Encrypted data has a shelf life, and for many organizations it must remain secret for years. The post-quantum risk is not a dramatic collapse of encryption, but a quieter threat: attackers harvesting encrypted traffic today so they can decrypt it in the future. That is why post-quantum readiness is increasingly a board and CEO-level responsibility,...The postThe Post-Quantum Journey Begins: Enforce, See, and Evolve with Quantum-Safe SASEappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-03-02T07:23:23+00:00",
+    "fetched_at": "2026-03-02T11:20:15.132922+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/the-post-quantum-journey-begins/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Post-Quantum Journey Begins: Enforce, See, and Evolve with Quantum-Safe SASE",
+    "summary_he": "ארגונים רבים נדרשים להתכונן לאיום הקוונטי, שאינו נובע מקריפטוגרפיה חלשה, אלא מאספקט של חקירה עתידית. הסבירות לפגיעה בסודות הארגונים גבוהה, ולכן קיים צורך בפעולה מיידית.",
+    "details_he": "איום הקוונטי אינו נובע מקריפטוגרפיה חלשה, אלא מאספקט של חקירה עתידית. הסבירות לפגיעה בסודות הארגונים גבוהה, ולכן קיים צורך בפעולה מיידית. TLS 1.3 מספקת חבילות סימן-4, שמשתמשות בקריפטוגרפיה קוונט-בטוחה, ומקטינה את החשיפה להתקפות 'סטור-עכשיו, פתוח-לאחר-מכן'. הפעולה הראשונה היא להשיג תצפית ובקרה מרכזיים, כדי לקבוע את הצורך בהעלאת קריפטוגרפיה קוונט-בטוחה."
+  },
+  {
+    "id": "abf6fa4f0ccfc59e",
+    "title_original": "לא. מה שראיתם לא היה יירוט לייזר של \"אור איתן\"",
+    "url": "https://www.geektime.co.il/no-that-video-did-not-show-or-eitan-laser/",
+    "description": "במהלך שעות הלילה נכנס גם חיזבאללה אל המערכה, כשלראשונה מזה יותר משנה, שיגר רקטות אל שטח ישראל. בנוסף, שוגרו גם מספר כטב\"מים אל מעבר לגבול, כאשר תיעוד היירוט של אחד מהם גרם לרבים לחשוב שמדובר ביירוט ראשון במלחמה של מערכת \"אור איתן\"  (לשעבר, \"מגן אור\"). אז זהו, שלא. קרן לייזר במקום מיירט חיזבאללה מצטרף למערכה […]The postלא. מה שראיתם לא היה יירוט לייזר של \"אור איתן\"appeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-02T11:40:54+00:00",
+    "fetched_at": "2026-03-02T11:42:49.454815+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/no-that-video-did-not-show-or-eitan-laser/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "לא. מה שראיתם לא היה יירוט לייזר של \"אור איתן\"",
+    "summary_he": "דובר צה\"ל הכחיש כי התיעוד של יירוט כטב\"ם הוא של מערכת 'אור איתן', ואמר שהיירוט בוצע באמצעות קרן הלייזר של המערכת. המערכת, שנמסרה לצה\"ל בסוף חודש דצמבר, תפקדה בצורה יעילה, והיירוט היה זול ומהיר.",
+    "details_he": "דובר צה\"ל הכחיש כי התיעוד של יירוט כטב\"ם הוא של מערכת 'אור איתן', ואמר שהיירוט בוצע באמצעות קרן הלייזר של המערכת. המערכת, שנמסרה לצה\"ל בסוף חודש דצמבר, תפקדה בצורה יעילה, והיירוט היה זול ומהיר. הקרן הלייזר של המערכת יכולה ליירט רקטות, טילים, פצמ\"רים ורחפנים, והיא עושה זאת על ידי מיקוד אנרגיה בעוצמה רבה על המטרה לאורך זמן. הטמפרטורה הקיצונית גורמת למטרה להתפרק או להתפוצץ בזמן מעוף, בגובה רב ולפני שתתקרב ליעדה."
+  },
+  {
     "id": "d25ad9a23b8ba2ec",
     "title_original": "סמארט שוטר הונפקה בתל אביב בשווי של 900 מיליון שקל",
     "url": "https://techtime.co.il/2026/03/02/smart-shooter-18/",
@@ -63,48 +105,6 @@
     "details_he": "ה-AI-RAN Alliance, שהוקם ב-2024, עובד על שילוב בינה מלאכותית ברשת הגישה האלחוטית (RAN) כדי לשפר את ביצועי הרשת, לייעל עומסי עבודה וליצור שירותי Edge-AI חדשים. הארגון כבר צבר 132 חברות, בהן ענקיות כמו קואלקום, וודאפון ו-SK Telecom. חברת אינטל דיווחה שהרעיון כבר נמצא בשימוש מעשי, והודיעה לקראת התערוכה שיש לה 6 לקוחות שהן חברות הטלקום הגדולות בעולם, אשר משתמשות במעבדי Intel Xeon 6 כדי לבצע אופטימיזציה מבוססת בינה מלאכותית של הרשתות האלחוטיות. פרוייקט משותף של אינטל ואריקסון השיג שיפור של 20% בתפוקת רשת של AT&T באמצעות AI מובנה. התוצאה: AT&T מתכננת להעביר 70% מתעבורת האלחוט שלה לפלטפורמות פתוחות עד סוף 2026."
   },
   {
-    "id": "91b26978e9557f7f",
-    "title_original": "טסלה מציעה לראשונה טרייד-אין בישראל",
-    "url": "https://www.geektime.co.il/tesla-trade-in-israel/",
-    "description": "לפני קצת יותר מ-5 שנים נכנסה Tesla לשוק הישראלי. על אף שהיא הספיקה להפוך למכונית החשמלית הכי נמכרת בישראל וגם לצאת לרכבת הרים עם המחירים שלה, רק בשנת 2026 היא מתחילה פעילות טרייד-אין גם בישראל – אבל בדרך שונה. לקבל פחות על הרכב המשומש, אבל לחסוך כאב ראש עסקאות טרייד-אין בענף הרכב מאפשרות לכם לחסוך […]The postטסלה מציעה לראשונה טרייד-אין בישראלappeared first onגיקטיים.",
-    "source_name": "Geektime (גיקטיים)",
-    "source_url": "https://www.geektime.co.il",
-    "category": "ai",
-    "published": "2026-03-02T08:34:25+00:00",
-    "fetched_at": "2026-03-02T11:20:20.603212+00:00",
-    "sources": [
-      {
-        "name": "Geektime (גיקטיים)",
-        "url": "https://www.geektime.co.il/tesla-trade-in-israel/"
-      }
-    ],
-    "duplicate_count": 1,
-    "title_he": "טסלה מציעה לראשונה טרייד-אין בישראל",
-    "summary_he": "טסלה החלה להציע טרייד-אין בישראל, אך בדרך שונה מהשאר בעולם. עסקאות טרייד-אין מאפשרות ללקוחות לחסוך את כאב הראש של מכירת רכב משומש.",
-    "details_he": "טסלה החלה להציע טרייד-אין בישראל, אך בשיתוף עם חברת 'טרייד מוביל'. לקוחות יכולים למצוא רכבים שונים בפלטפורמה של 'טרייד מוביל', כגון טסלה Model 3 משנת 2021 ב-107,990 ש\"ח. בישראל, טסלה לא מנהלת את מערך הטרייד-אין בעצמה, כמו שהיא עושה בארצות הברית ובמדינות רבות באירופה."
-  },
-  {
-    "id": "620083d59ca1ec5d",
-    "title_original": "רם מכנס מונה למנכ\"ל הבא של ארבה",
-    "url": "https://techtime.co.il/2026/03/02/arbe-30/",
-    "description": "ייכנס לתפקיד ב-1 באפריל. המנכ\"ל הנוכחי, קובי מרנקו, ישמש כנשיא החברה. הגדירה אסטרטגיה חדשה המרחיבה את שוקי היעד וכוללת כניסה לשוק הביטחוני. נסחרת בנסד\"ק לפי שווי שוק של כ-100 מיליון דולר",
-    "source_name": "Techtime (טקטיים)",
-    "source_url": "https://techtime.co.il",
-    "category": "ai",
-    "published": "2026-03-02T07:05:30+00:00",
-    "fetched_at": "2026-03-02T11:21:02.428792+00:00",
-    "sources": [
-      {
-        "name": "Techtime (טקטיים)",
-        "url": "https://techtime.co.il/2026/03/02/arbe-30/"
-      }
-    ],
-    "duplicate_count": 1,
-    "title_he": "רם מכנס מונה למנכ\"ל הבא של ארבה",
-    "summary_he": "חברת ארבה רובוטיקס הכריזה על מינויו של רם מכנס לתפקיד מנכ\"ל החברה, שיחליף את קובי מרנקו. המינוי ייכנס לתוקף ב-1 באפריל 2026, ומכנס ישמש כנשיא החברה.",
-    "details_he": "רם מכנס, ששימש כסמנכ\"ל העסקים של ארבה רובוטיקס במשך שמונה שנים, יחליף את קובי מרנקו בתפקיד המנכ\"ל. המינוי ייכנס לתוקף ב-1 באפריל 2026, ומכנס ישמש כנשיא החברה. החברה הגדירה אסטרטגיה חדשה המרחיבה את שוקי היעד, כולל כניסה לשוק הביטחוני. ארבה רובוטיקס פיתחה ערכת שבבי מכ\"ם לרכב, ובשנים האחרונות החברה ביצעה מאמצים רבים לשלב את המכ\"ם שלה בשוק הרכב. החברה פרסמה תחזית מכירות של 4-6 מיליון דולר לשנת 2026."
-  },
-  {
     "id": "eadabb41189ac83b",
     "title_original": "Taming Agentic Browsers: Vulnerability in Chrome Allowed Extensions to Hijack New Gemini Panel",
     "url": "https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/",
@@ -124,27 +124,6 @@
     "title_he": "Taming Agentic Browsers: Vulnerability in Chrome Allowed Extensions to Hijack New Gemini Panel",
     "summary_he": "חולשה ב-Google Chrome איפשרה להרחקת תוספיות זדוניות, שהיו מסוגלות לגשת לקובצי קובץ על המערכת המקומית. חולשה זו נמצאה במסגרת תוכנית 'Gemini' של Google, שמאפשרת תפעול של חוקרי סייבר לגשת לאזורי גישה רגישים.",
     "details_he": "במסגרת תוכנית 'Gemini' של Google, נמצאה חולשה ב-Google Chrome שאיפשרה להרחקת תוספיות זדוניות. חולשה זו איפשרה לתוספיות זדוניות לגשת לקובצי קובץ על המערכת המקומית. חולשה זו יכלה לגרום לפעולה של הרחקת תוספיות זדוניות, שהיו מסוגלות לגשת לקובצי קובץ על המערכת המקומית. חולשה זו נמצאה ונפתרה על ידי Google, ופתרון זה נכנס לתוקף בסוף ינואר. הלקוחות של Palo Alto Networks הם טובים יותר מוגנים דרך תוכנות ושירותים הבאים: Prisma Browser, שמעוצב למניעת התקפות על ידי תוספיות. אם אתם חושבים שאתם נפגעתם, או יש לכם סוגיה חשובה, נא לפנות לצוות Unit 42 Incident Response."
-  },
-  {
-    "id": "cdffde3b2dd9347c",
-    "title_original": "The Post-Quantum Journey Begins: Enforce, See, and Evolve with Quantum-Safe SASE",
-    "url": "https://www.catonetworks.com/blog/the-post-quantum-journey-begins/",
-    "description": "Encrypted data has a shelf life, and for many organizations it must remain secret for years. The post-quantum risk is not a dramatic collapse of encryption, but a quieter threat: attackers harvesting encrypted traffic today so they can decrypt it in the future. That is why post-quantum readiness is increasingly a board and CEO-level responsibility,...The postThe Post-Quantum Journey Begins: Enforce, See, and Evolve with Quantum-Safe SASEappeared first onCato Networks.",
-    "source_name": "Cato Networks Blog",
-    "source_url": "https://www.catonetworks.com/blog",
-    "category": "ai",
-    "published": "2026-03-02T07:23:23+00:00",
-    "fetched_at": "2026-03-02T11:20:15.132922+00:00",
-    "sources": [
-      {
-        "name": "Cato Networks Blog",
-        "url": "https://www.catonetworks.com/blog/the-post-quantum-journey-begins/"
-      }
-    ],
-    "duplicate_count": 1,
-    "title_he": "The Post-Quantum Journey Begins: Enforce, See, and Evolve with Quantum-Safe SASE",
-    "summary_he": "ארגונים רבים נדרשים להתכונן לאיום הקוונטי, שאינו נובע מקריפטוגרפיה חלשה, אלא מאספקט של חקירה עתידית. הסבירות לפגיעה בסודות הארגונים גבוהה, ולכן קיים צורך בפעולה מיידית.",
-    "details_he": "איום הקוונטי אינו נובע מקריפטוגרפיה חלשה, אלא מאספקט של חקירה עתידית. הסבירות לפגיעה בסודות הארגונים גבוהה, ולכן קיים צורך בפעולה מיידית. TLS 1.3 מספקת חבילות סימן-4, שמשתמשות בקריפטוגרפיה קוונט-בטוחה, ומקטינה את החשיפה להתקפות 'סטור-עכשיו, פתוח-לאחר-מכן'. הפעולה הראשונה היא להשיג תצפית ובקרה מרכזיים, כדי לקבוע את הצורך בהעלאת קריפטוגרפיה קוונט-בטוחה."
   },
   {
     "id": "1143d4798d69aa56",
@@ -208,5 +187,26 @@
     "title_he": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
     "summary_he": "חברי צוות הביטחון הסייבר גילו פגיעה באספקה של npm, שבה חברי הצוות הצפון-קוריאנים פרסמו 26 פקטוריות קוד שמסתירות פסטבין C2 ל-RAT רב-פלטפורמי.",
     "details_he": "הפגיעה, שמכונה 'StegaBin', נחשבת לחלק מהמבצע 'Contagious Interview' של חברי הצוות הצפון-קוריאנים. הפקטוריות הקוד הפגועות נרשמו בנמק, והן מסתירות תכונות של כלי פיתוח, אך בפועל הן מכילות תכונות של גנבת זהויות ו-RAT. ה-C2 הוסתר בפסטבין, והוא נגיש דרך 31 התקנים של Vercel. הפגיעה נחשבת לבעיה חמורה, וחברי צוות הביטחון תומכים בצרכנים להתקין תוכנות תקינות ולהגן על פקטוריות הקוד שלהם."
+  },
+  {
+    "id": "85be14bdd6a57a80",
+    "title_original": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
+    "url": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
+    "description": "The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).The postGoogle Working Towards Quantum-Safe Chrome HTTPS Certificatesappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-02T11:33:34+00:00",
+    "fetched_at": "2026-03-02T11:42:33.244617+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
+    "summary_he": "Google נוקטת בצעדים לפיתוח תעודות HTTPS חדשות, המבוססות על עץ המרקל (MTCs), כדי להגן על שרתי HTTPS מפני פגיעה על ידי מחשבים קוונטיים.",
+    "details_he": "Google נוקטת בצעדים לפיתוח תעודות HTTPS חדשות, המבוססות על עץ המרקל (MTCs), כדי להגן על שרתי HTTPS מפני פגיעה על ידי מחשבים קוונטיים. תעודות אלה יכולות להגן על שרתי HTTPS נגד פגיעה על ידי מחשבים קוונטיים, שהם יכולים לפצח קודים קלאסיים. Google עובדת על פיתוח תעודות HTTPS חדשות, שיכולות להגן על שרתי HTTPS מפני פגיעה על ידי מחשבים קוונטיים."
   }
 ]
