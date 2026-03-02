@@ -1,7 +1,10 @@
 # AI & Cyber Daily Monitor - Configuration
 
 llm:
-  provider: "gemini"  # gemini / claude
+  provider: "groq"  # groq / gemini / claude
+  groq:
+    model: "llama-3.3-70b-versatile"
+    max_rpm: 30
   gemini:
     model: "gemini-2.0-flash"
     max_rpm: 15

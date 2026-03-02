@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""LLM Provider Abstraction - Unified interface for Gemini and Claude."""
+"""LLM Provider Abstraction - Unified interface for Groq, Gemini, and Claude."""
 
 import json
 import logging
@@ -224,6 +224,106 @@ class ClaudeProvider:
             return False
 
 
+class GroqProvider:
+    """Groq API provider using OpenAI-compatible endpoint."""
+
+    def __init__(self, config):
+        from openai import OpenAI
+
+        api_key = os.environ.get("GROQ_API_KEY", "")
+        if not api_key:
+            raise ValueError("GROQ_API_KEY environment variable not set")
+
+        self.client = OpenAI(
+            api_key=api_key,
+            base_url="https://api.groq.com/openai/v1",
+        )
+        self.model = config["llm"]["groq"]["model"]
+        self.max_rpm = config["llm"]["groq"]["max_rpm"]
+        self._last_call = 0
+
+    def _rate_limit(self):
+        """Enforce rate limiting."""
+        min_interval = 60.0 / self.max_rpm
+        elapsed = time.time() - self._last_call
+        if elapsed < min_interval:
+            time.sleep(min_interval - elapsed)
+        self._last_call = time.time()
+
+    def test_connection(self):
+        """Quick test to verify Groq API works. Returns (ok, error_message)."""
+        try:
+            response = self.client.chat.completions.create(
+                model=self.model,
+                messages=[{"role": "user", "content": "Reply with exactly: OK"}],
+                max_tokens=10,
+            )
+            text = response.choices[0].message.content
+            msg = f"model={self.model}, response={text[:50]}"
+            log.info(f"Groq API test OK: {msg}")
+            return True, msg
+        except Exception as e:
+            msg = f"model={self.model}, error={type(e).__name__}: {e}"
+            log.error(f"Groq API test FAILED: {msg}")
+            return False, msg
+
+    def summarize(self, title, content, category):
+        """Summarize an article with retry on failure."""
+        last_error = None
+        for attempt in range(2):
+            self._rate_limit()
+            prompt = SUMMARIZE_PROMPT.format(
+                title=title, content=content[:6000], category=category
+            )
+            try:
+                response = self.client.chat.completions.create(
+                    model=self.model,
+                    messages=[{"role": "user", "content": prompt}],
+                    max_tokens=1500,
+                    temperature=0.3,
+                )
+                raw_text = response.choices[0].message.content
+                log.info(f"Groq raw response ({len(raw_text)} chars): {raw_text[:150]}...")
+                result = _parse_llm_json(raw_text)
+                if result.get("summary", "").strip() == title.strip():
+                    log.warning("Groq returned title as summary, retrying...")
+                    continue
+                return result
+            except json.JSONDecodeError as e:
+                last_error = f"JSON parse error: {e}"
+                log.warning(f"Groq attempt {attempt+1} JSON parse failed: {e}")
+                if 'raw_text' in locals():
+                    log.warning(f"Raw text was: {raw_text[:300]}")
+                continue
+            except Exception as e:
+                last_error = f"{type(e).__name__}: {e}"
+                log.error(f"Groq attempt {attempt+1} API error: {type(e).__name__}: {e}")
+                continue
+
+        log.warning(f"Groq failed after retries for: {title[:60]} | Last error: {last_error}")
+        return {
+            "summary": "",
+            "details": "",
+            "category": category,
+            "_error": last_error or "unknown",
+        }
+
+    def check_duplicate(self, title_a, title_b):
+        """Ask LLM if two titles refer to the same story."""
+        self._rate_limit()
+        prompt = DEDUP_PROMPT.format(title_a=title_a, title_b=title_b)
+        try:
+            response = self.client.chat.completions.create(
+                model=self.model,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=10,
+            )
+            return "same" in response.choices[0].message.content.strip().lower()
+        except Exception as e:
+            log.warning(f"Groq dedup check failed: {e}")
+            return False
+
+
 def get_provider(config=None):
     """Factory function - returns the configured LLM provider."""
     if config is None:
@@ -231,7 +331,9 @@ def get_provider(config=None):
 
     provider_name = os.environ.get("LLM_PROVIDER", config["llm"]["provider"])
 
-    if provider_name == "gemini":
+    if provider_name == "groq":
+        return GroqProvider(config)
+    elif provider_name == "gemini":
         return GeminiProvider(config)
     elif provider_name == "claude":
         return ClaudeProvider(config)
