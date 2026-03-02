@@ -91,8 +91,24 @@ def summarize_articles():
     with open(articles_file, "r", encoding="utf-8") as f:
         articles = json.load(f)
 
-    # Filter articles that haven't been summarized yet
-    to_summarize = [a for a in articles if "summary_he" not in a]
+    # Filter articles that need summarization:
+    # - no summary_he field, OR
+    # - empty summary_he, OR
+    # - summary_he equals the title (fallback, not a real summary), OR
+    # - no details_he (incomplete summarization)
+    def needs_summary(a):
+        summary = a.get("summary_he", "")
+        details = a.get("details_he", "")
+        title = a.get("title_original", "")
+        if not summary:
+            return True
+        if summary.strip() == title.strip():
+            return True
+        if not details:
+            return True
+        return False
+
+    to_summarize = [a for a in articles if needs_summary(a)]
 
     if not to_summarize:
         log.info("All articles already summarized")
