@@ -240,13 +240,11 @@
     // Primary article link
     const articleUrl = article.url || (article.sources && article.sources[0] && article.sources[0].url) || "";
 
-    // Sources list for expanded view
+    // Sources names for header display
     const sources = article.sources || [
       { name: article.source_name, url: article.url },
     ];
-    const sourcesHtml = sources
-      .map((s) => `<li><a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.name)} ↗</a></li>`)
-      .join("");
+    const sourceNames = sources.map((s) => s.name).filter(Boolean).join(", ") || article.source_name || "";
 
     // Article link button
     const articleLinkHtml = articleUrl
@@ -256,7 +254,7 @@
     card.innerHTML = `
       <div class="card__header">
         <span class="card__badge ${badgeClass}">${badgeText}</span>
-        <span class="card__source">${escapeHtml(article.source_name || "")}</span>
+        <span class="card__source">Sources: ${escapeHtml(sourceNames)}</span>
         <span class="card__date">${dateStr}</span>
       </div>
       <h3 class="card__title">${escapeHtml(title)}</h3>
@@ -268,10 +266,6 @@
           <div class="card__details-text">${formatDetails(details)}</div>
         ` : ""}
         ${articleLinkHtml}
-        <div class="card__sources-section">
-          <strong>Sources:</strong>
-          <ul class="card__sources-list">${sourcesHtml}</ul>
-        </div>
       </div>
     `;
 
