@@ -14,11 +14,11 @@ CONFIG_DIR = PROJECT_ROOT / "config"
 
 log = logging.getLogger(__name__)
 
-SUMMARIZE_PROMPT = """Summarize this {category} news article. Respond with ONLY valid JSON, no markdown.
+SUMMARIZE_PROMPT = """Summarize this {category} news article. Write the summary and details in the SAME LANGUAGE as the article. Respond with ONLY valid JSON, no markdown.
 
 {{
-  "summary": "2-3 sentences. Rephrase the key facts differently from the title.",
-  "details": "3-5 sentences expanding on impact and context.",
+  "summary": "2-3 sentences in the article's language. Rephrase the key facts differently from the title.",
+  "details": "3-5 sentences in the article's language expanding on impact and context.",
   "category": "ai or cyber"
 }}
 
