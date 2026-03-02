@@ -14,27 +14,16 @@ CONFIG_DIR = PROJECT_ROOT / "config"
 
 log = logging.getLogger(__name__)
 
-SUMMARIZE_PROMPT = """You are a cybersecurity and AI news analyst. Summarize the following article in the SAME LANGUAGE it is written in.
+SUMMARIZE_PROMPT = """Summarize this {category} news article. Respond with ONLY valid JSON, no markdown.
 
-Category hint: [{category}].
-
-RULES:
-1. The "summary" MUST be different from the title — rephrase and add context.
-2. The "details" MUST be much longer than the summary with structured sections.
-3. If the article content is short, use your expert knowledge to expand on the topic.
-4. NEVER just repeat the title or content verbatim.
-5. Keep the same language as the original article.
-
-Respond with ONLY this JSON (no markdown, no code blocks):
 {{
-  "summary": "2-3 sentence overview. Rephrase key facts: what happened, who is involved, why it matters.",
-  "details": "Structured analysis with 2-4 sections. For CYBER: use sections like Vulnerability, Exploitation, Impact, Recommendations. For AI: use sections like Key Innovation, Technical Details, Industry Impact, Practical Implications. Each section header followed by colon on its own line. Each section 2-4 sentences.",
+  "summary": "2-3 sentences. Rephrase the key facts differently from the title.",
+  "details": "3-5 sentences expanding on impact and context.",
   "category": "ai or cyber"
 }}
 
 Title: {title}
-Content:
-{content}"""
+Content: {content}"""
 
 DEDUP_PROMPT = """בדוק אם שתי הכותרות הבאות מדברות על אותו נושא:
 כותרת 1: {title_a}
@@ -277,13 +266,13 @@ class GroqProvider:
         for attempt in range(3):
             self._rate_limit()
             prompt = SUMMARIZE_PROMPT.format(
-                title=title, content=content[:6000], category=category
+                title=title, content=content[:2000], category=category
             )
             try:
                 response = self.client.chat.completions.create(
                     model=self.model,
                     messages=[{"role": "user", "content": prompt}],
-                    max_tokens=1500,
+                    max_tokens=500,
                     temperature=0.3,
                 )
                 raw_text = response.choices[0].message.content
