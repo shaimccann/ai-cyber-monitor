@@ -237,7 +237,7 @@
       "url": "https://blog.talosintelligence.com",
       "rss_url": "https://blog.talosintelligence.com/feeds/posts/default",
       "category": "cyber",
-      "enabled": true,
+      "enabled": false,
       "method": "rss"
     },
     {
