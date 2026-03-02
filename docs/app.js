@@ -114,6 +114,13 @@
     const results = await Promise.all(promises);
     allArticles = results.flat();
 
+    // Normalize categories - ensure every article has "ai" or "cyber"
+    for (const article of allArticles) {
+      if (article.category !== "ai" && article.category !== "cyber") {
+        article.category = "ai"; // default to AI for uncategorized
+      }
+    }
+
     applyFilters();
   }
 

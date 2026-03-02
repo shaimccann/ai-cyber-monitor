@@ -221,7 +221,11 @@ def summarize_articles():
         article["title_he"] = title  # Keep original title
         article["summary_he"] = result.get("summary", "") or description or title
         article["details_he"] = result.get("details", "") or ""
-        article["category"] = result.get("category", category)
+        # Only accept valid categories from LLM; keep original if invalid
+        llm_category = result.get("category", "")
+        if llm_category in ("ai", "cyber"):
+            article["category"] = llm_category
+        # else keep the original category from the source
 
         if is_fallback:
             fail_count += 1
