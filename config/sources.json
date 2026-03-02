@@ -235,7 +235,7 @@
     {
       "name": "Cisco Talos",
       "url": "https://blog.talosintelligence.com",
-      "rss_url": "https://blog.talosintelligence.com/feeds/posts/default",
+      "rss_url": "https://blog.talosintelligence.com/feeds/posts/default/-/threat-research",
       "category": "cyber",
       "enabled": true,
       "method": "rss"
@@ -269,7 +269,7 @@
       "url": "https://www.israeldefense.co.il/en",
       "rss_url": "https://www.israeldefense.co.il/rss.xml",
       "category": "cyber",
-      "enabled": true,
+      "enabled": false,
       "method": "rss"
     },
     {
@@ -309,7 +309,7 @@
       "url": "https://www.sygnia.co/blog",
       "rss_url": "https://www.sygnia.co/feed/",
       "category": "cyber",
-      "enabled": true,
+      "enabled": false,
       "method": "rss"
     },
     {

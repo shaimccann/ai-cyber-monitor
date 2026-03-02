@@ -47,6 +47,11 @@ def build_email_html(articles, config):
 
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+    import re
+
+    def _is_hebrew(text):
+        return bool(re.search(r'[\u0590-\u05FF]', text or ''))
+
     def article_row(article):
         title = article.get("title_he", article.get("title_original", ""))
         # Use 2-3 sentence summary; fallback to description if summary equals title
@@ -62,9 +67,14 @@ def build_email_html(articles, config):
         badge_color = "#8b5cf6" if cat == "ai" else "#059669"
         badge_text = "🤖 AI" if cat == "ai" else "🔒 Cyber"
 
+        # Detect Hebrew for RTL alignment
+        is_rtl = _is_hebrew(title) or _is_hebrew(summary)
+        text_dir = "rtl" if is_rtl else "ltr"
+        text_align = "right" if is_rtl else "left"
+
         return f"""
         <tr>
-            <td style="padding: 12px 16px; border-bottom: 1px solid #e2e8f0; text-align: left;">
+            <td style="padding: 12px 16px; border-bottom: 1px solid #e2e8f0; text-align: {text_align}; direction: {text_dir};">
                 <span style="display: inline-block; background: {badge_color}20; color: {badge_color};
                              padding: 2px 8px; border-radius: 12px; font-size: 12px; margin-bottom: 4px;">
                     {badge_text}

@@ -14,11 +14,13 @@ CONFIG_DIR = PROJECT_ROOT / "config"
 
 log = logging.getLogger(__name__)
 
-SUMMARIZE_PROMPT = """Summarize this {category} news article. Write the summary and details in the SAME LANGUAGE as the article. Respond with ONLY valid JSON, no markdown.
+SUMMARIZE_PROMPT = """Summarize this {category} news article. Write the summary and details in the SAME LANGUAGE as the original article (if the article is in Hebrew, write in Hebrew; if in English, write in English). Respond with ONLY valid JSON, no markdown.
+
+Important: The summary MUST be different from the title. Write a meaningful summary that captures the key points.
 
 {{
-  "summary": "2-3 sentences in the article's language. Rephrase the key facts differently from the title.",
-  "details": "3-5 sentences in the article's language expanding on impact and context.",
+  "summary": "2-3 sentences in the article's original language. Rephrase the key facts differently from the title. Must not be empty.",
+  "details": "3-5 sentences in the article's original language expanding on impact and context. Must not be empty.",
   "category": "ai or cyber"
 }}
 

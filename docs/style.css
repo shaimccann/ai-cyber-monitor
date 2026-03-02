@@ -398,6 +398,34 @@ body {
     opacity: 0.85;
 }
 
+/* === RTL Support for Hebrew Content === */
+.card--rtl {
+    direction: rtl;
+    text-align: right;
+}
+
+.card--rtl .card__header {
+    flex-direction: row-reverse;
+}
+
+.card--rtl .card__expand-hint {
+    text-align: right;
+}
+
+.card--rtl .card__details-text {
+    direction: rtl;
+    text-align: right;
+}
+
+.card--rtl .card__sources-section {
+    direction: ltr;
+    text-align: left;
+}
+
+.card--rtl .card__read-more {
+    direction: ltr;
+}
+
 /* === Footer === */
 .footer {
     background: var(--color-surface);

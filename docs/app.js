@@ -217,6 +217,12 @@
     const badgeText = isAI ? "🤖 AI" : "🔒 Cyber";
 
     const title = article.title_he || article.title_original || "No title";
+
+    // Detect Hebrew content for RTL styling
+    const isRTL = containsHebrew(title) || containsHebrew(article.summary_he) || containsHebrew(article.details_he);
+    if (isRTL) {
+      card.classList.add("card--rtl");
+    }
     const fullDesc = article.description || "";
     // Summary: 2-3 sentence summary; use summary_he if meaningful, else description
     const rawSummary = article.summary_he && article.summary_he !== title
@@ -304,6 +310,11 @@
     const div = document.createElement("div");
     div.textContent = text;
     return div.innerHTML;
+  }
+
+  function containsHebrew(text) {
+    if (!text) return false;
+    return /[\u0590-\u05FF]/.test(text);
   }
 
   function renderArticles() {
