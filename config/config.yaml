@@ -17,6 +17,7 @@ scan:
   max_articles_per_source: 10
   max_age_hours: 24
   request_timeout: 15
+  max_per_category: 5
 
 deduplication:
   url_check: true

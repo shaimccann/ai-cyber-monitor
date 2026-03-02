@@ -3,6 +3,7 @@
 
 import json
 import logging
+from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -15,6 +16,19 @@ from llm_provider import get_provider, load_config
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 ARTICLES_DIR = DATA_DIR / "articles"
+
+# Official company blogs and research labs get priority over news outlets
+PRIORITY_SOURCES = {
+    # AI - company blogs
+    "OpenAI Blog", "Google DeepMind", "Google AI Blog", "Microsoft Research",
+    "Hugging Face Blog", "NVIDIA AI Blog", "Amazon Science", "Anthropic", "Meta AI",
+    # Cyber - vendor/research blogs
+    "Microsoft Security", "Google Project Zero", "CrowdStrike Blog",
+    "Palo Alto Unit 42", "Cisco Talos", "Kaspersky Securelist", "SentinelOne Labs",
+    "Check Point Research", "Wiz Blog", "Cybereason Blog", "CyberArk Blog",
+    "Pentera Blog", "Sygnia Blog", "Cato Networks Blog", "XM Cyber Blog",
+    "Claroty Team82", "Check Point Blog",
+}
 
 logging.basicConfig(
     level=logging.INFO,
@@ -78,6 +92,41 @@ def fetch_article_content(url, timeout=15):
     return article_text[:8000]
 
 
+def select_top_articles(articles, max_per_category=5):
+    """Select top N articles per category, prioritizing official company blogs.
+
+    Priority sources (official blogs/research labs) are selected first,
+    then remaining slots are filled with news coverage, sorted by recency.
+    """
+    by_category = defaultdict(list)
+    for a in articles:
+        by_category[a.get("category", "ai")].append(a)
+
+    selected = []
+    for cat, cat_articles in by_category.items():
+        priority = [a for a in cat_articles if a.get("source_name") in PRIORITY_SOURCES]
+        regular = [a for a in cat_articles if a.get("source_name") not in PRIORITY_SOURCES]
+
+        # Sort each group by published date (newest first)
+        priority.sort(key=lambda a: a.get("published", ""), reverse=True)
+        regular.sort(key=lambda a: a.get("published", ""), reverse=True)
+
+        # Take priority sources first, fill remaining slots with regular
+        chosen = priority[:max_per_category]
+        remaining = max_per_category - len(chosen)
+        if remaining > 0:
+            chosen.extend(regular[:remaining])
+
+        log.info(
+            f"  Category '{cat}': {len(cat_articles)} total -> {len(chosen)} selected "
+            f"({min(len(priority), max_per_category)} priority, "
+            f"{max(0, len(chosen) - min(len(priority), max_per_category))} news)"
+        )
+        selected.extend(chosen)
+
+    return selected
+
+
 def summarize_articles():
     """Summarize all articles for today that haven't been summarized yet."""
     config = load_config()
@@ -89,7 +138,13 @@ def summarize_articles():
         return []
 
     with open(articles_file, "r", encoding="utf-8") as f:
-        articles = json.load(f)
+        all_articles = json.load(f)
+
+    # Select top articles per category (5 AI + 5 Cyber by default)
+    max_per_cat = config["scan"].get("max_per_category", 5)
+    log.info(f"Selecting top {max_per_cat} articles per category from {len(all_articles)} total...")
+    articles = select_top_articles(all_articles, max_per_category=max_per_cat)
+    log.info(f"Selected {len(articles)} articles for summarization")
 
     # Filter articles that need summarization:
     # - no summary_he field, OR
@@ -180,20 +235,21 @@ def summarize_articles():
         else:
             success_count += 1
 
-    # Save enriched articles
+    # Save only the selected articles (not the full list)
     with open(articles_file, "w", encoding="utf-8") as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)
 
     # Save debug info
     debug_info["success"] = success_count
     debug_info["fallback"] = fail_count
-    debug_info["total"] = len(articles)
+    debug_info["total_scanned"] = len(all_articles)
+    debug_info["selected"] = len(articles)
     with open(debug_file, "w", encoding="utf-8") as f:
         json.dump(debug_info, f, ensure_ascii=False, indent=2)
 
     log.info(
         f"Summarization complete: {success_count} success, {fail_count} fallback, "
-        f"{len(articles)} total articles"
+        f"{len(articles)} selected from {len(all_articles)} total"
     )
     return articles
 
