@@ -132,7 +132,7 @@
     "description": "Encrypted data has a shelf life, and for many organizations it must remain secret for years. The post-quantum risk is not a dramatic collapse of encryption, but a quieter threat: attackers harvesting encrypted traffic today so they can decrypt it in the future. That is why post-quantum readiness is increasingly a board and CEO-level responsibility,...The postThe Post-Quantum Journey Begins: Enforce, See, and Evolve with Quantum-Safe SASEappeared first onCato Networks.",
     "source_name": "Cato Networks Blog",
     "source_url": "https://www.catonetworks.com/blog",
-    "category": "cyber",
+    "category": "ai",
     "published": "2026-03-02T07:23:23+00:00",
     "fetched_at": "2026-03-02T11:20:15.132922+00:00",
     "sources": [
@@ -143,8 +143,8 @@
     ],
     "duplicate_count": 1,
     "title_he": "The Post-Quantum Journey Begins: Enforce, See, and Evolve with Quantum-Safe SASE",
-    "summary_he": "Encrypted data has a shelf life, and for many organizations it must remain secret for years. The post-quantum risk is not a dramatic collapse of encryption, but a quieter threat: attackers harvesting encrypted traffic today so they can decrypt it in the future. That is why post-quantum readiness is increasingly a board and CEO-level responsibility,...The postThe Post-Quantum Journey Begins: Enforce, See, and Evolve with Quantum-Safe SASEappeared first onCato Networks.",
-    "details_he": ""
+    "summary_he": "ארגונים רבים נדרשים להתכונן לאיום הקוונטי, שאינו נובע מקריפטוגרפיה חלשה, אלא מאספקט של חקירה עתידית. הסבירות לפגיעה בסודות הארגונים גבוהה, ולכן קיים צורך בפעולה מיידית.",
+    "details_he": "איום הקוונטי אינו נובע מקריפטוגרפיה חלשה, אלא מאספקט של חקירה עתידית. הסבירות לפגיעה בסודות הארגונים גבוהה, ולכן קיים צורך בפעולה מיידית. TLS 1.3 מספקת חבילות סימן-4, שמשתמשות בקריפטוגרפיה קוונט-בטוחה, ומקטינה את החשיפה להתקפות 'סטור-עכשיו, פתוח-לאחר-מכן'. הפעולה הראשונה היא להשיג תצפית ובקרה מרכזיים, כדי לקבוע את הצורך בהעלאת קריפטוגרפיה קוונט-בטוחה."
   },
   {
     "id": "1143d4798d69aa56",
