@@ -1,52 +1,17 @@
 {
-  "timestamp": "2026-03-02T09:19:58.165863+00:00",
+  "timestamp": "2026-03-02T09:33:45.518924+00:00",
   "errors": [
     {
-      "title": "טילים פגעו בדאטה סנטר של AWS במפרץ",
-      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 228)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "התקיפה באיראן: מי הרוויח חצי מיליון דולר בפולימרקט?",
-      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 45 (char 46)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "\"כולם יעשו את זה\": מייסד טוויטר מפטר 4,000 עובדים בגלל ה-AI",
-      "error": "JSON parse error: Unterminated string starting at: line 4 column 3 (char 538)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "\"העזרה הגיעה\": ישראל פרצה לאפליקציה האיראנית הפופולרית",
-      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 63 (char 64)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
       "title": "רם מכנס מונה למנכ\"ל הבא של ארבה",
-      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 63 (char 64)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "טראמפ אסר שימוש בקלוד, אך הוא כיכב במתקפה על איראן",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 537)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "אין לכם קליטה בממ\"ד? זה מה שאפשר לעשות",
-      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 19 (char 20)",
+      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 62 (char 63)",
       "summary_preview": "",
       "has_details": false
     }
   ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 3,
-  "fallback": 7,
-  "total": 35
+  "success": 9,
+  "fallback": 1,
+  "total_scanned": 34,
+  "selected": 10
 }
