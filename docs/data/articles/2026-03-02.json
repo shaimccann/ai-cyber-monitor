@@ -1,5 +1,26 @@
 [
   {
+    "id": "cb1120bc0469cd18",
+    "title_original": "From fake nudes to fake quotes: AI deepfakes plagued Olympic athletes",
+    "url": "https://cyberscoop.com/ai-deepfakes-olympic-athletes-political-manipulation/",
+    "description": "Trolls on 4chan generated sexualized images of female athletes, and the White House shared an AI-manipulated video of a hockey player—welcome to the new normal.The postFrom fake nudes to fake quotes: AI deepfakes plagued Olympic athletesappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "ai",
+    "published": "2026-03-02T11:00:00+00:00",
+    "fetched_at": "2026-03-02T11:02:54.427129+00:00",
+    "sources": [
+      {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/ai-deepfakes-olympic-athletes-political-manipulation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From fake nudes to fake quotes: AI deepfakes plagued Olympic athletes",
+    "summary_he": "אי-אפקטים של AI פגעו באתלטיות אולימפיות, כולל תמונות מגונות וציטוטים מזויפים. פלטפורמות כמו 4chan ו-Telegram הפכו לכלי להפצת תמונות מגונות וציטוטים מזויפים.",
+    "details_he": "במהלך אולימפיאדת החורף במילאנו, איטליה, אתלטיות אולימפיות אמריקאיות נתקלו בתמונות מגונות שלהן שנוצרו בעזרת טכנולוגיות AI. התמונות, שכללו גם ציטוטים מזויפים, נפוצו באמצעות פלטפורמות כמו 4chan ו-Telegram. חברות מחקר, כולל Graphika, חקרו את התמונות והציטוטים שנפוצו באלגוריתם. על פי החברה, קהילות ברשת שהתמקדו בייצור והפצת תמונות מגונות של נשים קיימו קודם לכן, אך הטכנולוגיות AI הפכו את התהליך קל יותר ומהיר יותר."
+  },
+  {
     "id": "dd1e76a9d9c29a3c",
     "title_original": "ה-AI מגיע לאנטנה ומשנה את פני הרשת",
     "url": "https://techtime.co.il/2026/03/02/6g-2/",
@@ -84,25 +105,25 @@
     "details_he": "אחד מה-Availability Zones של AWS נפגע מ\"עצמים\" שהובילו לפריצת שריפה במתקן. כוחות הכיבוי המקומיים שהוזעקו למקום נאלצו לנתק את זרם החשמל הראשי ואת הגנרטורים כדי להשתלט על הלהבות. התוצאה הייתה השבתה מיידית של שירותים עבור לקוחות המסתמכים על אותו אזור זמינות. AWS מקפידה על ניסוח זהיר ועמום בנוגע לזהות אותם \\\"עצמים\\\"."
   },
   {
-    "id": "5c96549a8c2df0d4",
-    "title_original": "HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance",
-    "url": "https://arxiv.org/abs/2602.23367",
-    "description": "arXiv:2602.23367v1 Announce Type: new \nAbstract: Model Context Protocol (MCP) servers contain a collection of thousands of open-source standardized tools, linking LLMs to external systems; however, existing datasets and benchmarks lack realistic, human-like user queries, remaining a critical gap in evaluating the tool usage and ecosystems of MCP servers. Existing datasets often do contain tool descriptions but fail to represent how different users portray their requests, leading to poor generalization and inflated reliability of certain benchmarks. This paper introduces the first large-scale MCP dataset featuring diverse, high-quality diverse user queries generated specifically to match 2800 tools across 308 MCP servers, developing on the MCP Zero dataset. Each tool is paired with multiple unique user personas that we have generated, to capture varying levels of user intent ranging from precise task requests, and ambiguous, exploratory commands, reflecting the complexity of real-world ",
-    "source_name": "arXiv (AI/CL/LG)",
-    "source_url": "https://arxiv.org",
-    "category": "ai",
-    "published": "2026-03-02T00:00:00-05:00",
-    "fetched_at": "2026-03-02T10:52:32.298782+00:00",
+    "id": "eadabb41189ac83b",
+    "title_original": "Taming Agentic Browsers: Vulnerability in Chrome Allowed Extensions to Hijack New Gemini Panel",
+    "url": "https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/",
+    "description": "A high-severity CVE-2026-0628 in Chrome's Gemini allowed local file access and privacy invasion. Google quickly patched the flaw.The postTaming Agentic Browsers: Vulnerability in Chrome Allowed Extensions to Hijack New Gemini Panelappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-02T11:00:36+00:00",
+    "fetched_at": "2026-03-02T11:10:40.649643+00:00",
     "sources": [
       {
-        "name": "arXiv (AI/CL/LG)",
-        "url": "https://arxiv.org/abs/2602.23367"
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/"
       }
     ],
     "duplicate_count": 1,
-    "title_he": "HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance",
-    "summary_he": "מחקר חדש פיתח סט נתונים גדול-ממדים לבדיקת ביצועי כלי חיפוש MCP, כולל מחקרים על פעולות של משתמשים אנושיים.",
-    "details_he": "הסט החדש, HumanMCP, כולל 2800 כלי חיפוש שונים, כולל תיאורים של כלי חיפוש, ו-308 כרטיסי MCP. המחקר נועד לפצות על חסרון נתונים בעבר, שבו סטיוי נתונים נקלטו רק באופן תאורטי, ולא תקין. הסט כולל 308 MCP servers, ו-2800 tools, וכל כלי חיפוש כולל תיאורים של פעולות של משתמשים אנושיים. המחקר נועד לפצות על חסרון נתונים בעבר, שבו סטיוי נתונים נקלטו רק באופן תאורטי, ולא תקין."
+    "title_he": "Taming Agentic Browsers: Vulnerability in Chrome Allowed Extensions to Hijack New Gemini Panel",
+    "summary_he": "חולשה במנוע החיפוש של Google חשפה את כלי הרחבה ל- Chrome לגישה לתיקיות וקבצים על המערכת המקומית, וכן לגישה לקמרה ומיקרופון של המשתמש.",
+    "details_he": "במסגרת מחקר חוקרים ב- Threat Research Center גילו חולשה במנוע החיפוש של Google, שאפשרה לכלי הרחבה רשעים לגשת לתיקיות וקבצים על המערכת המקומית, וכן לגשת לקמרה ומיקרופון של המשתמש. החולשה, שקיבלה את התווית CVE-2026-0628, נפתרה על ידי Google והופצה ב- January, והיא קשורה לתכונה החדשה של- Gemini ב- Chrome. החוקרים גם ציינו כי כלי הרחבה רשעים יכולים לגשת לקבצים ותיקיות, לקחת תמונות מאתרי אינטרנט, ולגשת לקמרה ומיקרופון של המשתמש, וכן לגשת לקבצים ותיקיות על המערכת המקומית. "
   },
   {
     "id": "cdffde3b2dd9347c",
@@ -147,6 +168,27 @@
     "details_he": "איראן מפעילה קבוצות סייבר שונות, כולל כוחות המשטרה המהפכנית ומשרד הביטחון, כמו גם פעילים ניתנים להפרדה וקבוצות 'האקטיביסטים'. הקבוצות האיראניות תומכות במגוון של מטרות, כולל ריגול, פעילות הפרעה ופעילות השמדה, כמו גם פעילות מבצעים. הפעילות הסייברית האיראנית צפויה להתעצם ולהתרחב למזרח התיכון, ארצות הברית ומדינות אחרות שאיראן רואה כמתנגדים במלחמה הנוכחית."
   },
   {
+    "id": "df2d3a2dd80e6a81",
+    "title_original": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+    "url": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+    "description": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework.\n\"Protection mechanism failure in MSHTML Framework allows an unauthorized",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-02T16:06:00+05:30",
+    "fetched_at": "2026-03-02T11:10:36.775221+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+    "summary_he": "חברת האקאמאי חשפה כי התופעל APT28, קבוצת פורצי דרך רוסיים, השתמשה בחולשה במסגרת MSHTML שנפתרה עוד לפני יום רביעי, פברואר 2026.",
+    "details_he": "בעקבות חשיפת APT28, חברת האקאמאי חשפה כי החולשה, CVE-2026-21513, הייתה נפתרת כבר ביום רביעי, פברואר 2026. החולשה, שהיא חולשה גבוהה, 8.8, נגרמה עקב כישלון במנגנון ההגנה של MSHTML. חברת האקאמאי ציינה כי החולשה הייתה נפתרת כבר, אך APT28 השתמשה בה כ-0-day בפעולות פורצי דרך. החולשה נפתרה על ידי חברת מיקרוסופט כחלק מעדכון יום רביעי, פברואר 2026."
+  },
+  {
     "id": "c71c2d067150a314",
     "title_original": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
     "url": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
@@ -166,47 +208,5 @@
     "title_he": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
     "summary_he": "חברי צוות הביטחון הסייברי Socket חשפו תקציר של קמפיין חדש של האיום הצפון-קוריאני, שפרסם 26 כרטיסי פקדון npm שמסתירים תקשורת C2 עבור RAT רב-פלטפורמי.",
     "details_he": "חברי צוות הביטחון הסייברי Socket חשפו תקציר של קמפיין חדש של האיום הצפון-קוריאני, שפרסם 26 כרטיסי פקדון npm שמסתירים תקשורת C2 עבור RAT רב-פלטפורמי. הכרטיסים מתחזים לכלי פיתוח, אך מכילים תכונות להפיץ את התקשורת C2, על ידי שימוש בתוכן Pastebin חסר-ערך כמסדר דברים מת. התקשורת C2 מאוחסנת ב-Vercel ב-31 התקנות. הקמפיין, שנעקב על ידי Socket וקמסק.או.קיי. קיירן מיימוטו, נעקב תחת השם StegaBin. הוא מיוחס לקבוצת האיומים הצפון-קוריאנית Famous Chollima. "
-  },
-  {
-    "id": "cb1120bc0469cd18",
-    "title_original": "From fake nudes to fake quotes: AI deepfakes plagued Olympic athletes",
-    "url": "https://cyberscoop.com/ai-deepfakes-olympic-athletes-political-manipulation/",
-    "description": "Trolls on 4chan generated sexualized images of female athletes, and the White House shared an AI-manipulated video of a hockey player—welcome to the new normal.The postFrom fake nudes to fake quotes: AI deepfakes plagued Olympic athletesappeared first onCyberScoop.",
-    "source_name": "CyberScoop",
-    "source_url": "https://cyberscoop.com",
-    "category": "ai",
-    "published": "2026-03-02T11:00:00+00:00",
-    "fetched_at": "2026-03-02T11:02:54.427129+00:00",
-    "sources": [
-      {
-        "name": "CyberScoop",
-        "url": "https://cyberscoop.com/ai-deepfakes-olympic-athletes-political-manipulation/"
-      }
-    ],
-    "duplicate_count": 1,
-    "title_he": "From fake nudes to fake quotes: AI deepfakes plagued Olympic athletes",
-    "summary_he": "אי-אפקטים של AI פגעו באתלטיות אולימפיות, כולל תמונות מגונות וציטוטים מזויפים. פלטפורמות כמו 4chan ו-Telegram הפכו לכלי להפצת תמונות מגונות וציטוטים מזויפים.",
-    "details_he": "במהלך אולימפיאדת החורף במילאנו, איטליה, אתלטיות אולימפיות אמריקאיות נתקלו בתמונות מגונות שלהן שנוצרו בעזרת טכנולוגיות AI. התמונות, שכללו גם ציטוטים מזויפים, נפוצו באמצעות פלטפורמות כמו 4chan ו-Telegram. חברות מחקר, כולל Graphika, חקרו את התמונות והציטוטים שנפוצו באלגוריתם. על פי החברה, קהילות ברשת שהתמקדו בייצור והפצת תמונות מגונות של נשים קיימו קודם לכן, אך הטכנולוגיות AI הפכו את התהליך קל יותר ומהיר יותר."
-  },
-  {
-    "id": "8b0cb3316f951ca4",
-    "title_original": "How ‘silent probing’ can make your security playbook a liability",
-    "url": "https://cyberscoop.com/ai-silent-probing-cyber-risk-behavioral-defense-op-ed/",
-    "description": "Silent probing uses AI to measure your team’s response patterns over time, building a behavioral profile that makes follow-on attacks harder to spot and easier to time.The postHow ‘silent probing’ can make your security playbook a liabilityappeared first onCyberScoop.",
-    "source_name": "CyberScoop",
-    "source_url": "https://cyberscoop.com",
-    "category": "cyber",
-    "published": "2026-03-02T11:00:00+00:00",
-    "fetched_at": "2026-03-02T11:02:54.427129+00:00",
-    "sources": [
-      {
-        "name": "CyberScoop",
-        "url": "https://cyberscoop.com/ai-silent-probing-cyber-risk-behavioral-defense-op-ed/"
-      }
-    ],
-    "duplicate_count": 1,
-    "title_he": "How ‘silent probing’ can make your security playbook a liability",
-    "summary_he": "תקיפות סייבר מתפתחות כך שהן כוללות גם 'חיפוש סמוי' של תקיפה, שבו התוקפים משתמשים ב-AI כדי ללמוד את התגובות של המגן, ולזהות חולשות במערכת ההגנה.",
-    "details_he": "בעבר, תקיפות סייבר היו תלויות במערכת הפעלה, חולשות טכניות ופגמים בבטיחות. היום, תקיפות סייבר כוללות גם 'חיפוש סמוי' של תקיפה, שבו התוקפים משתמשים ב-AI כדי ללמוד את התגובות של המגן. התקיפות האלה כוללות קמפיינים ארוכי זמן, שבהם התוקפים מסתגלים לתגובות של המגן, ומשתמשים בזאת כדי לזהות חולשות במערכת ההגנה. זה חולש את ההגנה, ומפחית את היכולת של המגן להגיב."
   }
 ]
