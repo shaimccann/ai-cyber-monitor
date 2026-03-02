@@ -243,12 +243,16 @@ class GroqProvider:
         self._last_call = 0
 
     def _rate_limit(self):
-        """Enforce rate limiting."""
-        min_interval = 60.0 / self.max_rpm
+        """Enforce minimum 3s between calls to stay under free tier limits."""
+        min_interval = max(3.0, 60.0 / self.max_rpm)
         elapsed = time.time() - self._last_call
         if elapsed < min_interval:
             time.sleep(min_interval - elapsed)
         self._last_call = time.time()
+
+    def _is_rate_limit_error(self, e):
+        """Check if an exception is a 429 rate limit error."""
+        return "429" in str(e) or "rate" in str(e).lower()
 
     def test_connection(self):
         """Quick test to verify Groq API works. Returns (ok, error_message)."""
@@ -268,9 +272,9 @@ class GroqProvider:
             return False, msg
 
     def summarize(self, title, content, category):
-        """Summarize an article with retry on failure."""
+        """Summarize an article with retry and exponential backoff on 429."""
         last_error = None
-        for attempt in range(2):
+        for attempt in range(3):
             self._rate_limit()
             prompt = SUMMARIZE_PROMPT.format(
                 title=title, content=content[:6000], category=category
@@ -297,7 +301,12 @@ class GroqProvider:
                 continue
             except Exception as e:
                 last_error = f"{type(e).__name__}: {e}"
-                log.error(f"Groq attempt {attempt+1} API error: {type(e).__name__}: {e}")
+                if self._is_rate_limit_error(e):
+                    wait = 10 * (2 ** attempt)
+                    log.warning(f"Groq 429 rate limit on attempt {attempt+1}, waiting {wait}s...")
+                    time.sleep(wait)
+                else:
+                    log.error(f"Groq attempt {attempt+1} API error: {type(e).__name__}: {e}")
                 continue
 
         log.warning(f"Groq failed after retries for: {title[:60]} | Last error: {last_error}")
