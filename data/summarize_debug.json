@@ -1,70 +1,70 @@
 {
-  "timestamp": "2026-03-01T10:20:56.985182+00:00",
+  "timestamp": "2026-03-02T07:27:20.468630+00:00",
   "errors": [
     {
-      "title": "Our agreement with the Department of War",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI con",
+      "error": "JSON parse error: Invalid control character at: line 3 column 15 (char 544)",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoni",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+      "error": "JSON parse error: Invalid control character at: line 3 column 15 (char 500)",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Gener",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "OpenAI reveals more details about its agreement with the Pentagon",
+      "error": "JSON parse error: Invalid control character at: line 3 column 15 (char 550)",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Trump moves to ban Anthropic from the US government",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+      "error": "JSON parse error: Invalid control character at: line 3 column 15 (char 651)",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The trap Anthropic built for itself",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+      "error": "JSON parse error: Invalid control character at: line 3 column 15 (char 493)",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "Letting Machines Decide What Matters",
+      "error": "JSON parse error: Invalid control character at: line 2 column 516 (char 517)",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The billion-dollar infrastructure deals powering the AI boom",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performan",
+      "error": "JSON parse error: Invalid control character at: line 3 column 15 (char 502)",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "Toward General Semantic Chunking: A Discriminative Framework for Ultra-Long Docu",
+      "error": "JSON parse error: Invalid control character at: line 3 column 15 (char 566)",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "An Agentic LLM Framework for Adverse Media Screening in AML Compliance",
+      "error": "JSON parse error: Invalid control character at: line 3 column 15 (char 558)",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed",
-      "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+      "title": "Task-Lens: Cross-Task Utility Based Speech Dataset Profiling for Low-Resource In",
+      "error": "JSON parse error: Invalid control character at: line 3 column 15 (char 536)",
       "summary_preview": "",
       "has_details": false
     }
   ],
-  "api_test": "FAILED",
-  "api_test_detail": "model=gemini-2.0-flash, error=ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+  "api_test": "OK",
+  "api_test_detail": "model=llama-3.3-70b-versatile, response=OK",
   "success": 0,
-  "fallback": 16,
-  "total": 16
+  "fallback": 34,
+  "total": 34
 }
