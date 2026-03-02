@@ -4,6 +4,7 @@
 import json
 import logging
 import os
+import re
 import time
 from pathlib import Path
 
@@ -14,13 +15,18 @@ CONFIG_DIR = PROJECT_ROOT / "config"
 
 log = logging.getLogger(__name__)
 
-SUMMARIZE_PROMPT = """Summarize this {category} news article. Write the summary and details in the SAME LANGUAGE as the original article (if the article is in Hebrew, write in Hebrew; if in English, write in English). Respond with ONLY valid JSON, no markdown.
+SUMMARIZE_PROMPT = """Summarize this {category} news article. Write the summary and details in the SAME LANGUAGE as the original article. If the article is in Hebrew, write in Hebrew. If in English, write in English.
 
-Important: The summary MUST be different from the title. Write a meaningful summary that captures the key points.
+CRITICAL JSON RULES:
+- Respond with ONLY valid JSON, no markdown
+- Escape all double quotes inside strings with backslash: \\"
+- Hebrew text with quotes like מנכ"ל must be written as מנכ\\"ל
+- Do NOT use line breaks inside JSON string values
+- The summary MUST be different from the title
 
 {{
-  "summary": "2-3 sentences in the article's original language. Rephrase the key facts differently from the title. Must not be empty.",
-  "details": "3-5 sentences in the article's original language expanding on impact and context. Must not be empty.",
+  "summary": "2-3 sentences in the article's language. Rephrase key facts differently from the title.",
+  "details": "3-5 sentences expanding on impact and context.",
   "category": "ai or cyber"
 }}
 
@@ -41,12 +47,44 @@ def load_config():
 
 
 def _parse_llm_json(text):
-    """Extract and parse JSON from LLM response."""
+    """Extract and parse JSON from LLM response, with robust error recovery."""
     text = text.strip()
     if "```json" in text:
         text = text.split("```json")[1].split("```")[0].strip()
     elif "```" in text:
         text = text.split("```")[1].split("```")[0].strip()
+
+    # Try direct parse first
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+
+    # Recovery: extract JSON object from text
+    match = re.search(r'\{[^{}]*\}', text, re.DOTALL)
+    if match:
+        json_str = match.group(0)
+        try:
+            return json.loads(json_str)
+        except json.JSONDecodeError:
+            pass
+
+    # Recovery: fix unescaped quotes inside JSON string values
+    # Find content between the outer braces
+    brace_match = re.search(r'\{(.+)\}', text, re.DOTALL)
+    if brace_match:
+        inner = brace_match.group(1)
+        # Extract fields using a pattern that finds "key": "value" pairs
+        result = {}
+        for field in ["summary", "details", "category"]:
+            pattern = rf'"{field}"\s*:\s*"(.*?)"(?:\s*[,}}])'
+            m = re.search(pattern, inner, re.DOTALL)
+            if m:
+                result[field] = m.group(1).replace('\n', ' ').strip()
+        if result.get("summary") or result.get("details"):
+            return result
+
+    # Last resort: raise the original error
     return json.loads(text)
 
 
@@ -268,13 +306,13 @@ class GroqProvider:
         for attempt in range(3):
             self._rate_limit()
             prompt = SUMMARIZE_PROMPT.format(
-                title=title, content=content[:2000], category=category
+                title=title, content=content[:3000], category=category
             )
             try:
                 response = self.client.chat.completions.create(
                     model=self.model,
                     messages=[{"role": "user", "content": prompt}],
-                    max_tokens=500,
+                    max_tokens=800,
                     temperature=0.3,
                 )
                 raw_text = response.choices[0].message.content
