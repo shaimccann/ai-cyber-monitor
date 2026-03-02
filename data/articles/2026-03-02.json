@@ -248,8 +248,8 @@
     ],
     "duplicate_count": 1,
     "title_he": "U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation",
-    "summary_he": "arXiv:2602.23400v1 Announce Type: new \nAbstract: Generative Recommendation (GenRec) typically leverages Large Language Models (LLMs) to redefine personalization as an instruction-driven sequence generation task. However, fine-tuning on user logs inadvertently encodes sensitive attributes into model parameters, raising critical privacy concerns. Existing Machine Unlearning (MU) techniques struggle to navigate this tension due to the Polysemy Dilemma, where neurons superimpose sensitive data with general reasoning patterns, leading to catastrophic utility loss under traditional gradient or pruning methods. To address this, we propose Utility-aware Contrastive AttenuatioN (U-CAN), a precision unlearning framework that operates on low-rank adapters. U-CAN quantifies risk by contrasting activations and focuses on neurons with asymmetric responses that are highly sensitive to the forgetting set but suppressed on the retention set. To safeguard performance, we introduce a utility-aware calibr",
-    "details_he": ""
+    "summary_he": "Researchers have developed a new framework called U-CAN to address the issue of sensitive attributes being encoded into model parameters during fine-tuning of Large Language Models for Generative Recommendation. This framework operates on low-rank adapters and uses a utility-aware calibration mechanism to safeguard performance. U-CAN selectively down-scales high-risk parameters to suppress sensitive retrieval pathways.",
+    "details_he": "The proposed U-CAN framework aims to resolve the tension between fine-tuning on user logs and preserving model utility. It quantifies risk by contrasting activations and focuses on neurons with asymmetric responses that are highly sensitive to the forgetting set but suppressed on the retention set. To achieve this, U-CAN uses a differentiable decay function to selectively down-scale high-risk parameters on LoRA adapters, preserving the topological connectivity of reasoning circuits. Experiments on two public datasets demonstrate the effectiveness of U-CAN across seven metrics."
   },
   {
     "id": "1a30f3905d6b21e6",
@@ -699,7 +699,7 @@
     "description": "במקביל לגל התקיפות, מיליוני איראנים קיבלו דרך אפליקציית תפילות מסרים המבטיחים חנינה לחיילים שיניחו את נשקם • בישראל שומרים על עמימות, אך ההערכה היא כי מדובר במבצע מתוכנן היטב",
     "source_name": "Globes Tech (גלובס טכנולוגיה)",
     "source_url": "https://www.globes.co.il",
-    "category": "ai",
+    "category": "ai or cyber",
     "published": "2026-03-01T12:43:00+00:00",
     "fetched_at": "2026-03-02T08:28:59.836465+00:00",
     "sources": [
@@ -710,7 +710,28 @@
     ],
     "duplicate_count": 1,
     "title_he": "בזמן ההפצצות: מתקפת הסייבר באפליקציית התפילות הפופולרית באיראן",
-    "summary_he": "במקביל לגל התקיפות, מיליוני איראנים קיבלו דרך אפליקציית תפילות מסרים המבטיחים חנינה לחיילים שיניחו את נשקם • בישראל שומרים על עמימות, אך ההערכה היא כי מדובר במבצע מתוכנן היטב",
-    "details_he": ""
+    "summary_he": "בעת ההפצצות, אפליקציית תפילות פופולרית באיראן שלחה מיליוני מסרים הקוראים לחיילים לנטוש את נשקם, ומבטיחים חנינה. המסרים נשלחו בזמן שהגל התקיפות הסייבר התרחש. ההערכה היא כי מדובר במבצע מתוכנן.",
+    "details_he": "בעת ההפצצות, אפליקציית תפילות פופולרית באיראן שלחה מיליוני מסרים הקוראים לחיילים לנטוש את נשקם, ומבטיחים חנינה. המסרים נשלחו בזמן שהגל התקיפות הסייבר התרחש. ההערכה היא כי מדובר במבצע מתוכנן, ובישראל שומרים על עמימות. האפליקציה הפופולרית, שמספר משתמשיה הוא מיליוני, נחשדת בהפצת המסרים."
+  },
+  {
+    "id": "91b26978e9557f7f",
+    "title_original": "טסלה מציעה לראשונה טרייד-אין בישראל",
+    "url": "https://www.geektime.co.il/tesla-trade-in-israel/",
+    "description": "לפני קצת יותר מ-5 שנים נכנסה Tesla לשוק הישראלי. על אף שהיא הספיקה להפוך למכונית החשמלית הכי נמכרת בישראל וגם לצאת לרכבת הרים עם המחירים שלה, רק בשנת 2026 היא מתחילה פעילות טרייד-אין גם בישראל – אבל בדרך שונה. לקבל פחות על הרכב המשומש, אבל לחסוך כאב ראש עסקאות טרייד-אין בענף הרכב מאפשרות לכם לחסוך […]The postטסלה מציעה לראשונה טרייד-אין בישראלappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai or cyber",
+    "published": "2026-03-02T08:34:25+00:00",
+    "fetched_at": "2026-03-02T09:19:39.005166+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/tesla-trade-in-israel/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "טסלה מציעה לראשונה טרייד-אין בישראל",
+    "summary_he": "Tesla, the electric vehicle company, has started offering trade-in services in Israel for the first time, but with a significant difference from how it works in other countries. The service allows customers to trade in their old vehicles for a new one, but with a twist - they will receive a lower price for their old vehicle, but with less hassle.",
+    "details_he": "Tesla has been operating in Israel for over five years and has become the best-selling electric vehicle in the country. However, until now, it did not offer trade-in services. The company has now partnered with 'Trade Mobil' to offer trade-in services in Israel, but with a different approach than in other countries. In Israel, customers will not be able to trade in their old vehicles directly with Tesla, but will need to go through a third-party platform. This means that customers will not receive the same benefits as in other countries, such as being able to trade in their old vehicle directly with Tesla and receiving a higher price for it. Instead, they will receive a lower price for their old vehicle, but with less hassle."
   }
 ]

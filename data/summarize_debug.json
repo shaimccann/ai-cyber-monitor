@@ -1,45 +1,39 @@
 {
-  "timestamp": "2026-03-02T08:29:01.814161+00:00",
+  "timestamp": "2026-03-02T09:19:58.165863+00:00",
   "errors": [
     {
-      "title": "U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generat",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 1600)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
       "title": "טילים פגעו בדאטה סנטר של AWS במפרץ",
-      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 218)",
+      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 228)",
       "summary_preview": "",
       "has_details": false
     },
     {
       "title": "התקיפה באיראן: מי הרוויח חצי מיליון דולר בפולימרקט?",
-      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 260)",
+      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 45 (char 46)",
       "summary_preview": "",
       "has_details": false
     },
     {
       "title": "\"כולם יעשו את זה\": מייסד טוויטר מפטר 4,000 עובדים בגלל ה-AI",
-      "error": "JSON parse error: Expecting ',' delimiter: line 3 column 49 (char 232)",
+      "error": "JSON parse error: Unterminated string starting at: line 4 column 3 (char 538)",
       "summary_preview": "",
       "has_details": false
     },
     {
       "title": "\"העזרה הגיעה\": ישראל פרצה לאפליקציה האיראנית הפופולרית",
-      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 56 (char 57)",
+      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 63 (char 64)",
       "summary_preview": "",
       "has_details": false
     },
     {
       "title": "רם מכנס מונה למנכ\"ל הבא של ארבה",
-      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 56 (char 57)",
+      "error": "JSON parse error: Expecting ',' delimiter: line 2 column 63 (char 64)",
       "summary_preview": "",
       "has_details": false
     },
     {
       "title": "טראמפ אסר שימוש בקלוד, אך הוא כיכב במתקפה על איראן",
-      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 243)",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 537)",
       "summary_preview": "",
       "has_details": false
     },
@@ -48,17 +42,11 @@
       "error": "JSON parse error: Expecting ',' delimiter: line 2 column 19 (char 20)",
       "summary_preview": "",
       "has_details": false
-    },
-    {
-      "title": "בזמן ההפצצות: מתקפת הסייבר באפליקציית התפילות הפופולרית באיראן",
-      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 246)",
-      "summary_preview": "",
-      "has_details": false
     }
   ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 25,
-  "fallback": 9,
-  "total": 34
+  "success": 3,
+  "fallback": 7,
+  "total": 35
 }
