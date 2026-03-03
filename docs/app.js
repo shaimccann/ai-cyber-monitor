@@ -124,8 +124,8 @@
     applyFilters();
   }
 
-  // Max articles to display
-  const MAX_DISPLAY = 20;
+  // Max articles per category
+  const MAX_PER_CATEGORY = 5;
 
   // === Filtering ===
 
@@ -164,9 +164,12 @@
       return true;
     });
 
-    // Sort by importance score, then take top 10
+    // Sort by importance score, then take top 5 per category
     matched.sort((a, b) => scoreArticle(b) - scoreArticle(a));
-    filteredArticles = matched.slice(0, MAX_DISPLAY);
+    const aiArticles = matched.filter(a => a.category === "ai").slice(0, MAX_PER_CATEGORY);
+    const cyberArticles = matched.filter(a => a.category === "cyber").slice(0, MAX_PER_CATEGORY);
+    filteredArticles = [...aiArticles, ...cyberArticles];
+    filteredArticles.sort((a, b) => scoreArticle(b) - scoreArticle(a));
 
     updateStats(matched.length);
     renderArticles();
