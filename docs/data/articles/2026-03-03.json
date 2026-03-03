@@ -208,5 +208,1355 @@
     "title_he": "How Threat Intelligence and Multi-Source Data Drive Smarter Vulnerability Prioritization",
     "summary_he": "Organizations are shifting their focus from relying solely on CVSS scores to prioritize vulnerabilities, as the growing number of published CVEs and the limitations of static scoring systems make this approach insufficient. Threat intelligence and multi-source data are now being used to drive smarter vulnerability prioritization.",
     "details_he": "The volume of published CVEs has surged to unprecedented levels, with 40,009 disclosed in 2024, a 38% increase year-over-year. This trend is expected to continue, with over 21,500 CVEs already catalogued by mid-2025. Threat intelligence provides real-world context to vulnerability data, including active campaigns targeting specific sectors, dark web chatter, and leaked credentials. By combining external signals with internal telemetry, organizations can take the first step towards actual prioritization and identify high-risk exposures beyond just asset vulnerabilities, such as phishing domains and impersonation sites."
+  },
+  {
+    "id": "f986ecd079707e26",
+    "title_original": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+    "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+    "description": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its announcements, OpenAI took great pains to say that…",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com",
+    "category": "ai",
+    "published": "2026-03-02T17:29:42+00:00",
+    "fetched_at": "2026-03-03T07:32:05.251292+00:00",
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "7d5591cba0970834",
+    "title_original": "I checked out one of the biggest anti-AI protests yet",
+    "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+    "description": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was…",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com",
+    "category": "ai",
+    "published": "2026-03-02T12:55:20+00:00",
+    "fetched_at": "2026-03-03T07:32:05.251292+00:00",
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "df3f76d89d4d9389",
+    "title_original": "Anthropic upgrades Claude’s memory to attract AI switchers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+    "description": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool for importing data from other chatbots. These upgrades could allow users who have been using rivals like OpenAI's ChatGPT […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-03-02T17:29:46-05:00",
+    "fetched_at": "2026-03-03T07:32:05.409365+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "6fcf33fc6eecde0a",
+    "title_original": "Apple might use Google servers to store data for its upgraded AI Siri",
+    "url": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+    "description": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-03-02T15:22:33-05:00",
+    "fetched_at": "2026-03-03T07:32:05.409365+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "3da21120b7006a0f",
+    "title_original": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
+    "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+    "description": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted. In 2019, the US Copyright […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-03-02T12:58:05-05:00",
+    "fetched_at": "2026-03-03T07:32:05.409365+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "c82639ca72a078ba",
+    "title_original": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
+    "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+    "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds over long distances. Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-03-02T11:56:49-05:00",
+    "fetched_at": "2026-03-03T07:32:05.409365+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "3fcba7098e843f78",
+    "title_original": "How OpenAI caved to the Pentagon on AI surveillance",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+    "description": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to blacklist Anthropic for standing firm on two red lines for military use: no mass surveillance of […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-03-02T09:22:18-05:00",
+    "fetched_at": "2026-03-03T07:32:05.409365+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "8ec71749926251bc",
+    "title_original": "Iowa county adopts strict zoning rules for data centers, but residents still worry",
+    "url": "https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/",
+    "description": "Though the rules are among the strictest in the US, locals say they aren't enough.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-03-02T15:34:42+00:00",
+    "fetched_at": "2026-03-03T07:32:05.519856+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "303e5523f17be314",
+    "title_original": "No one has a good plan for how AI companies should work with the government",
+    "url": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+    "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-02T22:59:10+00:00",
+    "fetched_at": "2026-03-03T07:32:05.701020+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "aba3aba3b4f95ba5",
+    "title_original": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+    "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+    "description": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-02T18:42:11+00:00",
+    "fetched_at": "2026-03-03T07:32:05.701020+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "effb4c256485e244",
+    "title_original": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+    "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+    "description": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-02T17:18:34+00:00",
+    "fetched_at": "2026-03-03T07:32:05.701020+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "c31bb7504e1f400e",
+    "title_original": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+    "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+    "description": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-02T15:14:36+00:00",
+    "fetched_at": "2026-03-03T07:32:05.701020+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "1d6ededc7fee4885",
+    "title_original": "Anthropic’s Claude reports widespread outage",
+    "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+    "description": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-02T13:31:49+00:00",
+    "fetched_at": "2026-03-03T07:32:05.701020+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "e909b4735efbac49",
+    "title_original": "Watershed Moment for AI–Human Collaboration in Math",
+    "url": "https://spectrum.ieee.org/ai-proof-verification",
+    "description": "When Ukrainian mathematicianMaryna Viazovskareceived aFields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022,it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had been invaded by Russia. Nearly four years later, Viazovska is making waves again.Today, ina collaboration between humans and AI, Viazovska’s proofs have been formerly verified, signaling rapid progress in AI’s abilities toassistwith mathematical research.“These new results seem very, very impressive, and definitely signal some rapid progress in this direction,” says AI-reasoning expert and Princeton University postdocLiam Fowl, who was not involved in the work.In her Fields Medal–winning research, Viazovska had tackled two versions of the sphere-packing problem, which asks: How densely can identical circles, spheres, et cetera, be packed inn-dimensional space? In two dimensions, the honeycomb is",
+    "source_name": "IEEE Spectrum",
+    "source_url": "https://spectrum.ieee.org",
+    "category": "ai",
+    "published": "2026-03-02T18:00:03+00:00",
+    "fetched_at": "2026-03-03T07:32:06.064979+00:00",
+    "sources": [
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/ai-proof-verification"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "4dac435b0fba13ea",
+    "title_original": "How Quantum Data Can Teach AI to Do Better Chemistry",
+    "url": "https://spectrum.ieee.org/quantum-chemistry",
+    "description": "Sometimes a visually compellingmetaphor is all you need to get an otherwise complicated idea across. In the summer of 2001, a Tulane physics professor namedJohn P. Perdewcame up with a banger. He wanted to convey the hierarchy of computational complexity inherent in the behavior of electrons in materials. He called it “Jacob’s Ladder.” He was appropriating an idea from the Book of Genesis, in which Jacob dreamed of a ladder “set up on the earth, and the top of it reached to heaven. And behold the angels of God ascending and descending on it.”Jacob’s Ladder represented a gradient and so too did Perdew’s ladder, not of spirit but of computation. At the lowest rung, the math was the simplest and least computationally draining, with materials represented as a smoothed-over, cartoon version of the atomic realm. As you climbed the ladder, using increasingly more intensive mathematics and compute power, descriptions of atomic reality became more precise. And at the very top, nature was perfec",
+    "source_name": "IEEE Spectrum",
+    "source_url": "https://spectrum.ieee.org",
+    "category": "ai",
+    "published": "2026-03-02T13:00:02+00:00",
+    "fetched_at": "2026-03-03T07:32:06.064979+00:00",
+    "sources": [
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/quantum-chemistry"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "83eb3122e2185764",
+    "title_original": "Noise reduction in BERT NER models for clinical entity extraction",
+    "url": "https://arxiv.org/abs/2603.00022",
+    "description": "arXiv:2603.00022v1 Announce Type: new \nAbstract: Precision is of utmost importance in the realm of clinical entity extraction from clinical notes and reports. Encoder Models fine-tuned for Named Entity Recognition (NER) are an efficient choice for this purpose, as they don't hallucinate. We pre-trained an in-house BERT over clinical data and then fine-tuned it for NER. These models performed well on recall but could not close upon the high precision range, needed for clinical models. To address this challenge, we developed a Noise Removal model that refines the output of NER. The NER model assigns token-level entity tags along with probability scores for each token. Our Noise Removal (NR) model then analyzes these probability sequences and classifies predictions as either weak or strong. A na\\\"ive approach might involve filtering predictions based on low probability values; however, this method is unreliable. Owing to the characteristics of the SoftMax function, Transformer based archi",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-03T00:00:00-05:00",
+    "fetched_at": "2026-03-03T07:32:06.327356+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.00022"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "a536813a6a2483cc",
+    "title_original": "Personalization Increases Affective Alignment but Has Role-Dependent Effects on Epistemic Independence in LLMs",
+    "url": "https://arxiv.org/abs/2603.00024",
+    "description": "arXiv:2603.00024v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are prone to sycophantic behavior, uncritically conforming to user beliefs. As models increasingly condition responses on user-specific context (personality traits, preferences, conversation history), they gain information to tailor agreement more effectively. Understanding how personalization modulates sycophancy is critical, yet systematic evaluation across models and contexts remains limited. We present a rigorous evaluation of personalization's impact on LLM sycophancy across nine frontier models and five benchmark datasets spanning advice, moral judgment, and debate contexts. We find that personalization generally increases affective alignment (emotional validation, hedging/deference), but affects epistemic alignment (belief adoption, position stability, resistance to influence) with context-dependent role modulation. When the LLM's role is to give advice, personalization strengthens epistemic independen",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-03T00:00:00-05:00",
+    "fetched_at": "2026-03-03T07:32:06.327356+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.00024"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "b0e7019466aaf666",
+    "title_original": "TAB-PO: Preference Optimization with a Token-Level Adaptive Barrier for Token-Critical Structured Generation",
+    "url": "https://arxiv.org/abs/2603.00025",
+    "description": "arXiv:2603.00025v1 Announce Type: new \nAbstract: Direct Preference Optimization is an offline post-SFT method for aligning language models from preference pairs, with strong results in instruction following and summarization. However, DPO's sequence-level implicit reward can be brittle for token-critical structured prediction settings such as medical annotation, which often exhibit (i) low-separation preference pairs, where chosen and rejected completions differ by minimal edit distance (often 1-3 tokens), and (ii) token-importance skew, where sparse semantic tokens (hierarchical labels and evidence Spans) carry disproportionate task importance relative to high-frequency structural tokens (JSON scaffolding). In this regime, standard DPO suffers from margin collapse (insufficient log-probability separation between near-identical preferences), likelihood squeezing (the margin objective shifts the absolute likelihoods of both completions together), and gradient dilution, where uniform seq",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-03T00:00:00-05:00",
+    "fetched_at": "2026-03-03T07:32:06.327356+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.00025"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "8ad1b332ad9d095d",
+    "title_original": "ActMem: Bridging the Gap Between Memory Retrieval and Reasoning in LLM Agents",
+    "url": "https://arxiv.org/abs/2603.00026",
+    "description": "arXiv:2603.00026v1 Announce Type: new \nAbstract: Effective memory management is essential for large language model (LLM) agents handling long-term interactions. Current memory frameworks typically treat agents as passive \"recorders\" and retrieve information without understanding its deeper implications. They may fail in scenarios requiring conflict detection and complex decision-making. To bridge this critical gap, we propose a novel actionable memory framework called ActMem that integrates memory retrieval with active causal reasoning. ActMem transforms unstructured dialogue history into a structured causal and semantic graph. By leveraging counterfactual reasoning and commonsense completion, it enables agents to deduce implicit constraints and resolve potential conflicts between past states and current intentions. Furthermore, we introduce a comprehensive dataset ActMemEval to evaluate agent reasoning capabilities in logic-driven scenarios, moving beyond the fact-retrieval focus of e",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-03T00:00:00-05:00",
+    "fetched_at": "2026-03-03T07:32:06.327356+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.00026"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "5f71485153dd3656",
+    "title_original": "EPPCMinerBen: A Novel Benchmark for Evaluating Large Language Models on Electronic Patient-Provider Communication via the Patient Portal",
+    "url": "https://arxiv.org/abs/2603.00028",
+    "description": "arXiv:2603.00028v1 Announce Type: new \nAbstract: Effective communication in health care is critical for treatment outcomes and adherence. With patient-provider exchanges shifting to secure messaging, analyzing electronic patient-communication (EPPC) data is both essential and challenging. We introduce EPPCMinerBen, a benchmark for evaluating LLMs in detecting communication patterns and extracting insights from electronic patient-provider messages. EPPCMinerBen includes three sub-tasks: Code Classification, Subcode Classification, and Evidence Extraction. Using 1,933 expert annotated sentences from 752 secure messages of the patient portal at Yale New Haven Hospital, it evaluates LLMs on identifying communicative intent and supportive text. Benchmarks span various LLMs under zero-shot and few-shot settings, with data to be released via the NCI Cancer Data Service. Model performance varied across tasks and settings. Llama-3.1-70B led in evidence extraction (F1: 82.84%) and performed well",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-03T00:00:00-05:00",
+    "fetched_at": "2026-03-03T07:32:06.327356+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.00028"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "4b75110f0195b307",
+    "title_original": "Embracing Anisotropy: Turning Massive Activations into Interpretable Control Knobs for Large Language Models",
+    "url": "https://arxiv.org/abs/2603.00029",
+    "description": "arXiv:2603.00029v1 Announce Type: new \nAbstract: Large Language Models (LLMs) exhibit highly anisotropic internal representations, often characterized by massive activations, a phenomenon where a small subset of feature dimensions possesses magnitudes significantly larger than the rest. While prior works view these extreme dimensions primarily as artifacts to be managed, we propose a distinct perspective: these dimensions serve as intrinsic interpretable functional units arising from domain specialization. Specifically, we propose a simple magnitude-based criterion to identify Domain-Critical Dimensions in a training-free manner. Our analyses reveal that such dimensions behave as interpretable semantic detectors for symbolic/quantitative patterns or domain-specific terms. In addition, we introduce Critical Dimension Steering, which applies activation steering exclusively to the identified dimensions. Empirical results show that this approach outperforms conventional whole-dimension ste",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-03T00:00:00-05:00",
+    "fetched_at": "2026-03-03T07:32:06.327356+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.00029"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "e47134de9e7c5e48",
+    "title_original": "SimpleTool: Parallel Decoding for Real-Time LLM Function Calling",
+    "url": "https://arxiv.org/abs/2603.00030",
+    "description": "arXiv:2603.00030v1 Announce Type: new \nAbstract: LLM-based function calling enables intelligent agents to interact with external tools and environments, yet autoregressive decoding imposes a fundamental latency bottleneck that limits real-time applications such as embodied intelligence, game AI, and interactive avatars (e.g., 10 Hz control frequency). We observe that function calling differs fundamentally from free-form text generation: structured outputs exhibit substantial token redundancy (delimiters, parameter names), and arguments exhibit weak causal dependencies. Crucially, these two properties must be exploited jointly to achieve real-time performance. We present SimpleTool, which introduces special tokens that serve a dual role: compressing low-entropy tokens (4-6x reduction) while acting as mode selectors that enable independent parallel generation of function name and arguments. This synergistic design achieves 3-6x end-to-end speedup (up to 9.6x) with only +8.2% parallelizat",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-03T00:00:00-05:00",
+    "fetched_at": "2026-03-03T07:32:06.327356+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.00030"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "0948530ef1ad0914",
+    "title_original": "GRIP: Geometric Refinement and Adaptive Information Potential for Data Efficiency",
+    "url": "https://arxiv.org/abs/2603.00031",
+    "description": "arXiv:2603.00031v1 Announce Type: new \nAbstract: The performance of Large Language Models (LLMs) is increasingly governed by data efficiency rather than raw scaling volume. However, existing selection methods often decouple global distribution balancing from local instance selection, compromising the hierarchical integrity of the training set. We introduce \\textbf{GRIP} (Geometric Refinement and Adaptive Information Potential), a framework that unifies these dimensions by modeling the corpus as an information-dense geometric space. GRIP employs a \\textbf{Rapid Adaptation Probe (RAP)} to quantify the information potential of semantic clusters, dynamically re-allocating the sampling budget to regions with the highest representation deficits. Subsequently, we perform Intra-Cluster Selection using a \\textbf{length-rectified geometric prior} to counteract embedding density artifacts and preserve long-tail logical sequences. Extensive evaluations on Mixture-of-Experts (MoE) models up to 300B",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-03T00:00:00-05:00",
+    "fetched_at": "2026-03-03T07:32:06.327356+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.00031"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "510a3249c2c1ff69",
+    "title_original": "CyberStrikeAI tool adopted by hackers for AI-powered attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/",
+    "description": "Researchers warn that a newly identified open-source AI security testing platform called CyberStrikeAI was used by the same threat actor behind a recent campaign that breached hundreds of Fortinet FortiGate firewalls. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-03-02T19:06:39-05:00",
+    "fetched_at": "2026-03-03T07:32:07.499240+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "9bb611e3ab2fcff0",
+    "title_original": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
+    "description": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker traffic through victims' browsers. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-03-02T15:23:41-05:00",
+    "fetched_at": "2026-03-03T07:32:07.499240+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "d1514769a05eb361",
+    "title_original": "Alabama man pleads guilty to hacking, extorting hundreds of women",
+    "url": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
+    "description": "A 22-year-old Alabama man pleaded guilty to extortion, cyberstalking, and computer fraud charges after hijacking the social media accounts of hundreds of young women (including minors). [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-03-02T13:54:34-05:00",
+    "fetched_at": "2026-03-03T07:32:07.499240+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "afa5c12940292ff5",
+    "title_original": "Florida woman imprisoned for massive Microsoft license fraud scheme",
+    "url": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
+    "description": "A Florida woman was sentenced to 22 months in prison for running a massive years-long scheme to traffic thousands of stolen Microsoft Certificate of Authenticity (COA) labels. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-03-02T12:30:13-05:00",
+    "fetched_at": "2026-03-03T07:32:07.499240+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "22707bfe32e7ebbb",
+    "title_original": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
+    "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
+    "description": "The United Kingdom's National Cyber Security Centre (NCSC) alerted British organizations to a heightened risk of Iranian cyberattacks amid the ongoing conflict in the Middle East. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-03-02T10:54:33-05:00",
+    "fetched_at": "2026-03-03T07:32:07.499240+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "059007f0f72d45a4",
+    "title_original": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
+    "url": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
+    "description": "Deepfakes and injection attacks are targeting identity verification moments, from onboarding to account recovery. Incode explains why enterprises must validate the full session—media, device integrity, and behavior—to stop synthetic and injected attacks in real time. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-03-02T10:01:11-05:00",
+    "fetched_at": "2026-03-03T07:32:07.499240+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "0077d756d78838ce",
+    "title_original": "Anthropic confirms Claude is down in a worldwide outage",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
+    "description": "Claude appears to be having a major outage right now, with elevated errors reported across all platforms. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-03-02T07:23:00-05:00",
+    "fetched_at": "2026-03-03T07:32:07.499240+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "763adaf1e22cdda4",
+    "title_original": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+    "url": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+    "description": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.\nThe vulnerability, tracked as CVE-2026-0628 (CVSS score: 8.8), has been described as a case of insufficient policy enforcement in the WebView tag. It was patched by Google in early January 2026",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-02T22:38:00+05:30",
+    "fetched_at": "2026-03-03T07:32:07.917336+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "de066bba65442693",
+    "title_original": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+    "url": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+    "description": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of the ecosystem, Chrome has no immediate plan to add traditional X.509 certificates containing post-quantum cryptography to the Chrome Root Store,\" the Chrome Secure Web and Networking Team said.\n\"",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-02T22:22:00+05:30",
+    "fetched_at": "2026-03-03T07:32:07.917336+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "aae97c3b583a41b6",
+    "title_original": "⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+    "url": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+    "description": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points.\nThe pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-02T18:56:00+05:30",
+    "fetched_at": "2026-03-03T07:32:07.917336+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "1b946ca812eb4d69",
+    "title_original": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
+    "url": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
+    "description": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:\n\nSign-ups increase, but users aren’t activating.\nServer costs rise faster than revenue.\nLogs are filled with repeated requests from strange user agents.\n\nIf",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-02T17:25:00+05:30",
+    "fetched_at": "2026-03-03T07:32:07.917336+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "df2d3a2dd80e6a81",
+    "title_original": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+    "url": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+    "description": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework.\n\"Protection mechanism failure in MSHTML Framework allows an unauthorized",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-02T16:06:00+05:30",
+    "fetched_at": "2026-03-03T07:32:07.917336+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "c71c2d067150a314",
+    "title_original": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
+    "url": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
+    "description": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry.\nThe packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-02T14:14:00+05:30",
+    "fetched_at": "2026-03-03T07:32:07.917336+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "db4d74d6a52fad31",
+    "title_original": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
+    "url": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
+    "description": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-03-02T22:34:36+00:00",
+    "fetched_at": "2026-03-03T07:32:08.297334+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "69c915a1c7480106",
+    "title_original": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
+    "url": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
+    "description": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-03-02T21:32:04+00:00",
+    "fetched_at": "2026-03-03T07:32:08.297334+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "c0f80b0115c3b62c",
+    "title_original": "30 Alleged Members of 'The Com' Arrested in Project Compass",
+    "url": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
+    "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-03-02T20:32:09+00:00",
+    "fetched_at": "2026-03-03T07:32:08.297334+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "f8b8170dd9914a36",
+    "title_original": "Bug in Google's Gemini AI Panel Opens Door to Hijacking",
+    "url": "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking",
+    "description": "Attackers could have exploited the vulnerability to escalate privileges, violate user privacy while browsing, and access sensitive resources.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-03-02T10:27:15+00:00",
+    "fetched_at": "2026-03-03T07:32:08.297334+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "7e9584deba79f00b",
+    "title_original": "Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant",
+    "url": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/",
+    "description": "Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files.The postVulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistantappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-02T15:26:45+00:00",
+    "fetched_at": "2026-03-03T07:32:08.751054+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "17baba2f8d4d69c0",
+    "title_original": "OpenClaw Vulnerability Allowed Websites to Hijack AI Agents",
+    "url": "https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/",
+    "description": "Malicious websites could open a WebSocket connection to localhost on the OpenClaw gateway port, brute force passwords, and take control of the agent.The postOpenClaw Vulnerability Allowed Websites to Hijack AI Agentsappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-02T14:26:03+00:00",
+    "fetched_at": "2026-03-03T07:32:08.751054+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "7b6f1e4a924e81f8",
+    "title_original": "Madison Square Garden Data Breach Confirmed Months After Hacker Attack",
+    "url": "https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/",
+    "description": "The company is one of the many victims of the 2025 Oracle E-Business Suite (EBS) hacking campaign.The postMadison Square Garden Data Breach Confirmed Months After Hacker Attackappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-02T13:53:26+00:00",
+    "fetched_at": "2026-03-03T07:32:08.751054+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "eb58c47dd18776f7",
+    "title_original": "Nick Andersen Appointed Acting Director of CISA",
+    "url": "https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/",
+    "description": "Madhu Gottumukkala has been assigned to a new role within the Department of Homeland Security.The postNick Andersen Appointed Acting Director of CISAappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-02T12:53:44+00:00",
+    "fetched_at": "2026-03-03T07:32:08.751054+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "b307e1f6e4a47d6e",
+    "title_original": "AWS Expands Security Hub Into a Cross-Domain Security Platform",
+    "url": "https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/",
+    "description": "The AWS Security Hub Extended plan aims to reduce security tool sprawl by correlating findings across multiple security domains.The postAWS Expands Security Hub Into a Cross-Domain Security Platformappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-02T12:30:00+00:00",
+    "fetched_at": "2026-03-03T07:32:08.751054+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "05cd8ae51ab7e388",
+    "title_original": "North Korean APT Targets Air-Gapped Systems in Recent Campaign",
+    "url": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/",
+    "description": "Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors.The postNorth Korean APT Targets Air-Gapped Systems in Recent Campaignappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-02T11:46:29+00:00",
+    "fetched_at": "2026-03-03T07:32:08.751054+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "85be14bdd6a57a80",
+    "title_original": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
+    "url": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
+    "description": "The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).The postGoogle Working Towards Quantum-Safe Chrome HTTPS Certificatesappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-02T11:33:34+00:00",
+    "fetched_at": "2026-03-03T07:32:08.751054+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "ced7f3e283f361c4",
+    "title_original": "US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates",
+    "url": "https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/",
+    "description": "Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure.The postUS-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliatesappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-02T11:04:32+00:00",
+    "fetched_at": "2026-03-03T07:32:08.751054+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "8f48cfe4c95ff292",
+    "title_original": "Cyber Command disrupted Iranian comms, sensors, top general says",
+    "url": "https://therecord.media/iran-cyber-us-command-attack",
+    "description": "U.S. Cyber Command conducted online attacks against Iranian communications systems that the country’s top general said set the stage for the joint bombing campaign with Israel.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-03-02T21:07:04+00:00",
+    "fetched_at": "2026-03-03T07:32:09.170169+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/iran-cyber-us-command-attack"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "61db3fb5b8b7a949",
+    "title_original": "University of Hawaiʻi Cancer Center confirms data leak following ransomware attack",
+    "url": "https://therecord.media/university-of-hawaii-ransomware-data-breach",
+    "description": "Part of the breach was traced back to a Multiethnic Cohort (MEC) Study established in 1993, which used driver’s license numbers and voter registration records to recruit participants.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-03-02T19:13:21+00:00",
+    "fetched_at": "2026-03-03T07:32:09.170169+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/university-of-hawaii-ransomware-data-breach"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "270a25fc12a0849c",
+    "title_original": "Alleged India-linked espionage campaign targeted Pakistan, Bangladesh, Sri Lanka",
+    "url": "https://therecord.media/india-pakistan-cyber-campaign-apt",
+    "description": "An espionage campaign last year targeted government agencies and critical infrastructure operators in Pakistan, Bangladesh and Sri Lanka, the cybersecurity firm Arctic Wolf said.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-03-02T16:26:27+00:00",
+    "fetched_at": "2026-03-03T07:32:09.170169+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/india-pakistan-cyber-campaign-apt"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "a6e70e7667442ec6",
+    "title_original": "German court convicts alleged mastermind behind global investment scam network",
+    "url": "https://therecord.media/german-court-convicts-alleged-mastermind-scam-network",
+    "description": "The Bamberg Regional Court in Bavaria handed down the sentence last Thursday after an 11-day trial conducted under heightened security measures, according to reports by local media.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-03-02T14:00:37+00:00",
+    "fetched_at": "2026-03-03T07:32:09.170169+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/german-court-convicts-alleged-mastermind-scam-network"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "1a4d14973c65e4ae",
+    "title_original": "British organizations urged to be alert to threat of Iranian cyberattacks",
+    "url": "https://therecord.media/iran-britain-cyber-threats-warning",
+    "description": "In an advisory, the U.K.'s National Cyber Security Centre warned British organizations to review and strengthen their cyber defenses amid the evolving situation in Iran and throughout the Middle East.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-03-02T13:52:43+00:00",
+    "fetched_at": "2026-03-03T07:32:09.170169+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/iran-britain-cyber-threats-warning"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "3d89f6f0a058cded",
+    "title_original": "Google addresses actively exploited Qualcomm zero-day in fresh batch of 129 Android vulnerabilities",
+    "url": "https://cyberscoop.com/android-security-update-march-2026/",
+    "description": "The company’s latest security update contains the highest number of Android vulnerabilities patched in a single month since April 2018.The postGoogle addresses actively exploited Qualcomm zero-day in fresh batch of 129 Android vulnerabilitiesappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "cyber",
+    "published": "2026-03-02T22:20:18+00:00",
+    "fetched_at": "2026-03-03T07:32:10.001569+00:00",
+    "sources": [
+      {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/android-security-update-march-2026/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "3ddf57d07d6c035e",
+    "title_original": "The FBI’s cyber chief is using Winter SHIELD to accelerate China prep, threat intelligence sharing",
+    "url": "https://cyberscoop.com/brett-leatherman-fbi-cyber-priorities-winter-shield/",
+    "description": "Brett Leatherman is running the bureau's most public cyber campaign yet, pushing basic security hygiene while quietly preparing industry for stepped-up Chinese threats.The postThe FBI’s cyber chief is using Winter SHIELD to accelerate China prep, threat intelligence sharingappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "cyber",
+    "published": "2026-03-02T20:57:21+00:00",
+    "fetched_at": "2026-03-03T07:32:10.001569+00:00",
+    "sources": [
+      {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/brett-leatherman-fbi-cyber-priorities-winter-shield/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "cb1120bc0469cd18",
+    "title_original": "From fake nudes to fake quotes: AI deepfakes plagued Olympic athletes",
+    "url": "https://cyberscoop.com/ai-deepfakes-olympic-athletes-political-manipulation/",
+    "description": "Trolls on 4chan generated sexualized images of female athletes, and the White House shared an AI-manipulated video of a hockey player—welcome to the new normal.The postFrom fake nudes to fake quotes: AI deepfakes plagued Olympic athletesappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "cyber",
+    "published": "2026-03-02T11:00:00+00:00",
+    "fetched_at": "2026-03-03T07:32:10.001569+00:00",
+    "sources": [
+      {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/ai-deepfakes-olympic-athletes-political-manipulation/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "8b0cb3316f951ca4",
+    "title_original": "How ‘silent probing’ can make your security playbook a liability",
+    "url": "https://cyberscoop.com/ai-silent-probing-cyber-risk-behavioral-defense-op-ed/",
+    "description": "Silent probing uses AI to measure your team’s response patterns over time, building a behavioral profile that makes follow-on attacks harder to spot and easier to time.The postHow ‘silent probing’ can make your security playbook a liabilityappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "cyber",
+    "published": "2026-03-02T11:00:00+00:00",
+    "fetched_at": "2026-03-03T07:32:10.001569+00:00",
+    "sources": [
+      {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/ai-silent-probing-cyber-risk-behavioral-defense-op-ed/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "22becf7c4d2ee448",
+    "title_original": "ISC Stormcast For Tuesday, March 3rd, 2026 https://isc.sans.edu/podcastdetail/9832, (Tue, Mar 3rd)",
+    "url": "https://isc.sans.edu/diary/rss/32760",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-03-03T02:00:02+00:00",
+    "fetched_at": "2026-03-03T07:32:10.130625+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32760"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "21377dc2d77043b2",
+    "title_original": "Quick Howto: ZIP Files Inside RTF, (Mon, Mar 2nd)",
+    "url": "https://isc.sans.edu/diary/rss/32696",
+    "description": "In diary entry \"Quick Howto: Extract URLs from RTF files\" I mentioned ZIP files.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-03-02T11:13:04+00:00",
+    "fetched_at": "2026-03-03T07:32:10.130625+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32696"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "23c3b51275476f11",
+    "title_original": "Wireshark 4.6.4 Released, (Mon, Mar 2nd)",
+    "url": "https://isc.sans.edu/diary/rss/32758",
+    "description": "Wireshark release4.6.4fixes 3 vulnerabilities and 15 bugs.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-03-02T11:11:45+00:00",
+    "fetched_at": "2026-03-03T07:32:10.130625+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32758"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "b63ebfd7c058297a",
+    "title_original": "LLM-Assisted Deanonymization",
+    "url": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html",
+    "description": "Turns out that LLMs aregoodat de-anonymization:We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests—then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...",
+    "source_name": "Bruce Schneier",
+    "source_url": "https://www.schneier.com",
+    "category": "cyber",
+    "published": "2026-03-02T12:05:48+00:00",
+    "fetched_at": "2026-03-03T07:32:10.528767+00:00",
+    "sources": [
+      {
+        "name": "Bruce Schneier",
+        "url": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "eadabb41189ac83b",
+    "title_original": "Taming Agentic Browsers: Vulnerability in Chrome Allowed Extensions to Hijack New Gemini Panel",
+    "url": "https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/",
+    "description": "A high-severity CVE-2026-0628 in Chrome's Gemini allowed local file access and privacy invasion. Google quickly patched the flaw.The postTaming Agentic Browsers: Vulnerability in Chrome Allowed Extensions to Hijack New Gemini Panelappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-02T11:00:36+00:00",
+    "fetched_at": "2026-03-03T07:32:12.611417+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "06fdacb4d555c14e",
+    "title_original": "זה ה-iPad Air החדש של אפל שמגיע עם מעבד M4",
+    "url": "https://www.geektime.co.il/apple-announces-ipad-air-with-m4/",
+    "description": "שבוע ההכרזות הגדול של אפל נפתח לא רק עם הכרזה על האייפון 17e החדש, אלא שאפל מנצלת את היום הראשון לחגיגות עם הכרזה נוספת. הפעם בתפריט, ה-iPad Air החדש. אז מה חדש? המעבד אמור לעשות את כל ההבדל ה-iPad Air החדש מגיע לראשונה עם מעבד M4 של אפל, מה שאומר שהוא מגיע עם 8 ליבות […]The postזה ה-iPad Air החדש של אפל שמגיע עם מעבד M4appeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-02T15:03:03+00:00",
+    "fetched_at": "2026-03-03T07:32:24.370879+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/apple-announces-ipad-air-with-m4/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "0bd0c8c0633dfdc4",
+    "title_original": "אפל חושפת את iPhone 17e, האייפון הכי זול שלה",
+    "url": "https://www.geektime.co.il/apple-announces-iphone-17e/",
+    "description": "שבוע ההכרזות של אפל מתחיל, וראשון לעלות למגרש הוא האייפון הזול ביותר שאפל מציעה. שנה אחרי שסוף סוף ריעננה את קטגוריית האייפונים המוזלים שלה, אפל מביאה מכשיר קצת יותר מאובזר. יותר עמיד, יותר חזק והרבה יותר אחסון האייפון החדש והמוזל, iPhone 17e, מגיע עם גוף מאלומיניום שעמיד בפני מים ואבק בתקן IP68, כשבחזית שלו יחכה […]The postאפל חושפת את iPhone 17e, האייפון הכי זול שלהappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-02T14:27:07+00:00",
+    "fetched_at": "2026-03-03T07:32:24.370879+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/apple-announces-iphone-17e/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "8accdb77450d59ff",
+    "title_original": "פרסום ראשון: Verint פיטרה כ-900 עובדים",
+    "url": "https://www.geektime.co.il/verint-laid-off-900-employees/",
+    "description": "על פי מידע שהגיע למייל האדום של גיקטיים, חברת Verint (ורינט) החלה בסבב פיטורים רחב כחלק ממהלך ארגוני מקיף. מתוך כ-4,000 עובדי החברה בעולם, יקוצצו כ-900 תקנים, המהווים כ-25% ממצבת כוח האדם הגלובלית. בישראל, שבה מועסקים כיום כ-200 עובדים, היקף הפיטורים מצומצם יחסית וצפוי לכלול כמה עשרות עובדים, ככל הנראה כ-45 עובדים במחלקות שונות כולל […]The postפרסום ראשון: Verint פיטרה כ-900 עובדיםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-02T12:43:43+00:00",
+    "fetched_at": "2026-03-03T07:32:24.370879+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/verint-laid-off-900-employees/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "abf6fa4f0ccfc59e",
+    "title_original": "לא. מה שראיתם לא היה יירוט לייזר של \"אור איתן\"",
+    "url": "https://www.geektime.co.il/no-that-video-did-not-show-or-eitan-laser/",
+    "description": "במהלך שעות הלילה נכנס גם חיזבאללה אל המערכה, כשלראשונה מזה יותר משנה, שיגר רקטות אל שטח ישראל. בנוסף, שוגרו גם מספר כטב\"מים אל מעבר לגבול, כאשר תיעוד היירוט של אחד מהם גרם לרבים לחשוב שמדובר ביירוט ראשון במלחמה של מערכת \"אור איתן\"  (לשעבר, \"מגן אור\"). אז זהו, שלא. קרן לייזר במקום מיירט חיזבאללה מצטרף למערכה […]The postלא. מה שראיתם לא היה יירוט לייזר של \"אור איתן\"appeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-02T11:40:54+00:00",
+    "fetched_at": "2026-03-03T07:32:24.370879+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/no-that-video-did-not-show-or-eitan-laser/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "91b26978e9557f7f",
+    "title_original": "טסלה מציעה לראשונה טרייד-אין בישראל",
+    "url": "https://www.geektime.co.il/tesla-trade-in-israel/",
+    "description": "לפני קצת יותר מ-5 שנים נכנסה Tesla לשוק הישראלי. על אף שהיא הספיקה להפוך למכונית החשמלית הכי נמכרת בישראל וגם לצאת לרכבת הרים עם המחירים שלה, רק בשנת 2026 היא מתחילה פעילות טרייד-אין גם בישראל – אבל בדרך שונה. לקבל פחות על הרכב המשומש, אבל לחסוך כאב ראש עסקאות טרייד-אין בענף הרכב מאפשרות לכם לחסוך […]The postטסלה מציעה לראשונה טרייד-אין בישראלappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-02T08:34:25+00:00",
+    "fetched_at": "2026-03-03T07:32:24.370879+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/tesla-trade-in-israel/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "d25ad9a23b8ba2ec",
+    "title_original": "סמארט שוטר הונפקה בתל אביב בשווי של 900 מיליון שקל",
+    "url": "https://techtime.co.il/2026/03/02/smart-shooter-18/",
+    "description": "החברה, שמפתחת כוונות חכמות לנשק קל, רשמה הכנסות של כ־24.5 מיליון דולר ב־2024, נשענת על משרד הביטחון כלקוח מרכזי, ומקדמת הקמת פעילות תפעולית בארה״ב",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-03-02T11:15:31+00:00",
+    "fetched_at": "2026-03-03T07:32:29.206314+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/03/02/smart-shooter-18/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "dd1e76a9d9c29a3c",
+    "title_original": "ה-AI מגיע לאנטנה ומשנה את פני הרשת",
+    "url": "https://techtime.co.il/2026/03/02/6g-2/",
+    "description": "ענקיות הטכנולוגיה מריצות את ארכיטקטורת AI-RAN החדשה: בתערוכת MWC 2026 בברצלונה, מוצגות 33 הדגמות להטמעת בינה מלאכותית בתשתית האלחוטית של רשתות 5G ו-6G",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-03-02T09:42:37+00:00",
+    "fetched_at": "2026-03-03T07:32:29.206314+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/03/02/6g-2/"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "5f53961d0e71dc6f",
+    "title_original": "הסטארט-אפ הישראלי שמפטר 20% מעובדיו",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536429#utm_source=RSS",
+    "description": "חברת ה־HR Tech הישראלית גלואט מבצעת קיצוצים בכוח אדם בחברה ובמקביל מתמקדת בפיתוח כיוון חדש, סביב הטמעת בינה מלאכותית בארגונים • זאת בין היתר, לאחר שחלק מלקוחות מוצר הדגל לא חידשו חוזים",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-03-02T14:28:00+00:00",
+    "fetched_at": "2026-03-03T07:32:30.318678+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536429#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "a8856d395afdf15d",
+    "title_original": "אפל חושפת דגם אייפון מוזל ומשדרגת את האייפד אייר",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536473#utm_source=RSS",
+    "description": "החברה חורגת מאירועי ההשקה המסורתיים שלה ומציגה אייפון 17e מוזל עם יכולות Apple Intelligence והבטחות לחיי סוללה ארוכים, ואייפד אייר עם תמיכה ב-Wi-Fi 7 • השבבים במכשירים פותחו בין היתר גם במרכז הפיתוח הישראלי • המחיר ההתחלתי: 599 דולר",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-03-02T17:00:00+00:00",
+    "fetched_at": "2026-03-03T07:32:30.318678+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536473#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "16a7c99ebce7a97b",
+    "title_original": "מחקרים מגלים: על מה לא כדאי לדבר עם השכנים במקלט",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536459#utm_source=RSS",
+    "description": "כשהטילים משבשים את החיים ומפלס המתח והחרדה בעלייה, חזרנו למחקרים שיעזרו לנו לקבל החלטות תחת לחץ ועייפות, להתמודד עם החרדה של הילדים ולהתנהל ברוגע מול אנשים שחושבים אחרת מאיתנו במקלט או בממ\"ד",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-03-02T19:00:00+00:00",
+    "fetched_at": "2026-03-03T07:32:30.318678+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536459#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "42ec8891fa89a038",
+    "title_original": "לא ללחוץ על הקישור: הסמס שקיבלתם הוא לא באמת מדואר ישראל",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536416#utm_source=RSS",
+    "description": "בימים האחרונים רץ קמפיין פישינג שנשלח בהודעות SMS ומנסה להשתלט על חשבונות בנק וחשבונות תשלום דיגיטלי • בדואר ישראל מבהירים כי זו לא הודעה מטעמם • כך תדעו לזהות את הנורות האדומות",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-03-02T10:04:00+00:00",
+    "fetched_at": "2026-03-03T07:32:30.318678+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536416#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "05fe714d18d3665d",
+    "title_original": "יתרונות ה-AI: הציוץ שהפתיע את פירמות עורכי הדין הגדולות בעולם",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536423#utm_source=RSS",
+    "description": "עו\"ד ז'אק שפירו, המנהל משרד עורכי דין אמריקאי שמעסיק שני עובדים, הדגים בציוץ ברשת X איך באמצעות בינה מלאכותית גם משרד קטן יכול להתחרות בהצלחה במשרדים גדולים • \"פירמה קטנה שבנתה את עצמה סביב AI תצליח לא רק להתחרות בפירמות ענק - אלא גם לעקוף אותן בסיבוב\"",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-03-02T16:12:00+00:00",
+    "fetched_at": "2026-03-03T07:32:30.318678+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536423#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1
+  },
+  {
+    "id": "8e2204014a3ef4ac",
+    "title_original": "Retail chains work to refill shelves as shoppers hoard groceries amid war",
+    "url": "https://www.timesofisrael.com/retail-chains-work-to-refill-shelves-as-shoppers-hoard-groceries-amid-war/",
+    "description": "Carrefour and other supermarkets say they increased their inventories ahead of the attack on Iran: 'There is enough merchandise, and there is no need to stock up'The postRetail chains work to refill shelves as shoppers hoard groceries amid warappeared first onThe Times of Israel.",
+    "source_name": "Times of Israel Tech",
+    "source_url": "https://www.timesofisrael.com/tech-israel/",
+    "category": "ai",
+    "published": "2026-03-02T16:05:50+00:00",
+    "fetched_at": "2026-03-03T07:32:30.848152+00:00",
+    "sources": [
+      {
+        "name": "Times of Israel Tech",
+        "url": "https://www.timesofisrael.com/retail-chains-work-to-refill-shelves-as-shoppers-hoard-groceries-amid-war/"
+      }
+    ],
+    "duplicate_count": 1
   }
 ]
