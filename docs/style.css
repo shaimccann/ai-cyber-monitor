@@ -559,8 +559,22 @@ body {
 
 /* === Responsive === */
 @media (max-width: 768px) {
+    .header__container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .header__logo {
+        order: -1;
+        margin-bottom: 12px;
+    }
+
     .header__title {
         font-size: 1.5rem;
+    }
+
+    .header__nav {
+        justify-content: center;
     }
 
     .articles {
