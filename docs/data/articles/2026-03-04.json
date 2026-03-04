@@ -1,0 +1,216 @@
+[
+  {
+    "id": "ef26f0f022164bee",
+    "title_original": "Create new worlds in Project Genie with these 4 tips",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+    "description": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-03T17:00:00+00:00",
+    "fetched_at": "2026-03-04T10:27:54.264482+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Create new worlds in Project Genie with these 4 tips",
+    "summary_he": "Project Genie is an experimental AI tool that allows users to create and explore interactive worlds using text and images. To get the most out of it, users should start by crafting detailed descriptions of their desired environments and characters, and then use short, direct prompts to navigate and explore these worlds.",
+    "details_he": "Project Genie is currently available to Google AI Ultra Subscribers in the U.S. over 18, with plans to expand further. Users can prompt Project Genie with just text, or with text and images, and can choose to navigate their worlds in real-time using a variety of characters and environments. By following the tips outlined in the article, users can bring their imaginary worlds to life and explore them in a more immersive and interactive way."
+  },
+  {
+    "id": "cc9de00943123574",
+    "title_original": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-03T16:50:49+00:00",
+    "fetched_at": "2026-03-04T10:27:55.814963+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Photoroom/prx-part3"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "summary_he": "במאמר זה, צוות Photoroom חוקר את האפשרויות של חיבור טכניקות שונות לפיתוח דגמי טקסט-תמונה. הם בוחרים לקיים 'מרוץ' של 24 שעות, כאשר הם ניסו לפתח דגם טוב ככל האפשר בתקציב של 1500 דולר.",
+    "details_he": "במאמר זה, צוות Photoroom מתאר את ההתקדמות שלהם בפיתוח דגמי טקסט-תמונה. הם חוקרים את האפשרויות של חיבור טכניקות שונות, כגון פיתוח דגמי x-prediction ושימוש בהפסקת פיקסל. הם גם מתארים את הקוד שהם פתחו ופרסמו בגיטהאב. המאמר כולל גם תיאור של הקוד שהם פיתחו ושימוש בו. הצוות רוצה להראות כיצד השדה של הדגמים הטקסט-תמונה התקדם בשנים האחרונות וכיצד ניתן לפתח דגמים טובים יותר בעזרת טכניקות שונות."
+  },
+  {
+    "id": "1f1ed3f064f1e2a8",
+    "title_original": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "description": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-03-03T16:35:55+00:00",
+    "fetched_at": "2026-03-04T10:27:53.926424+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "summary_he": "Google היא פורצת דרך בפיתוח טכנולוגיית AI חדשה, Gemini 3.1 Flash-Lite, אשר מאפשרת עבודה עם גודל גדול של נתונים ומציעה תכונות חדשות.",
+    "details_he": "Gemini 3.1 Flash-Lite היא טכנולוגיית AI חדשה שפותחה על ידי Google, אשר מאפשרת עבודה עם גודל גדול של נתונים. הטכנולוגיה זו מציעה תכונות חדשות, כגון תכונות חדשות של זיכרון וביצועים, אשר מאפשרים עבודה עם גודל גדול של נתונים. גם גודל הזיכרון של המודל גדול, וזה מאפשר להפעיל את המודל עם גודל גדול של נתונים. Gemini 3.1 Flash-Lite גם ניתנת להפעלה במספר תחומים, כגון תרגום, תפעול, יצירת סימולציות ועוד."
+  },
+  {
+    "id": "c5cb7753d54cd889",
+    "title_original": "Trailer: The Shape of Things to Come",
+    "url": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "description": "Microsoft research lead Doug Burger introduces his new podcast series, \"The Shape of Things to Come\", an exploration into the fundamental truths about AI and how the technology will reshape the future.The postTrailer: The Shape of Things to Comeappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-03-03T13:00:18+00:00",
+    "fetched_at": "2026-03-04T10:27:54.872264+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Trailer: The Shape of Things to Come",
+    "summary_he": "Microsoft Research Podcast series, The Shape of Things to Come, aims to provide a deeper understanding of AI's future impact on humanity, dispelling myths and highlighting unsolved problems.",
+    "details_he": "The podcast series, led by Microsoft research leader Doug Burger, brings together experts from various disciplines to discuss the challenges and opportunities presented by AI's rapid advancement. By amplifying shared understanding, the goal is to ensure a net positive outcome from the AI transition. The series covers topics such as societal AI, the AI revolution in medicine, and the intersection of economics and computation. With AI accelerating at an unprecedented rate, the podcast aims to inform listeners about the cutting-edge technologies and the potential dangers that come with them."
+  },
+  {
+    "id": "dcb44f894fb9d092",
+    "title_original": "חיישני אינוויז ישולבו בפלטפורמות הרכב האוטונומי של Dataspeed",
+    "url": "https://techtime.co.il/2026/03/04/innoviz-77/",
+    "description": "Dataspeed האמריקאית מפתחת פלטפורמות Drive-by-Wire לרכבי ניסוי אוטונומיים. חיישן InnovizSMART ישולב במערכותיה עבור יישומים בתחומי הביטחון, החקלאות, הכרייה והרובוטיקה הקרקעית",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-03-04T10:13:43+00:00",
+    "fetched_at": "2026-03-04T10:28:32.641849+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/03/04/innoviz-77/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "חיישני אינוויז ישולבו בפלטפורמות הרכב האוטונומי של Dataspeed",
+    "summary_he": "חברת Dataspeed משלבת את חיישן ה-LiDAR של Innoviz, InnovizSMART, בפלטפורמות הרכב האוטונומי שלה. החיישן נועד ליישומים תעשייתיים ואוטונומיים, והוא יכול לפעול בתנאים קשים, כולל חלון מכוסה בבוץ, מים או אבק.",
+    "details_he": "InnovizSMART הוא חיישן LiDAR תלת-ממדי שמיועד ליישומים תעשייתיים ואוטונומיים, והוא מספק מיפוי תלת-ממדי של הסביבה ברזולוציה גבוהה ובטווחים ארוכים. החיישן מותאם במיוחד לתנאי שטח קשים, והוא יכול לפעול באזורים שבהם חלון החיישן מכוסה בבוץ, מים או אבק. יכולות אלה הופכות אותו למתאים במיוחד לכלי רכב אוטונומיים הפועלים בסביבות מאתגרות, כמו אתרי כרייה, שטחים חקלאיים או אזורים בלתי סלולים."
+  },
+  {
+    "id": "942d8cc033de2857",
+    "title_original": "Mobile malware evolution in 2025",
+    "url": "https://securelist.com/mobile-threat-report-2025/119076/",
+    "description": "Statistics on Android malware and the most notable mobile threats of 2025: preinstalled backdoors Keenadu and Triada, spyware Trojans, the Kimwolf IoT botnet, and Mamont banking Trojans.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-03-04T10:00:46+00:00",
+    "fetched_at": "2026-03-04T10:28:14.685553+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/mobile-threat-report-2025/119076/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Mobile malware evolution in 2025",
+    "summary_he": "ב-2025, פורצים חברי הקרן לביטחון הסייבר של Kaspersky, כי נפגעו 14 מיליון פעמים מפגיעות של מלוואר, אדוור, או תוכנה לא רצויה. חברי הקרן גם דיווחו כי נפגעו 815 אלף יחידות תקיפה, כולל 255 אלף טרוז'נים לבנקים.",
+    "details_he": "ב-2025, הקרן לביטחון הסייבר של Kaspersky דיווחה על 14 מיליון פגיעות, 62% מהן היו אדוור. 815 אלף יחידות תקיפה נפגעו, כולל 255 אלף טרוז'נים לבנקים. חברי הקרן גם גילו טרוז'נים חדשים, כולל Keenadu, Kimwolf IoT botnet, ו-LunaSpy Trojan. Keenadu הוא טרוז'ן שנכנס למערכת האנדרואיד, וגורם לפגיעות שונות. Kimwolf IoT botnet הוא טרוז'ן שמטרתו לפגוע במכשירי Android TV. LunaSpy Trojan הוא טרוז'ן שמטרתו לפגוע במכשירי אנדרואיד."
+  },
+  {
+    "id": "b8fa24c6942d039b",
+    "title_original": "Cato CTRL™ Threat Research: New MongoDB Vulnerability Allows Instant Remote Server Takedown (CVE-2026-25611)",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-new-mongodb-vulnerability-cve-2026-25611/",
+    "description": "Executive Summary Cato CTRL’s Vitaly Simonovich (senior security researcher) has discovered a new vulnerability (CVE-2026-25611 with a “High” severity rating of 7.5 out of 10) in all MongoDB versions with compression enabled (version 3.4+, enabled by default since version 3.6), including MongoDB Atlas. The vulnerability can enable a threat actor to crash any MongoDB server....The postCato CTRL™ Threat Research: New MongoDB Vulnerability Allows Instant Remote Server Takedown (CVE-2026-25611)appeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-03-04T08:25:00+00:00",
+    "fetched_at": "2026-03-04T10:28:20.717024+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-new-mongodb-vulnerability-cve-2026-25611/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL™ Threat Research: New MongoDB Vulnerability Allows Instant Remote Server Takedown (CVE-2026-25611)",
+    "summary_he": "חולשה חדשה ב-MongoDB מאפשרת לתוקפים להפיל מאסטר-שרת בשנייה, ו-207,000+ מאסטר-שרתים נמצאים פתוחים לאינטרנט.",
+    "details_he": "חולשה זו, שקיבלה דרגת חומרה 7.5 מתוך 10, התגלתה על ידי חוקר הביטחון ויטאלי סימונוביץ' מ-Cato CTRL. החולשה נמצאה בכל גרסאות MongoDB שבהן פעילות דחיסה, כולל MongoDB Atlas. תוקפים יכולים להשתמש בחולשה זו כדי להפיל כל שרת MongoDB. נכון לזמן כתיבת המאמר, ישנם 207,000+ מאסטר-שרתי MongoDB שנמצאים פתוחים לאינטרנט, כפי שניתן לראות בתמונה 1. החולשה נמצאה ונתקלה על ידי MongoDB באמצעות תוכנית פרסום פרסים לביטחון, ונפתרה בשיתוף עם צוות הביטחון שלה."
+  },
+  {
+    "id": "4c2b38a882af5572",
+    "title_original": "Interplay between Iranian Targeting of IP Cameras and Physical Warfare in the Middle East",
+    "url": "https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-cameras-and-physical-warfare-in-the-middle-east/",
+    "description": "Key Findings Introduction As highlighted in the Cyber Security Report 2026, cyber operations have increasingly become an additional tool in interstate conflicts, used both to support military operations and to enable ongoing battle damage assessment (BDA). During the 12-day conflict between Israel and Iran in June 2025, the compromise of cameras was likely used to support […]The postInterplay between Iranian Targeting of IP Cameras and Physical Warfare in the Middle Eastappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-04T03:16:44+00:00",
+    "fetched_at": "2026-03-04T10:28:16.417109+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-cameras-and-physical-warfare-in-the-middle-east/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Interplay between Iranian Targeting of IP Cameras and Physical Warfare in the Middle East",
+    "summary_he": "תקיפת מערכות קמעוניות על ידי איראן נראית להיות חלק ממאמץ צבאי רחב, כאשר חברות תקיפה רבות נכוונות כנגד ישראל ומדינות נוספות במזרח התיכון.",
+    "details_he": "בדו\"ח Cyber Security Report 2026, נכתב כי פעולות סייבר הפכו לכלי נוסף בעימותים בין-מדינתיים, ומשמשות לתמיכה בפעולות צבאיות ולאפשר ניתוח נזקי הקרב. בעימות ה-12-יומי בין ישראל לאיראן ביוני 2025, הפריצה למערכות הקמעוניות הייתה ככל הנראה לתמיכה בניתוח נזקי הקרב ו/או בתיקון-תגובה.  בעימות הנוכחי במזרח התיכון, Check Point Research צפתה בתקיפה מוגברת של מערכות הקמעוניות, התחלה בשעות הראשונות של העימות, כולל עלייה חדה בניסיונות הפרצה כנגד מערכות הקמעוניות האינטרנטיות, לא רק בישראל, אלא גם במדינות המפרץ: UAE, Qatar, Bahrain, וכוואיט, כמו גם פעילות דומה בלבנון וקפריסין. פעילות זו החלה ממערכות תקיפה רבות שאפשרנו לזהות כמקורן של חברות תקיפה קשורות לאיראן."
+  },
+  {
+    "id": "4206f9ba79da30d8",
+    "title_original": "Signed malware impersonating workplace apps deploys RMM backdoors",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/03/signed-malware-impersonating-workplace-apps-deploys-rmm-backdoors/",
+    "description": "Signed malware backed by a stolen EV certificate deployed legitimate RMM tools to gain persistent access inside enterprise environments. Organizations must harden certificate controls and monitor RMM activity to reduce exposure.The postSigned malware impersonating workplace apps deploys RMM backdoorsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-03T21:11:03+00:00",
+    "fetched_at": "2026-03-04T10:28:12.109147+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/03/signed-malware-impersonating-workplace-apps-deploys-rmm-backdoors/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Signed malware impersonating workplace apps deploys RMM backdoors",
+    "summary_he": "Microsoft Defender Experts זיהו קמפיינים פישינג שונים של איום לא ידוע, שהשתמשו בפניות פישינג של פגישות עבודה, קובצי PDF והתחקות על קובצי ביניים תקינים כדי להעביר תוכנה זרה מוחצנת.",
+    "details_he": "בפברואר 2026, Microsoft Defender Experts זיהו קמפיינים פישינג שונים של איום לא ידוע, שהשתמשו בפניות פישינג של פגישות עבודה, קובצי PDF והתחקות על קובצי ביניים תקינים כדי להעביר תוכנה זרה מוחצנת. הקמפיינים השתמשו בחתימות דיגיטליות מאומתות של TrustConnect Software PTY LTD כדי להסוות את התוכנה. התוכנה הזרה התקינה כלי ניהול וניטור רחוק (RMM) שאיפשרו לתוקף להשיג גישה קבועה במערכות שנפגעו. "
+  },
+  {
+    "id": "dada3a1eff967835",
+    "title_original": "Wiz Achieves CPSTIC Certification in Spain",
+    "url": "https://www.wiz.io/blog/wiz-cpstic-certification",
+    "description": "Strengthening secure cloud modernization for Spain’s public sector through CPSTIC certification.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-03T20:46:57+00:00",
+    "fetched_at": "2026-03-04T10:28:16.855467+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-cpstic-certification"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz Achieves CPSTIC Certification in Spain",
+    "summary_he": "Wiz השיגה תעודת הסמכה מה-CCN בספרד, המאפשרת לארגונים ציבוריים ופרטיים בספרד לאמץ את Wiz באופן בטוח, כחלק מהספרדי National Security Framework.",
+    "details_he": "Wiz, פלטפורמת הבטיחות שלה, נבחנה והוסמכה על ידי ה-CCN בספרד, ובכך היא מוכיחה את המידה בה היא עומדת על תקן הבטיחות הגבוה של הספרדי National Security Framework. Wiz, פלטפורמת הבטיחות הענן, מספקת תעודת הסמכה חשובה לארגונים ציבוריים בספרד, ומאפשרת להם לאמץ את Wiz באופן בטוח. Wiz, פלטפורמת הבטיחות, נבחנה והוסמכה על ידי ה-CCN בספרד, ובכך היא מוכיחה את המידה בה היא עומדת על תקן הבטיחות הגבוה של הספרדי National Security Framework."
+  }
+]
