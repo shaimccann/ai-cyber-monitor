@@ -225,12 +225,16 @@ def scan_all_sources():
     for source in enabled_sources:
         method = source.get("method", "rss")
 
-        if method == "rss" and source.get("rss_url"):
-            articles = fetch_rss(source, config)
-        elif method == "scrape":
-            articles = scrape_site(source, config)
-        else:
-            log.warning(f"  Skipping {source['name']}: no RSS URL and method is '{method}'")
+        try:
+            if method == "rss" and source.get("rss_url"):
+                articles = fetch_rss(source, config)
+            elif method == "scrape":
+                articles = scrape_site(source, config)
+            else:
+                log.warning(f"  Skipping {source['name']}: no RSS URL and method is '{method}'")
+                continue
+        except Exception as e:
+            log.error(f"  Error fetching {source['name']}: {e}")
             continue
 
         for article in articles:
