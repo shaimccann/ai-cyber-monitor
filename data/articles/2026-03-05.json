@@ -1,0 +1,212 @@
+[
+  {
+    "id": "e1f84d51bc33764f",
+    "title_original": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+    "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "description": "We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open‑weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in new tab) and GitHub (opens in new tab). Phi-4-reasoning-vision-15B is a broadly capable model that can be used for a wide array of vision-language tasks such as image captioning, asking […]The postPhi-4-reasoning-vision and the lessons of training a multimodal reasoning modelappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-03-04T18:05:57+00:00",
+    "fetched_at": "2026-03-05T06:08:28.361630+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+    "summary_he": "A new multimodal reasoning model, Phi-4-reasoning-vision-15B, has been developed, offering a balance between reasoning power, efficiency, and training data needs. This model excels in math and science reasoning, as well as understanding user-interfaces, and is available for use through various platforms.",
+    "details_he": "The model, which has 15 billion parameters, is a compact and smart open-weight model that can be used for a wide array of vision-language tasks, including image captioning, reading documents, and helping with homework. It presents a compelling option compared to existing models, pushing the pareto-frontier of the tradeoff between accuracy and compute costs. The model's performance is competitive to much slower models that require more time and tokens, and it has better accuracy than similarly fast models, particularly in math and science reasoning."
+  },
+  {
+    "id": "bbfcc3379cb1303f",
+    "title_original": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+    "description": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-04T17:00:00+00:00",
+    "fetched_at": "2026-03-05T06:08:28.000672+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+    "summary_he": "Google מאפשרת לכולם בארצות הברית להשתמש ב-Canvas בעמוד AI, כדי ליצור תוכניות ופרויקטים ולבצע כתיבה יצירתית וקוד.",
+    "details_he": "Canvas בעמוד AI כעת זמין לכולם בארצות הברית, ומאפשר תחום נרחב לארגון תוכניות ופרויקטים. Canvas נותן תמיכה חדשה לכתיבה יצירתית וקוד. ניתן ליצור תוכניות או כלים מותאמים אישית, כמו גם כלים מותאמים לצורכי קוד, ישירות בחיפוש. זה יכול להיות כל מה שאתם רוצים, כולל דשבורד לניהול ומעקב אחר מלגות אקדמיות."
+  },
+  {
+    "id": "83abd15da08e27d4",
+    "title_original": "Extending single-minus amplitudes to gravitons",
+    "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+    "description": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-04T10:00:00+00:00",
+    "fetched_at": "2026-03-05T06:08:26.828335+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Extending single-minus amplitudes to gravitons",
+    "summary_he": "חוקרים פיתחו תוצאה חדשה בתאוריה של הכוחות המובילים, כאשר GPT-5.2 Pro תרמה לפיתוח ובדיקת תאוריות חדשות.",
+    "details_he": "בעזרת GPT-5.2 Pro, חוקרים יצאו אל תוך תאוריית הכוחות המובילים ופיתחו תאוריות חדשות. התוצאה, שפורסמה כפרינט חדש, כוללת תאוריות חדשות על גרביטונים. GPT-5.2 Pro תרמה לפיתוח ובדיקת תאוריות אלה."
+  },
+  {
+    "id": "29ed57f7e66fffe5",
+    "title_original": "אוכלים יותר במלחמה? יש לזה הסבר מדעי",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536673#utm_source=RSS",
+    "description": "מחקר שנערך במרכז האקדמי אשקלון מגלה כי אכילה רגשית היא מנגנון נפוץ ונורמלי לוויסות חרדה • מה הם המחירים הבריאותיים ואיך אפשר למזער נזקים? • שאלת השעה, מדור חדש",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-03-05T04:03:00+00:00",
+    "fetched_at": "2026-03-05T06:09:00.978520+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536673#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "אוכלים יותר במלחמה? יש לזה הסבר מדעי",
+    "summary_he": "מחקר במרכז האקדמי אשקלון חשף כי אכילה רגשית היא תגובה נפוצה לחרדה, אך יש לה תופעות לוואי בריאותיות. המחקר מציין כי יש למזער את השימוש באכילה רגשית כדי למנוע נזקים לבריאות.",
+    "details_he": "המחקר, שנערך במרכז האקדמי אשקלון, חשף כי אכילה רגשית היא תגובה נפוצה לחרדה. האכילה רגשית, הידועה גם כ'אכילה כבדה', היא תגובה שבה אנשים מאכילים יותר מדי כדי להפחית חרדה. המחקר מציין כי יש למזער את השימוש באכילה רגשית כדי למנוע נזקים לבריאות. האכילה רגשית יכולה להוביל לבעיות בריאות כגון עודף משקל, סוכרת ובעיות נפשיות."
+  },
+  {
+    "id": "9f4e5a2b38f95be9",
+    "title_original": "המוטציה שמפחידה חולי סרטן עשויה להפוך לפתרון: פריצת הדרך שנותנת תקווה חדשה",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001536502#utm_source=RSS",
+    "description": "ניסוי ראשוני בתרופה שמתקנת את אחת המוטציות הנפוצות האחראיות להתפתחות סרטן השיג תוצאות שמלהיבות את חוקרי התחום • התרופה מציעה דרך יצירתית לנצל את אחד ממאפייני המוטציה ולהפוך אותו ליתרון",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-03-05T04:00:00+00:00",
+    "fetched_at": "2026-03-05T06:09:00.978520+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001536502#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "המוטציה שמפחידה חולי סרטן עשויה להפוך לפתרון: פריצת הדרך שנותנת תקווה חדשה",
+    "summary_he": "חוקרים חשפו פריצת דרך חדשה בטיפול בסרטן, שבה תרופה ניסתה לתקן מוטציה נפוצה הגורמת להתפתחות המחלה. תוצאות הניסוי הראשוני היו מוצלחות.",
+    "details_he": "בניסוי ראשוני, תרופה שנועדה לתקן את המוטציה הנפוצה שגורמת לסרטן, הציגה תוצאות שמלהיבות. התרופה, שמציעה דרך יצירתית לנצל את אחד ממאפייני המוטציה, יכולה להפוך אותו ליתרון. זוהי פריצת דרך חשובה בטיפול בסרטן, שעשויה להציע תקווה חדשה לחולי המחלה."
+  },
+  {
+    "id": "44d4ce2a088b4a22",
+    "title_original": "Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/04/inside-tycoon2fa-how-a-leading-aitm-phishing-kit-operated-at-scale/",
+    "description": "Tycoon2FA has become a leading phishing-as-a-service (PhaaS) platforms, enabling campaigns that reach over 500,000 organizations monthly, prompting Microsoft’s Digital Crimes Unit (DCU) to work with Europol and industry partners to facilitate a disruption of Tycoon2FA’s infrastructure and operations.The postInside Tycoon2FA: How a leading AiTM phishing kit operated at scaleappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-04T16:04:24+00:00",
+    "fetched_at": "2026-03-05T06:08:39.008530+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/04/inside-tycoon2fa-how-a-leading-aitm-phishing-kit-operated-at-scale/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale",
+    "summary_he": "Tycoon2FA, פלטפורמת PhaaS מובילה, יצאה מכלל פעולה לאחר פעולת משותפת של Microsoft, Europol ושותפים תעשייתיים.",
+    "details_he": "Tycoon2FA, פלטפורמת PhaaS, הייתה פעילה במספר קמפיינים של תקיפה שכללו יותר מ-500,000 ארגונים מדי חודש. Microsoft's Digital Crimes Unit (DCU) ו-Europol יחד עם שותפים תעשייתיים פעלו לפגוע בתשתית ובפעילות של Tycoon2FA. פעולה זו נועדה למנוע תקיפות פישינג של חברות גדולות."
+  },
+  {
+    "id": "47c258162c0a79f4",
+    "title_original": "Rethinking SaaS access security after login",
+    "url": "https://www.cyberark.com/blog/rethinking-saas-access-security-after-login/",
+    "description": "Most organizations have gotten very good at protecting the front door. We invest heavily in single sign-on (SSO), mandate multi-factor authentication (MFA), and lock down who can log in, from where, and under what conditions....",
+    "source_name": "CyberArk Blog",
+    "source_url": "https://www.cyberark.com/resources/blog",
+    "category": "cyber",
+    "published": "2026-03-04T14:34:13+00:00",
+    "fetched_at": "2026-03-05T06:08:43.675362+00:00",
+    "sources": [
+      {
+        "name": "CyberArk Blog",
+        "url": "https://www.cyberark.com/blog/rethinking-saas-access-security-after-login/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Rethinking SaaS access security after login",
+    "summary_he": "Organizations have invested heavily in securing their front doors, but a new challenge has emerged: protecting access to SaaS applications after login. This requires a shift in focus from traditional identity security measures to a more comprehensive approach.",
+    "details_he": "The rise of cloud-based applications and artificial intelligence has created a new landscape for identity security. As organizations rely more heavily on SaaS applications, the risk of unauthorized access increases. Traditional measures such as single sign-on (SSO) and multi-factor authentication (MFA) are no longer sufficient to protect against sophisticated attacks. A more holistic approach is needed to address the complexities of modern identity security, including the use of AI agents and the need for local governance."
+  },
+  {
+    "id": "143124edcdb79879",
+    "title_original": "Powering Cyber Resilience Across APAC: Celebrating Check Point’s APAC FY25 Partner Award Winners",
+    "url": "https://blog.checkpoint.com/partners/powering-cyber-resilience-across-apac-celebrating-check-points-apac-fy25-partner-award-winners/",
+    "description": "Recognizing Excellence, Innovation, and Impact Across the Region  Check Point Software Technologies recognized the top partners across the Asia Pacific region, during the Check Point Software Technologies Sales Kickoff APAC event in Bangkok, Thailand, attended by almost 1,000 employees and partners. These awards are handed out to outstanding partners across Asia Pacific who have delivered exceptional customer outcomes, driven sustained growth, and advanced prevention first, AI powered cyber security across the region.   As cyber threats across Asia Pacific continue to intensify in both scale and sophistication — fuelled by AI-driven attacks, expanding hybrid and cloud ecosystems, and growing regulatory and operational complexity across the varied APAC countries, especially around AI, our top-performing partners play a critical role in helping organizations strengthen […]The postPowering Cyber Resilience Across APAC: Celebrating Check Point’s APAC FY25 Partner Award Winnersappeared firs",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-04T14:30:06+00:00",
+    "fetched_at": "2026-03-05T06:08:52.677121+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/partners/powering-cyber-resilience-across-apac-celebrating-check-points-apac-fy25-partner-award-winners/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Powering Cyber Resilience Across APAC: Celebrating Check Point’s APAC FY25 Partner Award Winners",
+    "summary_he": "Check Point Software Technologies הכריזה על זוכי פרסי APAC FY25 Partner Award, חברות שהצליחו לשפר את רמת הביטחון של לקוחותיהן באזור APAC.",
+    "details_he": "Check Point Software Technologies הכריזה על זוכי פרסי APAC FY25 Partner Award, חברות שהצליחו לשפר את רמת הביטחון של לקוחותיהן באזור APAC. הפרסים הוענקו באירוע Check Point Software Technologies Sales Kickoff APAC בבנגקוק, תאילנד. חברות אלה הצליחו לשפר את רמת הביטחון של לקוחותיהן, דרך שימוש בביטחון AI ובאבטחה ראשונה. הפרסים הוענקו לחברות שהצליחו לשפר את רמת הביטחון של לקוחותיהן, ולהגדיל את התפוקה שלהן. הפרסים ניתנו כחלק מהאירוע Check Point Software Technologies Sales Kickoff APAC, שבו השתתפו כ-1,000 עובדים ושותפים."
+  },
+  {
+    "id": "7cdbe136babab0d2",
+    "title_original": "The Whitelist Illusion – When Your Trusted List Becomes a Billion Dollar Attack Path",
+    "url": "https://blog.checkpoint.com/crypto/the-whitelist-illusion-when-your-trusted-list-becomes-a-billion-dollar-attack-path/",
+    "description": "Your whitelist is not a wall. For nation-state attackers, it’s a map, showing exactly who to compromise to get to your assets. $1,788,000,000 STOLEN FROM INSTITUTIONS WITH WHITELISTS, MULTISIGS, AND HARDWARE WALLETS IN PLACE TL;DR When you hold significant assets on a public blockchain, nation-state groups will target you – not if, but when Your whitelist tells attackers exactly which vendors and counterparties to compromise to reach your funds Bybit ($1.5B), WazirX ($235M), and Radiant ($53M) all had whitelists. All were drained through whitelisted entities The correct assumption: every whitelisted address is potentially compromised. Trust must be verified in real […]The postThe Whitelist Illusion – When Your Trusted List Becomes a Billion Dollar Attack Pathappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-04T12:00:30+00:00",
+    "fetched_at": "2026-03-05T06:08:52.677121+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/crypto/the-whitelist-illusion-when-your-trusted-list-becomes-a-billion-dollar-attack-path/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Whitelist Illusion – When Your Trusted List Becomes a Billion Dollar Attack Path",
+    "summary_he": "Whitelists, once considered a secure way to manage transactions, have become a billion-dollar attack path for nation-state attackers. By mapping the addresses on a target's whitelist, attackers can identify the weakest link and compromise it to gain access to the target's assets.",
+    "details_he": "Nation-state attackers use whitelists to their advantage by compromising the weakest whitelisted entity and using the pre-existing trust to bypass controls. This approach has resulted in $1.788 billion in losses from institutions with whitelists, multisigs, and hardware wallets in place. The whitelist illusion creates a false sense of security, leading to a lack of real-time transaction validation and monitoring. As a result, institutions must replace static access control with continuous, real-time transaction validation and monitoring to stay secure."
+  },
+  {
+    "id": "942d8cc033de2857",
+    "title_original": "Mobile malware evolution in 2025",
+    "url": "https://securelist.com/mobile-threat-report-2025/119076/",
+    "description": "Statistics on Android malware and the most notable mobile threats of 2025: preinstalled backdoors Keenadu and Triada, spyware Trojans, the Kimwolf IoT botnet, and Mamont banking Trojans.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-03-04T10:00:46+00:00",
+    "fetched_at": "2026-03-05T06:08:41.380303+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/mobile-threat-report-2025/119076/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Mobile malware evolution in 2025",
+    "summary_he": "בשנת 2025, חברת Kaspersky דיווחה על כ-14 מיליון התקפות על טלפונים ניידים, כ-62% מהן היו סוגי תקיפה של adware. חברת Kaspersky גם דיווחה על כ-815 אלף יישומי תקיפה נפוצים, כולל כ-255 אלף יישומי תקיפה של תקיפה בנקאית.",
+    "details_he": "בשנת 2025, חברת Kaspersky דיווחה על כ-14 מיליון התקפות על טלפונים ניידים, כ-62% מהן היו סוגי תקיפה של adware. חברת Kaspersky גם דיווחה על כ-815 אלף יישומי תקיפה נפוצים, כולל כ-255 אלף יישומי תקיפה של תקיפה בנקאית. חברת Kaspersky גם דיווחה על כמה יישומי תקיפה חדשים, כולל Keenadu, Kimwolf IoT botnet ו-LunaSpy Trojan. Keenadu הוא יישום תקיפה שנכנס למערכת ההפעלה של הטלפון ומאפשר לתקוף יישומים אחרים. Kimwolf IoT botnet הוא יישום תקיפה שמטרתו להפוך את הטלפון לבוטנט. LunaSpy Trojan הוא יישום תקיפה שמטרתו לאסוף מידע על הטלפון."
+  }
+]
