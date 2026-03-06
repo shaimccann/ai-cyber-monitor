@@ -1,0 +1,212 @@
+[
+  {
+    "id": "c67aeee1cda0a600",
+    "title_original": "Ask a Techspert: How does AI understand my visual searches?",
+    "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+    "description": "Mobile phone with a search bar that says \"Ask anything\"",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-05T18:00:00+00:00",
+    "fetched_at": "2026-03-06T06:05:17.697048+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Ask a Techspert: How does AI understand my visual searches?",
+    "summary_he": "Google's AI-powered visual search has become more sophisticated, enabling users to identify multiple objects within a single image. This feature, available in Circle to Search and Lens, allows for a more comprehensive understanding of visual searches, making it easier to find specific items or recreate entire scenes.",
+    "details_he": "The recent update to Google Search's visual search capabilities has been made possible by the use of AI, specifically multimodal search. This technology enables Google to break down and search for multiple objects within a single image simultaneously, providing users with a more detailed understanding of the visual content. According to Search Senior Engineering Director Dounia Berrada, the goal of this technology is to make visual search more intelligent and effortless, allowing users to get help with complex questions and tasks. The AI-powered visual search feature is available in Circle to Search and Lens, and has been enhanced in recent months with updates to visual search and image results in AI Mode."
+  },
+  {
+    "id": "3e5a17742976cfd2",
+    "title_original": "The latest AI news we announced in February",
+    "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+    "description": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-05T16:30:00+00:00",
+    "fetched_at": "2026-03-06T06:05:17.697048+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The latest AI news we announced in February",
+    "summary_he": "Google announced its AI advancements and global impact in February, highlighting partnerships and investments at the AI Impact Summit in India. The company showcased AI solving real-world problems, including new tools and upgrades such as Nano Banana 2, Gemini 3.1 Pro, and Deep Think.",
+    "details_he": "Google's AI announcements in February demonstrated the company's ongoing breakthroughs in AI solving real-world challenges. At the AI Impact Summit in India, Google launched new partnerships and investments to make AI work for everyone. The company also showcased AI video analysis tool for Team USA, helping athletes improve their performance. Additionally, Google announced new AI tools and upgrades, including Nano Banana 2, which combines Pro image quality with Flash speed, and Gemini 3.1 Pro, which helps users tackle complex tasks and problems across platforms."
+  },
+  {
+    "id": "34b6b32a78cc2ea7",
+    "title_original": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-05T14:16:49+00:00",
+    "fetched_at": "2026-03-06T06:05:18.887246+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "summary_he": "חברת NXP הציגה שיטות ידניות לטיפול באתגרים הנלוות להפעלת דגמי VLA (Vision-Language-Action) על פלטפורמות רובוטיות מוטמעות. השיטות כוללות תיעוד נתונים רובוטיים, תיאום חד-זמני של VLA ואופטימיזציה של תפעול ריאל-זמן.",
+    "details_he": "NXP טענה כי פיתוח דגמי VLA לפלטפורמות רובוטיות מוטמעות הוא בעיקר בעניין של הנדסת מערכות, ולא רק עיצוב מחדש של הדגם. החברה הציגה שיטות ידניות לטיפול באתגרים הנלוות, כולל תיעוד נתונים רובוטיים, תיאום חד-זמני של VLA ואופטימיזציה של תפעול ריאל-זמן. השיטות נבחנו על פלטפורמה NXP i.MX95, והתוצאות היו טובות. NXP טענה כי השיטות שלה יכולות לסייע לפיתוח דגמי VLA לפלטפורמות רובוטיות מוטמעות."
+  },
+  {
+    "id": "e49f90d93232b46b",
+    "title_original": "March Into the Cloud With 15 New Games Coming to GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-march-2026-games-list/",
+    "description": "March is in full bloom, and that means a fresh wave of games heading to the cloud. 15 new titles are joining the GeForce NOW library this month. Leading the March lineup is Pearl Abyss’ Crimson Desert, an open‑world action‑adventure set in a war‑torn fantasy land, alongside plenty of other games to explore. Whether looking […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-05T14:00:30+00:00",
+    "fetched_at": "2026-03-06T06:05:19.249294+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-march-2026-games-list/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "March Into the Cloud With 15 New Games Coming to GeForce NOW",
+    "summary_he": "GeForce NOW הוסיפה 15 משחקים חדשים לספרייתה, כולל Crimson Desert, ומציעה תכנים חדשים ב-GFN Thursdays.",
+    "details_he": "GeForce NOW הוסיפה 15 משחקים חדשים לספרייתה, כולל Crimson Desert, שהוא משחק אקשן-הרפתקה בעולם פנטסטי. המשחקים החדשים כוללים גם Kingdom Come: Deliverance II, Legacy of Kain: Defiance Remastered ו-LORT. GeForce NOW גם הוסיפה 18 משחקים חדשים לספרייתה, כולל Anno: Mutationem ו-MotoGP22. המשחקים החדשים זמינים כעת ב-GeForce NOW, והחברה מציעה תכנים חדשים ב-GFN Thursdays."
+  },
+  {
+    "id": "fa4c789f4ecf3586",
+    "title_original": "Introducing GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-05T10:00:00+00:00",
+    "fetched_at": "2026-03-06T06:05:16.541133+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-5-4"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing GPT-5.4",
+    "summary_he": "OpenAI השיקה את GPT-5.4, דגם חדש של מודל החזותי המקצועי ביותר שלה, עם יכולות קודים מובילות, גירויים ממוחשבים, חיפוש כלים והקשר של 1M-טוקן.",
+    "details_he": "GPT-5.4, הדגם החדש של OpenAI, הוא פריצת דרך בתחום המודלים החזותיים. הוא עוקב אחר יכולות קודים מובילות, גירויים ממוחשבים וחיפוש כלים, ומסוגל לשמור על הקשר של 1M-טוקן. זה יכול לשפר את היעילות והמהירות של תהליכי עבודה מקצועיים."
+  },
+  {
+    "id": "97e2ff92d0b139ab",
+    "title_original": "Women’s History Month: Encouraging women in cybersecurity at every career stage",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/05/womens-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/",
+    "description": "This Women’s History Month, we explore ways to support the next generation of female defenders at every career stage.The postWomen’s History Month: Encouraging women in cybersecurity at every career stageappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-05T17:00:00+00:00",
+    "fetched_at": "2026-03-06T06:05:34.026855+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/05/womens-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Women’s History Month: Encouraging women in cybersecurity at every career stage",
+    "summary_he": "בחודש האספרנטו, חברות טכנולוגיות רבות נוקטות צעדים לעודד נשים להתערב בתחום הביטחון הסייבר. הן עושות זאת כדי לפצות על תפנית חדשה, המצביעה על חסרון נשים בתחום.",
+    "details_he": "בחודש האספרנטו, חברות טכנולוגיות רבות נוקטות צעדים לעודד נשים להתערב בתחום הביטחון הסייבר. הן עושות זאת כדי לפצות על תפנית חדשה, המצביעה על חסרון נשים בתחום. חברות כמו Microsoft עושות זאת על ידי הצגת תוכניות ומדריכים לעודד נשים להתערב בתחום. הן גם עושות זאת כדי לפצות על חסרון נשים בתחום, שהוא תפנית חדשה. "
+  },
+  {
+    "id": "1f00cb9302a2239d",
+    "title_original": "Malicious AI Assistant Extensions Harvest LLM Chat Histories",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/",
+    "description": "Malicious AI browser extensions collected LLM chat histories and browsing data from platforms such as ChatGPT and DeepSeek. With nearly 900,000 installs and activity across more than 20,000 enterprise tenants, the campaign highlights the growing risk of data exposure through browser extensions.The postMalicious AI Assistant Extensions Harvest LLM Chat Historiesappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-03-05T16:02:12+00:00",
+    "fetched_at": "2026-03-06T06:05:34.026855+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Malicious AI Assistant Extensions Harvest LLM Chat Histories",
+    "summary_he": "Malicious browser extensions, targeting platforms like ChatGPT and DeepSeek, have been collecting sensitive user data, including chat histories and browsing information, from nearly 900,000 users across over 20,000 enterprise tenants.",
+    "details_he": "The malicious extensions, which have been installed on a large scale, pose a significant risk to user data exposure. This campaign highlights the growing threat of browser extensions compromising user privacy. The affected platforms, including ChatGPT and DeepSeek, are popular LLM chat services, making this incident particularly concerning."
+  },
+  {
+    "id": "281c0254b126fcc3",
+    "title_original": "Introducing CPR Act: A Unified Approach for a Full‑Lifecycle Security",
+    "url": "https://blog.checkpoint.com/infinity-global-services/introducing-cpr-act-a-unified-approach-for-a-fulllifecycle-security/",
+    "description": "Fragmented products and solutions sprawled across multiple environments create significant visibility gaps, which attackers look for to exploit. To close these gaps, Check Point Services has now introduced CPR Act, an expert‑led unit that covers the entire security lifecycle with continuous intelligence, coordinated action, and clear outcomes. This unified approach eliminates blind spots and ensures that every phase of security feeds into the next, creating a connected and predictable defense.  This elite team of experts brings top researchers, analysts, and responders together to provide organizations with a clear, research‑based insight to act decisively. It operates through four foundational pillars:  Intelligence: […]The postIntroducing CPR Act: A Unified Approach for a Full‑Lifecycle Securityappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-05T12:00:40+00:00",
+    "fetched_at": "2026-03-06T06:05:50.254719+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/infinity-global-services/introducing-cpr-act-a-unified-approach-for-a-fulllifecycle-security/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing CPR Act: A Unified Approach for a Full‑Lifecycle Security",
+    "summary_he": "Check Point Services השיקה CPR Act, יחידה מומחית שמספקת תמיכה מלאה לחיים המלאים של הביטחון, עם נקודת מבט אחת, תפיסה אחת ופעולה אחת. היחידה מספקת תמיכה רחבה, כולל תגובה, זיהוי, נכונות ומודעות, כדי לסגור פערים בראייה ולאפשר תגובה יעילה.",
+    "details_he": "CPR Act היא יחידה מומחית של Check Point Services, שמספקת תמיכה מלאה לחיים המלאים של הביטחון. היחידה מספקת תמיכה רחבה, כולל תגובה, זיהוי, נכונות ומודעות, כדי לסגור פערים בראייה ולאפשר תגובה יעילה. CPR Act פועלת דרך ארבעה עמודי בסיס: תגובה, זיהוי, נכונות ותגובה. Secure AI Advisory, שירות חדש של CPR Act, מספק תמיכה לארגונים בניהול סיכוני AI. השירות מספק תמיכה בהקמת תפיסה וזכויות החלטה, במיפוי דרישות חוקיות להתקני AI, ובבירור סיכוני AI והעדפת תיקונים."
+  },
+  {
+    "id": "66164f738a2b7a02",
+    "title_original": "Cato Networks Named a SASE Industry Leader and Outperformer for the THIRD Consecutive Year",
+    "url": "https://www.catonetworks.com/blog/cato-named-leader-and-outperformer-third-consecutive-year/",
+    "description": "Cato Networks has been named a Leader and Outperformer in the 2026 GigaOm Radar for Secure Access Service Edge (SASE) — marking the third consecutive year we’ve earned this distinction. And, once again, Cato is positioned closest to the center of the Radar, of all participants. In this year’s GigaOm Radar for SASE, Cato is...The postCato Networks Named a SASE Industry Leader and Outperformer for the THIRD Consecutive Yearappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-03-05T08:14:37+00:00",
+    "fetched_at": "2026-03-06T06:05:44.619980+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-named-leader-and-outperformer-third-consecutive-year/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato Networks Named a SASE Industry Leader and Outperformer for the THIRD Consecutive Year",
+    "summary_he": "Cato Networks הוכרזה כמנהיגה ומבצעת מצטיינת בתחום SASE, לשליש שנה ברציפות, על פי רדאר GigaOm לשנת 2026. השירות הזה משלב רשת וביטחון במערכת אחת, עם תכונות סד-וואן, סקייפ-סי-אס, ומנהל רשת פרטית גלובלית.",
+    "details_he": "Cato Networks קיבלה את התואר 'מנהיגה ומבצעת מצטיינת' ברדאר GigaOm ל-SASE, לשליש שנה ברציפות. השירות הזה משלב רשת וביטחון במערכת אחת, עם תכונות סד-וואן, סקייפ-סי-אס, ומנהל רשת פרטית גלובלית. Cato Networks נחשבת למערכת ה-SASE המבוססת על הענן, שמציעה פשטות פעולה ותוצאות עסקיות מדידות. השירות נבחן על ידי GigaOm וקיבל תואר 'מנהיגה ומבצעת מצטיינת' על פי רדאר GigaOm לשנת 2026."
+  },
+  {
+    "id": "b7047dea56b4dc2a",
+    "title_original": "On the Effectiveness of Mutational Grammar Fuzzing",
+    "url": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
+    "description": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets mutated, the mutations happen in such a way that any resulting samples still adhere to the grammar rules, thus the structure of the samples gets maintained by the mutation process. In case of coverage-guided grammar fuzzing, if the resulting sample (after the mutation) triggers previously unseen code coverage, this sample is saved to the sample corpus and used as a basis for future mutations. This technique has proven capable of finding complex issues and I have used it successfully in the past, including to find issues in XSLT implementations in web browsers and even JIT engine bugs. However, despite the approach being effective, it is not without its flaws which, for a casual fuzzer user, might not be obvious. In this blogpost I will introduce what I perceive to be the flaws of the mutational coverage-guided grammar fuzzing ap",
+    "source_name": "Google Project Zero",
+    "source_url": "https://googleprojectzero.blogspot.com",
+    "category": "cyber",
+    "published": "2026-03-05T00:00:00-08:00",
+    "fetched_at": "2026-03-06T06:05:34.338001+00:00",
+    "sources": [
+      {
+        "name": "Google Project Zero",
+        "url": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "On the Effectiveness of Mutational Grammar Fuzzing",
+    "summary_he": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets mutated, the mutations happen in such a way that any resulting samples still adhere to the grammar rules, thus the structure of the samples gets maintained by the mutation process. In case of coverage-guided grammar fuzzing, if the resulting sample (after the mutation) triggers previously unseen code coverage, this sample is saved to the sample corpus and used as a basis for future mutations. This technique has proven capable of finding complex issues and I have used it successfully in the past, including to find issues in XSLT implementations in web browsers and even JIT engine bugs. However, despite the approach being effective, it is not without its flaws which, for a casual fuzzer user, might not be obvious. In this blogpost I will introduce what I perceive to be the flaws of the mutational coverage-guided grammar fuzzing ap",
+    "details_he": ""
+  }
+]
