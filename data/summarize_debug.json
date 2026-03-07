@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-06T06:06:02.756604+00:00",
+  "timestamp": "2026-03-07T05:56:21.864837+00:00",
   "errors": [
     {
-      "title": "On the Effectiveness of Mutational Grammar Fuzzing",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 1096)",
+      "title": "v2.1.71",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 834)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 98,
+  "total_scanned": 61,
   "selected": 10
 }

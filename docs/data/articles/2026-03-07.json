@@ -1,0 +1,212 @@
+[
+  {
+    "id": "399d358e55b3ac71",
+    "title_original": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+    "description": "Photos of animals being identified by the SpeciesNet AI model",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-06T18:00:00+00:00",
+    "fetched_at": "2026-03-07T05:55:22.990367+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+    "summary_he": "בעקבות שחרור SpeciesNet לציבור הרחב, יותר אנשים מעולם משתמשים ב- AI לזיהוי בעלי חיים וללמידה על סביבתם, כדי לקדם ניטור ושימור בעלי חיים ברחבי העולם.",
+    "details_he": "SpeciesNet הוא מודל AI פתוח שמסייע למדעני שימור לזהות בעלי חיים בתמונות של פגיעה במצלמות. מאז שחרורו, קבוצות מחקר משתמשות בו לנתח נתונים במהירות גבוהה. קבוצות כמו פרויקט Snapshot Serengeti והמכון לאובסרבטוריום החיות של אוסטרליה משתמשות ב- SpeciesNet כדי לנתח את התנהגות החיות ולהגן על מינים נדירים."
+  },
+  {
+    "id": "1152ea9004bbdd6b",
+    "title_original": "Codex Security: now in research preview",
+    "url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "description": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-06T10:00:00+00:00",
+    "fetched_at": "2026-03-07T05:55:21.931674+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/codex-security-now-in-research-preview"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Codex Security: now in research preview",
+    "summary_he": "Codex Security, תוכנית אב לביטחון אפליקציות AI, נמצאת בגרסת מחקר.",
+    "details_he": "Codex Security היא סוכנת ביטחון לאפליקציות AI שמנתחת תצורה של פרויקט כדי לזהות, לאשר ולתקן חולשות מורכבות בביטחון עם ביטחון גבוה ופחות רעש. זה עשוי לשפר את תהליך הביטחון של פיתוח תוכנה."
+  },
+  {
+    "id": "e6292a0e7fb38b4a",
+    "title_original": "How Descript enables multilingual video dubbing at scale",
+    "url": "https://openai.com/index/descript",
+    "description": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-06T10:00:00+00:00",
+    "fetched_at": "2026-03-07T05:55:21.931674+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/descript"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Descript enables multilingual video dubbing at scale",
+    "summary_he": "Descript השיגה התקדמות חשובה בתחום הדיבוב וידאו בשפות שונות, כאשר תוכנת OpenAI תורמת לפיתוח תרגומים מדויקים ומותאמים לזמן.",
+    "details_he": "Descript משתמשת בדגמי OpenAI כדי לגדול את יכולת הדיבוב וידאו בשפות שונות, ומאפשרת תרגומים מדויקים ומותאמים לזמן, כך שהדיבוב נשמע טבעי ואותנטי בשפות שונות. זה יכול להיות קריטי לשירותי הסרטונים המקוונים ולתעשיית הסרטים."
+  },
+  {
+    "id": "1dae59fabc07db61",
+    "title_original": "How Balyasny Asset Management built an AI research engine for investing",
+    "url": "https://openai.com/index/balyasny-asset-management",
+    "description": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-06T07:00:00+00:00",
+    "fetched_at": "2026-03-07T05:55:21.931674+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/balyasny-asset-management"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Balyasny Asset Management built an AI research engine for investing",
+    "summary_he": "Balyasny Asset Management הקימה מנוע מחקר AI להשקעות תוך שימוש ב-GPT-5.4 ובבדיקות דגימה קפדניות.",
+    "details_he": "Balyasny Asset Management הקימה מנוע מחקר AI להשקעות, המשתמש ב-GPT-5.4, כדי לשפר את תהליך הבחינה המונית. המערכת כוללת תהליכי עבודה של אג'נט ובדיקות דגימה קפדניות. המערכת נועדה לשפר את תהליך הבחינה המונית בהשקעות."
+  },
+  {
+    "id": "bd82fde5b883ce3f",
+    "title_original": "v2.1.71",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.71",
+    "description": "What's changedAdded/loopcommand to run a prompt or slash command on a recurring interval (e.g./loop 5m check the deploy)Added cron scheduling tools for recurring prompts within a sessionAddedvoice:pushToTalkkeybinding to make the voice activation key rebindable inkeybindings.json(default: space) — modifier+letter combos likemeta+khave zero typing interferenceAddedfmt,comm,cmp,numfmt,expr,test,printf,getconf,seq,tsort, andprto the bash auto-approval allowlistFixed stdin freeze in long-running sessions where keystrokes stop being processed but the process stays aliveFixed a 5–8 second startup freeze for users with voice mode enabled, caused by CoreAudio initialization blocking the main thread after system wakeFixed startup UI freeze when many claude.ai proxy connectors refresh an expired OAuth token simultaneouslyFixed forked conversations (/fork) sharing the same plan file, which caused plan edits in one fork to overwrite the otherFixed the Read tool putting oversized images into contex",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-03-07T00:12:46+00:00",
+    "fetched_at": "2026-03-07T05:56:21.056817+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.71"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.71",
+    "summary_he": "What's changedAdded/loopcommand to run a prompt or slash command on a recurring interval (e.g./loop 5m check the deploy)Added cron scheduling tools for recurring prompts within a sessionAddedvoice:pushToTalkkeybinding to make the voice activation key rebindable inkeybindings.json(default: space) — modifier+letter combos likemeta+khave zero typing interferenceAddedfmt,comm,cmp,numfmt,expr,test,printf,getconf,seq,tsort, andprto the bash auto-approval allowlistFixed stdin freeze in long-running sessions where keystrokes stop being processed but the process stays aliveFixed a 5–8 second startup freeze for users with voice mode enabled, caused by CoreAudio initialization blocking the main thread after system wakeFixed startup UI freeze when many claude.ai proxy connectors refresh an expired OAuth token simultaneouslyFixed forked conversations (/fork) sharing the same plan file, which caused plan edits in one fork to overwrite the otherFixed the Read tool putting oversized images into contex",
+    "details_he": ""
+  },
+  {
+    "id": "90527a057452d380",
+    "title_original": "AI as tradecraft: How threat actors operationalize AI",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/",
+    "description": "Threat actors are operationalizing AI to scale and sustain malicious activity, accelerating tradecraft and increasing risk for defenders, as illustrated by recent activity from North Korean groups such as Jasper Sleet and Coral Sleet (formerly Storm-1877).The postAI as tradecraft: How threat actors operationalize AIappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-06T17:00:00+00:00",
+    "fetched_at": "2026-03-07T05:55:53.560562+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI as tradecraft: How threat actors operationalize AI",
+    "summary_he": "תגובה חדשה של ארגוני פשע מידע, שבה חברה פשע-מידע ניצלה את API של OpenAI Assistants כדי לשלוט במערכות קודם",
+    "details_he": "חוקרי תגובה לאירועים של Microsoft, DART, גילו תגובה חדשה של ארגוני פשע מידע, שבה חברה פשע-מידע ניצלה את API של OpenAI Assistants כדי לשלוט במערכות. תגובה זו נחשבת חדשנית, כיוון שהיא משתמשת ב-API של OpenAI Assistants כדי לשלוט במערכות. זוהי תגובה חדשה של ארגוני פשע מידע, שמציגה את הצורך להתחשב ב-API של OpenAI Assistants כאשר ניתן לבדוק את תגובות ה-C2."
+  },
+  {
+    "id": "7b07a3991a311183",
+    "title_original": "Bridging IT and OT identity decisions on the factory floor",
+    "url": "https://www.cyberark.com/blog/bridging-it-and-ot-identity-decisions-on-the-factory-floor/",
+    "description": "In today’s smart factories, production doesn’t go quiet at shift change. Behind the scenes, modern manufacturing systems never cease. They continuously exchange data, adjust software and processes in real time, and allow vendors to connect...",
+    "source_name": "CyberArk Blog",
+    "source_url": "https://www.cyberark.com/resources/blog",
+    "category": "cyber",
+    "published": "2026-03-06T16:54:14+00:00",
+    "fetched_at": "2026-03-07T05:55:58.444944+00:00",
+    "sources": [
+      {
+        "name": "CyberArk Blog",
+        "url": "https://www.cyberark.com/blog/bridging-it-and-ot-identity-decisions-on-the-factory-floor/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bridging IT and OT identity decisions on the factory floor",
+    "summary_he": "בעולם התעשייה המודרני, ישנה תקשורת רציפה בין מערכות הייצור, שמעבדת נתונים, שונה תוכנה ותהליכים, וזאת כדי לשמור על יצירת תוצרים. זאת תוך כדי שהפסקות בייצור יכולות לגרום לאבדן רב של כסף.",
+    "details_he": "התעשייה המודרנית תלויה בזיהוי ובבטיחות הזהות. כל פסקה בייצור יכולה לגרום לאבדן רב של כסף. זאת כיוון שהתקשורת בין המערכות היא רציפה והפסקה אחת יכולה לגרום לכל המערכות להפסיק. כדי למנוע זאת, יש צורך בבטיחות זהות ובזיהוי תקין."
+  },
+  {
+    "id": "f88103ec580b6c15",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 10",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-10-7/",
+    "description": "Authorities seize Tycoon2FA & LeakBase, researchers expose Coruna iOS exploits, and hacktivists launch DDoS attacks after U.S.-Israel strikes.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-03-06T14:00:58+00:00",
+    "fetched_at": "2026-03-07T05:55:57.388119+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-10-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 10",
+    "summary_he": "Europol and global authorities have made significant strides in disrupting major cybercrime operations, including the takedown of Tycoon2FA, a phishing-as-a-service platform, and the seizure of LeakBase, a major cybercrime forum. Additionally, a Russian national has pleaded guilty to running the Phobos ransomware operation, which has collected over $39 million in ransom payments. Meanwhile, researchers have uncovered a previously unknown iOS exploit kit, Coruna, capable of targeting Apple devices running iOS 13 through iOS 17.2.1.",
+    "details_he": "Tycoon2FA, a phishing-as-a-service platform, was responsible for sending tens of millions of phishing emails each month, using adversary-in-the-middle (AitM) techniques to bypass multi-factor authentication (MFA). Authorities seized 330 domains used to host phishing pages and control infrastructure, disrupting the operation. LeakBase, a major cybercrime forum, was taken down as part of Operation Leak, a joint effort by the FBI, Europol, and law enforcement in 14 countries. The forum had amassed 142,000 members since 2021 and offered leaked databases, exploits, and cybercrime services. Evgenii Ptitsyn, a Russian national, has pleaded guilty to wire fraud conspiracy for his role running the Phobos ransomware operation, which has targeted over 1000 organizations worldwide, collecting more than $39 million in ransom payments. Researchers have also uncovered the Coruna iOS exploit kit, containing 23 exploits and five complete exploit chains capable of targeting Apple devices running iOS 13 through iOS 17.2.1."
+  },
+  {
+    "id": "5e4318ba4df518b1",
+    "title_original": "Introducing Wiz Tenant Manager: Multi-Tenant Management for Federated Organizations",
+    "url": "https://www.wiz.io/blog/wiz-tenant-manager-multi-tenant-security",
+    "description": "Experience full Wiz security with zero friction, managing multiple tenants in a single console",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-06T13:00:01+00:00",
+    "fetched_at": "2026-03-07T05:55:57.897366+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-tenant-manager-multi-tenant-security"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Wiz Tenant Manager: Multi-Tenant Management for Federated Organizations",
+    "summary_he": "Wiz Tenant Manager הוצג כפתרון לבעיות הביטחון של מארגני תאגידים פדרליים. הוא מאפשר לצוותי ביטחון לנהל תאגידים רב-תאגידיים באופן יעיל ובקבוצה.",
+    "details_he": "Wiz Tenant Manager הוא פלטפורמה שנועדה לפשט את ניהול הביטחון בתאגידים רב-תאגידיים. הוא מאפשר לצוותי ביטחון לצפות במצב הביטחוני המאוחד של כל התאגידים, לגשת לתאגידים פרטיים לחקירה ולתיקון, וליישם מדיניות ביטחונית והגבלות בקבוצה. Wiz Tenant Manager נועד לפתור את הבעיות של צוותי ביטחון שנאלצים לנהל תאגידים רב-תאגידיים, כאשר כל תאגיד מאופיין במשאבים, סיכונים ותצוגת ביטחון ייחודית. Wiz Tenant Manager נועד לפשט את ניהול הביטחון בתאגידים רב-תאגידיים, ולאפשר לצוותי ביטחון לנהל את הביטחון בקבוצה, ללא צורך בניהול תאגידים פרטיים."
+  },
+  {
+    "id": "7d46217fa66d23af",
+    "title_original": "The Agile FedRAMP Playbook, Part 4: Reactive Risk Management through Enriched Incident Response",
+    "url": "https://www.wiz.io/blog/fedramp-incident-response",
+    "description": "In the final part of our series, we explore Reactive Risk Management. Discover how Wiz for U.S. Government transforms cloud detection and response to help satisfy FedRAMP Rev 5 IR controls and FedRAMP 20x detection benchmarks.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-06T12:00:01+00:00",
+    "fetched_at": "2026-03-07T05:55:57.897366+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/fedramp-incident-response"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Agile FedRAMP Playbook, Part 4: Reactive Risk Management through Enriched Incident Response",
+    "summary_he": "אף שמערכות התקשורת הענקיות של הענן יכולות לקבל תגובות אוטומטיות, יש חשיבות לתגובה ראקטיבית לאסונות, כדי להתאים לאיומים חדשים ולהגן על נתונים",
+    "details_he": "אף שמערכות התקשורת הענקיות של הענן יכולות לקבל תגובות אוטומטיות, יש חשיבות לתגובה ראקטיבית לאסונות, כדי להתאים לאיומים חדשים ולהגן על נתונים. Wiz Defend מספקת תגובה ראקטיבית, על ידי הצפנת זיהוי וחקירה מהירה, ומאפשרת לצוותי הביטחון לצמצם את העומס הכפול ולהגיע לתגובה יעילה. Wiz Defend תומכת במערכת הביטחון, על ידי קביעת קשרים בין אירועים שונים, וכך, יכולה לצמצם את העומס הכפול ולהגיע לתגובה יעילה. Wiz Defend גם מספקת תגובה ראקטיבית, על ידי הצפנת זיהוי וחקירה מהירה, ומאפשרת לצוותי הביטחון לצמצם את העומס הכפול ולהגיע לתגובה יעילה."
+  }
+]
