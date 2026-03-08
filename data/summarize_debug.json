@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-07T05:56:21.864837+00:00",
+  "timestamp": "2026-03-08T06:02:43.184821+00:00",
   "errors": [
     {
-      "title": "v2.1.71",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 834)",
+      "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1368)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 61,
+  "total_scanned": 14,
   "selected": 10
 }
