@@ -1,0 +1,212 @@
+[
+  {
+    "id": "f1873a9988cf2d15",
+    "title_original": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-09T18:36:33+00:00",
+    "fetched_at": "2026-03-10T06:05:38.996487+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "summary_he": "IBM הציגה את Granite 4.0 1B Speech, דגם קול-לשון חדש שנועד לאפליקציות עסקיות במכשירים עם משאבים מוגבלים. הדגם יכול לבצע הכרה אוטומטית של קול (ASR) ותרגום דו-כיווני של קול (AST) בשפות רבות.",
+    "details_he": "Granite 4.0 1B Speech הוא דגם קול-לשון קטן שבנוי להכרה אוטומטית של קול ותרגום דו-כיווני של קול. הדגם יכול לבצע הכרה אוטומטית של קול באנגלית, צרפתית, גרמנית, ספרדית, פורטוגזית ויפנית. הדגם גם יכול לבצע תרגום דו-כיווני של קול בשפות אלה. ג'ורג' סאון, מנהל IBM, אמר כי הדגם יכול לבצע הכרה אוטומטית של קול ותרגום דו-כיווני של קול בשפות רבות. הדגם גם יכול לבצע תרגום דו-כיווני של קול בשפות רבות. הדגם נבחן במספר תחומים, כולל הכרה אוטומטית של קול, תרגום דו-כיווני של קול ועוד."
+  },
+  {
+    "id": "f0f2d5fbac5ee40d",
+    "title_original": "How AI is changing the nature of mathematical research",
+    "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
+    "description": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-03-09T17:55:47+00:00",
+    "fetched_at": "2026-03-10T06:05:39.947764+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How AI is changing the nature of mathematical research",
+    "summary_he": "בעקבות התפתחות תוכנות AI, המחקר המתמטי עובר שינויים דרסטיים. תאורטיקני למידת המכונה גילו ש-AI יכולה לפתח ולכתוב הוכחות מתמטיות רגולריות, כאשר הם נותנים רשימות גבוהות של הוכחות. ",
+    "details_he": "אנשי מדע חוקרים את התאוריה של למידת המכונה, והם כבר רואים שינויים דרסטיים במדודתיות מדעית. AI כבר יכולה לפתח ולכתוב הוכחות מתמטיות רגולריות, כאשר הם נותנים רשימות גבוהות של הוכחות. זה כמו עבודה עם עמית שבקיא במדעים, אך עשוי להיות שגיאה. חוקרים עבדו עם כלי AI לכתיבת עבודה מתמטית של 50 עמודים, שהייתה נדרשת זמן של חודשים. "
+  },
+  {
+    "id": "e135e558085c6292",
+    "title_original": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
+    "url": "https://blogs.nvidia.com/blog/abb-robotics-omniverse/",
+    "description": "ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor.  By integrating NVIDIA Omniverse libraries directly into its RobotStudio programming and simulation suite, ABB Robotics will now deliver physically accurate simulation capabilities in its platform, dramatically cutting engineering time, reducing deployment costs by up to 40% and […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-09T15:00:34+00:00",
+    "fetched_at": "2026-03-10T06:05:39.293812+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/abb-robotics-omniverse/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
+    "summary_he": "ABB Robotics ו-NVIDIA הכריזו על שיתוף פעולה שמביא תוכנה פיזית של AI למפעלים. השיתוף יאפשר תכנות והפעלה של רובוטים באמצעות תוכנה פיזית של AI, ויגדיל את יעילות התכנות, יקטין את העלויות ויאיץ את השקיעה.",
+    "details_he": "השיתוף יאפשר ל-ABB Robotics להציע תכנות והפעלה של רובוטים באמצעות תוכנה פיזית של AI, ויגדיל את יעילות התכנות, יקטין את העלויות ויאיץ את השקיעה. השיתוף כבר זוכה לעניין רב מלקוחות גלובליים של ABB Robotics, וכבר נערכים ניסויים עם Foxconn ו-Workr. השיתוף יסיים את החסרונות של התכנות הווירטואלית, ויאפשר ל-ABB Robotics להציע תכנות והפעלה של רובוטים באמצעות תוכנה פיזית של AI."
+  },
+  {
+    "id": "91fd27672c122321",
+    "title_original": "How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026",
+    "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+    "description": "AI is everywhere and accelerating everything — becoming essential infrastructure to create the intelligence that will advance every industry. That’s why companies are increasingly focusing on the technology’s return on investment (ROI), as well as how to best apply AI to their own use cases. NVIDIA’s annual “State of AI” reports show how AI is […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-09T15:00:23+00:00",
+    "fetched_at": "2026-03-10T06:05:39.293812+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026",
+    "summary_he": "AI is becoming a crucial infrastructure for various industries, driving revenue, cutting costs, and boosting productivity. Companies are focusing on AI's return on investment and its application in their specific use cases.",
+    "details_he": "NVIDIA's annual 'State of AI' reports show that AI adoption is rising across industries, with companies achieving ROI and tackling challenges with specialized AI programs built with open source tools. The reports garnered over 3,200 responses from around the world, providing insights into the state of AI in various sectors. The data highlights the growth of enterprise AI adoption, with 64% of respondents saying their organizations are actively using AI, and larger companies demonstrating broader adoption and greater ROI."
+  },
+  {
+    "id": "1cd0302f4b53e131",
+    "title_original": "OpenAI to acquire Promptfoo",
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-09T10:00:00+00:00",
+    "fetched_at": "2026-03-10T06:05:36.750140+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-to-acquire-promptfoo"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI to acquire Promptfoo",
+    "summary_he": "OpenAI היא חברה שרוכשת Promptfoo, פלטפורמת אבטחת AI המסייעה למוסדות עסקיים לזהות ולתקן חולשות במערכות AI במהלך פיתוחן.",
+    "details_he": "OpenAI רוכשת את Promptfoo, פלטפורמת אבטחת AI המסייעה למוסדות עסקיים לזהות ולתקן חולשות במערכות AI במהלך פיתוחן. זה יכול להשפיע על יכולת האבטחה של OpenAI. Promptfoo תמשיך לפעול כחלק מ-OpenAI."
+  },
+  {
+    "id": "c4791e4b9aa57a5d",
+    "title_original": "China-Nexus Activity Against Qatar Observed Amid Expanding Regional Tensions",
+    "url": "https://blog.checkpoint.com/research/china-nexus-activity-against-qatar-observed-amid-expanding-regional-tensions/",
+    "description": "Key Findings Since the recent escalation in the Middle East, Check Point Research has observed increased activity by Chinese-nexus APT actors in the region, particularly targeting Qatar The Chinese-nexus threat actor Camaro Dragon attempted to deploy a variant of PlugX malware against Qatari targets within one day of the launch of Operation Epic Fury and the onset of the escalation in the Middle East The attackers leveraged the ongoing war in the Middle East to make their lures more credible and engaging, demonstrating the ability to rapidly adapt to major developments and breaking news The use of payloads such as […]The postChina-Nexus Activity Against Qatar Observed Amid Expanding Regional Tensionsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-09T19:34:19+00:00",
+    "fetched_at": "2026-03-10T06:06:03.347599+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/china-nexus-activity-against-qatar-observed-amid-expanding-regional-tensions/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "China-Nexus Activity Against Qatar Observed Amid Expanding Regional Tensions",
+    "summary_he": "Check Point Research נטען שהם צפו בפעילות של גורמים סיניים-נקודתיים במהלך העלייה בלחץ במזרח התיכון, כאשר הם ניסו להפעיל גרסה שונה של PlugX, תוכנת זדון, נגד מטרות קטריות.",
+    "details_he": "בעקבות העלייה בלחץ במזרח התיכון, Check Point Research צפו בפעילות של גורמים סיניים-נקודתיים, כאשר הם ניסו להפעיל גרסה שונה של PlugX, תוכנת זדון, נגד מטרות קטריות. הפעילות הזו התרחשה יום אחד לאחר תחילת 'מבצע אפיק פיורי' והעלייה בלחץ במזרח התיכון. הפעילים השתמשו באירועי המלחמה באזור כדי להפגין סבירות ולהפגין את יכולתם להתאים לאירועים חדשים. השימוש בתוכנות כמו PlugX ו-Cobalt Strike מעיד על נטייה לשימוש בכלי פשוטים וקלים, התומכים בהפעלה מהירה. "
+  },
+  {
+    "id": "1bc0edc8adf2f080",
+    "title_original": "9th March – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/9th-march-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 9th March, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES AkzoNobel, a Netherlands-based global paint manufacturer, has confirmed a cyberattack affecting one of its United States sites. The company said the intrusion was contained, while the Anubis ransomware group claimed it stole […]The post9th March – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-09T16:36:43+00:00",
+    "fetched_at": "2026-03-10T06:05:53.428540+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/9th-march-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "9th March – Threat Intelligence Report",
+    "summary_he": "AkzoNobel, יצרן צבעים גלובלי מהולנד, חשף פגיעה סייברית באחד מאתריו בארצות הברית. החברה אישרה כי הפגיעה הוכנסה, אך נשלטה, וקבוצת Anubis טענה כי הצליחה לגנוב [...]",
+    "details_he": "הפגיעה הסייברית ב-AkzoNobel, יצרן הצבעים הגלובלי, חשף את חולשותיו של האתר. קבוצת Anubis, קבוצת הראנסומר Anubis, טענה כי הצליחה לגנוב נתונים. כל זאת, כאשר AkzoNobel אישרה כי הפגיעה נשלטה. "
+  },
+  {
+    "id": "47151812dcdf1dba",
+    "title_original": "XM Cyber Continuous Exposure Management",
+    "url": "https://xmcyber.com/videos/xm-cyber-continuous-exposure-management/",
+    "description": "Check out what makes XM Cyber’s Continuous Exposure Management platform unique so you can finally get exposure prioritization right and reduce risk in the...The postXM Cyber Continuous Exposure Managementappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-03-09T14:14:05+00:00",
+    "fetched_at": "2026-03-10T06:06:02.451247+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/videos/xm-cyber-continuous-exposure-management/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "XM Cyber Continuous Exposure Management",
+    "summary_he": "XM Cyber מציעה פלטפורמת ניהול חשיפה רציפה המאפשרת פריסות חד-צדדיות ומשולבות. הפלטפורמה משתמשת בנקודת מבט של התוקף כדי לגלות ולתקן דרכי תקיפה קריטיות.",
+    "details_he": "XM Cyber היא מובילה בביטחון היברידי-ענן, המשתמשת בנקודת מבט של התוקף כדי לגלות ולתקן דרכי תקיפה קריטיות על-פני רשתות on-premises ומשולבות. הפלטפורמה של XM Cyber מאפשרת פריסות חד-צדדיות ומשולבות, ומסייעה לארגונים להישאר מובילים בתחום הביטחון. XM Cyber מציעה פתרון ייחודי לניהול חשיפה רציפה."
+  },
+  {
+    "id": "04cc55a44e3e6624",
+    "title_original": "Secure agentic AI for your Frontier Transformation",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/",
+    "description": "Learn how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.The postSecure agentic AI for your Frontier Transformationappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-09T13:00:00+00:00",
+    "fetched_at": "2026-03-10T06:05:48.700565+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Secure agentic AI for your Frontier Transformation",
+    "summary_he": "Microsoft נותנת תמיכה למבצע Operation Winter SHIELD, כדי לצמצם את הפער ביישום ביטחון. זה קורה כי 70% מהאסונות הביטחוניים קורים בפער זה. ",
+    "details_he": "Microsoft נותנת תמיכה למבצע Operation Winter SHIELD, כדי לצמצם את הפער ביישום ביטחון. זה קורה כי 70% מהאסונות הביטחוניים קורים בפער זה. פער זה קורה כאשר הארגונים יודעים מה חשוב, אבל לא יושם באופן קבוע. Microsoft תומכת במבצע Operation Winter SHIELD, כדי לסייע לארגונים לצמצם את הפער ביישום ביטחון."
+  },
+  {
+    "id": "ed68a08b260792cc",
+    "title_original": "Vulnerability Scanners Cannot Power Your CTEM Program",
+    "url": "https://xmcyber.com/blog/vulnerability-scanners-cannot-power-your-ctem-program/",
+    "description": "Most CISOs I’ve worked with understand intuitively that vulnerability scanners – like any tool in the security stack – have their limits. So, what...The postVulnerability Scanners Cannot Power Your CTEM Programappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-03-09T10:56:19+00:00",
+    "fetched_at": "2026-03-10T06:06:02.451247+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/vulnerability-scanners-cannot-power-your-ctem-program/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Vulnerability Scanners Cannot Power Your CTEM Program",
+    "summary_he": "בעוד סקאנרי חולשות יכולים לספק רשימה של חולשות, הם אינם יכולים לספק את ההקשר הדרוש לתכנון תגובה אפקטיבי.",
+    "details_he": "סקאנרי חולשות יכולים לזהות חולשות ידועות, כגון CVEs, CWEs וחולשות נוספות, אך הם אינם יכולים לספק את ההקשר הדרוש לתכנון תגובה אפקטיבי. הם אינם יכולים לספק תמונה מלאה של חולשות הארגון, כולל חולשות בתחום הזהויות, התנהגות המשתמשים, הגדרות הדפדפן ופני השטח הקשורים ל-AI. סקאנרי חולשות יכולים לספק רשימה של חולשות, אך הם אינם יכולים לספק את ההקשר הדרוש לתכנון תגובה אפקטיבי. זהו הגורם לכך שתוכניות CTEM שנבנות על סקאנרי חולשות נכשלות."
+  }
+]
