@@ -1,10 +1,17 @@
 {
-  "timestamp": "2026-03-10T06:06:13.042614+00:00",
-  "errors": [],
+  "timestamp": "2026-03-11T06:10:16.069478+00:00",
+  "errors": [
+    {
+      "title": "BeatBanker: A dual‑mode Android Trojan",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 1157)",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 10,
-  "fallback": 0,
-  "total_scanned": 78,
+  "success": 9,
+  "fallback": 1,
+  "total_scanned": 112,
   "selected": 10
 }
