@@ -1,0 +1,212 @@
+[
+  {
+    "id": "084966b8b68693cc",
+    "title_original": "How AI is helping improve heart health in rural Australia",
+    "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+    "description": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-12T15:00:00+00:00",
+    "fetched_at": "2026-03-12T06:36:40.556767+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How AI is helping improve heart health in rural Australia",
+    "summary_he": "Google Australia's Digital Future Initiative invested $1 million to improve heart health in rural Australia through a new program. The program uses Google's Population Health AI to identify hidden health risks in remote communities. This helps doctors provide personalized care to those in need.",
+    "details_he": "The program aims to provide 50,000 health screenings in remote areas using the insights gained from Google's Population Health AI. The AI analyzes data such as air quality and location to tailor healthcare to specific areas. This initiative is a partnership between Google and leading Australian health organizations, including Wesfarmers Health and the Victor Chang Cardiac Research Institute. The goal is to address the disparity in health outcomes between metropolitan and rural areas in Australia, where people living in remote communities are 60% more likely to die from heart disease."
+  },
+  {
+    "id": "f0b824efc5f13ded",
+    "title_original": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+    "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-12T03:53:34+00:00",
+    "fetched_at": "2026-03-12T06:36:41.706994+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+    "summary_he": "NVIDIA AI-Q, deep research agent, achieved first place on both DeepResearch Bench I and DeepResearch Bench II, demonstrating its ability to produce well-cited reports and accurate information retrieval. This achievement highlights the potential of open and portable deep research agents to power state-of-the-art agentic research. The AI-Q architecture is designed to be flexible and customizable, making it accessible to developers.",
+    "details_he": "The AI-Q deep researcher's success on both benchmarks is a significant milestone in the field of deep research. By leading on both DeepResearch Bench I and II, AI-Q demonstrates its ability to produce polished, well-structured narratives and strong synthesis, as well as granular factual correctness and analytical rigor. The AI-Q architecture is built on a modular and open blueprint, allowing enterprises to own, inspect, customize, and configure the model per use case. The deep researcher is one workflow within the larger AI-Q blueprint, which includes intent routing, query clarification, and shallow research. The architecture centers on three components: an orchestrator, a planner, and a researcher, each of which can be powered by a different LLM, and an optional ensemble that runs multiple agents in parallel to merge their outputs for maximum report quality and coverage of information."
+  },
+  {
+    "id": "61ed415ee0d9e4a5",
+    "title_original": "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/",
+    "description": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale.  Available now, the model combines advanced reasoning capabilities to efficiently complete tasks with high accuracy for autonomous agents. AI-Native Companies: Perplexity offers its users access to Nemotron 3 Super for […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-11T16:00:21+00:00",
+    "fetched_at": "2026-03-12T06:36:42.072375+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI",
+    "summary_he": "NVIDIA Nemotron 3 Super הושקה היום, והיא מודל פתוח בגודל 120 מיליארד תכונות, שמסוגל לרוץ מערכות AI אוטונומיות מורכבות בקנה מידה גדול. המודל משלב יכולות תפיסה מתקדמות, ומאפשר לבצע משימות בדיוק גבוה. המודל ניתן להפעלה כעת, וחברות AI-Native, כמו Perplexity, CodeRabbit, Factory, Greptile, Edison Scientific ו-Lila Sciences, כבר משתמשות בו.",
+    "details_he": "NVIDIA Nemotron 3 Super היא השקה חדשה של NVIDIA, שמטרתה לשפר את יכולת ה-AI לבצע משימות מורכבות. המודל משלב יכולות תפיסה מתקדמות, ומאפשר לבצע משימות בדיוק גבוה. המודל ניתן להפעלה כעת, וחברות AI-Native, כמו Perplexity, CodeRabbit, Factory, Greptile, Edison Scientific ו-Lila Sciences, כבר משתמשות בו. המודל גם ניתן להפעלה בתוך פלטפורמות תוכנה, כמו Amdocs, Palantir, Cadence, Dassault Systèmes ו-Siemens. המודל מסוגל לבצע משימות בקנה מידה גדול, ומאפשר לבצע משימות בדיוק גבוה. המודל גם ניתן להפעלה בתוך פלטפורמות AI, כמו NVIDIA AI-Q, ומאפשר לבצע משימות בדיוק גבוה."
+  },
+  {
+    "id": "1393912097a4807d",
+    "title_original": "Designing AI agents that know when to step back",
+    "url": "https://www.amazon.science/blog/designing-ai-agents-that-know-when-to-step-back",
+    "description": "As AI agents become more autonomous, the key challenge isn't what they can do; it's how to design the human side of the equation.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-03-11T16:00:00+00:00",
+    "fetched_at": "2026-03-12T06:36:43.003243+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/designing-ai-agents-that-know-when-to-step-back"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Designing AI agents that know when to step back",
+    "summary_he": "מעבדי AI חוקרים את האתגר של תכנון חוויית המשתמש עם AI שקולקל. עם AI שהופכים יותר ויותר אוטונומיים, חשוב לדעת כשלהם לצאת, כדי לשמור על תאוצה ולמנוע תקלות.",
+    "details_he": "בעולם ה-AI, AI שהופכים יותר ויותר אוטונומיים, יוצרים אתגר חדש: כיצד לתכנן את חוויית המשתמש עם AI שקולקל. AI שקולקל, כפי שקראנו, אינם רק תכונה שניתן להוסיף למוצרים קיימים, אלא סוג של תוכנה שונה במהותו, הדורש חשיבה חדשה. AI שקולקל, כפי שקראנו, יכולים להיות פעילים ומסוגלים לשוחח, ולעיתים אף להיות אנתרופומורפיים. הם אינם רק עונים לפקודות, אלא גם מתחילים בפעולות ומקבלים החלטות באופן עצמאי. AI שקולקל, כפי שקראנו, יכולים להיות יעילים, אך גם יכולים ליצור קושי בעיצוב חוויית המשתמש. אתגר חשוב בתכנון UX הוא קואורדינציה: התנועה בין מה שהמשתמש עושה, מה שהוא חווה, ומה שה-AI עושה, גם אם הוא נראה וגם אם הוא אינו."
+  },
+  {
+    "id": "a78ffa42c9e3f6bb",
+    "title_original": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "description": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 20.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-11T15:00:08+00:00",
+    "fetched_at": "2026-03-12T06:36:42.072375+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/gtc-2026-news/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+    "summary_he": "NVIDIA ו- Thinking Machines Lab הכריזו על שותפות אסטרטגית של טווח ארוך להקמת מערכות NVIDIA Vera Rubin של גיגא-ואט בעולם, כדי לתמוך באימון דגם החזית של Thinking Machines.",
+    "details_he": "השותפות, שנקראת 'Gigawatt-Scale Strategic Partnership', תכלול הקמת מערכות NVIDIA Vera Rubin של גיגא-ואט, שישמשו לאימון דגם החזית של Thinking Machines. זה יאפשר לחברה לפתח טכנולוגיות AI חדשות ולשפר את יכולותיה. השותפות תסייע ל-NVIDIA להתחיל בפיתוח ובשיווק של NVIDIA Vera Rubin."
+  },
+  {
+    "id": "8455266b04b406cd",
+    "title_original": "Contagious Interview: Malware delivered through fake developer job interviews",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/",
+    "description": "The Contagious Interview campaign weaponizes job recruitment to target developers. Threat actors pose as recruiters from crypto and AI companies and deliver backdoors such as OtterCookie and FlexibleFerret through fake coding assessments. The malware then steals API tokens, cloud credentials, crypto wallets, and source code.The postContagious Interview: Malware delivered through fake developer job interviewsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-11T21:00:50+00:00",
+    "fetched_at": "2026-03-12T06:36:53.191833+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Contagious Interview: Malware delivered through fake developer job interviews",
+    "summary_he": "במסגרת קמפיין 'Contagious Interview', פרטיירים משתמשים בטכניקות חדשניות לכניסה למערכות, כאשר הם משתמשים בתהליכי גיוס עבודה כדי להציג תוכנות מלאכותיות. זוהי טכניקה חדשה של כניסה למערכות, שבה הפרטיירים משתמשים באמון של המועמדים בתהליכי גיוס עבודה.",
+    "details_he": "הקמפיין 'Contagious Interview' נמשך כלפי פיתוחנים בחברות פיתוח פתרונות וחברות תקשורת, כאשר הפרטיירים משתמשים בטכניקות חדשניות לכניסה למערכות. הפרטיירים משתמשים בתהליכי גיוס עבודה כדי להציג תוכנות מלאכותיות, והם משתמשים באמון של המועמדים בתהליכי גיוס עבודה. הפרטיירים משתמשים בטכניקות חדשניות לכניסה למערכות, כאשר הם משתמשים בתהליכי גיוס עבודה כדי להציג תוכנות מלאכותיות."
+  },
+  {
+    "id": "1a4f8020d89a74cd",
+    "title_original": "Es ist offiziell: Wiz wird Teil von Google",
+    "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+    "description": "Wir begrüßen eine neue Ära der Cloud- und KI-Sicherheit.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-11T12:41:21+00:00",
+    "fetched_at": "2026-03-12T06:36:58.087216+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Es ist offiziell: Wiz wird Teil von Google",
+    "summary_he": "Wiz, ein führendes Unternehmen für Cloud-Sicherheit, hat seine Integration in Google abgeschlossen. Die Firma bleibt bei ihrer Mission, jede Organisation zu unterstützen, um alles zu schützen, was sie baut und betreibt.",
+    "details_he": "Wiz hat in den letzten 12 Monaten wichtige Meilensteine erreicht, darunter die Entdeckung kritischer Schwachstellen in verschiedenen Cloud-Umgebungen, wie dem Exposed Database in Moltbook, CodeBreach, RediShell und NVIDIAScape. Diese Entdeckungen haben die Bedeutung von Cloud-Sicherheit hervorgehoben und die Notwendigkeit unterstrichen, dass Sicherheit nicht die Geschwindigkeit behindern sollte. Wiz ist nun Teil von Google und bleibt bei seiner Mission, Organisationen zu unterstützen, um ihre Geschwindigkeit zu nutzen, um sicher zu bleiben."
+  },
+  {
+    "id": "ba0b7c91efe8d2f9",
+    "title_original": "Augmented Phishing: Social Engineering in the Age of AI",
+    "url": "https://blog.checkpoint.com/services/augmented-phishing-social-engineering-in-the-age-of-ai/",
+    "description": "The rise of GenAI has pushed social engineering and phishing to new levels. What once required manual effort can now be generated in seconds, resulting in hyper-personalized messages, cloned executive voices, and even realistic video impersonations. Deepfake incidents have already moved from online curiosity to real business risk, driving financial loss and operational disruption in organizations worldwide.  On everyday collaboration platforms, verifying identity has become increasingly difficult. Real-time face and voice cloning remove many traditional warning signs, making scams harder to spot than ever. As the threat landscape shifts, organizations need modern defenses and smarter awareness programs designed for the realities of the AI era.  Check Point Services has recently expanded its training portfolio to help […]The postAugmented Phishing: Social Engineering in the Age of AIappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-11T12:00:46+00:00",
+    "fetched_at": "2026-03-12T06:37:08.592331+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/services/augmented-phishing-social-engineering-in-the-age-of-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Augmented Phishing: Social Engineering in the Age of AI",
+    "summary_he": "בעידן של גנרטיבי AI, הטכנולוגיה החדשה נותנת לפורצי הסף כוח רב יותר ליצור הודעות אישיות ומותאמות למטרה, וזאת כדי להגביר את הסיכויים להצליח בפנייה חברתית.",
+    "details_he": "בעידן של גנרטיבי AI, פורצי הסף נוטים להשתמש בטכנולוגיה כדי ליצור הודעות אישיות ומותאמות למטרה, וזאת כדי להגביר את הסיכויים להצליח בפנייה חברתית. דימוי פנים וקול באורך זמן אמצעי הזהירות המסורתיים, וכך פורצי הסף יכולים להגביר את הסיכויים להצליח בפנייה חברתית. כדי להתמודד עם האיום החדש, חברות צריכות לפתח הגנות חדשות ותוכניות הסברה מודרניות שתקנו על האיומים של העידן החדש."
+  },
+  {
+    "id": "e4d046e502a7695f",
+    "title_original": "Highlights from the 2026 Cato CTRL™ Threat Report",
+    "url": "https://www.catonetworks.com/blog/highlights-from-2026-cato-ctrl-threat-report/",
+    "description": "Introduction Today, we published the 2026 Cato CTRL Threat Report, which is the second annual threat report on AI security from Cato CTRL (the Cato Networks threat intelligence team). In 2025, Cato CTRL uncovered a decisive shift in the AI threat landscape. Threat actors are no longer just exploiting AI systems. They are exploiting AI...The postHighlights from the 2026 Cato CTRL™ Threat Reportappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-03-11T10:16:40+00:00",
+    "fetched_at": "2026-03-12T06:37:02.802713+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/highlights-from-2026-cato-ctrl-threat-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Highlights from the 2026 Cato CTRL™ Threat Report",
+    "summary_he": "הדו\"ח של Cato CTRL לשנת 2026 חשף כי תוקפים משתמשים ב-AI כדי להסתנן למערכות ולפגוע בהן. הדו\"ח גם הצביע על כך ש-AI מפחיתה את הקושי לבצע התקפות מתקדמות.",
+    "details_he": "הדו\"ח של Cato CTRL לשנת 2026 חשף כי תוקפים משתמשים ב-AI כדי להסתנן למערכות ולפגוע בהן. הדו\"ח גם הצביע על כך ש-AI מפחיתה את הקושי לבצע התקפות מתקדמות. נמצא כי תוקפים משתמשים בשיטות חדשות כדי להסתנן למערכות, כולל השתמשות ב-HashJack, טכניקת הזרקת פקודות עקיפה. גם נמצא כי תוקפים משתמשים ב-AI כדי ליצור תוכניות תקיפה ולפגוע במערכות. הדו\"ח גם הצביע על כך ש-AI מפחיתה את הקושי לבצע התקפות מתקדמות, וכי תוקפים משתמשים ב-AI כדי ליצור תוכניות תקיפה."
+  },
+  {
+    "id": "b9fd889aefae651f",
+    "title_original": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
+    "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case of expression injection that leads to remote code execution. The security shortcoming was patched",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-12T10:48:00+05:30",
+    "fetched_at": "2026-03-12T06:36:50.542954+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
+    "summary_he": "CISA הכריזה על חולשה באפליקציית n8n, שנפגעה מ-24,700 פעם נוספות. חולשה זו נגלתה כאשר ניתן היה לבצע תקיפה רחוקה.",
+    "details_he": "CISA הוסיפה את החולשה CVE-2025-68613 לקטלוג החולשות הידועות שלה. החולשה, שנפגעה מ-24,700 פעם נוספות, נגלתה כאשר ניתן היה לבצע תקיפה רחוקה. CISA אמרה כי n8n מכילה חולשה בבקרת התקיפה של קוד דינאמי, שמאפשרת תקיפה רחוקה. חולשה זו נפגעה כבר בדצמבר 2025, כאשר n8n השיקה גרסאות 1.120.4, 1.121.1 ו-1.122.0. CISA הורתה למערכות הממשלתיות האזרחיות לתקן את החולשה עד 25 במרץ 2026."
+  }
+]
