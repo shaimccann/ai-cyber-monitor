@@ -1,0 +1,212 @@
+[
+  {
+    "id": "81a4eb10cf78efe5",
+    "title_original": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+    "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-13T01:02:47+00:00",
+    "fetched_at": "2026-03-13T06:10:09.055658+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+    "summary_he": "NVIDIA's KGMON team has developed an autonomous data analysis agent that excels in multi-step reasoning, tool calling, and iterative data analysis, achieving a 30x speedup over the baseline on the DABStep benchmark.",
+    "details_he": "The agent, part of the NVIDIA KGMON (NeMo Agent Toolkit) Data Explorer project, is designed to handle complex tabular data and unstructured contexts, and can perform tasks such as automatic code generation, visualization, and predictive modeling. The team's approach separates foundational knowledge building from rapid inference, allowing for faster iteration on analysis. The agent's capabilities include open-ended exploratory data analysis, tabular data Q&A, predictive modeling, and forecasting, making it a valuable tool for data scientists."
+  },
+  {
+    "id": "b22e3069ce7d6fd5",
+    "title_original": "Systematic debugging for AI agents: Introducing the AgentRx framework",
+    "url": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "description": "As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or […]The postSystematic debugging for AI agents: Introducing the AgentRx frameworkappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-03-12T16:38:45+00:00",
+    "fetched_at": "2026-03-13T06:10:07.985264+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Systematic debugging for AI agents: Introducing the AgentRx framework",
+    "summary_he": "מערכת חדשה לאבחון כשלים באגנטים עצמאיים, AgentRx, פותחה כדי לזהות את השלב הראשון שבו האגנט הופך לבלתי-ניתן-לתיקון.",
+    "details_he": "AgentRx פותחה כדי לפתור את בעיית האבחון של כשלים באגנטים עצמאיים, שהם ארוכי-זמן, סטוכסטיים ולעיתים קרובות, רב-אגנטיים. הפרויקט כולל גם נטייב וטקסונומיה, שמספקים 115 דוגמאות של כשלים ידני-מאנוטירים. AgentRx תורמת לאבחון כשלים ולאטריבוציה של הגורם העיקרי, וכן לשיפור הבטיחות של אגנטים עצמאיים."
+  },
+  {
+    "id": "d5d6e87041dd2d18",
+    "title_original": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries",
+    "url": "https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/",
+    "description": "Industrial AI, digital twins, AI physics and accelerated AI infrastructure are empowering companies across industries to accelerate and scale the design, simulation and optimization of products, processes and facilities before building in the real world.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-12T15:00:51+00:00",
+    "fetched_at": "2026-03-13T06:10:09.347146+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries",
+    "summary_he": "תעשיית האיי-אי והדיגיטל תאומים הם כלי חדשים של תכנון, הנדסה וייצור. הם מאפשרים לחברות לקדם ולהגדיל את תהליכי תכנון, הדמיית ואופטימיזציה של מוצרים, תהליכים ומבנים, לפני שהם נבנים בעולם האמיתי.",
+    "details_he": "השילוב של איי-אי, תאומים דיגיטליים, פיזיקה מבוססת-איי-אי וטכנולוגיות מחשוב מאומנות מאפשר לחברות לקדם ולהגדיל את תהליכי תכנון, הדמיית ואופטימיזציה של מוצרים, תהליכים ומבנים, לפני שהם נבנים בעולם האמיתי. השילוב כבר נראה את פוטנציאלו בתעשיות שונות, כמו תעשיית הרכב, החיים, המזון ועוד."
+  },
+  {
+    "id": "084966b8b68693cc",
+    "title_original": "How AI is helping improve heart health in rural Australia",
+    "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+    "description": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-12T15:00:00+00:00",
+    "fetched_at": "2026-03-13T06:10:07.572503+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How AI is helping improve heart health in rural Australia",
+    "summary_he": "Google's AI is being used to improve heart health in rural Australia by identifying hidden health risks and enabling more proactive and personalized care. This is part of a new program launched by Google in partnership with leading Australian health organizations. The initiative aims to provide 50,000 health screenings in remote areas.",
+    "details_he": "The program uses Google's Population Health AI (PHAI) to analyze community data, including air quality and location, to tailor healthcare to specific areas. This is particularly important in rural Australia, where people are 60% more likely to die from heart disease than those living in metropolitan areas. The partnership with leading health organizations, including Wesfarmers Health and the Victor Chang Cardiac Research Institute, aims to provide more proactive and preventative care to those who need it most. The $1 million AUD investment from Google Australia's Digital Future Initiative supports this initiative."
+  },
+  {
+    "id": "75a56dbdf9b9da07",
+    "title_original": "GeForce NOW Raises the Game at the Game Developers Conference",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gdc-2026/",
+    "description": "GeForce NOW is bringing the game to the Game Developers Conference (GDC), running this week in San Francisco. While developers build the future of gaming, GeForce NOW is delivering it to gamers. The latest updates bring smoother performance, easier game discovery and a fresh lineup of blockbuster titles to the cloud. Game discoverability gets a […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-12T13:00:53+00:00",
+    "fetched_at": "2026-03-13T06:10:09.347146+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gdc-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GeForce NOW Raises the Game at the Game Developers Conference",
+    "summary_he": "GeForce NOW is enhancing its services at the Game Developers Conference, offering smoother performance, easier game discovery, and a new lineup of blockbuster titles. The updates include improved virtual reality experiences and account linking features. Members can now easily see titles available through linked subscriptions and stream games at 90 frames per second.",
+    "details_he": "GeForce NOW is bringing significant upgrades to its services at the Game Developers Conference. The company is delivering smoother performance, easier game discovery, and a fresh lineup of blockbuster titles to gamers. The updates include improved virtual reality experiences, with supported devices now streaming at 90 frames per second, up from 60 fps. This enhancement delivers more responsive and immersive virtual reality experiences. Additionally, account linking is being expanded, with GOG account linking and game library syncing coming soon. Members can now easily see titles available through linked subscriptions, such as Xbox Game Pass and Ubisoft+, with new in-app labels. This feature eliminates guesswork and makes it easy to see exactly what's available to play from their game subscription services. The GeForce NOW library is also continuing to grow, with new releases joining the cloud at launch, including CONTROL Resonant and Samson: A Tyndalston Story. Furthermore, select Xbox titles will join the Install-to-Play library, providing more flexibility for members to download and install their owned games alongside streaming favorites."
+  },
+  {
+    "id": "a4a62cb4dfc70451",
+    "title_original": "Insights: Increased Risk of Wiper Attacks",
+    "url": "https://unit42.paloaltonetworks.com/handala-hack-wiper-attacks/",
+    "description": "We are observing an increase of wiper attacks by the Iran-linked Handala Hack group (aka Void Manticore) through phishing and misuse of Microsoft Intune.The postInsights: Increased Risk of Wiper Attacksappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-12T22:10:00+00:00",
+    "fetched_at": "2026-03-13T06:10:20.347266+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/handala-hack-wiper-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Insights: Increased Risk of Wiper Attacks",
+    "summary_he": "Unit 42 מזהה עלייה בסיכון של תקיפות Wiper, שמחוברות לסכסוך עם איראן, כולל תקיפות רבות שהשפיעו על ארגונים בישראל ובארצות הברית.",
+    "details_he": "Unit 42, יחידת המחקר הסייבר של Palo Alto Networks, דיווחה על עלייה בסיכון של תקיפות Wiper, שמחוברות לסכסוך עם איראן. התקיפות, שבוצעו על ידי קבוצת ההאקרים Handala, כוללות פיצוח זהויות דרך פישינג וגישה אדמיניסטרטיבית דרך Microsoft Intune. יחידת המחקר הסייבר של ישראל, ה-National Cyber Directorate, התריעה ב-6 במרץ על תקיפות סייבר של איראן שמטרתן לפגוע בארגונים ישראלים. התקיפות, שבוצעו על ידי Handala, כוללות פיצוח זהויות דרך פישינג וגישה אדמיניסטרטיבית דרך Microsoft Intune. Unit 42 ממליצה לארגונים לבצע תיקונים נגדיים, כולל הסרת זכויות אדמיניסטרטיביות קבועות, הגדרת גישה JIT ושימוש ב-Privileged Identity Management."
+  },
+  {
+    "id": "dd9d15a28ff60bcd",
+    "title_original": "Suspected China-Based Espionage Operation Against Military Targets in Southeast Asia",
+    "url": "https://unit42.paloaltonetworks.com/espionage-campaign-against-military-targets/",
+    "description": "An espionage operation demonstrated strategic operational patience against targets in Southeast Asia, deploying custom backdoors.The postSuspected China-Based Espionage Operation Against Military Targets in Southeast Asiaappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-12T22:00:57+00:00",
+    "fetched_at": "2026-03-13T06:10:20.347266+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/espionage-campaign-against-military-targets/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Suspected China-Based Espionage Operation Against Military Targets in Southeast Asia",
+    "summary_he": "חוקרים זיהו פעילות פושעים סינית שנועדה לאסוף מידע רגיש על יחידות צבאיות בדרום-מזרח אסיה.",
+    "details_he": "הפעילות, שנקראת CL-STA-1087, נמשכה לפחות מאז 2020. הפושעים ניצלו כלי תקיפה חדשים, כולל AppleChris ו-MemFun, וגם תוכנת Getpass לאיסוף נתוני זהויות. הם ניצלו כלי תקיפה חדשים כדי לאסוף נתונים רגישים, כולל יכולות צבאיות, תכנון ארגוני ושיתופי פעולה עם כוחות צבאיים מערביים. הפעילות הזאת, שנמשכה זמן רב, כוללת כלי תקיפה חדשים ובסיס פעולה יציב."
+  },
+  {
+    "id": "3a6c591416210098",
+    "title_original": "“Handala Hack” – Unveiling Group’s Modus Operandi",
+    "url": "https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operandi/",
+    "description": "Key Findings Introduction Handala Hack, also tracked by Check Point Research as Void Manticore, is an Iranian threat actor that is known for multiple destructive wiping attacks combined with “hack and leak” operations. The threat actor operates several online personas, with the most prominent among them being Homeland Justice, maintained from mid-2022 specifically for multiple attacks […]The post“Handala Hack” – Unveiling Group’s Modus Operandiappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-12T17:21:23+00:00",
+    "fetched_at": "2026-03-13T06:10:22.699795+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operandi/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "“Handala Hack” – Unveiling Group’s Modus Operandi",
+    "summary_he": "Handala Hack, ידוע גם כ- Void Manticore, הוא גורם סייבר איראני שביצע פעולות חבלה והעברת נתונים. הגורם פעל במספר דמויות אינטרנטיות, כולל Homeland Justice, שנוצרה ב-2022 ובוצעו בהן פעולות נגד ממשל, תקשורת וארגונים אחרים באלבניה.",
+    "details_he": "Handala Hack, ידוע גם כ- Void Manticore, הוא גורם סייבר איראני שביצע פעולות חבלה והעברת נתונים. הגורם פעל במספר דמויות אינטרנטיות, כולל Homeland Justice, שנוצרה ב-2022 ובוצעו בהן פעולות נגד ממשל, תקשורת וארגונים אחרים באלבניה. הגורם פעל גם ב- Israel וב- US, כולל חברת Stryker. הטכניקות, האסטרטגיות וההליכים (TTPs) של Void Manticore נשארו דומים במהלך 2024-2026. הגורם המשיך לבצע פעולות ידניות, ולהשתמש בכלי חבלה והעברת נתונים. Void Manticore השתמש גם בכלי חבלה והעברת נתונים ציבוריים, ובשירותי VPN. "
+  },
+  {
+    "id": "0295b5b94caf92ab",
+    "title_original": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/",
+    "description": "Storm-2561 uses SEO poisoning to push fake VPN downloads that install signed trojans and steal VPN credentials. Active since 2025, Storm-2561 mimics trusted brands and abuses legitimate services. This post reviews TTPs, IOCs, and mitigation guidance.The postStorm-2561 uses SEO poisoning to distribute fake VPN clients for credential theftappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-12T17:00:00+00:00",
+    "fetched_at": "2026-03-13T06:10:18.301160+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft",
+    "summary_he": "Storm-2561, פולשנית חדשה, משתמשת בשחיתת SEO כדי להפיץ קובצי VPN מזויפים שמתקנים טרוז'רים מוחתמים וגונבים נתוני VPN. פעילותה של Storm-2561 החלה ב-2025.",
+    "details_he": "Storm-2561, פולשנית חדשה, משתמשת בשחיתת SEO כדי להפיץ קובצי VPN מזויפים. היא מתחקה אחר מותגים אמינים ומנצלת שירותים חוקיים. פעילותה של Storm-2561 כוללת התקנת טרוז'רים מוחתמים, שהם תוכנות זדוניות שנכתבו כדי להסתתר מעצמן. הטרוז'רים האלה גונבים נתוני VPN, כולל סיסמאות ופרטי זהויות."
+  },
+  {
+    "id": "9578c72eb5f690cb",
+    "title_original": "From transparency to action: What the latest Microsoft email security benchmark reveals",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/12/from-transparency-to-action-what-the-latest-microsoft-email-security-benchmark-reveals/",
+    "description": "The latest Microsoft benchmarking data reveals how Microsoft Defender mitigates modern email threats compared to SEG and ICES vendors.The postFrom transparency to action: What the latest Microsoft email security benchmark revealsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-12T16:00:00+00:00",
+    "fetched_at": "2026-03-13T06:10:18.301160+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/12/from-transparency-to-action-what-the-latest-microsoft-email-security-benchmark-reveals/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From transparency to action: What the latest Microsoft email security benchmark reveals",
+    "summary_he": "Microsoft Defender הוצג כבעל יכולת טובה להגן על דואר אלקטרוני מפני איומים מודרניים, בהשוואה ליבואנים של SEG ו-ICES.",
+    "details_he": "מדדי הבקרה של Microsoft הציגו כי Microsoft Defender הוא כלי מועיל להגנה על דואר אלקטרוני, וכי הוא יכול להתמודד יעילות יותר עם איומים מודרניים. זאת, בהשוואה ליבואנים של SEG ו-ICES. הנתונים מציגים כי Microsoft Defender יכול למנוע 99.9% מהאיומים, וכי הוא יכול להגן על דואר אלקטרוני מפני תקיפות פיסיות ומבוססות-קוד."
+  }
+]
