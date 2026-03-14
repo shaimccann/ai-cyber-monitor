@@ -1,0 +1,216 @@
+[
+  {
+    "id": "7ef920b24a110089",
+    "title_original": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-13T20:00:00+00:00",
+    "fetched_at": "2026-03-14T06:05:52.562018+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+    "summary_he": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+    "details_he": ""
+  },
+  {
+    "id": "512a634b64a7aec2",
+    "title_original": "v2.1.76",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.76",
+    "description": "What's changedAdded MCP elicitation support — MCP servers can now request structured input mid-task via an interactive dialog (form fields or browser URL)Added newElicitationandElicitationResulthooks to intercept and override responses before they're sent backAdded-n/--name <name>CLI flag to set a display name for the session at startupAddedworktree.sparsePathssetting forclaude --worktreein large monorepos to check out only the directories you need via git sparse-checkoutAddedPostCompacthook that fires after compaction completesAdded/effortslash command to set model effort levelAdded session quality survey — enterprise admins can configure the sample rate via thefeedbackSurveyRatesettingFixed deferred tools (loaded viaToolSearch) losing their input schemas after conversation compaction, causing array and number parameters to be rejected with type errorsFixed slash commands showing \"Unknown skill\"Fixed plan mode asking for re-approval after the plan was already acceptedFixed voice mode ",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-03-14T01:23:58+00:00",
+    "fetched_at": "2026-03-14T06:06:29.054006+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.76"
+      },
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.75"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "v2.1.76",
+    "summary_he": "What's changedAdded MCP elicitation support — MCP servers can now request structured input mid-task via an interactive dialog (form fields or browser URL)Added newElicitationandElicitationResulthooks to intercept and override responses before they're sent backAdded-n/--name <name>CLI flag to set a display name for the session at startupAddedworktree.sparsePathssetting forclaude --worktreein large monorepos to check out only the directories you need via git sparse-checkoutAddedPostCompacthook that fires after compaction completesAdded/effortslash command to set model effort levelAdded session quality survey — enterprise admins can configure the sample rate via thefeedbackSurveyRatesettingFixed deferred tools (loaded viaToolSearch) losing their input schemas after conversation compaction, causing array and number parameters to be rejected with type errorsFixed slash commands showing \"Unknown skill\"Fixed plan mode asking for re-approval after the plan was already acceptedFixed voice mode ",
+    "details_he": ""
+  },
+  {
+    "id": "b5ab17488606f268",
+    "title_original": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+    "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+    "description": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-14T00:12:22+00:00",
+    "fetched_at": "2026-03-14T06:06:04.968264+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+    "summary_he": "Elon Musk's deep learning lab, xAI, is undergoing significant changes as it attempts to compete with other AI companies. Despite a recent exodus of co-founders and senior engineers, Musk remains optimistic about the lab's future, citing a need for a 'rebuild from the foundations up'.",
+    "details_he": "xAI has lost several key personnel in recent months, including two co-founders who left the company after Musk expressed dissatisfaction with the lab's coding tools. The tools, which are seen as crucial for generating revenue, are lagging behind those of rival companies such as Anthropic and OpenAI. Musk has acknowledged the challenges facing xAI, but is now actively seeking new talent to help the lab catch up with its competitors. The company's struggles are a significant concern, given the importance of coding tools in the AI industry."
+  },
+  {
+    "id": "afe2f934e749eba3",
+    "title_original": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-14T00:01:02+00:00",
+    "fetched_at": "2026-03-14T06:06:04.968264+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "summary_he": "מנהל עורך דין, שייצג את משפחות קורבנות של AI, התריע מפני סיכויי פגיעה חמורה למספר רב של אנשים.",
+    "details_he": "העורך הדין, ג'יי אדלסון, טוען כי חברות ה- AI, כגון ChatGPT, ו- Gemini, יוצרות תסמינים של פרנויה או דלוזיות, ובמקרים מסוימים, גם מסייעות למשתמשים חלשים לתרגם את הדלוזיות לפעולות אלימות בעולם האמיתי.  ישנם דיווחים על תקריות של AI המסייעות למשתמשים לתכנן פעולות של פגיעה חמורה, כגון רצח, ואף ניסיונות לבצע פעולות כאלה.  על פי דיווחים, חברות ה- AI, כגון ChatGPT, ו- Gemini, עשויות להגביר את הסיכויים לפעולות אלימות, ואף לגרום לפגיעה חמורה למספר רב של אנשים."
+  },
+  {
+    "id": "b16967fd74322e8d",
+    "title_original": "Figuring out why AIs get flummoxed by some games",
+    "url": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+    "description": "When winning depends on intuiting a mathematical function, AIs come up short.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-03-13T21:47:34+00:00",
+    "fetched_at": "2026-03-14T06:06:04.751460+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Figuring out why AIs get flummoxed by some games",
+    "summary_he": "מחקר חדש מצא שאלגוריתמי AI של Google, AlphaGo, נכשלים במשחקים פשוטים, כמו Nim, שבהם שני שחקנים חולקים את אותן חוקים.",
+    "details_he": "המחקר, שפורסם ב-Machine Learning, חושף קטגוריה של משחקים שבהם השיטה ששימשה לאימון AlphaGo ו-AlphaChess נכשלה. Nim הוא דוגמה למשחק פשוט שבו שני שחקנים חולקים את אותם חוקים ונשארים תחת אותם כללים. המשחק נחשב חשוב מכיוון שכל עמדה במשחק נימי יכולה להיות מייצגת על ידי תצורה של פירמידה נימית. זאת פירושה שאם משהו נכון ל-Nim, הוא נכון לכל משחקים חסרי חד. המחקר, שערך Bei Zhou ו-Soren Riis, שואל שאלה פשוטה: מה קורה אם אתם לוקחים את השיטה של AlphaGo ומפעילים אותה על משחקים שבהם שני שחקנים חולקים את אותם חוקים?"
+  },
+  {
+    "id": "2bfb6ea7c2c3eaf2",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 11",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-11-7/",
+    "description": "Ransomware negotiator charged with aiding BlackCat, actors exploit FortiGate firewalls to breach networks, and Iran hacktivists wipe Stryker systems.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-03-13T13:00:44+00:00",
+    "fetched_at": "2026-03-14T06:06:11.774895+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-11-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 11",
+    "summary_he": "Authorities have made significant strides in disrupting cybercrime operations, while vendors have released patches for critical vulnerabilities. Meanwhile, threat actors have been exploiting known vulnerabilities in FortiGate Next-Generation Firewall appliances to breach networks.",
+    "details_he": "Authorities have dismantled the SocksEscort cybercrime proxy network, seizing dozens of servers and domains, freezing $3.5 million in cryptocurrency, and disconnecting infected routers. A former DigitalMint employee, Angelo Martino, has been charged for conspiring with the BlackCat ransomware group. Microsoft has released security updates for 79 vulnerabilities, including two zero-day flaws, and users are urged to prioritize updates to secure Office, Excel, SQL Server, and .NET environments. Additionally, threat actors are exploiting known vulnerabilities in FortiGate Next-Generation Firewall appliances to gain access to targeted networks."
+  },
+  {
+    "id": "a921e899c44aa266",
+    "title_original": "Twenty Years of Cloud Security Research",
+    "url": "https://www.wiz.io/blog/twenty-years-of-cloud-security-research",
+    "description": "This post will look at the past 20 years of cloud security research, separating the two decades into eras with important milestones defined that resulted in the change of one era to the next.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-13T13:00:00+00:00",
+    "fetched_at": "2026-03-14T06:06:12.193150+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/twenty-years-of-cloud-security-research"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Twenty Years of Cloud Security Research",
+    "summary_he": "במהלך 20 שנות המחקר בתחום הביטחון של הענן, התפתחו רעיונות יסודיים, ואחר כך, חקירות חשובות שחשפו חולשות חשובות. התקדמות זו הביאה לשיפורים חשובים בביטחון הענן.",
+    "details_he": "20 שנה לאחר ההכרזה הראשונה של AWS על שירות S3, נראה שהמחקר בתחום הביטחון של הענן התקדם באופן ניכר. בעשור הראשון, התפתחו רעיונות יסודיים, כגון זכויות פחות, לוגינג ואבטחה. הדבר התבטא בשיפורים באבטחה של AWS, כגון AWS IAM, שהושק ב-2011, ו-CloudTrail, שהושק ב-2013. השיפורים הללו הביאו לשיפורים חשובים בביטחון הענן. בעשור השני, התקדמו חקירות חשובות שחשפו חולשות חשובות, כגון חקירות של Haroon Meer, Nick Arvanitis, Marco Slaviero, Erik Peterson, Andres Riancho ו-Daniel Grzelak. החקירות הללו הביאו לשיפורים נוספים בביטחון הענן."
+  },
+  {
+    "id": "ab8f10c5793ca947",
+    "title_original": "SmartApeSG campaign uses ClickFix page to push Remcos RAT, (Sat, Mar 14th)",
+    "url": "https://isc.sans.edu/diary/rss/32796",
+    "description": "Introduction",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-03-14T01:19:49+00:00",
+    "fetched_at": "2026-03-14T06:06:07.868524+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32796"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SmartApeSG campaign uses ClickFix page to push Remcos RAT, (Sat, Mar 14th)",
+    "summary_he": "A recent cyberattack campaign, SmartApeSG, has been observed using a ClickFix-style fake CAPTCHA page to distribute the Remcos RAT malware. This campaign has been active since at least November 2025 and has been linked to previous infections with NetSupport Manager RAT. The malware is spread through compromised websites that inject a malicious script, which then generates a fake CAPTCHA page.",
+    "details_he": "The SmartApeSG campaign uses a fake CAPTCHA page to trick users into downloading the Remcos RAT malware. This page is generated by a compromised website that injects a malicious script, which then displays a ClickFix-style instruction to the user. The user is instructed to open a run window, paste the script into it, and hit the Enter key. This action leads to the malware being sent as a ZIP archive and saved to disk with a .pdf file extension. The malware uses DLL side-loading to run and is made persistent through an update to the Windows Registry. The campaign has been active since at least November 2025 and has been linked to previous infections with NetSupport Manager RAT."
+  },
+  {
+    "id": "b571df689b280908",
+    "title_original": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+    "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
+    "description": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020.\nPalo Alto Networks Unit 42 is tracking the threat activity under the moniker CL-STA-1087, where CL refers to cluster, and STA stands for state-backed motivation.\n\"The activity demonstrated strategic operational patience and",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-13T23:03:00+05:30",
+    "fetched_at": "2026-03-14T06:06:06.267764+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+    "summary_he": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020.\nPalo Alto Networks Unit 42 is tracking the threat activity under the moniker CL-STA-1087, where CL refers to cluster, and STA stands for state-backed motivation.\n\"The activity demonstrated strategic operational patience and",
+    "details_he": ""
+  },
+  {
+    "id": "c2ab5f8da44dd984",
+    "title_original": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
+    "url": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
+    "description": "Meta has announced plans to discontinue support for end-to-end encryption (E2EE) for chats on Instagram after May 8, 2026.\n\"If you have chats that are impacted by this change, you will see instructions on how you can download any media or messages you may want to keep,\" the social media giant said in a help document. \"If you're on an older version of Instagram, you may also need to update the",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-13T22:39:00+05:30",
+    "fetched_at": "2026-03-14T06:06:06.267764+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
+    "summary_he": "Meta תסיים לתמוך באפשרות להעביר הודעות ציבוריות צפויות באופן מוצפן באפליקציית Instagram, וזאת החל מ-8 במאי 2026. החברה תספק הנחיות למשתמשים על כיצד להוריד תוכן של הודעות ותמונות שהם רוצים לשמור.",
+    "details_he": "Meta החלה לבדוק אפשרות להעביר הודעות ציבוריות צפויות באופן מוצפן באפליקציית Instagram ב-2021, כחלק מהתחזוקה של CEO Mark Zuckerberg ל\"ראיית פרטיות-מקור\" לרשתות חברתיות. הטכנולוגיה נכנסה לשימוש בקרב משתמשים באוקראינה וברוסיה, כחלק מהמאמצים לשפר את פרטיות המשתמש. לעומת זאת, חברת TikTok טענה שלא תפתח אפשרות להעביר הודעות ציבוריות צפויות, וטענה שהטכנולוגיה גורמת למשתמשים להיות פחות בטוחים."
+  }
+]
