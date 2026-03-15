@@ -1,29 +1,10 @@
 {
-  "timestamp": "2026-03-14T06:06:29.945193+00:00",
-  "errors": [
-    {
-      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Ag",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 936)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "v2.1.76",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 1663)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Mal",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 495)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-03-15T07:17:13.737999+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 7,
-  "fallback": 3,
-  "total_scanned": 60,
+  "success": 10,
+  "fallback": 0,
+  "total_scanned": 18,
   "selected": 10
 }
