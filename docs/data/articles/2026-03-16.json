@@ -1,0 +1,212 @@
+[
+  {
+    "id": "f100da5e9ee8dd62",
+    "title_original": "Knesset advances bill to grant R&D tax credit in bid to keep tech firms in Israel",
+    "url": "https://www.timesofisrael.com/knesset-advances-bill-to-grant-rd-tax-credit-in-bid-to-keep-tech-firms-in-israel/",
+    "description": "Legislation, proposed by Finance Ministry to help offset OECD-brokered tax hike amid brain drain concerns, will let tech firms keep a larger share of their incomeThe postKnesset advances bill to grant R&D tax credit in bid to keep tech firms in Israelappeared first onThe Times of Israel.",
+    "source_name": "Times of Israel Tech",
+    "source_url": "https://www.timesofisrael.com/tech-israel/",
+    "category": "ai",
+    "published": "2026-03-16T01:15:03+00:00",
+    "fetched_at": "2026-03-16T08:14:09.285576+00:00",
+    "sources": [
+      {
+        "name": "Times of Israel Tech",
+        "url": "https://www.timesofisrael.com/knesset-advances-bill-to-grant-rd-tax-credit-in-bid-to-keep-tech-firms-in-israel/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Knesset advances bill to grant R&D tax credit in bid to keep tech firms in Israel",
+    "summary_he": "הכנסת העבירה היום תיקון לחוק המעניק קרדיט מס להשקעות במחקר ופיתוח, כדי למנוע הגירת חברות טכנולוגיה מישראל. התיקון יאפשר לחברות לשמור על חלק גדול יותר מרווחיהן, וישמש כדי להפחית את השפעת ההעלאה המס שנקבעה על ידי ה-OECD.",
+    "details_he": "הכנסת עברה היום תיקון לחוק המעניק קרדיט מס להשקעות במחקר ופיתוח, כדי למנוע הגירת חברות טכנולוגיה מישראל. התיקון, שנקרא 'חוק המחקר והפיתוח', יאפשר לחברות לשמור על חלק גדול יותר מרווחיהן, וישמש כדי להפחית את השפעת ההעלאה המס שנקבעה על ידי ה-OECD. התיקון יאפשר קרדיט מס ישיר להשקעות במחקר ופיתוח, ויהפוך את החברות ליכולות לשמור על חלק גדול יותר מרווחיהן. התיקון יאפשר גם לחברות שפועלות באזורי הפריפריה להשתמש בקרדיט המס, וישמש כדי להפחית את השפעת ההעלאה המס על החברות."
+  },
+  {
+    "id": "a7304d01765fbe3c",
+    "title_original": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
+    "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+    "description": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-16T00:30:00+00:00",
+    "fetched_at": "2026-03-16T08:13:48.498143+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
+    "summary_he": "Google ו- Accel India accelerator בחרו 5 חברות טכנולוגיה, ואף אחת מהן לא 'מכסה' AI. החברות המבוקשות יקבלו כסף ותמיכה טכנולוגית.",
+    "details_he": "האקסלרטור, שהוכרז בנובמבר, יועד לתמוך בחברות טכנולוגיה ראשוניות שבונות מוצרי AI קשורים להודו. רוב ההצעות שהוגשו (70%) היו 'מכסות' - חברות שהוסיפו תכונות AI כגון רובוטים על פני תוכנות קיימות, אך לא ראו אור בעבודות חדשות. "
+  },
+  {
+    "id": "4665571caf99d8b3",
+    "title_original": "Task-Specific Knowledge Distillation via Intermediate Probes",
+    "url": "https://arxiv.org/abs/2603.12270",
+    "description": "arXiv:2603.12270v1 Announce Type: new \nAbstract: Knowledge distillation from large language models (LLMs) assumes that the teacher's output distribution is a high-quality training signal. On reasoning tasks, this assumption is frequently violated. A model's intermediate representations may encode the correct answer, yet this information is lost or distorted through the vocabulary projection, where prompt formatting and answer-token choices creates brittle, noisy outputs.\n  We introduce \\method{}, a distillation framework that bypasses this bottleneck by training lightweight probes on frozen teacher hidden states and using the probe's predictions, rather than output logits, as supervision for student training. This simple change yields consistent improvements across four reasoning benchmarks (AQuA-RAT, ARC Easy/Challenge, and MMLU), with gains most pronounced under limited data.\n  Probes trained on intermediate representations provide cleaner labels than the teacher's own outputs, effec",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-16T00:00:00-04:00",
+    "fetched_at": "2026-03-16T08:13:49.244138+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.12270"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Task-Specific Knowledge Distillation via Intermediate Probes",
+    "summary_he": "arXiv:2603.12270v1 Announce Type: new \nAbstract: Knowledge distillation from large language models (LLMs) assumes that the teacher's output distribution is a high-quality training signal. On reasoning tasks, this assumption is frequently violated. A model's intermediate representations may encode the correct answer, yet this information is lost or distorted through the vocabulary projection, where prompt formatting and answer-token choices creates brittle, noisy outputs.\n  We introduce \\method{}, a distillation framework that bypasses this bottleneck by training lightweight probes on frozen teacher hidden states and using the probe's predictions, rather than output logits, as supervision for student training. This simple change yields consistent improvements across four reasoning benchmarks (AQuA-RAT, ARC Easy/Challenge, and MMLU), with gains most pronounced under limited data.\n  Probes trained on intermediate representations provide cleaner labels than the teacher's own outputs, effec",
+    "details_he": ""
+  },
+  {
+    "id": "708750d2d87dfe65",
+    "title_original": "Diagnosing Retrieval Bias Under Multiple In-Context Knowledge Updates in Large Language Models",
+    "url": "https://arxiv.org/abs/2603.12271",
+    "description": "arXiv:2603.12271v1 Announce Type: new \nAbstract: LLMs are widely used in knowledge-intensive tasks where the same fact may be revised multiple times within context. Unlike prior work focusing on one-shot updates or single conflicts, multi-update scenarios contain multiple historically valid versions that compete at retrieval, yet remain underexplored. This challenge resembles the AB-AC interference paradigm in cognitive psychology: when the same cue A is successively associated with B and C, the old and new associations compete during retrieval, leading to bias. Inspired by this, we introduce a Dynamic Knowledge Instance (DKI) evaluation framework, modeling multi-updates of the same fact as a cue paired with a sequence of updated values, and assess models via endpoint probing of the earliest (initial) and latest (current) states. Across diverse LLMs, we observe that retrieval bias intensifies as updates increase, earliest-state accuracy stays high while latest-state accuracy drops subs",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-16T00:00:00-04:00",
+    "fetched_at": "2026-03-16T08:13:49.244138+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.12271"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Diagnosing Retrieval Bias Under Multiple In-Context Knowledge Updates in Large Language Models",
+    "summary_he": "חוקרים חשפו תכנותי חדש שמאפשר לבדוק את השפעת שינויים רבים בידע על דגמי לשון גדולים. המחקר הציג כי שינויים רבים בידע גורמים לחוסר נכונות באופן חדיר בדגמי הלשון.",
+    "details_he": "במחקר חדש, חוקרים הציגו תכנותי חדש שמאפשר לבדוק את השפעת שינויים רבים בידע על דגמי לשון גדולים. הם הציגו תכנותי חדש, שנקרא 'DKI' (Dynamic Knowledge Instance), שמדגים את השינויים בידע כקוד שמופעל על סדרה של ערכים. המחקר הציג כי שינויים רבים בידע גורמים לחוסר נכונות באופן חדיר בדגמי הלשון, וכי הדגמים נוטים לשכוח את הערכים המעודכנים. החוקרים גם הציגו תכנותי חדש שמאפשר לבדוק את השפעת שינויים רבים בידע על דגמי לשון גדולים."
+  },
+  {
+    "id": "34c1c3a727556ef3",
+    "title_original": "ActTail: Global Activation Sparsity in Large Language Models",
+    "url": "https://arxiv.org/abs/2603.12272",
+    "description": "arXiv:2603.12272v1 Announce Type: new \nAbstract: Activation sparsity is a promising approach for accelerating large language model (LLM) inference by reducing computation and memory movement. However, existing activation sparsity methods typically apply uniform sparsity across projections, ignoring the heterogeneous statistical properties of Transformer weights and thereby amplifying performance degradation. In this paper, we propose ActTail, a TopK magnitude-based activation sparsity method with global activation sparsity allocation grounded in Heavy-Tailed Self-Regularization (HT-SR) theory. Specifically, we capture this heterogeneity via the heavy-tail exponent computed from each projection's empirical spectral density (ESD), which is used as a quantitative indicator to assign projection-specific sparsity budgets. Importantly, we provide a theoretical analysis that establishes an explicit relationship between the activation sparsity ratio and the heavy-tail exponent under the HT-SR ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-16T00:00:00-04:00",
+    "fetched_at": "2026-03-16T08:13:49.244138+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.12272"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ActTail: Global Activation Sparsity in Large Language Models",
+    "summary_he": "מחקר חדש, ActTail, מציע שיטה חדשה להפחתת עומס החישוב בדגימות שפה גדולות. השיטה, המבוססת על תאוריה של רגולריזציה עצמית, מצליחה לשפר את ביצועי הדגימות ב-21.8% עד 40.1%.",
+    "details_he": "המחקר, שפורסם בארכיון arXiv, מציע שיטה חדשה להפחתת עומס החישוב בדגימות שפה גדולות. השיטה, המכונה ActTail, מבוססת על תאוריה של רגולריזציה עצמית, המאפשרת להפחית את העומס החישובי על ידי הפחתת הפעילות האקטיבית בדגימות. השיטה נבחנה בדגימות LLaMA ו-Mistral, והתוצאות הראו שהיא משפרת את ביצועי הדגימות ב-21.8% עד 40.1% כאשר 80% מהפעילות האקטיבית נפחת. המחקר גם נותן תאוריה תאורטית להסברת התופעה, ומציע שיטה חדשה להפחתת עומס החישוב בדגימות שפה גדולות."
+  },
+  {
+    "id": "0964ec642bfd1c9e",
+    "title_original": "Code Review That Learns: Inside Cato R&D’s Self-Evolving PR Review Agent",
+    "url": "https://www.catonetworks.com/blog/inside-cato-rds-self-evolving-pr-review-agent/",
+    "description": "TL;DR Agentic AI promises to improve work processes in all domains and industries. R&D is no different. Recently, Cato R&D built an internal self-evolving pull request (PR) review agent that keeps reviewers in flow by commenting only on high-impact, high-confidence issues, validating every change against its spec from the PR and Jira, and learning continuously...The postCode Review That Learns: Inside Cato R&D’s Self-Evolving PR Review Agentappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-03-16T07:51:06+00:00",
+    "fetched_at": "2026-03-16T08:14:00.721067+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/inside-cato-rds-self-evolving-pr-review-agent/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Code Review That Learns: Inside Cato R&D’s Self-Evolving PR Review Agent",
+    "summary_he": "Cato R&D developed an internal self-evolving pull request review agent that uses agentic AI to improve the review process by focusing on high-impact issues and reducing unnecessary interruptions. The agent flagged 43% of incident-causing PRs in an incident-linked evaluation and surfaces about 7,000 high and critical issues each month. This has led to significant cost savings and increased predictability.",
+    "details_he": "The agent was designed to keep reviewers in flow by commenting only on high-impact, high-confidence issues. It validates every change against its spec from the PR and Jira, and learns continuously from developer feedback through long-term, episodic memory. By running the workflow in-house, Cato R&D was able to keep usage measurable and controlled, avoiding the extra markup that commercial vendors add on top of underlying model usage. The yearly cost is now something that can be forecasted, not something that is learned after it's already spent."
+  },
+  {
+    "id": "e6c4cb278ead3b87",
+    "title_original": "Cato CTRL™ Threat Brief: Middle East Escalation and Summary of Notable Iranian-Linked CVEs",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-summary-notable-iranian-linked-cves/",
+    "description": "Executive Summary On February 28, 2026, Israel and the United States launched a joint attack against Iran. In retaliation, Iran launched its own attacks against Israel and US-allied countries and bases in the region. The escalation in the Middle East is ongoing. Cato CTRL is currently monitoring the threat landscape in the region. It is...The postCato CTRL™ Threat Brief: Middle East Escalation and Summary of Notable Iranian-Linked CVEsappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-03-15T11:39:08+00:00",
+    "fetched_at": "2026-03-16T08:14:00.721067+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-summary-notable-iranian-linked-cves/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL™ Threat Brief: Middle East Escalation and Summary of Notable Iranian-Linked CVEs",
+    "summary_he": "Cato CTRL נמצאת כמוניטורים את הסביבה הסיבילית במזרח התיכון, ומזהה סיכון מוגבר מצד גורמי מדינה, קבוצות קשורות והאקטיביסטים, עם פעילות סבירה של גיוס, פריצה של הזדמנות, פעולות הרסניות והפרעה למערכות אינטרנט-פנים.",
+    "details_he": "Cato CTRL נמצאת כמוניטורים את הסביבה הסיבילית במזרח התיכון, ומזהה סיכון מוגבר מצד גורמי מדינה, קבוצות קשורות והאקטיביסטים, עם פעילות סבירה של גיוס, פריצה של הזדמנות, פעולות הרסניות והפרעה למערכות אינטרנט-פנים. Cato CTRL נמצאת כממשיכה לבחון תקצירי סכנה, לעקוב אחר שינויים במקצועיות של גורמי סכנה ולבחון מודלי חשיפה שעשויים להיות רלוונטיים יותר בתקופות של חוסר יציבות. CISA דיווח על קמפיינים קשורים לאיראן שמטרתם היא חדירה למערכות אינטרנט-פנים, בעיקר טכנולוגיות של גישה רחוקה, VPN והגנה על גבול."
+  },
+  {
+    "id": "44c0fa8b95cbaa0e",
+    "title_original": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+    "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+    "description": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API.\nThe change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week.\nAAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-16T11:13:00+05:30",
+    "fetched_at": "2026-03-16T08:13:50.213149+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+    "summary_he": "Google's Android 17 Beta 2 introduces a new security feature as part of Advanced Protection Mode, which blocks non-accessibility apps from using the accessibility services API to prevent malware abuse. This feature aims to minimize the attack surface by prioritizing security over usability. Verified accessibility tools are exempt from this rule.",
+    "details_he": "The new restriction is part of Android 17's features, which also include blocking app installation from unknown sources and restricting USB data signaling. Developers can integrate with this feature using the AdvancedProtectionManager API to detect the mode's status and adopt a hardened security posture. The accessibility services API has been extensively abused by bad actors in recent years to steal sensitive data from compromised Android devices. With the latest change, any non-accessibility app that already has the permission will have its privileges automatically revoked when Advanced Protection Mode is active."
+  },
+  {
+    "id": "c2da1df20752705f",
+    "title_original": "ISC Stormcast For Monday, March 16th, 2026 https://isc.sans.edu/podcastdetail/9850, (Mon, Mar 16th)",
+    "url": "https://isc.sans.edu/diary/rss/32798",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-03-16T02:00:02+00:00",
+    "fetched_at": "2026-03-16T08:13:51.783433+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32798"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Monday, March 16th, 2026 https://isc.sans.edu/podcastdetail/9850, (Mon, Mar 16th)",
+    "summary_he": "SANS Internet Storm Center released its ISC Stormcast for Monday, March 16th, 2026, providing insights and analysis on current cyber threats. The podcast covers various topics, including vulnerabilities and security updates. It serves as a valuable resource for cybersecurity professionals and enthusiasts.",
+    "details_he": "The ISC Stormcast is a weekly podcast that offers in-depth analysis and commentary on the latest cyber threats and security news. It is hosted by the SANS Internet Storm Center, a renowned organization that provides real-time threat intelligence and incident response services. The podcast is available on the ISC website and is released every Monday. The content is licensed under the Creative Commons Attribution-Noncommercial 3.0 United States License, allowing users to share and adapt the information for non-commercial purposes."
+  },
+  {
+    "id": "982eebb8809700f6",
+    "title_original": "OpenAI says ChatGPT ads are not rolling out globally for now",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
+    "description": "OpenAI told BleepingComputer that ChatGPT ads on Free and Go plans are not yet rolling out outside the United States, even though some users noticed references to ads in the updated privacy policy. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "ai",
+    "published": "2026-03-15T19:13:28-04:00",
+    "fetched_at": "2026-03-16T08:13:49.638337+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI says ChatGPT ads are not rolling out globally for now",
+    "summary_he": "OpenAI's ChatGPT ads are not expanding globally, despite an updated privacy policy mentioning ads. The company confirmed that ads are currently limited to the United States and are taking a phased approach to learn from real-world use before expanding globally.",
+    "details_he": "OpenAI told BleepingComputer that ChatGPT ads are not yet rolling out outside the US, even though some users noticed references to ads in the updated privacy policy. The company confirmed that ads are currently limited to the United States and said it has nothing new to share about a global rollout. OpenAI rolled out ads in ChatGPT in the US on February 9, 2026, and has been gradually expanding access there. Unlike Google ads, ChatGPT ads are more personalized and could influence buying decisions, which raises additional concerns. OpenAI promsies ChatGPT ads respect your privacy, and appear below answers only to logged-in users on Free and Go plans in the US."
+  }
+]
