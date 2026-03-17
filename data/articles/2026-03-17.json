@@ -1,0 +1,212 @@
+[
+  {
+    "id": "189dff8ca15eda1d",
+    "title_original": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+    "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-16T21:58:40+00:00",
+    "fetched_at": "2026-03-17T07:39:03.434986+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+    "summary_he": "מאמץ קהילתי חדש נותן תשומת לב לרובוטיקה הבריאותית, עם נתוני דגימה ראשונים של רובוטיקה הבריאותית. הנתונים, שנקראו Open-H-Embodiment, כוללים 778 שעות של נתוני אימון, ומכילים נתוני רובוטיקה רפואית, כולל רובוטיקה כירורגית, אולטרה-סאונד וקולונוסקופיה.",
+    "details_he": "הנתונים, שנבנו על ידי קבוצת ניהול, כוללים נתוני רובוטיקה רפואית, כולל רובוטיקה כירורגית, אולטרה-סאונד וקולונוסקופיה. הנתונים כוללים 778 שעות של נתוני אימון, ומכילים נתוני רובוטיקה רפואית, כולל רובוטיקה כירורגית, אולטרה-סאונד וקולונוסקופיה. הנתונים נבנו על ידי 35 ארגונים, כולל אוניברסיטאות וחברות טכנולוגיה. הנתונים יכולים לשפר את הפיתוח של רובוטיקה רפואית, ולסייע בפיתוח של רובוטים רפואיים יעילים יותר."
+  },
+  {
+    "id": "bd3f182e81ffbb68",
+    "title_original": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
+    "url": "https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/",
+    "description": "Roche's new deployment spans more than 3,500 NVIDIA Blackwell GPUs across its worldwide operations and embedded across the entire value chain, massively scaling R&D productivity, next-generation diagnostics and manufacturing efficiencies.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-16T20:30:59+00:00",
+    "fetched_at": "2026-03-17T07:39:03.741380+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
+    "summary_he": "Roche החברה הפכה לאחת הראשונות שהשתמשה ב-NVIDIA DSX Air, טכנולוגיה שמאפשרת פיתוח יעדים אייטי יותר בתהליך הפיתוח של תרופות ופתרונות לאבחון.",
+    "details_he": "Roche השתמשה ב-NVIDIA DSX Air כדי לצמצם את זמן ההקמה של יצירת פקטורי AI, שנעה מחודשים לימים. זאת, כדי לסייע בפיתוח פתרונות רפואיים ואבחוניים ולשפר את התהליך הייצורי. NVIDIA DSX Air מאפשרת דימוניזציה של פקטורי AI, וכך לצמצם את זמן ההקמה שלהם."
+  },
+  {
+    "id": "09dcfe4eb39a4c05",
+    "title_original": "NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
+    "url": "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/",
+    "description": "Setting up AI factories in simulation — decreasing deployment time from months to days — is  accelerating the next industrial revolution.  Nowhere was that more apparent than at GTC 2026, in San Jose, where NVIDIA founder and CEO Jensen Huang introduced NVIDIA DSX Air. Part of NVIDIA DSX Sim in the DSX platform, NVIDIA’s blueprint […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-16T20:00:48+00:00",
+    "fetched_at": "2026-03-17T07:39:03.741380+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
+    "summary_he": "NVIDIA DSX Air, a software-as-a-service platform, accelerates the deployment of AI factories by simulating complex environments, reducing deployment time from weeks or months to mere days or hours.",
+    "details_he": "NVIDIA DSX Air is a key component of the DSX platform, which enables the creation of a complete AI factory ecosystem. By simulating NVIDIA hardware infrastructure and integrating with partner solutions, DSX Air allows organizations to construct a full digital twin of their AI factory before deploying physical hardware. This approach is transforming the industry, enabling companies to reduce the time to first token and save significant amounts of time and costs. The platform is already being used by companies such as CoreWeave to simulate and validate their environments, and is expected to reshape partner workflows and accelerate the deployment of AI factories at scale."
+  },
+  {
+    "id": "ca3b663c0a5c3d83",
+    "title_original": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "description": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-16T15:00:08+00:00",
+    "fetched_at": "2026-03-17T07:39:03.741380+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/gtc-2026-news/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+    "summary_he": "NVIDIA GTC 2026 הציגה עדכונים חיים על העתיד של AI, כאשר Roche הגדילה את NVIDIA AI Factories גלובלית כדי לסייע בגילוי תרופות ופתרונות רפואיים וברפיות ייצור.",
+    "details_he": "Roche הפעילה יותר מ-3,500 NVIDIA Blackwell GPUs בפעולותיה העולמיות והשתלבה בשרשרת הערך המלאה, ובכך הגדילה מאוד את המוצריות של R&D, פתרונות רפואיים וברפיות יעילות. NVIDIA GTC 2026 הציגה עדכונים חיים על העתיד של AI, כאשר Roche הגדילה את NVIDIA AI Factories גלובלית. Roche's פעילות זו תאפשר לה לסייע בפיתוח תרופות ופתרונות רפואיים וברפיות ייצור."
+  },
+  {
+    "id": "23517345edc64236",
+    "title_original": "How agentic AI helps heal the systems we can&#8217;t replace",
+    "url": "https://www.amazon.science/blog/how-agentic-ai-helps-heal-the-systems-we-cant-replace",
+    "description": "By learning the idiosyncrasies of accumulated layers of legacy systems, AI agents can preserve institutional knowledge and provide a unified interface to a range of services.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-03-16T13:00:00+00:00",
+    "fetched_at": "2026-03-17T07:39:03.925939+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/how-agentic-ai-helps-heal-the-systems-we-cant-replace"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How agentic AI helps heal the systems we can&#8217;t replace",
+    "summary_he": "AI נותן תפקיד חשוב בשיפור מערכות ישנות, שאינן יכולות להיחלץ. על ידי למידה של תכונות המערכות, ה-AGI יכול לשמר ידע מוסדי ולהציג ממשק יחיד לשירותים שונים.",
+    "details_he": "במעבדה ל-AGI של אמזון, צוותים מאמנים סוכנים לאור תצלומים גבוהי-איכות של מערכות ישנות. על ידי למידה של התכונות האמיתיות של המערכות, ניתן ליצור סוג של פונקציונליות, שגדלה מהמערכות שיש לנו, במקום שתדרש את החלפתן. ואילו ניהול התכונות הישנות של המערכות, עובד מאחורי הקלעים, הסוכן הופך ל-API יוניברסלי, שהלקוח יכול להשתמש בו כדי לבצע תפקידים ייעודיים שונים."
+  },
+  {
+    "id": "a890723df0291e25",
+    "title_original": "Boggy Serpens Threat Assessment",
+    "url": "https://unit42.paloaltonetworks.com/boggy-serpens-threat-assessment/",
+    "description": "Iranian threat group Boggy Serpens' cyberespionage evolves with AI-enhanced malware and refined social engineering. Unit 42 details their persistent targeting.The postBoggy Serpens Threat Assessmentappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-16T22:00:57+00:00",
+    "fetched_at": "2026-03-17T07:39:14.363560+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/boggy-serpens-threat-assessment/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Boggy Serpens Threat Assessment",
+    "summary_he": "Boggy Serpens, a threat group attributed to the Iranian Ministry of Intelligence and Security, has been conducting ongoing cyberespionage campaigns targeting diplomatic and critical infrastructure across the Middle East and globally. The group's tactics have evolved, incorporating AI-enhanced malware and social engineering to compromise trusted relationships and achieve long-term persistence. Its adaptability and potent threat profile pose a significant risk to strategic organizations.",
+    "details_he": "The threat assessment by Unit 42 reveals that Boggy Serpens has refined its operational strategy to focus on trusted relationship compromises and multi-wave targeting of key strategic organizations. The group's toolset includes AI-enhanced malware implants that incorporate anti-analysis techniques for long-term persistence. Additionally, it leverages hijacked accounts, exploits access to bypass reputation-based blocking, and utilizes secondary social engineering prompts to deliver malware. The group's determination is exemplified by a sustained campaign against a national marine and energy company in the UAE, with four distinct waves of attack from August 2025 through February 2026."
+  },
+  {
+    "id": "ac15411ea00bfaad",
+    "title_original": "Check Point Accelerates the Rollout of Secure AI Data Centers with NVIDIA DSX Air",
+    "url": "https://blog.checkpoint.com/artificial-intelligence/check-point-accelerates-the-rollout-of-secure-ai-data-centers-with-nvidia-dsx-air/",
+    "description": "Check Point is proud to integrate with NVIDIA DSX Air’s testing environment, enabling organizations to pre-validate their security aware AI data center designs before ever deploying their first piece of hardware in production to build and run their own AI.  Testing AI Factory deployments end-to-end is challenging and can require complex multi-vendor orchestration. From compute to networking, orchestration, and security, ensuring integrations, configurations and automations perform as expected can become resource-intensive with so many factors at play.   Now, organizations can perform large-scale cyber security validation testing before deploying AI Factories, using the NVIDIA DSX Air cloud-based simulation and validation platform.  Why are Organizations Building Their […]The postCheck Point Accelerates the Rollout of Secure AI Data Centers with NVIDIA DSX Airappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-16T20:30:14+00:00",
+    "fetched_at": "2026-03-17T07:39:26.827335+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/artificial-intelligence/check-point-accelerates-the-rollout-of-secure-ai-data-centers-with-nvidia-dsx-air/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point Accelerates the Rollout of Secure AI Data Centers with NVIDIA DSX Air",
+    "summary_he": "Check Point and NVIDIA DSX Air collaborate to provide a secure testing environment for AI data centers, allowing organizations to validate their security-aware designs before deployment.",
+    "details_he": "The integration of Check Point with NVIDIA DSX Air's testing environment enables large-scale cyber security validation testing for AI Factories, addressing the complex challenges of multi-vendor orchestration and ensuring secure integrations, configurations, and automations. This collaboration helps organizations to build and run their own AI data centers, addressing concerns such as sovereign AI mandates, high cloud-compute costs, and risk to intellectual property. By validating AI Factory security, organizations can mitigate risks associated with AI deployment, including system vulnerabilities, east-west lateral movement, AI supply chain failures, and data loss/theft."
+  },
+  {
+    "id": "0e02323973a395e4",
+    "title_original": "Iranian Cyber Threat Evolution: From MBR Wipers to Identity Weaponization",
+    "url": "https://unit42.paloaltonetworks.com/evolution-of-iran-cyber-threats/",
+    "description": "The evolution of Iranian cyber operations in broad context: from custom wiper malware to misuse of legitimate admin tools and more.The postIranian Cyber Threat Evolution: From MBR Wipers to Identity Weaponizationappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-16T19:15:43+00:00",
+    "fetched_at": "2026-03-17T07:39:14.363560+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/evolution-of-iran-cyber-threats/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Iranian Cyber Threat Evolution: From MBR Wipers to Identity Weaponization",
+    "summary_he": "בעקבות פעילות תקיפה של ארגוני סייבר מאיראן, חברות עולמיות נתקלות בסיכון תקיפה גבוה יותר, כאשר תקיפות רבות כבר אינן מוגבלות להשבתת רשתות. הסכנה הזאת נמצאת בתוך רקע רחב יותר, הקשור לתלותה של איראן בתגובה אסימטרית ובדוקטרינה של פרוקסי.",
+    "details_he": "בעקבות פעילות תקיפה של ארגוני סייבר מאיראן, חברות עולמיות נתקלות בסיכון תקיפה גבוה יותר. התקיפות כבר אינן מוגבלות להשבתת רשתות, והם כוללים גם תקיפות זהויות. הסכנה הזאת נמצאת בתוך רקע רחב יותר, הקשור לתלותה של איראן בתגובה אסימטרית ובדוקטרינה של פרוקסי. השינוי הטקטי של ארגוני סייבר מאיראן, הנובע משימוש בטכניקות 'לייב אוף דה-לנד' (LotL), מאפשר להם לבצע תקיפות עם סיכוי גבוה יותר להימנע מגילוי. הסכנה הזאת היא גדולה, והיא דורשת תשומת לב ופעולה מצד החברות העולמיות."
+  },
+  {
+    "id": "b8d44893c5eb727d",
+    "title_original": "New Microsoft Purview innovations for Fabric to safely accelerate your AI transformation",
+    "url": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-microsoft-purview-innovations-for-fabric-to-safely-accelerate-your-ai-transf/4502156",
+    "description": "As organizations adopt AI, security and governance remain core primitives for safe AI transformation and acceleration.The postNew Microsoft Purview innovations for Fabric to safely accelerate your AI transformationappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-16T17:10:00+00:00",
+    "fetched_at": "2026-03-17T07:39:12.491082+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-microsoft-purview-innovations-for-fabric-to-safely-accelerate-your-ai-transf/4502156"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New Microsoft Purview innovations for Fabric to safely accelerate your AI transformation",
+    "summary_he": "Microsoft Purview הציגה פתרונות חדשים לאבטחת נתונים ושליטה ב-Fabric, כדי לאפשר תרגול AI בבטחה. הפתרונות כוללים דיפרנסיה ומניעת חשיפת נתונים ושיפור של תהליכי שליטה ואיכות הנתונים.",
+    "details_he": "Microsoft Purview הציגה פתרונות חדשים לאבטחת נתונים ושליטה ב-Fabric, כדי לאפשר תרגול AI בבטחה. הפתרונות כוללים דיפרנסיה ומניעת חשיפת נתונים, ושיפור של תהליכי שליטה ואיכות הנתונים. זאת כדי להתמודד עם חששות על חשיפת נתונים ואיכות הנתונים, שהם שני הגורמים העיקריים שמונעים את תרגול AI. 86% מהארגונים חסרים תצפיות על זרימת הנתונים של AI, ו-67% מהמנהלים חוששים להשתמש בנתונים ל-AI עקב חששות לאיכות הנתונים. Microsoft Purview מציעה גישה מודרנית ומאוחדת לאבטחת נתונים ושליטה, וכן יכולות מובילות של חברת Microsoft."
+  },
+  {
+    "id": "17d5ba74f8e9ee33",
+    "title_original": "Help on the line: How a Microsoft Teams support call led to compromise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/16/help-on-the-line-how-a-microsoft-teams-support-call-led-to-compromise/",
+    "description": "A DART investigation into a Microsoft Teams voice phishing attack shows how deception and trusted tools can enable identity-led intrusions and how to stop them.The postHelp on the line: How a Microsoft Teams support call led to compromiseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-16T16:00:00+00:00",
+    "fetched_at": "2026-03-17T07:39:12.491082+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/16/help-on-the-line-how-a-microsoft-teams-support-call-led-to-compromise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Help on the line: How a Microsoft Teams support call led to compromise",
+    "summary_he": "במקרה זה, חברת Microsoft דיווחה על פרשה של פריצה למערכת המשתמש, שהחלה כשהתוקף זייף תקשורת קולית דרך Microsoft Teams ושכנע עובד להעניק לו גישה רחוקה. התוקף אז השתמש בגישה הזו כדי לפרוץ למערכת ולהקים קשר עם התוקף.",
+    "details_he": "מחלקת Microsoft Incident Response חקרה את הפרשה ומצאה כי התוקף השתמש בטכניקה של זיוף תקשורת קולית כדי לשכנע את העובד להעניק לו גישה רחוקה. לאחר מכן, התוקף השתמש בגישה הזו כדי לפרוץ למערכת ולהקים קשר עם התוקף. הפרשה הדגימה את הסכנה שבזיוף תקשורת קולית ואת החשיבות של הגנה מפני פריצות זה. כמו כן, הפרשה הדגימה את החשיבות של תגובה מהירה ומותאמת לצורכים לפריצות זה."
+  }
+]
