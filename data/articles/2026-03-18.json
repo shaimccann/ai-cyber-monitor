@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a001ae2232445029",
+    "title_original": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-17T23:17:07+00:00",
+    "fetched_at": "2026-03-18T07:38:27.400905+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+    "summary_he": "NVIDIA הציגה דגם חדש של מודל AI, Nemotron 3 Nano 4B, שמיועד להיות קצר ומציע יעילות ודיוק ביכולתו. הדגם משתמש בארכיטקטורת Mamba-Transformer ומסוגל לרוץ על פלטפורמות NVIDIA GPU-Enabled.",
+    "details_he": "Nemotron 3 Nano 4B הוא הדגם החדש ביותר במשפחת Nemotron 3 והוא נועד להיות יעיל ודיוקי ביכולתו. הדגם משתמש בארכיטקטורת Mamba-Transformer ומסוגל לרוץ על פלטפורמות NVIDIA GPU-Enabled. הדגם נבחן במספר מבחנים והוכיח את עצמו כדגם חזק. הדגם גם נבחן במבחן VRAM והוכיח את עצמו כדגם עם VRAM הנמוך ביותר בקטגוריה שלו. הדגם גם נבחן במבחן Latency והוכיח את עצמו כדגם עם Latency הנמוך ביותר בקטגוריה שלו."
+  },
+  {
+    "id": "bd0f4dacdd2f68fa",
+    "title_original": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro",
+    "url": "https://blogs.nvidia.com/blog/nvidia-cloudxr-apple-vision-pro/",
+    "description": "NVIDIA and Apple’s collaboration brings native integration of NVIDIA CloudXR 6.0 to visionOS, securely delivering NVIDIA RTX-powered simulators and professional 3D graphics applications — like Immersive for Autodesk VRED on Innoactive’s XR streaming solutions — to Apple Vision Pro.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-17T17:00:58+00:00",
+    "fetched_at": "2026-03-18T07:38:27.790665+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-cloudxr-apple-vision-pro/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro",
+    "summary_he": "NVIDIA RTX-מאומנים מחשבים כעת נגישים למערכת Apple Vision Pro, ומאפשרים חיבור ישיר.",
+    "details_he": "מערכות המאומנות NVIDIA RTX מאפשרות חיבור ישיר למערכת Apple Vision Pro, ומאפשרות חיבור ישיר. זה יכול להציע תכונות חדשות למערכת, כולל תמיכה ב- AI, והגברת היכולות שלה. החיבור הישיר יכול להציע תכונות חדשות, כולל תמיכה ב- AI, והגברת היכולות שלה."
+  },
+  {
+    "id": "f9de2d8dad0b5469",
+    "title_original": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
+    "url": "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/",
+    "description": "As AI‑native applications scale to more users, agents and devices, the telecommunications network is becoming the next frontier for distributing AI.  At NVIDIA GTC 2026, leading operators in the U.S. and Asia showed that this shift is underway, announcing AI grids — geographically distributed and interconnected AI infrastructure — using their network footprint to power […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-17T17:00:15+00:00",
+    "fetched_at": "2026-03-18T07:38:27.790665+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
+    "summary_he": "NVIDIA ומובילי התקשורת מקימים רשתות AI כדי לאופטימיזציה של פענוח ברשתות הפוצלות. הם משתמשים בפוטנציאל של הרשתות כדי לספק שירותי AI חדשים. המובילים בתעשיית התקשורת ו-NVIDIA הציגו את השינוי הזה ב-NVIDIA GTC 2026.",
+    "details_he": "התקשורת נהיית החזית הבאה להפצת AI. המובילים בתעשיית התקשורת ו-NVIDIA הציגו את השינוי הזה ב-NVIDIA GTC 2026. הם משתמשים בפוטנציאל של הרשתות כדי לספק שירותי AI חדשים. הרשתות הפוצלות של התקשורת נהיות רשתות AI. הם נועדו לאופטימיזציה של פענוח AI. הם יכולים לספק שירותי AI חדשים. המובילים בתעשיית התקשורת ו-NVIDIA עובדים יחד כדי לבנות רשתות AI. הם עובדים עם חברות כמו Cisco ו-HPE. הם עובדים על פרויקטים שונים. AT&T עובד עם Cisco ו-NVIDIA כדי לבנות רשת AI ל-IoT. Comcast עובד עם NVIDIA, Decart, Personal AI ו-HPE כדי לבנות רשת AI לחוויות אישיות."
+  },
+  {
+    "id": "b95107de36729abd",
+    "title_original": "State of Open Source on Hugging Face: Spring 2026",
+    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-17T16:37:55+00:00",
+    "fetched_at": "2026-03-18T07:38:27.400905+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "State of Open Source on Hugging Face: Spring 2026",
+    "summary_he": "בשנה האחרונה, האקוסיסטם הפתוח של Hugging Face צבר תאוצה, עם צמיחה משמעותית במשתמשים, דגימות ונתונים. זאת, לא רק עקב עניין גובר באקוסיסטם הפתוח, אלא גם עקב תפוקה גוברת של משתמשים, שבונים יותר ויותר דגימות ומודלים פרופרי.",
+    "details_he": "האקוסיסטם של Hugging Face נותר קונצנטרט, עם כ-50% מהדגימות עם פחות מ-200 הורדות. קהילות מיוחדות נוצרות סביב תחומים, שפות או בעיות מסוימות, ולעיתים רבות הן מציגות עורקיות ושימוש ממושך, אף על פי שהן נמצאות בעולם המודלים הפתוח. ישנן חברות רבות, גדולות וקטנות, הבנות על אקוסיסטם זה, וכ-30% מחברות הפורצ'ן 500 נמצאות עם חשבונות מאומתים ב-Hugging Face. חברות גדולות, כמו Airbnb, גם הן גדלו את עורקיותן עם האקוסיסטם הפתוח."
+  },
+  {
+    "id": "767ea676376b0d66",
+    "title_original": "Bringing the power of Personal Intelligence to more people",
+    "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+    "description": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-17T16:00:00+00:00",
+    "fetched_at": "2026-03-18T07:38:25.799565+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bringing the power of Personal Intelligence to more people",
+    "summary_he": "Google החלה להרחיב את Personal Intelligence, תכונה המאפשרת תגובות מותאמות לאדם, בארצות הברית. התכונה ניתנת להגדרה כדי לספק תגובות מותאמות למשתמש, כגון המלצות קניות על פי רכישות קודמות.",
+    "details_he": "Personal Intelligence היא תכונה המאפשרת למשתמשים לחבר את תכונות גוגל, כגון Gmail ו-Google Photos, כדי לספק תגובות מותאמות למשתמש. התכונה ניתנת להגדרה כדי לספק תגובות מותאמות למשתמש, כגון המלצות קניות על פי רכישות קודמות. התכונה ניתנת להגדרה כדי לספק תגובות מותאמות למשתמש, כגון תגובות לבעיות טכניות. התכונה ניתנת להגדרה כדי לספק תגובות מותאמות למשתמש, כגון תגובות לבעיות טכניות. התכונה ניתנת להגדרה כדי לספק תגובות מותאמות למשתמש, כגון תגובות לבעיות טכניות."
+  },
+  {
+    "id": "5f775b21342dc78c",
+    "title_original": "Meet the Industry’s First GPU-Powered SASE Platform with Native AI Security",
+    "url": "https://www.catonetworks.com/blog/industrys-first-gpu-powered-sase-platform-native-ai-security/",
+    "description": "AI has moved from experimentation to a strategic enterprise imperative. It’s no longer about whether organizations will adopt AI, but whether their security architecture can govern it at the speed and scale at which it is being embedded into the business. This is not a future concern. It is today’s operational mandate to: Securing AI...The postMeet the Industry’s First GPU-Powered SASE Platform with Native AI Securityappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-03-17T12:14:12+00:00",
+    "fetched_at": "2026-03-18T07:38:56.750242+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/industrys-first-gpu-powered-sase-platform-native-ai-security/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Meet the Industry’s First GPU-Powered SASE Platform with Native AI Security",
+    "summary_he": "Cato Neural Edge, a GPU-powered SASE platform with native AI security, has been introduced by Cato. This innovative solution enables faster AI-driven threat detection, more accurate semantic data classification, and scalable inspection. It converges inspection, compute, and enforcement within the same point of presence (PoP), eliminating architectural separation and reducing latency variability.",
+    "details_he": "Cato Neural Edge leverages NVIDIA GPUs deployed across the Cato SASE Platform, spanning over 85 points of presence worldwide. This allows for advanced SML models to be run at scale, facilitating deeper semantic inspection, large-scale pattern analysis, and real-time adaptive intelligence. Unlike traditional SASE architectures, Cato Neural Edge eliminates the need for separate hyperscaler GPU locations, thereby reducing latency and increasing AI traffic scalability. The platform's modularity enables organizations to secure their AI transformation with various use cases, including AI usage, homegrown AI applications, and agentic workflows."
+  },
+  {
+    "id": "44c1ee7e09226e2f",
+    "title_original": "Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models",
+    "url": "https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/",
+    "description": "Unit 42 research unveils LLM guardrail fragility using genetic algorithm-inspired prompt fuzzing. Discover scalable evasion methods and critical GenAI security implications.The postOpen, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Modelsappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-17T10:00:38+00:00",
+    "fetched_at": "2026-03-18T07:38:49.011430+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models",
+    "summary_he": "חוקרי יחידה 42 פיתחו שיטה לאוטומציה של גנרציה של גרסאות שונות של בקשות שאינן מותרות, שמשמרות את המשמעות המקורית שלהן. שיטה זו גם מדדת חולשות של גדרי-שמירה תחת תכנון מערכתי.",
+    "details_he": "חוקרי יחידה 42 גילו חולשות בגדרי-שמירה, עם קצבי התחמקות שנעו בין סדר גיחות נמוך לגבוה, במקרים מסוימים של קובצי-מודל ו/או מילות-מפתח. ההבדל העיקרי מדוגמאות פרטיות של חטיפת-כלאי-פקודה, הוא הקנייה-להישגים. כמויות קטנות של קצבי-כישלון הופכות לאמינים כאשר התוקפים יכולים לאוטומציים בכמויות. "
+  },
+  {
+    "id": "43632edad6c86e15",
+    "title_original": "Adopt AI, Not Exposures: Unlocking Continuous Exposure Management to Secure the AI Attack Surface",
+    "url": "https://xmcyber.com/blog/adopt-ai-not-exposures/",
+    "description": "AI innovation and adoption – both sanctioned and unsanctioned – has reached a fever pitch. Organizations are racing to invest in AI, joining a...The postAdopt AI, Not Exposures: Unlocking Continuous Exposure Management to Secure the AI Attack Surfaceappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "ai",
+    "published": "2026-03-17T09:00:53+00:00",
+    "fetched_at": "2026-03-18T07:39:01.457916+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/adopt-ai-not-exposures/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Adopt AI, Not Exposures: Unlocking Continuous Exposure Management to Secure the AI Attack Surface",
+    "summary_he": "ארגונים שונים נאבקים להשיג יתרון על ידי התקדמות באי, אך זו גורמת לחשש מפני פריצה חשאית. צוותי ביטחון נאלצים להתמודד עם פחד שאי-ביטחון יגרום לכליה של העסק.",
+    "details_he": "אי-ביטחון באי יכול לגרום לפריצה חשאית, וזה יכול להיות קטלני. חברות שונות נאבקות להשיג יתרון על ידי התקדמות באי, אך זו גורמת לחשש מפני פריצה חשאית. צוותי ביטחון נאלצים להתמודד עם פחד שאי-ביטחון יגרום לכליה של העסק. חברות צריכות להתקדם באי, אך גם להגן על עצמן. זה קשה, ואין פתרון קל."
+  },
+  {
+    "id": "747128cd183bf78f",
+    "title_original": "Continuous Exposure Management for the AI Attack Surface",
+    "url": "https://xmcyber.com/solution-briefs/ai-attack-surface/",
+    "description": "Secure AI innovation by unifying AI discovery with your broader Continuous Exposure Management strategy for a holistic view of hybrid risk. Proactively prioritize and...The postContinuous Exposure Management for the AI Attack Surfaceappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-03-17T09:00:40+00:00",
+    "fetched_at": "2026-03-18T07:39:01.457916+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/solution-briefs/ai-attack-surface/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Continuous Exposure Management for the AI Attack Surface",
+    "summary_he": "XM Cyber מציעה תפיסה מקיפה לסיכוני AI על ידי איחוד גילוי AI עם תפיסת הסיכונים הרציפים שלהם.",
+    "details_he": "XM Cyber טוענת כי הצפנת AI יכולה להיות מוגנת על ידי איחוד גילוי AI עם תפיסת הסיכונים הרציפים שלהם. זאת תוך שימוש בסטרטגיה של Continuous Exposure Management, שמספקת תפיסה מקיפה של סיכוני AI. XM Cyber טוען כי זה יאפשר לפצל ולהפחית את סיכוני AI."
+  },
+  {
+    "id": "6de366e55ef10edb",
+    "title_original": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+    "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+    "description": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS.\nThe vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content.\nThe",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-18T12:01:00+05:30",
+    "fetched_at": "2026-03-18T07:38:43.434929+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+    "summary_he": "Apple פיתחה פתרון לבעיה ב-WebKit המאפשרת לעבור את תקן ה- Same-Origin Policy ב-iOS וב-macOS. הבעיה, המסווגת כ-CVE-2026-20643, יכולה להיחשף על ידי תוכנה צרפה באופן מלאכותי. ",
+    "details_he": "Apple פרסמה תיקון לבעיה ב-WebKit המסכת את iOS, iPadOS, ו-macOS. הבעיה, המסווגת כ-CVE-2026-20643, יכולה להיחשף על ידי תוכנה צרפה באופן מלאכותי. תומאס אספאך, מחקרן הביטחוני, קיבל קרדיט על גילוי ודיווח הבעיה. Apple ציינה כי התיקון כולל שיפורים באבטחת המשתמש, ומאפשרת למשתמשים לשלוט באופן אוטומטי בתיקונים. "
+  }
+]
