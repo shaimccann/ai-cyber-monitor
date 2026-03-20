@@ -1,0 +1,212 @@
+[
+  {
+    "id": "3de4eb06732448d9",
+    "title_original": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "description": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-20T00:15:17+00:00",
+    "fetched_at": "2026-03-20T06:37:18.341577+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/gtc-2026-news/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+    "summary_he": "NVIDIA GTC 2026 ניבדיה גטסי 2026 הציגה עדכים חיים על העתיד בתחום האי. חברות טלקומוניקציה מובילות בנו רשתות אי עבור אופטימיזציה של העתקת נתונים ברשתות מפוצלות.",
+    "details_he": "ב-NVIDIA GTC 2026, חברות טלקומוניקציה מובילות בארצות הברית ובעולם הציגו תצוגות חיות של רשתות אי חדשות. הרשתות האלה נועדו לאופטימיזציה של העתקת נתונים ברשתות מפוצלות. זה יאפשר לאפליקציות אי-נטיביות לגדול ולהפוך ליותר יעילות."
+  },
+  {
+    "id": "47b04326bbd0722c",
+    "title_original": "Optimizing LoRA target module selection for efficient fine tuning",
+    "url": "https://www.amazon.science/blog/optimizing-lora-target-module-selection-for-efficient-fine-tuning",
+    "description": "Ablation study clarifies trade-offs between accuracy and efficiency when using low-rank adaptation (LoRA) to fine-tune AI models.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-03-19T14:39:23+00:00",
+    "fetched_at": "2026-03-20T06:37:18.687220+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/optimizing-lora-target-module-selection-for-efficient-fine-tuning"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Optimizing LoRA target module selection for efficient fine tuning",
+    "summary_he": "חוקרים הצליחו לפתור את השאלה של בחירת המודולים האידיאליים לאדפטציה נמוכה-דרגה, תוצאה שמאפשרת אופטימיזציה של הטיפול הדק-הפין. הם גילו כי ישנם מודולים מסוימים שהצבת אדפטורים בהם יוצרת את התוצאה הטובה ביותר בין סקלתיות לבין יעילות.",
+    "details_he": "במחקר, חוקרים השתמשו באדפטציה נמוכה-דרגה (LoRA) כדי לאופטימיזר את הטיפול הדק-הפין של דגמי AI. LoRA היא טכניקה שמצמצמת את הצורך במשאבי GPU ובזמן. החוקרים השתמשו במודל Nova 2.0 Lite של Amazon כדגם הבסיסי, וגילו כי ישנם מודולים מסוימים שהצבת אדפטורים בהם יוצרת את התוצאה הטובה ביותר. הם גם גילו כי השימוש במודולים קטנים יותר יכול לשפר את היעילות ולאפשר טיפול דק-הפין יעיל יותר."
+  },
+  {
+    "id": "badad3c692bfe40a",
+    "title_original": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
+    "url": "https://huggingface.co/blog/nvidia/speed-bench",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-19T14:04:54+00:00",
+    "fetched_at": "2026-03-20T06:37:18.051499+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/speed-bench"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
+    "summary_he": "אנשי ה-NVIDIA הציגו כלי חדש לבדיקת טכניקת סיפור דרמטי (Speculative Decoding) המשמשת לקידום זמני העבודה של רשתות עצבים עמוקות (LLM).",
+    "details_he": "הכלי, הנקרא SPEED-Bench, נועד לבדוק את טכניקת הסיפור הדרמטי משני נקודות תצפית. האחת, איכות הסיפור הדרמטי תלויה בתחום השימוש ובאנטרופיה של הטקסט המוצג. השנייה, קידום הזמן העבודה במערכות אמיתיות תלוי בגודל הקבוצה, באורך התמלול המוצג ובגבולות המערכת. SPEED-Bench מציע סביל ניסויים יחיד ומגוון לבדיקת הטכניקה, ובו שני חלקי נתונים וסטנדרט ניסויים מאוחד. חלקי הנתונים נועדו לבדוק את איכות הסיפור הדרמטי ואת קידום הזמן העבודה במערכות אמיתיות."
+  },
+  {
+    "id": "bff750ec862a54a1",
+    "title_original": "Smooth Moves: 90 Frames-Per-Second Virtual Reality Arrives on GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-virtual-reality-update/",
+    "description": "It’s a double feature on GFN Thursday. This week, GeForce NOW offers smoother sights in virtual reality (VR) and a sprawling new land to conquer. Streaming at 90 frames per second (fps) comes to supported VR headsets. And Crimson Desert, which recently surpassed 3 million wishlist additions on Steam, debuts in the cloud with GeForce […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-19T13:00:09+00:00",
+    "fetched_at": "2026-03-20T06:37:18.341577+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-virtual-reality-update/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Smooth Moves: 90 Frames-Per-Second Virtual Reality Arrives on GeForce NOW",
+    "summary_he": "GeForce NOW הוסיף תמיכה ל-90 fps ל-VR, מאפשרת חוויה חדשה וסמויה ל-VR. כמו כן, הוספת גיימים חדשים, כולל Crimson Desert, שהגיעה ל-3 מיליון רשימות ב- Steam.",
+    "details_he": "GeForce NOW הוסיף תמיכה ל-90 fps ל-VR, מאפשרת חוויה חדשה וסמויה ל-VR. זאת כתוצאה מעדכון האפליקציה, המתחיל להתפצל לחברי GeForce NOW החל מהיום. העדכון מאפשר חוויה חדשה וסמויה ל-VR, עם תמיכה ב-90 fps ל-VR, כולל Apple Vision Pro, Meta Quest ו-Pico. חברי GeForce NOW Ultimate יכולים לחוות את החוויה החדשה, כולל Crimson Desert, שהגיעה ל-3 מיליון רשימות ב- Steam. המשחק נוסף ל-GeForce NOW, וחברי GeForce NOW Ultimate יכולים לחוות את החוויה החדשה, כולל Crimson Desert, שהגיעה ל-3 מיליון רשימות ב- Steam."
+  },
+  {
+    "id": "149db136bb16679c",
+    "title_original": "How we monitor internal coding agents for misalignment",
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "description": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-19T10:00:00+00:00",
+    "fetched_at": "2026-03-20T06:37:15.835706+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How we monitor internal coding agents for misalignment",
+    "summary_he": "OpenAI משתמשת בשיטת Chain-of-Thought לחקור תקלות של סוכני קוד פנימיים, כדי לזהות סיכונים ולחזק את הביטחון של ה-AI.",
+    "details_he": "OpenAI משתמשת בשיטת Chain-of-Thought כדי לחקור תקלות של סוכני קוד פנימיים, כדי לזהות סיכונים ולחזק את הביטחון של ה-AI. השיטה נועדה לבחון תקלות של סוכני קוד פנימיים בסביבות אמיתיות, כדי לזהות סיכונים ולחזק את הביטחון של ה-AI. OpenAI עובדת על חזקת הביטחון של ה-AI, כדי למנוע תקלות ולחזק את האמינות של ה-AI."
+  },
+  {
+    "id": "559eb7e4efa6600e",
+    "title_original": "New tools and guidance: Announcing Zero Trust for AI",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/",
+    "description": "Microsoft introduces Zero Trust for AI, adding a new AI pillar to its workshop, enhanced reference architecture, updated guidance, and a new assessment tool.The postNew tools and guidance: Announcing Zero Trust for AIappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-19T19:00:00+00:00",
+    "fetched_at": "2026-03-20T06:37:27.815414+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New tools and guidance: Announcing Zero Trust for AI",
+    "summary_he": "Microsoft פרסמה כיום כלי חדשים והדרכה להפצת Zero Trust ל-AI, כדי לעזור לארגונים להבטיח את ביטחונם בעת שהם מקדמים את השימוש ב-AI. הכלי כולל עמוד חדש ל-AI ב- Zero Trust Workshop, עדכונים ב-Data ו-Networking ב- Zero Trust Assessment, וארכיטקטורה חדשה של Zero Trust ל-AI.",
+    "details_he": "Microsoft טענה כי Zero Trust חייבת להתרחב ל-AI, כדי לעזור לארגונים להגן על עצמם מפני סכנות חדשות שנוצרו על ידי AI. ה- Zero Trust for AI (ZT4AI) ממשיך עקרונות Zero Trust המוכרים לחייל ה-AI, מהשלבים השונים של חיי ה-AI. ה- ZT4AI כולל עקרונות של: וריפיקציה, זכויות פחות, והנחה ש- breach. העקרונות האלה אינם חדשים, אבל הפעם הם נאמנים ל-AI. ה- Zero Trust Workshop, שעודכן, כולל עמוד חדש ל-AI, ועדכונים ב-Data ו-Networking. ה- Zero Trust Assessment גם עודכן, וכולל עדכונים ב-Data ו-Networking. ה- Zero Trust for AI (ZT4AI) נועד לעזור לארגונים להגן על עצמם מפני סכנות חדשות שנוצרו על ידי AI."
+  },
+  {
+    "id": "deb2b81badfa5ccc",
+    "title_original": "When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/19/when-tax-season-becomes-cyberattack-season-phishing-and-malware-campaigns-using-tax-related-lures/",
+    "description": "During tax season, threat actors reliably take advantage of the urgency and familiarity of time-sensitive emails, including refund notices, payroll forms, filing reminders, and requests from tax professionals, to push malicious attachments, links, or QR codes.The postWhen tax season becomes cyberattack season: Phishing and malware campaigns using tax-related luresappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-19T15:00:00+00:00",
+    "fetched_at": "2026-03-20T06:37:27.815414+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/19/when-tax-season-becomes-cyberattack-season-phishing-and-malware-campaigns-using-tax-related-lures/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures",
+    "summary_he": "בעת עונת המסים, תוקפים סייבר נוטים להשתמש באיימלים זמניים ומזויפים, כגון הודעות על תשלומי מס, טופסי מס, זיכרונות לתקופת המסים ובקשות מצד מקצועיי המס, כדי לשכנע את הקורבנות לפתוח בקשר עם קבצים מזויפים, לסרוק קודי QR או לעקוב אחר רשת של קישורים.",
+    "details_he": "בחודשים האחרונים, Microsoft Threat Intelligence הזדהתה עם קמפיינים של איימלים המשתמשים בגורמים של W-2, טופסי מס, או נושאים דומים, או המתגוררים כגורמי מס הממשלה, חברות שירותי מס, ובנקים. רבים מהקמפיינים יועדו לגנבת נתוני זהויות, אך אחרים יעדו במיוחד לחשבנים ולמקצועיי מס שעוסקים בדוקומנטים רגישים, יש להם גישה לנתוני כספים והם רגילים לקבל איימלים על נושאי מס בתקופה זו. הקמפיינים שהזדהתה Microsoft Threat Intelligence תוכננו לגנבת זהויות או להעברת תוכנות זדוניות. "
+  },
+  {
+    "id": "9af87ddd4236ba5b",
+    "title_original": "The Agentic Era Arrives: How AI Is Transforming the Cyber Threat Landscape",
+    "url": "https://blog.checkpoint.com/research/the-agentic-era-arrives-how-ai-is-transforming-the-cyber-threat-landscape/",
+    "description": "The cyber security landscape is undergoing a significant shift. Between January and February 2026, we observed a major evolution in how threat actors adopt, weaponize, and operationalize AI. What was once experimental is now mature. What once required coordinated teams can now be executed by a single experienced developer with an AI‑powered IDE. And what enterprises embraced for productivity has simultaneously become a rapidly expanding attack surface.  This report highlights the most significant trends shaping today’s threat environment-and what defenders must prepare for next.   Download the report here. AI-Assisted Malware Development Has Entered a New Era  The most important finding of the period is clear: AI‑assisted […]The postThe Agentic Era Arrives: How AI Is Transforming the Cyber Threat Landscapeappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-19T12:00:14+00:00",
+    "fetched_at": "2026-03-20T06:37:41.409494+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/the-agentic-era-arrives-how-ai-is-transforming-the-cyber-threat-landscape/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Agentic Era Arrives: How AI Is Transforming the Cyber Threat Landscape",
+    "summary_he": "בעיצומת המלחמה בסייבר, תאגידי הביטחון נאלצים להתמודד עם תקצוב-מכוון-אי-אס, שהופך למודל פופולרי בקרב תאגידי הפשע. זאת, בעקבות פרסום של חברת Check Point Research, המצאתה תוכנת VoidLink, שמאפשרת פיתוח תוכנות מל\"מ באמצעות תכנות תקופ-מכוון-אי-אס.",
+    "details_he": "בעיצומת המלחמה בסייבר, תאגידי הביטחון נאלצים להתמודד עם תקצוב-מכוון-אי-אס, שהופך למודל פופולרי בקרב תאגידי הפשע. זאת, בעקבות פרסום של חברת Check Point Research, המצאתה תוכנת VoidLink, שמאפשרת פיתוח תוכנות מל\"מ באמצעות תכנות תקופ-מכוון-אי-אס. תוכנת VoidLink כוללת יותר מ-30 תכונות של פיצוח, והיא נוצרה באמצעות תכנות TRAE SOLO, תוכנת IDE תקופ-מכוון-אי-אס. תוכנת VoidLink יכולה לפתח תוכנות מל\"מ באופן מהיר ויעיל, והיא יכולה להפגין יכולות של פיצוח ופיזור. זאת, בעקבות פרסום של חברת Check Point Research, המצאתה תוכנת VoidLink, שמאפשרת פיתוח תוכנות מל\"מ באמצעות תכנות תקופ-מכוון-אי-אס."
+  },
+  {
+    "id": "f47de4bf0364b1e4",
+    "title_original": "Analyzing the Current State of AI Use in Malware",
+    "url": "https://unit42.paloaltonetworks.com/ai-use-in-malware/",
+    "description": "Unit 42 research explores how AI is currently used in malware, from superficial integrations to advanced decision-making, and its future impact.The postAnalyzing the Current State of AI Use in Malwareappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-19T10:00:01+00:00",
+    "fetched_at": "2026-03-20T06:37:29.888415+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ai-use-in-malware/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Analyzing the Current State of AI Use in Malware",
+    "summary_he": "חוקרי Unit 42 חקרו סדרה של דוגמאות של תוכנה מזיקה שנוצרה בעזרת מודלי חישוב גדולים (LLMs), ומצאו שהם נוצרו על ידי תוכנית הפצת תוכנה המשתמשת ב-LLMs. הדוגמאות כללו תוכנה מזיקה שנוצרה כולה על ידי LLMs, ותוכנה מזיקה שה-LLMs עזרו להפעיל.",
+    "details_he": "חוקרי Unit 42 חקרו דוגמאות של תוכנה מזיקה שנוצרה בעזרת LLMs, כולל תוכנה מזיקה שנוצרה כולה על ידי LLMs, ותוכנה מזיקה שה-LLMs עזרו להפעיל. הדוגמאות כללו תוכנה מזיקה שנוצרה על ידי OpenAI GPT-3.5-Turbo, וה-LLMs עזרו לתוכנה המזיקה לבחור אם להפעיל את התוכנה. החוקרים חקרו גם תוכנה מזיקה שנוצרה על ידי Golang, שה-LLMs עזרו להפעיל. הדוגמאות הללו נחשבות לדוגמאות לשימוש ב-LLMs בתוכנה מזיקה."
+  },
+  {
+    "id": "4393eb5b943ba8b4",
+    "title_original": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+    "url": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
+    "description": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation.\nThe effort also saw authorities from Canada and Germany targeting the operators behind these botnets, with a number of private",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-20T11:55:00+05:30",
+    "fetched_at": "2026-03-20T06:37:25.983040+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+    "summary_he": "המשרד לענייני פלילים של ארצות הברית הצליח להשבית מערכות שליטה ובקרה של רשתות רובוטיות IoT, שהשתמשו ב-3 מיליון מכשירים, כדי לבצע התקפות DDoS שיא של 31.4 Tbps",
+    "details_he": "ההתקפות, שנוהלו על ידי רשתות הרובוטים AISURU, Kimwolf, JackSkid ו-Mossad, כללו יותר מ-200,000 הוראות התקפה DDoS, והגיעו לכדי 30 Terabits בשנייה. ה-DDoS attack הגדול ביותר, שהתרחש בנובמבר 2025, נמשך 35 שניות. רשתות הרובוטים גם השתמשו ב-3 מיליון מכשירים, כולל מכשירי Android, דיביי דיגיטליים, קמרות ומחשבי Wi-Fi, כדי לבצע התקפות DDoS. ה-DDoS attacks הגדולים ביותר נערכו נגד מטרות ברחבי העולם, והגיעו לכדי 3 מיליארד פקטים בשנייה, 4 Tbps, ו-54 מיליון בקשות בשנייה."
+  }
+]
