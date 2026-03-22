@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0e1ff1bcd25f04a8",
+    "title_original": "Are AI tokens the new signing bonus or just a cost of doing business?",
+    "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+    "description": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-22T06:20:43+00:00",
+    "fetched_at": "2026-03-22T06:34:28.801391+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Are AI tokens the new signing bonus or just a cost of doing business?",
+    "summary_he": "חברות הייטק בסיליקון ואלי מחפשות דרכים חדשות לשכנע טכנאים להצטרף, ואחד הרעיונות החדשים הוא לשלם להם בטוקנים AI, יחד עם שכר, חוזר וחוזר. הרעיון הוצג על ידי ג'נסן הואנג, ראש חברת Nvidia, שאמר שטכנאים צריכים לקבל כמחצית משכרם בטוקנים.",
+    "details_he": "הרעיון של טוקנים AI כחלק מהשכר של טכנאים, נראה כמעצבן, אך חברות הייטק רואות בו כלי גיוס. הם טוענים שטוקנים יעניקו לטכנאים גישה למשאבי חישוב רבים יותר, וזה יעזור להם לעבוד יותר. כך, הטכנאים יהיו יעילים יותר, וחברות הייטק יכולות לצפות לתוצאות טובות יותר. כך, הטוקנים יהיו חלק מהשכר של הטכנאים, ולא רק כסף."
+  },
+  {
+    "id": "4b6ceb5c4390b0a4",
+    "title_original": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+    "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+    "description": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-21T19:30:27+00:00",
+    "fetched_at": "2026-03-22T06:34:28.801391+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+    "summary_he": "Hachette Book Group פרסמה החלטה לא לפרסם רומן האימה 'Shy Girl' בעקבות חששות על שימוש ב-AI. הספר היה צפוי לצאת לאור בארצות הברית בסתיו. החברה גם תבטל את הספר בבריטניה, שם הוא כבר זמין.",
+    "details_he": "החברה טענה שההחלטה נוצרה אחרי בירור מעמיק של הטקסט. אולם, קוראים באתר GoodReads וב-YouTube היו חושבים שהספר נכתב בעזרת AI. הסופרת Mia Ballard דחתה את האשמות, ואמרה שהיא תתפס בעקבות הפרשה. היא טענה כי היא עברה את הספר למזכירה שלה, שהיא חשדה שהשתמשה ב-AI. הפרשה גרמה ל-Ballard להצהיר כי 'בריאותה הנפשית שלה היא נמוכה יותר מאי פעם, ושמה נשבר על דבר שלא עשתה'."
+  },
+  {
+    "id": "e67a3b35a00dd14d",
+    "title_original": "Delve accused of misleading customers with ‘fake compliance’",
+    "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "description": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-21T17:00:05+00:00",
+    "fetched_at": "2026-03-22T06:34:28.801391+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Delve accused of misleading customers with ‘fake compliance’",
+    "summary_he": "Delve, a compliance startup, is facing accusations of misleading customers with fake evidence of compliance, potentially exposing them to legal and financial risks. The allegations were made in an anonymous Substack post, which claims Delve's methods involve generating fake auditor conclusions and skipping major framework requirements. Delve has denied the accusations, calling them misleading and inaccurate.",
+    "details_he": "The anonymous author of the Substack post, who claims to have worked at a former Delve client, alleges that the startup provides customers with fabricated evidence of compliance, including fake board meetings, tests, and processes. The author also claims that Delve forces customers to choose between adopting fake evidence or performing manual work with little real automation or AI. Delve has attempted to refute the accusations on its blog, but the allegations have raised concerns about the startup's methods and potential risks to its customers. The accusations come as Delve is facing increased scrutiny following its $32 million Series A funding round last year, which valued the company at $300 million."
+  },
+  {
+    "id": "601828ab0273f97e",
+    "title_original": "\"קבוצה קטנה מאוד של משקיעים מתוחכמים נהנים ממרב הכסף\"",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001537816#utm_source=RSS",
+    "description": "שיחה עם פרופ' צחי חייט, ראש תחום מידע בבית הספר לתקשורת ברייכמן • על היעדר הרגולציה בפולימרקט וההשלכות, למה רק מיעוט נהנה מהכסף, ואיך תשפיע הפלטפורמה על הבחירות בישראל",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-03-21T17:00:00+00:00",
+    "fetched_at": "2026-03-22T06:34:54.751449+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001537816#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"קבוצה קטנה מאוד של משקיעים מתוחכמים נהנים ממרב הכסף\"",
+    "summary_he": "בעולם ההשקעות המתוחכמות, רק מיעוט של משקיעים נהנים מרוב הכסף, וזאת עקב חוסר רגולציה בפולימרקט. פרופ' צחי חייט, ראש תחום מידע בבית הספר לתקשורת ברייכמן, טוען שהיעדר רגולציה גורם לאי-שוויון בהשקעות.",
+    "details_he": "פרופ' צחי חייט, ראש תחום מידע בבית הספר לתקשורת ברייכמן, טוען שהיעדר רגולציה בפולימרקט ההשקעות המתוחכמות גורם לאי-שוויון בהשקעות. רק מיעוט של משקיעים נהנים מרוב הכסף, וזאת עקב חוסר רגולציה. פרופ' חייט טוען שהפלטפורמה תשפיע על הבחירות בישראל, אך עדיין לא ברור כיצד."
+  },
+  {
+    "id": "a7fc6e32737b0fbb",
+    "title_original": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+    "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+    "description": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-21T16:28:00+00:00",
+    "fetched_at": "2026-03-22T06:34:28.801391+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+    "summary_he": "Nvidia's recent conference failed to impress Wall Street investors, who are concerned about the uncertain future of AI and the potential for a bubble. Despite the company's CEO, Jensen Huang, presenting optimistic projections, investors are focusing on the risks rather than the benefits.",
+    "details_he": "Nvidia's CEO, Jensen Huang, delivered a 2.5-hour keynote speech at the company's annual GTC conference, highlighting the company's latest innovations and optimistic projections for the future of AI. However, investors were unimpressed, with many expressing concerns about the uncertain future of AI and the potential for a bubble. According to Futurum CEO Daniel Neuman, the speed of innovation in AI has created a new uncertainty that is unsettling investors. Neuman also noted that misleading information in the market, such as headlines about low enterprise adoption of AI, is contributing to the uncertainty."
+  },
+  {
+    "id": "80599622432a2514",
+    "title_original": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+    "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+    "description": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday.\n\"The campaign",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-21T18:47:00+05:30",
+    "fetched_at": "2026-03-22T06:34:30.243198+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+    "summary_he": "FBI warns of mass phishing attacks targeting WhatsApp and Signal users, particularly those with high intelligence value, allowing hackers to gain unauthorized access to accounts and conduct secondary phishing.",
+    "details_he": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) reported that Russian hackers are conducting phishing campaigns to compromise commercial messaging applications like WhatsApp and Signal. The attacks target individuals with high intelligence value, including government officials, military personnel, and journalists, resulting in thousands of compromised accounts. The hackers can view messages and contact lists, send messages as the victim, and conduct additional phishing from a trusted identity. The attacks do not exploit any security vulnerability or weakness, but rather rely on social engineering schemes to trick victims into providing sensitive information or clicking on malicious links."
+  },
+  {
+    "id": "a594a9fa6463a144",
+    "title_original": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
+    "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
+    "description": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 out of a maximum of 10.0.\n\"This vulnerability is remotely exploitable without authentication,\" Oracle said in an advisory. \"If successfully",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-21T15:54:00+05:30",
+    "fetched_at": "2026-03-22T06:34:30.243198+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
+    "summary_he": "Oracle השיקה עדכוני ביטחון לתקלה בקריטיות של 9.8, שמאפשרת ריצה רחוקה של קוד תוכנה בלי התאמה ב-Identity Manager וב-Web Services Manager.",
+    "details_he": "Oracle הצהירה כי התקלה, שצוינה כ-CVE-2026-21992, היא נגישה מרחוק ואינה דורשת התאמה. היא עלולה לגרום לריצה רחוקה של קוד תוכנה. Oracle כבר השיקה עדכוני ביטחון לתקלה זו. התקלה פוגעת בגרסאות 12.2.1.4.0 ו-14.1.2.1.0 של Oracle Identity Manager ובגרסאות 12.2.1.4.0 ו-14.1.2.1.0 של Oracle Web Services Manager. Oracle ממליצה ללקוחותיה ליישם את העדכונים ללא דחייה."
+  },
+  {
+    "id": "a93fa16ce357c7ce",
+    "title_original": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
+    "url": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
+    "description": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm.\nThe name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-21T13:55:00+05:30",
+    "fetched_at": "2026-03-22T06:34:30.243198+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
+    "summary_he": "תקיפה של שרתי npm על ידי תופעי רשת חדשים יצאו לאור, כאשר 47 פקטורי npm נפגעו. תקיפה זו נקראת CanisterWorm והיא נמצאת בפיתוח ראשון של תופעה זו.",
+    "details_he": "תקיפה זו, שנקראת CanisterWorm, נחשבת לאיום חדש על שרתי npm. התקיפה נעשתה על ידי תופעי רשת ששימשו את ICP canister כדי לקבל פקודות-בקרה. תקיפה זו נחשבת לאיום חדש על שרתי npm, והיא נמצאת בפיתוח ראשון של תופעה זו. התקיפה נעשתה על ידי תופעי רשת ששימשו את ICP canister כדי לקבל פקודות-בקרה. תקיפה זו נחשבת לאיום חדש על שרתי npm, והיא נמצאת בפיתוח ראשון של תופעה זו."
+  },
+  {
+    "id": "483e41f508dbda44",
+    "title_original": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
+    "url": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch them by April 3, 2026.\nThe vulnerabilities that have come under exploitation are listed below -\n\nCVE-2025-31277 (CVSS score: 8.8) - A vulnerability in Apple",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-21T13:55:00+05:30",
+    "fetched_at": "2026-03-22T06:34:30.243198+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
+    "summary_he": "CISA הכריזה על חמישה חולשות בבטיחות בקטלוג KEV שלה, כולל חולשות ב-Apple, Craft CMS ו-Laravel, וקראה לסוכנויות הפדרליות לתקן אותן עד 3 באפריל 2026.",
+    "details_he": "CISA הוסיפה חמישה חולשות בבטיחות לקטלוג KEV שלה, כולל חולשות ב-Apple, Craft CMS ו-Laravel, וקראה לסוכנויות הפדרליות לתקן אותן עד 3 באפריל 2026. החולשות שהוספו לקטלוג KEV כוללות CVE-2025-31277, CVE-2025-43510, CVE-2025-43520, CVE-2025-32432 ו-CVE-2025-54068. החולשות אלה כוללות חולשות ב-Apple WebKit, חולשות בקומפוננטת הגרעין של Apple וחולשות ב-Craft CMS ו-Laravel Livewire. CISA קראה לסוכנויות הפדרליות לתקן את החולשות האלה כדי למנוע פגיעה בביטחון המידע שלהן."
+  },
+  {
+    "id": "7405da4a52535216",
+    "title_original": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+    "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+    "description": "The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-03-21T13:30:41-04:00",
+    "fetched_at": "2026-03-22T06:34:29.838841+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+    "summary_he": "תקלה במערכת Trivy, מערכת סקאנינג חולשות, איפשרה לתוקפים להפיץ' סייבר-אפקט דרך GitHub Actions.",
+    "details_he": "בזכות תקלה במערכת Trivy, תוקפים יכלו להפיץ' סייבר-אפקט דרך GitHub Actions. התקלה, שהתגלתה על ידי חוקר הביטחון Paul McCarty, איפשרה לתוקפים להפיץ' קוד-מלאי זדוני, שגרם לסייבר-אפקט של גנבת קרדיטלי. התקלה, שהתגלתה במערכת Trivy של גיטהב, כללה פרסום של קוד-מלאי זדוני במערכת Trivy, וכן במערכות GitHub Actions. התקלה, שהתגלתה במערכת Trivy של גיטהב, כללה פרסום של קוד-מלאי זדוני במערכת Trivy, וכן במערכות GitHub Actions. התקלה, שהתגלתה במערכת Trivy של גיטהב, כללה פרסום של קוד-מלאי זדוני במערכת Trivy, וכן במערכות GitHub Actions."
+  }
+]
