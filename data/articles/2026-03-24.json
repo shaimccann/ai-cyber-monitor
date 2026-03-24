@@ -1,0 +1,212 @@
+[
+  {
+    "id": "d57b86ecfeaf9ba2",
+    "title_original": "A New Framework for Evaluating Voice Agents (EVA)",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-03-24T02:01:52+00:00",
+    "fetched_at": "2026-03-24T07:39:19.568767+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/eva"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A New Framework for Evaluating Voice Agents (EVA)",
+    "summary_he": "ServiceNow-AI הציגה פרקטיקה חדשה לבדיקת סוכני קול, המכונה EVA. EVA נועדה לבדוק שיחות קוליות מלאות, ולהעניק ציונים לשני ממדים: דיוק וניסיון.",
+    "details_he": "EVA, הפרקטיקה החדשה, נועדה לבדוק שיחות קוליות מלאות, ולהעניק ציונים לשני ממדים: דיוק וניסיון. הפרקטיקה נועדה לפצל כשלים לכל אחד מהממדים. EVA כוללת נתוני תקציר של 50 תצורות, כולל חידוש טיסה, ניהול ביטול, ווצ'רים ועוד. תוצאות הבסיס הסטנדרטי של EVA כוללות 20 מערכות, כולל דגמי דיבור-לדיבור ודגמי תקשורת אודיו. תוצאות הבסיס הסטנדרטי גילו תמידיות במסחר בדיוק-ניסיון. סוכני קול שביצעו טוב בביצועי תפעול, הציגו ניסיון גרוע יותר, והפכה."
+  },
+  {
+    "id": "c5d5f6f0c409b22d",
+    "title_original": "Will machines ever be intelligent?",
+    "url": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+    "description": "Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain, exploring continual learning, efficiency, and whether today’s models are on a path toward human intelligence.The postWill machines ever be intelligent?appeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-03-23T15:00:21+00:00",
+    "fetched_at": "2026-03-24T07:39:18.631842+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Will machines ever be intelligent?",
+    "summary_he": "מחקרים בתחום האי-אם עובדים על השאלה האם יש סיכוי ליצירת מכונות מודעות. ניקולו פוסי וסבוטאי אחמד, שני מומחים בתחום, חוקרים את ההבדלים בין מודלי שפה גדולים לבין המוח האנושי.",
+    "details_he": "בפודקאסט 'The Shape of Things to Come' של Microsoft Research, ניקולו פוסי וסבוטאי אחמד חוקרים את השאלה האם מכונות יכולות להיות מודעות. הם חוקרים את ההבדלים בין מודלי שפה גדולים לבין המוח האנושי, ומנסים להבין מהי מודעות ואיך יש להגדיר אותה. הם גם חוקרים את האפשרויות של יצירת מכונות מודעות שיהיו יעילות ויכולות ללמוד ולשנות."
+  },
+  {
+    "id": "c1fa8b197558c867",
+    "title_original": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
+    "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
+    "description": "Autonomous agents mark a new inflection point in AI. Systems are no longer limited to generating responses or reasoning through tasks. They can take action: Agents can read files, use tools, write and run code, and execute workflows across enterprise systems, all while expanding their own capabilities.  Application-layer risk grows exponentially when agents continuously improve […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-23T15:00:03+00:00",
+    "fetched_at": "2026-03-24T07:39:19.865684+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
+    "summary_he": "NVIDIA OpenShell היא ראנטיים חדשה של NVIDIA שמטרתה להפוך את סביבת ה- AI לבטוחה. זה עושה זאת על ידי ריצות זרים כל פעולה של ה- AI בסנדביץ' שלה, כך שה- AI לא יכולה לפגוע במדיניות הביטחון.",
+    "details_he": "NVIDIA OpenShell היא חלק מ-NVIDIA Agent Toolkit, והיא ראנטיים פתוחה ובטוחה לריצת זרים עצמאיים. ה-OpenShell עובדת על ידי הבטחת שכל זר רץ בסנדביץ' שלו, ומפרידה בין פעולות של שכבת היישום לבין יישום מדיניות הביטחון. זה פותר את הבעיה של ריצת זרים עצמאיים שמתפתחים ומשתפרים באופן רציף, ואשר יכולים לפגוע במדיניות הביטחון. NVIDIA OpenShell גם עובדת עם חברות ביטחון, כולל Cisco, CrowdStrike, Google Cloud, Microsoft Security ו-TrendAI, כדי להסכים על ניהול ויישום מדיניות הביטחון של זרים בכל שכבת התשתית של העסקה."
+  },
+  {
+    "id": "8689d4071d0bc6e1",
+    "title_original": "ארה\"ב אוסרת מכירה של ראוטרים הנמכרים בישראל",
+    "url": "https://www.geektime.co.il/us-ban-on-routers/",
+    "description": "הראוטר הביתי שלכם, זה שיושב בשקט על המדף ומספק לכם Wi-Fi ברחבי הבית (בשאיפה עד הממ\"ד) נחשב לכאב ראש לא קטן בממשל האמריקאי. בצעד חריג שהתפרסם הלילה (ג') הודיעה הוועדה הפדרלית לתקשורת (ה-FCC) על איסור ייבוא של כל נתב חדש, שאינו מיוצר בארצות הברית. עם זאת, גם אנחנו כאן בישראל צריכים לשים לב לאיסור החדש, […]The postארה\"ב אוסרת מכירה של ראוטרים הנמכרים בישראלappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-24T06:52:23+00:00",
+    "fetched_at": "2026-03-24T07:39:45.300302+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/us-ban-on-routers/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ארה\"ב אוסרת מכירה של ראוטרים הנמכרים בישראל",
+    "summary_he": "הממשל האמריקאי איסר מכירת ראוטרים שלא יוצרו בארצות הברית, וחברות כגון TP-Link ו-Netgear נכנסו לרשימת האיסור. המהלך נובע מחשש לביטחון הלאומי, וקשור למתקפות סייבר שבוצעו על ידי תוקפים שניצלו פרצות אבטחה בנתבים מתוצרת חוץ.",
+    "details_he": "ה-FCC האמריקאי הודיעה על איסור ייבוא של כל נתב חדש שאינו מיוצר בארצות הברית. החברות TP-Link, Netgear, Tenda, שיאומי ו-Mercusys נמצאות על המטרה, ודגמים חדשים שלהן לא יאושרו למכירה. הממשל אף קשר את המכשירים הללו ישירות למתקפות המוכרות Volt, Flax ו-Salt Typhoon, שיוחסו לגורמים הפועלים מטעם ממשלת סין. המהלך נובע מחשש לביטחון הלאומי, וה-FCC האמריקאי קבע כי תוקפים ניצלו פרצות אבטחה בנתבים מתוצרת חוץ כדי לבצע מתקפות סייבר."
+  },
+  {
+    "id": "fbe28b3ff3e6ce64",
+    "title_original": "Enhancing Safety of Large Language Models via Embedding Space Separation",
+    "url": "https://arxiv.org/abs/2603.20206",
+    "description": "arXiv:2603.20206v1 Announce Type: new \nAbstract: Large language models (LLMs) have achieved impressive capabilities, yet ensuring their safety against harmful prompts remains a critical challenge. Recent work has revealed that the latent representations (embeddings) of harmful and safe queries in LLMs typically exhibit linear separability, a property that has been exploited to construct attacks by perturbing the embeddings of harmful queries towards the safe subspace. Motivated by this observation, we propose a representation-level fine-tuning approach, named Embedding Space Separation (ES2), which improves LLM safety by explicitly enlarging the distance between harmful and safe representations in the embedding space. To prevent degradation of model's general capabilities, we introduce a Kullback-Leibler (KL) divergence regularization term into the loss function, which constrains the logits of the fine-tuned model to align with those of the original base model on harmless inputs. We ev",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-24T00:00:00-04:00",
+    "fetched_at": "2026-03-24T07:39:25.548335+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.20206"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Enhancing Safety of Large Language Models via Embedding Space Separation",
+    "summary_he": "מחקר חדש פותח תשובה לאתגר הבטיחות של דגמי שפה גדולים. המחקר, שפורסם בארכיון arXiv, הציג גישה חדשה לשיפור בטיחותם של דגמי שפה גדולים. על פי המחקר, ניתן לשפר את בטיחותם של דגמי שפה גדולים על ידי הפרדה חדשה של הקודדים הסתריים שלהם.",
+    "details_he": "המחקר, שנכתב על ידי Xu Zhao ושני מחברים נוספים, נערך על ידי דגמי שפה גדולים שונים. המחקר הציג גישה חדשה לשיפור בטיחותם של דגמי שפה גדולים, הקרויה Embedding Space Separation (ES2). ES2 משפרת את בטיחותם של דגמי שפה גדולים על ידי הפרדה חדשה של הקודדים הסתריים שלהם. כדי למנוע הפחתה ביכולות הכלליות של הדגם, המחקר הציג תנאי רגולציה של KL (Kullback-Leibler) divergence. התנאי רגולציה מקטין את הסבירות שהדגם יפעל בצורה לא רצויה. המחקר הראה כי ES2 משפרת את בטיחותם של דגמי שפה גדולים תוך שמירת יכולות כלליות דומות."
+  },
+  {
+    "id": "db8289c46f466784",
+    "title_original": "Google Authenticator: The Hidden Mechanisms of Passwordless Authentication",
+    "url": "https://unit42.paloaltonetworks.com/passwordless-authentication/",
+    "description": "Explore Google’s synced passkey architecture. Unit 42 details its mechanisms, key management, and secure communication in passwordless systems.\"The postGoogle Authenticator: The Hidden Mechanisms of Passwordless Authenticationappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-23T22:00:42+00:00",
+    "fetched_at": "2026-03-24T07:39:31.812235+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/passwordless-authentication/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google Authenticator: The Hidden Mechanisms of Passwordless Authentication",
+    "summary_he": "במסגרת חקירת הביטחון של פאסקייז, צוות המחקר של Threat Research Center חקר את המנגנונים הנסתרים של Google Authenticator, שירות האוטנטיפיקציה הבלתי-סודית של Google. הם חקרו את הארכיטקטורה האחורי של Google Authenticator ואת הדרך שבה היא מספקת אוטנטיפיקציה בלתי-סודית.",
+    "details_he": "הצוות של Threat Research Center חקר את הארכיטקטורה של Google Authenticator ואת הדרך שבה היא מספקת אוטנטיפיקציה בלתי-סודית. הם גילו שהשירות משתמש בטכנולוגיית FIDO ו-W3C, אך הם גם גילו שהשירות נותן סמכות למערכות ההפעלה ולשרתים לבצע פעולות בטוחות. הם גם גילו שהשירות נותן סמכות למשתמשים לבצע פעולות בטוחות, כגון הגדרת סודות והגדרת זכויות. הצוות חקר גם את האפשרויות לפגיעה בשירות ואת האפשרויות להגנה נגד פגיעה."
+  },
+  {
+    "id": "571a3ceb258fe761",
+    "title_original": "KICS GitHub Action Compromised: TeamPCP Strikes Again in Supply Chain Attack",
+    "url": "https://www.wiz.io/blog/teampcp-attack-kics-github-action",
+    "description": "Checkmarx KICS scanner is the latest victim of a credential-stealing supply chain attack by TeamPCP. Between 12:58–16:50 UTC on March 23, 35 tags were hijacked. Learn how to audit your workflows, identify malicious activity, and secure your GitHub Actions.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-23T17:38:41+00:00",
+    "fetched_at": "2026-03-24T07:39:33.720597+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/teampcp-attack-kics-github-action"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "KICS GitHub Action Compromised: TeamPCP Strikes Again in Supply Chain Attack",
+    "summary_he": "ב-23 במרץ, קבוצת TeamPCP השתלטה על GitHub Action של KICS, סקאנר בטיחות לקוד מערכת תשתית. הקבוצה, שגם השתלטה על Trivy, דחקה קוד זדוני שגנב זהויות.",
+    "details_he": "הקבוצה, TeamPCP, השתלטה על GitHub Action של KICS, סקאנר בטיחות לקוד מערכת תשתית, ודחקה קוד זדוני שגנב זהויות. הקבוצה, שגם השתלטה על Trivy, דחקה קוד זדוני שגנב זהויות. הקוד הזדוני נכנס לשימוש ב-23 במרץ, בין 12:58 ל-16:50 UTC. הרפאלקטורים חזרו על המקרה, והקבוצה חזרה והשתלטה על ast-github-action. הקבוצה גם השתלטה על OpenVSX extensions, cx-dev-assist ו-ast-results."
+  },
+  {
+    "id": "201f2a231295dcfd",
+    "title_original": "Introducing the Wiz Red Agent- AI-Powered Attacker",
+    "url": "https://www.wiz.io/blog/introducing-the-wiz-red-agent",
+    "description": "Red Agent is an AI-powered, context-aware attacker that uncovers complex exploitable risks across your entire attack surface, continuously and at scale.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-23T16:46:00+00:00",
+    "fetched_at": "2026-03-24T07:39:33.720597+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-the-wiz-red-agent"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing the Wiz Red Agent- AI-Powered Attacker",
+    "summary_he": "Wiz השיקה את Red Agent, כלי חדש לגילוי חולשות ב-API ובקוד AI-גורר. ה-Red Agent משתמש ב- AI כדי לגלות חולשות ב-API ובקוד AI-גורר, שהיו קשות לגילוי עד כה.",
+    "details_he": "Wiz השיקה את Red Agent, כלי חדש לגילוי חולשות ב-API ובקוד AI-גורר. ה-Red Agent משתמש ב-AI כדי לגלות חולשות ב-API ובקוד AI-גורר, שהיו קשות לגילוי עד כה. בבדיקות מוקדמות, ה-Red Agent גילה חולשות קריטיות שלא נכבדו באמצעות חיפוש ידני, ניסויי חדירה ותוכנית פרסום חולשות. ה-Red Agent גילה חולשות אישור קריטיות בשירותים שבהם התקינויות ידניות ותוכנית פרסום חולשות לא גילו. ה-Red Agent נמצא ככלי חדשני שמסוגל לגלות חולשות שאין להן סימנים קבועים."
+  },
+  {
+    "id": "ffc084318493d621",
+    "title_original": "Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/23/case-study-predictive-shielding-defender-stopped-gpo-based-ransomware-before-started/",
+    "description": "Microsoft Defender stopped a human-operated ransomware attack that abused Group Policy Objects (GPOs) to disable defenses and push encryption at scale. This case study breaks down the attacker’s playbook and shows how predictive shielding hardened 700 devices in time, resulting in zero GPO-based encryptions and blocking most of the attempted impact.The postCase study: How predictive shielding in Defender stopped GPO-based ransomware before it startedappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-23T16:00:00+00:00",
+    "fetched_at": "2026-03-24T07:39:29.740093+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/23/case-study-predictive-shielding-defender-stopped-gpo-based-ransomware-before-started/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started",
+    "summary_he": "Microsoft Defender הצליח לעצור פגיעה בסקאלה של ראנסומאר GPO, על ידי חימום 700 מכשירים בזמן. המתקפה הייתה חוקרת ונעשתה על ידי אדם.",
+    "details_he": "המתקפה הייתה חוקרת והשתמשה ב-Group Policy Objects (GPOs) כדי לאפשר לתוקף להפעיל ראנסומאר. Microsoft Defender הצליח לעצור את המתקפה באמצעות Predictive Shielding, שהחימום 700 מכשירים. כתוצאה מכך, המתקפה לא הצליחה להציב ראנסומאר GPO כלל, וגם הצליחה למנוע רוב ההשפעה של המתקפה."
+  },
+  {
+    "id": "0bd2ef6ec72c683d",
+    "title_original": "Where Cato Sits in the AI Economy",
+    "url": "https://www.catonetworks.com/blog/where-cato-sits-in-the-ai-economy/",
+    "description": "Every major technological shift reshapes the landscape, creating both winners and losers. AI will be no different. The key question is which companies are positioned to capture the value it generates, and which ones may fall behind as it unfolds. If you look at previous technology shifts, the winners were not always the companies building...The postWhere Cato Sits in the AI Economyappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-03-23T14:34:55+00:00",
+    "fetched_at": "2026-03-24T07:39:38.101868+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/where-cato-sits-in-the-ai-economy/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Where Cato Sits in the AI Economy",
+    "summary_he": "Shlomo Kramer מסביר כי האי-אסי ישנה את האקו-סיסטם הסייבר, וכי חברות הסייבר יהיו גורם חשוב באי-אסי. הוא גם מסביר כי האי-אסי תשנה את האקו-סיסטם הסייבר, וכי חברות הסייבר יהיו גורם חשוב באי-אסי.",
+    "details_he": "Shlomo Kramer מסביר כי האי-אסי תשנה את האקו-סיסטם הסייבר, וכי חברות הסייבר יהיו גורם חשוב באי-אסי. הוא גם מסביר כי האי-אסי תשנה את האקו-סיסטם הסייבר כיוון שהיא תצורף סייבר סקיוריטי לכל פעילות האי. כך, חברות הסייבר יוכלו לספק סייבר סקיוריטי יעיל ומהיר. Shlomo Kramer גם מסביר כי האי-אסי תשנה את האקו-סיסטם הסייבר כיוון שהיא תצורף סייבר סקיוריטי לכל פעילות האי, וכך, חברות הסייבר יוכלו לספק סייבר סקיוריטי יעיל ומהיר."
+  }
+]
