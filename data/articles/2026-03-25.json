@@ -1,0 +1,212 @@
+[
+  {
+    "id": "68166b0f1bc9bc26",
+    "title_original": "Helping developers build safer AI experiences for teens",
+    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-24T11:00:00+00:00",
+    "fetched_at": "2026-03-25T07:38:19.939232+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Helping developers build safer AI experiences for teens",
+    "summary_he": "OpenAI השיקה תקנוני בטיחות למפתחים לבניית חוויות AI מבוטנות יותר לנוער. התקנונים נועדו לסייע במניעת סיכונים גיל-אופי במערכות AI.",
+    "details_he": "OpenAI השיקה תקנוני בטיחות למפתחים, המכונים gpt-oss-safeguard, כדי לעזור בבניית חוויות AI מבוטנות יותר לנוער. התקנונים נועדו לסייע במניעת סיכונים גיל-אופי במערכות AI, ולאפשר למפתחים לבנות מערכות AI שיהיו יותר חסונות ובטוחות. התקנונים יכולים לסייע במניעת סיכונים כגון חשיפה לתוכן לא ראוי לנוער."
+  },
+  {
+    "id": "597bd5a8969a5cc4",
+    "title_original": "Update on the OpenAI Foundation",
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-24T09:00:00+00:00",
+    "fetched_at": "2026-03-25T07:38:19.939232+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/update-on-the-openai-foundation"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Update on the OpenAI Foundation",
+    "summary_he": "הקרן של OpenAI הכריזה על תוכנית להשקיע לפחות 1 מיליארד דולר בטיפול במחלות, הזדמנויות כלכליות, עמידות בפני AI ותוכניות קהילתיות.",
+    "details_he": "הקרן של OpenAI תשקיע בפרויקטים שונים, כולל טיפול במחלות, תוכניות להגברת הזדמנויות כלכליות, פיתוח עמידות בפני AI ותוכניות קהילתיות. תוכנית זו צפויה להשפיע על חיי רבים. הקרן של OpenAI נוסדה כדי לקדם פיתוח AI."
+  },
+  {
+    "id": "aaf2cacb2d50ccd9",
+    "title_original": "Powering product discovery in ChatGPT",
+    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-24T09:00:00+00:00",
+    "fetched_at": "2026-03-25T07:38:19.939232+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/powering-product-discovery-in-chatgpt"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Powering product discovery in ChatGPT",
+    "summary_he": "ChatGPT השיקה תכונה חדשה לחיפוש מוצרים, המאפשרת חיפוש, השוואה ושילוב עם ספקים.",
+    "details_he": "כחלק מהשיפור, ChatGPT מאפשרת חיפוש והשוואה בין מוצרים, כמו גם שילוב עם ספקים. תכונה זו תסייע ללקוחות למצוא מוצרים נוחים יותר. השיפור נובע מהשימוש ב-Agentic Commerce Protocol."
+  },
+  {
+    "id": "b75ad54ce1c634b7",
+    "title_original": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
+    "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
+    "description": "Artificial intelligence has rapidly emerged as one of the most critical workloads in modern computing. For the vast majority of enterprises, this workload runs on Kubernetes, an open source platform that automates the deployment, scaling and management of containerized applications. To help the global developer community manage high-performance AI infrastructure with greater transparency and efficiency, […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-24T08:00:12+00:00",
+    "fetched_at": "2026-03-25T07:38:22.489843+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
+    "summary_he": "NVIDIA השיקה דרייבר לבינה מלאכותית חדש, NVIDIA Dynamic Resource Allocation Driver for GPUs, שתורם לקהילת Kubernetes. הדרייבר, שנתרם ל-Cloud Native Computing Foundation, מאפשר ניהול יעיל יותר של משאבי GPU.",
+    "details_he": "NVIDIA השיקה דרייבר לבינה מלאכותית חדש, NVIDIA Dynamic Resource Allocation Driver for GPUs, שתורם לקהילת Kubernetes. הדרייבר, שנתרם ל-Cloud Native Computing Foundation, מאפשר ניהול יעיל יותר של משאבי GPU. זה יאפשר למפתחים לנהל GPU בצורה יעילה יותר, ולהגדיל את הקצב של תהליכי חישוב. הדרייבר גם תומך בטכנולוגיות NVIDIA Multi-Process Service ו-NVIDIA Multi-Instance GPU. NVIDIA גם השיקה תמיכה ב-Kata Containers, טכנולוגיה שמאפשרת ריצה של תהליכים באפליקציות נפרדות, וזאת כדי להגדיל את הביטחון של המערכת. NVIDIA רואה בזאת חלק ממאמציה לקדם את הבינה המלאכותית ולהפוך אותה לזמינה יותר."
+  },
+  {
+    "id": "c538eff4585c48fa",
+    "title_original": "מה זה שמה בשמיים? עוד כטב\"מ שמשבית דאטה-סנטר של אמזון",
+    "url": "https://www.geektime.co.il/amazon-aws-data-center-hit-by-drone/",
+    "description": "מה זה שמה בשמיים? לא ציפור ולא מטוס – זה כלי טיס בלתי מאויש איראני, שגורם שוב לפגיעה בפעילות השוטפת של דאטה-סנטר של אמזון באיזור המפרץ. אמזון חשפה אתמול (ג') כי שירותי AWS, חטיבת מחשוב הענן שלה, חוו תקלות שונות ביממה האחרונה אחרי עוד פגיעה כחלק מהמלחמה עם איראן. על פי דובר של החברה, ששוחח עם […]The postמה זה שמה בשמיים? עוד כטב\"מ שמשבית דאטה-סנטר של אמזוןappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-25T06:59:42+00:00",
+    "fetched_at": "2026-03-25T07:38:44.600598+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/amazon-aws-data-center-hit-by-drone/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מה זה שמה בשמיים? עוד כטב\"מ שמשבית דאטה-סנטר של אמזון",
+    "summary_he": "אמזון חשפה תקלות בשירותי AWS בעקבות פגיעה של כטב\"מ איראני בדאטה-סנטר שלה בבחריין, כשבעבר כבר קרסו שירותי הענן שלה במספר אזורים לאחר פגיעה דומה.",
+    "details_he": "אמזון חשפה תקלות בשירותי AWS בעקבות פגיעה של כטב\"מ איראני בדאטה-סנטר שלה בבחריין, כשבעבר כבר קרסו שירותי הענן שלה במספר אזורים לאחר פגיעה דומה. החברה אישרה כי הפגיעה בשירותי AWS ארעה כתוצאה מפגיעה של כלי טיס בלתי מאויש בדאטה-סנטר שלה בבחריין. אמזון סייעה ללקוחותיה בהעברתם ל-Regions אחרים עד שהדאטה-סנטר תחזור לפעילות מלאה. החברה לא מסרה מה היה היקף הנזק של הפגיעה החדשה בתשתיות שלה, כיצד הוא בדיוק נגרם, ומתי השירותים יחזרו לפעול."
+  },
+  {
+    "id": "21863741b5bfc5b2",
+    "title_original": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/",
+    "description": "Threat actors abused trusted Trivy distribution channels to inject credential‑stealing malware into CI/CD pipelines worldwide. This analysis walks through the Trivy supply‑chain compromise, attacker techniques, and concrete steps security teams can take to detect and defend against similar attacks.The postGuidance for detecting, investigating, and defending against the Trivy supply chain compromiseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-25T00:03:03+00:00",
+    "fetched_at": "2026-03-25T07:38:30.626289+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
+    "summary_he": "תקציר: תוקפים ניצלו תעבורות ספקים אמות מוניטין של Trivy כדי להזרים תוכנת זדון-מסתורין לקווי CI/CD ברחבי העולם. זאת ניתוח שמציג את הפעולות של התוקפים, טכניקות וצעדים פרטיים שצוותי ביטחון יכולים לנקוט כדי לזהות ולהגן על עצמם מפני תקיפות דומות.",
+    "details_he": "בעקבות פעולות התוקפים, צוותי ביטחון צריכים לבדוק את קווי CI/CD שלהם ולבדוק אם ישנה תוכנת זדון-מסתורין. כדי להגן על עצמם, צוותי ביטחון צריכים לבדוק את תעבורות הספקים שלהם ולבצע עדכונים. זאת חשובה, שכן תוקפים יכולים לנצל תעבורות אלה כדי להזרים תוכנת זדון-מסתורין."
+  },
+  {
+    "id": "993c0d0b8107ab98",
+    "title_original": "Threat Brief: Recruiting Scheme Impersonating Palo Alto Networks Talent Acquisition Team",
+    "url": "https://unit42.paloaltonetworks.com/phishing-attackers-pose-as-panw-recruiters/",
+    "description": "Unit 42 identifies a recruitment phishing campaign targeting senior professionals via impersonation and fraudulent resume fees.The postThreat Brief: Recruiting Scheme Impersonating Palo Alto Networks Talent Acquisition Teamappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-24T22:00:12+00:00",
+    "fetched_at": "2026-03-25T07:38:32.728989+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/phishing-attackers-pose-as-panw-recruiters/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Recruiting Scheme Impersonating Palo Alto Networks Talent Acquisition Team",
+    "summary_he": "Unit 42, a threat research center, has identified a sophisticated phishing campaign where attackers impersonate Palo Alto Networks talent acquisition staff to target senior-level professionals. The attackers use scraped LinkedIn data to craft personalized lures and create a bureaucratic barrier to the recruitment process, ultimately offering to assist the candidate for a fee.",
+    "details_he": "The phishing campaign, which began in August 2025, involves initial outreach where attackers pose as company representatives to establish rapport with senior candidates. The attackers then use social engineering tactics to falsely claim that a candidate's resume failed to meet the applicant tracking system (ATS) requirements, offering to bridge this manufactured barrier for a fee. The attackers use flattering language, highly specific details from the victim's LinkedIn profile, and legitimate company image logos to make the emails appear legitimate. The Unit 42 Incident Response team can be engaged to help with a compromise or to provide a proactive assessment to lower the risk."
+  },
+  {
+    "id": "4aa41a3cd7196056",
+    "title_original": "Three’s a Crowd: TeamPCP trojanizes LiteLLM in Continuation of Campaign",
+    "url": "https://www.wiz.io/blog/threes-a-crowd-teampcp-trojanizes-litellm-in-continuation-of-campaign",
+    "description": "LiteLLM is the latest victim of TeamPCP’s open-source attack spree. Malicious versions 1.82.7 and 1.82.8 abuse Python’s .pth mechanism for stealthy persistence. The malware exfiltrates cloud credentials, CI/CD secrets, and keys to attacker-controlled domains.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-24T18:40:52+00:00",
+    "fetched_at": "2026-03-25T07:38:34.780432+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/threes-a-crowd-teampcp-trojanizes-litellm-in-continuation-of-campaign"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Three’s a Crowd: TeamPCP trojanizes LiteLLM in Continuation of Campaign",
+    "summary_he": "TeamPCP's campaign against open-source projects continues with the compromise of LiteLLM, a Python library and proxy server, which has been used in 36% of cloud environments.",
+    "details_he": "LiteLLM, an open-source Python library and proxy server, was compromised by TeamPCP, a malicious actor, in a continuation of their campaign targeting the open-source ecosystem. The compromised packages, LiteLLM 1.82.7 and 1.82.8, were published on PyPI on March 24, 2026, and were quarantined by PyPI at 11:25 UTC. The malicious packages employed two different methods to deliver their payload, including the use of a double base64 encoded payload and the abuse of Python's .pth file mechanism, which allows arbitrary code execution during interpreter initialization. The malicious code collects extensive data from the host, including environment variables, API keys, and cloud credentials, and exfiltrates it to an attacker-controlled domain."
+  },
+  {
+    "id": "fd9303f84ff42d24",
+    "title_original": "Governing AI agent behavior: Aligning user, developer, role, and organizational intent",
+    "url": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/governing-ai-agent-behavior-aligning-user-developer-role-and-organizational-inte/4503551",
+    "description": "This research report explores the layers of agent intent and how to align them for secure enterprise AI adoption.The postGoverning AI agent behavior: Aligning user, developer, role, and organizational intentappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-03-24T17:00:00+00:00",
+    "fetched_at": "2026-03-25T07:38:30.626289+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/governing-ai-agent-behavior-aligning-user-developer-role-and-organizational-inte/4503551"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Governing AI agent behavior: Aligning user, developer, role, and organizational intent",
+    "summary_he": "Microsoft researchers are working on a solution to ensure AI agents align with user, developer, role, and organizational intent, which is crucial for secure enterprise AI adoption.",
+    "details_he": "The researchers identified four layers of intent that must be aligned: user intent, developer intent, role-based intent, and organizational intent. User intent refers to the goal or task the user is trying to accomplish, while developer intent is the purpose for which the agent was designed and built. Role-based intent is the specific function the agent performs within an organization, and organizational intent is enterprise policies, standards, and operational constraints. Proper intent alignment is essential for ensuring AI agents deliver quality results, maintain their intended goal, and uphold security and compliance."
+  },
+  {
+    "id": "466a70444f14ee75",
+    "title_original": "WebPromptTrap – New Indirect Prompt Injection Vulnerability in BrowserOS",
+    "url": "https://www.catonetworks.com/blog/webprompttrap-new-indirect-prompt-injection-vulnerability/",
+    "description": "Executive Summary Cato researchers have discovered a new indirect prompt injection exploit pattern workflow in BrowserOS (an open-source agentic AI browser). We named it “WebPromptTrap” because the prompt originates from untrusted web content and it traps users into approving an authorization step through a trusted-looking AI summary. The flaw was identified in BrowserOS Agent (Chat...The postWebPromptTrap – New Indirect Prompt Injection Vulnerability in BrowserOSappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-03-24T07:40:58+00:00",
+    "fetched_at": "2026-03-25T07:38:39.035361+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/webprompttrap-new-indirect-prompt-injection-vulnerability/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "WebPromptTrap – New Indirect Prompt Injection Vulnerability in BrowserOS",
+    "summary_he": "חוקרי Cato גילו חולשה חדשה ב-BrowserOS, שמאפשרת לתוקף להשתלט על זיכרונות המשתמש ולגישה למידע רגיש. החולשה, שנקראת WebPromptTrap, מאפשרת לתוקף לשלוט בפלט התוצאות של מנוע החיפוש, ולהציג למשתמש תוצאות מזויפות.",
+    "details_he": "חוקרי Cato גילו חולשה ב-BrowserOS, שמאפשרת לתוקף להשתלט על זיכרונות המשתמש ולגישה למידע רגיש. החולשה, שנקראת WebPromptTrap, נמצאה ב-BrowserOS Agent, ומאפשרת לתוקף לשלוט בפלט התוצאות של מנוע החיפוש. התוקף יכול לשלוט בתוצאות כדי להציג למשתמש תוצאות מזויפות, ולגרום לו לאשר גישה למידע רגיש. החולשה נמצאה ב-BrowserOS version 0.29.0, ואפקטיבית ב-BrowserOS versions 0.30.0 ולפניה. ה-BrowserOS team כבר פרסם גרסה תקינה, BrowserOS version 0.32.0."
+  }
+]
