@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ad0e15573ca2d398",
+    "title_original": "The Future of AI Is Open and Proprietary",
+    "url": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
+    "description": "AI is the defining technology of our time, quickly becoming core business infrastructure. It’s fueled by a diverse ecosystem of models: large and small, open and proprietary, generalist and specialist.  This variety is essential for a future where every application will be powered by AI, every country will build it and every company will use […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-25T19:00:04+00:00",
+    "fetched_at": "2026-03-26T07:46:54.154790+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Future of AI Is Open and Proprietary",
+    "summary_he": "The future of AI innovation is not about a single massive model, but rather a diverse ecosystem of models that can be combined to solve specific business problems. This variety is essential for a future where AI powers every application, every country builds it, and every company uses it.",
+    "details_he": "NVIDIA's CEO Jensen Huang emphasized that the future of AI is not a debate between open and closed innovation, but rather a combination of both. The company has contributed significantly to open source AI, with nearly 4,000 team members on Hugging Face. NVIDIA also announced the NVIDIA Nemotron Coalition, a global collaboration of model builders and AI labs working to advance open, frontier-level foundation models. The coalition's first project will be a base model codeveloped by Mistral AI and NVIDIA, with coalition members contributing data, evaluations, and domain expertise to support the model's post-training and continued development."
+  },
+  {
+    "id": "675fa3b146ca860b",
+    "title_original": "Lyria 3 Pro: Create longer tracks in more",
+    "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-03-25T16:01:39+00:00",
+    "fetched_at": "2026-03-26T07:46:52.098023+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Lyria 3 Pro: Create longer tracks in more",
+    "summary_he": "Google DeepMind השיקה את Lyria 3 Pro, המאפשרת יצירת שירים ארוכים יותר עם מודעות תפקודית. זה גם ניתן להשגה במוצרים נוספים של Google.",
+    "details_he": "Lyria 3 Pro היא גרסה מתקדמת של המודל ליוצרת מוזיקה, המאפשרת יצירת שירים באורך של עד 3 דקות. היא גם מבינה טוב יותר את המלודיה, ואפשרה להזמין אלמנטים ספציפיים כגון פתיח, פזמון וגשר. זה נועד לספק ליוצרים יותר שליטה ואפשרויות יצירתיות. Lyria 3 Pro ניתנת להשגה במוצרים נוספים של Google, כולל Vertex AI, Google AI Studio, Google Vids, Gemini app ו-ProducerAI."
+  },
+  {
+    "id": "ada48b134b812172",
+    "title_original": "Build with Lyria 3, our newest music generation model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+    "description": "Google Lyria teaser",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-25T16:00:00+00:00",
+    "fetched_at": "2026-03-26T07:46:52.616136+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Build with Lyria 3, our newest music generation model",
+    "summary_he": "Google DeepMind השיקה את Lyria 3, דגם חדש לייצור מוזיקה, שעתה זמין למפתחים בתצוגה ציבורית.",
+    "details_he": "Lyria 3, דגם הייצור המוזיקלי החדש של Google DeepMind, מאפשר למפתחים לבנות אפליקציות שמציעות רצועות מוזיקליות באיכות גבוהה, כולל קולות, פזמונים וקורוסים, שמחזיקות בהתאמה מוזיקלית מהראשון ועד האחרון. הדגם כולל שני גרסאות: Lyria 3 Pro, שמיועד לייצור שירים מלאים, ו-Lyria 3 Clip, שמיועד לייצור קטעי מוזיקה קצרים. הדגם תומך בשפות רבות וסגנונות, ומאפשר למפתחים לבצע שליטה גרנולרית במודל."
+  },
+  {
+    "id": "2d3939011031c249",
+    "title_original": "Lyria 3 Pro: Create longer tracks in more Google products",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+    "description": "Sizzle video showing new capabilities from Lyria 3 Pro",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-25T16:00:00+00:00",
+    "fetched_at": "2026-03-26T07:46:52.616136+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Lyria 3 Pro: Create longer tracks in more Google products",
+    "summary_he": "Google DeepMind הציגה את Lyria 3 Pro, שמאפשרת יצירת שירים ארוכים יותר עם הבנה סטרוקטורלית. הדגם המתקדם נוסף למוצרי Google נוספים ופניות.",
+    "details_he": "Lyria 3 Pro מאפשרת יצירת שירים באורך עד 3 דקות, עם תכונות ושליטה יצירתית. הדגם המתקדם של Lyria מבין הרכבה המוזיקלית, ואפשר לפקד על יסודות ספציפיים כגון פתיח, פזמון, קורוס וגשר. זה נועד להצטיין בניסיון שונה או ביצירת שירים עם תנועות מורכבות. Lyria 3 Pro נוספה למוצרי Google נוספים, כולל Vertex AI, Google AI Studio, Google Vids, Gemini app ו-ProducerAI."
+  },
+  {
+    "id": "6480e11c4732e03a",
+    "title_original": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
+    "url": "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/",
+    "description": "At the half-time whistle of the UEFA EURO 2020 round of 16 football match between England and Germany, millions of viewers stepped away from their screens in the U.K. to do the same thing at the same time — turn on their kettles. National Grid, which provides electricity for England and Wales, saw a demand […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-03-25T11:00:00+00:00",
+    "fetched_at": "2026-03-26T07:46:54.154790+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
+    "summary_he": "מערכות AI מתפלגות-כוח יכולות לאזן את הרשת החשמלית העולמית, כפי שהוצג במאמר חדש של Emerald AI. הפתרון כולל שימוש במערכות AI שיכולות לשנות את צריכת הכוח שלהן בעת הצורך.",
+    "details_he": "המערכת, הנקראת Emerald AI Conductor Platform, כבר עברה ניסויים מוצלחים במפעלי AI באריזונה, וירג'יניה ואילינוי. המערכת נבחנה גם במפעל AI חדש בלונדון, שהוקם על ידי Nebius, ומשתמש בתשתיות NVIDIA. המערכת יכולה לשנות את צריכת הכוח שלה בעת הצורך, כדי לסייע לרשת החשמלית לשמור על האיזון. המערכת יכולה לסייע לשמור על מחירי החשמל זולים יותר, ולמנוע את הצורך בבניית תשתיות חדשות."
+  },
+  {
+    "id": "ff770b3c2f754b19",
+    "title_original": "Introducing Wiz Workflows: Your path to building a self healing cloud",
+    "url": "https://www.wiz.io/blog/introducing-wiz-workflows",
+    "description": "Orchestrate customizable workflows with agents, enabling end-to-end discovery and response in Wiz",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-25T17:17:03+00:00",
+    "fetched_at": "2026-03-26T07:47:09.043009+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-workflows"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Wiz Workflows: Your path to building a self healing cloud",
+    "summary_he": "Wiz Workflows מאפשרת לקבוצות לבנות תהליכים עצמאיים של טיפול בבטיחות על ידי השלבת זיהוי ופעולה, כאשר התהליכים יכולים להיות מותאמים ומורכבים.",
+    "details_he": "Wiz Workflows היא תכונה של Wiz שמאפשרת לקבוצות לבנות תהליכים עצמאיים של טיפול בבטיחות. התכונה משלבת זיהוי ופעולה, ומאפשרת לקבוצות להשלב את התהליכים ב-Wiz. Wiz Workflows משתמשת באינטליגנציה של Security Graph, כולל תגיות של משאבים, קוד-לענן, פרויקטים, קטלוג שירותים ונתוני CMDB, כדי לזהות את הבעלים הנכונים ולשלוח Issues, Threats או Posture Issues עם ההקשר הנדרש לפעול. Wiz Workflows מאפשרת לקבוצות לשלב טריגרים, רגולציות, אישורים, התראות, רסקאנים ותיקונים לתהליך אחד."
+  },
+  {
+    "id": "61298fe10254c930",
+    "title_original": "Identity security is the new pressure point for modern cyberattacks",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/25/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/",
+    "description": "Read the latest Microsoft Secure Access report for insights into why a unified identity and access strategy offers strong modern protection.The postIdentity security is the new pressure point for modern cyberattacksappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-25T16:00:00+00:00",
+    "fetched_at": "2026-03-26T07:47:04.237538+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/25/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Identity security is the new pressure point for modern cyberattacks",
+    "summary_he": "בעולם הצבאי הסיבילי, האיום החדש הוא זה של אבטחת זהות, שאינו רק על זהות האדם, אלא גם על הגישה שלה למערכות ולמשאבים.",
+    "details_he": "בעולם הצבאי הסיבילי, האיום החדש הוא זה של אבטחת זהות, שאינו רק על זהות האדם, אלא גם על הגישה שלה למערכות ולמשאבים. ככל שהארגונים מנהלים כמות גדולה יותר של זהויות אנושיות, לא-אנושיות וזהויות אגנטיות, גודל הגישה שלהם לאפליקציות, למשאבים ולסביבות גדל, מה שהופך את התפעול הפעיל למורכב יותר לצוותי הזהות והסיכון לצוותי הביטחון. האתגר אינו רק בגודל, אלא גם בשברות. מחקר חדש של Microsoft מצא ש-32% מהארגונים אומרים שהם ישנו פתרונות של ניהול גישה כפול, ו-40% אומרים שהם ישנו יותר מ-10 ספקים שונים. השברות הזאת עבור ספקי הביטחון עושה את זה קשה יותר לשמור על כלים סבירים ולתאם סיכון לזהויות."
+  },
+  {
+    "id": "1e2186646babf893",
+    "title_original": "North America’s Cyber Security Threat Reality in 2026",
+    "url": "https://blog.checkpoint.com/research/north-americas-cyber-security-threat-reality-in-2026/",
+    "description": "The North America cyber security statistics are out. Cyber risk in North America accelerated, concentrated, and repeated itself at scale in 2025. Data from the 2025 North America Threat Landscape Report shows a threat environment defined less by surprise and more by pressure. The same attack types, the same actors, and the same windows of opportunity appeared again and again, particularly in the United States, which accounted for roughly 93 percent of all recorded incidents in the Americas (note: this is all publicly recorded incidents, not attempted attacks).  Three dynamics stand out, each shaping how organizations experienced risk over the past year and what they should expect next.  The extortion economy is stable, competitive, and […]The postNorth America’s Cyber Security Threat Reality in 2026appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-25T12:00:55+00:00",
+    "fetched_at": "2026-03-26T07:47:19.218331+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/north-americas-cyber-security-threat-reality-in-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "North America’s Cyber Security Threat Reality in 2026",
+    "summary_he": "בשנת 2025, סבלה צפון אמריקה מהתקפות סייבר שהתחזקו, התרכזו וחודשו בקנה מידה גדול. רוב ההתקפות היו רansomware, שהפך למנוע העיקרי של פגיעה פעילה ופיננסית באזור.",
+    "details_he": "הדו\"ח האזורי 2025 על תצורת האיום בצפון אמריקה חשף תפוצה גבוהה של רansomware, שהפך למנוע העיקרי של פגיעה פעילה ופיננסית באזור. רוב ההתקפות היו רansomware, שהפך למנוע העיקרי של פגיעה פעילה ופיננסית באזור. רוב ההתקפות היו רansomware, שהפך למנוע העיקרי של פגיעה פעילה ופיננסית באזור. ה-United States היה אחראי לכ-93% מכל ההתקפות המאוחסנות באמריקה. רוב ההתקפות היו רansomware, שהפך למנוע העיקרי של פגיעה פעילה ופיננסית באזור."
+  },
+  {
+    "id": "2737c6eec1177808",
+    "title_original": "Anatomy of a Cyber World Global Report 2026",
+    "url": "https://securelist.com/global-report-security-services-2026/119233/",
+    "description": "The Kaspersky Security Services report describes cyberattack trends and statistics revealed by the Managed Detection and Response service. The report also includes Incident Response findings based on real-world cases identified and mitigated in 2025.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-03-25T11:00:56+00:00",
+    "fetched_at": "2026-03-26T07:47:06.984940+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/global-report-security-services-2026/119233/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anatomy of a Cyber World Global Report 2026",
+    "summary_he": "Kaspersky Security Services published a comprehensive report on global cybersecurity trends, highlighting the importance of timely threat detection and incident response. The report analyzed data from various services, including Managed Detection and Response, Incident Response, Compromise Assessment, and SOC Consulting, to provide insights into corporate information security worldwide.",
+    "details_he": "The report found that the majority of customers for Kaspersky's MDR and IR services are located in the CIS, the Middle East, and Europe. In 2025, the MDR infrastructure processed an average of 15,000 telemetry events per host every day, generating approximately 400,000 security alerts. After investigating false positives, 39,000 alerts were further analyzed. The report also noted that government and industrial organizations remain the most targeted industries in regards to cyberattacks, while the IT sector saw a growth in incident response requests, replacing financial organizations in the rankings."
+  },
+  {
+    "id": "8d098115091c3f01",
+    "title_original": "ISC Stormcast For Thursday, March 26th, 2026 https://isc.sans.edu/podcastdetail/9866, (Thu, Mar 26th)",
+    "url": "https://isc.sans.edu/diary/rss/32832",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-03-26T02:00:02+00:00",
+    "fetched_at": "2026-03-26T07:47:03.780917+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32832"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Thursday, March 26th, 2026 https://isc.sans.edu/podcastdetail/9866, (Thu, Mar 26th)",
+    "summary_he": "SANS Internet Storm Center released its weekly podcast for Thursday, March 26th, 2026, providing updates on the latest cybersecurity threats and trends.",
+    "details_he": "The ISC Stormcast podcast is a weekly series that offers insights and analysis on various cybersecurity topics, including vulnerabilities, malware, and emerging threats. The podcast is a valuable resource for cybersecurity professionals and enthusiasts alike, providing timely information to help them stay informed and prepared. By leveraging the expertise of the SANS Internet Storm Center, the podcast offers a unique perspective on the ever-evolving cybersecurity landscape."
+  }
+]
