@@ -1,0 +1,216 @@
+[
+  {
+    "id": "80c1ec7daa8ded30",
+    "title_original": "AsgardBench: A benchmark for visually grounded interactive planning",
+    "url": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+    "description": "Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don’t go as expected, for example, when the mug it was tasked to wash is already clean, or the sink is full of other items. This is the domain of embodied AI: systems […]The postAsgardBench: A benchmark for visually grounded interactive planningappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-03-26T19:02:53+00:00",
+    "fetched_at": "2026-03-27T07:46:20.882639+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AsgardBench: A benchmark for visually grounded interactive planning",
+    "summary_he": "AsgardBench is a new benchmark designed to evaluate the ability of embodied AI agents to adapt their plans based on visual feedback. The benchmark requires agents to complete household tasks while observing their environment through images and adjusting their plans accordingly. This allows researchers to isolate the agent's ability to use visual observations to revise its plans.",
+    "details_he": "AsgardBench is built on the AI2-THOR simulation environment and consists of 108 controlled task instances across 12 task types. Agents are positioned near objects and given a fixed set of actions, such as finding, picking up, putting down, cleaning, and toggling on/off. At each turn, the agent proposes a full sequence of steps to complete the task, but only the first step executes. The focus is on plan adaptation, not navigation or object manipulation, allowing researchers to evaluate the agent's ability to use visual observations to revise its plans."
+  },
+  {
+    "id": "714b72c7d42f2d11",
+    "title_original": "Watch James Manyika talk AI and creativity with LL COOL J.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+    "description": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-26T17:00:00+00:00",
+    "fetched_at": "2026-03-27T07:46:20.513987+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Watch James Manyika talk AI and creativity with LL COOL J.",
+    "summary_he": "LL COOL J ו- James Manyika דנו בפוטנציאל של AI להפוך את האמנות ליותר דמוקרטית.",
+    "details_he": "LL COOL J ו- James Manyika, סגן נשיא Google למחקר, לאבס, טכנולוגיה וחברה, נפגשו בפרק האחרון של סדרת 'Dialogues on Technology and Society'. הם דנו בהתפתחות של יצירתיות וטכנולוגיה, ו-LL COOL J תיאר את השינויים שחווה ב-40 שנותיו כאמן, מכלי תופים ראשונים ועד AI גנרטיבי. הוא רואה פוטנציאל ב- AI להפוך את האמנות ליותר דמוקרטית, אך גם מדגיש את חשיבות ההגנה על 'האור האלוהי' שמעניק ליצירתיות את אותיותיה האנושיות."
+  },
+  {
+    "id": "77ff0e77ed1744aa",
+    "title_original": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+    "url": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+    "description": "Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks […]The postGroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulationappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-03-26T16:03:56+00:00",
+    "fetched_at": "2026-03-27T07:46:20.882639+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+    "summary_he": "GroundedPlanBench, a new benchmark, evaluates whether vision-language models can plan actions and determine locations simultaneously for long, complex tasks. This is crucial for robots to perform tasks accurately and efficiently. The benchmark uses a framework called Video-to-Spatially Grounded Planning, which converts robot demonstration videos into training data.",
+    "details_he": "GroundedPlanBench is a significant advancement in robot manipulation, addressing the limitations of current vision-language models. These models struggle to decide what actions to take and where to take them, often relying on decoupled approaches that can lead to errors. By evaluating both open- and closed-source vision-language models, researchers found that grounded planning improves both task success and action accuracy. The benchmark is built from 308 robot manipulation scenes in the Distributed Robot Interaction Dataset, with tasks written in explicit and implicit instructions. The framework, Video-to-Spatially Grounded Planning, enables models to learn planning and grounding jointly, leading to improved performance in both benchmark and real-world evaluations."
+  },
+  {
+    "id": "e52048c161d5e908",
+    "title_original": "Transform your headphones into a live personal translator on iOS.",
+    "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+    "description": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-26T16:00:00+00:00",
+    "fetched_at": "2026-03-27T07:46:20.513987+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Transform your headphones into a live personal translator on iOS.",
+    "summary_he": "Google Translate's Live Translate feature is expanding its capabilities to more countries and languages, allowing users to instantly understand and connect with the world through their headphones.",
+    "details_he": "The feature, which is now available on iOS, enables users to understand conversations in 70+ languages, including French, German, Italian, Japanese, Spanish, Thai, and English. This can be particularly useful for travelers, allowing them to get recommendations, listen to train announcements, and connect with fellow travelers. Additionally, the feature preserves the original speaker's tone and cadence, making it feel more natural and immersive."
+  },
+  {
+    "id": "9cc8dc5f839100c0",
+    "title_original": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "description": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-03-26T15:21:00+00:00",
+    "fetched_at": "2026-03-27T07:46:20.513987+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "summary_he": "Google הציגה גרסה חדשה של דגם קולי, Gemini 3.1 Flash Live, שמטרתה לשפר את תקשורת הקולית בזמן אמת. הדגם החדש מאפשר תקשורת קולית טבעית ומדויקת יותר.",
+    "details_he": "Gemini 3.1 Flash Live היא דגם הקולי הטוב ביותר של Google, שנועדה לשפר את תקשורת הקולית בזמן אמת. הדגם החדש זמין למפתחים דרך API של Gemini Live ב- Google AI Studio, ולחברות דרך Gemini Enterprise for Customer Experience. כל אחד יכול לחוות אותו דרך Search Live ו-Gemini Live, שכעת תומך בלמעלה מ-200 מדינות. כמו כן, הדגם החדש מאפשר תקשורת קולית טבעית ומדויקת יותר, ומזהה נקודות עיקוש קוליות טוב יותר."
+  },
+  {
+    "id": "cc7297d67d80d196",
+    "title_original": "Threat Brief: March 2026 Escalation of Cyber Risk Related to Iran (Updated March 26)",
+    "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/",
+    "description": "Unit 42 details recent Iranian cyberattack activity, sharing direct observations of phishing, hacktivist activity and cybercrime. We include recommendations for defenders.The postThreat Brief: March 2026 Escalation of Cyber Risk Related to Iran (Updated March 26)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-26T22:10:07+00:00",
+    "fetched_at": "2026-03-27T07:46:39.825629+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: March 2026 Escalation of Cyber Risk Related to Iran (Updated March 26)",
+    "summary_he": "בעקבות המשבר הפוליטי במזרח התיכון, חברת Unit 42 פרסמה תעדוף על פעילות האיום הסייברית שלה. האיומים כוללים תקיפות ויפר, תקיפות פישינג, ופעילות פיראטית.",
+    "details_he": "Unit 42 חקרה פעילות פישינג קשורה לסכסוך וזיהתה 7,381 URL קשורים לפישינג, ו-1,881 הוסטנמיינים ייחודיים. הפעילות כוללת תקיפות פיננסיות, גנבת זהויות, והפצת תוכן פיראטי. האיומים נעשים באמצעות שיטות התחמקות אגיל, כולל סיבוב של תחומי תחום גבוה, רשתות תת-תחום, ותשתיות מיוחדות. הפעילות גם כוללת התערבות באירועים פוליטיים נוכחיים, כדי לגרום לתרומות ולפעילות פיראטית."
+  },
+  {
+    "id": "7aeb6ae52373340f",
+    "title_original": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government",
+    "url": "https://unit42.paloaltonetworks.com/espionage-campaigns-target-se-asian-government-org/",
+    "description": "Unit 42 uncovers multiple clusters of cyberespionage targeting a Southeast Asian government organization with USBFect, RATs and loaders.The postConverging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Governmentappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-03-26T22:00:32+00:00",
+    "fetched_at": "2026-03-27T07:46:39.825629+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/espionage-campaigns-target-se-asian-government-org/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government",
+    "summary_he": "חוקרי יחידת 42 של Palo Alto Networks חשפו קמפיין רצחני של פעילי סייבר אשר ניסו לפרוץ לארגון ממשלתי בדרום-מזרח אסיה. הקמפיין, המכונה 'Stately Taurus', כלל שימוש במל\"ט USB שהפציץ תוכנת PUBLOAD, שהיא חצובה, וכן בכלי רב-תכליתי, 'EggStremeLoader', שהפציץ את ה-Gorem RAT.",
+    "details_he": "במהלך החקירה, נמצאו שני קלסטרים נוספים של פעילות, CL-STA-1048 ו-CL-STA-1049, אשר נראה כי הם עובדו במקביל, ואשר השתמשו בכלים שונים. CL-STA-1048 השתמש בכלי רצחני, EggStremeFuel, Masol ו-EggStreme Loader, בעוד CL-STA-1049 השתמש ב-Hypnosis loader. הקמפיינים נראים כאילו הם עובדו במקביל, ואשר הם יכלו להיות קשורים למבצעים אחרים, כגון 'Cluster Bravo' ו-'Crimson Palace'."
+  },
+  {
+    "id": "bbcba7352ce1c6cf",
+    "title_original": "Introducing the Green Agent: AI-Powered Remediation for the Cloud",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "description": "Accelerate your path to Zero Criticals with AI that investigates, assigns, and guides cloud remediation for you",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-26T13:00:00+00:00",
+    "fetched_at": "2026-03-27T07:46:41.809158+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-green-agent"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing the Green Agent: AI-Powered Remediation for the Cloud",
+    "summary_he": "Wiz השיקה Green Agent, כלי חדש לבקרת אבטחה בעולם הענן, שמשלב טכנולוגיה חדשנית של AI כדי לסייע בפיתוח תוכניות תיקון. ה- Green Agent יכול לחקור סיכונים בעולם הענן, לגלות גורמי סיכון ולהמליץ על תוכניות תיקון.",
+    "details_he": "Wiz השיקה Green Agent, כלי חדש לבקרת אבטחה בעולם הענן. ה- Green Agent משלב טכנולוגיה חדשנית של AI כדי לסייע בפיתוח תוכניות תיקון. ה- Green Agent יכול לחקור סיכונים בעולם הענן, לגלות גורמי סיכון ולהמליץ על תוכניות תיקון. ה- Green Agent יכול ללמוד מהסיכונים שנפתרו ולהמליץ על תוכניות תיקון חדשות. Wiz תמשיך לפתח את ה- Green Agent כדי לשפר את יכולותיו."
+  },
+  {
+    "id": "5bce94f6c5e15349",
+    "title_original": "An AI gateway designed to steal your data",
+    "url": "https://securelist.com/litellm-supply-chain-attack/119257/",
+    "description": "Dissecting the supply-chain attack on LiteLLM – a multifunctional gateway used in many AI agents. Explaining the dangers of the malicious code and how to protect yourself.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-03-26T11:01:38+00:00",
+    "fetched_at": "2026-03-27T07:46:39.923364+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/litellm-supply-chain-attack/119257/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "An AI gateway designed to steal your data",
+    "summary_he": "במהלך שנת 2026, חברי הפיצויים חדרו לספריית LiteLLM, ספרייה פופולרית של Python, והשתלטו עליה. החברי הפיצויים פרסמו גרסאות זדוניות של LiteLLM, שהכניסו קוד זדוני למערכות המשתמשים.",
+    "details_he": "הספרייה LiteLLM היא גשר רב-תכליתי לאי-אג'נטים רבים. החברי הפיצויים פרסמו גרסאות זדוניות של LiteLLM, שהכניסו קוד זדוני למערכות המשתמשים. הקוד הזדוני נועד לגנוב נתונים סודיים ממאגרי הנתונים ולהשתלט על קלסטרים של Kubernetes. הקוד הזדוני גם כלל תכונות לגנוב נתונים סודיים ממזהבים קריפטוגרפיים. הספרייה LiteLLM נשלטה על ידי החברי הפיצויים דרך PyPI, רשת ההפצה של Python. הקוד הזדוני הועבר למערכות המשתמשים דרך שתי גרסאות זדוניות של LiteLLM."
+  },
+  {
+    "id": "486651b7ad807706",
+    "title_original": "Securing Agentic AI: Why Visibility, Behavior, and Guardrails Matter",
+    "url": "https://www.catonetworks.com/blog/securing-agentic-ai/",
+    "description": "Agentic AI is quickly transitioning from experimentation to production. Enterprises are deploying AI agents to interpret goals, decide what actions to take, interact with business tools and APIs, and execute those actions autonomously, with limited or no human oversight. The promise is speed and efficiency, but the proverbial “blast radius” is bigger and fundamentally different...The postSecuring Agentic AI: Why Visibility, Behavior, and Guardrails Matterappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-03-26T09:23:42+00:00",
+    "fetched_at": "2026-03-27T07:46:45.710825+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/securing-agentic-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing Agentic AI: Why Visibility, Behavior, and Guardrails Matter",
+    "summary_he": "Organizations deploying agentic AI must address three critical challenges to secure their systems effectively: visibility and posture, runtime behavior, and guardrails and controls. Without clear visibility into agent inventory and posture, security teams struggle to identify over-privileged agents and risky tool connections.",
+    "details_he": "Agentic AI introduces autonomous behavior, where agents invoke tools via APIs, inherit permissions, process prompts dynamically, and adapt based on context. This requires organizations to understand which agents exist, how they are configured, and what they can do. Without visibility and posture management, security teams can struggle to identify over-privileged agents, risky tool connections or configuration gaps. The second challenge is limited visibility into runtime agent behavior, where agents may behave in unexpected ways despite proper configuration. This highlights the need for guardrails and controls to detect and/or block risk agentic behavior. Cato AI Security delivers value by addressing these challenges and extending beyond agentic AI security alone."
+  }
+]
