@@ -1,0 +1,212 @@
+[
+  {
+    "id": "46bdecc3ecc4dbee",
+    "title_original": "STADLER reshapes knowledge work at a 230-year-old company",
+    "url": "https://openai.com/index/stadler",
+    "description": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-27T22:00:00+00:00",
+    "fetched_at": "2026-03-28T07:29:26.511930+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/stadler"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "STADLER reshapes knowledge work at a 230-year-old company",
+    "summary_he": "STADLER היא חברה 230 שנים ואף פעם לא הייתה זו חברה שהשתמשה ב-ChatGPT. עכשיו, STADLER משתמשת ב-ChatGPT כדי לשנות את עבודת הידע שלה.",
+    "details_he": "STADLER היא חברה רב-לאומית שמשתמשת ב-ChatGPT כדי לשפר את עבודת הידע שלה. עם 650 עובדים, STADLER יכולה להציע פתרונות יעילים יותר וזמינות גבוהה יותר. STADLER משתמשת ב-ChatGPT כדי לחסוך זמן ולהגביר את התוצאות."
+  },
+  {
+    "id": "7e890dbaf852a087",
+    "title_original": "האייפון המוזל החדש פשוט לא מספיק משתלם",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001538636#utm_source=RSS",
+    "description": "האייפון 17e מכוון לכל מי שמעוניין בסמארטפון טוב, אך לא במחירי אפל היוקרתיים • אמנם החברה הטמיעה בו את המעבד המתקדם ביותר שלה וגם המסך אינו גדול מדי, אך בשורה של פרמטרים מדובר בפשרה משמעותית",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-03-28T05:44:00+00:00",
+    "fetched_at": "2026-03-28T07:30:03.227149+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001538636#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "האייפון המוזל החדש פשוט לא מספיק משתלם",
+    "summary_he": "האייפון 17e, מודל חדש של אפל, נועד לספק טכנולוגיה טובה במחיר נמוך יותר. המכשיר כולל מעבד מתקדם ומסך סטנדרטי, אך זה לא די בכך.",
+    "details_he": "האייפון 17e, שהוכרז כמודל המשופר של האייפון 17, נועד להציע טכנולוגיה טובה במחיר נמוך יותר. עם זאת, המכשיר נראה כפשרה, ולא כמוצר שלם. המעבד המתקדם של אפל, שהוטמע במכשיר, יכול להציע ביצועים טובים, אך המסך הסטנדרטי והפרמטרים האחרים של המכשיר, כגון הזיכרון והסוללה, אינם מספיקים להצדיק את המחיר. האייפון 17e נראה כמוצר של פשרה, שאינו מספיק טוב כדי להתחרות במודלים היוקרתיים של אפל, אך גם אינו זול מספיק כדי להיות כדאי."
+  },
+  {
+    "id": "5428d3cc001fb2fa",
+    "title_original": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+    "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+    "description": "Things are moving fast, and competitors have offered something similar for a while.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-03-27T21:53:45+00:00",
+    "fetched_at": "2026-03-28T07:29:33.667481+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+    "summary_he": "OpenAI's Codex app has introduced a new feature called 'plugins', which allows users to easily integrate external services and applications into the app, expanding its functionality beyond coding tasks.",
+    "details_he": "The plugins feature, which is similar to those found in competitors' apps like Claude Code, enables users to configure Codex in specific ways for various tasks, making it easier to replicate across multiple users in an organization. This feature is not entirely new, as power users could already introduce custom instructions and use Model Context Protocol (MCP) servers to achieve similar functionality. However, the one-click installation process makes it more accessible to a wider range of users. OpenAI's competitors, such as Anthropic and Google, have been exploring broader knowledge-work functionality using apps like Codex, and this move marks one of the first major steps in that direction for OpenAI."
+  },
+  {
+    "id": "6a562743b6969052",
+    "title_original": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "description": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-03-27T21:44:45+00:00",
+    "fetched_at": "2026-03-28T07:29:33.888214+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "summary_he": "SoftBank's new $40 billion loan to cover its investment in OpenAI may indicate that the AI model maker's highly anticipated public listing is expected to occur later this year, as some reports suggest.",
+    "details_he": "The loan, provided by JPMorgan Chase, Goldman Sachs, and four Japanese banks, has a 12-month term and is unsecured, meaning it must be repaid or refinanced by next year. This could be a signal that the lenders believe OpenAI's IPO will happen in 2026, as some outlets have reported. SoftBank's new $30 billion investment in OpenAI brings its total bet on the company to over $60 billion, which would give it the liquidity to settle the debt if OpenAI were to go public this year."
+  },
+  {
+    "id": "01b1627fbfd6b508",
+    "title_original": "v2.1.86",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.86",
+    "description": "What's changedAddedX-Claude-Code-Session-Idheader to API requests so proxies can aggregate requests by session without parsing the bodyAdded.jjand.slto VCS directory exclusion lists so Grep and file autocomplete don't descend into Jujutsu or Sapling metadataFixed--resumefailing with \"tool_use ids were found without tool_result blocks\" on sessions created before v2.1.85Fixed Write/Edit/Read failing on files outside the project root (e.g.,~/.claude/CLAUDE.md) when conditional skills or rules are configuredFixed unnecessary config disk writes on every skill invocation that could cause performance issues and config corruption on WindowsFixed potential out-of-memory crash when using/feedbackon very long sessions with large transcript filesFixed--baremode dropping MCP tools in interactive sessions and silently discarding messages enqueued mid-turnFixed thecshortcut copying only ~20 characters of the OAuth login URL instead of the full URLFixed masked input (e.g., OAuth code paste) leaking th",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-03-27T21:42:09+00:00",
+    "fetched_at": "2026-03-28T07:30:05.962542+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.86"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.86",
+    "summary_he": "Claude Code, a popular AI development platform, has released a new update, v2.1.86, which includes various bug fixes and improvements. The update addresses issues such as performance problems, config corruption, and crashes. It also adds new features and optimizes existing ones for better user experience.",
+    "details_he": "The update includes 17 fixes for various bugs and issues, including performance problems, config corruption, and crashes. It also adds new features such as the X-Claude-Code-Session-Id header to API requests, which allows proxies to aggregate requests by session without parsing the body. Additionally, the update optimizes existing features, such as reducing startup event-loop stalls and improving prompt cache hit rate for certain users. The update also includes several minor improvements, such as capping skill descriptions at 250 characters and sorting the /skills menu alphabetically."
+  },
+  {
+    "id": "b2a791662d2bede5",
+    "title_original": "How Microsoft Defender protects high-value assets in real-world attack scenarios",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/",
+    "description": "High-value assets including domain controllers, web servers, and identity infrastructure are frequent targets in sophisticated attacks. Microsoft Defender applies asset-aware protection using Microsoft Security Exposure Management to detect and block threats against these critical systems. This article explores real-world attack scenarios and defense techniques.The postHow Microsoft Defender protects high-value assets in real-world attack scenariosappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-27T19:53:53+00:00",
+    "fetched_at": "2026-03-28T07:29:37.743587+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Microsoft Defender protects high-value assets in real-world attack scenarios",
+    "summary_he": "Microsoft Defender מגן על נכסי ערך גבוהים בסצנריות תקיפה ממוחשבות בעולם האמיתי. הוא משתמש בהגנה-מודעת-לנכסים על-מנת לזהות ולמנוע איומים על מערכות אלה. זהו דיווח על סצנריות תקיפה בעולם האמיתי.",
+    "details_he": "Microsoft Defender נותן תשומת לב מיוחדת לנכסי ערך גבוהים, כגון שליטה על-דומיין, שרתי אינטרנט ומערכות זהות. הוא משתמש ב- Microsoft Security Exposure Management על-מנת לזהות ולמנוע איומים על אלה. זהו דיווח על סצנריות תקיפה בעולם האמיתי. הגנה-מודעת-לנכסים היא כלי חשוב במערכת ההגנה של Microsoft Defender."
+  },
+  {
+    "id": "a45d4e7bc82c497b",
+    "title_original": "Beyond the Badge: What Achieving Microsoft’s Certified Software Designation Means for Your Cloud Security",
+    "url": "https://www.wiz.io/blog/wiz-achieves-microsoft-certified-software-designation",
+    "description": "Verified by Microsoft. Built for Azure. Secured by Wiz.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-27T13:38:43+00:00",
+    "fetched_at": "2026-03-28T07:29:41.695992+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-achieves-microsoft-certified-software-designation"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Beyond the Badge: What Achieving Microsoft’s Certified Software Designation Means for Your Cloud Security",
+    "summary_he": "Wiz has achieved Microsoft's certified software designation for Azure, demonstrating its security-first architecture meets Microsoft's highest standards. This milestone validates Wiz's investment in security and ensures Azure customers can innovate without compromising on security.",
+    "details_he": "The certified software designation is a rigorous, third-party validation from Microsoft that Wiz's security-first architecture is suitable for Azure environments. Wiz's connection to Azure via a seamless, agentless API and its ability to scan every layer of the stack provide deep visibility into Azure environments. This allows security teams to focus on critical issues in production, while Wiz integrates with common Azure services and workflows to support identity-driven access, operational workflows, and security, compliance, and engineering teams."
+  },
+  {
+    "id": "83a81cb28874a54c",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 13",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-13-7/",
+    "description": "Alleged RedLine operator faces 30 years, FAUX#ELEVATE compromises enterprises in 30 seconds, and TeamPCP launches cascading supply chain attacks.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-03-27T13:00:16+00:00",
+    "fetched_at": "2026-03-28T07:29:41.034875+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-13-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 13",
+    "summary_he": "Alleged RedLine operator faces 30 years, FAUX#ELEVATE compromises enterprises in 30 seconds, and TeamPCP launches cascading supply chain attacks.",
+    "details_he": ""
+  },
+  {
+    "id": "1bc017d5c85a4fd6",
+    "title_original": "TA446 Deploys Leaked DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+    "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+    "description": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-28T12:37:00+05:30",
+    "fetched_at": "2026-03-28T07:29:35.585953+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "TA446 Deploys Leaked DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+    "summary_he": "תאגיד הביטחון Proofpoint הפריך כי קבוצת פורצי דרך רוסית, TA446, ניצלה את ספלייטר ה-DarkSword לאיוש iOS כדי לפצות על קמפיין פישינג מוקדי. הקמפיין, שהתרחש ב-26 במרץ 2026, כלל דואר אלקטרוני זומני שהכילו קישורים לספלייטר.",
+    "details_he": "Proofpoint דיווח כי קבוצת TA446, המקושרת לשירות הביטחון הפדרלי של רוסיה, ניצלה את ספלייטר ה-DarkSword לאיוש iOS כדי לפצות על קמפיין פישינג מוקדי. הקמפיין, שהתרחש ב-26 במרץ 2026, כלל דואר אלקטרוני זומני שהכילו קישורים לספלייטר. הדואר אלקטרוני, שנשלח ממנכ\"לים נשלטים, כללו קישורים לספלייטר, שהכילו תוכנת GHOSTBLADE, סוג של תוכנת ספלייטר. הקמפיין כלל גם קישורים לתוכנת MAYBEROBOT, סוג של תוכנת ספלייטר. Proofpoint דיווח כי הקמפיין הכיל כ-100 קישורים, וכי 10% מהם הכילו תוכנת GHOSTBLADE. הקבוצה, שנקראת גם Callisto, COLDRIVER, ו-Star Blizzard, נחשבת לאחת הקבוצות החשובות ביותר של פורצי דרך רוסים."
+  },
+  {
+    "id": "deeb56020a9c2d53",
+    "title_original": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+    "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution.\n\"When a",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-28T12:37:00+05:30",
+    "fetched_at": "2026-03-28T07:29:35.585953+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+    "summary_he": "CISA הוסיפה חולשה בטיחותית קריטית ב-F5 BIG-IP APM לקטלוג KEV, תוך התייחסות להתקפות פעילות. החולשה, CVE-2025-53521, יכולה לאפשר לתוקף לבצע תקיפה מרוחקת של קוד.",
+    "details_he": "CISA הוסיפה את CVE-2025-53521 לקטלוג KEV, תוך התייחסות להתקפות פעילות. החולשה, שהיא חלק מ-F5 BIG-IP Access Policy Manager (APM), יכולה לאפשר לתוקף לבצע תקיפה מרוחקת של קוד. F5 ציינה כי החולשה נכנסה לקטלוג KEV לאחר שהתגלו התקפות פעילות. חברת F5 ציינה כי החולשה יכולה לאפשר לתוקף לבצע תקיפה מרוחקת של קוד, וכי היא נכללת בקטלוג KEV. CISA ציינה כי החולשה יכולה לאפשר לתוקף לבצע תקיפה מרוחקת של קוד, וכי היא נכללת בקטלוג KEV."
+  }
+]

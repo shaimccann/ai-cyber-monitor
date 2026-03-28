@@ -1,10 +1,17 @@
 {
-  "timestamp": "2026-03-27T07:46:58.877029+00:00",
-  "errors": [],
+  "timestamp": "2026-03-28T07:30:06.694722+00:00",
+  "errors": [
+    {
+      "title": "The Good, the Bad and the Ugly in Cybersecurity – Week 13",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1584)",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 10,
-  "fallback": 0,
-  "total_scanned": 103,
+  "success": 9,
+  "fallback": 1,
+  "total_scanned": 54,
   "selected": 10
 }
