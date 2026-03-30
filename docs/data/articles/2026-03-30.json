@@ -1,0 +1,212 @@
+[
+  {
+    "id": "12937233cc142853",
+    "title_original": "Helping disaster response teams turn AI into action across Asia",
+    "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-03-29T22:15:00+00:00",
+    "fetched_at": "2026-03-30T08:59:15.910343+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/helping-disaster-response-teams-asia"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Helping disaster response teams turn AI into action across Asia",
+    "summary_he": "OpenAI, בשיתוף עם קרן גייטס, ארגנה סדנת עבודה באסיה לפיתוח פתרונות AI לצורך תגובה לאסונות.",
+    "details_he": "הסדנה, שנערכה באסיה, כללה פעילויות של שיתוף ידע ופיתוח פתרונות AI לצורך תגובה לאסונות. OpenAI וקרן גייטס יחדיו עובדים על פיתוח פתרונות AI שיכולים לסייע לצוותי תגובה לאסונות באסיה. הפרויקט יכול לסייע לשיפור תגובת המערכת לאסונות באזור."
+  },
+  {
+    "id": "6f297a7a8d773863",
+    "title_original": "בסדנה הזאת תתנסו ב-Spec-Driven Development ותבנו אפליקציית אייג'נטים משלכם",
+    "url": "https://www.geektime.co.il/geekacademy-2026-spec-driven-approach-workshop/",
+    "description": "עד לא מזמן, עבודת הפיתוח הייתה כמעט 100% כתיבת קוד. אבל מאז שנכנסו האייג'נטים לחיינו, מוקד העבודה (אם אתם עושים אותה נכון) עבר לכוונה ותכנון. הכלים החדשים דורשים מאיתנו לשנות את צורת החשיבה: לא ישר כותבים קוד, אלא מעבירים את המיקוד לכוונה שעומדת מאחוריו. לגישה הזאת קוראים Spec-Driven AI Engineering, ויש לה את הכוח להפוך […]The postבסדנה הזאת תתנסו ב-Spec-Driven Development ותבנו אפליקציית אייג'נטים משלכםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-30T08:44:17+00:00",
+    "fetched_at": "2026-03-30T08:59:40.595711+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/geekacademy-2026-spec-driven-approach-workshop/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "בסדנה הזאת תתנסו ב-Spec-Driven Development ותבנו אפליקציית אייג'נטים משלכם",
+    "summary_he": "סדנת GeekAcademy תסייע למפתחים ללמוד גישת Spec-Driven AI Engineering ולבנות אפליקציות אג'נטיות. הסדנה תתקיים במסגרת הכשרת ה-Agentic AI החינמית של מיקרוסופט וגיקטיים.",
+    "details_he": "הסדנה תכלול 15 מפגשים אונליין, ותסייע למשתתפים ליצור אפליקציות אג'נטיות באמצעות Microsoft Agent Framework. הסדנה תעסוק בנושאים כגון יישום Spec-Driven AI Engineering, הגדרת הנחיות אייג'נט אפקטיביות, ובניית Agentic App מתוך מפרט. הסדנה תעביר ידע וניסיון בתחום ה-AI והכלים של מיקרוסופט."
+  },
+  {
+    "id": "c44bdddfd023b095",
+    "title_original": "הייטק תחת אש: 71% מהחברות נפגעו בגיוסי הון",
+    "url": "https://techtime.co.il/2026/03/30/iia-4/",
+    "description": "סקר רשות החדשנות: מחצית מהחברות חוות היעדרות עובדים רחבה, 87% מדווחות על עיכובים בפיתוח, ושליש כבר שוקלות העברת פעילות לחו\"ל",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-03-30T07:49:01+00:00",
+    "fetched_at": "2026-03-30T08:59:48.700860+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/03/30/iia-4/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "הייטק תחת אש: 71% מהחברות נפגעו בגיוסי הון",
+    "summary_he": "בעקבות מבצע 'שאגת הארי', סקר חדש של רשות החדשנות מציג תמונת מצב כפולה של תעשיית ההייטק: פעילות נמשכת, אך כוח האדם, גיוסי הון וקצב הפיתוח נפגעים. חברות קטנות וצעירות נפגעות באופן חריף יותר.",
+    "details_he": "הסקר, שנערך בקרב 637 חברות הייטק, מראה כי 48% מהחברות מדווחות על היעדרות של מעל רבע מהעובדים. 71% מהחברות מדווחות על פגיעה בתהליכי הגיוס, כולל עיכובים, דחיות ואף ביטולים. 87% מהחברות מדווחות על עיכובים בעמידה ביעדי פיתוח או בהשקות. 67% כבר דחו בפועל השקות או אבני דרך. 76% מחברות הייצור מדווחות על פגיעה ביכולת הייצור. 31% מהחברות שוקלות להעביר פעילות לחו\"ל."
+  },
+  {
+    "id": "307797f61e598fe6",
+    "title_original": "תעלומה: האם OnePlus תפסיק להימכר בקרוב ברחבי העולם?",
+    "url": "https://www.geektime.co.il/reports-claim-oneplus-is-about-to-shut-down-in-global-markets/",
+    "description": "קשה לבלוט בעולם מכשירי האנדרואיד שרווי ביצרניות, מכשירים ודגמים שונים. אבל מי שהצליחה במשך שנים לעשות את זה הייתה OnePlus. החברה שנוסדה עם הבטחה עצומה, מיתוג בולט וייחודי, מנכ\"ל כריזמטי, הפכה בשנים האחרונות בדיוק למה שהיא ניסתה להתחרות בו – ואיבדה דווקא את הקהל הראשוני שלה. כעת, טוענים דיווחים חדשים כי החברה תפסיק לפעול בכמעט […]The postתעלומה: האם OnePlus תפסיק להימכר בקרוב ברחבי העולם?appeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-30T07:38:10+00:00",
+    "fetched_at": "2026-03-30T08:59:40.595711+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/reports-claim-oneplus-is-about-to-shut-down-in-global-markets/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "תעלומה: האם OnePlus תפסיק להימכר בקרוב ברחבי העולם?",
+    "summary_he": "OnePlus, החברה הידועה במכשירי האנדרואיד המוצלחים שלה, עומדת לצאת מהשוק הגלובלי ולהתמקד בהודו. דיווחים טוענים כי החברה תפסיק לפעול בכמעט כל השווקים הגלובליים, ותתמקד בשוק ההודי.",
+    "details_he": "דיווחים חדשים טוענים כי OnePlus עומדת לצאת מהשוק הגלובלי ולהתמקד בהודו. זאת לאחר שהחברה חוותה כישלונות ושינויים באסטרטגיה שלה. OnePlus החלה לשחרר מכשירי Mid-Range במחיר יותר נמוך, ומייסד החברה, קארל פיי, עזב אותה והקים חברה מתחרה. החברה גם החלה לאמץ פיצ'רים שקיימים רק במכשירי דגל, והמחיר שלה התחיל לעלות. דיווחים גורסים כי BBK Electronics, חברת האם של OnePlus, החליטה להעביר את הפוקוס למותג Oppo, כפי שעשתה עם Realme. הדיווחים גם טוענים כי OnePlus תתחיל לצאת מפעילות בלא מעט מדינות ברחבי העולם, כאשר המהלך עשוי לצאת לדרך כבר בחודש אפריל."
+  },
+  {
+    "id": "226b2945b5e4ecbe",
+    "title_original": "ההייטק הישראלי בזמן מלחמה: גיוסי ההון נפגעו, חברות לא מדלברות",
+    "url": "https://www.geektime.co.il/iran-war-impacts-high-tech-sector-gravely/",
+    "description": "ההייטק הישראלי רגיל להגדרה של \"הקטר של המשק\", זה שמושך אחריו את הכלכלה כולה גם בעיתות משבר. אבל סקר חדש של רשות החדשנות שמתפרסם היום (ב') חושף כי המלחמה הנוכחית מעמידה במבחן גם את ההייטק בפני אתגרים חסרי תקדים. הנתונים, שנאספו במהלך השבוע השלישי ללחימה בקרב 637 חברות, מציגים תמונה של עמידות לצד שיבושים עמוקים […]The postההייטק הישראלי בזמן מלחמה: גיוסי ההון נפגעו, חברות לא מדלברותappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-03-30T06:24:38+00:00",
+    "fetched_at": "2026-03-30T08:59:40.595711+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/iran-war-impacts-high-tech-sector-gravely/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ההייטק הישראלי בזמן מלחמה: גיוסי ההון נפגעו, חברות לא מדלברות",
+    "summary_he": "ההייטק הישראלי רגיל להגדרה של \"הקטר של המשק\", זה שמושך אחריו את הכלכלה כולה גם בעיתות משבר. אבל סקר חדש של רשות החדשנות שמתפרסם היום (ב') חושף כי המלחמה הנוכחית מעמידה במבחן גם את ההייטק בפני אתגרים חסרי תקדים. הנתונים, שנאספו במהלך השבוע השלישי ללחימה בקרב 637 חברות, מציגים תמונה של עמידות לצד שיבושים עמוקים […]The postההייטק הישראלי בזמן מלחמה: גיוסי ההון נפגעו, חברות לא מדלברותappeared first onגיקטיים.",
+    "details_he": ""
+  },
+  {
+    "id": "333fab1d889c45b5",
+    "title_original": "TeamPCP: Supply Chain Attack Targets Trivy, KICS GitHub Action, and LiteLLM",
+    "url": "https://www.catonetworks.com/blog/teampcp-supply-chain-attack/",
+    "description": "Executive Summary Security vendors have linked recent incidents involving trusted software components to a supply chain attack campaign by TeamPCP, a cloud-focused threat actor group. The reported activity involved three widely used types of development components, which include: Technical Overview Timeline of activity Inside the threat actor’s playbook: Why these components mattered These attacks appear...The postTeamPCP: Supply Chain Attack Targets Trivy, KICS GitHub Action, and LiteLLMappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-03-29T13:30:23+00:00",
+    "fetched_at": "2026-03-30T08:59:35.194444+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/teampcp-supply-chain-attack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "TeamPCP: Supply Chain Attack Targets Trivy, KICS GitHub Action, and LiteLLM",
+    "summary_he": "במסגרת תקיפה של גוף האייקייס TeamPCP, נתקלו חברות בסייבר-סקאנינג, פענוח קוד ושירותי AI בסייבר-אטאק. התקיפה כללה תלות בתוכנות פופולריות, כולל Trivy, KICS GitHub Action ו-LiteLLM.",
+    "details_he": "התקיפה, שהחלה ב-19 במרץ 2026, כללה תלות ב-Aqua Security's Trivy, שהיא תוכנת סייבר-סקאנינג שנועדה לזיהוי חולשות ומיסקונפיגורציות בקונטיינרים, תמונות, רפוזיטוריות וסביבות ענן. כמו כן, נתקלו חברות ב-KICS GitHub Action, שהיא תוכנת CI/CD שנועדה לפענוח קוד ולבדוק חולשות בסביבות ענן. נוסף לכך, נתקלו חברות ב-LiteLLM, שהיא תוכנת Python שנועדה לפשט ולהפשט גישה לשירותי AI. חברות רבות, כולל JFrog, Orca Security ו-StepSecurity, דיווחו על תקיפה נרחבת של TeamPCP, שכללה תלות בתוכנות פופולריות ופגיעה בסייבר-אטאק."
+  },
+  {
+    "id": "98612be66e092aba",
+    "title_original": "Spring Cleaning Has Arrived: Meet the New Check Point Portal Experience",
+    "url": "https://blog.checkpoint.com/portal/spring-cleaning-has-arrived-meet-the-new-check-point-portal-experience/",
+    "description": "We’ve been busy behind the scenes, and the results are here. The Check Point Portal just got its biggest visual refresh yet – brighter, cleaner, and more modern than ever before. Think of it as a thorough spring cleaning: everything you love, polished to a shine and the clutter cleared away. A Design Built for Clarity The new UI design system isn’t just a fresh coat of paint – it’s a smarter, more intentional experience from the ground up. Every pixel has been reconsidered with one goal in mind: getting you to what matters, faster. The new look starts where […]The postSpring Cleaning Has Arrived: Meet the New Check Point Portal Experienceappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-29T13:08:29+00:00",
+    "fetched_at": "2026-03-30T08:59:40.473076+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/portal/spring-cleaning-has-arrived-meet-the-new-check-point-portal-experience/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Spring Cleaning Has Arrived: Meet the New Check Point Portal Experience",
+    "summary_he": "Check Point Portal has been revamped with a modern and cleaner design, aiming to improve user experience and navigation. The new design focuses on clarity and simplicity, with a new font, icons, and navigation bar. This is the first step in a broader redesign effort.",
+    "details_he": "The new Check Point Portal design is the result of a thorough overhaul, with every pixel reconsidered to improve user experience. The shared portal configuration now features a cleaner and more navigable interface, making it easier to access global settings and other important features. The new design is also more accessible, with a crisper font and higher contrast, making it easier to read and act on screens. Several services have already adopted the new design, and more are expected to follow. The redesign is part of a broader effort to improve the overall user experience and navigation of the portal."
+  },
+  {
+    "id": "2122cffb361d4a61",
+    "title_original": "AI Threat Landscape Digest January-February 2026",
+    "url": "https://research.checkpoint.com/2026/ai-threat-landscape-digest-january-february-2026/",
+    "description": "KEY FINDINGS AI-assisted malware development has reached operational maturity.VoidLink framework, which is modular, professionally engineered, and fully functional,was built by a single developer using a commercial AI-powered IDE within a compressedtimeframe. AI-assisted development is no longer experimental but produces deploymentreadyoutput. AI-assisted development is not always obvious from the final product.VoidLink was initially assessed as the […]The postAI Threat Landscape Digest January-February 2026appeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "ai",
+    "published": "2026-03-29T10:08:45+00:00",
+    "fetched_at": "2026-03-30T08:59:30.345266+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/ai-threat-landscape-digest-january-february-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Threat Landscape Digest January-February 2026",
+    "summary_he": "בשנים האחרונות, נראה כי פיתוח מלואר תחת תמיכת AI הגיע לבגרות. VoidLink, פרקטיקה מודולרית, מקצועית ומלאה פונקציונליות, נבנתה על ידי מפתח אחד באמצעות IDE AI-מוביל, בתוך זמן קצר. פיתוח תחת AI אינו תמיד ברור מהפרודוקט הסופי.",
+    "details_he": "פיתוח תחת AI הפך לאפשרות רגילה, ולא נחשב יותר כניסיון ניסיוני. VoidLink נחשב במקור כיצירה של צוות סוכנות, בזכות ארכיטקטורתה ואיכות היישום. הדבר נחשף לאחר כשל בביטחון הפעולה. פיתוח תחת AI יכול להיות נחשב כאפשרות כבר מהתחלה, ולא כדבר שיש לחשוב עליו רק אחרי."
+  },
+  {
+    "id": "6298be00c1c4adfe",
+    "title_original": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
+    "url": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
+    "description": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\"\nThe campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, or U2DiskWatch), PUBLOAD, EggStremeFuel (aka RawCookie), EggStremeLoader (aka Gorem RAT), MASOL",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-03-30T12:30:00+05:30",
+    "fetched_at": "2026-03-30T08:59:24.693338+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
+    "summary_he": "מקבוצות סייבר מקושרות לסין תקפו ארגון ממשלתי בדרום-מזרח אסיה במבצע סייבר מורכב ב-2025. המבצע כלל שימוש במלוואר רבים, כולל HIUPAN, PUBLOAD, ו-EggStremeFuel.",
+    "details_he": "המבצע, שהתרחש ב-2025, כלל שימוש במלוואר רבים, כולל HIUPAN, PUBLOAD, ו-EggStremeFuel. המבצע נחשב ל\"מורכב ומשאבי\" והוא כלל שימוש במספר טכניקות ופרוצדורות. הפעילות הסייבר הזו נחשבת לאחת המבצעים המורכבים ביותר שנראו בעשור האחרון."
+  },
+  {
+    "id": "3ac2c48ae36b2816",
+    "title_original": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
+    "url": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
+    "description": "The agency said Iranian hackers targeted the director’s personal email account and noted that the compromised information is old.The postFBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackersappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-03-30T08:01:43+00:00",
+    "fetched_at": "2026-03-30T08:59:25.333109+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
+    "summary_he": "The agency said Iranian hackers targeted the director’s personal email account and noted that the compromised information is old.The postFBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackersappeared first onSecurityWeek.",
+    "details_he": ""
+  }
+]
