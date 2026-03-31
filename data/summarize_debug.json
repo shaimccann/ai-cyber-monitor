@@ -1,23 +1,10 @@
 {
-  "timestamp": "2026-03-30T08:59:52.648270+00:00",
-  "errors": [
-    {
-      "title": "ההייטק הישראלי בזמן מלחמה: גיוסי ההון נפגעו, חברות לא מדלברות",
-      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 223)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
-      "error": "JSON parse error: Expecting ',' delimiter: line 3 column 64 (char 189)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-03-31T05:48:47.459059+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 8,
-  "fallback": 2,
-  "total_scanned": 42,
+  "success": 10,
+  "fallback": 0,
+  "total_scanned": 86,
   "selected": 10
 }

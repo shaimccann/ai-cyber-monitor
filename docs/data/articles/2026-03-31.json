@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a51482177e67783f",
+    "title_original": "Mitigating Forgetting in Continual Learning with Selective Gradient Projection",
+    "url": "https://arxiv.org/abs/2603.26671",
+    "description": "arXiv:2603.26671v1 Announce Type: new \nAbstract: As neural networks are increasingly deployed in dynamic environments, they face the challenge of catastrophic forgetting, the tendency to overwrite previously learned knowledge when adapting to new tasks, resulting in severe performance degradation on earlier tasks. We propose Selective Forgetting-Aware Optimization (SFAO), a dynamic method that regulates gradient directions via cosine similarity and per-layer gating, enabling controlled forgetting while balancing plasticity and stability. SFAO selectively projects, accepts, or discards updates using a tunable mechanism with efficient Monte Carlo approximation. Experiments on standard continual learning benchmarks show that SFAO achieves competitive accuracy with markedly lower memory cost, a 90$\\%$ reduction, and improved forgetting on MNIST datasets, making it suitable for resource-constrained scenarios.",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-31T00:00:00-04:00",
+    "fetched_at": "2026-03-31T05:48:18.306739+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.26671"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Mitigating Forgetting in Continual Learning with Selective Gradient Projection",
+    "summary_he": "מחקר חדש מציע שיטה למניעת 'שכחה' בלמידה רציפה, שבה המודל המחשבי 'שוכח' ידע שאכזרי, ומשפר את היציבות שלו.",
+    "details_he": "במחקר זה, החוקרים הציעו שיטה חדשה למניעת 'שכחה' בלמידה רציפה, הקרויה Selective Forgetting-Aware Optimization (SFAO). SFAO משתמשת בדומיננטיות של גרדיאנטים ובפלט-פוסטינג לשלוט בתנועות הגרדיאנט. השיטה מאפשרת למודל לשמור על ידע קיים ולהתאים לשינויים באופן יעיל. ניסויים שנערכו על מאגרי נתונים רציפים הראו ש-SFAO משפרת את הדיוק של המודל ומפחיתה את עלות הזיכרון שלו."
+  },
+  {
+    "id": "9b8044f5d0de13db",
+    "title_original": "GeoBlock: Inferring Block Granularity from Dependency Geometry in Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2603.26675",
+    "description": "arXiv:2603.26675v1 Announce Type: new \nAbstract: Block diffusion enables efficient parallel refinement in diffusion language models, but its decoding behavior depends critically on block size. Existing block-sizing strategies rely on fixed rules or heuristic signals and do not account for the dependency geometry that determines which tokens can be safely refined together. This motivates a geometry view of diffusion decoding: \\emph{regions with strong causal ordering require sequential updates, whereas semantically cohesive regions admit parallel refinement.} We introduce GeoBlock, a geometry-aware block inference framework that determines block granularity directly from attention-derived dependency geometry. Instead of relying on predefined schedules or local confidence heuristics, GeoBlock analyzes cross-token dependency patterns to identify geometrically stable refinement regions and dynamically determines appropriate block boundaries during decoding. By adapting block granularity to",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-31T00:00:00-04:00",
+    "fetched_at": "2026-03-31T05:48:18.306739+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.26675"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GeoBlock: Inferring Block Granularity from Dependency Geometry in Diffusion Language Models",
+    "summary_he": "חוקרים הציגו פרסום חדש שבו הם מציעים שיטה חדשה לקביעת גודל של חלקים במודלי שפה של דיפוזיה, המבוססת על גאומטריה של תלות. שיטה זו, הנקראת GeoBlock, מאפשרת לשפר את תהליך הדיפוזיה ולשמור על יעילותו.",
+    "details_he": "המחברים, Lipeng Wan ו-5 נוספים, טוענים כי שיטת GeoBlock יכולה לשפר את תהליך הדיפוזיה במודלי שפה של דיפוזיה, על ידי קביעת גודל של חלקים באופן דינמי. הם טוענים כי שיטה זו מאפשרת לשמור על יעילות הדיפוזיה, בעוד שהיא גם מאפשרת עדכון תלותי של המודל. המחברים גם טוענים כי שיטת GeoBlock דורשת נגישות נמוכה ומשלבת עצמאית בארכיטקטורות דיפוזיה קיימות."
+  },
+  {
+    "id": "30aecb3c28bb3412",
+    "title_original": "AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment",
+    "url": "https://arxiv.org/abs/2603.26680",
+    "description": "arXiv:2603.26680v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) evolve into lifelong AI assistants, LLM personalization has become a critical frontier. However, progress is currently bottlenecked by the absence of a gold-standard evaluation benchmark. Existing benchmarks either overlook personalized information management that is critical for personalization or rely heavily on synthetic dialogues, which exhibit an inherent distribution gap from real-world dialogue. To bridge this gap, we introduce AlpsBench, An LLM PerSonalization benchmark derived from real-world human-LLM dialogues. AlpsBench comprises 2,500 long-term interaction sequences curated from WildChat, paired with human-verified structured memories that encapsulate both explicit and implicit personalization signals. We define four pivotal tasks - personalized information extraction, updating, retrieval, and utilization - and establish protocols to evaluate the entire lifecycle of memory management. Our benc",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-31T00:00:00-04:00",
+    "fetched_at": "2026-03-31T05:48:18.306739+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.26680"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment",
+    "summary_he": "חברת המחקר של אוניברסיטת טאיוואן פיתחה בסיס נתונים חדש להערכת חומרה של מודלי שפה גדולים, AlpsBench, שמטרתו לבדוק את יכולתם של המודלים לזכור ולהתאים את עצמם לדיונים אמיתיים.",
+    "details_he": "בסיס הנתונים AlpsBench, שפותח על ידי צוות מחקר מאוניברסיטת טאיוואן, כולל 2,500 רצפים של שיחות ארוכות-טווח שנלקחו מ- WildChat, יחד עם זיכרונות מאומתים על ידי בני אדם שמכילים מידע אישי. הבסיס כולל תרגילים של ארבעה סוגים: גילוי, עדכון, גישה ושימוש בזיכרונות. ניתוח של המודלים החדשים והמערכות המרכזיות בזיכרונות חשף כי המודלים נתקלים בקשיים להפיק תכונות נסתרות של המשתמש, וכי עדכון הזיכרונות נתקל בגבול תפוקה, אף על פי שהמודלים החזקים ביותר נכשלו."
+  },
+  {
+    "id": "37ac035128a42d5e",
+    "title_original": "The Cognitive Divergence: AI Context Windows, Human Attention Decline, and the Delegation Feedback Loop",
+    "url": "https://arxiv.org/abs/2603.26707",
+    "description": "arXiv:2603.26707v1 Announce Type: new \nAbstract: This paper documents and theorises a self-reinforcing dynamic between two measurable trends: the exponential expansion of large language model (LLM) context windows and the secular contraction of human sustained-attention capacity. We term the resulting asymmetry the Cognitive Divergence. AI context windows have grown from 512 tokens in 2017 to 2,000,000 tokens by 2026 (factor ~3,906; fitted lambda = 0.59/yr; doubling time ~14 months). Over the same period, human Effective Context Span (ECS) -- a token-equivalent measure derived from validated reading-rate meta-analysis (Brysbaert, 2019) and an empirically motivated Comprehension Scaling Factor -- has declined from approximately 16,000 tokens (2004 baseline) to an estimated 1,800 tokens (2026, extrapolated from longitudinal behavioural data ending 2020 (Mark, 2023); see Section 9 for uncertainty discussion). The AI-to-human ratio grew from near parity at the ChatGPT launch (November 2022",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-31T00:00:00-04:00",
+    "fetched_at": "2026-03-31T05:48:18.306739+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.26707"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Cognitive Divergence: AI Context Windows, Human Attention Decline, and the Delegation Feedback Loop",
+    "summary_he": "מחקר חדש מצביע על תופעה של תפנית קוגניטיבית, שבה יכולות העיבוד של המודלים הלשוניים הגדולים (LLM) נוטות להתפשט, בעוד יכולות התשומת הלב של האדם נפגעות. זה יוצר פער קוגניטיבי, שבו ה-LLM יכול לעבוד עם רצפי תווים רבים יותר מאשר האדם.",
+    "details_he": "המחקר, שפורסם בארכיוו של arXiv, חוקר את התפנית הקוגניטיבית שבין יכולות העיבוד של ה-LLM לבין יכולות התשומת הלב של האדם. המחבר, נטנאל אליאב, טוען כי הפער הקוגניטיבי נוצר כתוצאה מהתפשטות יכולות העיבוד של ה-LLM, שגדלו מ-512 תווים ב-2017 ל-2,000,000 תווים ב-2026. בעוד שיכולות התשומת הלב של האדם, שנמדדו על ידי ניתוח מטא-אנליטי של קצב הקריאה, ירדו מכ-16,000 תווים ב-2004 לכ-1,800 תווים ב-2026. המחבר טוען כי הפער הקוגניטיבי יוצר תופעה של תפנית דינאמית, שבה ה-LLM יכול לעבוד עם רצפי תווים רבים יותר מאשר האדם. המחבר גם מציע תוכנית חקירה לחקר הפער הקוגניטיבי ולהבנת השפעותיו על האדם."
+  },
+  {
+    "id": "60702753e2c4c323",
+    "title_original": "Boundary-aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG Emotion Recognition",
+    "url": "https://arxiv.org/abs/2603.26713",
+    "description": "arXiv:2603.26713v1 Announce Type: new \nAbstract: Electroencephalography (EEG)-based emotion recognition suffers from severe performance degradation when models are transferred across heterogeneous datasets due to physiological variability, experimental paradigm differences, and device inconsistencies. Existing domain adversarial methods primarily enforce global marginal alignment and often overlook class-conditional mismatch and decision boundary distortion, limiting cross-corpus generalization. In this work, we propose a unified Prototype-driven Adversarial Alignment (PAA) framework for cross-corpus EEG emotion recognition. The framework is progressively instantiated in three configurations: PAA-L, which performs prototype-guided local class-conditional alignment; PAA-C, which further incorporates contrastive semantic regularization to enhance intra-class compactness and inter-class separability; and PAA-M, the full boundary-aware configuration that integrates dual relation-aware clas",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-03-31T00:00:00-04:00",
+    "fetched_at": "2026-03-31T05:48:18.306739+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2603.26713"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Boundary-aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG Emotion Recognition",
+    "summary_he": "חוקרים הציגו פרוטוטיפ חדש להכרה ברגשות באמצעות EEG, שמסוגל להתאים עצמו למגוון מקורות. הפרוטוטיפ, המכונה PAA, פועל להפחית תופעות של תזיז גבולות ושגיאות תגובה.",
+    "details_he": "במחקר זה, המחברים פיתחו פרוטוטיפ חדש להכרה ברגשות באמצעות EEG, המכונה PAA. PAA פועל להפחית תופעות של תזיז גבולות ושגיאות תגובה, ומסוגל להתאים עצמו למגוון מקורות. הפרוטוטיפ משלב שלושה תהליכים: התאמה מדויקת, תיקון שגיאות תגובה והתאמה גבולית. באמצעות PAA, החוקרים הצליחו לשפר את תוצאות ההכרה ברגשות ב-6.72%, 5.59%, 6.69% ו-4.83%, בהתאמה, כאשר השווה את תוצאותיהם לאלה של שיטות אחרות. הפרוטוטיפ גם הוכיח את עצמו כמועיל בזיהוי דיכאון קליני."
+  },
+  {
+    "id": "d4e2fb12b14b77a1",
+    "title_original": "Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/",
+    "description": "Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.The postAddressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studioappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-03-30T16:00:00+00:00",
+    "fetched_at": "2026-03-31T05:48:22.307656+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio",
+    "summary_he": "Microsoft Copilot Studio מציעה פתרונות לסכנות ה OWASP Top 10 ב-AI נפרד, כולל תגובות לסכנות חדשות של AI נפרד. ",
+    "details_he": "ה-OWASP Top 10 Risks for Agentic Applications קובע סכנות חדשות ל-AI נפרד, כולל סכנות של תגובות לא צפויות ואי-ודאות. Microsoft Copilot Studio נותן פתרונות לסכנות אלה, כולל תגובות לא צפויות ואי-ודאות. הפתרונות כוללים תגובות חדשות של AI נפרד, כולל תגובות לא צפויות ואי-ודאות. "
+  },
+  {
+    "id": "acddc2cfad17f9da",
+    "title_original": "The Wiz Blue Agent, now Generally Available",
+    "url": "https://www.wiz.io/blog/wiz-blue-agent-generally-available",
+    "description": "Accelerate your SecOps team with the Blue Agent for threat investigation, now Generally Available",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-03-30T13:16:04+00:00",
+    "fetched_at": "2026-03-31T05:48:26.845016+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-blue-agent-generally-available"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Wiz Blue Agent, now Generally Available",
+    "summary_he": "Wiz הכריזה על גרסה נרחבת של Wiz Blue Agent, כלי שמסייע לצוותי סקיוריטי לפעול בעקביות ובמהירות בנוגע לפעילות חשודה בעולם הענן.",
+    "details_he": "Wiz Blue Agent הוא כלי שמסייע לצוותי סקיוריטי לחקור פעילות חשודה בעולם הענן. הכלי זה כולל יכולות של חקירה עמוקה ואוטומציה של זרימת עבודה, כדי לסייע לצוותי סקיוריטי לפעול בעקביות ובמהירות. Wiz Blue Agent כולל גם יכולות של חקירה עמוקה, כולל ניתוח של ראיות ואוטומציה של זרימת עבודה, כדי לסייע לצוותי סקיוריטי לפעול בעקביות ובמהירות."
+  },
+  {
+    "id": "5f5065f50da9e00a",
+    "title_original": "ChatGPT Data Leakage via a Hidden Outbound Channel in the Code Execution Runtime",
+    "url": "https://research.checkpoint.com/2026/chatgpt-data-leakage-via-a-hidden-outbound-channel-in-the-code-execution-runtime/",
+    "description": "Key Takeaways What Happened AI assistants now handle some of the most sensitive data people own. Users discuss symptoms and medical history. They ask questions about taxes, debts, and personal finances, upload PDFs, contracts, lab results, and identity-rich documents that contain names, addresses, account details, and private records. That trust depends on a simple expectation: […]The postChatGPT Data Leakage via a Hidden Outbound Channel in the Code Execution Runtimeappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "ai",
+    "published": "2026-03-30T13:09:01+00:00",
+    "fetched_at": "2026-03-31T05:48:26.646967+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/chatgpt-data-leakage-via-a-hidden-outbound-channel-in-the-code-execution-runtime/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ChatGPT Data Leakage via a Hidden Outbound Channel in the Code Execution Runtime",
+    "summary_he": "חברת OpenAI חשפה חולשה ב-ChatGPT שאיפשרה למעבדי נתונים פצועים לגנוב נתונים רגישים. החולשה, שנמצאה על ידי חוקרים, התבטאה בכך שהמעבד יכול היה לשלוח נתונים חיצונית ללא ידיעת המשתמש.",
+    "details_he": "החוקרים גילו כי ניתן היה לשלוח נתונים רגישים, כגון פרטי כרטיסי אשראי, ופרטי רפואה, ללא ידיעת המשתמש. החולשה נבעה מכך שהמעבד של ChatGPT יכול היה לשלוח נתונים חיצונית דרך קוד שהורץ בסביבת תקיפה. החוקרים טענו כי זהו חולשה חמורה, שכן ניתן היה לשלוח נתונים רגישים ללא ידיעת המשתמש. OpenAI, החברה שפיתחה ChatGPT, טענה כי החולשה נפתרה כבר, ושהמעבד של ChatGPT כבר אינו יכול לשלוח נתונים חיצונית ללא ידיעת המשתמש."
+  },
+  {
+    "id": "8b0841cae1797b18",
+    "title_original": "30th March – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/30th-march-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 30th March, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Iranian state-affiliated threat group Handala Hack has breached FBI director’s Patel’s personal Gmail account and leaked many personal photos and documents. This follows the FBI’s seizure of domains related to Handala Hack’s […]The post30th March – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-03-30T12:53:08+00:00",
+    "fetched_at": "2026-03-31T05:48:26.646967+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/30th-march-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "30th March – Threat Intelligence Report",
+    "summary_he": "Check Point IPS היא תוכנה שמספקת הגנה נגד פגיעה בביטחון המידע, והיא מספקת הגנה נגד שני חולשות בביטחון המידע שנכללו בדוח הביטחון של Check Point.",
+    "details_he": "Check Point IPS היא תוכנה שמספקת הגנה נגד פגיעה בביטחון המידע. התוכנה מספקת הגנה נגד Cisco Secure Firewall Management Center Insecure Deserialization (CVE-2026-20131) ו-Citrix NetScaler Out Of Bounds Read (CVE-2026-3055). דוח הביטחון של Check Point כולל פירוט על שני חולשות אלו. השימוש ב-Check Point IPS יכול לסייע למנכ\"ל (CEO) להבטיח את ביטחון המידע של החברה."
+  },
+  {
+    "id": "e569b844b108d8e7",
+    "title_original": "When AI Trust Breaks: The ChatGPT Data Leakage Flaw That Redefined AI Vendor Security Trust",
+    "url": "https://blog.checkpoint.com/research/when-ai-trust-breaks-the-chatgpt-data-leakage-flaw-that-redefined-ai-vendor-security-trust/",
+    "description": "AI assistants like ChatGPT have quickly become trusted environments for handling some of the most sensitive data people own. Users discuss medical symptoms, upload financial records, analyze contracts, and paste internal documents—often assuming that what they share remains safely contained within the platform.  That assumption was challenged when new research uncovered a previously unknown vulnerability that enabled silent data leakage from ChatGPT conversations without user knowledge or consent. While the issue has since been fully resolved by OpenAI, the discovery delivers a much broader lesson for enterprises and security leaders: AI tools should not be assumed secure by default.  Just as organizations learned not to blindly trust cloud […]The postWhen AI Trust Breaks: The ChatGPT Data Leakage Flaw That Redefined AI Vendor Security Trustappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-03-30T12:30:39+00:00",
+    "fetched_at": "2026-03-31T05:48:37.294377+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/when-ai-trust-breaks-the-chatgpt-data-leakage-flaw-that-redefined-ai-vendor-security-trust/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When AI Trust Breaks: The ChatGPT Data Leakage Flaw That Redefined AI Vendor Security Trust",
+    "summary_he": "A critical vulnerability was discovered in ChatGPT, allowing malicious prompts to silently extract sensitive data from conversations without user knowledge or consent. The issue has since been resolved by OpenAI, but highlights the need for enterprises to assume AI tools are not secure by default and require an independent security layer.",
+    "details_he": "The vulnerability, which bypassed ChatGPT's guardrails, exploited a hidden side channel inside the Linux runtime used for code execution and data analysis. This allowed selected content from the chat, including user messages, uploaded files, and AI-generated summaries, to be transmitted externally without warning or approval. The issue is particularly concerning given the sensitive data users upload to ChatGPT, including customer data, financial spreadsheets, and medical documents. The discovery serves as a broader lesson for enterprises and security leaders, emphasizing the need for independent security measures on top of native AI security."
+  }
+]
