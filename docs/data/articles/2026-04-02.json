@@ -1,0 +1,212 @@
+[
+  {
+    "id": "06ffbdd93c12abc3",
+    "title_original": "Improving quality and robustness in LLM-based text-to-speech systems",
+    "url": "https://www.amazon.science/blog/improving-quality-and-robustness-in-llm-based-text-to-speech-systems",
+    "description": "Low-rank adaptation, data augmentation, and chain-of-thought reasoning are among the techniques enabling accent-free polyglot outputs, improved expressiveness, and reliable synthesis.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-04-01T18:13:19+00:00",
+    "fetched_at": "2026-04-02T05:45:07.592930+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/improving-quality-and-robustness-in-llm-based-text-to-speech-systems"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Improving quality and robustness in LLM-based text-to-speech systems",
+    "summary_he": "תכונות מובנות של מודלי LLM עשויים להפריע למערכות TTS, אך טכניקות חדשות עשויות לפתור את הבעיות הללו. ",
+    "details_he": "בעיות נפוצות במערכות TTS הן פגיעה באקצנט, חוסר בביטויי רגש, ואי-אמינות. חברת Amazon עובדת על פתרונות לבעיות אלה.  חברת Amazon  עשתה שימוש בטכניקה של תכנות חופשי (CFG) כדי לייצר דגימות אודיו מלאכותיות עם ביטויי רגש משופרים.  חברת Amazon  גם עשתה שימוש בהתאמה נמוכה-דרגה (LoRA) כדי לטפל בבעיית האקצנט. "
+  },
+  {
+    "id": "3b932de58fe62a75",
+    "title_original": "Holo3: Breaking the Computer Use Frontier",
+    "url": "https://huggingface.co/blog/Hcompany/holo3",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-01T16:36:15+00:00",
+    "fetched_at": "2026-04-02T05:45:07.046645+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Hcompany/holo3"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Holo3: Breaking the Computer Use Frontier",
+    "summary_he": "Holo3, the latest evolution of Autonomous Enterprise vision, has achieved a new state of the art in desktop computer use benchmark with a score of 78.85% on the OSWorld-Verified benchmark. This model excels in real-world workflows and establishes a foundation for autonomous navigation in digital landscapes. Holo3 is engineered for production and available through the Inference API.",
+    "details_he": "Holo3's success is attributed to its specialized training pipeline, which includes a continuous feedback loop for sharpening perception and decision-making skills. The model is trained using synthetic navigation data, out-of-domain augmentation, and curated reinforcement learning. The OSWorld results serve as a proof-of-concept for the learning flywheel's transferability to real-world business applications. The Synthetic Environment Factory reproduces enterprise systems and validates Holo3's readiness for real-world use."
+  },
+  {
+    "id": "971041fc87f3bde4",
+    "title_original": "ADeLe: Predicting and explaining AI performance across tasks",
+    "url": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "description": "AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failures or reliably predict outcomes on new tasks. To address this, Microsoft researchers in collaboration with Princeton University and Universitat Politècnica de València introduce ADeLe (opens in new tab) (AI […]The postADeLe: Predicting and explaining AI performance across tasksappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-04-01T16:00:58+00:00",
+    "fetched_at": "2026-04-02T05:45:06.257272+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ADeLe: Predicting and explaining AI performance across tasks",
+    "summary_he": "מודלי AI נבדקים לרוב על ידי תקן נקודות קיימים, אך הם לא מספקים תובנות על יכולות הבסיס שלהם. ADeLe, שפותח על ידי מדענים ממיקרוסופט, פרינסטון ואוניברסיטת ולנסיה, חוצה את הגבולות של תקן נקודות הקיימים.",
+    "details_he": "ADeLe נועד לפצות על חסרונות התקן הקיים. הוא מספק תובנות על יכולות הבסיס של המודל, ומאפשר לצפות על הישגיו במשימות חדשות. ADeLe פועל על ידי ניתוח של 18 יכולות עיקריות, כגון תשומת לב, תפיסה, ידע תחומי, ועוד. הוא משתמש בסקרים אלה כדי לתאר את יכולות המודל ואת דרישות המשימה, ולצפות על הישגיו. ADeLe כבר נבדק במספר מודלי AI, כולל GPT-4o ו-Llama-3.1, והוא הציג תוצאות טובות."
+  },
+  {
+    "id": "795a55cd0d76d482",
+    "title_original": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+    "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+    "description": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-01T13:30:00+00:00",
+    "fetched_at": "2026-04-02T05:45:05.744825+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+    "summary_he": "Google collaborated with the Brazilian government to develop a detailed satellite map of the country's forests, which will aid in tracking deforestation and conservation efforts.",
+    "details_he": "The map, created by processing thousands of historical satellite images, provides a highly accurate snapshot of Brazil's landscape from the early 2000s. This data enables local authorities to measure their progress in combating deforestation and take targeted action. The new map is up to six times more precise than previous imagery, allowing for the identification of detailed patches of forests for the first time."
+  },
+  {
+    "id": "d374e0c7c5b9303e",
+    "title_original": "The latest AI news we announced in March 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    "description": "March 2026 AI Recap showing new updates",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-01T13:00:00+00:00",
+    "fetched_at": "2026-04-02T05:45:05.744825+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The latest AI news we announced in March 2026",
+    "summary_he": "Google announced several AI updates in March 2026, focusing on making AI more helpful in daily life. The updates include expanded Search Live, enhanced AI tools in various Google products, and improved Google Maps with conversational help. Additionally, Google is expanding AI's role in healthcare with funding and partnerships.",
+    "details_he": "Google's AI updates in March 2026 aimed to make AI more proactive and personalized in various products. The company introduced updates to Gemini, enabling it to understand users' context and provide more tailored assistance. New features in Google Maps offer conversational help and a redesigned navigation experience. Furthermore, Google is investing in AI research and tools to improve healthcare, crisis response, and education. The company's AI advancements are part of its ongoing efforts to make everyday life better for more people."
+  },
+  {
+    "id": "6743344c889b96db",
+    "title_original": "Mitigating the Axios npm supply chain compromise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/",
+    "description": "On March 31, 2026, the popular HTTP client Axios experienced a supply chain attack, causing two newly published npm packages for version updates to download from command and control (C2) that Microsoft Threat Intelligence has attributed to the North Korean state actor Sapphire Sleet. Although the malicious versions are no longer available for download, since Axios is one of the most widely used HTTP clients in the JavaScript ecosystem, this compromise exposed hundreds to potentially millions of users.The postMitigating the Axios npm supply chain compromiseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-01T21:00:00+00:00",
+    "fetched_at": "2026-04-02T05:45:18.313830+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Mitigating the Axios npm supply chain compromise",
+    "summary_he": "Microsoft Threat Intelligence חשף תקיפה חדשה בתשתית הספלייס-ציין של npm, שבה חבילות Axios נשלחו כמעט 70 מיליון פעם בשבוע. התקיפה נחשבת לפעולה של Sapphire Sleet, גורם צבאי קוריאני.",
+    "details_he": "התקיפה, שהתרחשה ב-31 במרץ 2026, כללה שני חבילות Axios מעודכנות, 1.14.1 ו-0.30.4, שהוזרמו לתשתית npm. החבילות הללו היו נשלחות כדי להוריד פיילודים מ-C2 ידוע, ובעקבות קישור מוצלח ל-C2, פיילוד רמוט-אקסס טרוטר (RAT) שני-שלבי הורד והותקן. הפעולה נחשבת לפעולה של Sapphire Sleet, גורם צבאי קוריאני, והיא חוקרת את התקיפה במטרה לפתח תגובה."
+  },
+  {
+    "id": "db1810ccd5c181fe",
+    "title_original": "Claude Mythos Wake-Up Call: What AI Vulnerability Discovery Means for Cyber Defense",
+    "url": "https://blog.checkpoint.com/artificial-intelligence/claude-mythos-wake-up-call-what-ai-vulnerability-discovery-means-for-cyber-defense/",
+    "description": "Last week, the industry learned that Anthropic was developing Claude Capybara, also called Mythos, a powerful new AI model with substantially improved capabilities in vulnerability discovery, exploit development, and multi-step attack reasoning. While the details emerged through a data leak rather than a formal launch, the market response was unmistakable: AI has crossed a critical cyber security threshold. The frontier models are accelerating attack lifecycles and will enable attackers to identify and exploit vulnerabilities at scale, speed and through novel methods that previously were the domain of advanced nation state entities. For security leaders, this development is both a warning […]The postClaude Mythos Wake-Up Call: What AI Vulnerability Discovery Means for Cyber Defenseappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-04-01T19:37:48+00:00",
+    "fetched_at": "2026-04-02T05:45:33.010330+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/artificial-intelligence/claude-mythos-wake-up-call-what-ai-vulnerability-discovery-means-for-cyber-defense/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Claude Mythos Wake-Up Call: What AI Vulnerability Discovery Means for Cyber Defense",
+    "summary_he": "פיצוץ המודל החדש של AI, Claude Mythos, יצר תגובה חריפה בתעשיית הסייבר. המודל, שפותח על ידי Anthropic, יכול לגלות חולשות, לפתח תקיפות ולתכנן מתקפות משולבות. זה יצירת סכנה חדשה לארגונים, שכעת יכולים להיות תוקפים על ידי קבוצות פשע מצוידות ב-AI.",
+    "details_he": "הפיצוץ של Claude Mythos הוא סימן לשתי שינויים עמוקים באקלים הסייבר: דמוקרטיזציה של יכולות התקיפה המתקדמות ותעשייתיזציה של התקיפות. המודל החדש יכול לגלות חולשות, לפתח תקיפות ולתכנן מתקפות משולבות. זה יצירת סכנה חדשה לארגונים, שכעת יכולים להיות תוקפים על ידי קבוצות פשע מצוידות ב-AI. המודל יכול לסרוק טכנולוגיות ולגלות חולשות באופן שלא היה אפשרי קודם לכן."
+  },
+  {
+    "id": "6ff2771f0e80317a",
+    "title_original": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+    "url": "https://unit42.paloaltonetworks.com/axios-supply-chain-attack/",
+    "description": "Unit 42 discusses the supply chain attack targeting Axios. Learn about the full attack chain, from the dropper to forensic cleanup.The postThreat Brief: Widespread Impact of the Axios Supply Chain Attackappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-04-01T18:30:10+00:00",
+    "fetched_at": "2026-04-02T05:45:20.572230+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/axios-supply-chain-attack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+    "summary_he": "Unit 42 researchers have discovered a widespread supply chain attack targeting the Axios JavaScript library, which was compromised after an Axios maintainer's npm account was hijacked. The malicious updates, versions v1.14.1 and v0.30.4, introduced a hidden dependency called plain-crypto-js, a cross-platform remote access Trojan (RAT) capable of affecting various systems. The malware was designed to perform reconnaissance and establish persistence, with an added feature to self-destruct for evasion.",
+    "details_he": "The attack occurred after an Axios maintainer's npm account was hijacked, leading to the release of malicious updates. These compromised versions introduced a hidden dependency called plain-crypto-js, a cross-platform remote access Trojan (RAT) capable of affecting Windows, macOS and Linux systems. The malware was designed to perform reconnaissance and establish persistence, with an added feature to self-destruct for evasion. Analysis of malware that the attackers used overlaps with operations previously reported to involve the Democratic People’s Republic of Korea (DPRK). The campaign has affected various sectors in the U.S., Europe, Middle East, South Asia and Australia, including business services, financial services, and high tech."
+  },
+  {
+    "id": "7085903265f95322",
+    "title_original": "The Implementation Blind Spot | Why Organizations Are Confusing Temporary Friction with Permanent Safety",
+    "url": "https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/",
+    "description": "Our new blog post explores the ‘cognitive rust belt’ — how AI friction masks skill loss and why organizations must act now.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "ai",
+    "published": "2026-04-01T13:00:52+00:00",
+    "fetched_at": "2026-04-02T05:45:22.072757+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Implementation Blind Spot | Why Organizations Are Confusing Temporary Friction with Permanent Safety",
+    "summary_he": "Organizations are mistakenly assuming that the current difficulties in implementing AI systems are a sign of permanent safety, rather than a temporary phase of technological transition. This cognitive trap can lead to the hollowing-out of human analytic capacity, resulting in a loss of institutional knowledge and competitive advantage.",
+    "details_he": "The current challenges in implementing AI systems are often attributed to the technology's immaturity, but this is a misjudgment. The difficulties are a result of the transition from a human-centric to an AI-centric approach, where the focus is shifting from infrastructure to intellect. This shift in agency, rather than architecture, is the key difference between the current AI transition and previous technological shifts, such as the migration to the cloud. As a result, organizations must be aware of the potential risks and take steps to audit their exposure before it's too late."
+  },
+  {
+    "id": "03d10d31c928db32",
+    "title_original": "A laughing RAT: CrystalX combines spyware, stealer, and prankware features",
+    "url": "https://securelist.com/crystalx-rat-with-prankware-features/119283/",
+    "description": "Kaspersky researchers analyze a new CrystalX RAT distributed as MaaS and featuring extensive spyware, stealer, and prankware capabilities.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-04-01T06:00:09+00:00",
+    "fetched_at": "2026-04-02T05:45:20.677653+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/crystalx-rat-with-prankware-features/119283/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A laughing RAT: CrystalX combines spyware, stealer, and prankware features",
+    "summary_he": "במסגרת מבצע אקטיבי, נתגלה קמפיין של זירוז חדש, שמכונה CrystalX, שמשלב כלי ריגול, גנבת נתונים ותוכנה להקלדה. הזירוז נמכר כ-MaaS (malware-as-a-service) עם שלושה רמות תשלום.",
+    "details_he": "הזירוז, שנכתב ב Go, כולל תכונות רבות, כולל גנבת נתונים, תוכנה להקלדה, ותוכנה להקלדה. הזירוז גם כולל תכונות של prankware, שמותקן להטריד, לבלבל ולטרול את המשתמש. הזירוז נכתב ב Go, והוא נמכר כ-MaaS (malware-as-a-service) עם שלושה רמות תשלום. הזירוז כולל תכונות של anti-debugging, כולל MITM Check, VM detect ו-Anti-attach loop."
+  }
+]
