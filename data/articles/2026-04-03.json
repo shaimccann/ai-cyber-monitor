@@ -1,0 +1,212 @@
+[
+  {
+    "id": "8a8f14e96d91bf66",
+    "title_original": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
+    "description": "Open models are driving a new wave of on-device AI, extending innovation beyond the cloud to everyday devices. As these models advance, their value increasingly depends on access to local, real-time context that can turn meaningful insights into action.  Designed for this shift, Google’s latest additions to the Gemma 4 family introduce a class of small, fast and omni-capable models built for efficient local execution across a wide range […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-02T16:15:58+00:00",
+    "fetched_at": "2026-04-03T05:45:26.457091+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
+    "summary_he": "Google's Gemma 4 family of open models has been optimized for NVIDIA GPUs, enabling efficient performance across various devices, from edge devices to high-performance GPUs. This new generation of compact models supports a range of tasks, including reasoning, coding, and multimodal interactions. The Gemma 4 models are designed to run efficiently on NVIDIA RTX GPUs and DGX Spark, powering development environments and agent-driven workflows.",
+    "details_he": "The Gemma 4 family of open models, which includes E2B, E4B, 26B, and 31B variants, has been optimized for NVIDIA GPUs, including NVIDIA GeForce RTX 5090 and Mac M3 Ultra desktops. The models support a range of tasks, including reasoning, coding, and multimodal interactions, and are designed to run efficiently on NVIDIA RTX GPUs and DGX Spark. The E2B and E4B models are built for ultra-efficient, low-latency inference at the edge, while the 26B and 31B models are designed for high-performance reasoning and developer-centric workflows. The Gemma 4 models are compatible with OpenClaw, a platform that enables always-on AI assistants on RTX PCs, workstations, and DGX Spark."
+  },
+  {
+    "id": "fedb28a26c799097",
+    "title_original": "Gemma 4: Byte for byte, the most capable open models",
+    "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-04-02T16:00:49+00:00",
+    "fetched_at": "2026-04-03T05:45:19.058767+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Gemma 4: Byte for byte, the most capable open models",
+    "summary_he": "Google DeepMind השיקה את Gemma 4, דגם פתוח של מודלים מוחשבים שמציעים יכולות חדשות של תפיסה ופעולה. הדגם נועד להיות יעיל יותר וקטן יותר, ומאפשר למפתחים לבנות את המודלים שלהם.",
+    "details_he": "Gemma 4 היא פריצת דרך בתחום המודלים הפתוחים של Google DeepMind. הדגם החדש נבנה על בסיס מחקר וטכנולוגיה של Google DeepMind ומציע יכולות חדשות של תפיסה ופעולה. הדגם נועד להיות יעיל יותר וקטן יותר, ומאפשר למפתחים לבנות את המודלים שלהם. Gemma 4 כוללת ארבע גרסאות שונות, כולל 26B Mixture of Experts (MoE) ו-31B Dense, ומציעה יכולות חדשות של תפיסה ופעולה. הדגם נועד להיות יעיל יותר וקטן יותר, ומאפשר למפתחים לבנות את המודלים שלהם."
+  },
+  {
+    "id": "a2929a329bda963e",
+    "title_original": "New ways to balance cost and reliability in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "description": "Gemini API Dials",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-02T16:00:00+00:00",
+    "fetched_at": "2026-04-03T05:45:19.693732+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New ways to balance cost and reliability in the Gemini API",
+    "summary_he": "Gemini API הוסיפה שני רמות חדשות, Flex ו-Priority, המאפשרות למפתחים לשלוט באופן יותר גמיש בעלויות ובאמינות. רמת Flex מאפשרת יעילות גבוהה במחירים נמוכים, בעוד רמת Priority מספקת אמינות גבוהה במחיר גבוה יותר.",
+    "details_he": "Gemini API הוסיפה שני רמות חדשות, Flex ו-Priority, המאפשרות למפתחים לשלוט באופן יותר גמיש בעלויות ובאמינות. רמת Flex מאפשרת יעילות גבוהה במחירים נמוכים, בעוד רמת Priority מספקת אמינות גבוהה במחיר גבוה יותר. רמת Flex נועדה לעבודות רקע, כגון עדכוני CRM או סימולציות של מחקרים גדולי-ממד, בעוד רמת Priority נועדה לעבודות אינטראקטיביות, כגון חיישנים וספרי עזר. הרמות החדשות יאפשרו למפתחים לשלוט באופן יותר גמיש בעלויות ובאמינות, ויאפשרו יעילות גבוהה יותר."
+  },
+  {
+    "id": "6029d8a8e8e8562a",
+    "title_original": "Create, edit and share videos at no cost in Google Vids",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+    "description": "Google Vids logo surrounded by various video editing UI",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-02T16:00:00+00:00",
+    "fetched_at": "2026-04-03T05:45:19.693732+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Create, edit and share videos at no cost in Google Vids",
+    "summary_he": "Google Vids, a video editing suite, has introduced new AI capabilities, including high-quality video generation, custom music creation, and AI avatars, making it easier for users to create engaging content without incurring costs.",
+    "details_he": "The new features are powered by Lyria 3 and Veo 3.1, advanced AI models that enable users to generate high-quality video clips and custom music at no cost. Google AI Pro and Ultra subscribers can access additional features, including customizable AI avatars and increased video generation limits. The new capabilities are designed to help users create polished stories and engaging content, whether for personal or professional use."
+  },
+  {
+    "id": "d4f1d2efa5527e94",
+    "title_original": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/",
+    "description": "No joke — GFN Thursday is skipping the tricks and heading straight into the games. April kicks off with ten new titles, bringing fresh adventures to GeForce NOW, including the launch of Capcom’s highly anticipated PRAGMATA. A dozen new games are available to stream this week, including Arknights: Endfield, which expands the acclaimed series into a full […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-02T13:00:09+00:00",
+    "fetched_at": "2026-04-03T05:45:26.457091+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
+    "summary_he": "GeForce NOW brings a new wave of games to the cloud, including Capcom's PRAGMATA and a dozen other titles. The service now offers 10 new games for April, with a focus on cloud gaming and high-performance streaming. Players can enjoy these games on a variety of devices without compromise.",
+    "details_he": "GeForce NOW's latest additions include Arknights: Endfield, a 3D real-time strategy role-playing game, and Mega Man Star Force Legacy Collection, a collection of seven games with additional features. These titles are available to stream instantly on GeForce NOW, with crisp visuals and high performance enabled by GeForce RTX rendering and ultralow-latency streaming. The service also includes a range of other new releases, such as Hozy, Cooking Simulator 2: Better Together, and Legacy of Kain: Ascendance, which are available on Steam. Players can access these games from virtually any device, making cloud gaming more accessible than ever."
+  },
+  {
+    "id": "a361f9f17d87daf5",
+    "title_original": "Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously",
+    "url": "https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/",
+    "description": "Read our blog post to learn how SentinelOne’s AI EDR autonomously stopped a global LiteLLM supply chain attack before execution.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-04-02T19:50:56+00:00",
+    "fetched_at": "2026-04-03T05:45:40.432089+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously",
+    "summary_he": "A North Korean state actor hijacked Axios's npm credentials and published two backdoored releases, deploying a cross-platform RAT to various systems. SentinelOne's AI EDR stopped the attack autonomously, demonstrating the importance of layered defense at machine speed. The attack occurred at a velocity that manual workflows cannot keep up with.",
+    "details_he": "The attack occurred on March 31, 2026, and the malicious versions were live for approximately three hours, resulting in an estimated 600,000 downloads. The attacker, tracked as UNC1069 by Google Threat Intelligence and Sapphire Sleet by Microsoft, compromised maintainer credentials and published two versions of Axios with a purpose-built trojan. The malware self-deleted after execution, leaving forensic evidence only in lockfiles and audit logs. SentinelOne's AI EDR detected the infection just 89 seconds after publication, highlighting the need for autonomous and layered defense in the face of state-level supply chain attacks."
+  },
+  {
+    "id": "712910189bbb100c",
+    "title_original": "Threat actor abuse of AI accelerates from tool to cyberattack surface",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/",
+    "description": "Generative AI is upgrading cyberattacks, from 450% higher phishing click‑through rates to industrialized MFA bypass.The postThreat actor abuse of AI accelerates from tool to cyberattack surfaceappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-02T16:00:00+00:00",
+    "fetched_at": "2026-04-03T05:45:36.484201+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat actor abuse of AI accelerates from tool to cyberattack surface",
+    "summary_he": "תקיפות סייבר מתגברות בעת עונת המס, כאשר תקציבים והזדמנויות נוצרים עבור תקיפי סייבר",
+    "details_he": "בעת עונת המס, תקיפי סייבר נוטים להשתמש באיורים של תקיצי מס, טופסי משכורת, הזכרות להגשת תקציבים ובקשות ממקצועיי המס, כדי לשדד נתונים, להפציץ רכיבי מל\"ט ולשדד כספים."
+  },
+  {
+    "id": "e83b68f7b61cad36",
+    "title_original": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/",
+    "description": "Cookie-gated PHP webshells use obfuscation, php-fpm execution, and cron-based persistence to evade detection in Linux hosting environments. This post examines how this tradecraft conceals execution behind specially crafted HTTP cookies.The postCookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environmentsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-02T15:37:22+00:00",
+    "fetched_at": "2026-04-03T05:45:36.484201+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
+    "summary_he": "Cookie-gated PHP webshells use obfuscation, php-fpm execution, and cron-based persistence to evade detection in Linux hosting environments. This post examines how this tradecraft conceals execution behind specially crafted HTTP cookies.The postCookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environmentsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "6e7c26f57fbed012",
+    "title_original": "Tax Season 2026: How Cyber Criminals Are Preparing Their Attacks Months in Advance",
+    "url": "https://blog.checkpoint.com/research/tax-season-2026-how-cyber-criminals-are-preparing-their-attacks-months-in-advance/",
+    "description": "Tax season remains one of the most attractive periods of the year for cyber criminals. As individuals and organizations exchange sensitive financial and identity data online, attackers take advantage of increased tax‑related activity to launch phishing campaigns, fraudulent websites, and malware attacks. Check Point Research shows that these campaigns are not opportunistic.  Threat actors begin preparing their infrastructure months in advance. A Surge in Malicious Tax‑Related Domains Between September 2025 and February 2026, hundreds of new domains containing tax‑related keywords or tax authority names were registered each month. This activity steadily increased toward the end of 2025 and intensified from […]The postTax Season 2026: How Cyber Criminals Are Preparing Their Attacks Months in Advanceappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-04-02T15:32:17+00:00",
+    "fetched_at": "2026-04-03T05:45:52.562530+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/tax-season-2026-how-cyber-criminals-are-preparing-their-attacks-months-in-advance/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Tax Season 2026: How Cyber Criminals Are Preparing Their Attacks Months in Advance",
+    "summary_he": "Tax season is a prime target for cyber criminals, with attacks often beginning months in advance. Threat actors register malicious domains and launch phishing campaigns to steal sensitive financial and identity data. These campaigns are becoming increasingly sophisticated, with attackers using coordinated efforts to deceive victims.",
+    "details_he": "Check Point Research has found that hundreds of new domains containing tax-related keywords or tax authority names were registered each month between September 2025 and February 2026. This activity increased towards the end of 2025 and intensified from November onward, indicating deliberate preparation ahead of tax-season campaigns. One in every 15 newly registered tax-related domains has already been classified as malicious or suspicious, highlighting the widespread abuse of tax-related themes. Additionally, Check Point Research identified multiple phishing domains impersonating the US Internal Revenue Service (IRS) in January 2026, and a malicious email campaign impersonating the Spanish tax authority, Agencia Tributaria (AEAT), in February 2026."
+  },
+  {
+    "id": "f45fa10347638351",
+    "title_original": "The Identity Paradox: The Hidden Risks in Your Valid Credentials",
+    "url": "https://www.sentinelone.com/blog/the-identity-paradox-the-hidden-risks-in-your-valid-credentials/",
+    "description": "Identity attacks are rising as trust expands — learn how to detect misuse, close gaps, and defend beyond authentication.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-04-02T13:00:03+00:00",
+    "fetched_at": "2026-04-03T05:45:40.432089+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-identity-paradox-the-hidden-risks-in-your-valid-credentials/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Identity Paradox: The Hidden Risks in Your Valid Credentials",
+    "summary_he": "Organizations are facing a growing security dilemma due to the increasing complexity of identity surfaces that attackers can exploit. Despite collecting more identity telemetry, identity-based intrusions remain challenging to detect, as attackers use legitimate credentials to bypass security controls.",
+    "details_he": "The 'Identity Paradox' reflects a fundamental imbalance in modern security operations. Enterprises have unprecedented visibility into authentication events and access logs, yet attackers continue to breach organizations using legitimate credentials. Attackers rely on techniques that inherit trusted sessions or legitimate credentials, such as stolen authentication tokens, adversary-in-the-middle phishing campaigns, and compromised developer accounts. This makes it difficult for traditional defenses to distinguish between normal activity and malicious intent. The problem is further compounded by the wide spectrum of identity abuse methods now being observed in the wild, including state-sponsored actors infiltrating organizations by applying for open roles directly."
+  }
+]
