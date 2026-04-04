@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-03T05:46:01.886851+00:00",
+  "timestamp": "2026-04-04T05:24:49.855522+00:00",
   "errors": [
     {
-      "title": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environm",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 436)",
+      "title": "v2.1.92",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 965)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 80,
+  "total_scanned": 62,
   "selected": 10
 }

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "495c1228cc9fbe21",
+    "title_original": "הפיטורים שמסעירים את העולם: מה מקבלים אחרי 34 שנים?",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001539418#utm_source=RSS",
+    "description": "אורקל הודיעה השבוע לאלפי עובדים במייל כי הם מפוטרים עוד באותו היום • ההודעה הקרה שנשלחה לעובדים בשש בבוקר הכתה גלים ותגובה של עובדת אחת הפכה ויראלית במיוחד • איזה פיצויים היא תקבל?",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-04-04T04:48:00+00:00",
+    "fetched_at": "2026-04-04T05:24:46.886417+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001539418#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "הפיטורים שמסעירים את העולם: מה מקבלים אחרי 34 שנים?",
+    "summary_he": "אורקל הכריזה על פיטורים של אלפי עובדים, והם יקבלו פיצויים. ההודעה הקרה הכתה גלים ועוררה תגובות חריפות.",
+    "details_he": "אורקל הודיעה לאלפי עובדים על פיטוריהם, והם יקבלו פיצויים. ההודעה הקרה שנשלחה לעובדים בשש בבוקר הכתה גלים ועוררה תגובות חריפות. עובדת אחת של החברה פרסמה תגובה שהפכה ויראלית, ומספרים אומרים שהיא תקבל פיצויים. הפיטורים של אורקל מסעירים את העולם, והם ישפיעו על אלפי עובדים."
+  },
+  {
+    "id": "61ac4434e49d22cc",
+    "title_original": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+    "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-04-04T01:31:00+00:00",
+    "fetched_at": "2026-04-04T05:24:21.079518+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+    "summary_he": "בשוק הפרטי, Anthropic נראה כאילו הוא נמצא במגמת עלייה, אבל SpaceX עשוי להפריע למפגני השוק.",
+    "details_he": "גלן אנדרסון, נשיא של הבנק להשקעות Rainmaker Securities, טוען שהשוק הפרטי נראה כמו שוק של עלייה, עם חברות כמו Anthropic ו-OpenAI. הדבר נובע מהעובדה שהביקוש למניות Anthropic הפך לבלתי נשלט, והזמינות של 600 מיליון דולר במניות OpenAI לא נמצאה. חלק מהדבר, טוען אנדרסון, הוא העימות הציבורי של Anthropic עם המחלקה להגנה, שהפך לסיפור של גיבור. הדבר גרם לגידול בפופולריות של החברה ולעלייה בביקוש למניותיה."
+  },
+  {
+    "id": "3a3adf9bef0076ed",
+    "title_original": "v2.1.92",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.92",
+    "description": "What's changedAddedforceRemoteSettingsRefreshpolicy setting: when set, the CLI blocks startup until remote managed settings are freshly fetched, and exits if the fetch fails (fail-closed)Added interactive Bedrock setup wizard accessible from the login screen when selecting \"3rd-party platform\" — guides you through AWS authentication, region configuration, credential verification, and model pinningAdded per-model and cache-hit breakdown to/costfor subscription users/release-notesis now an interactive version pickerRemote Control session names now use your hostname as the default prefix (e.g.myhost-graceful-unicorn), overridable with--remote-control-session-name-prefixPro users now see a footer hint when returning to a session after the prompt cache has expired, showing roughly how many tokens the next turn will send uncachedFixed subagent spawning permanently failing with \"Could not determine pane count\" after tmux windows are killed or renumbered during a long-running sessionFixed prom",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-04-04T00:42:02+00:00",
+    "fetched_at": "2026-04-04T05:24:49.008959+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.92"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.92",
+    "summary_he": "What's changedAddedforceRemoteSettingsRefreshpolicy setting: when set, the CLI blocks startup until remote managed settings are freshly fetched, and exits if the fetch fails (fail-closed)Added interactive Bedrock setup wizard accessible from the login screen when selecting \"3rd-party platform\" — guides you through AWS authentication, region configuration, credential verification, and model pinningAdded per-model and cache-hit breakdown to/costfor subscription users/release-notesis now an interactive version pickerRemote Control session names now use your hostname as the default prefix (e.g.myhost-graceful-unicorn), overridable with--remote-control-session-name-prefixPro users now see a footer hint when returning to a session after the prompt cache has expired, showing roughly how many tokens the next turn will send uncachedFixed subagent spawning permanently failing with \"Could not determine pane count\" after tmux windows are killed or renumbered during a long-running sessionFixed prom",
+    "details_he": ""
+  },
+  {
+    "id": "d244bf9a5ed7a6f6",
+    "title_original": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+    "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+    "description": "Experiments show large majorities uncritically accepting \"faulty\" AI answers.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-04-03T21:06:15+00:00",
+    "fetched_at": "2026-04-04T05:24:20.746530+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+    "summary_he": "Research has discovered a phenomenon known as 'cognitive surrender' where users of large language models outsource their critical thinking to AI, accepting its answers without scrutiny, even when they are incorrect.",
+    "details_he": "The study, conducted by researchers from the University of Pennsylvania, found that users who engage in 'cognitive surrender' tend to rely on AI's seemingly authoritative answers, often without verifying their accuracy. This behavior is particularly prevalent when AI systems provide answers fluently, confidently, or with minimal friction. The researchers used Cognitive Reflection Tests to measure the prevalence and effect of cognitive surrender, and found that test subjects who consulted AI were overwhelmingly willing to accept its answers without scrutiny. The study suggests that AI systems have given rise to a new form of 'artificial cognition' that can influence human decision-making and reasoning."
+  },
+  {
+    "id": "80a7861073a7bae5",
+    "title_original": "Trump ignores biggest reasons his AI data center buildout is failing",
+    "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
+    "description": "Nearly 50% of data center projects delayed as China holds key to power infrastructure.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-04-03T20:43:14+00:00",
+    "fetched_at": "2026-04-04T05:24:20.746530+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Trump ignores biggest reasons his AI data center buildout is failing",
+    "summary_he": "The US AI data center buildout is facing significant challenges due to Donald Trump's aggressive tariffs on Chinese imports, which are hindering the import of essential components needed for power infrastructure. As a result, many data center projects are expected to be delayed or canceled, and some companies are willing to pay tariffs to import goods from China. This situation is likely to frustrate Trump's plans to ensure the US wins the AI race against China.",
+    "details_he": "The tariffs imposed by Trump are reportedly causing wait times for essential components such as transformers, switchgear, and batteries to increase from 24-30 months to up to five years. This is because China has been the primary manufacturer of these components for US manufacturers for decades. Meanwhile, US manufacturing capacity for these devices cannot keep up with demand, making it difficult for data center builders to meet the required infrastructure needs. Analysts estimate that only a third of the largest AI data centers planned for 2026 are currently under construction, and community fears about the impact of data centers on electricity costs and the environment are helping to enact moratoriums on data center construction at local, state, and national levels."
+  },
+  {
+    "id": "fb3ed4e2dfe27676",
+    "title_original": "When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications",
+    "url": "https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/",
+    "description": "Unit 42 research on multi-agent AI systems on Amazon Bedrock reveals new attack surfaces and prompt injection risks. Learn how to secure your AI applications.The postWhen an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applicationsappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-04-03T22:00:38+00:00",
+    "fetched_at": "2026-04-04T05:24:27.159715+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications",
+    "summary_he": "חברת Amazon Bedrock מספקת תשתית למערכות AI המבוססות על קבוצות של סוכנים מיוחדים. עם זאת, זה גם גורם להרחבת פני השטח המותקף, וכך נוצרות דרכים חדשות להתקפה. במחקר זה, נראה כיצד תוקף יכול להתקדם בשרשרת התקיפה.",
+    "details_he": "המחקר נערך מנקודת מבט של קבוצת תקיפה, והוא חושף כיצד תוקף יכול לגלות את דרגת הפעילות של אפליקציה, לגלות סוכני עזר, להעביר תכולת תקיפה נשלטת על ידי התוקף, ולבצע פעולות מזיקות. עם זאת, המחקר לא גילה חולשות ב-Amazon Bedrock עצמה. כמו כן, הגנת ה-Bedrock Guardrail, שהיא תכונה בנויה-מראש של Bedrock, חסמה את התקיפות. המחקר מצביע על סכנה רחבה יותר, של פגיעה במערכות המבוססות על מודלי שפה גדולים (LLMs), כי LLMs לא יכולים להבדיל באופן ודאי בין הוראות שהוגדרו על ידי המפתח ובין קלט של משתמש עוין."
+  },
+  {
+    "id": "a5e3f3e9c1de6ed9",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 14",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-14-6/",
+    "description": "SentinelOne stops LiteLLM supply chain attack in real time, attackers weaponize Axios to deploy RAT, and Chrome zero-day enables RCE.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-04-03T13:00:00+00:00",
+    "fetched_at": "2026-04-04T05:24:28.711995+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-14-6/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 14",
+    "summary_he": "SentinelOne's AI-driven endpoint protection demonstrated its capabilities in detecting and stopping sophisticated supply chain attacks in real time, while a separate attack compromised Axios to deliver a cross-platform RAT via a compromised npm package.",
+    "details_he": "SentinelOne's AI-driven endpoint protection successfully detected and stopped a supply chain attack that targeted LiteLLM, a popular proxy for LLM API calls, in under 44 seconds. The attack was launched from a compromised security tool and attempted to deploy a cross-platform payload, but SentinelOne's behavioral AI detected the malicious activity at runtime and terminated the process chain. Meanwhile, a separate attack compromised Axios by introducing a hidden dependency that deployed a cross-platform remote access trojan (RAT) via a compromised npm package. This highlights the growing trend of AI-driven attacks and the need for autonomous, behavior-based systems capable of acting instantly to close the gap between detection and compromise."
+  },
+  {
+    "id": "b08f25d9dcbec2d1",
+    "title_original": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+    "url": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+    "description": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025, following a two-year period of minimal targeting in the region.\nThe campaign has been attributed to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo Panda.\n\"This TA416 activity included multiple",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-04-03T23:04:00+05:30",
+    "fetched_at": "2026-04-04T05:24:22.929802+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+    "summary_he": "תאגיד סייבר מקושר לסין פועל כעת באירופה, ומטרתו לפגוע בארגוני ממשל ודיפלומטיים. התאגיד, שנקרא TA416, פועל באמצעות PlugX ואותנצ'ייז-בייסד Phishing.",
+    "details_he": "TA416, תאגיד סייבר מקושר לסין, פועל כעת באירופה, ומטרתו לפגוע בארגוני ממשל ודיפלומטיים. התאגיד ניצל את PlugX ואותנצ'ייז-בייסד Phishing כדי לפגוע בארגונים אלה. התאגיד גם ניצל את OAuth redirects כדי להוריד ארכיונים מזויפים. תאגיד זה פועל גם במזרח התיכון, ומטרתו לאסוף מידע על הסכסוך בין ארצות הברית, ישראל ואיראן."
+  },
+  {
+    "id": "082ffccbb1bb0d32",
+    "title_original": "Friday Squid Blogging: Jurassic Fish Chokes on Squid",
+    "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html",
+    "description": "Here’s afossilof a 150-million year old fish that choked to death on abelemnite rostrum: the hard, internal shell of an extinct, squid-like animal.Originalpaper.As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.Blog moderation policy.",
+    "source_name": "Bruce Schneier",
+    "source_url": "https://www.schneier.com",
+    "category": "ai",
+    "published": "2026-04-03T21:07:06+00:00",
+    "fetched_at": "2026-04-04T05:24:24.987009+00:00",
+    "sources": [
+      {
+        "name": "Bruce Schneier",
+        "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Friday Squid Blogging: Jurassic Fish Chokes on Squid",
+    "summary_he": "בפוסט זה, המחבר משתמש באפשרות להתייחס לסיפורי אבטחת המידע שלא טקל, כדי לדון בסיפורים שלא נכללו בפוסט. הפוסט כולל תמונה של דג 150 מיליון שנה שמת, שמת כתוצאה משאיפת רוסטרום של בלמניט.",
+    "details_he": "הפוסט כולל תמונה של דג 150 מיליון שנה שמת, שמת כתוצאה משאיפת רוסטרום של בלמניט. הדבר מעורר תשובות רבות על האפשרות של דגים ישנים לאכול רקמות של סרטנים. כמו כן, הפוסט כולל קישור למאמר מדעי שעוסק בנושא זה."
+  },
+  {
+    "id": "59139d3a3f8edad1",
+    "title_original": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting",
+    "url": "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough",
+    "description": "Data privacy labels are a great idea for mobile apps, but the current versions just aren't good enough.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "ai",
+    "published": "2026-04-03T21:05:07+00:00",
+    "fetched_at": "2026-04-04T05:24:23.264830+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting",
+    "summary_he": "מספר חברות ניסו לפתח מערכת של תווי פרטיות, אך תווים אלה אינם מספקים מידע ראוי לגבי נגישות הנתונים.",
+    "details_he": "מערכת תווי הפרטיות הנוכחית אינה ספקית דיין, ואינה מספקת מידע מספק למשתמשים. חברות שונות ניסו לפתח פתרונות, אך עדיין לא נמצאה פתרון יעיל. חברות רבות נאלצות להשתמש בתווי פרטיות שאינם ספקיים, וזאת על אף שהן רוצות לספק למשתמשים מידע ראוי."
+  }
+]
