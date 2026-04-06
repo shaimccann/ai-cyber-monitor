@@ -1,0 +1,212 @@
+[
+  {
+    "id": "906ed678c2df9131",
+    "title_original": "המניה שצנחה 33% ביום אחד ממחישה לקח שכל חברה נוצצת צריכה להכיר",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001539467#utm_source=RSS",
+    "description": "חברת בדיקת השבבים קווליטאו הייתה אחת משיאניות התשואה של תל אביב עם עלייה של 300% בשנה • אבל הדוחות שפורסמו בשבוע שעבר הפכו את המגמה והביאו לקריסה של 33% ביום אחד • זו יכולה להיות הזדמנות חריגה, אם ההנהלה תעשה מהלך אחד דרמטי • ניתוח חברה, מדור חדש",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-04-06T02:57:00+00:00",
+    "fetched_at": "2026-04-06T06:04:16.585076+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001539467#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "המניה שצנחה 33% ביום אחד ממחישה לקח שכל חברה נוצצת צריכה להכיר",
+    "summary_he": "קווליטאו, חברת בדיקת השבבים, חוותה קריסה של 33% ביום אחד, לאחר עלייה של 300% בשנה. הדוחות שפורסמו בשבוע שעבר הביאו למגמה זו. זו יכולה להיות הזדמנות חריגה להנהלה.",
+    "details_he": "חברת בדיקת השבבים קווליטאו הייתה אחת משיאניות התשואה של תל אביב, עם עלייה של 300% בשנה. אבל הדוחות שפורסמו בשבוע שעבר הפכו את המגמה והביאו לקריסה של 33% ביום אחד. זו יכולה להיות הזדמנות חריגה, אם ההנהלה תעשה מהלך אחד דרמטי. ניתוח חברה, מדור חדש."
+  },
+  {
+    "id": "4a762aac07f0fd6e",
+    "title_original": "המנכ\"ל שקנה את מפעל הרחפנים רגע לפני שנפגע מטיל: \"מעז יכול לצאת מתוק\"",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001539475#utm_source=RSS",
+    "description": "ולוריקס הבורסאית דיווחה בשבוע שעבר על רכישת השליטה באירוסול הפרטית • שיגור מאיראן שפגע במפעל, זירז מבחינתה את המהלכים לקדם את האופרציה שתציע \"מוצר ישראלי מקצה לקצה\" • מנכ\"ל ולוריקס: \"מרוץ החימוש האמיתי יחל עם תום המלחמות באיראן ובאוקראינה\"",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-04-06T02:49:00+00:00",
+    "fetched_at": "2026-04-06T06:04:16.585076+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001539475#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "המנכ\"ל שקנה את מפעל הרחפנים רגע לפני שנפגע מטיל: \"מעז יכול לצאת מתוק\"",
+    "summary_he": "מנכ\"ל חברת ולוריקס, שרכשה את השליטה באירוסול הפרטית, ציין שהאופרציה תציע 'מוצר ישראלי מקצה לקצה' וכי 'מרוץ החימוש האמיתי' יחל אחרי תום המלחמות באיראן ובאוקראינה.",
+    "details_he": "בשבוע שעבר, דיווחה ולוריקס הבורסאית על רכישת השליטה באירוסול הפרטית. שיגור מאיראן שפגע במפעל, זירז את המהלכים של ולוריקס לקדם את האופרציה. על פי דברי המנכ\"ל, האופרציה תציע 'מוצר ישראלי מקצה לקצה' וכי 'מרוץ החימוש האמיתי' יחל אחרי תום המלחמות באיראן ובאוקראינה."
+  },
+  {
+    "id": "0e2ec561f9c1d23b",
+    "title_original": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+    "url": "https://arxiv.org/abs/2604.02334",
+    "description": "arXiv:2604.02334v1 Announce Type: new \nAbstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift toward Artificial General Intelligence (AGI). However, LLM-based multi-agent systems (LaMAS) are hindered by open-world issues such as scaling friction, coordination breakdown, and value dissipation. To address these challenges, we introduce Holos, a web-scale LaMAS architected for long-term ecological persistence. Holos adopts a five-layer architecture, with core modules primarily featuring the Nuwa engine for high-efficiency agent generation and hosting, a market-driven Orchestrator for resilient coordination, and an endogenous value cycle to achieve incentive compatibility. By bridging the gap between micro-level collaboration and macro-scale emergence, Holos hopes to lay the foundation for ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-04-06T00:00:00-04:00",
+    "fetched_at": "2026-04-06T06:03:52.368889+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2604.02334"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+    "summary_he": "מערכת Holos, המבוססת על מודלי לשון גדולים, נועדה לפתור בעיות של גודל, תקשורת וערך במערכות זוות של זיהוי נושא. המערכת כוללת שכבות חמש, כולל יחידות גרעין שמכילות מנוע Nuwa לייצור ואירוח זוות עם יעילות גבוהה.",
+    "details_he": "Holos, מערכת זוות מבוססת LLM, נועדה לפתור בעיות של גודל, תקשורת וערך במערכות זוות של זיהוי נושא. המערכת כוללת שכבות חמש, כולל יחידות גרעין שמכילות מנוע Nuwa לייצור ואירוח זוות עם יעילות גבוהה. המערכת גם כוללת מנגנון של קואורדינציה ואפקטיביות של ערך. Holos נועדה להפוך את האקספלורטור הזוות של האינטרנט לאקספלורטור של זוות עם יעילות גבוהה וערך. המערכת נמצאת כרגע בגירסה ציבורית."
+  },
+  {
+    "id": "7902845ff54142e3",
+    "title_original": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling",
+    "url": "https://arxiv.org/abs/2604.02335",
+    "description": "arXiv:2604.02335v1 Announce Type: new \nAbstract: Modeling groundwater flow in three-dimensional fractured crystalline media requires accounting for strong spatial heterogeneity induced by fractures. Fine-scale discrete fracture-matrix (DFM) simulations can capture this complexity but are computationally expensive, especially when repeated evaluations are needed. To address this, we aim to employ a multilevel Monte Carlo (MLMC) framework in which numerical homogenization is used to upscale sub-resolution fracture effects when transitioning between accuracy levels.\n  To reduce the cost of conventional 3D numerical homogenization, we develop a surrogate model that predicts the equivalent hydraulic conductivity tensor Keq from a voxelized 3D domain representing tensor-valued random fields of matrix and fracture conductivities. Fracture size, orientation, and aperture are sampled from distributions informed by natural observations.\n  The surrogate architecture combines a 3D convolutional ne",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-04-06T00:00:00-04:00",
+    "fetched_at": "2026-04-06T06:03:52.368889+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2604.02335"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling",
+    "summary_he": "מחקר חדש מציע שיטה חדשה לחישוב זרימת מים תת-קרקעית באמצעות רשת עצבים עם פעולות תיבת-משולב. השיטה, המבוססת על פיתוח דגם תחליף, מאפשרת לחשב את התנהגות הזרימה תוך כדי צמצום עומס החישוב.",
+    "details_he": "המחקר, שפורסם בארכיוו של arXiv, עוסק בפיתוח שיטה חדשה לחישוב זרימת מים תת-קרקעית באמצעות רשת עצבים עם פעולות תיבת-משולב. השיטה, המבוססת על פיתוח דגם תחליף, מאפשרת לחשב את התנהגות הזרימה תוך כדי צמצום עומס החישוב. הדגם התחליף, שפותח על ידי צוות חוקרים בראשות מרטין Špetlík, משתמש בפעולות תיבת-משולב כדי לחשב את התנהגות הזרימה באמצעות פיתוח דגם תחליף. הדגם התחליף מאפשר לחשב את התנהגות הזרימה תוך כדי צמצום עומס החישוב, ומאפשר לחשב את הזרימה באמצעות פיתוח דגם תחליף."
+  },
+  {
+    "id": "5a32ab90b10c1911",
+    "title_original": "Generating Counterfactual Patient Timelines from Real-World Data",
+    "url": "https://arxiv.org/abs/2604.02337",
+    "description": "arXiv:2604.02337v1 Announce Type: new \nAbstract: Counterfactual simulation - exploring hypothetical consequences under alternative clinical scenarios - holds promise for transformative applications such as personalized medicine and in silico trials. However, it remains challenging due to methodological limitations. Here, we show that an autoregressive generative model trained on real-world data from over 300,000 patients and 400 million patient timeline entries can generate clinically plausible counterfactual trajectories. As a validation task, we applied the model to patients hospitalized with COVID-19 in 2023, modifying age, serum C-reactive protein (CRP), and serum creatinine to simulate 7-day outcomes. Increased in-hospital mortality was observed in counterfactual simulations with older age, elevated CRP, and elevated serum creatinine. Remdesivir prescriptions increased in simulations with higher CRP values and decreased in those with impaired kidney function. These counterfactual ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-04-06T00:00:00-04:00",
+    "fetched_at": "2026-04-06T06:03:52.368889+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2604.02337"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Generating Counterfactual Patient Timelines from Real-World Data",
+    "summary_he": "מחקר חדש מציג שיטה ליצירת תזמוני מטופלים חדשים, המבוססים על נתוני מטופלים אמיתיים. השיטה, המשתמשת בדגימות אוטורגרסיביות, יכולה לייצר תזמונים סבירים, כאלה שהיו נכונים במצבים קליניים שונים.",
+    "details_he": "במחקר זה, החוקרים השתמשו בנתוני מטופלים מעל 300,000 ו-400 מיליון תזמונים של מטופלים, כדי לאמן דגימות אוטורגרסיביות. המודל האוטורגרסיבי, שהוכשר על נתונים אמיתיים, יכול היה לייצר תזמונים סבירים, המתאימים למצבים קליניים שונים. החוקרים ניסו את המודל על חולים שהיו בבית החולים עם COVID-19 ב-2023, והצליחו לייצר תזמונים שהתאימו למצבים קליניים שונים. התזמונים החדשים היו כאלה שהיו נכונים במצבים קליניים שונים, כגון גיל, קריאטיבין וסרום קראטינין."
+  },
+  {
+    "id": "32d5ca39f0b829d3",
+    "title_original": "External Attack Surface Management (EASM)",
+    "url": "https://xmcyber.com/videos/external-attack-surface-management-easm/",
+    "description": "XM Cyber links the external attack surface directly to the blast radius of external exposures on critical business assets. Watch the video to see...The postExternal Attack Surface Management (EASM)appeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-04-05T11:37:31+00:00",
+    "fetched_at": "2026-04-06T06:04:06.727702+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/videos/external-attack-surface-management-easm/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "External Attack Surface Management (EASM)",
+    "summary_he": "XM Cyber מציגה פתרון לניהול שטח התקיפה החיצוני, המקשר בין השטח החיצוני לספקטרום התקיפה האפשרי.",
+    "details_he": "XM Cyber טוענת כי פתרון External Attack Surface Management (EASM) שלה מאפשר לחברות לזהות ולתקן חשיפות חיצוניות קריטיות, ולצמצם את הספקטרום התקיפה האפשרי. הפתרון מקשר בין השטח החיצוני לספקטרום התקיפה האפשרי, ומאפשר לחברות לקבל תמונת מצב נוחה ומדויקת של חשיפותיהן. XM Cyber טוענת כי פתרון EASM שלה הוא הפתרון היחידי שמסוגל לקבל תמונת מצב נוחה ומדויקת של חשיפות חיצוניות קריטיות."
+  },
+  {
+    "id": "a219465f95f78162",
+    "title_original": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+    "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+    "description": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
+    "source_name": "Krebs on Security",
+    "source_url": "https://krebsonsecurity.com",
+    "category": "cyber",
+    "published": "2026-04-06T02:07:17+00:00",
+    "fetched_at": "2026-04-06T06:03:52.919400+00:00",
+    "sources": [
+      {
+        "name": "Krebs on Security",
+        "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+    "summary_he": "German authorities have revealed the identity of a notorious Russian hacker who led the REvil and GandCrab ransomware gangs, causing millions of euros in economic damage. Daniil Maksimovich Shchukin, also known as UNKN, is accused of heading the gangs and extorting nearly $2 million euros from victims. The hacker's activities date back to 2019 and 2021.",
+    "details_he": "Shchukin's involvement with the REvil and GandCrab gangs is believed to have caused significant economic damage, with over 35 million euros in total losses. The German Federal Criminal Police (BKA) has published an advisory naming Shchukin as the head of the gangs. Shchukin's digital wallet, seized by the US Justice Department, contained over $317,000 in ill-gotten cryptocurrency. The REvil gang is known for pioneering the practice of double extortion, charging victims twice for a key to unlock hacked systems and a promise not to publish stolen data."
+  },
+  {
+    "id": "a8eb52d62fc46d12",
+    "title_original": "ISC Stormcast For Monday, April 6th, 2026 https://isc.sans.edu/podcastdetail/9880, (Mon, Apr 6th)",
+    "url": "https://isc.sans.edu/diary/rss/32868",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-04-06T02:00:02+00:00",
+    "fetched_at": "2026-04-06T06:03:54.505675+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32868"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Monday, April 6th, 2026 https://isc.sans.edu/podcastdetail/9880, (Mon, Apr 6th)",
+    "summary_he": "SANS Internet Storm Center released its weekly podcast for April 6th, 2026, providing insights into current cybersecurity threats and trends.",
+    "details_he": "The ISC Stormcast covers various topics, including critical vulnerabilities, emerging threats, and security best practices. The podcast aims to educate listeners on the latest cybersecurity developments and help them stay informed about potential risks. By sharing knowledge and expertise, the SANS Internet Storm Center contributes to the global cybersecurity community's efforts to mitigate threats and protect against cyberattacks."
+  },
+  {
+    "id": "7fce3b74b931a490",
+    "title_original": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+    "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+    "description": "Drift has revealed that the April 1, 2026, attack that led to the theft of $285 million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of 2025.\nThe Solana-based decentralized exchange described it as \"an attack six months in the",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-04-05T23:55:00+05:30",
+    "fetched_at": "2026-04-06T06:03:53.167542+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+    "summary_he": "בעקבות התקיפה של 1 באפריל 2026, שגרמה לגנבת 285 מיליון דולר, החברה Drift חשפה כי התקיפה הייתה תוצאה של פעילות חבלה מתוחכמת של 6 חודשים של קוריאה הצפונית. החברה גם חשפה כי התקיפה נעשתה על ידי קבוצת חבלנים ממומנת על ידי הממשלה.",
+    "details_he": "החברה Drift חשפה כי התקיפה הייתה תוצאה של פעילות חבלה מתוחכמת של 6 חודשים של קוריאה הצפונית. החברה גם חשפה כי התקיפה נעשתה על ידי קבוצת חבלנים ממומנת על ידי הממשלה. החברה ציינה כי התקיפה הייתה 'התקיפה של 6 חודשים' וכי היא חשפה 'קשר תפעולי' בין התקיפה לבין קבוצת חבלנים שפעלה בעבר. החברה גם ציינה כי התקיפה נעשתה על ידי קבוצת חבלנים שפעלה גם בעבר, וכי היא חשפה 'קשר תפעולי' בין התקיפה לבין קבוצת חבלנים שפעלה בעבר."
+  },
+  {
+    "id": "8dc5b43e918c53a5",
+    "title_original": "Traffic violation scams switch to QR codes in new phishing texts",
+    "url": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
+    "description": "Scammers are sending fake \"Notice of Default\" traffic violation text messages impersonating state courts across the U.S., pressuring recipients to scan a QR code that leads to a phishing site demanding a $6.99 payment while stealing personal and financial information. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-04-05T15:44:10-04:00",
+    "fetched_at": "2026-04-06T06:03:52.722804+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Traffic violation scams switch to QR codes in new phishing texts",
+    "summary_he": "Scammers are sending fake traffic violation notices with QR codes to pressure recipients into paying $6.99, stealing personal and financial information in the process. This new variation of toll violation scams started a few weeks ago, targeting residents across the US. The fake notices claim to be from state courts, but are actually phishing sites.",
+    "details_he": "The new campaign includes fake court notices with embedded QR codes, which lead to intermediary sites that prompt users to solve a CAPTCHA. After solving the CAPTCHA, users are redirected to phishing sites impersonating state agencies, such as the DMV, claiming there is an unpaid toll or parking ticket. The outstanding balance is always $6.99, and users are asked to enter their personal and credit card information to pay the alleged charge. This information can be used for malicious activities, including follow-on phishing attacks, financial fraud, identity theft, and the sale of personal data."
+  }
+]
