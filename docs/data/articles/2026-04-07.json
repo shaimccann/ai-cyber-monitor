@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a30d62407894684d",
+    "title_original": "Announcing the OpenAI Safety Fellowship",
+    "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+    "description": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-04-06T10:00:00+00:00",
+    "fetched_at": "2026-04-07T05:51:14.995360+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-safety-fellowship"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcing the OpenAI Safety Fellowship",
+    "summary_he": "OpenAI הכריזה על תוכנית העמידה של OpenAI, שמטרתה לתמוך במחקר עצמאי לביטחון ולהתאמה ולפתח את הדור הבא של כישרונות.",
+    "details_he": "OpenAI Safety Fellowship היא תוכנית ניסיונית שמטרתה לתמוך במחקר עצמאי לביטחון ולהתאמה, ולפתח את הדור הבא של כישרונות. התוכנית תספק תמיכה כספית ומשאבים למחקר, ותאפשר למחקרים לחקור נושאים חשובים כגון התאמה, ביטחון ומודעות. OpenAI מצפה שהתוכנית תסייע לפתח כישרונות חדשים שיכולים להצטרף למאמצי OpenAI לפתח AI שיהיה בטוח ומוסבר."
+  },
+  {
+    "id": "a3af316091ab5335",
+    "title_original": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+    "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+    "description": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-06T09:55:59+00:00",
+    "fetched_at": "2026-04-07T05:51:17.550383+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+    "summary_he": "NVIDIA is highlighting the advancements in physical AI research during National Robotics Week, showcasing breakthroughs in robot learning, simulation, and foundation models that enable robots to transition from virtual to real-world environments more efficiently.",
+    "details_he": "The company's platforms for simulation, synthetic data, and AI-powered robot learning provide developers with the tools to build machines that can perceive, reason, and act in complex environments. This is demonstrated by Maximo, a solar robotics business that completed a 100-megawatt solar installation using its robot fleet developed with NVIDIA accelerated computing. Additionally, Aigen is using NVIDIA's technology to advance sustainable farming with agricultural robotics, breaking farmers' dependency on chemicals through precision weed control powered by vision AI."
+  },
+  {
+    "id": "59912d8d706ad92f",
+    "title_original": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+    "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+    "description": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-04-07T05:30:00+00:00",
+    "fetched_at": "2026-04-07T05:51:21.973724+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+    "summary_he": "Startup Rocket מאפשרת למנהלי פרויקטים ליצור דוחות סטרטגיים בסגנון מומחים, בעלות נמוכה מאוד.",
+    "details_he": "החברה, המבוססת בסוראט, הודיעה על השקת פלטפורמה שלה, Rocket 1.0, שמחברת בין מחקר, בניית מוצרים ומודעות תחרותיות לזרימת עבודה אחת. הפלטפורמה יוצרת דוחות סטרטגיים מפורטים, כולל מחירים, כלכלה של יחידה והמלצות לשוק. רוקט 1.0 גם יכולה לעקוב אחר תחרים, כולל שינויים באתריהם וטרנדים בתנועת המשתמשים. החברה משתמשת ביותר מ-1,000 מקורות נתונים לניתוח, כולל ספריות הפרסומות של Meta, API של Similarweb ומחפשיו שלה. Rocket 1.0 נמכרת בתוכניות חברות של $25 לחודש לבניית אפליקציות, $250 ליכולות של סטרטגיה ומחקר ועד $350 לפלטפורמה המלאה, כולל מודעות תחרותיות."
+  },
+  {
+    "id": "f39cec7d00b159e2",
+    "title_original": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
+    "url": "https://arxiv.org/abs/2604.03232",
+    "description": "arXiv:2604.03232v1 Announce Type: new \nAbstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transition system complies with a given safety property. IC3 either returns UNSAFE (indicating property violation) with a counterexample trace, or SAFE with a checkable inductive invariant as the proof to safety. In practice, the performance of IC3 is dominated by a large web of interacting heuristics and implementation choices, making manual tuning costly, brittle, and hard to reproduce. This paper presents IC3-Evolve, an automated offline code-evolution framework that utilizes an LLM to propose small, slot-restricted and auditable patches to an IC3 implementation. Crucially, every candidate patch is admitted only through proof- /witness-gated validation: SAFE runs must emit a certificate that is independently checked, and UNSAFE runs must emit a replayable counterexample trace, preventing unsoun",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-04-07T00:00:00-04:00",
+    "fetched_at": "2026-04-07T05:51:22.701318+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2604.03232"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
+    "summary_he": "מחברים מציגים פרויקט IC3-Evolve, שמשתמש ב-LLM להצגת שינויים קטנים בקוד IC3, כדי לשפר את ביצועיו. השינויים נבדקים באמצעות ולידציה של ראיות ועדויות.",
+    "details_he": "הפרויקט IC3-Evolve, שפותח על ידי המחברים Mingkai Miao, Guangyu Hu, Ziyi Yang ו-Hongce Zhang, משתמש ב-LLM (Large Language Model) להצגת שינויים קטנים בקוד IC3, שהוא אלגוריתם נפוץ לבדיקת אבטחת תכנון תוכנה. השינויים נבדקים באמצעות ולידציה של ראיות ועדויות, כדי למנוע תיקונים לא נכונים. הפרויקט נבדק על סדרת בדיקות תכנון תוכנה ציבורית ותעשייתית, והתוצאות הראו ש-IC3-Evolve יכול לגלות שיפורים יעילים בהביצועים."
+  },
+  {
+    "id": "10c58e26b149372f",
+    "title_original": "Integrating Artificial Intelligence, Physics, and Internet of Things: A Framework for Cultural Heritage Conservation",
+    "url": "https://arxiv.org/abs/2604.03233",
+    "description": "arXiv:2604.03233v1 Announce Type: new \nAbstract: The conservation of cultural heritage increasingly relies on integrating technological innovation with domain expertise to ensure effective monitoring and predictive maintenance. This paper presents a novel framework to support the preservation of cultural assets, combining Internet of Things (IoT) and Artificial Intelligence (AI) technologies, enhanced with the physical knowledge of phenomena. The framework is structured into four functional layers that permit the analysis of 3D models of cultural assets and elaborate simulations based on the knowledge acquired from data and physics. A central component of the proposed framework consists of Scientific Machine Learning, particularly Physics-Informed Neural Networks (PINNs), which incorporate physical laws into deep learning models. To enhance computational efficiency, the framework also integrates Reduced Order Methods (ROMs), specifically Proper Orthogonal Decomposition (POD), and is al",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-04-07T00:00:00-04:00",
+    "fetched_at": "2026-04-07T05:51:22.701318+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2604.03233"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Integrating Artificial Intelligence, Physics, and Internet of Things: A Framework for Cultural Heritage Conservation",
+    "summary_he": "מחקר חדש מציע פרקטיקה חדשה לשימור תרבות ואתרי תיירות, המשלבת טכנולוגיות של AI, IoT ופיזיקה, כדי לשפר את תהליך השימור ולמנוע נזקים.",
+    "details_he": "המחקר, שפורסם בארכיון arXiv, נועד לפתח פרקטיקה חדשה לשימור תרבות ואתרי תיירות, המשלבת טכנולוגיות של AI, IoT ופיזיקה. הפרקטיקה, המכונה 'פרקטיקה לשימור תרבות', כוללת ארבע שכבות פונקציונליות שמאפשרות את הניתוח של דגמים 3D של נכסי תרבות ואת הפיתוח של תרגילי השקעה מבוססי נתונים ופיזיקה. הפרקטיקה כוללת גם כלים לניהול ולעיבוד אוטומטי של דגמים 3D, כדי לאפשר את השימוש הישיר שלהם בתרגילי השקעה. המחקר גם כולל תרגילי השקעה רב-ממדיים, שמאפשרים את הבנת התפשטות מחלות ושינויים באתרי תיירות."
+  },
+  {
+    "id": "f481470cee7925bb",
+    "title_original": "Understanding Current Threats to Kubernetes Environments",
+    "url": "https://unit42.paloaltonetworks.com/modern-kubernetes-threats/",
+    "description": "Unit 42 uncovers escalating Kubernetes attacks, detailing how threat actors exploit identities and critical vulnerabilities to compromise cloud environments.The postUnderstanding Current Threats to Kubernetes Environmentsappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-04-06T22:00:08+00:00",
+    "fetched_at": "2026-04-07T05:51:28.151966+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/modern-kubernetes-threats/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Understanding Current Threats to Kubernetes Environments",
+    "summary_he": "Kubernetes environments have become a prime target for cyber adversaries due to their widespread adoption in enterprise-scale environments. Threat actor operations related to Kubernetes have seen a significant increase, with a 282% rise in stealing Kubernetes tokens over the last year. The IT sector was the most heavily targeted, accounting for over 78% of observed activity.",
+    "details_he": "The Threat Research Center has identified a common attack pattern involving the exploitation of misconfigurations or vulnerabilities to achieve remote code execution in containers, followed by the theft of Kubernetes identities and the escalation of privileges across clusters and cloud services. This pattern was observed in two real-world case studies, including the exploitation of the React2Shell vulnerability (CVE-2025-55182) and the theft of service account tokens. The research highlights the importance of implementing validated settings, deep runtime visibility, and strictly limited permissions to secure Kubernetes environments against attacks."
+  },
+  {
+    "id": "ee492b7c2329a8c1",
+    "title_original": "Inside an AI‑enabled device code phishing campaign",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+    "description": "A new wave of device code phishing shows how threat actors are scaling account compromise using AI and end‑to‑end automation. This campaign goes beyond traditional phishing by generating live authentication codes on demand, enabling higher success rates and sustained post‑compromise access.The postInside an AI‑enabled device code phishing campaignappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-06T16:34:17+00:00",
+    "fetched_at": "2026-04-07T05:51:25.969593+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inside an AI‑enabled device code phishing campaign",
+    "summary_he": "תוקפים משתמשים בטכנולוגיית AI כדי להגדיל את הצלחתם בפיצוח קודי אימות, ולאפשר להם גישה קבועה לחשבים לאחר הפריצה.",
+    "details_he": "בקמפיין זה, התוקפים משתמשים ב-AI ובאוטומציה מלאה-סדרה כדי ליצור קודי אימות חיים בדרישה, וכך הם מגדילים את הצלחתם. זה קמפיין של פיצוח קודי אימות, שמטרתו לפצוח לתוך חשבים. הקמפיין נראה כמו פיצוח קודי אימות רגיל, אבל הוא יותר יעיל. הפיצוח נעשה באמצעות AI ואוטומציה, והוא מגדיל את הצלחתם של התוקפים."
+  },
+  {
+    "id": "cbb4aa6035725045",
+    "title_original": "Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/",
+    "description": "The financially motivated cybercriminal threat actor Storm-1175 operates high-velocity ransomware campaigns that weaponize recently disclosed vulnerabilities to obtain initial access, exfiltrate data, and deploy Medusa ransomware.The postStorm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operationsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-06T16:00:00+00:00",
+    "fetched_at": "2026-04-07T05:51:25.969593+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations",
+    "summary_he": "Storm-1175, a financially motivated cybercriminal actor, is rapidly exploiting vulnerable web-facing systems using N-days and zero-day exploits, often targeting healthcare and other sectors in Australia, the UK, and the US.",
+    "details_he": "Storm-1175's high operational tempo and proficiency in identifying exposed perimeter assets have enabled successful ransomware campaigns, with the threat actor rapidly moving from initial access to data exfiltration and deployment of Medusa ransomware within a few days or even 24 hours. The threat actor consistently uses recently disclosed vulnerabilities to obtain initial access, and has also been observed chaining together multiple exploits to enable post-compromise activity. After initial access, Storm-1175 establishes persistence by creating new user accounts, deploys various tools, conducts credential theft, and tampers with security solutions before deploying ransomware throughout the compromised environment."
+  },
+  {
+    "id": "43856cc7a3546e20",
+    "title_original": "6th April – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/",
+    "description": "For the latest discoveries in cyber research for the week of 30th March, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES The European Commission, the European Union’s executive body, has confirmed a data breach after its Europa.eu platform was compromised through a third-party exchange linked to the Trivy supply chain attack. The incident […]The post6th April – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-04-06T11:21:31+00:00",
+    "fetched_at": "2026-04-07T05:51:29.478803+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "6th April – Threat Intelligence Report",
+    "summary_he": "The European Commission has confirmed a data breach following a cyber attack on its Europa.eu platform, which was compromised through a third-party exchange linked to the Trivy supply chain attack.",
+    "details_he": "The breach occurred due to a third-party exchange vulnerability, which is linked to the Trivy supply chain attack. This incident highlights the importance of monitoring third-party exchanges for potential vulnerabilities. The European Commission's Europa.eu platform was compromised, compromising sensitive data. The exact nature and extent of the breach are yet to be disclosed."
+  },
+  {
+    "id": "2c2aa39f1e0079fd",
+    "title_original": "ISC Stormcast For Tuesday, April 7th, 2026 https://isc.sans.edu/podcastdetail/9882, (Tue, Apr 7th)",
+    "url": "https://isc.sans.edu/diary/rss/32872",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-04-07T02:00:02+00:00",
+    "fetched_at": "2026-04-07T05:51:25.482491+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32872"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Tuesday, April 7th, 2026 https://isc.sans.edu/podcastdetail/9882, (Tue, Apr 7th)",
+    "summary_he": "SANS Internet Storm Center released its ISC Stormcast for Tuesday, April 7th, 2026, providing insights into the current cyber landscape. The podcast offers expert analysis and threat intelligence to help organizations stay informed and secure. It is available under a Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "details_he": "The ISC Stormcast is a regular podcast series from the SANS Internet Storm Center, offering in-depth analysis and commentary on the latest cyber threats and trends. The podcast is designed to provide actionable intelligence and insights to help organizations protect themselves against emerging threats. By making the podcast available under a Creative Commons license, SANS Internet Storm Center aims to promote sharing and collaboration in the cybersecurity community."
+  }
+]
