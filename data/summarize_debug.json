@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-08T05:52:59.807580+00:00",
+  "timestamp": "2026-04-09T05:53:34.854132+00:00",
   "errors": [
     {
-      "title": "Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1114)",
+      "title": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 646)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 88,
+  "total_scanned": 81,
   "selected": 10
 }

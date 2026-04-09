@@ -1,0 +1,212 @@
+[
+  {
+    "id": "f99fe9d3cfa2366d",
+    "title_original": "How Amazon uses agentic AI for vulnerability detection at global scale",
+    "url": "https://www.amazon.science/blog/how-amazon-uses-agentic-ai-for-vulnerability-detection-at-global-scale",
+    "description": "Amazon’s RuleForge system uses agentic AI to generate production-ready detection rules 336% faster than traditional methods.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-04-08T16:17:20+00:00",
+    "fetched_at": "2026-04-09T05:52:58.129408+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/how-amazon-uses-agentic-ai-for-vulnerability-detection-at-global-scale"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Amazon uses agentic AI for vulnerability detection at global scale",
+    "summary_he": "Amazon's agentic AI system, RuleForge, generates detection rules 336% faster than traditional methods while maintaining high precision, helping to close the gap between vulnerability disclosure and defense.",
+    "details_he": "Amazon's RuleForge system uses agentic AI to generate production-ready detection rules by decomposing rule creation into stages mirroring human expert workflows, utilizing specialized AI agents for ingestion, generation, evaluation, and validation. A separate judge model with domain-specific prompts and negative phrasing reduces false positives by 67% while maintaining true positives. This multi-agent architecture and human-in-the-loop design ensure production-ready rules, allowing Amazon to protect large, complex systems more effectively."
+  },
+  {
+    "id": "1e10dcbe0462965d",
+    "title_original": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-08T14:27:42+00:00",
+    "fetched_at": "2026-04-09T05:52:57.555054+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+    "summary_he": "IBM Research's ALTK-Evolve מערכת-ALTK- Evolve system enables AI agents to learn from experience and apply principles to new tasks, rather than just repeating previous actions.",
+    "details_he": "ALTK-Evolve addresses the 'eternal intern' problem, where AI agents excel at following prompts but struggle to accumulate wisdom about their environment. The system converts interaction traces into candidate guidelines, filters for quality, and injects relevant guidance at the moment of action. This approach has shown improved reliability, especially on hard tasks, without increasing context. A recent MIT study found that 95% of pilots fail due to agents' inability to adapt and learn on the job, highlighting the need for ALTK-Evolve's long-term episodic memory. The system's continuous loop of observation, extraction, refinement, and retrieval enables AI agents to improve over time and learn from previous executions."
+  },
+  {
+    "id": "53a6a5f6e447b281",
+    "title_original": "The next phase of enterprise AI",
+    "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+    "description": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-04-08T14:00:00+00:00",
+    "fetched_at": "2026-04-09T05:52:55.280352+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/next-phase-of-enterprise-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The next phase of enterprise AI",
+    "summary_he": "OpenAI מציגה את השלב הבא של AI בעסקים, כאשר השימוש בה מתפשט בתעשיות שונות.",
+    "details_he": "OpenAI חשפה את תוכניותיה לפיתוח פאזה חדשה של AI בעסקים, כאשר חברות רבות נכנסות לשוק. זאת כתוצאה מהצלחת תוכניותיהן, כגון Frontier, ChatGPT Enterprise, Codex, וסוכני AI חברתיים. תוכניות אלה צפויות לשפר את השימוש ב- AI בעסקים ולהגדיל את היעילות."
+  },
+  {
+    "id": "e4e40ac86df38c76",
+    "title_original": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+    "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+    "description": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-08T09:45:59+00:00",
+    "fetched_at": "2026-04-09T05:52:57.879926+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+    "summary_he": "NVIDIA is highlighting the advancements in physical AI research and breakthroughs during National Robotics Week, showcasing the growing wave of robots transforming industries. Robot learning, simulation, and foundation models are accelerating development, enabling robots to move from virtual environments to real-world deployment faster. Developers now have the tools to build machines that can perceive, reason, and act in complex environments.",
+    "details_he": "The advancements in robot learning, simulation, and foundation models are accelerating development, enabling robots to move from virtual environments to real-world deployment faster than ever. With NVIDIA platforms for simulation, synthetic data, and AI-powered robot learning, developers now have the tools to build machines that can perceive, reason, and act in complex environments. The University of Maryland researchers are developing AI-powered humanoid systems capable of performing complex household tasks with greater autonomy, using the NVIDIA Isaac open robotics development platform. OpenClaw running on the NVIDIA Jetson platform showcases how quickly open source innovation is evolving into real-world, intelligent robotics."
+  },
+  {
+    "id": "49928aeb6b6d4f84",
+    "title_original": "דיווח: AI21 של אמנון שעשוע במו\"מ על רכישתה בידי נביוס של ארקדי וולוז'",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001539688#utm_source=RSS",
+    "description": "חברת הבינה המלאכותית הישראלית מקיימת מגעים למכירתה לספקית הענן נביוס • AI21, מחפשת דרך לאקזיט לאחר שלא הצליחה לחדור לשוק עם מודלי השפה שלה • ב-2023 קיבלה AI21 תג מחיר של 1.4 מיליארד דולר, והמשקיעים בחברה, בהם פיטנגו, אינטל קפיטל, גוגל ואנבידיה - מקווים למכור אותה בכמה מיליארדי דולרים",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-04-09T03:16:00+00:00",
+    "fetched_at": "2026-04-09T05:53:30.430884+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001539688#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "דיווח: AI21 של אמנון שעשוע במו\"מ על רכישתה בידי נביוס של ארקדי וולוז'",
+    "summary_he": "חברת הבינה המלאכותית AI21, שקיבלה תג מחיר של 1.4 מיליארד דולר, מקיימת מגעים למכירתה לספקית הענן Nebio, כחלק ממאמציה למצוא דרך לאקזיט.",
+    "details_he": "AI21, חברת הבינה המלאכותית הישראלית, נמצאת במגעים למכירתה ל-Nebio, ספקית הענן. החברה, שפיתחה מודלי שפה, לא הצליחה לחדור לשוק, ועתה מחפשת דרך לאקזיט. המשקיעים בחברה, בהם Pitango, Intel Capital, Google ו-NVIDIA, מקווים למכור אותה בכמה מיליארדי דולרים, כאשר AI21 קיבלה תג מחיר של 1.4 מיליארד דולר."
+  },
+  {
+    "id": "b1b36ef02d858c1a",
+    "title_original": "Cracks in the Bedrock: Agent God Mode",
+    "url": "https://unit42.paloaltonetworks.com/exploit-of-aws-agentcore-iam-god-mode/",
+    "description": "Unit 42 reveals \"Agent God Mode\" in Amazon Bedrock AgentCore. Broad IAM permissions lead to privilege escalation and data exfiltration risks.The postCracks in the Bedrock: Agent God Modeappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-04-08T22:00:51+00:00",
+    "fetched_at": "2026-04-09T05:53:05.191248+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/exploit-of-aws-agentcore-iam-god-mode/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cracks in the Bedrock: Agent God Mode",
+    "summary_he": "חברת AWS סובלת מבקישות בבסיסה, כאשר כלי הכספה AgentCore נמצא חולש במודל הזהויות והרשאות שלו. כלי זה, המכונה Agent God Mode, מאפשר למתקיף להגדיל את זכויותיו ולפגוע בכל AgentCore אחר בחשבון AWS.",
+    "details_he": "בחקירתנו, גילינו שכלי הכספה AgentCore מספק זכויות רחבות מדי לכל גוף הפעלה, ולא רק למשאבים ספציפיים. זאת, כתוצאה מאוטומציה של כלי הכספה, המאפשרת לו ליצור תפקידי זהויות ורשאות IAM, שמעניקות זכויות רחבות מדי. כלי הכספה עצמו, המכונה Agent God Mode, מאפשר למתקיף לפגוע בכל AgentCore אחר בחשבון AWS, כולל גילוי תמונות ECR, גישה לזיכרון של AgentCore אחר, קריאה לכל רצוני קוד, והפקת מידע רגיש. כלי הכספה נמצא חולש במודל הזהויות והרשאות שלו, וזאת, כתוצאה מאוטומציה שלו. "
+  },
+  {
+    "id": "6d40aacd5ae9456f",
+    "title_original": "Financial cyberthreats in 2025 and the outlook for 2026",
+    "url": "https://securelist.com/financial-threat-report-2025/119304/",
+    "description": "In this report, Kaspersky experts share their insights into the 2025 financial threat landscape, including regional statistics and trends in phishing, PC malware, and infostealers.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-04-08T09:00:37+00:00",
+    "fetched_at": "2026-04-09T05:53:05.393658+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/financial-threat-report-2025/119304/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Financial cyberthreats in 2025 and the outlook for 2026",
+    "summary_he": "בשנת 2025, האזור הסיביוני הפיננסי המשיך להתפתח, עם ירידה בשיעור המלווה של תוכנות זיהום בנקאיות, אך זה נקלע על ידי צמיחה מהירה של גנבת זהויות. התוקפים הפכו לבעלי תלות גוברת באגרגציה ושימוש מחדש של נתונים גנובים, מאשר בפיתוח של יכולות זיהום חדשות.",
+    "details_he": "הפיננסים הסיביוניים נכונו על ידי נתוני חיוביים של פעילות זדונית שנקלטו על ידי משתמשי מוצרי הבטיחות של Kaspersky, ונתונים ציבוריים, ונתוני דמק. הנתונים נבדקו לגבי פיננסי זדוני, זיהום בנקאי, גנבת זהויות, והדמק. תוצאות המפתח"
+  },
+  {
+    "id": "96e28e3bdda407c5",
+    "title_original": "ISC Stormcast For Thursday, April 9th, 2026 https://isc.sans.edu/podcastdetail/9886, (Thu, Apr 9th)",
+    "url": "https://isc.sans.edu/diary/rss/32882",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-04-09T02:00:03+00:00",
+    "fetched_at": "2026-04-09T05:53:02.635444+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32882"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Thursday, April 9th, 2026 https://isc.sans.edu/podcastdetail/9886, (Thu, Apr 9th)",
+    "summary_he": "SANS Internet Storm Center released its weekly podcast for April 9th, 2026, providing insights into the current cybersecurity landscape. The podcast covers various topics and threats, offering expert analysis and recommendations for IT professionals. It serves as a valuable resource for staying informed about the latest cybersecurity trends and threats.",
+    "details_he": "The ISC Stormcast podcast is a weekly series that offers in-depth analysis and commentary on the latest cybersecurity threats and trends. It is hosted by the SANS Internet Storm Center, a renowned organization that provides real-time threat intelligence and incident response services. The podcast covers a range of topics, including malware, vulnerabilities, and emerging threats, and provides actionable advice for IT professionals to improve their cybersecurity posture. By tuning in to the podcast, listeners can stay up-to-date on the latest cybersecurity news and best practices."
+  },
+  {
+    "id": "ddb33a1503c0f1e4",
+    "title_original": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
+    "url": "https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/",
+    "description": "Hackers vowed to revive its efforts against America when the time was right — demonstrating how digital warfare has become ingrained in military conflict.The postShaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Longappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-04-09T01:22:35+00:00",
+    "fetched_at": "2026-04-09T05:53:01.921281+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
+    "summary_he": "מפקדי הקבוצה של ההאקרים הקשורים לאיראן הבטיחו לחדש את פעילותם נגד ארצות הברית בעת שיהיה הזמן, וכך הם מדגימים את כיצד המלחמה הדיגיטלית הפכה לחלק מהסכסוך הצבאי.",
+    "details_he": "ההאקרים הקשורים לאיראן, שהסכימו להפסקת אש, עשו זאת רק כדי להגביר את הסכסוך. הם ויתרו על פעילותם רק זמנית, ואין סיכוי שהפסקת האש תעצור את ההתקפות הסייבר. הקבוצה, שפעלה נגד ארצות הברית, חזרה לפעילותה כבר בעבר, ואין סיכוי שהפעם תהיה שונה."
+  },
+  {
+    "id": "eb812514cd0ae21f",
+    "title_original": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers",
+    "url": "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers",
+    "description": "Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-04-09T01:00:00+00:00",
+    "fetched_at": "2026-04-09T05:53:01.509203+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers",
+    "summary_he": "Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
+    "details_he": ""
+  }
+]
