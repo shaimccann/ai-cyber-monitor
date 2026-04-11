@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-10T06:04:32.711246+00:00",
+  "timestamp": "2026-04-11T05:37:07.421885+00:00",
   "errors": [
     {
-      "title": "The agentic SOC—Rethinking SecOps for the next decade",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 562)",
+      "title": "v2.1.101",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 952)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 90,
+  "total_scanned": 55,
   "selected": 10
 }
