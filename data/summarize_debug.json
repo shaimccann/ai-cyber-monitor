@@ -1,17 +1,10 @@
 {
-  "timestamp": "2026-04-11T05:37:07.421885+00:00",
-  "errors": [
-    {
-      "title": "v2.1.101",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 952)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-04-12T06:00:44.008417+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 9,
-  "fallback": 1,
-  "total_scanned": 55,
-  "selected": 10
+  "success": 7,
+  "fallback": 0,
+  "total_scanned": 14,
+  "selected": 7
 }
