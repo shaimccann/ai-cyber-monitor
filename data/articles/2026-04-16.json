@@ -1,0 +1,216 @@
+[
+  {
+    "id": "5023d5bf9097115e",
+    "title_original": "Customized Amazon Nova models improve molecular-property prediction in drug discovery",
+    "url": "https://www.amazon.science/blog/customized-amazon-nova-models-improve-molecular-property-prediction-in-drug-discovery",
+    "description": "A single, optimized LLM unifies what previously required multiple models and can serve as a reasoning partner for medical chemists.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-04-15T16:10:55+00:00",
+    "fetched_at": "2026-04-16T06:08:36.424798+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/customized-amazon-nova-models-improve-molecular-property-prediction-in-drug-discovery"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Customized Amazon Nova models improve molecular-property prediction in drug discovery",
+    "summary_he": "מערכת חדשה של Amazon Nova, שהוגדרה כ\"LLM",
+    "details_he": "בעבר, חוקרי תרופות היו צריכים להשתמש במודלים שונים, כדי לחזות את תכונות המולקולריות של תרופות. כיום, ניתן לשים לב, כי LLMs, שהוגדרו כ\"LLM"
+  },
+  {
+    "id": "e2f98bb124adafa8",
+    "title_original": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "description": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-04-15T16:03:19+00:00",
+    "fetched_at": "2026-04-16T06:08:34.328452+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "summary_he": "Gemini 3.1 Flash TTS הוא דגם חדש של דיבור מלאכותי שמאפשר יותר שליטה וביטוי, ומשפר את איכות הדיבור. ניתן לשלוט בסגנון הדיבור, בקצב ובהגעה באמצעות תווי קול.",
+    "details_he": "Gemini 3.1 Flash TTS הוא דגם חדש של דיבור מלאכותי שמאפשר יותר שליטה וביטוי, ומשפר את איכות הדיבור. ניתן לשלוט בסגנון הדיבור, בקצב ובהגעה באמצעות תווי קול. זה יאפשר למפתחים לשלוט בקולות ולייצא קביעות לשימוש קבוע. Gemini 3.1 Flash TTS תומך ב-70+ שפות ומשתמש בווטרמרק SynthID כדי לזהות קולות מלאכותיים."
+  },
+  {
+    "id": "13b145ecdcf017e4",
+    "title_original": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+    "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
+    "description": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens.  This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-15T15:00:26+00:00",
+    "fetched_at": "2026-04-16T06:08:36.210859+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+    "summary_he": "The traditional approach to assessing AI infrastructure's total cost of ownership (TCO) is no longer sufficient, as it focuses on raw computing power rather than the actual output of AI tokens. Enterprises must shift their focus to cost per token, which takes into account hardware performance, software optimization, ecosystem support, and real-world utilization.",
+    "details_he": "The cost per token is a critical metric that determines whether enterprises can profitably scale AI. It is influenced by various factors, including hardware performance, software optimization, and ecosystem support. By maximizing token output, enterprises can drive down cost per token and increase profit margins. Additionally, more tokens delivered per second can translate to more revenue from the same infrastructure investment. To accurately evaluate AI infrastructure, enterprises must look beyond surface-level metrics such as cost per GPU hour and peak petaflops, and consider the underlying factors that determine real-world token output."
+  },
+  {
+    "id": "11f0cf80201d1edd",
+    "title_original": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
+    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/",
+    "description": "The NAB Show 2026 trade show, running April 18-22 in Las Vegas, is set to showcase a wave of new features and optimizations for top video editing applications. Bringing together over 60,000 content professionals from across the broadcast and media and entertainment industries, the event highlights how video editors, livestreamers and professional creators are exploring […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-15T13:00:38+00:00",
+    "fetched_at": "2026-04-16T06:08:36.210859+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
+    "summary_he": "Adobe Premiere הולידה תצוגה חדשה למידול צבע, שמשתמשת במעבדים NVIDIA RTX להקלה ושיפור בביצועים.",
+    "details_he": "Adobe Premiere הכריזה על תצוגה חדשה למידול צבע, שמאפשרת לעורכי סרטים לבצע תיקון צבע באופן ישיר ומהיר. התצוגה, הנקראת Color Mode, משתמשת במעבדים NVIDIA GeForce RTX ו-NVIDIA RTX PRO להקלה ושיפור בביצועים. התצוגה כוללת תצוגה גדולה של התוכן, וגריד של קטעים שמאפשר לעורכים לראות את התקדמות הפרויקט. התצוגה גם כוללת רשת של רכיבים שמאפשרים לעורכים לבצע תיקון צבע באופן ישיר ומהיר."
+  },
+  {
+    "id": "54d7e6e9d7639faa",
+    "title_original": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-15T12:07:25+00:00",
+    "fetched_at": "2026-04-16T06:08:35.920008+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "summary_he": "IBM Research recently introduced VAKRA, a tool-grounded benchmark for evaluating AI agents' reasoning and actions in enterprise environments. The benchmark assesses agents' ability to complete multi-step workflows using APIs and documents. Models have performed poorly on VAKRA, with analysis of failure modes presented in the blog.",
+    "details_he": "VAKRA provides an executable environment where agents interact with over 8,000 locally hosted APIs backed by real databases spanning 62 domains, along with domain-aligned document collections. Tasks in VAKRA can require 3-7 step reasoning chains that combine structured API interaction with unstructured retrieval under natural-language tool-use constraints. The benchmark comprises four tasks, each testing a different set of capabilities, including API chaining using business intelligence APIs, and models have struggled to perform well on these tasks."
+  },
+  {
+    "id": "7089d58b419930f4",
+    "title_original": "Incident response for AI: Same fire, different fuel",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/",
+    "description": "AI changes how incidents unfold and how we respond. Learn which IR practices still apply and where new telemetry, tools, and skills are needed.The postIncident response for AI: Same fire, different fuelappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-15T16:00:45+00:00",
+    "fetched_at": "2026-04-16T06:08:41.593276+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Incident response for AI: Same fire, different fuel",
+    "summary_he": "AI changes how incidents unfold and how we respond. Learn which IR practices still apply and where new telemetry, tools, and skills are needed.The postIncident response for AI: Same fire, different fuelappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "7b90bf2c05a400ab",
+    "title_original": "How to Harden GitHub Actions: An Updated Guide",
+    "url": "https://www.wiz.io/blog/github-actions-security-guide",
+    "description": "Build resilient GitHub Actions workflows with lessons from recent attacks like TeamPCP and Axios.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-15T13:19:21+00:00",
+    "fetched_at": "2026-04-16T06:08:45.394573+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/github-actions-security-guide"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to Harden GitHub Actions: An Updated Guide",
+    "summary_he": "GitHub Actions נמצאו חשופים לסכנות, ובעקבות זאת, GitHub ומפתחים פרסמו מדריך עדכני להתגוננות. המדריך כולל טכנולוגיות חדשות ושיפורים שנועדו למנוע פגיעות ולהגביר את האבטחה.",
+    "details_he": "בשנת 2025, חוקרים גילו סכנות רבות שקשורות ל-GitHub Actions. במרץ 2026, הסכנות התגלו באופן חד-פעמי כאשר תוקפים חדרו ל-75 מ-76 גרסאות של trivy-action וגנבו סודות מכל צילינדר שרץ סריקה Trivy. תוצאות הגניבה נגעו ל- PyPI, כולל LiteLLM. גם Axios נפגע, כאשר גרסאות 1.14.1 ו-0.30.4 היו פעילות למשך כ-3 שעות. GitHub השיקה טכנולוגיות חדשות, כולל SHA pinning enforcement, immutable releases, ושינויים בהתנהגות pull_request_target. יש עוד שיפורים בדרך, כולל workflow lockfiles ומדיניות הרצה מרכזית."
+  },
+  {
+    "id": "1ec7a00817c06867",
+    "title_original": "Threat landscape for industrial automation systems in Q4 2025",
+    "url": "https://securelist.com/industrial-threat-report-q4-2025/119392/",
+    "description": "The report contains industrial threat statistics for Q4 2025. It covers various infection vectors and malware types, as well as regional statistics and statistics by industry.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-04-15T12:30:48+00:00",
+    "fetched_at": "2026-04-16T06:08:43.764388+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/industrial-threat-report-q4-2025/119392/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat landscape for industrial automation systems in Q4 2025",
+    "summary_he": "Kaspersky ICS CERT reported a decrease in the percentage of ICS computers on which malicious objects were blocked, reaching 19.7% in Q4 2025. This decline is part of a larger trend that has been observed over the past three years. The threat landscape for industrial automation systems remains complex, with various malicious objects and sources contributing to the risk.",
+    "details_he": "The statistics across all threats show a concerning trend, with the percentage of ICS computers on which malicious objects were blocked decreasing by 1.36 times over the past three years. Regionally, the percentage ranged from 8.5% in Northern Europe to 27.3% in Africa. The feature of the quarter, worms in email, saw a significant increase in Q4 2025, with the Backdoor.MSIL.XWorm malware being detected in all regions. The threat was linked to phishing campaigns using the 'Curriculum-vitae-catalina' technique, which distributed malicious executable files disguised as curriculum vitae. The attack spread across regions in two waves, with the highest percentage of blocked ICS computers observed in regions with historically high email client threat blocking rates."
+  },
+  {
+    "id": "53959c47966f04f3",
+    "title_original": "The Mythos Moment: Why Architecture and Advanced Models Matter for Cyber Defense",
+    "url": "https://www.catonetworks.com/blog/the-mythos-moment/",
+    "description": "What began as reports about Anthropic’s Mythos model has now moved into a gated research preview called Mythos Preview. For cybersecurity, that immediately raises an important question: what happens when advanced AI can accelerate offensive workflows such as vulnerability analysis, exploit development, and attack planning? In a recent Cato blog post, we addressed the broader...The postThe Mythos Moment: Why Architecture and Advanced Models Matter for Cyber Defenseappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-04-15T08:50:59+00:00",
+    "fetched_at": "2026-04-16T06:08:49.824046+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/the-mythos-moment/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Mythos Moment: Why Architecture and Advanced Models Matter for Cyber Defense",
+    "summary_he": "בעיצומת זו, חברות הביטחון הסייבר נדרשות להתאים את ארכיטקטורתן למודלים מתקדמים, כדי להגביר את הביצועים ולהקל על המחקר. זאת, על רקע פרסום ראשוני של חברת Anthropic על מודל Mythos, שעשוי לסייע לתקיפות סייבר בזמן ובקנה מידה.",
+    "details_he": "הפרסום של Anthropic על מודל Mythos גרם לחברות הביטחון הסייבר להתחיל לחשוש מהשפעותיו הפוטנציאליות. המודל, שעדיין בשלבי מחקר, עשוי לסייע לתקיפות סייבר בזמן ובקנה מידה, על ידי קיצור זמן החיפוש אחר חולשות, פיתוח תקיפות ותכנון. עם זאת, המודל יכול גם לסייע לחברות הביטחון הסייבר להגביר את ביצועיהן ולהקל על המחקר. חברת Cato, לדוגמה, רואה במודל Mythos כהזדמנות לחזק את הביטחון הסייבר, על ידי שימוש בארכיטקטורה יעילה ובמודלים מתקדמים."
+  },
+  {
+    "id": "2c6e199d50b72c5d",
+    "title_original": "Your First Move Matters: What Chess Teaches Us About Enterprise Architecture",
+    "url": "https://www.catonetworks.com/blog/what-chess-teaches-us-about-enterprise-architecture/",
+    "description": "In a world where technology, threats, and business priorities evolve constantly, the real challenge is not predicting the future, but choosing an architecture that can adapt to it. The First Move Shapes More Than the Opening In chess, strong players do not try to predict every move. They build positions that preserve room to adapt....The postYour First Move Matters: What Chess Teaches Us About Enterprise Architectureappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-04-15T06:15:56+00:00",
+    "fetched_at": "2026-04-16T06:08:49.824046+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/what-chess-teaches-us-about-enterprise-architecture/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Your First Move Matters: What Chess Teaches Us About Enterprise Architecture",
+    "summary_he": "בעולם שבו הטכנולוגיה, האיומים והעדיפויות העסקיות משתנות תמיד, האתגר האמיתי אינו בקביעת עתיד, אלא בבחירת ארכיטקטורה שיכולה להתאים לו. ",
+    "details_he": "ארכיטקטורה עסקית צריכה להיות מעוצבת כך שתאפשר לעסק להתאים לשינויים, להתפשט, להתבצר ולהתאים. זה כולל יצירת מערכת שתאפשר לעסק להתאים לשינויים, להתפשט, להתבצר ולהתאים. זה כולל יצירת מערכת שתאפשר לעסק להתאים לשינויים, להתפשט, להתבצר ולהתאים. "
+  }
+]
