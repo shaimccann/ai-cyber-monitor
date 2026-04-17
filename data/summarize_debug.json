@@ -1,17 +1,10 @@
 {
-  "timestamp": "2026-04-16T06:09:03.456373+00:00",
-  "errors": [
-    {
-      "title": "Incident response for AI: Same fire, different fuel",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 642)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-04-17T06:09:54.036175+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 9,
-  "fallback": 1,
+  "success": 10,
+  "fallback": 0,
   "total_scanned": 101,
   "selected": 10
 }

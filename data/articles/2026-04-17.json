@@ -1,0 +1,212 @@
+[
+  {
+    "id": "04991ecac0d65ab0",
+    "title_original": "A new way to explore the web with AI Mode in Chrome",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+    "description": "AI Mode in Chrome",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-16T17:00:00+00:00",
+    "fetched_at": "2026-04-17T06:09:21.168125+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A new way to explore the web with AI Mode in Chrome",
+    "summary_he": "Google AI Mode in Chrome now allows users to explore the web more efficiently by providing a seamless experience that combines search and browsing without the need to switch tabs.",
+    "details_he": "The new AI Mode in Chrome enables users to click on links and open web pages alongside the AI Mode, allowing for easier comparison and follow-up questions. This feature is designed to help users stay focused on their tasks while exploring the web, and early testers have reported a significant reduction in tab switching. Additionally, users can now search across their recent tabs and add them to their search, making it easier to find relevant information and stay organized."
+  },
+  {
+    "id": "7cd7ab07e0b3c127",
+    "title_original": "New ways to create personalized images in the Gemini app",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "description": "Example images made with Personal Intelligence",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-16T16:00:00+00:00",
+    "fetched_at": "2026-04-17T06:09:21.168125+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New ways to create personalized images in the Gemini app",
+    "summary_he": "Gemini's new update enables users to create personalized images using their Google Photos and personal preferences, eliminating the need for long, detailed prompts. The app now automatically pulls relevant context from connected accounts, allowing users to easily include themselves and loved ones in images. This feature is rolling out to U.S. subscribers to Google AI Plus, Pro, or Ultra over the next few days.",
+    "details_he": "Gemini's new update utilizes the Nano Banana 2 and Google Photos to make image generation more personal and efficient. The app's Personal Intelligence feature allows it to understand users' preferences automatically, eliminating the need for long, detailed prompts. This enables users to create unique images more easily, without having to spend time explaining their ideas. The update prioritizes users' privacy, as Gemini does not train models on their private photo library. Users can refine their results or swap reference photos anytime to maintain full creative control."
+  },
+  {
+    "id": "7f5ba6e2c38f91ee",
+    "title_original": "No Need for Space Gear — Capcom’s ‘PRAGMATA’ Joins GeForce NOW on Launch Day",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/",
+    "description": "Head straight for orbit with GeForce NOW — no space helmet required.  PRAGMATA, Capcom’s long-awaited sci-fi action adventure, touches down on GeForce NOW the same day it launches worldwide. The futuristic journey through a cold lunar station in the near future can be streamed instantly from the cloud to almost any device, no console or […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-16T13:00:11+00:00",
+    "fetched_at": "2026-04-17T06:09:22.738544+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "No Need for Space Gear — Capcom’s ‘PRAGMATA’ Joins GeForce NOW on Launch Day",
+    "summary_he": "Capcom's sci-fi action adventure PRAGMATA is now available on GeForce NOW, allowing players to stream the game instantly without the need for console or heavy hardware. This marks the game's worldwide launch, and it joins five other new titles on the cloud gaming service.",
+    "details_he": "PRAGMATA offers a cinematic experience with tense exploration and fast-paced action, set in a hauntingly quiet world on a lunar research station. The game features ray-traced lighting and NVIDIA DLSS 4 technology, allowing for high-quality streaming even on lower-end hardware. GeForce NOW Ultimate membership is also now available in beta in India, operated by NVIDIA."
+  },
+  {
+    "id": "a7595a06d401e70e",
+    "title_original": "Codex for (almost) everything",
+    "url": "https://openai.com/index/codex-for-almost-everything",
+    "description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-04-16T10:00:00+00:00",
+    "fetched_at": "2026-04-17T06:09:19.962634+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/codex-for-almost-everything"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Codex for (almost) everything",
+    "summary_he": "The updated Codex app for macOS and Windows includes new features that enhance developer productivity, such as computer use, in-app browsing, image generation, and memory management.",
+    "details_he": "The updated Codex app now allows developers to use their computer within the app, browse the internet directly within the app, and generate images, which can be useful for tasks such as data visualization and content creation. Additionally, the app now includes memory management features and plugins to accelerate developer workflows, making it easier for developers to complete tasks efficiently."
+  },
+  {
+    "id": "abbd4354753b1026",
+    "title_original": "הצרכנים מרוויחים, ההייטק נחנק",
+    "url": "https://www.geektime.co.il/consumers-win-israeli-tech-loses/",
+    "description": "מאת: רועי אלדשטיין עבור לא מעט אנשים התחזקות השקל היא דווקא סימן טוב: הטיסה לחו\"ל (כשהשמיים פתוחים) פחות כואבת, הקניות מאמזון (כשהמשלוחים זמינים) עולות פחות, ויבואנים יכולים לחייך כל הדרך אל הבנק. על פניו, אחלה דיל. אבל כמו שקורה לא פעם בכלכלה, מה שנראה כתהליך חיובי עבור ציבור הצרכנים, נראה הרבה פחות סימפטי מהצד […]The postהצרכנים מרוויחים, ההייטק נחנקappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-04-17T05:59:32+00:00",
+    "fetched_at": "2026-04-17T06:09:42.485213+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/consumers-win-israeli-tech-loses/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "הצרכנים מרוויחים, ההייטק נחנק",
+    "summary_he": "החלשת השקל גורמת לבעיה חמורה לענף ההייטק הישראלי, שנתלה על הדולר. הפסדים כספיים וחיסרון תעסוקתי עלולים לפגוע במשק הישראלי כולו.",
+    "details_he": "ההייטק הישראלי חי בדולרים, וכשהדולר נחלש, גם החברות הישראליות נפגעות. הפסדים כספיים וחיסרון תעסוקתי עלולים לפגוע במשק הישראלי כולו. יותר מיקור חוץ, יותר גיוסים מחוץ לישראל, ויותר צוותים שנפתחים שם במקום פה. הענף הזה מאבד לא רק כסף, אלא גם ניסיון, מקומות עבודה, ויכולת לשמור כאן את מרכז הכובד של התעשייה."
+  },
+  {
+    "id": "6a7ff0aaa63e72dc",
+    "title_original": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
+    "url": "https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/",
+    "description": "CVE-2023-33538 allows for command injection in TP-Link routers. We discuss exploitation attempts with payloads characteristic of Mirai botnet malware.The postA Deep Dive Into Attempted Exploitation of CVE-2023-33538appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-04-16T22:00:13+00:00",
+    "fetched_at": "2026-04-17T06:09:30.636950+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
+    "summary_he": "חוקרי אבטחת הסייבר ב-Palo Alto Networks גילו פעילות של סריקות אוטומטיות ותקיפות שנועדו לנצל את CVE-2023-33538, חולשה במכשירי Wi-Fi TP-Link. הפעילות נועדה להוריד ולרצות קוד זדוני של זירות Mirai.",
+    "details_he": "החוקרים גילו סריקות אוטומטיות שנועדו לנצל את CVE-2023-33538, חולשה במכשירי Wi-Fi TP-Link. הפעילות התגלתה לאחר ש-CISA הוסיפה את ה-CVE לרשימת החולשות הידועות. החוקרים ביצעו חקירה עמוקה וגילו שהחולשה היא אמיתית, אך התקיפות הנצפות היו תקיפות תקיפות תקיפות. החוקרים גם גילו שהחולשה ניתנת לניצול רק אם המשתמש ישתמש בזירות רשמיות. החוקרים ממליצים ללקוחותיהם להחליף את המכשירים הנגועים במכשירים חדשים ולא להשתמש בזירות רשמיות."
+  },
+  {
+    "id": "c701b1a5d1335be4",
+    "title_original": "Frontier AI Reinforces the Future of Modern Cyber Defense",
+    "url": "https://www.sentinelone.com/blog/frontier-ai-reinforces-the-future-of-modern-cyber-defense/",
+    "description": "As OpenAI and Anthropic advance frontier AI, SentinelOne delivers AI-native, machine-speed cyber defense at global scale.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "ai",
+    "published": "2026-04-16T19:33:10+00:00",
+    "fetched_at": "2026-04-17T06:09:32.043438+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/frontier-ai-reinforces-the-future-of-modern-cyber-defense/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Frontier AI Reinforces the Future of Modern Cyber Defense",
+    "summary_he": "SentinelOne continues to emphasize the importance of AI-native defense in modern cybersecurity, citing advancements from frontier labs like OpenAI and Anthropic. The company's partnerships with these labs have provided valuable insights into the evolution of advanced AI models and their potential impact on security.",
+    "details_he": "SentinelOne has been working closely with frontier labs for years, including OpenAI, Anthropic, and Google DeepMind. These partnerships have allowed the company to gain meaningful insights into the capabilities of advanced AI models and how they can be used to create real impact across security. The learnings and capabilities from these collaborations are already embedded in SentinelOne's platform, which protects customers from advanced attacks, including zero-day exploits. The company's AI-native defense approach is accelerating the shift towards faster, more intelligent, and more automated security operations, but it also highlights the ongoing race between defenders and attackers. While frontier models are becoming more capable, they are also giving attackers the advantage of speed and scale when it comes to finding new vulnerabilities."
+  },
+  {
+    "id": "8125b0887c430ee5",
+    "title_original": "Building your cryptographic inventory: A customer strategy for cryptographic posture management",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/",
+    "description": "Learn how to build a comprehensive cryptographic inventory and strengthen quantum‑safe readiness using Microsoft Security tools, best‑practice lifecycle models, and partner solutions.The postBuilding your cryptographic inventory: A customer strategy for cryptographic posture managementappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-16T16:00:00+00:00",
+    "fetched_at": "2026-04-17T06:09:28.343324+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Building your cryptographic inventory: A customer strategy for cryptographic posture management",
+    "summary_he": "Microsoft מציעה תפיסה ללקוחות כדי לבנות את רשימת הצפנה שלהם ולחזק את התוכנית הקריפטוגרפית שלהם. התפיסה כוללת כלי תפעול של Microsoft, דגמי חייקל טובים ופתרונות שותפים.",
+    "details_he": "Microsoft מציעה תפיסה ללקוחות כדי לבנות את רשימת הצפנה שלהם ולחזק את התוכנית הקריפטוגרפית שלהם. התפיסה כוללת כלי תפעול של Microsoft, דגמי חייקל טובים ופתרונות שותפים. התפיסה נועדה לסייע ללקוחות לבנות רשימת צפנה קוהרנטית ולהכין את עצמם לקראת עתיד של צפנה קריפטוגרפית."
+  },
+  {
+    "id": "3dda9e0235053ed1",
+    "title_original": "Dissecting Sapphire Sleet’s macOS intrusion from lure to compromise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/",
+    "description": "The Microsoft Defender Security Research Team uncovered a sophisticated macOS intrusion campaign attributed to the North Korean threat actor Sapphire Sleet that abuses user driven execution and social engineering to bypass macOS security protections and steal credentials, cryptocurrency assets, and sensitive data.The postDissecting Sapphire Sleet’s macOS intrusion from lure to compromiseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-16T15:00:00+00:00",
+    "fetched_at": "2026-04-17T06:09:28.343324+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Dissecting Sapphire Sleet’s macOS intrusion from lure to compromise",
+    "summary_he": "הקבוצה Sapphire Sleet, שמיוחסת לקוריאה הצפונית, פיתחה קמפיין התקפה מתקדם על מערכות macOS, שמשתמשת בטכניקות התחקרות והתחקרות חברתית כדי לבצע התקפות חבלה ולגנוב נתונים רגישים. ההתקפה כוללת גניבת זהויות, גניבת נתוני קרנומטרי, וגניבת נתוני קרנומטרי.",
+    "details_he": "הקבוצה Sapphire Sleet, שמיוחסת לקוריאה הצפונית, פיתחה קמפיין התקפה מתקדם על מערכות macOS, שמשתמשת בטכניקות התחקרות והתחקרות חברתית כדי לבצע התקפות חבלה ולגנוב נתונים רגישים. ההתקפה כוללת גניבת זהויות, גניבת נתוני קרנומטרי, וגניבת נתוני קרנומטרי. על פי ה-Microsoft Defender Security Research Team, הקבוצה Sapphire Sleet ניצלה את חולשות במערכות macOS כדי לבצע התקפות חבלה."
+  },
+  {
+    "id": "8e5eb2ae61b8e33f",
+    "title_original": "Securing AI Applications From Inception to Deployment",
+    "url": "https://www.wiz.io/blog/securing-ai-application-from-inception-to-deployment",
+    "description": "Extending the Wiz AI APP into the code layer to detect AI-specific risks at inception, validate exploitability at runtime, and orchestrate remediation with agents that understand your codebase",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-04-16T13:00:00+00:00",
+    "fetched_at": "2026-04-17T06:09:32.424818+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/securing-ai-application-from-inception-to-deployment"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing AI Applications From Inception to Deployment",
+    "summary_he": "Wiz היא חברה שהוציאה פלטפורמת הגנה על אפליקציות AI, והיא פועלת להגן על אפליקציות AI מהרישום הראשוני ועד פרסום. החברה פיתחה פלטפורמה שמספקת תמיכה והגנה לאפליקציות AI, והיא עובדת על פיתוח פלטפורמה חדשה שתספק הגנה לאפליקציות AI.",
+    "details_he": "Wiz היא חברה שהוציאה פלטפורמת הגנה על אפליקציות AI, והיא פועלת להגן על אפליקציות AI מהרישום הראשוני ועד פרסום. Wiz פיתחה פלטפורמה שמספקת תמיכה והגנה לאפליקציות AI, והיא עובדת על פיתוח פלטפורמה חדשה שתספק הגנה לאפליקציות AI. Wiz נותנת תמיכה והגנה לאפליקציות AI, והיא עובדת על פיתוח פלטפורמה חדשה שתספק הגנה לאפליקציות AI. Wiz פיתחה פלטפורמה שמספקת תמיכה והגנה לאפליקציות AI."
+  }
+]
