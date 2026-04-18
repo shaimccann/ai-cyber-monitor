@@ -1,0 +1,212 @@
+[
+  {
+    "id": "442d3ea07abb091a",
+    "title_original": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-17T16:17:55+00:00",
+    "fetched_at": "2026-04-18T05:45:52.095764+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "summary_he": "מודל OCR מהיר ומרוב-לשוני שנבנה עם נתוני סינתטיים, יכול לקרוא תיעודים בשפות שונות, והוא פועל במהירות גבוהה.",
+    "details_he": "המודל, שנקרא Nemotron OCR v2, נבנה על ידי NVIDIA, והוא יכול לקרוא תיעודים ב-6 שפות. המודל נבנה עם 12 מיליון תמונות סינתטיות, והוא מסוגל לקרוא תיעודים במהירות של 34.7 עמודים לשנייה. המודל גם יכול להתמודד עם תיעודים בשפות שונות, והוא נמצא בגיטהאב של NVIDIA."
+  },
+  {
+    "id": "09575cb4c4fd61d0",
+    "title_original": "7 ways to travel smarter this summer, with help from Google",
+    "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+    "description": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-17T14:00:00+00:00",
+    "fetched_at": "2026-04-18T05:45:50.685160+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "7 ways to travel smarter this summer, with help from Google",
+    "summary_he": "Google מציעה כלים חדשים לסיוע בתכנון טיולים, תצפיות וגילוי יעדים. כלים אלה יאפשרו לבניית תוכניות טיולים נפשות, חיפוש עסקאות טובות והגעה ליעדים.",
+    "details_he": "Google הוציאה כלים חדשים לסיוע בתכנון טיולים, כולל תוכנת AI Mode, שמאפשרת לבנות תוכניות טיולים נפשות. כלים אלה כוללים גם תצפיות על מחירי מלונות וסיוע בהזמנת מסעדות. Google גם מאפשרת לעקוב אחר מחירי מלונות ולקבל אזהרות כאשר המחירים יורדים. כלים אלה זמינים כעת למשתמשים באנגלית וספרדית."
+  },
+  {
+    "id": "a02890b1e9a209a8",
+    "title_original": "Isabelle/HOL: The proof assistant behind the Nitro Isolation Engine",
+    "url": "https://www.amazon.science/blog/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine",
+    "description": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-04-17T13:00:00+00:00",
+    "fetched_at": "2026-04-18T05:45:52.990949+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Isabelle/HOL: The proof assistant behind the Nitro Isolation Engine",
+    "summary_he": "Isabelle/HOL, a proof assistant, played a crucial role in the development of the Nitro Isolation Engine, a cloud hypervisor that ensures the security of customer data. This achievement marks a significant milestone in cloud security, setting a new standard for the industry. Isabelle/HOL's unique balance of expressiveness and automation made it an ideal tool for this task.",
+    "details_he": "The Nitro Isolation Engine (NIE) is a software module developed by Amazon Web Services (AWS) that provides resources to clients while ensuring the security of their data. The formal verification of NIE's correctness and security guarantees was made possible by Isabelle/HOL, a proof assistant developed at the University of Cambridge and Technische Universität München. Isabelle/HOL's ability to automate the process of developing formal proofs made it an essential tool in this project. The use of Isabelle/HOL in the development of NIE demonstrates the importance of proof assistants in ensuring the security and reliability of complex systems."
+  },
+  {
+    "id": "33bb16bd67f683ee",
+    "title_original": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+    "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-04-17T22:34:02+00:00",
+    "fetched_at": "2026-04-18T05:45:54.329395+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "summary_he": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+    "details_he": ""
+  },
+  {
+    "id": "398ff21a0de074db",
+    "title_original": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-04-17T20:38:17+00:00",
+    "fetched_at": "2026-04-18T05:45:54.329395+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "summary_he": "OpenAI continues to restructure its priorities, shedding side projects and losing key researchers. Kevin Weil and Bill Peebles, two of the company's most prominent researchers, announced their departures, along with CTO Srinivas Narayanan.",
+    "details_he": "The exits come as OpenAI focuses on its core enterprise AI business and a forthcoming 'superapp'. Weil, who led the science research initiative, and Peebles, the researcher behind AI video tool Sora, will be leaving the company. Sora, which was losing an estimated $1 million per day in compute costs, was shut down last month. OpenAI for Science, the internal research group behind Prism, is being absorbed into other research teams. The departures follow OpenAI's decision to cut back on 'side quests', including customer-facing bets like Sora and OpenAI for Science."
+  },
+  {
+    "id": "8e7845a8a352ffc3",
+    "title_original": "Threat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17)",
+    "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/",
+    "description": "Unit 42 details recent Iranian cyberattack activity, sharing direct observations of phishing, hacktivist activity and cybercrime. We include recommendations for defenders.The postThreat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-04-17T22:35:07+00:00",
+    "fetched_at": "2026-04-18T05:46:00.557305+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17)",
+    "summary_he": "בעקבות החזרת גישה לאינטרנט באיראן, קבוצות איום איראניות החלו להתעניין מחדש בביטחון הבסיסי של המערכות התעשייתיות.",
+    "details_he": "ב-17 באפריל 2026, איראן החלה לשחזר גישה מוגבלת לאינטרנט, אחרי 47 ימים של ניתוק. קבוצות איום איראניות רואות בזאת הזדמנות לתקוף את המערכות התעשייתיות. קבוצת CL-STA-1128 (Cyber Av3ngers, Storm-0784) ניסתה לתקוף את ציוד ה-OT/ICS של Rockwell Automation, והצליחה להתקין את FactoryTalk על תשתיות VPS. זאת הייתה תקיפה חדשה, שאינה קשורה לתקיפות ההיסטוריות של הקבוצה."
+  },
+  {
+    "id": "9a348687937d019b",
+    "title_original": "IaC Inventory: A Unified View Across Code, Deployments, and Cloud",
+    "url": "https://www.wiz.io/blog/wiz-iac-inventory",
+    "description": "As AI applications introduce a new class of infrastructure resources, visibility into what your IaC creates, where it runs, and whether it has drifted has never been more critical.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-17T15:00:01+00:00",
+    "fetched_at": "2026-04-18T05:46:03.172727+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-iac-inventory"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "IaC Inventory: A Unified View Across Code, Deployments, and Cloud",
+    "summary_he": "Wiz מציגה פתרון לבעיית חסינות IaC, על ידי הצגת תצוגה מאוחדת של כל המודולים IaC, כולל מקור, פלטפורמה, סוג, הפעלות ומשאבים.",
+    "details_he": "Wiz פותרת את הבעיה של חסינות IaC על ידי נתינת תצוגה מאוחדת של כל המודולים IaC, כולל מקור, פלטפורמה, סוג, הפעלות ומשאבים. זה נעשה על ידי חיבור כל המודולים IaC לכל ההפעלות שהם יצרו וכל המשאבים שהם מנהלים. Wiz גם מציגה תמיכה חדשה ב-Pulumi, שמאפשרת סריקה IaC לשפות פיתוח ראשוניות, כגון AWS, GCP ו-Azure. Wiz גם מציגה פונקציונליות חדשה של תצוגה מאוחדת של כל המודולים IaC, כולל מקור, פלטפורמה, סוג, הפעלות ומשאבים. Wiz גם מציגה פונקציונליות של חסינות IaC, שמאפשרת לקבוצות הביטחון להגדיר מדיניות של חסינות IaC, ולאכוף אותן ישירות בפיתוח, כולל תצוגה של תקריות IaC."
+  },
+  {
+    "id": "481b1242f23dc7d8",
+    "title_original": "Containing a domain compromise: How predictive shielding shut down lateral movement",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/",
+    "description": "Domain compromise accelerates fast. Predictive shielding slowed it down. This real-world attack shows how exposure-based containment stopped credential abuse and broke the threat actor's momentum.The postContaining a domain compromise: How predictive shielding shut down lateral movementappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-17T14:51:01+00:00",
+    "fetched_at": "2026-04-18T05:45:57.990031+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Containing a domain compromise: How predictive shielding shut down lateral movement",
+    "summary_he": "A team of researchers discovered a complex cyber attack attributed to the North Korean threat actor Sapphire Sleet, which targeted macOS systems and exploited user-driven execution and social engineering tactics to steal sensitive information.",
+    "details_he": "The Microsoft Defender Security Research Team identified the campaign, which involved a series of sophisticated steps from initial lure to domain compromise. The attack leveraged user-driven execution and social engineering to bypass macOS security protections. The ultimate goal of the campaign was to steal credentials, cryptocurrency assets, and sensitive data from compromised systems."
+  },
+  {
+    "id": "10f9020d5f70092c",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 16",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-16-7/",
+    "description": "Authorities take down W3LL phishing ring, AgingFly malware steals Ukrainian government data, and actors exploit Nginx flaw to hijack servers.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-04-17T13:00:33+00:00",
+    "fetched_at": "2026-04-18T05:46:02.626106+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-16-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 16",
+    "summary_he": "In a significant blow to cybercrime, US authorities have dismantled a major phishing operation and arrested key suspects, while also taking down a new malware campaign targeting Ukrainian governments and hospitals.",
+    "details_he": "The US authorities have made a major breakthrough in their fight against cybercrime by dismantling the 'W3LL' phishing platform, which was sold to criminals for $500 per kit and enabled them to clone login portals, steal credentials, and launch business email compromise attacks. The operation, which was shut down in 2023, continued through encrypted channels under new branding and was used against over 17,000 victims worldwide. The takedown disrupted a major criminal ecosystem that helped more than 500 threat actors steal access, hijack accounts, and commit financial fraud. Additionally, two US nationals have been sentenced for helping North Korean IT workers pose as American residents and secure remote jobs at over 100 US companies, generating over $5 million for the DPRK and causing about $3 million in losses to victim companies. Meanwhile, a new malware campaign using a toolset called 'AgingFly' has been uncovered, targeting local governments, hospitals, and possibly Ukrainian defense personnel in Ukraine, with the attackers using phishing emails to lure victims into downloading malicious shortcut files."
+  },
+  {
+    "id": "38db44808ce1d209",
+    "title_original": "Friday Squid Blogging: New Giant Squid Video",
+    "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html",
+    "description": "Pretty fantasticvideofrom Japan of a giant squid eating another squid.As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.Blog moderation policy.",
+    "source_name": "Bruce Schneier",
+    "source_url": "https://www.schneier.com",
+    "category": "cyber",
+    "published": "2026-04-17T21:05:07+00:00",
+    "fetched_at": "2026-04-18T05:45:57.817056+00:00",
+    "sources": [
+      {
+        "name": "Bruce Schneier",
+        "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Friday Squid Blogging: New Giant Squid Video",
+    "summary_he": "A new video from Japan has captured a giant squid eating another squid, showcasing the impressive size and feeding behavior of these deep-sea creatures.",
+    "details_he": "The video, which has been described as 'pretty fantastic', provides a unique glimpse into the natural world of giant squids. This type of footage is rare, as giant squids are typically found in deep waters and are difficult to observe. The video's release has sparked interest in the security stories of the week, allowing readers to discuss various cyber and AI-related news in the comments."
+  }
+]
