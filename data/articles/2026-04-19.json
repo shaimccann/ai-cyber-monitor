@@ -1,0 +1,212 @@
+[
+  {
+    "id": "43e164cbcb7f9448",
+    "title_original": "צרפת מתנתקת ממיקרוסופט: מחשבי המדינה יעברו ללינוקס",
+    "url": "https://techtime.co.il/2026/04/19/linux/",
+    "description": "מדובר בכ-2.5 מיליון רשיונות תוכנה ושירותי מידע נוספים. שר התיקצוב והמיסוי: \"עלינו להשתחרר מהתלות בכלים אמריקאים ולהשיב לידינו את השליטה בגורלנו הדיגיטלי\"",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-04-19T05:28:30+00:00",
+    "fetched_at": "2026-04-19T06:05:24.402119+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/04/19/linux/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "צרפת מתנתקת ממיקרוסופט: מחשבי המדינה יעברו ללינוקס",
+    "summary_he": "ממשלת צרפת הכריזה על תוכנית להתנתק ממיקרוסופט ולהחליף את מערכות ההפעלה שלה ללינוקס. התוכנית כוללת גם הקמת תשתית אלטרנטיבית לשירותי ענן ובינה מלאכותית.",
+    "details_he": "התוכנית, שהוכרזה ב-8 באפריל 2026, כוללת יציאה מ-Windows לטובת תחנות עבודה המבוססות על מערכת ההפעלה Linux. כל משרד ממשלתי יגבש תוכנית משלו עד הסתיו, שתעסוק בצירים הבאים: סביבת עבודה, כלי שיתוף פעולה, אנטי-וירוס, בינה מלאכותית, בסיסי נתונים, וירטואליזציה וציוד רשת. הממשלה דורשת שכל המערכות המשמשות את המדינה יעמדו בתקן SecNumCloud, כולל מערכת ההפעלה ויישומי לינוקס שיחליפו את התשתיות של מיקרוסופט. התוכנה Visio, שהושקה בינואר 2026, קיבלה הסמכת SecNumCloud והיא פועלת באמצעות הענן של חברת Outscale."
+  },
+  {
+    "id": "ba04b54824d8e444",
+    "title_original": "Tesla brings its robotaxi service to Dallas and Houston",
+    "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "description": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-04-18T21:37:15+00:00",
+    "fetched_at": "2026-04-19T06:04:55.810386+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Tesla brings its robotaxi service to Dallas and Houston",
+    "summary_he": "Tesla היא חברה שמרחיבה שירות רובוטקסי בערים דאלאס והוסטון, כפי שהוכרז בעמוד הטוויטר שלה. השירות כבר פועל בשלוש ערים בטקסס, לאחר שהושק באוסטין בשנה שעברה.",
+    "details_he": "Tesla היא חברה שמרחיבה שירות רובוטקסי בערים דאלאס והוסטון, כפי שהוכרז בעמוד הטוויטר שלה. השירות כבר פועל בשלוש ערים בטקסס, לאחר שהושק באוסטין בשנה שעברה. השירות כולל רכבי טסלה שנוהגים ללא נהגים אנושיים. נכון לעכשיו, השירות פועל בשלוש ערים בטקסס, ובאזור הביישן של סן פרנסיסקו."
+  },
+  {
+    "id": "54e97a4ea192d9c6",
+    "title_original": "AI chip startup Cerebras files for IPO",
+    "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-04-18T19:19:11+00:00",
+    "fetched_at": "2026-04-19T06:04:55.810386+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI chip startup Cerebras files for IPO",
+    "summary_he": "Cerebras Systems, a startup developing AI hardware, has filed for an initial public offering after raising significant funds in recent years. The company's CEO, Andrew Feldman, boasts about taking business away from Nvidia, a major competitor. Cerebras has secured major deals with Amazon Web Services and OpenAI.",
+    "details_he": "Cerebras Systems, a startup that specializes in AI hardware, filed for an initial public offering (IPO) after previously withdrawing a similar filing in 2024 due to a federal review. The company has raised substantial funds in recent years, including a $1.1 billion Series G round and a $1 billion Series H round at a $23 billion valuation. Cerebras has secured significant deals, including an agreement with Amazon Web Services to use its chips in Amazon data centers and a reportedly $10 billion deal with OpenAI. The company's revenue in 2025 was $510 million, with a net income of $237.8 million, according to the filing. Cerebras plans to raise funds in an IPO scheduled for mid-May."
+  },
+  {
+    "id": "a615314cc7b4c79f",
+    "title_original": "The RAM shortage could last years",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "description": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-04-18T17:08:45-04:00",
+    "fetched_at": "2026-04-19T06:04:55.077555+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The RAM shortage could last years",
+    "summary_he": "בעוד יצרני זיכרון עובדים להגדיל ייצור, נראה שהחסרון ב-RAM יימשך שנים. על פי דיווחי Nikkei Asia, יצרני הזיכרון רק יכלו לספק 60 אחוז מהביקוש עד סוף 2027.",
+    "details_he": "החסרון ב-RAM יכול להימשך עד 2030, כפי שאמר יו\"ר SK Group. יצרני הזיכרון הגדולים בעולם, סמסונג, SK Hynix ו-Micron, עובדים כרגע להוסיף יכולת ייצור חדשה, אך רובה לא תהיה פעילה עד 2027 או 2028. החסרון ב-RAM גרם לעלייה במחירים של טלפונים, לוחות, VR headsets וגיימינג handhelds."
+  },
+  {
+    "id": "dce7171a522444c1",
+    "title_original": "מתלבטים איך לציין את יום הזיכרון במשרד? הנה הצעה מעניינת",
+    "url": "https://www.geektime.co.il/geek-events-190426/",
+    "description": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. טקס הזיכרון של ההייטק הישראלי מתי? 21 באפריל איפה? אונליין כמה? […]The postמתלבטים איך לציין את יום הזיכרון במשרד? הנה הצעה מעניינתappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-04-18T16:39:41+00:00",
+    "fetched_at": "2026-04-19T06:05:15.466829+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/geek-events-190426/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מתלבטים איך לציין את יום הזיכרון במשרד? הנה הצעה מעניינת",
+    "summary_he": "טקס הזיכרון של ההייטק הישראלי זמין לצפייה און-דימנד, ומאות חברות מקרינות אותו במשרדיהן. הטקס כולל רגעי זיכרון, התייחדות ותקווה.",
+    "details_he": "טקס הזיכרון של ההייטק הישראלי, שהתקיים ביום חמישי האחרון ביוזמת Next October, זמין עכשיו לצפייה און-דימנד. הטקס כולל רגעי זיכרון, התייחדות ותקווה, ומאות חברות ברחבי הארץ צפויות להקרין אותו במשרדיהן. גם אתם יכולים לקבל לינק לצפייה – לבד או במשרד. הטקס התקיים בשיתוף גיקטיים ובאירוח חברת מאנדיי."
+  },
+  {
+    "id": "89c1acedb5abfea4",
+    "title_original": "Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
+    "description": "Threat actors are abusing external Microsoft Teams collaboration to impersonate IT helpdesk staff and convince users to grant remote access. Once inside, attackers can abuse legitimate tools and standard admin protocols to move laterally and exfiltrate data while appearing as routine IT support—activity Microsoft Defender helps detect across Teams, endpoint, and identity telemetry.The postCross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbookappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-18T12:55:45+00:00",
+    "fetched_at": "2026-04-19T06:05:00.176813+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook",
+    "summary_he": "תקשורת עם עובדי תמיכה וגישה למערכות: תקציר של תקלה חדשה",
+    "details_he": "בעקבות תקשורת עם עובדי תמיכה, תוקפים יכולים לזכות בגישה למערכות באמצעות כלי תמיכה רשמיים. הם עשויים לבצע פעולות רשמיות, כגון הצבת תוכנות רשמיות, כדי לבצע קוד שבעצמו. תוקפים יכולים לזכות בגישה למערכות ולהפעיל תוכנות רשמיות, כדי לבצע קוד שבעצמו. הם עשויים להשתמש ב-WinRM כדי להפעיל תוכנות רשמיות ולבצע קוד שבעצמו. הם עשויים להשתמש ב-WinRM כדי להפעיל תוכנות רשמיות ולבצע קוד שבעצמו."
+  },
+  {
+    "id": "0a59cdba86f1070b",
+    "title_original": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
+    "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+    "description": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching.\nFor every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections, and OAuth grants. When projects end or employees leave, most",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-04-18T13:37:00+05:30",
+    "fetched_at": "2026-04-19T06:04:57.546093+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
+    "summary_he": "Organizations are vulnerable to cloud breaches due to unmanaged non-human identities, which are often left active and unmonitored after projects end or employees leave. These 'Ghost Identities' can provide attackers with admin-level access, allowing them to move laterally across the environment. A recent webinar will provide a working playbook to help security teams identify and eliminate these vulnerabilities.",
+    "details_he": "According to a 2024 report, compromised service accounts and forgotten API keys were responsible for 68% of cloud breaches. This is not due to phishing or weak passwords, but rather the lack of management and monitoring of non-human identities. These identities, including service accounts, API tokens, AI agent connections, and OAuth grants, can multiply rapidly and carry admin-level access. The average dwell time for these intrusions is over 200 days, highlighting the need for effective identity management. The upcoming webinar will provide a framework for right-sizing permissions and implementing an automated lifecycle policy to revoke dead credentials and prevent attackers from exploiting them."
+  },
+  {
+    "id": "08ff9b5b55f18f6e",
+    "title_original": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
+    "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
+    "description": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack.\nThe exchange said it fell victim to what it described as a large-scale cyber attack that bore hallmarks of foreign intelligence agency involvement. This attack led to the theft of over 1",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-04-18T13:29:00+05:30",
+    "fetched_at": "2026-04-19T06:04:57.546093+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
+    "summary_he": "Grinex, cryptocurrency exchange sanctioned by UK and US, has suspended operations after a $13.74 million hack, which it blames on Western intelligence agencies. The exchange claims the attack was coordinated to damage Russia's financial sovereignty. The hack led to the theft of over 1 billion rubles in user funds.",
+    "details_he": "Grinex, a Kyrgyzstan-incorporated exchange, was sanctioned by the UK and US last year for money laundering and other illicit activities. The exchange claims it has been under attack since its inception, with the latest hack representing a new level of escalation aimed at destabilizing Russia's financial sector. Blockchain intelligence firms Elliptic and TRM Labs have identified over 70 addresses connected to the incident, with some of the stolen funds sent to further accounts on the TRON or Ethereum blockchains."
+  },
+  {
+    "id": "aa2bcb3b09dd8b2b",
+    "title_original": "Critical flaw in Protobuf library enables JavaScript code execution",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+    "description": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-04-18T11:09:44-04:00",
+    "fetched_at": "2026-04-19T06:04:57.166371+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Critical flaw in Protobuf library enables JavaScript code execution",
+    "summary_he": "חולשה בספריית Protobuf מאפשרת ריצה של קוד JavaScript, וכתוצאה מכך, פגיעה בביטחון של אפליקציות רבות. חברת הביטחון Endor Labs פרסמה דוח שבו נכתב כי החולשה נגרמת מדורסת קוד דינמי לא-בטוח.",
+    "details_he": "חברת Endor Labs פרסמה דוח שבו נכתב כי חולשה בספריית Protobuf מאפשרת ריצה של קוד JavaScript. הספרייה, המכונה protobuf.js, נמצאת בשימוש נרחב באפליקציות Node Package Manager (npm) ובמערכות ענן. הספרייה משמשת לתקשורת בין שרתים, לאפליקציות באינטרנט האלפא, ולאחסון נתונים במסדי נתונים. חולשה זו עשויה לגרום לפגיעה בביטחון של אפליקציות רבות. Endor Labs ממליצה לעדכן את הספרייה לגרסה 8.0.1 ו-7.5.5, אשר תספק תיקון לחולשה. התיקון כולל שינויים שימנעו מקריאת קוד זר. חברת Endor Labs גם ממליצה לאופטימיזציה של תלותי תלותיות, ולטפל בטענות כאל קוד זר."
+  },
+  {
+    "id": "d9966c75720c46aa",
+    "title_original": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
+    "url": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
+    "description": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption.The postTycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacksappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-04-18T10:30:00+00:00",
+    "fetched_at": "2026-04-19T06:04:58.386703+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
+    "summary_he": "מעבדות הפישינג Tycoon נפגעו, וכתוצאה מכך, תוכנות הפישינג שלהן נמכרות בשוק האפל. זאת, למרות עלייה במספר התקיפות.",
+    "details_he": "בעקבות פגיעה במעבדות Tycoon, תוכנות הפישינג שלהן נמכרות בשוק האפל. תוכנות אלה, שהיו פופולריות בעבר, כעת נמכרות לתוקפים אחרים. זאת, כחלק ממאמצי התוקפים להשתמש בכלי פישינג יעילים."
+  }
+]
