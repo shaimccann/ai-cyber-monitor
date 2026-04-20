@@ -1,0 +1,212 @@
+[
+  {
+    "id": "16f10a40f69ef7e4",
+    "title_original": "האם איחור של שבוע יעכב את כניסת פאלו אלטו למדדי ת\"א?",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001540515#utm_source=RSS",
+    "description": "ענקית הסייבר פאלו אלטו פספסה בשבוע את המועד הקובע לצירוף למדדי ת\"א בעדכון מאי, לאחר שהחלה להיסחר רק ב־23 בפברואר עקב רכישת סייברארק • כעת ההכרעה מתקרבת: בבורסה יידרשו להחליט השבוע אם להתגמש עם החברה, ששוויה הוא הגבוה ביותר בת\"א, 413 מיליארד שקל • מה ההערכות בשוק?",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-04-20T02:52:00+00:00",
+    "fetched_at": "2026-04-20T06:23:57.073391+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001540515#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "האם איחור של שבוע יעכב את כניסת פאלו אלטו למדדי ת\"א?",
+    "summary_he": "פאלו אלטו, ענקית הסייבר, פספסה את המועד הקובע לצירוף למדדי ת\"א. החברה צפויה להחליט השבוע על כניסתה למדד. פאלו אלטו היא החברה המשוות-ערך הגדולה ביותר בת\"א.",
+    "details_he": "פאלו אלטו פספסה את המועד הקובע לצירוף למדדי ת\"א, ועכשיו ההכרעה מתקרבת. החברה, ששוויה הוא 413 מיליארד שקל, צפויה להחליט השבוע אם להתגמש עם הבורסה. הצירוף למדדי ת\"א יכול להיות צעד חשוב לפאלו אלטו, שיאפשר לה להשקיע בפעילותה בישראל."
+  },
+  {
+    "id": "8eb8ae44d018c1ae",
+    "title_original": "\"ההשקעות מתפוצצות\": המניה שעלתה 69% מתחילת השנה והסיבות",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001540498#utm_source=RSS",
+    "description": "מניית קמטק כבר נסחרת בשווי של 8.4 מיליארד דולר לאחר זינוק של 628% בשלוש שנים • וגם: בעלי המניות שהרוויחו מכך",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-04-20T02:51:00+00:00",
+    "fetched_at": "2026-04-20T06:23:57.073391+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001540498#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"ההשקעות מתפוצצות\": המניה שעלתה 69% מתחילת השנה והסיבות",
+    "summary_he": "מניית קמטק, שעלתה 69% מתחילת השנה, נסחרת כיום בשווי של 8.4 מיליארד דולר, והיא זינקה ב-628% בשלוש שנים. הזינוק המטורף הזה גרם לבעלי המניות לרווח כסף רב. ",
+    "details_he": "מניית קמטק, חברה שעוסקת בטכנולוגיית AI, נסחרת בבורסה והיא אחת החברות המובילות בתחום. הזינוק הגדול ב-628% בשלוש שנים הוביל לעלייה של 69% במניית החברה מתחילת השנה. הזינוק המטורף הזה גרם לבעלי המניות לרווח כסף רב, אך גם גרם לחששות של פצעי רווחים ושקיעה בעתיד. "
+  },
+  {
+    "id": "8314916924c0aeda",
+    "title_original": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
+    "url": "https://arxiv.org/abs/2604.15350",
+    "description": "arXiv:2604.15350v1 Announce Type: new \nAbstract: We discover that large language models exhibit \\emph{spectral phase transitions} in their hidden activation spaces when engaging in reasoning versus factual recall. Through systematic spectral analysis across \\textbf{11 models} spanning \\textbf{5 architecture families} (Qwen, Pythia, Phi, Llama, DeepSeek-R1), we identify \\textbf{seven} core phenomena: (1)~\\textbf{Reasoning Spectral Compression} -- 9/11 models show significantly lower $\\alpha$ for reasoning ($p < 0.05$), with larger effects in stronger models; (2)~\\textbf{Instruction Tuning Spectral Reversal} -- base models show reasoning $\\alpha < $ factual $\\alpha$, while instruction-tuned models reverse this relationship; (3)~\\textbf{Architecture-Dependent Generation Taxonomy} -- prompt-to-response shifts partition into expansion, compression, and equilibrium regimes; (4)~\\textbf{Spectral Scaling Law} -- $\\alpha_\\text{reasoning} \\propto -0.074 \\ln N$ across 4 Qwen base models ($R^2 = 0",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-04-20T00:00:00-04:00",
+    "fetched_at": "2026-04-20T06:23:31.149926+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2604.15350"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
+    "summary_he": "חוקרים גילו שדגמי ייחוס גדולים מציגים תמות פאזה ספקטרליות במרחבי הפעילות הנסתר שלהם כאשר הם עוסקים בהסברה ולא בזיכרון פועל. ",
+    "details_he": "במחקר שפורסם בארכיוו של arXiv, חוקרים חשפו שדגמי ייחוס גדולים עוברים תמות פאזה ספקטרליות במרחבי הפעילות הנסתר שלהם, כאשר הם עוסקים בהסברה ולא בזיכרון פועל. החוקרים חקרו 11 דגמי ייחוס, וגילו 7 תופעות קשורות. התופעות כוללות צינור ספקטרלי, הפליאה של הפעילות הנסתר, וכן תאוריה ספקטרלית של הסברה. "
+  },
+  {
+    "id": "739b1679fe13b523",
+    "title_original": "Aletheia: Gradient-Guided Layer Selection for Efficient LoRA Fine-Tuning Across Architectures",
+    "url": "https://arxiv.org/abs/2604.15351",
+    "description": "arXiv:2604.15351v1 Announce Type: new \nAbstract: Low-Rank Adaptation (LoRA) has become the dominant parameter-efficient fine-tuning method for large language models, yet standard practice applies LoRA adapters uniformly to all transformer layers regardless of their relevance to the downstream task. We introduce Aletheia, a gradient-guided layer selection method that identifies the most task-relevant layers via a lightweight gradient probe and applies LoRA adapters only to those layers with asymmetric rank allocation. Across 81 experiment rows covering 14 successful models from 8 architecture families (0.5B-72B parameters, including dense and Mixture-of-Experts architectures), with one additional documented failed Pythia/GPT-NeoX attempt in Campaign 2, Aletheia achieves a 15-28% training speedup (mean 23.1%, p < 0.001) with bounded extra forgetting and broadly matched downstream behavior on the evaluated MMLU, GSM8K, and HumanEval benchmark pack. Across the tested families and scales, C",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-04-20T00:00:00-04:00",
+    "fetched_at": "2026-04-20T06:23:31.149926+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2604.15351"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Aletheia: Gradient-Guided Layer Selection for Efficient LoRA Fine-Tuning Across Architectures",
+    "summary_he": "חוקרים הציגו פרויקט בשם Aletheia, שמטרתו לשפר את יעילות האימון של מודלי לשון גדולים. הפרויקט משתמש באלגוריתם של זיהוי שכבות, המזהה את השכבות המשמעותיות ביותר למשימה הנתונה.",
+    "details_he": "Aletheia, שפותח על ידי Abdulmalek Saket, משתמש באלגוריתם של זיהוי שכבות, המזהה את השכבות המשמעותיות ביותר למשימה הנתונה. במסגרת הפרויקט, נבדקו 81 רשומות ניסויים, הכוללות 14 מודלי לשון מוצלחים מ-8 משפחות ארכיטקטוניות. התוצאות הראו ש-Aletheia מציגה עלייה של 15-28% במהירות האימון, עם נזק מוגבל לזיכרון והתנהגות מוטרדת במידה נרחבת במבחני MMLU, GSM8K ו-HumanEval. התוצאות תומכות בדבריו של החוקר, שטוען שבחירת שכבות חכמה יכולה להפכה את האימון של LoRA ליותר יעיל."
+  },
+  {
+    "id": "7daf43dc73a1093e",
+    "title_original": "Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit",
+    "url": "https://arxiv.org/abs/2604.15356",
+    "description": "arXiv:2604.15356v1 Announce Type: new \nAbstract: Recent work on KV cache quantization, culminating in TurboQuant, has approached the Shannon entropy limit for per-vector compression of transformer key-value caches. We observe that this limit applies to a strictly weaker problem than the one that actually matters: compressing the KV cache as a sequence. The tokens stored in a KV cache are not arbitrary floating-point data -- they are samples from the exact formal language the model was trained on, and the model is by construction a near-optimal predictor of that language. We introduce sequential KV compression, a two-layer architecture that exploits this structure. The first layer, probabilistic prefix deduplication, identifies semantically equivalent shared prefixes across sessions using the trie metric d_T(s, s') = -log_2 P_M(s ^ s') from Probabilistic Language Tries (PLTs). The second layer, predictive delta coding, stores only the residual of each new KV vector from the model's own ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-04-20T00:00:00-04:00",
+    "fetched_at": "2026-04-20T06:23:31.149926+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2604.15356"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit",
+    "summary_he": "מחקר חדש בתחום הלמידה מכונית חוקר את האפשרות להשתמש בניסוח סימבולי להשפעת חיפוש קדם-דופליקטים על קיצור זיכרון KV. המחקר מציג פרימיירה חדשה בקיצור זיכרון KV, המבוססת על ניסוח סימבולי.",
+    "details_he": "המחקר, שנכתב על ידי גרגורי מגארשק, חוקר את האפשרות להשתמש בניסוח סימבולי להשפעת חיפוש קדם-דופליקטים על קיצור זיכרון KV. המחקר מציג פרימיירה חדשה בקיצור זיכרון KV, המבוססת על ניסוח סימבולי. המחקר גם חוקר את האפשרות להשתמש בטרייסים סימבוליים להשפעת חיפוש קדם-דופליקטים על קיצור זיכרון KV. התוצאות המחקר מראות כי הפרימיירה החדשה מציגה קיצור זיכרון KV טוב יותר מאשר טכניקות קיצור זיכרון KV קיימות."
+  },
+  {
+    "id": "a9ca58fad17121df",
+    "title_original": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+    "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+    "description": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company.\n\"The attacker used that access to take over the employee's Vercel Google Workspace account,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-04-20T09:05:00+05:30",
+    "fetched_at": "2026-04-20T06:23:31.944271+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+    "summary_he": "Vercel, a cloud infrastructure provider, has recently disclosed a security breach that was linked to a hack of Context.ai, a third-party AI tool. The breach allowed the attacker to gain access to certain internal systems and environment variables, although sensitive information was stored in an encrypted manner. A limited number of customers had their credentials compromised.",
+    "details_he": "The incident occurred when an employee's Vercel Google Workspace account was compromised, allowing the attacker to access some Vercel environments and environment variables. Vercel described the threat actor as sophisticated due to their operational velocity and understanding of the company's systems. The company is working with Mandiant and other cybersecurity firms to investigate the breach and has notified law enforcement and Context.ai. Vercel is also advising customers to review their activity logs and rotate their environment variables to prevent further breaches."
+  },
+  {
+    "id": "1abef78d36df53e0",
+    "title_original": "ISC Stormcast For Monday, April 20th, 2026 https://isc.sans.edu/podcastdetail/9898, (Mon, Apr 20th)",
+    "url": "https://isc.sans.edu/diary/rss/32912",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-04-20T02:00:03+00:00",
+    "fetched_at": "2026-04-20T06:23:33.204507+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32912"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Monday, April 20th, 2026 https://isc.sans.edu/podcastdetail/9898, (Mon, Apr 20th)",
+    "summary_he": "SANS Internet Storm Center released its weekly podcast, ISC Stormcast, for Monday, April 20th, 2026. The podcast covers various cybersecurity topics and threats. It is available for download from the ISC website.",
+    "details_he": "The ISC Stormcast podcast is a weekly series that provides in-depth analysis and insights on the latest cybersecurity threats and trends. It is hosted by the SANS Internet Storm Center, a renowned organization that tracks and analyzes cyber threats. The podcast is available for download from the ISC website and is released every Monday. It is released under a Creative Commons Attribution-Noncommercial 3.0 United States License, allowing users to share and use the content for non-commercial purposes."
+  },
+  {
+    "id": "df758ab7d79539a7",
+    "title_original": "Vercel confirms breach as hackers claim to be selling stolen data",
+    "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+    "description": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-04-19T13:32:45-04:00",
+    "fetched_at": "2026-04-20T06:23:31.552924+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Vercel confirms breach as hackers claim to be selling stolen data",
+    "summary_he": "Vercel, פלטפורמת פיתוח ענן, הודיעה על פריצה באבטחתה, לאחר שמפיצי סייבר טענו שהם ניצלו נתונים גנובים. החברה, שמספקת שירותי אחסון והפצה, אמרה שהפריצה התרחשה במערכות פנימיות, אך השירותים שלה לא נפגעו.",
+    "details_he": "Vercel, פלטפורמת פיתוח ענן, הודיעה על פריצה באבטחתה, לאחר שמפיצי סייבר טענו שהם ניצלו נתונים גנובים. החברה, שמספקת שירותי אחסון והפצה, אמרה שהפריצה התרחשה במערכות פנימיות, אך השירותים שלה לא נפגעו. החברה אמרה שהיא עובדת עם קורבנות הפריצה ומשתפת פעולה עם מומחי אבטחת אתרים. Vercel גם עדכנה את התקשורת כי הפריצה נבעה מפריצה של כלי AI שלישי, שהציגה תיקיות OAuth של Google Workspace. החברה מעודדת את אדמיניסטרטורי Google Workspace ובעלי חשבונות Google לבדוק את תיקיות OAuth הבאות: OAuth App: 110671459871-30f1spbu0hptbs60cb4vsmv79i7bbvqj.apps.googleusercontent.com"
+  },
+  {
+    "id": "e6fe8b21b5abdee5",
+    "title_original": "Apple account change alerts abused to send phishing emails",
+    "url": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+    "description": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-04-19T12:03:01-04:00",
+    "fetched_at": "2026-04-20T06:23:31.552924+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Apple account change alerts abused to send phishing emails",
+    "summary_he": "תגובות של אפל לתעודות חשבון שינויים נמנעות על ידי פישינג דואר אלקטרוני, כאשר הם נראים כאילו הם נשלחו מאתר אפל. הפישינג מנסה לשכנע את המשתמשים לקבל קריאה טלפונית כדי לבטל רכישה של iPhone.",
+    "details_he": "הפישינג הזה נראה כאילו הוא נשלח מאתר אפל, והוא משתמש בתעודות חשבון שינויים כדי לשכנע את המשתמשים לקבל קריאה טלפונית. הפישינג כולל תעודות חשבון שינויים של אפל, שבהן נכתב שהחשבון הושפע, ומכאן הפישינג מנסה לשכנע את המשתמשים לקבל קריאה טלפונית. הפישינג כולל גם פרטי תשלום של iPhone, ומכאן הפישינג מנסה לשכנע את המשתמשים לקבל קריאה טלפונית. הפישינג נראה כאילו הוא נשלח מאתר אפל, והוא משתמש בתעודות חשבון שינויים כדי לשכנע את המשתמשים לקבל קריאה טלפונית."
+  },
+  {
+    "id": "230dd50fc1061ce8",
+    "title_original": "NIST to stop rating non-priority flaws due to volume increase",
+    "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+    "description": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-04-19T10:17:43-04:00",
+    "fetched_at": "2026-04-20T06:23:31.552924+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NIST to stop rating non-priority flaws due to volume increase",
+    "summary_he": "ה-NIST החליטה לפסול תוצאות חשיבה לפגמים שאינם עדיפים, בשל עלייה בכמות התגליות. החל מ-15 באפריל, השירות יבדוק ויספק פרטים נוספים רק לבגיעותיו של סכנה",
+    "details_he": "ה-NIST הסבירה שהחלטתה נבעה מכמות גדולה של תגליות, שגדלה ב-263% בשנה האחרונה. הארגון תיעד 42,000 CVEs ב-2025, אך לא יכול היה להמשיך לעקוב אחר הכמות הגוברת. ה-NIST NVD היא מאגר ציבורי, מרכזי של פגמים ידועים בתוכנות ובחומרה. המאגר גם מספק תיאורים נוספים וניתוחים, מעבר להזנקי זהויות יוצאי-דופן (CVE IDs)."
+  }
+]
