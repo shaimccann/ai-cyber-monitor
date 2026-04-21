@@ -1,0 +1,212 @@
+[
+  {
+    "id": "34b024ad26a52f86",
+    "title_original": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+    "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-21T00:40:10+00:00",
+    "fetched_at": "2026-04-21T06:08:56.329044+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+    "summary_he": "AI models that power Korean agents often lack understanding of local demographics and cultural context, leading to inaccurate applications of workflows. A new dataset, Nemotron-Personas-Korea, addresses this issue by providing synthetic personas grounded in official statistics and seed data.",
+    "details_he": "The dataset contains 6 million fully synthetic personas, each demographically accurate but containing zero personally identifiable information. It was designed with Korea's Personal Information Protection Act in mind and follows the country's official Synthetic Data Generation guide. The personas are based on data from various sources, including the Korean Statistical Information Service, the Supreme Court of Korea, and the National Health Insurance Service. The dataset is available for use in building multilingual agents and is part of the Nemotron-Personas Collection, which covers several countries."
+  },
+  {
+    "id": "831ed93065af8667",
+    "title_original": "Can we AI our way to a more sustainable world?",
+    "url": "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "description": "Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter operations, efficiency gains, and AI's potential across electrification, materials, and food systems.The postCan we AI our way to a more sustainable world?appeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-04-20T16:24:01+00:00",
+    "fetched_at": "2026-04-21T06:08:55.388009+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Can we AI our way to a more sustainable world?",
+    "summary_he": "אנשי מדע מדברים על יכולת ה- AI להפוך את העולם לסביבתי יותר, אך ישנם גם סכנות וגישות שונות לשימוש בטכנולוגיה זו.",
+    "details_he": "בפודקאסט 'The Shape of Things to Come', ראש מחקרי מיקרוסופט, דאג בורגר, משתף פעולה עם חוקרים ומומחים מתחומים שונים, כדי לבחון את האתגרים הגדולים של ה- AI, ואת הדרך שבה יכולה הטכנולוגיה לסייע בפתרון בעיות סביבתיות. הפודקאסט עוסק בשאלה האם ניתן להשתמש ב- AI כדי ליצור עולם יותר סביבתי, ואם ישנם גם סכנות וגישות שונות לשימוש בטכנולוגיה זו. הדיון עוסק בכך שה- AI יכולה להיות כלי חשוב לאופטימיזציה של מערכות ולפתרון בעיות סביבתיות, אך גם ישנם סכנות כגון צריכת חשמל גבוהה של מרכזי הנתונים."
+  },
+  {
+    "id": "949248dd49e61ff2",
+    "title_original": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
+    "url": "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/",
+    "description": "AI agents are transforming how work gets done across all industries, accelerating everything from content creation to decision-making. NVIDIA’s expanded strategic collaborations with Adobe and WPP are bringing agentic AI to the center of enterprise marketing operations across creative production and customer experience orchestration.  As demand for personalized customer experiences surges, brands require intelligent systems […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-20T13:00:50+00:00",
+    "fetched_at": "2026-04-21T06:08:56.659136+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
+    "summary_he": "AI agents are transforming industries by accelerating content creation and decision-making, with a focus on personalized customer experiences.",
+    "details_he": "The collaboration between Adobe, WPP, and NVIDIA is bringing agentic AI to the center of enterprise marketing operations, enabling intelligent systems to plan, create, produce, and activate content continuously. This is particularly important for brands that require tailored experiences, always on and always relevant, without compromising control, governance, or brand integrity. The expanded collaborations leverage the strengths of each company, including Adobe's creative and customer experience platforms, WPP's global media and marketing expertise, and NVIDIA's accelerated computing and software stack."
+  },
+  {
+    "id": "4403a1bc6671734a",
+    "title_original": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
+    "url": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
+    "description": "Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — is accelerating the shift to AI-driven production.  The question is no longer whether to adopt AI, but how fast and at what […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-20T08:30:55+00:00",
+    "fetched_at": "2026-04-21T06:08:56.659136+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
+    "summary_he": "NVIDIA ושותפיה מציגים עתיד של ייצור נהיגה על ידי AI ב-Hannover Messe 2026. הם מדגימים כיצד התקדמויות במחשוב מואץ, פיזיקה AI, אגנטים ורובוטים חונקים תעשייה תעשייתית.",
+    "details_he": "NVIDIA ושותפיה ידגמו את עתיד הייצור ב-Hannover Messe 2026. הם ידגמו כיצד התקדמויות במחשוב מואץ, פיזיקה AI, אגנטים ורובוטים חונקים תעשייה תעשייתית. הם ידגמו גם כיצד הם יכולים לסייע למפעלים להיות יעילים יותר ולהפחית את העלויות. ה-Industrial AI Cloud, אחד מהמפעלים הגדולים ביותר של AI באירופה, הוקם בגרמניה על ידי Deutsche Telekom על NVIDIA AI infrastructure. הוא מספק יסוד ראשי, בטוח ומאפשר פיתוח של AI ורובוטיקה בקנה מידה אירופי."
+  },
+  {
+    "id": "6b3987c01fc58791",
+    "title_original": "בעקבות הפרישה של טים קוק: קידום לישראלי הבכיר ביותר של אפל",
+    "url": "https://www.geektime.co.il/israeli-johny-srouji-apple-chief-hardware-officer/",
+    "description": "בזמן שכולם בעולם הטכנולוגיה מתעסקים בשינוי הדרמטי בעמדת המנכ\"ל של אפל, עם פרישתו של טים קוק וכניסתו של ג'ון טרנוס לתפקיד, מתרחש במקביל שינוי משמעותי לא פחות. ג'וני סרוג'י, הישראלי הבכיר ביותר בחברה ומי שנחשב לאדריכל המהפכה של Apple Silicon, קודם לתפקיד Chief Hardware Officer. המינוי, שנכנס לתוקף באופן מיידי, הופך את סרוג'י לאיש החזק […]The postבעקבות הפרישה של טים קוק: קידום לישראלי הבכיר ביותר של אפלappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-04-21T06:00:49+00:00",
+    "fetched_at": "2026-04-21T06:09:15.477015+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/israeli-johny-srouji-apple-chief-hardware-officer/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "בעקבות הפרישה של טים קוק: קידום לישראלי הבכיר ביותר של אפל",
+    "summary_he": "ג'וני סרוג'י, הישראלי הבכיר ביותר באפל, קודם לתפקיד Chief Hardware Officer. המינוי, שנכנס לתוקף באופן מיידי, הופך את סרוג'י לאיש החזק ביותר בחברה בכל הקשור למוצרים פיזיים וטכנולוגיות ליבה.",
+    "details_he": "סרוג'י יאחד תחתיו שתי חטיבות שהיו נפרדות במשך יותר מעשור: הנדסת חומרה וטכנולוגיות חומרה. המשמעות היא שסרוג'י יהיה בפועל האדם החשוב באפל אחרי המנכ\"ל ויהיה אחראי על כל מה שקשור לחומרה בחברה. סרוג'י קודם לתפקיד זה חודשים ספורים בלבד אחרי דיווח שהגיע ממארק גורמן, אחד הכתבים הכי מקושרים לאפל, ולפיו סרוג'י הודיע לטים קוק כי הוא שוקל לעזוב את אפל. עם זאת, סרוג'י הכחיש את הדיווח במייל ששלח לעובדים."
+  },
+  {
+    "id": "0c988e49079ef934",
+    "title_original": "Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity",
+    "url": "https://www.sentinelone.com/blog/automation-at-machine-speed-rethinking-execution-in-modern-cybersecurity/",
+    "description": "Machine-speed threats demand machine-speed defense—see how AI and automation cut dwell time and outpace attackers.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "ai",
+    "published": "2026-04-20T18:43:49+00:00",
+    "fetched_at": "2026-04-21T06:09:05.915891+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/automation-at-machine-speed-rethinking-execution-in-modern-cybersecurity/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity",
+    "summary_he": "Organizations are facing a significant challenge in modern cybersecurity as attackers use automation and AI to operate at machine speed, making it difficult for human defenders to respond in time. To stay ahead, security teams must integrate AI insights into automated workflows to move from reactive triage to proactive intervention.",
+    "details_he": "The shift towards automation in cybersecurity is critical as it enables defenders to reclaim the tempo and respond to threats faster. By automating tasks, security teams can save manual workload and increase operational speed. However, AI tools themselves need defending, and organizations must implement robust security measures to protect AI systems from misuse. The integration of AI and automation is key to staying ahead of modern adversaries, who are leveraging these technologies to escalate privileges and compromise systems."
+  },
+  {
+    "id": "b445dabdbc2369a3",
+    "title_original": "Context.ai OAuth Token Compromise",
+    "url": "https://www.wiz.io/blog/contextai-oauth-token-compromise",
+    "description": "Compromised Context.ai OAuth tokens enabled attackers to perform a supply chain attack via trusted SaaS integrations.\nLearn how to assess the risk in your environment and how to prevent the next attack.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-20T18:20:06+00:00",
+    "fetched_at": "2026-04-21T06:09:06.462981+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/contextai-oauth-token-compromise"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Context.ai OAuth Token Compromise",
+    "summary_he": "Vercel דיווח על פריצה במערכות הפנימיות שלה, ומזהה שהתקיפה התחילה באמצעות כלי AI של Context.ai, שהפך לפריצה כפולה. התקיפה כללה גם חברות אחרות של Vercel.",
+    "details_he": "Vercel דיווחה על פריצה במערכות הפנימיות שלה, ומזהה שהתקיפה התחילה באמצעות כלי AI של Context.ai. Context.ai דיווחה שאוטונטיזציה של OAuth עבור משתמשים צרכנים נכנסה לטעות, וכי עובד Vercel המורשה לאפליקציה OAuth הפגיעה העניק תיקון גדול למתקיף. התקיפה כללה גם חברות אחרות של Vercel. זהו דוגמה לפריצה כפולה, שבה התקיפה התחילה באמצעות Context.ai והמשיכה ל-Vercel ולחברות אחרות של Vercel."
+  },
+  {
+    "id": "6e9f846a4e78dfa4",
+    "title_original": "Making opportunistic cyberattacks harder by design",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/",
+    "description": "How Microsoft secures Dynamics 365 and Power Platform by removing credentials, reducing attack surfaces, and using platform engineering to block opportunistic threats.The postMaking opportunistic cyberattacks harder by designappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-20T16:00:00+00:00",
+    "fetched_at": "2026-04-21T06:09:02.453225+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Making opportunistic cyberattacks harder by design",
+    "summary_he": "Microsoft נוקטת צעדים להקשת פריצות צ'יפר חסרות תכלית, על ידי הסרת פרטי זיהוי, צמצום פני השטח לפגיעה ושימוש בהנדסת תשתית למניעת סכנות חסרות תכלית.",
+    "details_he": "Microsoft נוקטת צעדים להקשת פריצות צ'יפר חסרות תכלית, על ידי הסרת פרטי זיהוי, צמצום פני השטח לפגיעה ושימוש בהנדסת תשתית למניעת סכנות חסרות תכלית. זאת, במסגרת ניסיון להגן על תוכניות Dynamics 365 ו-Power Platform. השיטה נועדה למנוע פגיעה בפלטפורמה, על ידי הסרת פרטי זיהוי, כגון שמות משתמשים וסיסמאות."
+  },
+  {
+    "id": "0d52272707592174",
+    "title_original": "20th April – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 20th April, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Booking.com, the Amsterdam-based travel platform, has confirmed a data breach after unauthorized parties accessed reservation data linked to some customers. Exposed information included names, email addresses, phone numbers, physical addresses, and booking […]The post20th April – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-04-20T14:24:24+00:00",
+    "fetched_at": "2026-04-21T06:09:06.065967+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "20th April – Threat Intelligence Report",
+    "summary_he": "Booking.com נחשף לפריצה סייבר, ומידע על הזמנות נגלה למשתמשים רבים. נתוני הלקוחות, כולל שמות, כתובות אלקטרוני, מספרי טלפון וכתובות פיזיות, נחשפו.",
+    "details_he": "Booking.com, פלטפורמת הנסיעות האמסטרדמית, אישרה פריצה סייבר. נתוני הלקוחות, כולל שמות, כתובות אלקטרוני, מספרי טלפון וכתובות פיזיות, נחשפו. נראה כי הפריצה נבעה מגישה למידע של חברות נוספות, והפרטים נמסרו ללקוחות רבים. ניתן להורדת תקשורת אבטחת סייבר על ידי Check Point Research."
+  },
+  {
+    "id": "3ebb5462e1f33bab",
+    "title_original": "Stop the SOC Burnout: Fixing the Alert Fatigue Crisis",
+    "url": "https://xmcyber.com/blog/stop-the-soc-burnout-fixing-the-alert-fatigue-crisis/",
+    "description": "Alert fatigue is one of the most persistent and costly problems in security operations – and it’s getting worse. According to Cybersecurity Insiders, 76%...The postStop the SOC Burnout: Fixing the Alert Fatigue Crisisappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-04-20T14:20:15+00:00",
+    "fetched_at": "2026-04-21T06:09:14.415641+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/stop-the-soc-burnout-fixing-the-alert-fatigue-crisis/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Stop the SOC Burnout: Fixing the Alert Fatigue Crisis",
+    "summary_he": "Alert fatigue is a persistent problem in security operations, causing analyst burnout and impacting organizations' ability to respond effectively to security incidents. Despite growing budgets and headcount, the noise is only getting louder, and generic approaches to addressing the issue are failing.",
+    "details_he": "The root cause of alert fatigue lies in the generic approaches used by security teams, which were built for one-size-fits-all coverage. These approaches create predictable problems such as generic threat detection, generic incident response, and generic security control validation. As a result, security teams are overwhelmed with noise, and the underlying exposures are rarely addressed. Furthermore, the three challenges amplify each other, making it difficult for teams to close the gap between detection and remediation. The accessibility gap is costing defenders time they don't have, and attackers are exploiting vulnerabilities in days, while defenders take months to detect and remediate."
+  }
+]
