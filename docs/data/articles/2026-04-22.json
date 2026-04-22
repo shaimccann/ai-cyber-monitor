@@ -1,0 +1,212 @@
+[
+  {
+    "id": "5c18bc05c5e82a90",
+    "title_original": "3 new ways Ads Advisor is making Google Ads safer and faster",
+    "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+    "description": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-21T14:30:00+00:00",
+    "fetched_at": "2026-04-22T06:06:20.325092+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "3 new ways Ads Advisor is making Google Ads safer and faster",
+    "summary_he": "Google Ads Advisor is expanding its capabilities to improve safety and efficiency. The AI-powered tool will now flag complex policy violations, monitor accounts 24/7, and automate certifications, reducing manual paperwork and increasing productivity.",
+    "details_he": "The new features, which include Real-Time Policy Reviews, 24/7 security monitoring, and instant certifications, aim to minimize downtime and maximize campaign performance. With these updates, Ads Advisor will proactively identify and address potential issues, freeing up time for marketers to focus on growth and strategy. The tool's AI capabilities will also provide personalized guidance and recommendations to enhance account security and streamline certification processes."
+  },
+  {
+    "id": "565547e1778a2d92",
+    "title_original": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-21T10:09:58+00:00",
+    "fetched_at": "2026-04-22T06:06:21.952349+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "summary_he": "QIMMA قِمّة ⛰, a quality-first Arabic LLM leaderboard, validates benchmarks before evaluating models to ensure reported scores accurately reflect Arabic language capabilities in LLMs. This approach reveals systematic quality issues in widely-used Arabic benchmarks, which can corrupt evaluation results. QIMMA addresses these issues by applying a rigorous quality validation pipeline.",
+    "details_he": "QIMMA قِمّة ⛰ was built to address the fragmented and unvalidated Arabic NLP evaluation landscape. The platform tackles translation issues, absent quality validation, reproducibility gaps, and coverage fragmentation. QIMMA validates benchmarks before evaluation, ensuring reported scores accurately reflect Arabic language capabilities in LLMs. This approach reveals systematic quality issues in widely-used Arabic benchmarks, which can corrupt evaluation results. By applying a rigorous quality validation pipeline, QIMMA addresses these issues and provides a more accurate assessment of LLMs. The platform combines open source, native Arabic content, systematic quality validation, code evaluation, and public per-sample inference outputs, making it a comprehensive and reliable tool for evaluating Arabic LLMs."
+  },
+  {
+    "id": "5cbe5d8c2412e36c",
+    "title_original": "תעלומת הלייזר: האם פספסנו פתרון זול ויעיל נגד טילים שהיה נוכח כבר לפני 20 שנה?",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001540626#utm_source=RSS",
+    "description": "גיורא איילנד, דוד עברי וד\"ר יהושע קליסקי חוזרים לרגעים שבהם פרויקט הלייזר כמעט נפל בגלל קיצוצים ומאבקים בין חיל האוויר למשרד הביטחון • אז מה היה לנו שם? המסמכים החסויים של ועדת נגל, שחשפו פער בין הבטחות למציאות, הלבטים של עמיר פרץ בדבר \"כיפת ברזל\" ומהפכת הסיבים האופטיים • גלובס צולל אל מאחורי הקלעים של שלושה עשורי פיתוח - ותהפוכות",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-04-22T04:00:00+00:00",
+    "fetched_at": "2026-04-22T06:06:50.904414+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001540626#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "תעלומת הלייזר: האם פספסנו פתרון זול ויעיל נגד טילים שהיה נוכח כבר לפני 20 שנה?",
+    "summary_he": "בשנות ה-90, פרויקט הלייזר להגנה מפני טילים נפל קרוב להכשל, אך חברי הפרויקט חזרו לאותם רגעים, וגילו שפספסו פתרון זול ויעיל שהיה קיים כבר לפני 20 שנה.",
+    "details_he": "חברי פרויקט הלייזר, גיורא איילנד, דוד עברי וד\"ר יהושע קליסקי, חזרו לשנות ה-90, כאשר פרויקט הלייזר להגנה מפני טילים נפל קרוב להכשל. הם גילו שבאותן השנים, היו קיימים פתרונות זולים ויעילים להגנה מפני טילים, אך הם נפסלו. המסמכים החסויים של ועדת נגל, שחשפו פער בין הבטחות למציאות, הלבטים של עמיר פרץ בדבר \"כיפת ברזל\" ומהפכת הסיבים האופטיים, חשפו את התהפוכות שעברה ישראל בשלושה עשורי פיתוח."
+  },
+  {
+    "id": "cf5143001d183f56",
+    "title_original": "v2.1.117",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.117",
+    "description": "What's changedForked subagents can now be enabled on external builds by settingCLAUDE_CODE_FORK_SUBAGENT=1Agent frontmattermcpServersare now loaded for main-thread agent sessions via--agentImproved/model: selections now persist across restarts even when the project pins a different model, and the startup header shows when the active model comes from a project or managed-settings pinThe/resumecommand now offers to summarize stale, large sessions before re-reading them, matching the existing--resumebehaviorFaster startup when both local and claude.ai MCP servers are configured (concurrent connect now default)plugin installon an already-installed plugin now installs any missing dependencies instead of stopping at \"already installed\"Plugin dependency errors now say \"not installed\" with an install hint, andclaude plugin marketplace addnow auto-resolves missing dependencies from configured marketplacesManaged-settingsblockedMarketplacesandstrictKnownMarketplacesare now enforced on plugin ins",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-04-22T00:04:40+00:00",
+    "fetched_at": "2026-04-22T06:06:52.639306+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.117"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.117",
+    "summary_he": "Claude Code v2.1.117, a recent update, has introduced several key improvements and bug fixes. The update enables forked subagents on external builds, improves model persistence, and enhances plugin installation and dependency management.",
+    "details_he": "The update includes a range of features and fixes, such as improved model persistence, where selections now persist across restarts even when the project pins a different model. Additionally, the /resume command now offers to summarize stale, large sessions before re-reading them, matching the existing --resume behavior. Furthermore, the update includes bug fixes for issues such as Plain-CLI OAuth sessions dying with 'Please run /login' when the access token expires mid-session, and WebFetch hanging on very large HTML pages by truncating input before HTML-to-markdown conversion."
+  },
+  {
+    "id": "06273335ecf417d8",
+    "title_original": "Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs",
+    "url": "https://arxiv.org/abs/2604.18587",
+    "description": "arXiv:2604.18587v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated significant potential in formal theorem proving, yet state-of-the-art performance often necessitates prohibitive test-time compute via massive roll-outs or extended context windows. In this work, we address this scalability bottleneck by exploiting an informative structure in formal verification: the observation that compilers map a vast space of diverse proof attempts to a compact set of structured failure modes. We introduce a learning-to-refine framework that leverages this compression to perform efficient learning and proof exploration. We perform tree search that corrects errors locally conditioned on explicit verifier feedback, thereby circumventing the costs associated with accumulating a long history of proof attempts. Extensive evaluations show that our method consistently amplifies the reasoning capabilities of base provers across varying scales. Notably, our approach achieves stat",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-04-22T00:00:00-04:00",
+    "fetched_at": "2026-04-22T06:06:25.323986+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2604.18587"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs",
+    "summary_he": "מחקר חדש מציע שיטה חדשה לשיפור יכולות ההוכחה של מערכות תאוריה פורמלית על ידי שימוש בפלט תוכנה. השיטה, המבוססת על רכיבי למידה, מאפשרת לבצע הוכחה יעילה יותר ולחסוך במשאבי מחשב.",
+    "details_he": "במחקר זה, חוקרים מציעים שיטה חדשה לשיפור יכולות ההוכחה של מערכות תאוריה פורמלית. השיטה, המבוססת על רכיבי למידה, מאפשרת לבצע הוכחה יעילה יותר ולחסוך במשאבי מחשב. החוקרים טוענים כי השיטה יכולה להגדיל את יכולות ההוכחה של מערכות תאוריה פורמלית באופן משמעותי. המחקר נערך על ידי ג'וצ'ן לי, רואי טיאן והונג-נינג ואנג. המחקר פורסם בארכיון arXiv תחת המספר 2604.18587."
+  },
+  {
+    "id": "450cf9f95d39b075",
+    "title_original": "Detection strategies across cloud and identities against infiltrating IT workers",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/",
+    "description": "The shift to remote and hybrid work since the pandemic expanded global hiring and accelerated digital onboarding, increasing reliance on online identity verification and remote access.The postDetection strategies across cloud and identities against infiltrating IT workersappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-21T16:03:09+00:00",
+    "fetched_at": "2026-04-22T06:06:29.341576+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Detection strategies across cloud and identities against infiltrating IT workers",
+    "summary_he": "בעקבות העברה לעבודה רחוקה והיברידית, התפתחה הגיוס הגלובלי והתאגידים נאלצו להגביר את התמקדותם באימות זהות ובגישה רחוקה.",
+    "details_he": "השינוי בעבודה הביא לגיוס גלובלי והגדלת הגישה לאימות זהות וגישה רחוקה. כתוצאה מכך, חברות נאלצו לפתח סטרטגיות לזיהוי ומניעת פריצה של עובדי IT. סטרטגיות אלה כוללות גם את הגנת העובדים והמערכות הקשורות להם."
+  },
+  {
+    "id": "8d1db8cba5cdebe5",
+    "title_original": "AI Finds Every Gap: How Many Can Your Network Survive?",
+    "url": "https://blog.checkpoint.com/security/ai-finds-every-gap-how-many-can-your-network-survive/",
+    "description": "Anthropic’s reported development of Claude Mythos signals a shift: AI is compressing attack timelines by accelerating vulnerability discovery, exploit development, and multi-step attack planning. More broadly, AI is increasing the speed and scale of attacks across malware, phishing, and vulnerabilities. Attackers can now run these vectors in parallel, reducing time to compromise and increasing exposure. AI also enables more targeted phishing, faster malware iteration, and rapid vulnerability discovery, exposing gaps in detection and exposure management earlier and requiring prevention-first controls and real-time detection. To see how these challenges translate into real-world performance, and how leading security vendors handle them under […]The postAI Finds Every Gap: How Many Can Your Network Survive?appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-04-21T13:00:40+00:00",
+    "fetched_at": "2026-04-22T06:06:44.280509+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/ai-finds-every-gap-how-many-can-your-network-survive/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Finds Every Gap: How Many Can Your Network Survive?",
+    "summary_he": "AI technologies are revolutionizing the way attackers operate, enabling them to discover vulnerabilities, develop exploits, and plan multi-step attacks at an unprecedented speed and scale. This shift is compressing attack timelines and increasing exposure, making prevention-first controls and real-time detection essential.",
+    "details_he": "The integration of AI in attack vectors is accelerating the discovery of vulnerabilities, the development of malware, and the planning of phishing attacks. Attackers can now run these vectors in parallel, reducing the time to compromise and increasing exposure. AI also enables more targeted phishing, faster malware iteration, and rapid vulnerability discovery, exposing gaps in detection and exposure management earlier. This requires security vendors to adapt and implement prevention-first controls and real-time detection to stay ahead of the threats."
+  },
+  {
+    "id": "a59a74a9cc37f8b9",
+    "title_original": "Closing the Security Gap in the Age of Agentic Coding",
+    "url": "https://www.wiz.io/blog/securing-software-age-of-agentic-coding",
+    "description": "AI agents are writing more and more code. Ensure it's secure. Learn how Wiz Code plugins and the Green Agent bring machine-speed remediation to your AI-IDE.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-21T12:57:16+00:00",
+    "fetched_at": "2026-04-22T06:06:33.765104+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/securing-software-age-of-agentic-coding"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Closing the Security Gap in the Age of Agentic Coding",
+    "summary_he": "ארגונים שמעדכנים את תהליך הביטחון שלהם יכולים להשיג יתרון על יריביהם. זה נעשה על ידי חברות כמו Wiz, שמציעות תוכנות כדי לאפשר תגובה מהירה לבעיות ביטחון.",
+    "details_he": "Wiz, חברה בתחום הביטחון, הציגה פתרון חדש שמאפשר לארגונים לדמוקרטיזציה של הביטחון. הפתרון, הנקרא גרין אג'נט, מאפשר לצוותי ביטחון לאפשר לצוותי פיתוח לתקן בעיות ביטחון באופן מהיר. הפתרון עובד עם חברות כמו Anthropic, שמציעות תוכנות שמגלות ומתקיפות חולשות יומן. Wiz גם הציגה תוכנות שמאפשרות לצוותי פיתוח לתקן בעיות ביטחון באופן מהיר. הפתרון נקרא Wiz Code plugins. Wiz Code plugins מאפשרים לצוותי פיתוח לקבל תגובה מהירה לבעיות ביטחון, ולתקן אותן באופן מהיר."
+  },
+  {
+    "id": "f39954892f1c8be9",
+    "title_original": "Mapping Your API Ecosystem: Wiz Expands API Discovery with Apigee",
+    "url": "https://www.wiz.io/blog/wiz-apigee-integration-for-api-discovery",
+    "description": "See your full Apigee architecture on the Wiz Security Graph,  from API gateways and environments to every endpoint and its authorization scheme.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-21T12:00:00+00:00",
+    "fetched_at": "2026-04-22T06:06:33.765104+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-apigee-integration-for-api-discovery"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Mapping Your API Ecosystem: Wiz Expands API Discovery with Apigee",
+    "summary_he": "Wiz Security Graph expands its visibility into API ecosystems by integrating Google Cloud Apigee. This integration allows security teams to map and monitor their API architecture, including gateways, endpoints, and authorization schemes, providing a more comprehensive security picture.",
+    "details_he": "The integration of Apigee with Wiz Security Graph aims to address the blind spot of APIs in cloud environments. According to OWASP, broken authentication and excessive data exposure through APIs are among the most exploited vulnerabilities in production systems. The Wiz scanning engine examines the flow-level policies and pre/post request hooks in each proxy revision to identify the actual authentication mechanisms, such as OAuth, API Key, or Bearer. This information is then connected to the gateway serving the endpoint, the compute workload behind it, and the data stores it can reach, providing a complete picture of the API's security posture."
+  },
+  {
+    "id": "4f3bef83913bb1c6",
+    "title_original": "CrowdStrike Falcon Platform Achieves 441% ROI in Three Years",
+    "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "cyber",
+    "published": "2026-04-21T00:00:00-07:00",
+    "fetched_at": "2026-04-22T06:06:31.453786+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CrowdStrike Falcon Platform Achieves 441% ROI in Three Years",
+    "summary_he": "לפי מחקר של IDC, חברות שהשתמשו במערכת CrowdStrike Falcon ראו עלייה של 441% בתשואה על ההשקעה שלהן בשלוש שנים, עם תשובה בתוך ארבעה חודשים.",
+    "details_he": "מחקר IDC נערך בשיתוף עם לקוחות CrowdStrike מתחומים שונים, והציג את ערך העסקי של המערכת. הלקוחות דיווחו על תוצאות אבטחה חזקות יותר, חשיפה מופחתת לסיכונים, עומס פעילות נמוך יותר ואבטחה טובה יותר. הם דיווחו גם על ירידה בצפיפות הכלים, ועל יכולת להבין טוב יותר מה קורה. המחקר גם ציין שהלקוחות השתמשו במערכת CrowdStrike כדי להחליף חמש כלים אבטחה, בממוצע."
+  }
+]
