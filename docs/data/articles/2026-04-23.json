@@ -1,0 +1,212 @@
+[
+  {
+    "id": "365e9e43aef20c8c",
+    "title_original": "AutoAdapt: Automated domain adaptation for large language models",
+    "url": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "description": "Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reliability can quickly break down because adapting models to domain-specific requirements is a slow and manual process that is difficult to reproduce. The core challenge is domain adaptation, […]The postAutoAdapt: Automated domain adaptation for large language modelsappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-04-22T16:25:30+00:00",
+    "fetched_at": "2026-04-23T06:12:17.883472+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AutoAdapt: Automated domain adaptation for large language models",
+    "summary_he": "AutoAdapt מציעה פתרון לבעיית התאמת דומיינים למודלי שפה גדולים, מאפשרת התאמה אוטומטית ומהירה של מודלים לדומיינים מיוחדים.",
+    "details_he": "AutoAdapt משתמשת בגרף התקני של תכונות כדי לתכנן, לבחור ולאופטימיזר את התהליך של התאמת הדומיין, תוך התחשבות בגבולות ובקונסטריינטים. התהליך הוא סקצ'-אוט, והוא כולל תכנון, בחירה של סטרטגיה ואופטימיזציה. AutoAdapt יכולה לבחור בין שיטות שונות, כגון RAG וטיפול תחומי, ולאופטימיזר את התהליך תוך התחשבות בגבולות ובקונסטריינטים. זה מאפשר התאמה אוטומטית ומהירה של מודלים לדומיינים מיוחדים, ומקטין את זמן ההתאמה משבועות לפייפלינס חוזרים ונשנים."
+  },
+  {
+    "id": "0f50dcb92f87ca85",
+    "title_original": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "url": "https://huggingface.co/blog/nvidia/gemma4",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-22T15:40:50+00:00",
+    "fetched_at": "2026-04-23T06:12:19.002094+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/gemma4"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "summary_he": "Nvidia מציגה דגם חדש של Gemma 4, שמסוגלת להחליט בעצמה אם להשתמש בווידאו קאם לתשובה לשאלות. הדגם פועל על פלטפורמת Jetson Orin Nano Super.",
+    "details_he": "הדגם Gemma 4 מסוגל לקבל שאלות, לפענח אותן ולהחליט אם להשתמש בווידאו קאם לתשובה. הדגם פועל על פלטפורמת Jetson Orin Nano Super, שהיא פלטפורמת AI המיועדת ליישומים מסוג זה. הדגם כולל תכונות של זיכרון ומעבד, שמאפשרות לו לבצע חישובים מהירים ולהחליט בעצמו. הדגם גם כולל תכונות של תקשורת, שמאפשרות לו לתקשר עם יישומים אחרים. הדגם Gemma 4 הוא דגם חדש של Gemma, שהיא פלטפורמת AI המיועדת ליישומים שונים. הדגם כולל תכונות של זיכרון ומעבד, שמאפשרות לו לבצע חישובים מהירים ולהחליט בעצמו."
+  },
+  {
+    "id": "88bcc38f7da07bb3",
+    "title_original": "Making ChatGPT better for clinicians",
+    "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "description": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-04-22T15:00:00+00:00",
+    "fetched_at": "2026-04-23T06:12:16.148451+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/making-chatgpt-better-for-clinicians"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Making ChatGPT better for clinicians",
+    "summary_he": "OpenAI החליטה להפוך את ChatGPT לבטוח עבור רופאים, רופאי משפחה ואנשי רפואה, כדי לתמוך בטיפול רפואי, דוקומנטציה ומחקר.",
+    "details_he": "OpenAI פרסמה כי היא תעשה את ChatGPT זמין לרופאים, רופאי משפחה ואנשי רפואה מומחים, באופן חינם, כדי לתמוך בטיפול רפואי, דוקומנטציה ומחקר. זה יכול לסייע להם לסייע לחולים, לתעד את הטיפול שלהם ולקדם מחקר. OpenAI רואה בזה הזדמנות לשפר את ChatGPT ולעשותו יותר חשוב לקהילת הרפואה."
+  },
+  {
+    "id": "64470c72ff9feaee",
+    "title_original": "From Rainforests to Recycling Plants: 5 Ways NVIDIA AI Is Protecting the Planet",
+    "url": "https://blogs.nvidia.com/blog/earth-day-2026-ai-accelerated-computing/",
+    "description": "Across climate, conservation, disaster monitoring and recycling, NVIDIA AI is enabling applications protecting the planet.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-22T13:00:42+00:00",
+    "fetched_at": "2026-04-23T06:12:19.347039+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/earth-day-2026-ai-accelerated-computing/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Rainforests to Recycling Plants: 5 Ways NVIDIA AI Is Protecting the Planet",
+    "summary_he": "NVIDIA's AI technology is being used in various industries to protect the environment, including rainforests and recycling plants, through innovative applications.",
+    "details_he": "NVIDIA's AI technology is being utilized in multiple sectors to promote environmental protection. This includes the use of autonomous AI in rainforests to monitor and preserve ecosystems, as well as in recycling plants to optimize waste management and reduce pollution. Additionally, NVIDIA's collaborations with Adobe and WPP are pushing the boundaries of creative intelligence with the development of AI agents that can accelerate content creation and decision-making processes."
+  },
+  {
+    "id": "871cdd6ad6aa9047",
+    "title_original": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
+    "url": "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/",
+    "description": "NVIDIA and Google Cloud have collaborated for more than a decade, co‑engineering a full‑stack AI platform that spans every technology layer — from performance‑optimized libraries and frameworks to enterprise‑grade cloud services.  This foundation enables developers, startups and enterprises to push agentic and physical AI out of the lab and into production — from agents that […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-22T12:00:42+00:00",
+    "fetched_at": "2026-04-23T06:12:19.347039+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
+    "summary_he": "NVIDIA ו־Google Cloud הצטרפו ליצירת פלטפורמה AI שלמה, שמספקת כלי עבודה ושירותי ענן, ומאפשרת למפתחים לפתח AI פיזית ואגנטית.",
+    "details_he": "NVIDIA ו־Google Cloud חתמו על שותפות למעלה מעשור, ובמהלך זמן זה, הם פיתחו פלטפורמה AI שלמה, שמספקת כלי עבודה ושירותי ענן. השותפות הזו מאפשרת למפתחים, לחברות ולעסקים לפתח AI פיזית ואגנטית, ולהפנות אותה ליישום. בכנס Google Cloud Next, השותפות הגיעה לשיא, כאשר NVIDIA ו־Google Cloud הציגו התקדמות בפיתוח Google Cloud AI Hypercomputer, שישפיע על הדור הבא של AI פיזית ואגנטית."
+  },
+  {
+    "id": "3e96bebcb994d66d",
+    "title_original": "AI-powered defense for an AI-accelerated threat landscape",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/",
+    "description": "Read how Microsoft is partnering with Anthropic and broader industry to use leading models, paired with our platforms and expertise, to turn AI-driven discovery into protection at scale.The postAI-powered defense for an AI-accelerated threat landscapeappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-04-22T17:00:00+00:00",
+    "fetched_at": "2026-04-23T06:12:29.105913+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI-powered defense for an AI-accelerated threat landscape",
+    "summary_he": "Microsoft, Anthropic וחברות אחרות עובדות יחד כדי להשתמש במודלי AI המובילים, יחד עם פלטפורמות ותחום המומחיות שלהם, כדי להפוך את הגילוי הנובע מ-AI להגנה של ממדי.",
+    "details_he": "בעקבות האקסלרציה של AI, Microsoft ו- Anthropic יחד עם חברות אחרות, פועלים כדי לפתח תשתית הגנה חדשה, שתכלול AI ותפקד בסקאלה. הצוותים עובדים יחד כדי להשתמש במודלי AI המובילים, יחד עם פלטפורמות ותחום המומחיות שלהם, כדי להפוך את הגילוי הנובע מ-AI להגנה של ממדי. תשתית זו תאפשר הגנה יעילה יותר ואפקטיבית נגד איומי AI."
+  },
+  {
+    "id": "41a67e61bb40832e",
+    "title_original": "Hypersonic Supply Chain Attacks: One Solution That Didn’t Need to Know the Payload",
+    "url": "https://www.sentinelone.com/blog/hypersonic-supply-chain-attacks-one-solution-that-didnt-need-to-know-the-payload/",
+    "description": "Learn how SentinelOne has stopped three recent zero-day supply chain attacks with AI-driven defense built for machine-speed threats.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-04-22T16:44:53+00:00",
+    "fetched_at": "2026-04-23T06:12:33.939966+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/hypersonic-supply-chain-attacks-one-solution-that-didnt-need-to-know-the-payload/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hypersonic Supply Chain Attacks: One Solution That Didn’t Need to Know the Payload",
+    "summary_he": "בעולם הביטחון, השאלה העיקרית היא לא אם תקיפה באמצעות רשת הספקים תקרה, אלא האם הארכיטקטורה של ההגנה תוכל לעצור תקיפה שהיא לא יודעת עליה מראש. ",
+    "details_he": "בשבועיים שעברו, שלושה תקיפנים ניסו לבצע תקיפה באמצעות רשת הספקים נגד תוכנות רחבות השימוש. SentinelOne עצר את כולן, וזאת ללא ידיעה מראש על התקיפה. האיום העיקרי הוא האיך, ולא האם. כל התקיפות הגיעו כתקיפה חדשה, והשתמשו בקווי תקשורת שבהם הארגון השומר תקן. "
+  },
+  {
+    "id": "dece216b1efe5853",
+    "title_original": "From Access Control to Outcome Control: Securing AI Agents with Check Point and Google Cloud",
+    "url": "https://blog.checkpoint.com/artificial-intelligence/from-access-control-to-outcome-control-securing-ai-agents-with-check-point-and-google-cloud/",
+    "description": "AI is changing how software works. Applications no longer just process requests. They reason, make decisions, and take action. AI agents now retrieve data, invoke tools, and execute workflows across systems in real time. That shift introduces a new kind of risk. Because in an agentic world, security is no longer just about who has access. It’s about what AI is allowed to do. A new control point for agentic systems in Google Cloud Google Cloud’s Gemini Enterprise Agent Platform provides a centralized control point for agentic systems enabling identity, access, policy enforcement, and observability across how agents operate. This […]The postFrom Access Control to Outcome Control: Securing AI Agents with Check Point and Google Cloudappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-04-22T13:00:31+00:00",
+    "fetched_at": "2026-04-23T06:12:43.663671+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/artificial-intelligence/from-access-control-to-outcome-control-securing-ai-agents-with-check-point-and-google-cloud/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Access Control to Outcome Control: Securing AI Agents with Check Point and Google Cloud",
+    "summary_he": "בעולם הדיגיטלי, הבטחת אבטחה של סוכני AI כעת דורשת לא רק שליטה בגישה, אלא גם בתוצאות. Google Cloud ו-Check Point פיתחו פלטפורמה של סוכני תאגידים, המאפשרת שליטה מרכזית בסוכני AI.",
+    "details_he": "Google Cloud's Gemini Enterprise Agent Platform מספקת נקודת שליטה מרכזית לסוכני AI, המאפשרת שליטה בזהות, גישה, תקיפה וצפייה באופן אחיד. Check Point משלבת את הפלטפורמה עם AI Defense Plane, המאפשרת לצוותי אבטחה לגלות סוכני AI, לשלוט בהתנהגותם ולהגן על אותם בזמן רציפות. הפלטפורמה תומכת בסוכני AI בזמן רציפות, ומאפשרת לצוותי אבטחה לגלות, לשלוט ולהגן על סוכני AI."
+  },
+  {
+    "id": "0024a8bbdc32739c",
+    "title_original": "Experience AI-Powered Check Point Firewall at Google Cloud Next",
+    "url": "https://blog.checkpoint.com/securing-the-cloud/experience-ai-powered-check-point-firewall-at-google-cloud-next/",
+    "description": "Today’s enterprises demand Zero Trust security, everywhere. Cloud security teams require high-performance protection without the burden of managing firewalls at scale. For this reason, organizations are seeking managed network security solutions that reduce operational overhead while improving consistency, visibility, and prevention across complex multi-cloud environments. Responding to that demand, Check Point is continuing rollout of an AI-powered cloud firewall as a service now available for preview on Google Cloud, as well as Amazon Web Services (AWS) and Microsoft Azure.  There will be demos of the new firewall service at the Check Point Booth #3101 in the Google Next Solution Expo.  Check Point Cloud Firewall as a Service eliminates the complex overhead of managing firewall software infrastructure, giving busy DevOps and Security teams time to focus on policy management, compliance, and other strategic initiatives.   Continued Evolution of Cloud Firewalls  Cloud Firewall as a Ser",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-04-22T13:00:20+00:00",
+    "fetched_at": "2026-04-23T06:12:43.663671+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/securing-the-cloud/experience-ai-powered-check-point-firewall-at-google-cloud-next/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Experience AI-Powered Check Point Firewall at Google Cloud Next",
+    "summary_he": "Check Point היא חברה שממשיכה לפתח תשתית אבטחה חדשה בעולם הענן, תוך שהיא נותנת ללקוחותיה תשתית אבטחה חזקה ומתקדמת.",
+    "details_he": "Check Point היא חברה שממשיכה לפתח תשתית אבטחה חדשה בעולם הענן, תוך שהיא נותנת ללקוחותיה תשתית אבטחה חזקה ומתקדמת. החברה הציגה תשתית אבטחה חדשה, Cloud Firewall as a Service, שמאפשרת ללקוחותיה להשיג אבטחה חזקה ומתקדמת בעולם הענן, ללא הצורך בניהול ותחזוקה של תשתיות אבטחה. התשתית החדשה מאפשרת ללקוחותיה של Check Point להשיג אבטחה חזקה ומתקדמת, תוך שהיא נותנת להם גישה לתשתית אבטחה של Check Point, שמאפשרת להם להשיג אבטחה חזקה ומתקדמת בעולם הענן."
+  },
+  {
+    "id": "f757d607767f011a",
+    "title_original": "XM Cyber Unveils PostureAI to Democratize AI-Powered SaaS Security for Google Workspace",
+    "url": "https://xmcyber.com/blog/xm-cyber-unveils-postureai/",
+    "description": "When it comes to exposure management, most people tend to think about an evolution of legacy vulnerability management at the infrastructure layer. While this...The postXM Cyber Unveils PostureAI to Democratize AI-Powered SaaS Security for Google Workspaceappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-04-22T12:53:23+00:00",
+    "fetched_at": "2026-04-23T06:12:43.106043+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/xm-cyber-unveils-postureai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "XM Cyber Unveils PostureAI to Democratize AI-Powered SaaS Security for Google Workspace",
+    "summary_he": "XM Cyber הציגה PostureAI, כלי לניטור ובקרה על סייבר-אי של Google Workspace, כדי לסייע לצוותי ביטחון להתמודד עם חולשות בסייבר.",
+    "details_he": "XM Cyber, חברה בתחום הביטחון, הציגה PostureAI, כלי לניטור ובקרה על סייבר-אי של Google Workspace. PostureAI, שנבנה בשיתוף עם Google Cloud, משתמש באלגוריתמים של Google Gemini כדי לבצע בדיקות סטטיסטיות של סביבת Google Workspace של הארגון, כולל 14 יישומי Workspace חשובים. הכלי מספק תמונת מצב עדכנית של חולשות הסייבר של הארגון, כולל חולשות באספקטים של גישה והגדרות. XM Cyber טוענת ש-PostureAI יכול לסייע לצוותי ביטחון לזהות חולשות שכמעט ולא ניתנות לגילוי על ידי סורקי חולשות רגילים."
+  }
+]
