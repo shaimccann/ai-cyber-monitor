@@ -1,0 +1,212 @@
+[
+  {
+    "id": "5a52d5bd751b8148",
+    "title_original": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+    "url": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/",
+    "description": "AI agents have revolutionized developer workflows, and their next frontier is knowledge work: processing information, solving complex problems, coming up with new ideas and driving innovation.  Codex, OpenAI’s agentic coding application, is enabling this new frontier. It’s now powered by GPT-5.5, OpenAI’s latest frontier model, which runs on NVIDIA GB200 NVL72 rack-scale systems.  Over 10,000 […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-23T18:57:55+00:00",
+    "fetched_at": "2026-04-24T06:16:49.103981+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+    "summary_he": "OpenAI's GPT-5.5 model is now powering Codex, its agentic coding application, on NVIDIA's infrastructure. This collaboration has already led to significant improvements in developer workflows, with teams experiencing faster debugging cycles, reduced experimentation time, and increased reliability.",
+    "details_he": "Codex, which is used by over 10,000 NVIDIA employees, has seen measurable gains since being powered by GPT-5.5. The model, which runs on NVIDIA's GB200 NVL72 rack-scale systems, has enabled teams to ship end-to-end features from natural-language prompts, with stronger reliability and fewer wasted cycles than earlier models. Additionally, NVIDIA's deployment of Codex includes robust security measures, such as remote Secure Shell connections and cloud virtual machines, to ensure seamless operation within secure enterprise environments."
+  },
+  {
+    "id": "031a3fb43b7d9bfc",
+    "title_original": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/",
+    "description": "GeForce NOW is doubling down on what matters most: gamers. This week’s upgrades bring smarter libraries, making it easier than ever for gamers to turn a PC collection into a cloud-powered flex. It starts with giving existing libraries time to shine. Gamers can bring the games they love to the cloud, stream them with high […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-23T13:00:51+00:00",
+    "fetched_at": "2026-04-24T06:16:49.103981+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
+    "summary_he": "GeForce NOW הוסיפה תגיות חדשות למשחקים של Xbox Game Pass ו- Ubisoft+, כדי לקלות עבור שחקנים למצוא משחקים חדשים. כמו כן, GeForce NOW תקבל שש משחקים חדשים, כולל Vampire Crawlers: The Turbo Wildcard.",
+    "details_he": "GeForce NOW הציגה תגיות חדשות למשחקים של Xbox Game Pass ו- Ubisoft+, כדי לקלות עבור שחקנים למצוא משחקים חדשים. כמו כן, GeForce NOW תקבל שש משחקים חדשים, כולל Vampire Crawlers: The Turbo Wildcard, שהוא רוגלייט חדש שמאפשר לשחקנים לבחור בין משחקים שונים ולקבל עדכונים חדשים. התגיות החדשות יאפשרו לשחקנים לראות בקלות את המשחקים של Xbox Game Pass ו- Ubisoft+ שעודכנו. GeForce NOW גם תקבל גלישה חדשה של Marvel Rivals, כולל עיצוב חדש של Thor."
+  },
+  {
+    "id": "b335902ed3879662",
+    "title_original": "Making Sense of the Early Universe",
+    "url": "https://blogs.nvidia.com/blog/ai-gpu-early-universe-astronomy/",
+    "description": "This Spring Astronomy Day, here’s a look at how AI and GPUs are helping astronomers work through unprecedented volumes of cosmic data.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-23T13:00:22+00:00",
+    "fetched_at": "2026-04-24T06:16:49.103981+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ai-gpu-early-universe-astronomy/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Making Sense of the Early Universe",
+    "summary_he": "OpenAI's GPT-5.5 model is being utilized by NVIDIA to enhance developer workflows and tackle complex tasks, marking a significant step towards AI-powered knowledge work.",
+    "details_he": "OpenAI's Codex, powered by the GPT-5.5 model, is designed to aid developers by processing information, solving complex problems, and generating new ideas. This collaboration with NVIDIA aims to leverage the model's capabilities on their infrastructure, pushing the boundaries of AI-powered developer workflows. The integration of GPT-5.5 with NVIDIA's resources is expected to drive innovation and streamline knowledge work, solidifying AI's role in the future of development."
+  },
+  {
+    "id": "7ccc0bcd9870f6f4",
+    "title_original": "Here’s how our TPUs power increasingly demanding AI workloads.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+    "description": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-23T12:00:00+00:00",
+    "fetched_at": "2026-04-24T06:16:47.171426+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Here’s how our TPUs power increasingly demanding AI workloads.",
+    "summary_he": "Google's Tensor Processing Units (TPUs) are custom-designed chips that excel at performing complex math operations, a crucial aspect of AI model functionality.",
+    "details_he": "Developed over a decade ago, TPUs were specifically created to run AI models efficiently. Their ability to process vast amounts of data quickly makes them an essential component in various Google products. The latest generation of TPUs boasts impressive performance, with a processing capacity of 121 exaflops and double the bandwidth of its predecessors."
+  },
+  {
+    "id": "e4be90c6e5e3a073",
+    "title_original": "Introducing GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-04-23T11:00:00+00:00",
+    "fetched_at": "2026-04-24T06:16:45.977014+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing GPT-5.5",
+    "summary_he": "אנו מציגים את GPT-5.5, דגם המוח החכם ביותר שלנו, שמאפשר תפעול מהיר ויכולות משופרות לביצוע תפקידים מורכבים כגון תכנות, מחקר וניתוח נתונים.",
+    "details_he": "GPT-5.5 תוכנן לבצע תפקידים מורכבים כגון תכנות, מחקר וניתוח נתונים באמצעות כלים שונים. הדגם החדש יכול לבצע תפקידים אלה במהירות ובאופן יעיל יותר. זוהי צעד חשוב בפיתוח של GPT."
+  },
+  {
+    "id": "49858f09ccfae7c9",
+    "title_original": "Frontier AI and the Future of Defense: Your Top Questions Answered",
+    "url": "https://unit42.paloaltonetworks.com/frontier-ai-top-questions-answered/",
+    "description": "What are the next steps for security leaders in this new age of frontier AI? We answer the top 10 questions customers are asking.The postFrontier AI and the Future of Defense: Your Top Questions Answeredappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-04-23T20:45:50+00:00",
+    "fetched_at": "2026-04-24T06:17:01.110027+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/frontier-ai-top-questions-answered/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Frontier AI and the Future of Defense: Your Top Questions Answered",
+    "summary_he": "Palo Alto Networks ו-Unit 42 נפגשו עם מנהלי ביטחון מידע ומנהלי ביטחון ברחבי העולם כדי לדון בהתפתחות של דגמי AI הפרונטייר והשפעותיהם הרחבות על הביטחון הסייבר. הם חשבו שאף על פי שהפוטנציאל לחדשנות AI הוא גדול, המהירות והקנה-גוף שבהם אלה הדגמים יכולים להילחם יוצרים אתגר דורי לתוכניות הביטחון המסורתיות.",
+    "details_he": "Palo Alto Networks ו-Unit 42 חשבו שהדגמים החדשים של AI יכולים לגרום לאתגר גדול לתוכניות הביטחון. הדגמים החדשים יכולים לזהות חולשות בתוכנה, להצית דרכי פעולה מורכבות ולהתאים לבקרים ההגנתיים בזמן-אמת. הדגמים החדשים יכולים לגרום לאתגר גדול לתוכניות הביטחון, וארגונים צריכים להתאים את תוכניות הביטחון שלהם."
+  },
+  {
+    "id": "0287ac338521a787",
+    "title_original": "Check Point WAF Leads Application Security-Validated by Frost & Sullivan",
+    "url": "https://blog.checkpoint.com/securing-the-cloud/check-point-waf-leads-application-security-validated-by-frost-sullivan/",
+    "description": "Check Point has been honored Frost & Sullivan’s 2026 Technology Innovation Leadership recognition in WAF and API security, positioning us as a Company to Action shaping the future of cybersecurity. This recognition reflects a major shift in how application security must operate today. Application Security Has Fundamentally Changed Applications are no longer just web apps they now run on APIs, microservices, and AI-driven services, rapidly expanding across hybrid and multi-cloud environments. Each release introduces new components, increasing the attack surface. At the same time, accelerated DevSecOps cycles are making both web and AI applications harder to secure, while threats continue […]The postCheck Point WAF Leads Application Security-Validated by Frost & Sullivanappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-04-23T13:00:40+00:00",
+    "fetched_at": "2026-04-24T06:17:14.418359+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/securing-the-cloud/check-point-waf-leads-application-security-validated-by-frost-sullivan/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point WAF Leads Application Security-Validated by Frost & Sullivan",
+    "summary_he": "Check Point WAF זכה בהכרה של Frost & Sullivan כמוביל בביטחון אפליקציות, תוך כדי שהוא חוצה גבולות רב-ענן ו- API. הכרה זו מעידה על שינוי גדול בדרך בה נדרשת הביטחון של אפליקציות, כאשר כיום ישנה צורך בביטחון רב-ענן ו-API.",
+    "details_he": "Check Point WAF זכה בהכרה של Frost & Sullivan כמוביל בביטחון אפליקציות, תוך כדי שהוא חוצה גבולות רב-ענן ו-API. הכרה זו מעידה על שינוי גדול בדרך בה נדרשת הביטחון של אפליקציות, כאשר כיום ישנה צורך בביטחון רב-ענן ו-API. הביטחון המסורתי, שמבוסס על סימנים, אינו יעיל יותר, ואילו Check Point WAF, שבנוי על תכונות AI, מציע פתרון חדשני לביטחון אפליקציות. Check Point WAF פועל באופן ריאל-טיים ו- AI-Driven, ומסוגל לבצע ביטחון רב-ענן ו-API."
+  },
+  {
+    "id": "d281e1e691e4c87c",
+    "title_original": "Can AI Attack the Cloud? Lessons From Building an Autonomous Cloud Offensive Multi-Agent System",
+    "url": "https://unit42.paloaltonetworks.com/autonomous-ai-cloud-attacks/",
+    "description": "Unit 42 reveals how multi-agent AI systems can autonomously attack cloud environments. Learn critical insights and vital lessons for proactive security.The postCan AI Attack the Cloud? Lessons From Building an Autonomous Cloud Offensive Multi-Agent Systemappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-04-23T10:00:31+00:00",
+    "fetched_at": "2026-04-24T06:17:01.110027+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/autonomous-ai-cloud-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Can AI Attack the Cloud? Lessons From Building an Autonomous Cloud Offensive Multi-Agent System",
+    "summary_he": "כוחות ההתקפה של LLMs (Large Language Models) היו עד כה סיכונים תאורטיים, שנדונו בכנסי ביטחון ובדוחות תעשייתיים, אך לא התגלו בפועל. עם זאת, דו\"ח שפורסם בנובמבר 2025 חשף קמפיין ריגול ממומן על ידי מדינה, שבו LLMs היו המבצעים העיקריים, וביצעו 80-90% מהקמפיין באופן אוטונומי.",
+    "details_he": "במטרה לבדוק את יכולות ההתקפה האוטונומיות של LLMs, הקימנו מערכת תוקפנות של סוכנים מרובים (Multi-Agent Penetration Testing). התוצאות של המערכת הצביעו על כך ש-LLMs אינם יוצרים פני שטח חדשים, אך הם משמשים כמכונות סיוע, המגבירות את התקיפה של תצורות ידועות. עם זאת, המערכת גם העלתה שאלות חדשות: האם LLMs יכולים לגלות חולשות, לבצע התקפות בשלבים, ולפעול במהירות של מכונה נגד תשתיות ענן?"
+  },
+  {
+    "id": "40c1f1341cd7918f",
+    "title_original": "Global Campaign Discovered with Modbus PLCs Targeted and China-Geolocated Infrastructure Observed",
+    "url": "https://www.catonetworks.com/blog/global-campaign-discovered-with-modbus-plcs-targeted/",
+    "description": "Executive Summary From September – November 2025, Cato Networks threat researchers observed a global campaign involving suspicious Modbus/TCP (transmission control protocol) activity against internet-exposed PLCs (programmable logic controllers). The targeted footprint spanned 70 countries and 14,426 distinct targeted IPs, with the largest share of activity in the United States. The activity blended large-scale automated probing...The postGlobal Campaign Discovered with Modbus PLCs Targeted and China-Geolocated Infrastructure Observedappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-04-23T06:58:43+00:00",
+    "fetched_at": "2026-04-24T06:17:07.213226+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/global-campaign-discovered-with-modbus-plcs-targeted/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Global Campaign Discovered with Modbus PLCs Targeted and China-Geolocated Infrastructure Observed",
+    "summary_he": "חברת Cato Networks גילתה קמפיין גלובלי של פעילי תקיפה שהפנה את תשומת לבו ל-PLCs (programmable logic controllers) שנחשפו לאינטרנט. הפעילים השתמשו בתקשורת Modbus/TCP ופגעו ב-70 מדינות, כולל ארצות הברית.",
+    "details_he": "במהלך שלושה חודשים, חברת Cato Networks צפתה באלפי בקשות שנשלחו מתשתית נמוכת-יוקרה, לצד תשתית נמוכת-יוקרה של פעילי תקיפה שהתגלו כמקורם בסין. הפעילים השתמשו ב-Modbus/TCP כדי לגרום ל-PLCs לפגוע בתהליכים פיזיים. החברה הציגה דוגמה של פעילי תקיפה שהשתמשו ב-Modbus כדי לשנות את הגבהים של תפעולי מפעילי סכר. ה-PLC הפגיעה בסכר וגרמה למילויו ב-255%. חברת Cato Networks גם הציגה דוגמה של פעילי תקיפה שהשתמשו ב-Modbus כדי לשנות את מצבי הדלתות של הסכר."
+  },
+  {
+    "id": "367fb398e16f00e7",
+    "title_original": "ISC Stormcast For Friday, April 24th, 2026 https://isc.sans.edu/podcastdetail/9906, (Fri, Apr 24th)",
+    "url": "https://isc.sans.edu/diary/rss/32924",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-04-24T02:00:02+00:00",
+    "fetched_at": "2026-04-24T06:16:58.797170+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32924"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Friday, April 24th, 2026 https://isc.sans.edu/podcastdetail/9906, (Fri, Apr 24th)",
+    "summary_he": "SANS Internet Storm Center released its weekly podcast, ISC Stormcast, for Friday, April 24th, 2026. The podcast provides updates on the latest cybersecurity threats and vulnerabilities. It serves as a valuable resource for cybersecurity professionals and enthusiasts.",
+    "details_he": "The ISC Stormcast is a weekly podcast that offers insights and analysis on the current cybersecurity landscape. It covers various topics, including newly discovered vulnerabilities, malware outbreaks, and other security-related issues. The podcast aims to educate listeners on the latest threats and provide guidance on how to mitigate them. The SANS Internet Storm Center is a well-respected organization in the cybersecurity community, and its Stormcast podcast is a trusted source of information for many professionals."
+  }
+]
