@@ -1,0 +1,212 @@
+[
+  {
+    "id": "9c5fcdd0c4c62cbc",
+    "title_original": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-28T00:28:13+00:00",
+    "fetched_at": "2026-04-28T06:37:16.362418+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "summary_he": "מערכת חדשה לתמונות של אולטראסאונד, NV-Raw2Insights-US, פותחה על ידי NVIDIA ו-Siemens Healthineers. המערכת משתמשת ב- AI כדי ללמוד ישירות מנתוני הסנסורים המקוריים של האולטראסאונד, וליצור תמונות מותאמות אישית לכל חולה.",
+    "details_he": "המערכת NV-Raw2Insights-US, שפותחה על ידי NVIDIA ו-Siemens Healthineers, משתמשת ב- AI כדי ללמוד ישירות מנתוני הסנסורים המקוריים של האולטראסאונד. המערכת יכולה ליצור תמונות מותאמות אישית לכל חולה, ולתקן את התמונה באופן אוטומטי. המערכת גם יכולה להעריך את מהירות הקול בגוף החולה, ולשתף זאת באופן אוטומטי. המערכת פותחה כדי לאפשר תמונות אולטראסאונד מותאמות אישית, ולשפר את איכות התמונות."
+  },
+  {
+    "id": "56d5a7ba62713f02",
+    "title_original": "How catastrophic is your LLM?",
+    "url": "https://www.amazon.science/blog/how-catastrophic-is-your-llm",
+    "description": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-04-27T19:01:26+00:00",
+    "fetched_at": "2026-04-28T06:37:17.123449+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/how-catastrophic-is-your-llm"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How catastrophic is your LLM?",
+    "summary_he": "מערכת חדשה לחיזוי כשלים קטסטרופליים במודלי שפה גדולים, עובדת על ידי חישוב סיכויי תקיפה בשיחות עם רובוטים.",
+    "details_he": "המערכת, שנקראת C3LLM, משתמשת בגרף שבו צמתים מייצגים תזכורת וקשרים ביניהם מייצגים קשרים עמוקים בין תזכורות. ה-C3LLM נכתבה כדי לספק תחומי ביטחון גבוהים על קצבי הצלחה של תקיפות, והיא פתוחה למחקר. על ידי חישוב תחומי ביטחון אלה, ה-C3LLM יכולה לספק חיזוי טוב יותר של כשלים קטסטרופליים במודלי שפה גדולים."
+  },
+  {
+    "id": "6e7fb7ac14691436",
+    "title_original": "OpenAI available at FedRAMP Moderate",
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-04-27T14:00:00+00:00",
+    "fetched_at": "2026-04-28T06:37:14.068355+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI available at FedRAMP Moderate",
+    "summary_he": "OpenAI הפכה לזמינה עבור מוסדות פדרליים בארצות הברית, כאשר חברת OpenAI קיבלה את האישור FedRAMP Moderate.",
+    "details_he": "OpenAI קיבלה את האישור FedRAMP Moderate, המאפשר לחברה לספק את שירותי ה-ChatGPT Enterprise וה-API של OpenAI, וכך לאפשר את השימוש הבטוח ב- AI במוסדות פדרליים בארצות הברית. זהו שלב חשוב בשילוב ה- AI במוסדות הפדרליים, ומאפשר לחברות להשתמש בטכנולוגיות ה- AI באופן יעיל ובטוח."
+  },
+  {
+    "id": "88e268d03444a67b",
+    "title_original": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "description": "A web next to a laptop",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-27T13:00:00+00:00",
+    "fetched_at": "2026-04-28T06:37:15.089131+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "summary_he": "Google and Kaggle are hosting a free five-day AI Agents Vibe Coding course this June, where participants will learn to build powerful AI agents using natural language workflows and hands-on coding projects.",
+    "details_he": "The course, which returns from June 15-19, 2026, includes expert speakers, updated lessons, and a hands-on capstone project. Participants will master how to connect tools and APIs to create highly effective AI systems. The course is designed to help learners design, build, and deploy robust agent systems, and registration is now open on the Google and Kaggle website."
+  },
+  {
+    "id": "7ab0d8b396fde3b4",
+    "title_original": "Announcing our partnership with the Republic of Korea",
+    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-04-27T07:00:06+00:00",
+    "fetched_at": "2026-04-28T06:37:14.736282+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcing our partnership with the Republic of Korea",
+    "summary_he": "במסגרת שיתוף פעולה חדש, גוגל דיפמיינד תפתח קמפוס AI בקוריאה הדרומית, כדי לתמוך במאמצי הממשלה לפתח טכנולוגיות AI. השיתוף יסייע לקדם פריצות דרך בתחומי המדע, האנרגיה והאקלים.",
+    "details_he": "השיתוף פעולה החדש, שהוכרז יחד עם השנה העשירית למשחק AlphaGo, יסייע לקדם פריצות דרך בתחומי המדע, האנרגיה והאקלים. הקמפוס AI יהווה מרכז לשיתוף פעולה בין חוקרים קוריאנים לבין מומחי AI של גוגל. השיתוף יסייע לקדם פריצות דרך בתחומי החיים, האנרגיה והאקלים, ויהווה חלק ממאמצי הממשלה לפתח טכנולוגיות AI. הקמפוס יכלול מודלי AI מובילים של גוגל, כולל AlphaEvolve, AlphaGenome ו-AlphaFold."
+  },
+  {
+    "id": "894741772235cb28",
+    "title_original": "27th April – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/27th-april-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 27th April, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Vercel, a frontend cloud platform, has disclosed a security incident linked to a compromise at Context.ai, where stolen OAuth tokens enabled unauthorized access through a connected app. The company reported access to employee […]The post27th April – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-04-27T12:07:53+00:00",
+    "fetched_at": "2026-04-28T06:37:27.415876+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/27th-april-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "27th April – Threat Intelligence Report",
+    "summary_he": "Vercel, פלטפורמת ענן לפנים-מעבד, דיווחה על פריצה באמצעות OAuth tokens שנגנבו מ-Context.ai, מה שאפשר גישה לא מורשית למערכת שלה. זה הקשר לפריצה, ולא ידוע על נזקים. ",
+    "details_he": "Vercel, פלטפורמת ענן לפנים-מעבד, דיווחה על פריצה חשאית שקשורה לפריצה של Context.ai. OAuth tokens שנגנבו על ידי הפורץ, התירו גישה לא מורשית למערכת של Vercel. לא ידוע על נזקים ישירים, אך הדבר יכול להיות חשוב ללקוחות Vercel. "
+  },
+  {
+    "id": "33440db2a2330e6d",
+    "title_original": "NIST NVD Update: What it Means For Vulnerability Management",
+    "url": "https://www.wiz.io/blog/nist-nvd-update",
+    "description": "The shift from static CVE scoring to risk-based prioritization signals a new era for Vulnerability Managers",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-27T10:33:46+00:00",
+    "fetched_at": "2026-04-28T06:37:27.773131+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/nist-nvd-update"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NIST NVD Update: What it Means For Vulnerability Management",
+    "summary_he": "העדכון החדש של NIST ב-NVD ישנה את אופן טיפול ב-CVE ומאפשר פיתוח של רכיבי חידוש חדשים לתחזוקת חולשות. העדכון יכול לסייע לצוותי תחזוקת חולשות להתמודד עם הגידול המואץ במספר ה-CVE",
+    "details_he": "העדכון כולל קריטריונים חדשים להגדרת עדיפות, כאשר NVD תתמקד בטיפול בחולשות שהן החשובות ביותר, כגון אלה שמופיעות בקטלוג KEV של CISA ובתוכנות בסכנה. על פי העדכון, NIST חוותה עלייה של 263% במספר ה-CVE שהוגשו בין 2020 ל-2025, ולכן נאלצה לפתח דגם חדש, רב-ערכי, לטיפול ב-CVE. העדכון יכול לסייע לצוותי תחזוקת חולשות להתמודד עם הגידול המואץ במספר ה-CVE ולפתח רכיבי חידוש חדשים לתחזוקת חולשות."
+  },
+  {
+    "id": "048425c3efa2ba52",
+    "title_original": "CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms",
+    "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "cyber",
+    "published": "2026-04-27T00:00:00-07:00",
+    "fetched_at": "2026-04-28T06:37:25.144870+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms",
+    "summary_he": "CrowdStrike זכתה להכרה כמנהיגה בתחום תגבור תקינות ומערכות אפליקציות ענן, והיא חברה הראשונה שהשיגה זאת בארבע שנים רצופות. זאת תוך חיבור של תגבור תקינות לזיהוי ותגובה מיידית, ומעצבת תפיסה חדשה של תגבור תקינות ומערכות אפליקציות ענן.",
+    "details_he": "CrowdStrike זכתה להכרה כמנהיגה בתחום תגבור תקינות ומערכות אפליקציות ענן, והיא חברה הראשונה שהשיגה זאת בארבע שנים רצופות. זאת תוך חיבור של תגבור תקינות לזיהוי ותגובה מיידית, ומעצבת תפיסה חדשה של תגבור תקינות ומערכות אפליקציות ענן. כל זאת כדי לעצב תגבור תקינות ומערכות אפליקציות ענן, שיכול לעצב תגבור תקינות ומערכות אפליקציות ענן, ולעצב תגבור תקינות ומערכות אפליקציות ענן. CrowdStrike תמיד עובדת על פיתוח יכולות חדשות, כדי לעזור לצוותי הביטחון להעדיף ולפעול על סיכוני ענן."
+  },
+  {
+    "id": "e164bf730ec89f40",
+    "title_original": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
+    "url": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
+    "description": "The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic.The postMedtronic Hack Confirmed After ShinyHunters Threatens Data Leakappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-04-28T06:35:19+00:00",
+    "fetched_at": "2026-04-28T06:37:21.778723+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
+    "summary_he": "Medtronic, חברת הטכנולוגיה הרפואית הגדולה בעולם, אישרה כי מערכותיה נפגעו מהתקפת האקרים, אחרי שקבוצת ShinyHunters טענה לגנבת מיליוני תיקי רפואה.",
+    "details_he": "Medtronic, חברת הטכנולוגיה הרפואית הגדולה בעולם, אישרה כי מערכותיה נפגעו מהתקפת האקרים. החברה, שמעסיקה יותר מ-95,000 איש ב-150 מדינות, אמרה כי לא נמצאו תוצאות שליליות למוצריה, לבטיחות החולים, לקשריה עם לקוחותיה, לפעילות הייצור וההפצה שלה, למערכות הדיווח הפיננסיות שלה או ליכולתה לספק את צורכי החולים. החברה טענה כי רשתות התמיכה שלה, של טכנולוגיית המידע שלה, של מוצריה ושל פעילות הייצור וההפצה שלה, הן נפרדות. רשתות הלקוחות הבית-סופיים של החברה, שהן נפרדות מרשתות ה-IT של Medtronic, נשלטות ונמצאות בבטיחות ובניהול על ידי צוותי ה-IT של הלקוחות. החברה אמרה כי היא 'עובדת כדי לזהות כל מידע אישי שעשוי היה להיות נגיש'."
+  },
+  {
+    "id": "1c38b130ad327010",
+    "title_original": "ISC Stormcast For Tuesday, April 28th, 2026 https://isc.sans.edu/podcastdetail/9908, (Tue, Apr 28th)",
+    "url": "https://isc.sans.edu/diary/rss/32928",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-04-28T02:00:03+00:00",
+    "fetched_at": "2026-04-28T06:37:22.659167+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/32928"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Tuesday, April 28th, 2026 https://isc.sans.edu/podcastdetail/9908, (Tue, Apr 28th)",
+    "summary_he": "SANS Internet Storm Center released its ISC Stormcast for Tuesday, April 28th, 2026, providing insights into current cybersecurity threats and incidents.",
+    "details_he": "The ISC Stormcast is a daily podcast that offers analysis and commentary on various cybersecurity topics, including vulnerabilities, malware, and emerging threats. The podcast is a valuable resource for cybersecurity professionals and individuals seeking to stay informed about the latest threats and trends. By providing timely and in-depth analysis, the ISC Stormcast helps listeners understand the impact of cybersecurity incidents and make informed decisions to protect themselves and their organizations."
+  }
+]
