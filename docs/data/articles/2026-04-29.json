@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a73f5a29532e6fa0",
+    "title_original": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+    "description": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-28T16:00:28+00:00",
+    "fetched_at": "2026-04-29T06:30:42.284936+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+    "summary_he": "NVIDIA השיקה את Nemotron 3 Nano Omni, מודל רב-מודאלי פתוח שמאחד את היכולות של ראייה, שמע ושפה, מאפשר לאגנטים להגיב במהירות ובחוכמה.",
+    "details_he": "Nemotron 3 Nano Omni היא פתרון חדשני של NVIDIA שמאפשר לאגנטים להגיב במהירות ובחוכמה, בעזרת יכולות של ראייה, שמע ושפה. המודל הזה יכול לעבוד במגוון תחומים, כגון תמיכה לקוחות, פיננסים ועוד. NVIDIA טוענת ש-Nemotron 3 Nano Omni היא המודל הטוב ביותר בתחום הרב-מודאלי, וכי היא מאפשרת לאגנטים להגיב במהירות ובחוכמה, עם יכולות של ראייה, שמע ושפה. המודל כבר נכנס לשימוש בחברות כגון Aible, Applied Scientific Intelligence ועוד."
+  },
+  {
+    "id": "d70231a9c5f5a753",
+    "title_original": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+    "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+    "description": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-04-28T16:00:00+00:00",
+    "fetched_at": "2026-04-29T06:30:40.798998+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+    "summary_he": "Google Translate marks 20 years of breaking down language barriers, with over 1 billion monthly users. The platform has evolved from an AI experiment to support 250 languages. A new 'pronunciation practice' tool is now available on Android to help users refine their speaking skills.",
+    "details_he": "Google Translate has come a long way since its inception in 2006, with a mission to help people understand each other despite language barriers. The platform has been using AI and machine learning since its beginning, with a focus on improving language models and moving beyond literal word-for-word translations. The new 'pronunciation practice' tool uses AI to analyze users' speech and provide instant feedback, helping them master their delivery in English, Spanish, or Hindi. This feature is now available in the U.S. and India, marking a significant milestone in the platform's 20-year journey."
+  },
+  {
+    "id": "94ce89d3d6c78166",
+    "title_original": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-28T15:58:57+00:00",
+    "fetched_at": "2026-04-29T06:30:42.044592+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "summary_he": "NVIDIA הציגה את Nemotron 3 Nano Omni, מודל רב-מודלי שמסוגל להבין תיעודים, תמונות, וידאו וקול, ומציע תוצאות טובות ביותר במסגרת תחרויות רב-מודליות.",
+    "details_he": "Nemotron 3 Nano Omni היא המשך של סדרת Nemotron, ומשלבת יכולות רב-מודליות חדשות, כולל תחום קולי ווידאו. המודל משתמש בארכיטקטורה של Nemotron 3, ומשלב תכונות חדשות, כגון הבנת קול ווידאו, ומסוגל להבין תיעודים, תמונות, וידאו וקול. המודל מציע תוצאות טובות ביותר במסגרת תחרויות רב-מודליות, כולל OCRBenchV2 ו-MMLongBench-Doc, ומדורג כמודל הזול ביותר בתחום הווידאו. המודל גם מציע תוצאות טובות בתחום הקול, כולל VoiceBench. המודל ניתן להורדה בפורמט BF16, FP8 ו-NVFP4, והמידע המלא על המודל ניתן לקרוא בדוח המלא."
+  },
+  {
+    "id": "9d7d17f50b2558ca",
+    "title_original": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
+    "url": "https://blogs.nvidia.com/blog/manufacturing-simulation-first/",
+    "description": "Manufacturing’s traditional design-build-test cycle rested on a single assumption: Real-world testing was the only reliable test environment.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-28T13:00:33+00:00",
+    "fetched_at": "2026-04-29T06:30:42.284936+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/manufacturing-simulation-first/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
+    "summary_he": "בעידן החדש של הייצור, השיטה המסורתית של תכנון-בנייה-הערכה נעשתה לא רלוונטית. כיום, השימוש באימולציה-ראשונה מאפשר את יצירת נתוני אימון סינתטיים מדויקים מספיק עבור AI של תקן ייצור. זה מאפשר למערכות תפיסה, דגימות סיבוכיות ועבודות זריזות להצליח בסביבות ייצור חיה.",
+    "details_he": "התקדמות זו נובעת מהתפתחות של OpenUSD, שהפכה לתקן רפרנטי שמאפשר קישור בין פלטפורמות שונות. היצרנים שמשתמשים ב-OpenUSD כבר חווים תוצאות מדידות. SimReady, תקן התכנון, נבנה על OpenUSD ומגדיר מה יש לאסטס 3D פיזיקלי-אמיתיים כלול בהם כדי לעבוד באופן אמין בין פלטפורמות שונות. NVIDIA Omniverse libraries מספקות שכבת אימולציה-פיזיקלית-מדויקת, עם תצוגה צילומית-אמיתית, שבה AI models מאומנים ומומתגים לפני שהם נכנסים לשימוש."
+  },
+  {
+    "id": "b4b8f37f1c19508b",
+    "title_original": "החברות שרוצות נתח משוק התרופות נגד השמנה ומתמקדות בתופעות הלוואי שלהן",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001541182#utm_source=RSS",
+    "description": "המנכ\"ל של יצרנית אדוויל כבר הצהיר שהוא רואה פוטנציאל רווח בטיפול בתופעות הלוואי של התרופות הפופולריות נגד השמנה, והוא לא היחיד שמשנה אסטרטגיה כדי להשתתף בחגיגה • בהדרגה, נוצרות גם הזדמנויות השקעה חדשות",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-04-29T05:31:00+00:00",
+    "fetched_at": "2026-04-29T06:31:08.312279+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001541182#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "החברות שרוצות נתח משוק התרופות נגד השמנה ומתמקדות בתופעות הלוואי שלהן",
+    "summary_he": "חברות רבות נוקטות בצעדים כדי להשתתף בשוק התרופות נגד השמנה, ובכך, גם בתופעות הלוואי שלהן. יצרניות תרופות רבות רואות פוטנציאל רווח בטיפול בתופעות אלה. הזדמנויות השקעה חדשות נוצרות בעקבות זאת.",
+    "details_he": "בעקבות גידול בשוק התרופות נגד השמנה, חברות רבות נוקטות בצעדים כדי להשתתף בו. המנכ\"ל של יצרנית אדוויל, לדוגמה, הצהיר שהוא רואה פוטנציאל רווח בטיפול בתופעות הלוואי של התרופות הפופולריות נגד השמנה. זאת, כדי להשתתף בחגיגה ולהגדיל את הרווחים. הזדמנויות השקעה חדשות נוצרות בעקבות זאת, וחברות רבות נוקטות בצעדים כדי להשתתף בהן."
+  },
+  {
+    "id": "02f6decaf8d7e92a",
+    "title_original": "Securing GitHub: Wiz Research uncovers Remote Code Execution in GitHub.com and GitHub Enterprise Server (CVE-2026-3854)",
+    "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+    "description": "Details on CVE-2026-3854: A critical flaw in GitHub’s internal git infrastructure enabling RCE on GitHub.com and GitHub Enterprise Server.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-28T15:30:00+00:00",
+    "fetched_at": "2026-04-29T06:30:50.553689+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing GitHub: Wiz Research uncovers Remote Code Execution in GitHub.com and GitHub Enterprise Server (CVE-2026-3854)",
+    "summary_he": "Wiz Research discovered a critical vulnerability in GitHub's internal git infrastructure, which could have allowed authenticated users to execute arbitrary commands on GitHub's backend servers using a single 'git push' command. This vulnerability, identified as CVE-2026-3854, was found to be exploitable with a standard git client and affected both GitHub.com and GitHub Enterprise Server.",
+    "details_he": "The vulnerability, discovered by Wiz Research, was an injection flaw in GitHub's internal protocol that allowed remote code execution on shared storage nodes on GitHub.com and full server compromise on GitHub Enterprise Server. This vulnerability was remarkably easy to exploit, despite the complexity of the underlying system. GitHub mitigated the issue on GitHub.com within 6 hours of the report and released patches for all supported versions of GitHub Enterprise Server. GitHub Enterprise Server customers are advised to upgrade immediately, as 88% of instances are still vulnerable."
+  },
+  {
+    "id": "d6380cd8966a0b7d",
+    "title_original": "AI-Driven Exploit Generation: What Mythos Means for Cyber Defense",
+    "url": "https://pentera.io/blog/ai-driven-exploit-generation-mythos-cyber-defense/",
+    "description": "Anthropic’s Mythos marks a turning point: AI can now autonomously turn disclosed vulnerabilities into real-world exploit chains in hours, collapsing the window defenders once relied on. For security teams, “hard to exploit” and “no known exploit” are no longer meaningful comfort signals. The new defense standard is continuous, adversarial validation that proves what can actually be exploited in your environment.The postAI-Driven Exploit Generation: What Mythos Means for Cyber Defenseappeared first onPentera.",
+    "source_name": "Pentera Blog",
+    "source_url": "https://pentera.io/blog",
+    "category": "ai",
+    "published": "2026-04-28T15:13:46+00:00",
+    "fetched_at": "2026-04-29T06:30:54.082568+00:00",
+    "sources": [
+      {
+        "name": "Pentera Blog",
+        "url": "https://pentera.io/blog/ai-driven-exploit-generation-mythos-cyber-defense/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI-Driven Exploit Generation: What Mythos Means for Cyber Defense",
+    "summary_he": "Anthropic's AI model, Mythos, has revolutionized the field of cyber defense by autonomously generating working exploits for disclosed vulnerabilities, rendering the concept of 'hard to exploit' meaningless. This shift forces security teams to reevaluate their defense strategies, prioritizing continuous validation of vulnerabilities in their environment.",
+    "details_he": "Mythos, a frontier AI model, was announced by Anthropic on April 8, 2026, and has demonstrated its capabilities by discovering and exploiting zero-day vulnerabilities in production software. The model successfully identified and chained together multiple vulnerabilities in fully hardened systems, including a 27-year-old denial-of-service vulnerability in OpenBSD and a 16-year-old flaw in FFmpeg's H.264 codec. These exploits were produced autonomously, completed in under a day, and for under $2,000, a feat that historically required skilled researchers days to weeks. This development has significant implications for the cyber defense industry, as it collapses the response window for defenders and requires security teams to prove exploitability rather than infer it."
+  },
+  {
+    "id": "bdc4b7137ebcd440",
+    "title_original": "VECT: Ransomware by design, Wiper by accident",
+    "url": "https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/",
+    "description": "Key Takeaways Background VECT Ransomware is a Ransomware-as-a-Service (RaaS) program that made its first appearance in December 2025 on a Russian-language cybercrime forum. After claiming their first two victims in January 2026, the group got back into the public eye due to an announcement of a partnership with TeamPCP, the actor behind several supply-chain attacks […]The postVECT: Ransomware by design, Wiper by accidentappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-04-28T13:03:01+00:00",
+    "fetched_at": "2026-04-29T06:30:50.092520+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "VECT: Ransomware by design, Wiper by accident",
+    "summary_he": "Key Takeaways Background VECT Ransomware is a Ransomware-as-a-Service (RaaS) program that made its first appearance in December 2025 on a Russian-language cybercrime forum. After claiming their first two victims in January 2026, the group got back into the public eye due to an announcement of a partnership with TeamPCP, the actor behind several supply-chain attacks […]The postVECT: Ransomware by design, Wiper by accidentappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "6dcd764b2240382d",
+    "title_original": "VECT Ransomware: Why Paying Won’t Get Your Files Back",
+    "url": "https://blog.checkpoint.com/security/vect-ransomware-why-paying-wont-get-your-files-back/",
+    "description": "Do not pay the ransom. VECT permanently destroys large files rather than locking them. Even the attackers cannot recover them. Payment will not restore your data  VECT partnered with TeamPCP and BreachForums to build one of the largest ransomware affiliate networks ever assembled, giving them a ready-made pipeline to thousands of potential victims  The encryption flaw exists across all versions. Windows, Linux, and ESXi variants are all affected. The bug has been present since before the public 2.0 release and has never been fixed  Advertised features don’t work. Encryption speed modes, anti-analysis protections, and other capabilities are either unimplemented or broken  Check Point Threat Emulation and Harmony Endpoint provide full protection against all known […]The postVECT Ransomware: Why Paying Won’t Get Your Files Backappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-04-28T13:00:08+00:00",
+    "fetched_at": "2026-04-29T06:30:59.028884+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/vect-ransomware-why-paying-wont-get-your-files-back/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "VECT Ransomware: Why Paying Won’t Get Your Files Back",
+    "summary_he": "VECT ransomware, a threat that emerged in late 2025, has a critical flaw that makes it more destructive than intended. The software permanently discards information needed to reverse the encryption process, making it impossible for attackers to restore files even if payment is made.",
+    "details_he": "VECT partnered with TeamPCP and BreachForums to build a large ransomware affiliate network, giving them access to thousands of potential victims. However, the encryption flaw exists across all versions of the software, including Windows, Linux, and ESXi variants, and has been present since before the public 2.0 release. This flaw makes VECT more likely the work of newcomers rather than experienced ransomware operators, and the possibility that parts of the codebase were generated with AI assistance cannot be ruled out. Check Point Threat Emulation and Harmony Endpoint provide full protection against all known VECT variants."
+  },
+  {
+    "id": "127ff551ed31ac25",
+    "title_original": "Simplifying AWS defense with Microsoft Sentinel UEBA",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
+    "description": "Learn how Microsoft Sentinel UEBA helps defenders distinguish benign AWS activity from attacker behavior by enriching raw CloudTrail logs with clear, binary behavioral signals derived from baseline user, peer, and device behavior patterns.The postSimplifying AWS defense with Microsoft Sentinel UEBAappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-28T13:00:00+00:00",
+    "fetched_at": "2026-04-29T06:30:46.795854+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Simplifying AWS defense with Microsoft Sentinel UEBA",
+    "summary_he": "Microsoft Sentinel UEBA מסייעה למגני המערכת להבחין בין פעילות AWS חיובית לבין התנהגות של מפציצים, על ידי שיפור דוחות CloudTrail הבסיסיים באמצעות סימנים בינאריים ומוחלטים של התנהגות על-פי מודלי התנהגות של משתמש, עמית ומכשיר.",
+    "details_he": "Microsoft Sentinel UEBA משתמשת במודלי התנהגות של משתמש, עמית ומכשיר כדי לשפר את דוחות CloudTrail הבסיסיים וליצור סימנים בינאריים ומוחלטים של התנהגות. זה מאפשר למגני המערכת להבחין בין פעילות AWS חיובית לבין התנהגות של מפציצים. השיטה תומכת בהגברת הביטחון של AWS."
+  }
+]
