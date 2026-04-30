@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a37228247633d0d2",
+    "title_original": "Where the goblins came from",
+    "url": "https://openai.com/index/where-the-goblins-came-from",
+    "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-04-29T20:00:00+00:00",
+    "fetched_at": "2026-04-30T06:34:01.810256+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/where-the-goblins-came-from"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Where the goblins came from",
+    "summary_he": "בעקבות שחרור GPT-5.1, דגמי המודל החלו להזכיר יצורים כגון גובלינים, גרימלינים ואחרים במטאפורות שלהם. התכונה החלה באופן חד-צדדי, ולא היו סימנים ויזואליים לבעיה.",
+    "details_he": "הגובלינים החלו להופיע באופן חד-צדדי, ולא היו סימנים ויזואליים לבעיה. הם החלו להופיע בתגובות של הדגמים, ולא היו סימנים לבעיה. הגובלינים החלו להופיע באופן חד-צדדי, ולא היו סימנים לבעיה. הדגמים החלו להזכיר יצורים כגון גובלינים, גרימלינים ואחרים במטאפורות שלהם. התכונה החלה באופן חד-צדדי, ולא היו סימנים ויזואליים לבעיה. הגובלינים החלו להופיע באופן חד-צדדי, ולא היו סימנים לבעיה."
+  },
+  {
+    "id": "3f6d6b615338363c",
+    "title_original": "AI evals are becoming the new compute bottleneck",
+    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-29T16:45:09+00:00",
+    "fetched_at": "2026-04-30T06:34:04.555407+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI evals are becoming the new compute bottleneck",
+    "summary_he": "AI evaluation costs have reached a point where they are becoming a significant bottleneck in the field, with some evaluations costing tens of thousands of dollars. This is due to the increasing complexity and scale of AI models, as well as the need for repeated evaluations during the development process.",
+    "details_he": "The Holistic Agent Leaderboard (HAL) recently spent $40,000 to run 21,730 agent rollouts across 9 models and 9 benchmarks, while a single GAIA run on a frontier model can cost $2,829. The cost of evaluation is not only limited to the initial run, as developers often pay for repeated evaluations during model development, with some evaluations costing as much as $100,000. The cost of evaluation is becoming a significant factor in the development cycle, with some models requiring tens of thousands of GPU hours to evaluate. Researchers have proposed techniques such as compression and coarse-to-fine procedures to reduce the cost of evaluation, but more work is needed to address this growing challenge."
+  },
+  {
+    "id": "f368cc10da65731b",
+    "title_original": "Granite 4.1 LLMs: How They’re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-04-29T15:01:48+00:00",
+    "fetched_at": "2026-04-30T06:34:04.555407+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-1"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Granite 4.1 LLMs: How They’re Built",
+    "summary_he": "IBM Granite 4.1 LLMs are a family of dense, decoder-only models that have been trained on a massive dataset of approximately 15 trillion tokens. The models are designed to be highly efficient and accurate, with the 8B instruct model matching or surpassing the previous Granite 4.0-H-Small model despite using a simpler architecture.",
+    "details_he": "The Granite 4.1 LLMs were built using a multi-stage pre-training pipeline that includes long-context extension of up to 512K tokens. The models were further refined with supervised fine-tuning on a dataset of approximately 4.1 million high-quality curated samples and reinforcement learning via on-policy GRPO with DAPO loss. The models use a decoder-only dense transformer architecture with several key design choices, including Grouped Query Attention, Rotary Position Embeddings, and SwiGLU activations. The 3B, 8B, and 30B models share the same training pipeline and data strategy, differing only in architecture dimensions."
+  },
+  {
+    "id": "e0e0109ddf34b177",
+    "title_original": "Building the compute infrastructure for the Intelligence Age",
+    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-04-29T15:00:00+00:00",
+    "fetched_at": "2026-04-30T06:34:01.810256+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Building the compute infrastructure for the Intelligence Age",
+    "summary_he": "OpenAI's Stargate initiative is accelerating the development of AI infrastructure to meet the growing demand for AI across various sectors. The company has surpassed its initial goal of securing 10GW of AI infrastructure in the United States by 2029, with over 3GW added in the last 90 days alone.",
+    "details_he": "The rapid growth in demand for AI has led OpenAI to expand its compute footprint and bring new capacity online faster. This is achieved through partnerships with local communities, infrastructure ecosystem, and other companies with expertise in cloud infrastructure, data centers, chips, energy, construction, finance, and operations. The goal is to build a robust ecosystem that can deliver the benefits of AGI broadly and reliably to the world. By working together, OpenAI and its partners aim to meet the accelerating demand for AI and bring more powerful tools to more people."
+  },
+  {
+    "id": "11a525b275011f62",
+    "title_original": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "description": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-04-30T03:58:22+00:00",
+    "fetched_at": "2026-04-30T06:34:06.236435+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "summary_he": "SoftBank היא חברה יפנית שתקים חברה חדשה שתפתח טכנולוגיות רובוטיות לבניית מרכזי מידע, וכבר תוכננה לצאת לבורסה ב-100 מיליארד דולר",
+    "details_he": "SoftBank תקים חברה חדשה בשם Roze AI, שתפתח טכנולוגיות רובוטיות לבניית מרכזי מידע. Roze AI תנסה להפקיד את בניית מרכזי המידע בארצות הברית באופן יעיל יותר, על ידי שימוש ברובוטים עצמאיים. החברה כבר תוכננה לצאת לבורסה ב-100 מיליארד דולר, וכמה מנהלים רוצים שזה יקרה עד סוף 2026. זאת חלק מניסיונה של SoftBank להשתמש ב-AI ובאוטומציה כדי להפקיד את התעשייה. "
+  },
+  {
+    "id": "f4ed9bdfcbba0fce",
+    "title_original": "Key Takeaways from the 2026 State of AI in the Cloud Report",
+    "url": "https://www.wiz.io/blog/state-of-ai-in-cloud-2026-recap",
+    "description": "How AI Adoption, Autonomy, and Attacker Innovation Are Reshaping Cloud Security",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-29T21:00:00+00:00",
+    "fetched_at": "2026-04-30T06:34:14.087673+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/state-of-ai-in-cloud-2026-recap"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Key Takeaways from the 2026 State of AI in the Cloud Report",
+    "summary_he": "בעקבות דו\"ח המצב של AI בענן 2026, נראה כי AI הפכה לבסיס תשתית של ענן. הביטחון של AI אינו רק על הגנת הדגמים, אלא גם על ההבנה של AI עם התשתית, זהויות ואוטומציה.",
+    "details_he": "הדו\"ח ה-2026 State of AI in the Cloud ניתח מאות אלפי סביבות ענן אמיתיות, כדי לראות איך הארגונים מתפרסמים ואיך התוקפים יוצאים להתקפה על AI כיום. כ-81% מהסביבות הענן שנצפו משתמשות בשירותי AI המנוהלים, ו-90% רצות AI סלפ-אונה. AI אינה פרויקט ניסיוני יותר, אלא נמצאת בכל תעשייה גדולה בתהליכי פיתוח ובכלי אוטומציה. השינוי נע בין צריכה חד-צדדית של שירותים מנוהלים לבעלות יותר. אך, זו בעלות שאינה ישירה: 68% מהארגונים שרצו דגמים סלפ-אונה, קיבלו אותם דרך תוכנות שלישיות. זה מצביע כי כמה ארגונים עשויים להתקיים עם יחידות AI סלפ-אונה, ללא הכרה מלאה."
+  },
+  {
+    "id": "6eafed1e628a4bc5",
+    "title_original": "8 best practices for CISOs conducting risk reviews",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/",
+    "description": "Embracing strong proactive security is something we can all do to mitigate our increased exposure to security threats.The post8 best practices for CISOs conducting risk reviewsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-29T16:00:00+00:00",
+    "fetched_at": "2026-04-30T06:34:09.491129+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "8 best practices for CISOs conducting risk reviews",
+    "summary_he": "Microsoft מפחיתה את הסיכויים לפגיעה על ידי תכנון מערכות חדשות שלה, שכוללות הסרת פרטי זהויות והפחתת פני השטח לפגיעה.",
+    "details_he": "Microsoft פיתחה שיטות חדשות להגנה על תוכנותיה, כולל Dynamics 365 ו- Power Platform, כדי למנוע פגיעות חסרות תכלית. השיטות כוללות הסרת פרטי זהויות, הפחתת פני השטח לפגיעה ושימוש בהנדסת פלטפורמה כדי למנוע איומים חסרי תכלית. השיטות החדשות נועדו לעזור ל-CISOs לבצע בירורי סיכון יעילים יותר."
+  },
+  {
+    "id": "06cc2cf807f283d1",
+    "title_original": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+    "url": "https://www.wiz.io/blog/mini-shai-hulud-supply-chain-sap-npm",
+    "description": "Detect and mitigate malicious npm packages linked to the recent Shai-Hulud-style campaign - Mini Shai Hulud.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-29T15:14:27+00:00",
+    "fetched_at": "2026-04-30T06:34:14.087673+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/mini-shai-hulud-supply-chain-sap-npm"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+    "summary_he": "TeamPCP, a threat actor group, has been linked to a supply chain attack targeting SAP-related npm packages. The campaign, dubbed 'Mini Shai Hulud,' injects malicious scripts that steal developer and CI/CD secrets, which are then exfiltrated via GitHub repositories.",
+    "details_he": "The attack compromises legitimate SAP ecosystem packages by adding a preinstall script that executes a payload, enabling attacker-controlled code execution. The second-stage payload is a credential stealer and propagation framework that collects sensitive data, including GitHub tokens, npm credentials, and cloud secrets. The malware also includes logic to infect additional repositories and package distributions. Notably, the operation terminates itself on Russian-speaking systems to avoid data exfiltration. The compromised users and attacker-created exfiltration repositories appear to be lower in volume compared to previous TeamPCP operations."
+  },
+  {
+    "id": "db8eece4a03ce1f9",
+    "title_original": "Wiz Code Week Recap: Securing AI Native Development",
+    "url": "https://www.wiz.io/blog/wiz-code-week-recap",
+    "description": "Providing Application Security teams with visibility and guardrails to secure agentic software development and the modern software supply chain",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-04-29T13:58:15+00:00",
+    "fetched_at": "2026-04-30T06:34:14.087673+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-code-week-recap"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz Code Week Recap: Securing AI Native Development",
+    "summary_he": "בעולם הפיתוח האוטומטי, המודלים האינטליגנטיים מגיעים לשיאם, ואין פגם שלא יוגלה. כדי להתמודד עם זה, חברות צריכות להשיג ראות מלאה, להפחית את פני השטח, ולבסס את הביטחון ישירות בתהליכי הפיתוח.",
+    "details_he": "Wiz Code Week הייתה הצעד הראשון בכיוון זה. במסגרתה, הצוות של Wiz הציג תכונות חדשות לצורך הגנת פיתוח נטיבי. אחת התכונות החדשות, AI-BOM, מספקת רשימה חיה של תכונות AI, כולל Gemini Code Assist ו-GitHub Copilot, ומאפשרת לצוותי הביטחון לקבל תמונה מלאה של התכונות האלה. Wiz AI-BOM מספקת לצוותי הביטחון רשימה חיה של התכונות האלה. בנוסף, IaC Inventory מספקת תמונה מלאה של התהליך של פיתוח התוכנה, כולל כל התכונות השונות. Wiz Code plugins מאפשרים לבסס את הביטחון ישירות בתהליכי הפיתוח."
+  },
+  {
+    "id": "c750d4976e09258e",
+    "title_original": "Cato CTRL™ Threat Research: New Vulnerabilities in NVIDIA NeMo and Meta PyTorch Enable Full System Compromise",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-new-vulnerabilities-in-nvidia-nemo-and-meta-pytorch/",
+    "description": "Executive Summary Cato CTRL has discovered high-severity vulnerabilities in NVIDIA NeMo (CVE-2025-33236 with a CVSS score of 7.8) and Meta PyTorch that turns AI model files into remote code execution (RCE) vectors. The NeMo vulnerability allows RCE by importing a malicious AI model. The NeMo framework silently executes threat actor-controlled code with no warning. The...The postCato CTRL™ Threat Research: New Vulnerabilities in NVIDIA NeMo and Meta PyTorch Enable Full System Compromiseappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-04-29T12:26:06+00:00",
+    "fetched_at": "2026-04-30T06:34:18.436595+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-new-vulnerabilities-in-nvidia-nemo-and-meta-pytorch/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL™ Threat Research: New Vulnerabilities in NVIDIA NeMo and Meta PyTorch Enable Full System Compromise",
+    "summary_he": "חברות שמשתמשות באי-מודלים AI חשופות לפגיעות חמורות ב-NVIDIA NeMo ו-Meta PyTorch, המאפשרות גישה רחבה למערכות. הפגיעות, שהתגלו על ידי Cato CTRL, יכולות לאפשר רצון קוד רחב-היקף וגנבת נתונים.",
+    "details_he": "Cato CTRL גילתה פגיעות חמורות ב-NVIDIA NeMo ו-Meta PyTorch, המאפשרות רצון קוד רחב-היקף וגנבת נתונים. הפגיעות, שקיבלו ציון CVSS של 7.8, יכולות לאפשר לתוקפים לגשת למערכות ולגנוב נתונים. הפגיעות נמצאו בתוך פרויקטי AI של NVIDIA ו-Meta, והן יכולות לפגוע במערכות של חברות שמשתמשות באי-מודלים AI. הפגיעות נמצאו על ידי Cato CTRL, והן נפתחו לציבור ב-17 בפברואר 2026."
+  }
+]
