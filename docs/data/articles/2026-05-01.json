@@ -1,0 +1,212 @@
+[
+  {
+    "id": "b9a09ebb85843332",
+    "title_original": "Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale",
+    "url": "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
+    "description": "Safe agents don’t guarantee a safe ecosystem of interconnected agents. Microsoft Research examines what breaks when AI agents interact and why network-level risks require new approaches.The postRed-teaming a network of agents: Understanding what breaks when AI agents interact at scaleappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-04-30T21:53:21+00:00",
+    "fetched_at": "2026-05-01T06:41:47.817751+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale",
+    "summary_he": "במערכות של אגנטים, סיכונים חדשים עלולים להופיע כאשר האגנטים מתקשרים ביניהם, ולא כאשר הם מבודקים בנפרד.",
+    "details_he": "במערכות של אגנטים, סיכונים חדשים עלולים להופיע כאשר האגנטים מתקשרים ביניהם, ולא כאשר הם מבודקים בנפרד. במחקר שלנו, נראה שאגנטים נפגעים מהתקשרות זו, כאשר תכנית רעילה נשלחת בין האגנטים ומגיעה למידע פרטי. כמו כן, נראה שאגנטים נפגעים כאשר הם נכנסים לשרשרת של אגנטים, והם נשאבים לפעילות רעילה. ישנם סימנים ראשונים שאגנטים יכולים להיות יותר עמידים לסיכונים אלה, אך ההגנה עדיין נחשבת לאתגר. בעולם האגנטים, ישנם כבר אגנטים של גופים שונים, והם מתקשרים ביניהם. זה יוצר סביבה מחוברת, שבה האגנטים יכולים לחלוק משאבים, להפיץ מידע ולתרום ידע. זה יוצר ערך רב למשתמשים, אך גם יוצר סיכונים חדשים. "
+  },
+  {
+    "id": "b4b98260ccb13655",
+    "title_original": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization",
+    "url": "https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/",
+    "description": "By early 2026, the open source project OpenClaw had become a phenomenon. In January, its GitHub star count crossed 100,000 as developer interest surged.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-30T20:00:39+00:00",
+    "fetched_at": "2026-05-01T06:41:48.938500+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization",
+    "summary_he": "הפרויקט OpenClaw, שנוצר על ידי פיטר סטיינברגר, הפך לפרויקט פתוח שזכה לתשומת לב רבה. הפרויקט נועד להציע עזרה ולהיות עצמאי, ואפשר למשתמשים להתקין דגם של AI במחשב האישי שלהם, ללא תלות באינפרסטרוקטורה העולמית.",
+    "details_he": "הפרויקט OpenClaw, שנוצר על ידי פיטר סטיינברגר, הפך לפרויקט פתוח שזכה לתשומת לב רבה. הפרויקט נועד להציע עזרה ולהיות עצמאי, ואפשר למשתמשים להתקין דגם של AI במחשב האישי שלהם, ללא תלות באינפרסטרוקטורה העולמית. נוכחות זו גרמה למחלוקת, כאשר חוקרי ביטחון העלו חששות על אודות הדרך בה כלי AI עצמאיים ניהלים מידע רגיש, אוטנטיפיקציה ועדכוני דגמים. נוכחות זו גם גרמה לשיח רחב יותר בתחום ה-AI על הפרטים שבין פתיחה, פרטיות ובטיחות."
+  },
+  {
+    "id": "a391d19350abf589",
+    "title_original": "It’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/",
+    "description": "[Editor’s note] The blog has been updated to note that GeForce RTX 5080-power expansion also extends to the Install-to-Play library. It’s gonna be May — and the cloud’s in full festival mode.  16 games are joining GeForce NOW this month, including new AAA titles arriving on launch day from Steam, Xbox, PC Game Pass and […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-04-30T13:00:47+00:00",
+    "fetched_at": "2026-05-01T06:41:48.938500+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "It’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power",
+    "summary_he": "GeForce NOW is gearing up for a busy month with 16 new games joining its cloud library, including AAA titles like Forza Horizon 6 and 007 First Light. The service is also expanding its RTX 5080-class performance for Ultimate members, offering higher frame rates and richer visuals. This comes as part of a larger celebration of Firaxis' 30th anniversary.",
+    "details_he": "The new games joining GeForce NOW this month include Forza Horizon 6, 007 First Light, and several other titles from Steam, Xbox, PC Game Pass, and GOG. Ultimate members will now have priority access to RTX 5080-class rigs, making it easier to experience next-generation PC power from almost any device. Additionally, GeForce NOW is celebrating Firaxis' 30th anniversary by adding more of the studio's classics as Install-to-Play titles for instant access. This comes as part of a larger celebration of Firaxis' legacy, with a Steam celebration sale on select Firaxis games supported in the cloud."
+  },
+  {
+    "id": "d9c6dd646257e340",
+    "title_original": "Enabling a new model for healthcare with AI co-clinician",
+    "url": "https://deepmind.google/blog/ai-co-clinician/",
+    "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-04-30T12:14:15+00:00",
+    "fetched_at": "2026-05-01T06:41:47.123964+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/ai-co-clinician/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Enabling a new model for healthcare with AI co-clinician",
+    "summary_he": "Google DeepMind's AI co-clinician research initiative aims to improve healthcare outcomes by developing AI that collaborates with clinicians to provide higher quality care to patients, addressing the global shortage of clinical experts.",
+    "details_he": "The initiative builds on Google DeepMind's previous research in medical AI, including mastering examination-style tests of medical knowledge and matching physician performance in text-based simulated medical consultations. The AI co-clinician is designed to function as a collaborative member of the care team, interacting with patients under expert clinical supervision. In a study, physicians preferred AI co-clinician's responses to leading evidence synthesis tools and the system recorded zero critical errors in 97 cases, improving over two widely used AI systems."
+  },
+  {
+    "id": "4aa4f887603ff788",
+    "title_original": "\"לא מכרנו, ידענו שהמניה תעלה\": כך נראה מבפנים המהפך באינטל",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001541639#utm_source=RSS",
+    "description": "מאז כניסתו לתפקיד, מנכ\"ל אינטל ליפ־בו טאן הוביל שינוי בגישה הניהולית של החברה: פחות בירוקרטיה, יותר מיקוד • התוצאות כבר משתקפות בנתונים: המניה טסה מתחילת השנה ביותר מ־150%, ההכנסות קפצו, שיתופי פעולה חדשים על הפרק - וגם העובדים בישראל מעידים על השינוי • אבל לא הכול ורוד: המשבר האחרון, שכלל קיצוצים כואבים, עדיין נוכח ו־TSMC נושפת בעורפה של אינטל",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-05-01T04:01:00+00:00",
+    "fetched_at": "2026-05-01T06:42:16.914977+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001541639#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"לא מכרנו, ידענו שהמניה תעלה\": כך נראה מבפנים המהפך באינטל",
+    "summary_he": "מנכ\"ל אינטל, ליפ־בו טאן, הוביל שינוי בגישה הניהולית של החברה, כולל פחות בירוקרטיה ויותר מיקוד. תוצאות השינוי כבר משתקפות בנתונים, כולל הכנסות גבוהות ושיתופי פעולה חדשים. עובדי אינטל בישראל מעידים על השינוי.",
+    "details_he": "ליפ־בו טאן, מנכ\"ל אינטל, הוביל שינוי בגישה הניהולית של החברה, כולל פחות בירוקרטיה ויותר מיקוד. תוצאות השינוי כבר משתקפות בנתונים, כולל הכנסות גבוהות ושיתופי פעולה חדשים. עובדי אינטל בישראל מעידים על השינוי, אך המשבר האחרון, שכלל קיצוצים כואבים, עדיין נוכח. החברה עדיין נאלצת להתמודד עם השפעותיו של TSMC, שנושפת בעורפה."
+  },
+  {
+    "id": "e25f22b2bc03966c",
+    "title_original": "That AI Extension Helping You Write Emails? It’s Reading Them First",
+    "url": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+    "description": "Unit 42 uncovers high-risk AI browser extensions. Disguised as productivity tools, they steal data, intercept prompts, and exfiltrate passwords. Protect your browser.The postThat AI Extension Helping You Write Emails? It’s Reading Them Firstappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-04-30T22:00:57+00:00",
+    "fetched_at": "2026-05-01T06:41:55.701497+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "That AI Extension Helping You Write Emails? It’s Reading Them First",
+    "summary_he": "AI browser extensions marketed as productivity tools are secretly reading emails, intercepting ChatGPT prompts, and exfiltrating passwords. These extensions leverage generative AI to deliver remote access Trojans, meddler-in-the-middle attacks, and infostealers. Users are advised to exercise caution when installing extensions.",
+    "details_he": "The Threat Research Center discovered 18 high-risk AI browser extensions that are not what they seem. These extensions use techniques such as API interception, passive Document Object Model observation, and HTTPS response decryption to deliver malware. Multiple samples contained AI-generated code, indicating that threat actors employed large language models to accelerate malware production. The researchers reported the extensions to Google, which either removed them or sent a warning to the owners to address policy violations. Organizations and individual users are advised to source extensions from trusted providers and scrutinize requested permissions to avoid authorizing the interception of sensitive credentials and proprietary session information."
+  },
+  {
+    "id": "0de8e75e63952fce",
+    "title_original": "Red Agent and Claude Opus: Securing Production Targets at Scale",
+    "url": "https://www.wiz.io/blog/red-agent-claude-opus",
+    "description": "Delivering enterprise-grade continuous AI-powered risk assessment to hundreds of customers through the combined power of Wiz and Anthropic",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-30T17:07:36+00:00",
+    "fetched_at": "2026-05-01T06:41:57.655194+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/red-agent-claude-opus"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Red Agent and Claude Opus: Securing Production Targets at Scale",
+    "summary_he": "Wiz השיקה Red Agent, כלי חדש לזיהוי חולשות באפליקציות ו-APIs, שמשתמש במודלי AI מתקדמים כדי לזהות חולשות שאין להן תגובה רגילה.",
+    "details_he": "Wiz Red Agent הוא כלי AI- פוארדר שהושק בגרסת ניסיון ציבורי, ומסוגל לסרוק יותר מ-150,000 אפליקציות ו-APIs בשבוע. הכלי משתמש במודלי AI מתקדמים, כולל סדרת Claude Opus, כדי לזהות חולשות שאין להן תגובה רגילה. Wiz Red Agent יכול לסרוק יותר מ-150,000 אפליקציות ו-APIs בשבוע, ולזהות יותר מ-3,000 חולשות גבוהות וביקורתיות בשבוע. הכלי יכול לסרוק יותר מ-150,000 אפליקציות ו-APIs בשבוע, ולזהות יותר מ-3,000 חולשות גבוהות וביקורתיות בשבוע, ואין לו תגובות שקריות."
+  },
+  {
+    "id": "0c4cec80a60ee138",
+    "title_original": "What’s new, updated, or recently released in Microsoft Security",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
+    "description": "Stay ahead of emerging threats with Microsoft’s newest security innovations and updates, delivered through the In the Loop series.The postWhat’s new, updated, or recently released in Microsoft Securityappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-30T16:00:00+00:00",
+    "fetched_at": "2026-05-01T06:41:53.756960+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What’s new, updated, or recently released in Microsoft Security",
+    "summary_he": "Microsoft הציגה תוצאות על תפוצת האיימל המסוכנים, שהגיעה לשיא בראשית 2026. תקיפות זהירות זהות, QR ו-CAPTCHA, נראו בעלי עלייה.",
+    "details_he": "Microsoft דיווחה על עלייה בתקיפות איימל בראשית 2026. תקיפות זהירות זהות, QR ו-CAPTCHA, נראו בעלי עלייה. החברה גם דיווחה על פעילות נגד התקיפות, כולל פירוק התקיפות של Tycoon2FA, שהוביל לירידה של 15% בתפוצת התקיפות."
+  },
+  {
+    "id": "bcb2962951fa404e",
+    "title_original": "Email threat landscape: Q1 2026 trends and insights",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/",
+    "description": "In early 2026, email threats increased with a rise in credential phishing, QR code phishing, and CAPTCHA-gated campaigns, highlighted by Microsoft’s disruption of the Tycoon2FA phishing platform which led to a 15% volume decrease and shifts in threat actor tactics.The postEmail threat landscape: Q1 2026 trends and insightsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-04-30T15:00:00+00:00",
+    "fetched_at": "2026-05-01T06:41:53.756960+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Email threat landscape: Q1 2026 trends and insights",
+    "summary_he": "תופעה חדשה של פיצוח כתובות אימייל נצפתה בקנדה, כאשר תוקפים פיצחו חשבונות עובדים כדי לגשת לפרופילים ולשלוט בתשלומי המשכורת.",
+    "details_he": "במסגרת חקירה, צוות DART של Microsoft גילה תוקף חדש, עם כוונה כלכלית, שפעל תחת השם Storm-2755. התוקף פיצח חשבונות עובדים קנדים כדי לגשת לפרופילים ולשלוט בתשלומי המשכורת. התוקף, שכונה 'Payroll pirate', ניצל את הגישה לחשבונות כדי לשלוט בתשלומי המשכורת ולהעבירם לחשבונות שבשליטתו."
+  },
+  {
+    "id": "4d90f0fb5bbde46b",
+    "title_original": "The (In)security Landscape of AI-Powered GitHub Actions (Part 2/2)",
+    "url": "https://www.wiz.io/blog/github-actions-security-ai-powered-actions-vulnerabilities",
+    "description": "When AI meets CI/CD: permission bypasses, prompt injection, and what to do about it.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-04-30T13:21:18+00:00",
+    "fetched_at": "2026-05-01T06:41:57.655194+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/github-actions-security-ai-powered-actions-vulnerabilities"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The (In)security Landscape of AI-Powered GitHub Actions (Part 2/2)",
+    "summary_he": "במסגרת חקירה, נמצא כי פעולות GitHub AI של ספקים כגון OpenAI, Anthropic וגוגל, נרץות באלפי זרימות ציבוריות. נמצאו חולשות במערכת, כולל ניצול של תצורות חיצוניות כדי לגרום להרצת AI, ופענוח סודות דינמיים.",
+    "details_he": "בחקירה שנערכה, נמצאו חולשות במערכת GitHub AI, כולל ניצול של תצורות חיצוניות כדי לגרום להרצת AI. נמצא גם פענוח סודות דינמיים, שאינם מוכרים כסודות על ידי דגמי AI. חולשות אלה נמצאו בזרימות ציבוריות, וכ-200,000 כוכבים נפגעו. החקירה חשפה גם חולשות בזרימות פקודות, שאינן נתונות לבקרה. נמצא כי חלק מהזרימות, שבהן פעלו פעולות AI, נפגעו עקב חולשות בבקרות."
+  }
+]
