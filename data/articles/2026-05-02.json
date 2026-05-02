@@ -1,0 +1,212 @@
+[
+  {
+    "id": "c1fe5267bc215ad5",
+    "title_original": "המשימה הכי מסובכת בטלפון החדש: להעביר את הישן",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001541618#utm_source=RSS",
+    "description": "רכשתם סמארטפון חדש? לפני שאתם מעבירים את המידע מהטלפון הקודם, אל תשכחו לעשות גיבוי • אם אתם עוברים מהאקו–סיסטם של אפל לאנדרואיד, או להפך, כדאי שתכירו עוד כמה כלים שיעזור לכם לא לאבד נתונים",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-05-02T04:51:00+00:00",
+    "fetched_at": "2026-05-02T06:17:08.003524+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001541618#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "המשימה הכי מסובכת בטלפון החדש: להעביר את הישן",
+    "summary_he": "בעת שרכשתם טלפון חדש, חשובו על גיבוי הנתונים שלכם כדי למנוע איבודם.",
+    "details_he": "כאשר עוברים לטלפון חדש, יש לבצע גיבוי של הנתונים, כדי למנוע איבודם. זה חשוב במיוחד אם עוברים מאפל לאנדרואיד, או להפך. ישנם כלים שונים שיכולים לעזור לכם לשמור על נתונים, כגון גיבוי לענן, או תוכנות שליחת קבצים."
+  },
+  {
+    "id": "75a8d19e75c70f56",
+    "title_original": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "description": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-01T23:06:50+00:00",
+    "fetched_at": "2026-05-02T06:16:46.191900+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "summary_he": "Amjad Masad, Replit's founder, discussed the company's growth and independence in a recent interview. Replit's revenue has increased significantly, reaching a billion-dollar annual run rate, while its net revenue retention is as high as 300%. Masad emphasized the company's ability to maintain independence due to its positive gross margins.",
+    "details_he": "Replit's growth is a result of its focus on non-technical users who can create software using the company's end-to-end platform. Masad stated that Replit's audience tends to be more expensive, but provides a lot more value. He also mentioned that Replit has been gross margin positive for over a year, which is a key factor in the company's ability to maintain independence. Additionally, Masad expressed his willingness to take Apple to court over what he called outright lies in its App Store battle with Replit. The company's founder also discussed the possibility of investing in its own customers, which could be a new direction for Replit."
+  },
+  {
+    "id": "58926cdb2e329d62",
+    "title_original": "Study: AI models that consider user's feeling are more likely to make errors",
+    "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "description": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-05-01T22:23:36+00:00",
+    "fetched_at": "2026-05-02T06:16:45.902276+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Study: AI models that consider user's feeling are more likely to make errors",
+    "summary_he": "מחקר חדש מצא שמודלי AI שמתייחסים לרגשות המשתמשים יותר פעמים מאשר לא, נוטים להכניס שגיאות. זאת כאשר המודלים הללו מותאמים להצגת טון 'חמים' יותר. עם זאת, המחקר גם מצא שהמודלים ה'חמים' יותר יכולים לסייע בקידום ידידותיות ואמפתיה.",
+    "details_he": "במחקר זה, חוקרים ממכון האינטרנט של אוניברסיטת אוקספורד גילו שמודלי AI שמותאמים להצגת טון 'חמים' יותר, נוטים להכניס שגיאות. זאת כאשר המודלים הללו מותאמים להצגת טון 'חמים' יותר, ולאחר מכן, נבדקו בפני מספר משימות. המחקר הציע כי המודלים ה'חמים' יותר יכולים לסייע בקידום ידידותיות ואמפתיה. עם זאת, יש לזכור שהמודלים ה'חמים' יותר יכולים להכניס שגיאות, ולכן, יש להשתמש בהם בזהירות. המחקר גם מצא שהמודלים ה'חמים' יותר יכולים לסייע בקידום ידידותיות ואמפתיה, ולכן, יש להשתמש בהם בזהירות."
+  },
+  {
+    "id": "9dcc61ed675ae2f9",
+    "title_original": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-01T22:13:27+00:00",
+    "fetched_at": "2026-05-02T06:16:46.191900+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "summary_he": "Meta התקבלה על ידי חברת הרובוטיקה Assured Robot Intelligence (ARI) להשתלב במאמציה לפיתוח רובוטים הדומים לבני אדם. העסקה כוללת צוות ARI, כולל מייסדיה, שיצטרפו לחטיבת AI של Meta.",
+    "details_he": "Meta התקבלה על ידי ARI בסכום שלא פורסם, והצוות של ARI, כולל מייסדיה, יצטרפו לחטיבת AI של Meta. ARI פיתחה דגמי בסיס לרובוטים הדומים לבני אדם, שנועדו לבצע כל סוגי עבודה פיזית, כגון עבודות בית. העסקה תסייע ל-Meta להשיג את מטרותיה בתחום הרובוטים ההדומים לבני אדם."
+  },
+  {
+    "id": "a3bba4a35d3ebcd9",
+    "title_original": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "description": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com",
+    "category": "ai",
+    "published": "2026-05-01T22:08:19+00:00",
+    "fetched_at": "2026-05-02T06:16:45.654604+00:00",
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "summary_he": "Elon Musk testified in the landmark trial against OpenAI, claiming he was deceived into funding the company and warning that AI could potentially destroy humanity. Musk also admitted that his AI company, xAI, uses OpenAI's models to train its own chatbot, Grok. He is seeking to remove OpenAI's CEO and president from their roles and unwind the company's restructuring.",
+    "details_he": "Musk's testimony revolved around his claims that he was misled into providing $38 million in funding to OpenAI, which he believed was a nonprofit developing AI for the benefit of humanity. However, he now alleges that the company's executives, including CEO Sam Altman and president Greg Brockman, used the funds to create a for-profit subsidiary. Musk's lawsuit could have significant implications for OpenAI's plans to go public at a valuation approaching $1 trillion. Meanwhile, xAI is expected to go public as part of Musk's SpaceX company in June, with a target valuation of $1.75 trillion. The trial has sparked protests outside the courthouse and raised questions about the stewardship of AI safety."
+  },
+  {
+    "id": "763e4afc55749a75",
+    "title_original": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
+    "description": "A high-severity Linux vulnerability, “Copy Fail” (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and reduce risk.The postCVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environmentsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-02T03:06:08+00:00",
+    "fetched_at": "2026-05-02T06:16:49.183428+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
+    "summary_he": "חולשה חמורה בלינוקס, 'Copy Fail', מאפשרת העלאת זכויות ראשיות בסביבת ענן ועבודות Kubernetes. כבר קיים תקן פורץ כבר בשטח, וארגונים צריכים לפעול מהר לזיהוי, הפחתת סיכון ומניעת נזק.",
+    "details_he": "חולשה זו, 'Copy Fail', נחשפה ב-CVE-2026-31431, והיא יכולה לגרום להעלאת זכויות ראשיות בסביבות ענן ועבודות Kubernetes. תקן פורץ כבר קיים, וארגונים צריכים לפעול מהר כדי לזהות, להפחית סיכון ולמנוע נזק. חשיפה זו מדגישה את החשיבות של תחזוקה ועדכון תוכנה קבועים."
+  },
+  {
+    "id": "3608da8973e4b901",
+    "title_original": "The npm Threat Landscape: Attack Surface and Mitigations (Updated May 1)",
+    "url": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
+    "description": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more.The postThe npm Threat Landscape: Attack Surface and Mitigations (Updated May 1)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-05-02T00:10:33+00:00",
+    "fetched_at": "2026-05-02T06:16:51.198152+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The npm Threat Landscape: Attack Surface and Mitigations (Updated May 1)",
+    "summary_he": "ב-9 בספטמבר 2025, הגיע האקרים לנקודת השינוי המכריעה בבטיחות האקוסיסטם של npm. השי-הולוד, וירוס רב-התפשטות שאוטומטיזם את ההשתלטות וההפצה מחדש של כרטיסי פקד שרירותיים, סימן את סוף ה'תקופה המצערת' של התקיפות npm ואת תחילת 'תקופת האיום הגבוה'",
+    "details_he": "בחודשים שלאחר מכן, חברת Unit 42 ראתה התפשטות אגרסיבית בתדירות ובעומק התקיפות במסלול הספליין. התקיפות התפתחו מאירועי 'טיפוס-קפקא' יחידים למבצעים מערכתיים של תאגידי איום שונים להפקת סמכות האמון שמניעה את פיתוח התוכנה המודרנית. חברת Unit 42 ראתה שני מבצעים באפריל: הראשון החל ב-22 באפריל 2026 וכלל את השרירות 'Shai-Hulud: The Third Coming'. השני החל ב-29 באפריל 2026 וכונה 'Mini Shai-Hulud'."
+  },
+  {
+    "id": "9b6b054377dd3da6",
+    "title_original": "Essential Data Sources for Detection Beyond the Endpoint",
+    "url": "https://unit42.paloaltonetworks.com/detection-beyond-the-endpoint/",
+    "description": "Unit 42 highlights the need for a comprehensive security strategy that spans every IT zone. Explore the full details here.The postEssential Data Sources for Detection Beyond the Endpointappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-05-01T23:00:13+00:00",
+    "fetched_at": "2026-05-02T06:16:51.198152+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/detection-beyond-the-endpoint/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Essential Data Sources for Detection Beyond the Endpoint",
+    "summary_he": "בעקבות דיווחי תקיפה, סוכנויות הביטחון צריכות להתאים את גישתן לזיהוי ודיכוי תקיפות, כדי להתמודד עם הגדלת הפעילות הפסיבית של התקיפות.",
+    "details_he": "בדו\"ח ה-2026 של Unit 42, נצפה עלייה של 300% במהירות התקיפה של התקיפות, כאשר תקיפות נעשות כעת 4 פעמים מהר יותר להעברת נתונים מאשר ב-2025. כדי להתמודד עם זאת, סוכנויות הביטחון צריכות להתאים את גישתם לזיהוי ודיכוי תקיפות, כדי להתמודד עם הגדלת הפעילות הפסיבית של התקיפות. ב-75% מהתקיפות שנחקרו על ידי Unit 42, הראיות הבסיסיות של הפריצה היו נמצאות בלוגים, אך בשל מערכות מורכבות ומפוצלות, המידע לא היה זמין או יעיל. כדי להתמודד עם זאת, סוכנויות הביטחון צריכות להתאים את גישתם לזיהוי ודיכוי תקיפות, כדי להתמודד עם הגדלת הפעילות הפסיבית של התקיפות."
+  },
+  {
+    "id": "2485d1ac285d1739",
+    "title_original": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+    "description": "​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code.The postMicrosoft Agent 365, now generally available, expands capabilities and integrationsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-01T15:00:00+00:00",
+    "fetched_at": "2026-05-02T06:16:49.183428+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+    "summary_he": "Microsoft Agent 365, שכעת זמין לגמרי, הורחב ושופר, כולל יכולות ואינטגרציות חדשות.",
+    "details_he": "Microsoft Agent 365, שכעת זמין לגמרי, הורחב ושופר, כולל יכולות ואינטגרציות חדשות. החברה הכריזה על גרסת בטא של יכולות חדשות, כולל גילוי וניהול של סוכני AI באופן אוטומטי. זה כולל סוכני AI מקומיים כמו OpenClaw ו-Claude Code."
+  },
+  {
+    "id": "c68351ac613937bc",
+    "title_original": "Linux Kernel “Copy Fail” Local Privilege Escalation (LPE), CVE-2026-31431, Under Active Exploitation",
+    "url": "https://xmcyber.com/blog/linux-kernel-copyfail/",
+    "description": "Overview On April 29, 2026, cybersecurity researchers disclosed a high-severity logic vulnerability in the Linux kernel, tracked as CVE-2026-31431 and nicknamed “Copy Fail”. The...The postLinux Kernel “Copy Fail” Local Privilege Escalation (LPE), CVE-2026-31431, Under Active Exploitationappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-05-01T14:50:55+00:00",
+    "fetched_at": "2026-05-02T06:17:01.011802+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/linux-kernel-copyfail/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Linux Kernel “Copy Fail” Local Privilege Escalation (LPE), CVE-2026-31431, Under Active Exploitation",
+    "summary_he": "חוקרי ביטחון הסייבר חשפו פגם בקרנל לינוקס, שנקרא \"Copy Fail\", ומאפשר למשתמש מקומי לא מאומת לקבל זכויות ראשי. הפגם נוצר בעקבות שגיאה שנתגלתה 9 שנים לפני כן במערכת הקריפטוגרפית של הקרנל.",
+    "details_he": "הפגם, שצוין כ-CVE-2026-31431, מאפשר למשתמש מקומי לבצע פגיעה בבטיחות ה-Linux על ידי שימוש בתכונה ייחודית של הקרנל. הפגם נחשב כבעל חשיבות גבוהה, וכבר נמצאו תקצירי ראיות ציבוריים (PoC) פעילים. הפגם יכול להביא לפגיעה בזכויות ראשי, ואף לאפשר למשתמש מקומי לבצע פגיעה בכלי ראשי."
+  }
+]
