@@ -1,10 +1,17 @@
 {
-  "timestamp": "2026-05-02T06:17:10.359247+00:00",
-  "errors": [],
+  "timestamp": "2026-05-03T06:33:08.210503+00:00",
+  "errors": [
+    {
+      "title": "New Bluekit Phishing Kit Features AI Assistant",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1227)",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 10,
-  "fallback": 0,
-  "total_scanned": 67,
+  "success": 9,
+  "fallback": 1,
+  "total_scanned": 11,
   "selected": 10
 }
