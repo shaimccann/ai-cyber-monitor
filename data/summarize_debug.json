@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-03T06:33:08.210503+00:00",
+  "timestamp": "2026-05-04T06:47:29.425171+00:00",
   "errors": [
     {
-      "title": "New Bluekit Phishing Kit Features AI Assistant",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1227)",
+      "title": "ב-56 מיליארד דולר: גיימסטופ מנסה לבלוע את eBay",
+      "error": "JSON parse error: Unterminated string starting at: line 2 column 14 (char 15)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 11,
+  "total_scanned": 41,
   "selected": 10
 }
