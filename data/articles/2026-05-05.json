@@ -1,0 +1,212 @@
+[
+  {
+    "id": "41b00cefce7cc2cb",
+    "title_original": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "description": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-04T21:00:00+00:00",
+    "fetched_at": "2026-05-05T06:24:46.026422+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-pwc-finance-collaboration"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "summary_he": "PwC ו-OpenAI עובדים יחד לפיתוח זירת CFO שמשתמשת בטכנולוגיית AI. הם עובדים על פיתוח זירת CFO שתכלול זירות AI שיכולות לאוטומטיזר זרמי עבודה, לקשר בין מערכות, לגלות סיכונים ולהציג תוצאות.",
+    "details_he": "PwC ו-OpenAI עובדים יחד על פיתוח זירת CFO שתאפשר לצוותי הפיננסים לאוטומטיזר עבודה חוזרת, לקשר בין מערכות, לגלות סיכונים ולתמוך בהחלטות. הם עובדים על פיתוח זירת CFO שתכלול זירות AI שיכולות לאוטומטיזר זרמי עבודה, לקשר בין מערכות, לגלות סיכונים ולהציג תוצאות. PwC ו-OpenAI עובדים על פיתוח זירת CFO שתאפשר לצוותי הפיננסים לאוטומטיזר עבודה חוזרת, לקשר בין מערכות, לגלות סיכונים ולתמוך בהחלטות. זירות ה-AI יכולות לאוטומטיזר תהליכי תכנון, חיזוי, דיווח, קנייה, תשלומים, תשלומי חזרה, מס, וסגירת ספרי החשבון."
+  },
+  {
+    "id": "92e61b7ff1dc2ac3",
+    "title_original": "The latest AI news we announced in April 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+    "description": "mp4 featuring an underwater video and a mobile AI video mockup.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-05-04T17:00:00+00:00",
+    "fetched_at": "2026-05-05T06:24:47.132434+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The latest AI news we announced in April 2026",
+    "summary_he": "באפריל 2026, גוגל הציגה עדכונים חדשים בתחום האי, כולל פלטפורמת גמיני אנטרפרייז אג'נט וגמא 4, וכן כלי חדשים לאנליזה של מידע וליצירת וידאו.",
+    "details_he": "גוגל הציגה פלטפורמת גמיני אנטרפרייז אג'נט, שמאפשרת לעסקים לבנות זירות אי, וכן גמא 4, מודל פתוח חדש, וכלי חדשים לאנליזה של מידע וליצירת וידאו. כל אלה נועדו לסייע לעסקים לבנות זירות אי יעילות יותר. גוגל גם הציגה כלי חדשים ללמידה ולפיתוח, כגון גוגל וידס, שמאפשרת ליצור וידאו מקצועי בחינם. כל אלה נועדו לסייע לעסקים לבנות זירות אי יעילות יותר."
+  },
+  {
+    "id": "ca191e61baa70d18",
+    "title_original": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "description": "Gemini API",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-05-04T15:30:00+00:00",
+    "fetched_at": "2026-05-05T06:24:47.132434+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "summary_he": "Gemini API מאפשרת עתירת זמן יעילה יותר למשימות ארוכות-טווח עם Webhooks.",
+    "details_he": "Gemini API הוסיפה תמיכה ל-Webhooks, שהן תסכילי נודעים שמאפשרים למערכות לקבל התרעות באופן אוטומטי. זה יוצר תקשורת יעילה יותר ומורגשת פחות עבור משימות ארוכות-טווח, שעשויות לקחת דקות או שעות. Webhooks גם נותנים את האפשרות לקבל התרעות על סיום משימות, וזאת על ידי שליחת HTTP POST לשרת. זה יכול לשפר את יעילות הבנייה של מערכות ארוכות-טווח, כמו Deep Research, ייצור וידאו ועוד. "
+  },
+  {
+    "id": "cf8e8d94df62b359",
+    "title_original": "Building trust into AI",
+    "url": "https://www.amazon.science/blog/building-trust-into-ai",
+    "description": "Amazon scientists and policy experts discuss how the company’s responsible-AI pipeline embeds safety and values throughout the AI development lifecycle.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-05-04T15:07:58+00:00",
+    "fetched_at": "2026-05-05T06:24:48.944631+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/building-trust-into-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Building trust into AI",
+    "summary_he": "Amazon's responsible AI pipeline integrates safety, fairness, and accountability into AI development, addressing four phases from pretraining to deployment with a three-pronged strategy to anticipate risks, teach models to navigate ambiguity, and build adaptable systems.",
+    "details_he": "Amazon's responsible AI pipeline, developed in collaboration with its policy team, embeds safety and values throughout the AI development lifecycle, addressing four phases: pretraining, post-training, evaluation, and frontier-risk assessment. The pipeline is supported by over 70 internal and external RAI tools, more than 500 research papers, and tens of thousands of hours of employee training. Amazon's approach involves a three-pronged strategy to anticipate risks, teach models to navigate ambiguity, and build adaptable systems, guided by eight core pillars including safety, fairness, privacy, and transparency. This commitment to safety and responsibility is not new, as Amazon's RAI expertise from its Alexa AI organization has been a valuable resource in building its own large models."
+  },
+  {
+    "id": "9bff70a0081701ed",
+    "title_original": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "description": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-05T03:31:54+00:00",
+    "fetched_at": "2026-05-05T06:24:49.783281+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "summary_he": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+    "details_he": ""
+  },
+  {
+    "id": "e6e318c65e1829d4",
+    "title_original": "Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/",
+    "description": "Microsoft Defender Research observed a large-scale credential theft campaign that exemplifies this trend, using code of conduct-themed lures, a multi-step attack chain, and legitimate email services to distribute fully authenticated messages from attacker-controlled domains.The postBreaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromiseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-04T15:00:00+00:00",
+    "fetched_at": "2026-05-05T06:24:54.124580+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise",
+    "summary_he": "Microsoft Defender Research observed a large-scale credential theft campaign that exemplifies this trend, using code of conduct-themed lures, a multi-step attack chain, and legitimate email services to distribute fully authenticated messages from attacker-controlled domains.The postBreaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromiseappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "6a9fe53e78cf68ef",
+    "title_original": "Practical Package Security: The Unofficial Guide",
+    "url": "https://www.wiz.io/blog/practical-package-security-the-unofficial-guide",
+    "description": "Get actionable best practices to shrink your attack surface, protect execution environments, control package ingestion, and catch compromises early.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-04T14:00:00+00:00",
+    "fetched_at": "2026-05-05T06:24:58.150610+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/practical-package-security-the-unofficial-guide"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Practical Package Security: The Unofficial Guide",
+    "summary_he": "תקלות בספליין התקינה של פקג'ס עשויות להיות חלק מתוכנית תקיפה נפוצה, שבה התוקף זוכה לגישה לחשבון המתחזק או למערכת הבנייה, ואז פותח עדכון מזויף. המערכת נותנת לתוקף זמן קצר, לרוב שעות או ימים, עד שהתקיפה תתגלה.",
+    "details_he": "במרץ 2026, התקלות התרחשו בפקג'ס TeamPCP / Trivy-action ובפקג'ס Axios. בפקג'ס TeamPCP / Trivy-action, התוקף כפה 75 מתוך 76 תגי גרסה של trivy-action, והסתנן לסודות מכל פייפלין שרץ Trivy. בפקג'ס Axios, גרסאות מזויפות 1.14.1 ו-0.30.4 נשארו פעילות כ-3 שעות, מה שהיה מספיק זמן לגרום להשפעה. הפקג'ס TeamPCP / Trivy-action והפקג'ס Axios הציגו סכנה גדולה, כיוון שהם היו נמצאים בשימוש נרחב. המאמר זורק אור על האזור ההגנתי של שימוש בפקג'ס שלישי, ומציע עצות לשיפור הביטחון."
+  },
+  {
+    "id": "ad42965628d82a98",
+    "title_original": "4th May – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/4th-may-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 4th May, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Medtronic, a global medical device maker, has disclosed a cyberattack on its corporate IT systems. An unauthorized party accessed data, while the company reported no impact on products, operations, or financial systems. Threat […]The post4th May – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-04T13:49:31+00:00",
+    "fetched_at": "2026-05-05T06:24:57.895413+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/4th-may-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "4th May – Threat Intelligence Report",
+    "summary_he": "Check Point מציעה הגנה נגד תקלות אבטחה חדשות, כולל חדירה SQL ובריחת זהויות.",
+    "details_he": "Check Point IPS מציעה הגנה נגד תקלת אבטחה בשם cPanel Authentication Bypass (CVE-2026-41940) ו-LiteLLM SQL Injection (CVE-2026-42208). כמו כן, Check Point Threat Emulation ו-Harmony Endpoint מציעים הגנה נגד תקלה זו. תקלות אלה יכולות לגרום לאבדן נתונים ולהתקפות סייבר. השירותים של Check Point מספקים הגנה נגד תקלות אלה ומאפשרים למשתמשים להימנע מסכנות."
+  },
+  {
+    "id": "1f7286a07539f08d",
+    "title_original": "From Foundation to Force: Your Guide to Operationalizing Wiz at Scale",
+    "url": "https://www.wiz.io/blog/operationalizing-wiz-at-scale",
+    "description": "Following your foundation, operationalize Wiz across development, detection and response, and program maturity so your security program never stops getting stronger.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-04T12:00:00+00:00",
+    "fetched_at": "2026-05-05T06:24:58.150610+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/operationalizing-wiz-at-scale"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Foundation to Force: Your Guide to Operationalizing Wiz at Scale",
+    "summary_he": "בעקבות התפתחות הטכנולוגיה, צורכי הביטחון נעשים יותר מורכבים. כדי להתמודד עם האתגרים האלה, צוותי הביטחון צריכים להשתמש בכלים הנכונים, כולל דמוקרטיזציה עמוקה, תגובות זמניות ואוטומציה שמשלבת עם זרמי עבודה קיימים.",
+    "details_he": "התפתחות הטכנולוגיה של AI מאיצה את יצירת והפצת תוכנה, וגורמת לצורך בביטחון שיתפרש על כל שלבי המפתח. צוותי הביטחון צריכים להשתמש בכלים הנכונים, כולל דמוקרטיזציה עמוקה, תגובות זמניות ואוטומציה שמשלבת עם זרמי עבודה קיימים. ה-Wiz Champion Center נשאר כמדריך העיקרי לצוותי הביטחון, כדי לעזור להם להפעיל את הביטחון בקנה מידה."
+  },
+  {
+    "id": "989c5f983c713e7a",
+    "title_original": "Meet Wiz for M365: Bringing SaaS into the Security Graph",
+    "url": "https://www.wiz.io/blog/wiz-for-microsoft-365",
+    "description": "Secure Microsoft 365 and the cloud it powers — one platform, one graph, complete context.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-04T12:00:00+00:00",
+    "fetched_at": "2026-05-05T06:24:58.150610+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-for-microsoft-365"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Meet Wiz for M365: Bringing SaaS into the Security Graph",
+    "summary_he": "Wiz for M365 הפכה לזמינה לציבור, ומאפשרת תצפית אחידה, תקשורת והערכת סיכון, כחלק מה- Security Graph של Microsoft 365.",
+    "details_he": "Wiz for M365, שהפכה לזמינה לציבור, מאפשרת לצוותים להבין איך ההגדרות, הגישה והחשיפה של הנתונים קשורים לסיכון אמיתי באזור הענן הרחב, ולקחת פעולה להפחתתו. Wiz for M365 נותנת תצפית אחידה, תקשורת והערכת סיכון, כחלק מה- Security Graph של Microsoft 365, ומאפשרת לצוותים להבין איך הגדרות, גישה וחשיפה של נתונים קשורים לסיכון אמיתי באזור הענן הרחב. Wiz for M365 נותנת תצפית אחידה, תקשורת והערכת סיכון, כחלק מה- Security Graph של Microsoft 365, ומאפשרת לצוותים להבין איך הגדרות, גישה וחשיפה של נתונים קשורים לסיכון אמיתי באזור הענן הרחב."
+  }
+]
