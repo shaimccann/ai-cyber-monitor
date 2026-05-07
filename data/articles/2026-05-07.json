@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fa0579bec6a3eae5",
+    "title_original": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-06T19:06:55+00:00",
+    "fetched_at": "2026-05-07T06:45:02.500945+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "summary_he": "ServiceNow-AI's vLLM V0 to V1 migration focused on ensuring correctness before making corrections in reinforcement learning. The team fixed four key issues, including processed rollout logprobs and V1-specific runtime defaults, to achieve parity with the vLLM V0 reference. This approach allowed them to evaluate objective-level changes only after backend parity was restored.",
+    "details_he": "The migration involved a substantial rewrite of the vLLM V0 engine, with a deliberate narrow migration target: verifying that V1 returned rollout logprobs in the expected form and restoring backend parity before evaluating objective-level changes. The team identified four key issues that needed to be addressed: processed rollout logprobs, V1-specific runtime defaults, the inflight weight-update path, and the fp32 lm_head used for the final projection. By fixing these issues, the team was able to achieve close to the V0 trajectory across clip rate, KL, entropy, and reward in the final V1 run, as shown in Figure 1. This approach is crucial in reinforcement learning, where any discrepancy in how logprobs are computed can change the training dynamics."
+  },
+  {
+    "id": "de034408642b7d18",
+    "title_original": "5 gardening tips you can try right in Search",
+    "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+    "description": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-05-06T16:00:00+00:00",
+    "fetched_at": "2026-05-07T06:45:01.137422+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "5 gardening tips you can try right in Search",
+    "summary_he": "Google Search tools can aid gardeners in planning and maintaining their gardens, whether they're experienced or just starting out. The tools include visualization, scheduling, and real-time advice features. These features can help gardeners create unique and space-saving garden designs.",
+    "details_he": "Gardening trends are shifting towards whimsical 'chaos gardens' and space-saving mini plots. Google Search tools allow users to visualize layouts, build planting schedules, and source local supplies. Additionally, Search Live provides real-time care advice for plants, helping gardeners troubleshoot issues and receive expert guidance. This shift in gardening trends is reflected in increased searches for 'chaos flower garden' and 'mini garden', indicating a growing interest in unconventional and space-efficient gardening methods."
+  },
+  {
+    "id": "57a66dfc9990f608",
+    "title_original": "Navigating uncertainty in Amazon&apos;s middle-mile network",
+    "url": "https://www.amazon.science/blog/navigating-uncertainty-in-amazons-middle-mile-network",
+    "description": "Amazon engineers and scientists have created new tools to optimize delivery networks under uncertainty — and keep them adapting without missing a beat.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-05-06T13:37:38+00:00",
+    "fetched_at": "2026-05-07T06:45:03.064743+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/navigating-uncertainty-in-amazons-middle-mile-network"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Navigating uncertainty in Amazon&apos;s middle-mile network",
+    "summary_he": "Amazon's middle-mile network is a complex system that requires optimization under uncertainty. The company's engineers and scientists have developed new tools to simplify network design and enable risk-aware network design, allowing the network to adapt to various scenarios.",
+    "details_he": "The Amazon middle-mile team built tools that simplify network design by identifying consolidation points and use Monte Carlo methods and graph attention networks to enable risk-aware network design. This approach designs networks with built-in optionality, stress-testing them across hundreds of plausible scenarios to ensure resilience under uncertainty. The use of these tools allows Amazon to evaluate network designs across hundreds of plausible scenarios, ensuring that the network remains flexible and resilient under a variety of conditions. The optimization under uncertainty promises potential savings of 0.5%, which may seem small but is significant for real customer experiences."
+  },
+  {
+    "id": "d0d8ad8d957b547c",
+    "title_original": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+    "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+    "description": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself.  NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-06T11:30:20+00:00",
+    "fetched_at": "2026-05-07T06:45:02.824044+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+    "summary_he": "NVIDIA Spectrum-X, a cutting-edge AI-native Ethernet fabric, has set a new standard for gigascale AI, with its latest feature, Multipath Reliable Connection (MRC), enabling companies like OpenAI, Microsoft, and Oracle to achieve high performance, resilience, and scale in their AI training fabrics.",
+    "details_he": "NVIDIA Spectrum-X has been deployed by industry leaders, including OpenAI, Microsoft, and Oracle, to meet the demands of their large-scale AI training fabrics. MRC, a new protocol developed in collaboration with NVIDIA, allows for efficient load-balancing, high bandwidth, and rapid recovery from data loss, minimizing the impact of interruptions on long-running jobs. This advancement is a result of a strong collaboration between NVIDIA and industry leaders, with the goal of advancing the infrastructure required for the next generation of AI."
+  },
+  {
+    "id": "17a4b457258985de",
+    "title_original": "Five architects of the AI economy explain where the wheels are coming off",
+    "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-07T05:25:10+00:00",
+    "fetched_at": "2026-05-07T06:45:04.211595+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Five architects of the AI economy explain where the wheels are coming off",
+    "summary_he": "חמשת המהנדסים הבכירים של הכלכלה האי הסבירו שאפילו הטכנולוגיה המתקדמת ביותר נתקלת במגבלות פיזיות, ולא רק במחסור במעבדים.",
+    "details_he": "באירוע ה-Milken Global Conference בבוורלי הילס, חמשת המהנדסים הבכירים של הכלכלה האי דיברו על הקשיים שבפיתוח ה-AI, כולל מחסור במעבדים, וכן על הצורך בנתונים פיזיים כדי לאמן את המודלים. חמשת המהנדסים, שכוללים את ראש ה-ASML, ראש ה-Google Cloud, ראש Applied Intuition, ראש Perplexity וראש Logical Intelligence, דיברו על הקשיים שבפיתוח ה-AI ועל הצורך בשינויים בארכיטקטורה של הטכנולוגיה."
+  },
+  {
+    "id": "18266e09714f71c3",
+    "title_original": "Threat Brief: Exploitation of PAN-OS Captive Portal Zero-Day for Unauthenticated Remote Code Execution",
+    "url": "https://unit42.paloaltonetworks.com/captive-portal-zero-day/",
+    "description": "Unit 42 details CVE-2026-0300, a buffer overflow vulnerability in the PAN-OS User-ID Authentication Portal. Read now for details.The postThreat Brief: Exploitation of PAN-OS Captive Portal Zero-Day for Unauthenticated Remote Code Executionappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-05-07T00:00:53+00:00",
+    "fetched_at": "2026-05-07T06:45:10.211006+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/captive-portal-zero-day/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Exploitation of PAN-OS Captive Portal Zero-Day for Unauthenticated Remote Code Execution",
+    "summary_he": "Palo Alto Networks חשף חולשה באבטחת פאן-OS, האפשרת לתוקף לבצע קוד רחבה רחבה עם זכויות שורש בסיירים PA ו-VM. חולשה זו כבר נפגעה, ו-Palo Alto Networks מציעה מענה.",
+    "details_he": "Palo Alto Networks פרסמה התרעה לגבי CVE-2026-0300, הכוללת חולשה באבטחת פאן-OS. חולשה זו מאפשרת לתוקף לבצע קוד רחבה רחבה עם זכויות שורש בסיירים PA ו-VM, תוך שימוש בטרפדים מיוחדים. חולשה זו כבר נפגעה, ו-Palo Alto Networks מציעה מענה. Unit 42 רואה קשר בין חולשה זו לפעילות ספונסרית, ומציין שהתוקף השתמש בחולשה כדי לבצע קוד רחבה רחבה. פעילות זו כוללת גם פעילות של כלי טרפד ציבורי (EarthWorm, ReverseSocks5) ואימות ספציפי של Active Directory."
+  },
+  {
+    "id": "2f72e9ac6baca793",
+    "title_original": "​​Microsoft named an overall leader in KuppingerCole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report ​​",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/06/microsoft-named-an-overall-leader-in-kuppingercole-analysts-2026-emerging-ai-security-operations-center-soc-report/",
+    "description": "Microsoft is excited to be named an Overall Leader, and the Market Leader in the Kuppinger Cole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report, as we see automation and AI as core components of the future of cybersecurity.The post​​Microsoft named an overall leader in KuppingerCole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report ​​appeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-06T16:00:00+00:00",
+    "fetched_at": "2026-05-07T06:45:08.168085+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/06/microsoft-named-an-overall-leader-in-kuppingercole-analysts-2026-emerging-ai-security-operations-center-soc-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "​​Microsoft named an overall leader in KuppingerCole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report ​​",
+    "summary_he": "Microsoft נקבעה כמובילה כללית בדו\"ח KuppingerCole Analyst's 2026 Emerging AI Security Operations Center (SOC), וכמובילת שוק בתחום זה, כאשר ראותה כמרכיבים עיקריים של העתיד של הביטחון הסייבר.",
+    "details_he": "Microsoft קיבלה את הכבוד להיות נקבעה כמובילה כללית, וכמובילת שוק, בדו\"ח KuppingerCole Analyst's 2026 Emerging AI Security Operations Center (SOC), כאשר רואה את האוטומציה וה-SAI כמרכיבים עיקריים של העתיד של הביטחון הסייבר. הדו\"ח נחשב למקור חשוב למידע על תחום הביטחון הסייבר. Microsoft רואה את האוטומציה וה-SAI כדרכים חשובות לשפר את הביטחון הסייבר."
+  },
+  {
+    "id": "8011c34e5afe25bb",
+    "title_original": "ClickFix campaign uses fake macOS utilities lures to deliver infostealers",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/06/clickfix-campaign-uses-fake-macos-utilities-lures-deliver-infostealers/",
+    "description": "Threat actors are targeting macOS users with fake utility fixes that trick them into running malicious Terminal commands. This campaign evades traditional defenses by stealing credentials, wallets, and sensitive data.The postClickFix campaign uses fake macOS utilities lures to deliver infostealersappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-06T15:20:32+00:00",
+    "fetched_at": "2026-05-07T06:45:08.168085+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/06/clickfix-campaign-uses-fake-macos-utilities-lures-deliver-infostealers/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ClickFix campaign uses fake macOS utilities lures to deliver infostealers",
+    "summary_he": "Microsoft Defender Research חשף קמפיין גדול של גנבת זהויות, המשתמש בפישינג ובשירותי דואר חוקיים.",
+    "details_he": "הקמפיין, הנקרא ClickFix, משתמש בכלי תוכנה דמיוניים של macOS כדי להפיץ תוכנות 'infostealers' שמגנבות זהויות. הקמפיין כולל שלבי פישינג רב-שלביות ושימוש בשירותי דואר חוקיים. המחקר של Microsoft Defender Research חשף קמפיינים דומים בעבר, אך זהו הראשון שמשתמש באפשרות של 'code of conduct' כדי להפיץ פישינג."
+  },
+  {
+    "id": "fc70821c99519d0d",
+    "title_original": "The Jenkins Threat Landscape",
+    "url": "https://www.wiz.io/blog/jenkins-threat-risk-insights",
+    "description": "What usage patterns, plugin adoption, and configuration choices reveal about the Jenkins attack surface.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-06T15:10:07+00:00",
+    "fetched_at": "2026-05-07T06:45:12.121223+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/jenkins-threat-risk-insights"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Jenkins Threat Landscape",
+    "summary_he": "Jenkins, a widely used open-source automation server, poses significant security risks due to its central role in storing sensitive assets and its complex architecture. The server's vulnerabilities can lead to a full attack chain, including remote code execution and cloud environment compromise.",
+    "details_he": "Jenkins' widespread adoption, with over a third of cloud environments using it, contributes to its high-value target status. Core vulnerabilities remain a significant risk factor, with 59% of cloud environments using Jenkins experiencing instances vulnerable to critical-severity core vulnerabilities. Operational realities, such as slow patch cycles and deployment of unsupported versions, exacerbate these risks. Additionally, Jenkins' administrative-level local execution privileges and sensitive cloud permissions further increase the potential impact of successful exploitation."
+  },
+  {
+    "id": "4676144f0d26d431",
+    "title_original": "OceanLotus suspected of using PyPI to deliver ZiChatBot malware",
+    "url": "https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/",
+    "description": "Kaspersky researchers uncovered malicious wheel packages in PyPI that targeted both Windows and Linux and contained a dropper delivering malware dubbed ZiChatBot. We attribute this activity to OceanLotus APT.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-05-06T13:00:34+00:00",
+    "fetched_at": "2026-05-07T06:45:10.384981+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OceanLotus suspected of using PyPI to deliver ZiChatBot malware",
+    "summary_he": "בעקבות חקירה, נמצא כי OceanLotus עשה שימוש ב-PyPI לשליחת זירוזי ZiChatBot, זירוזי שהם תוכנות רשעות שלא נכתבו כדי להיות זירוזי, אלא כדי להציף תוכנות רשעות אחרות.",
+    "details_he": "החקירה הראתה כי OceanLotus יצר תוכנות רשעות שנקראו uuid32-utils, colorinal ו-termncolor, ואשר הן נראו כתוכנות חוקיות. התוכנות הללו היו תוכנות רשעות שהם תוכנות שהן כדי להציף תוכנות רשעות אחרות. התוכנות הללו היו תוכנות שהן כדי לשלוח תוכנות רשעות למחשבים של אנשים. התוכנות הללו היו תוכנות שהן כדי לשלוח תוכנות רשעות למחשבים של אנשים, ולאחר מכן, התוכנות הללו היו תוכנות שהן כדי לשלוח תוכנות רשעות למחשבים של אנשים. התוכנות הללו היו תוכנות שהן כדי לשלוח תוכנות רשעות למחשבים של אנשים, ולאחר מכן, התוכנות הללו היו תוכנות שהן כדי לשלוח תוכנות רשעות למחשבים של אנשים."
+  }
+]
