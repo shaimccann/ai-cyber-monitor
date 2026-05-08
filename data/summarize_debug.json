@@ -1,10 +1,17 @@
 {
-  "timestamp": "2026-05-07T06:47:33.809978+00:00",
-  "errors": [],
+  "timestamp": "2026-05-08T06:07:20.488256+00:00",
+  "errors": [
+    {
+      "title": "World Passkey Day: Advancing passwordless authentication",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 781)",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 10,
-  "fallback": 0,
-  "total_scanned": 101,
+  "success": 9,
+  "fallback": 1,
+  "total_scanned": 89,
   "selected": 10
 }

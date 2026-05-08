@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ec9a481c681afa83",
+    "title_original": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
+    "url": "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/",
+    "description": "AI will help build the energy it needs. That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck made Thursday morning at the SCSP AI+ Expo. The 30-minute fireside chat, moderated by SCSP president Ylli Bajraktari, was called “Powering the Next American Century.” Their argument: American […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-07T19:14:38+00:00",
+    "fetched_at": "2026-05-08T06:04:51.053741+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
+    "summary_he": "US Energy Secretary Chris Wright and NVIDIA's Ian Buck discussed the importance of energy in AI development, citing the Genesis Mission as a key example of collaboration between the US Department of Energy and NVIDIA.",
+    "details_he": "The Genesis Mission aims to apply AI to scientific discovery, with NVIDIA building AI supercomputers at Argonne National Laboratory. The project involves two AI supercomputers, Equinox and Solstice, which will use NVIDIA GPUs to accelerate scientific research. NVIDIA's Ian Buck emphasized the importance of collaboration and open-source technology in advancing world science, citing the development of an AI model trained on 1.5 million physics papers and fine-tuned on 100,000 papers about fusion."
+  },
+  {
+    "id": "4bac51572ee703e5",
+    "title_original": "Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/",
+    "description": "Less typing, more tanking. Faster logins mean more time in the gaming action — and this week provides GeForce NOW members with a smoother path straight into the battlefield. Cloud gaming is all about instant access to titles across devices, and the latest GeForce NOW update removes another layer for members jumping into their Gaijin […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-07T13:00:27+00:00",
+    "fetched_at": "2026-05-08T06:04:51.053741+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW",
+    "summary_he": "GeForce NOW members can now log in to Gaijin games with a single sign-on, making it easier to access their libraries from anywhere. This feature is part of a larger update that includes seven new games and improved performance for Ultimate members. The update aims to provide a smoother gaming experience.",
+    "details_he": "The Gaijin single sign-on feature allows members to link their Gaijin.net account to GeForce NOW, eliminating the need for extra logins. This is similar to the existing platform-linking magic members already enjoy with Xbox, Ubisoft Connect, and more. The update also includes seven new games, such as Dead as Disco and HUNTDOWN: OVERTIME, which are now available to stream on GeForce NOW. Ultimate members can enjoy these games with NVIDIA GeForce RTX 5080 performance, spanning nearly the full GeForce NOW library."
+  },
+  {
+    "id": "97750e0ef4a126e7",
+    "title_original": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-07T13:00:00+00:00",
+    "fetched_at": "2026-05-08T06:04:48.006805+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "summary_he": "בעקבות שחרור GPT-5.5, החברה משחררת גרסה חדשה, GPT-5.5-סייבר, שתסייע למאבטחי סייבר להגן על האקו-סיסטם. החברה רוצה להגן על האקו-סיסטם ולאפשר למאבטחי סייבר להגן על החברה.",
+    "details_he": "GPT-5.5-סייבר היא גרסה חדשה של GPT-5.5, שנועדה לסייע למאבטחי סייבר. החברה רוצה להגן על האקו-סיסטם ולאפשר למאבטחי סייבר להגן על החברה. GPT-5.5-סייבר תסייע למאבטחי סייבר להגן על האקו-סיסטם, ותאפשר להם להגן על החברה. החברה רוצה להגן על האקו-סיסטם ולאפשר למאבטחי סייבר להגן על החברה. GPT-5.5-סייבר תסייע למאבטחי סייבר להגן על האקו-סיסטם, ותאפשר להם להגן על החברה."
+  },
+  {
+    "id": "6bb3388b00675e01",
+    "title_original": "Parloa builds service agents customers want to talk to",
+    "url": "https://openai.com/index/parloa",
+    "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-07T11:00:00+00:00",
+    "fetched_at": "2026-05-08T06:04:48.006805+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/parloa"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Parloa builds service agents customers want to talk to",
+    "summary_he": "Parloa, a startup based in Berlin, is revolutionizing customer service with its AI Agent Management Platform (AMP), which enables non-technical teams to build and manage AI agents without writing code. AMP uses OpenAI models to simulate and evaluate customer conversations, allowing teams to define behavior in natural language and iterate quickly. This approach focuses on consistency in production, where performance and reliability are crucial.",
+    "details_he": "Parloa's early days involved building rule-based voice agents to automate high-volume customer interactions. However, with the emergence of ChatGPT, the company evolved to build its AI Agent Management Platform (AMP), which gives enterprises a way to design, deploy, and manage customer service interactions at scale. AMP allows teams to define behavior in natural language, connect to internal systems, and iterate quickly using built-in simulations and evaluations. Parloa continuously tests models against real customer scenarios before deploying them, ensuring consistency and reliability in production. The company's focus on collaboration with OpenAI has led to the development of fast and reliable models for real-time conversations."
+  },
+  {
+    "id": "2210362ba79ebe8b",
+    "title_original": "Advancing voice intelligence with new models in the API",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-07T10:00:00+00:00",
+    "fetched_at": "2026-05-08T06:04:48.006805+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Advancing voice intelligence with new models in the API",
+    "summary_he": "אנחנו מציגים חבילה חדשה של דגמי קול שמאפשרים רעיון קולי טוב יותר, כולל תרגום וכתיבה, בזמן אמת.",
+    "details_he": "הדגמים החדשים, GPT-Realtime-2, GPT-Realtime-Translate ו-GPT-Realtime-Whisper, מאפשרים למפתחים לבנות חוויות קוליות שמרגישות יותר טבעיות, ומגיבות יותר חכמות. זה יאפשר למפתחים לבנות תכנות קוליות שמסוגלות לשמוע, להבין, לתרגם ולכתוב, ולקחת פעולה בזמן אמת. זה יכול לשנות את הדרך שבה אנשים משתמשים בתוכנה, ולאפשר להם לבצע פעולות שונות בזמן אמת, כמו שינוי תוכניות נסיעה, או קבלת תמיכה בשפה שהם יודעים."
+  },
+  {
+    "id": "c3ba5575629d870b",
+    "title_original": "When prompts become shells: RCE vulnerabilities in AI agent frameworks",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
+    "description": "New research exposes how prompt injection in AI agent frameworks can lead to remote code execution. Learn how these vulnerabilities work, what’s impacted, and how to secure your agents.The postWhen prompts become shells: RCE vulnerabilities in AI agent frameworksappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-05-07T20:22:39+00:00",
+    "fetched_at": "2026-05-08T06:04:56.062675+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When prompts become shells: RCE vulnerabilities in AI agent frameworks",
+    "summary_he": "חוקרים גילו פגמים במסגרות פרוגרסמים לאי שכוונים, שמאפשרים התקפות רחוקות. פגמים אלה יכולים לגרום להפעלת קוד רחוק.",
+    "details_he": "חוקרים גילו כי פגמים אלה נובעים מהזנה של פרומפטים במסגרות הפרוגרסם. פגמים אלה יכולים לגרום להפעלת קוד רחוק, וכן לפגוע בביטחון של פרוגרסמים. חברות רבות, כולל Microsoft, חויבו להתחשב בפגמים אלה ולפעול לשם תיקונם."
+  },
+  {
+    "id": "8d7127ef2a326cbf",
+    "title_original": "World Passkey Day: Advancing passwordless authentication",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/",
+    "description": "This World Passkey Day, read how Microsoft is advancing passkey adoption to replace passwords, cut phishing risk, and deliver simpler, more secure sign-ins.The postWorld Passkey Day: Advancing passwordless authenticationappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-07T16:00:00+00:00",
+    "fetched_at": "2026-05-08T06:04:56.062675+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "World Passkey Day: Advancing passwordless authentication",
+    "summary_he": "This World Passkey Day, read how Microsoft is advancing passkey adoption to replace passwords, cut phishing risk, and deliver simpler, more secure sign-ins.The postWorld Passkey Day: Advancing passwordless authenticationappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "d3e36e5d974a692f",
+    "title_original": "World Password Day 2026: Why “Strong Passwords” Can’t Save You from AI, Infostealers, and the Telegram Underground",
+    "url": "https://blog.checkpoint.com/security/world-password-day-2026-why-strong-passwords-cant-save-you-from-ai-infostealers-and-the-telegram-underground/",
+    "description": "As we recognize World Password Day in 2026, the traditional advice to “use a complex password with numbers and symbols” feels hopelessly outdated. Today, a 16-character password is useless if an infostealer malware extracts it directly from a browser cache, or if an employee willingly pastes it into an unmanaged AI chatbot. Welcome to the real World Password Day 2026. Not the one where we remind you to add an exclamation mark to “Password123.” The one where we pull back the curtain on the global industrial marketplace that has quietly been built on the back of our collective password failures — a […]The postWorld Password Day 2026: Why “Strong Passwords” Can’t Save You from AI, Infostealers, and the Telegram Undergroundappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-07T13:00:56+00:00",
+    "fetched_at": "2026-05-08T06:05:09.551520+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/world-password-day-2026-why-strong-passwords-cant-save-you-from-ai-infostealers-and-the-telegram-underground/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "World Password Day 2026: Why “Strong Passwords” Can’t Save You from AI, Infostealers, and the Telegram Underground",
+    "summary_he": "ביום הסיסמאות העולמי 2026, התקצור המסורתי לסיסמאות 'מורכבות' נראה כאילו לא קיים. הסיסמאות המורכבות כבר אינן יעילות בפני תופעות כגון זיהוי סיסמאות ישירות מקובצי הדפדפן או על ידי חטיפת סיסמאות על ידי רובוטים AI.",
+    "details_he": "ביום הסיסמאות העולמי 2026, הסיסמאות המורכבות המסורתיות נראות כאילו לא קיימות. הסיסמאות המורכבות כבר אינן יעילות בפני תופעות כגון זיהוי סיסמאות ישירות מקובצי הדפדפן או על ידי חטיפת סיסמאות על ידי רובוטים AI. הסיסמאות המורכבות כבר אינן יעילות בפני תופעות כגון זיהוי סיסמאות ישירות מקובצי הדפדפן. הסיסמאות המורכבות כבר אינן יעילות בפני תופעות כגון זיהוי סיסמאות ישירות מקובצי הדפדפן. הסיסמאות המורכבות כבר אינן יעילות בפני תופעות כגון זיהוי סיסמאות ישירות מקובצי הדפדפן."
+  },
+  {
+    "id": "3baa29df3a00cb19",
+    "title_original": "Build Fast, Build Secure: Wiz findings are now in Lovable",
+    "url": "https://www.wiz.io/blog/introducing-wiz-lovable-integration",
+    "description": "With Wiz in Lovable, every builder can catch and fix risks in real time, keeping apps secure as they’re created",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-07T13:00:00+00:00",
+    "fetched_at": "2026-05-08T06:04:59.974839+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-lovable-integration"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Build Fast, Build Secure: Wiz findings are now in Lovable",
+    "summary_he": "Wiz הצגת תוצאות באופן ישיר ל-Lovable, מאפשרת לצוותי אבטחה לסרוק את הפרויקטים שלהם ב-Lovable ולזהות חולשות אבטחה. זה מאפשר לצוותי אבטחה להתאים את מדדי האבטחה שלהם לפרויקטים שלהם.",
+    "details_he": "Wiz הצגת תוצאות באופן ישיר ל-Lovable, מאפשרת לצוותי אבטחה לסרוק את הפרויקטים שלהם ב-Lovable ולזהות חולשות אבטחה. זה מאפשר לצוותי אבטחה להתאים את מדדי האבטחה שלהם לפרויקטים שלהם. הפרויקט כולל תכונות כגון סריקת חולשות אבטחה, סריקת סודות וסריקת הגדרות. זה מאפשר לצוותי אבטחה לסרוק את הפרויקטים שלהם ב-Lovable ולזהות חולשות אבטחה. זה גם מאפשר לצוותי אבטחה להתאים את מדדי האבטחה שלהם לפרויקטים שלהם."
+  },
+  {
+    "id": "a66650d64192d6d5",
+    "title_original": "It's Time to Go After Achieving Zero Code Criticals",
+    "url": "https://www.wiz.io/blog/wiz-zero-code-criticals-challenge",
+    "description": "Ready to hit Zero Code Criticals? Here's how Wiz helps you get there and stay there, with the badge to prove you did.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-07T12:00:00+00:00",
+    "fetched_at": "2026-05-08T06:04:59.974839+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-zero-code-criticals-challenge"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "It's Time to Go After Achieving Zero Code Criticals",
+    "summary_he": "Wiz מציעה פתרון לבעיות בקוד של תוכנות, על ידי חיזוק אבטחת קוד, ואפשרות לתיקון חריגות בזמן אמת.",
+    "details_he": "Wiz פיתחה כלים לאבטחת קוד, כולל ראיה דינמית של AI-BOM, גדרי אבטחה מבונה, ואפשרות לתיקון חריגות בזמן אמת. הכלים האלה מאפשרים לצוותי פיתוח לזהות ולתקן חריגות בקוד, לפני שהם יצאו לשוק. Wiz מציעה תוכנית להשגת 'Zero Code Criticals', שבה צוותי פיתוח יכולים להשיג תוצאות אבטחה טובות, בלי לעכב את תהליך הפיתוח."
+  }
+]
