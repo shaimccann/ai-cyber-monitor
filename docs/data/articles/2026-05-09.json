@@ -1,0 +1,212 @@
+[
+  {
+    "id": "66a02c6d52e7fe9e",
+    "title_original": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+    "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+    "description": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience all depend on network models with realistic […]The postBuilding realistic electric transmission grid dataset at scale: a pipeline from open datasetappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-08T19:53:56+00:00",
+    "fetched_at": "2026-05-09T06:23:04.694225+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+    "summary_he": "Research team at Microsoft has developed a pipeline to create realistic electric transmission grid models using publicly available data, addressing a long-standing challenge in power systems research.",
+    "details_he": "The pipeline, which has been validated across the continental United States, enables the creation of large-scale, transmission-level power grid models that accurately approximate existing networks. This is particularly significant for data-driven and AI-based approaches, which require large volumes of physically plausible grid data for training and evaluation. The open dataset released by Microsoft Research includes models spanning 48 U.S. states and multi-state interconnections, supporting AC optimal power flow analysis and enabling the study of congestion, capacity, and demand siting without restricted data. This breakthrough has the potential to facilitate the development of actionable solutions for the power grid, addressing modern stresses and challenges in the system."
+  },
+  {
+    "id": "e79be914c57801ee",
+    "title_original": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-08T17:41:05+00:00",
+    "fetched_at": "2026-05-09T06:23:05.573110+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "summary_he": "Defensive cybersecurity requires models that are small, specialized, and locally runnable to avoid expensive API calls, sensitive data breaches, and high costs. Local models can be deployed in air-gapped environments and can run on consumer GPUs, making them more accessible. A 4B fine-tuned model can match or beat an 8B specialist in specific cyber threat intelligence tasks.",
+    "details_he": "The article highlights the importance of defensive cybersecurity models that can be run locally, without relying on expensive API calls or cloud services. This is particularly crucial in critical infrastructure, healthcare, and government work, where air-gapped environments are common. The authors of CyberSecQwen-4B argue that a small, specialized model is more effective than a generalist model, even if it's larger in size. They tested their 4B fine-tuned model against a strong public baseline and found that it exceeded its accuracy in certain tasks while retaining most of its accuracy in others. This suggests that a smaller model can be a more practical and cost-effective solution for defenders."
+  },
+  {
+    "id": "e5bbede994ad9f3d",
+    "title_original": "EMO: Pretraining mixture of experts for emergent modularity",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-08T16:03:50+00:00",
+    "fetched_at": "2026-05-09T06:23:05.573110+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/emo"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "EMO: Pretraining mixture of experts for emergent modularity",
+    "summary_he": "מודל EMO, שפותח על ידי Allen AI, מאפשר לשימוש בקבוצה קטנה של 'אקספרטים' במודל, כדי לשמור על ביצועים גבוהים. המודל נלמד ונלמד כולו, כך שהמבנה המודולרי שלו נוצר ישירות מהנתונים.",
+    "details_he": "EMO, מודל המבוסס על 'מיקסטור של אקספרטים' (MoE), מפתח תוכנה של Allen AI, מאפשר לשימוש בקבוצה קטנה של 'אקספרטים' במודל, כדי לשמור על ביצועים גבוהים. המודל נלמד ונלמד כולו, כך שהמבנה המודולרי שלו נוצר ישירות מהנתונים. המודל EMO, שפותח על ידי Allen AI, מאפשר לשימוש בקבוצה קטנה של 'אקספרטים' במודל, כדי לשמור על ביצועים גבוהים. המודל נלמד ונלמד כולו, כך שהמבנה המודולרי שלו נוצר ישירות מהנתונים. המודל EMO, שפותח על ידי Allen AI, מאפשר לשימוש בקבוצה קטנה של 'אקספרטים' במודל, כדי לשמור על ביצועים גבוהים. "
+  },
+  {
+    "id": "569d276a6a665aff",
+    "title_original": "See what happens when creative legends use AI to make ads for small businesses.",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+    "description": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-05-08T15:00:00+00:00",
+    "fetched_at": "2026-05-09T06:23:04.262407+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "See what happens when creative legends use AI to make ads for small businesses.",
+    "summary_he": "Google's AI initiative, The Small Brief, brings together industry icons to create ads for local businesses using its AI creative studio, Flow.",
+    "details_he": "The initiative, led by Jayanta Jenkins, Tiffany Rolfe, and Susan Credle, aims to showcase the storytelling power of AI and inspire other creatives and small businesses to explore it. The industry icons were given unlimited access to Google's AI creative studio, Flow, to create breakthrough campaigns for businesses such as Archangels, South Ferry, and Stonewood Farm. Google's AI tools aim to help small businesses achieve big-brand impact by empowering them to create high-quality ads and streamline workflows."
+  },
+  {
+    "id": "bb9d94387ce8cf0c",
+    "title_original": "Running Codex safely at OpenAI",
+    "url": "https://openai.com/index/running-codex-safely",
+    "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-08T12:30:00+00:00",
+    "fetched_at": "2026-05-09T06:23:03.149510+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/running-codex-safely"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Running Codex safely at OpenAI",
+    "summary_he": "OpenAI's Codex is designed to operate within clear boundaries, allowing developers to work efficiently while maintaining safety controls. The platform uses telemetry to monitor and audit the agent's actions, and approvals are required for higher-risk activities. Auto-review mode reduces the need for manual approvals for routine tasks.",
+    "details_he": "To govern the behavior of Codex, OpenAI employs a range of controls, including managed configuration, constrained execution, network policies, and agent-native logs. The platform's sandboxing feature defines the technical execution boundary, while approval policies determine when Codex must ask for permission to perform an action. Auto-review mode uses a subagent to automatically approve low-risk actions, reducing the need for manual approvals. Additionally, OpenAI's managed network policy restricts Codex's access to the network, allowing it to complete common workflows without compromising safety."
+  },
+  {
+    "id": "749b0ac3d1c0b738",
+    "title_original": "Linux Kernel “Dirty Frag” Local Privilege Escalation (LPE), CVE-2026-43284 & CVE-2026-43500",
+    "url": "https://xmcyber.com/blog/linux-kernel-dirty-frag-local-privilege-escalation-lpe-cve-2026-43284-and-43500/",
+    "description": "Overview On May 8, 2026, cybersecurity researchers disclosed a critical vulnerability chain in the Linux kernel, nicknamed “Dirty Frag.” Tracked as CVE-2026-43284 and CVE-2026-43500,...The postLinux Kernel “Dirty Frag” Local Privilege Escalation (LPE), CVE-2026-43284 & CVE-2026-43500appeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-05-09T06:07:00+00:00",
+    "fetched_at": "2026-05-09T06:23:24.288909+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/linux-kernel-dirty-frag-local-privilege-escalation-lpe-cve-2026-43284-and-43500/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Linux Kernel “Dirty Frag” Local Privilege Escalation (LPE), CVE-2026-43284 & CVE-2026-43500",
+    "summary_he": "חברי צוות בתחום הביטחון הסייבר חשפו חולשה קריטית ב-Linux kernel, הידועה בשם 'Dirty Frag'. החולשה, המסומנת כ-CVE-2026-43284 ו-CVE-2026-43500, מאפשרת למשתמש מקומי לקבל זכויות root על ידי שרשרת שני חולשות נפרדות במערכת הרשת (ESP ו-RxRPC).",
+    "details_he": "החולשה 'Dirty Frag' נוצרת על ידי השימוש באופטימיזציה 'zero-copy' של ה-Linux kernel. התוקף יכול לקשר קובץ מערכת קריא-שלולא (כגון קובץ root-owned) לתיבת רשת. כאשר ה-Linux kernel מבצע הצפנה 'in-place' על התיבה, הוא כותב בטעות את הגרסה המצורפת של הקובץ הספיציפי בזיכרון. זה יכול לאפשר לתוקף לקבל זכויות root. החולשה 'Dirty Frag' נחשבת לאחת החולשות הקריטיות ביותר ב-Linux kernel, והיא יכולה להיות מונצלת על ידי תוקפים רבים. "
+  },
+  {
+    "id": "c1f88c16a59fd918",
+    "title_original": "A Framework for AI Threat Readiness",
+    "url": "https://www.wiz.io/blog/ai-threat-readiness-framework",
+    "description": "AI models now find and exploit zero-days autonomously. This 4-pillar framework accelerates patching, analysis, and threat response.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-05-08T18:42:17+00:00",
+    "fetched_at": "2026-05-09T06:23:14.838496+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/ai-threat-readiness-framework"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A Framework for AI Threat Readiness",
+    "summary_he": "AI models have accelerated vulnerability discovery and exploitation, forcing organizations to adapt and prepare for a new world of risk. This shift is driven by the speed of action and breadth of visibility, requiring a continuous reduction in the time between identification, validation, and remediation. As a result, organizations must move faster in assessing exposure, prioritizing what matters, and remediating issues before they can be exploited.",
+    "details_he": "The recent advancements in AI models have fundamentally changed the way vulnerabilities are found and exploited. Published research has shown that frontier models can autonomously discover zero-day vulnerabilities, generate working exploits, and chain multiple weaknesses together. This has accelerated the pace of vulnerability discovery and exploitation, with the time between discovery and exploitation continuing to shrink. In response, organizations must adapt and prepare for a new world of risk, where the gap between exposure and exploitation is shrinking. This requires a continuous reduction in the time between identification, validation, and remediation across code, infrastructure, and runtime. Furthermore, organizations must have breadth of visibility across the full environment, including cloud, code, private infrastructure, SaaS, and the software supply chain, and different levels of analysis, from baseline detection to deeper, AI-driven analysis of complex and exploitable risk."
+  },
+  {
+    "id": "c49848c3fcea809d",
+    "title_original": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
+    "description": "Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring limited in-the-wild activity and provides detection coverage for exploitation attempts.The postActive attack: Dirty Frag Linux vulnerability expands post-compromise riskappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-08T17:12:46+00:00",
+    "fetched_at": "2026-05-09T06:23:10.552833+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
+    "summary_he": "תקיפה פעילה: חולשה ב-Linux 'Dirty Frag' מגדילה את הסיכון לאחר פריצה",
+    "details_he": "חולשה חדשה ב-Linux, הידועה כ-'Dirty Frag', מאפשרת העלאה של זכויות רשות ממשתמש ללא זכויות לזכויות רשות, דרך יחידות ניהול רשת והתממשקים של זיכרון-שבר. זה כולל esp4, esp6 (CVE-2026-43284), ו-rxrpc (CVE-2026-43500). דיווחים ציבוריים ופרוטוקולי-הוכחה מצביעים על כך שהתקיפה תוכננה להגדיל את האמינות של העלאת זכויות רשות, בהשוואה לטכניקות ספורדיות של העלאת זכויות רשות ב-Linux. "
+  },
+  {
+    "id": "9f8c2a05edc3cfa9",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 19",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-19-7/",
+    "description": "Karakurt and DPRK facilitators sentenced, PCPJack worm steals cloud credentials while evicting rivals, and attackers exploit an unpatched PAN-OS zero-day.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-05-08T13:00:14+00:00",
+    "fetched_at": "2026-05-09T06:23:14.456759+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-19-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 19",
+    "summary_he": "Karakurt and DPRK facilitators sentenced, PCPJack worm steals cloud credentials while evicting rivals, and attackers exploit an unpatched PAN-OS zero-day.",
+    "details_he": ""
+  },
+  {
+    "id": "dc9f941841ed3292",
+    "title_original": "See and Secure Everything at the Edge with Wiz and Akamai",
+    "url": "https://www.wiz.io/blog/introducing-wiz-akamai-integration",
+    "description": "Akamai edge configurations are now visible on the Wiz Security Graph, giving teams a single understanding of risk from edge to runtime",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-08T12:00:02+00:00",
+    "fetched_at": "2026-05-09T06:23:14.838496+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-akamai-integration"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "See and Secure Everything at the Edge with Wiz and Akamai",
+    "summary_he": "Wiz ו-Akamai הציגו פתרון לסכנות הגבול, על ידי חברת Wiz, הפלטפורמה נותנת ראות יציבה לצוותי הביטחון וההנדסה, ובאמצעות השילוב עם Akamai, זו הראות נמשכה עד למקום בו התנועה נכנסת לאינטרנט.",
+    "details_he": "הפלטפורמה Wiz נותנת ראות יציבה לצוותי הביטחון וההנדסה, ובאמצעות השילוב עם Akamai, זו הראות נמשכה עד למקום בו התנועה נכנסת לאינטרנט. השילוב נותן לצוותי הביטחון ראות יציבה יחסית, ומאפשר להם לזהות ולתקן תצורות גבול שאינן נכונות. כך, ניתן לצמצם את הסכנות הקיימות בגבול, ולהבטיח את יציבות המערכת."
+  }
+]
