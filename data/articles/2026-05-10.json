@@ -1,0 +1,170 @@
+[
+  {
+    "id": "c0d46d72efbfcf92",
+    "title_original": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-09T18:09:28+00:00",
+    "fetched_at": "2026-05-10T06:39:10.909100+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "summary_he": "OncoAgent היא מערכת תמיכה להחלטות רפואיות שמשלבת תכונות של חסימת פרטיות ומתקדמת, ומיועדת לטיפול במחלות סרטן. היא משלבת תכונות של חסימת פרטיות ומתקדמת, ומאפשרת למערכת להציע המלצות רפואיות באופן פרטי.",
+    "details_he": "OncoAgent היא מערכת פתוחה שמאפשרת למערכת להציע המלצות רפואיות באופן פרטי, ומשלבת תכונות של חסימת פרטיות ומתקדמת. היא משלבת תכונות של LangGraph, RAG ו-QLoRA, ומאפשרת למערכת להציע המלצות רפואיות באופן פרטי. המערכת נבנתה על שלושה עקרונות עיקריים: פיצול הארכיטקטורה, חסימת פרטיות ומתקדמת, והצגת המלצות רפואיות באופן פרטי. המערכת נבנתה על ידי קבוצת מחקר OncoAgent, והיא זמינה באופן פתוח."
+  },
+  {
+    "id": "5f636fff8341cbef",
+    "title_original": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-10T02:00:00+00:00",
+    "fetched_at": "2026-05-10T06:39:12.889532+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "summary_he": "Wispr Flow, a Bay Area-headquartered startup, is making significant strides in India's voice AI market despite the country's linguistic complexity and uneven monetization patterns. The company's AI-powered voice input software has seen rapid growth in India, with Hinglish support being a key factor in its success. Wispr Flow is now expanding its operations in India, planning to offer broader multilingual voice support and lower pricing.",
+    "details_he": "Wispr Flow's growth in India is driven by the country's widespread habit of mixing Hindi and English in everyday conversations, particularly in personal communication. The startup has seen faster growth following the rollout of Hinglish support, with users increasingly using its product in personal apps such as messaging platforms and social media. India has emerged as Wispr Flow's second-largest market after the U.S. in terms of both users and revenue, with growth accelerating following the startup's recent India-focused push. The company is now planning to expand its operations in India, including a local hiring push and lower pricing, in order to reach a broader audience and increase its market share."
+  },
+  {
+    "id": "66069203e0577851",
+    "title_original": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-09T21:45:00+00:00",
+    "fetched_at": "2026-05-10T06:39:12.889532+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "summary_he": "Artificial intelligence is rapidly evolving, creating a new language to describe its capabilities. A glossary of key terms is necessary to understand the field, as even experts are sometimes confused by the terminology.",
+    "details_he": "The AI field is characterized by its use of complex terminology, with terms like AGI, AI agent, API endpoints, and chain of thought being used to describe various concepts. These terms are often used interchangeably or with different meanings by different experts, making it difficult to understand the field. A glossary like this one aims to clarify these terms and provide a better understanding of the rapidly evolving AI landscape."
+  },
+  {
+    "id": "b58d39e38ece591c",
+    "title_original": "אחרי שינוי קריירה מדהים, יש לו המלצה - תעשו את הדבר הקטן הזה לפני השינה ולא תישחקו",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001542125#utm_source=RSS",
+    "description": "עם מי מדברים? יובל פסוב, Global Founder Advocate בגוגל • על מה מדברים? המפות שיכולות לעזור להגשים מטרות, איך להפוך את ה-AI ליועץ האסטרטגי שלך, ההבדל ביחס למנהל בין תרבויות שונות - וגם על הרגע בו הבין מדוע אסור לשכוח את הלב בקריירה",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-05-09T16:00:00+00:00",
+    "fetched_at": "2026-05-10T06:41:38.541567+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001542125#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "אחרי שינוי קריירה מדהים, יש לו המלצה - תעשו את הדבר הקטן הזה לפני השינה ולא תישחקו",
+    "summary_he": "יובל פסוב, Global Founder Advocate בגוגל, מדבר על חשיבות פיתוח מפות ושימוש ב-AI להגשמת מטרות. הוא גם מדגיש את החשיבות של לא לשכוח את הלב בקריירה. פסוב ממליץ לבצע פעולה קטנה לפני השינה.",
+    "details_he": "יובל פסוב, Global Founder Advocate בגוגל, מדבר על האפשרויות של שימוש ב-AI להגשמת מטרות. הוא טוען שמפות יכולות לעזור לאנשים להגשים את מטרותיהם. פסוב גם מדגיש את החשיבות של לא לשכוח את הלב בקריירה, וממליץ לבצע פעולה קטנה לפני השינה. פסוב גם דן בהבדלים ביחס למנהל בין תרבויות שונות."
+  },
+  {
+    "id": "0b18f77999758784",
+    "title_original": "Nvidia has already committed $40B to equity AI deals this year",
+    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "description": "Nvidia continues to be a big investor in the AI ecosystem.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-09T14:43:30+00:00",
+    "fetched_at": "2026-05-10T06:39:12.889532+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Nvidia has already committed $40B to equity AI deals this year",
+    "summary_he": "Nvidia continues to invest heavily in the AI ecosystem, with over $40 billion committed to equity investments in AI companies this year, according to CNBC. This significant investment is part of the company's efforts to establish itself as a major player in the AI market. The chipmaker has made several multi-billion dollar investments in publicly traded companies, including a recent deal to invest up to $3.2 billion in Corning and up to $2.1 billion in IREN.",
+    "details_he": "Nvidia's investment in the AI ecosystem is not without controversy, with some critics arguing that the deals are circular and simply move money back and forth between the same companies. However, Wedbush Securities analyst Matthew Bryson suggests that if successful, these investments could help Nvidia build a competitive moat. The company has already participated in around two dozen investment rounds in private startups in 2026, in addition to its 67 venture deals in 2025."
+  },
+  {
+    "id": "33953aedc4ba67be",
+    "title_original": "JDownloader site hacked to replace installers with Python RAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+    "description": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-05-09T15:27:58-04:00",
+    "fetched_at": "2026-05-10T06:39:13.768610+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "JDownloader site hacked to replace installers with Python RAT malware",
+    "summary_he": "תקיפה חבלנית באתר JDownloader הובילה להורדת תקיפות ראשוניות על פלטפורמות Windows ו-Linux. התקיפה נכנסה למערכת הניהול של האתר ושינתה קישורים כדי להוריד תקיפות.",
+    "details_he": "אתר JDownloader, המשמש כמנהל הורדות פופולרי, נתקל בתקיפה חבלנית המאפשרת הורדת תקיפות ראשוניות על פלטפורמות Windows ו-Linux. התקיפה, שהתרחשה בין 6 ל-7 במאי 2026, הובילה להורדת תקיפות ראשוניות על Windows ו-Linux. התקיפה נכנסה למערכת הניהול של האתר ושינתה קישורים כדי להוריד תקיפות. התקיפה לא הצליחה לקבל גישה למערכת הסרבר התחתונה. הפיצוי הורדה רק את המורדות החדשים של Windows ו-Linux. הפיצוי העברי לא הושפע."
+  },
+  {
+    "id": "481fd46f05e01ece",
+    "title_original": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+    "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+    "description": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the \"feature::LOADFEATUREFILE\" adminbin call that could result",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-05-09T12:46:00+05:30",
+    "fetched_at": "2026-05-10T06:39:14.066354+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+    "summary_he": "cPanel ו-WHM השיקו תיקונים לשלוש חולשות חדשות, ומומלץ לעדכן בחירוף נימוס. החולשות יכולות להביא להרחבת זכויות, רצון קוד, ושביתת-עבודה.",
+    "details_he": "cPanel ו-WHM השיקו תיקונים לשלוש חולשות חדשות, שעלולות להביא להרחבת זכויות, רצון קוד, ושביתת-עבודה. החולשות כוללות חולשה באבטחת קובץ, חולשה באבטחת API, וחולשה באבטחת קישורי סימבול. החולשות נפתרו בגרסאות 11.136.0.9 ומעלה, 11.134.0.25 ומעלה, וכדומה. cPanel מומלץ לעדכן לגרסאות האחרונות כדי להבטיח את האבטחה."
+  },
+  {
+    "id": "19ca4b170f994b87",
+    "title_original": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+    "description": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-05-09T10:26:03-04:00",
+    "fetched_at": "2026-05-10T06:39:13.768610+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+    "summary_he": "במהלך השבוע, רפוזיטוריום מזויף של OpenAI על Hugging Face הפיץ סוג של נגזרת-מידע (infostealer) של מל\"ט. הרפוזיטוריום, שהגיע למקום הראשון ברשימת הפופולריות של Hugging Face, קיבל 244,000 הורדות לפני שהפלטפורמה השיגה את המידע והסירה אותו.",
+    "details_he": "הרפוזיטוריום, שנקרא Open-OSS/privacy-filter, דמה לרפוזיטוריום רשמי של OpenAI, וכלל קוד פייתון (loader.py) שהורד על ידי 244,000 משתמשים. הקוד, שנועד להפיץ נגזרת-מידע, גם הפעיל תכונות של חקירה נגד-אנליזה, כדי למנוע ממערכות הבקרה לזהותו. הנגזרת-מידע, שנקראה sefirah, יצאה מתוך Rust, וגנבה נתונים רבים, כולל נתוני דפדפן, טוקן-דיסקורד, וסודות כספיים. הנתונים נשלחו לשרת-פיקוח (C2) באתר recargapopular[.]com."
+  }
+]
