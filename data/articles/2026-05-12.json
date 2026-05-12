@@ -1,0 +1,212 @@
+[
+  {
+    "id": "9fcfd27b2a552f72",
+    "title_original": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-11T23:18:26+00:00",
+    "fetched_at": "2026-05-12T06:42:53.571594+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "summary_he": "אף שהגדילה במודלי הבסיס (foundation models) הייתה תמיד מוגדרת כהשקעה במשאבי מחשב, נראה כי הגבולות של הגדילה השתנו. הגדילה במודלים כיום כוללת גם גדילה באמצעות אימון פוסט-טריינינג ובאמצעות מחשוב בזמן הערכה.",
+    "details_he": "בעבר, הגדילה במודלי הבסיס הייתה מוגדרת כהשקעה במשאבי מחשב. עם זאת, נראה כי הגבולות של הגדילה השתנו. ניבדא (NVIDIA) הציגה את 'חוקי הגדילה של AI' (AI's Three Scaling Laws), שמדגישים שהגדילה במודלים כיום כוללת גם גדילה באמצעות אימון פוסט-טריינינג ובאמצעות מחשוב בזמן הערכה. זאת, בנוסף לגדילה באמצעות אימון קודם. הגדילה במודלים כיום דורשת תשתית תקינה, כולל מחשוב עם מעבדי מצופים, רשת נמוכת-תזמון ומאגרי הזנה מחולקים. כמו כן, דורשת תכנון טוב יותר של משאבי המחשב, וצורך באבזורי תצפית (observability) כדי לשמור על תקינות הקלסטר ולאבחן תסמיני בעיות בביצועים."
+  },
+  {
+    "id": "f72baf50c5fb038f",
+    "title_original": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
+    "url": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+    "description": "Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest.The postSocialReasoning-Bench: Measuring whether AI agents act in users’ best interestsappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-11T17:19:28+00:00",
+    "fetched_at": "2026-05-12T06:42:52.949354+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
+    "summary_he": "SocialReasoning-Bench, a new benchmark, evaluates the ability of AI agents to act in users' best interests in social contexts, such as calendar coordination and marketplace negotiation, by measuring both outcomes and process.",
+    "details_he": "The benchmark, developed to address the lack of social reasoning in current AI models, tests whether agents can negotiate for a user in two realistic settings, scoring them on outcome optimality and due diligence. Current frontier models often leave value on the table, frequently accepting suboptimal meeting times or poor deals instead of advocating effectively for the user. Even with explicit guidance to act in the user's best interest, performance remains well below what a trustworthy delegate should achieve."
+  },
+  {
+    "id": "9552bac7659c383b",
+    "title_original": "How ChatGPT adoption broadened in early 2026",
+    "url": "https://openai.com/signals/research/2026q1-update",
+    "description": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-11T15:00:00+00:00",
+    "fetched_at": "2026-05-12T06:42:51.274315+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/signals/research/2026q1-update"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How ChatGPT adoption broadened in early 2026",
+    "summary_he": "בראשית 2026, השימוש ב-ChatGPT התרחב, וכך גם הקהל שלו. השימוש ב-ChatGPT גדל בקרב גילאים שונים, וכן בקרב משתמשים עם שמות נקביים.",
+    "details_he": "בראשית 2026, השימוש ב-ChatGPT התרחב, וכך גם הקהל שלו. השימוש ב-ChatGPT גדל בקרב גילאים שונים, וכן בקרב משתמשים עם שמות נקביים. כמו כן, השימוש ב-ChatGPT התפשט למדינות רבות, ולא רק למדינות הגדולות והמוכרות. נראה כי ה-ChatGPT הוא כלי עולם, שמשמש כיום קהל רחב יותר של אנשים, במדינות רבות יותר, ובמגוון תחומי עבודה. "
+  },
+  {
+    "id": "67422b8a75123301",
+    "title_original": "How enterprises are scaling AI",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-11T10:00:00+00:00",
+    "fetched_at": "2026-05-12T06:42:51.274315+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How enterprises are scaling AI",
+    "summary_he": "ארגונים עסקיים המצליחים לגדל את טכנולוגיית ה-AI עושים זאת באופן מכוון, על ידי בניית אמון, רכיבת תהליכי עבודה ומנהלים שמעדיפים איכות על פני קצב.",
+    "details_he": "במסגרת הדו\"ח, נערכו ראיונות עם ראשי ארגונים כגון Philips, BBVA, Mirakl, Scout24, Jetbrains ו-Scania. הראיונות הראו שארגונים המצליחים לגדל את ה-AI עושים זאת באופן מכוון, על ידי בניית אמון, רכיבת תהליכי עבודה ומנהלים שמעדיפים איכות על פני קצב. הדו\"ח כולל חמישה דפוסים שנצפו באופן חוזר, כולל תרבות לפני רכיבת כלי, גביית רישוי כמנעם, רכיבת תהליכי עבודה, איכות לפני קצב והגנה על עבודת השיפוט."
+  },
+  {
+    "id": "8979952a9e5b2490",
+    "title_original": "OpenAI Campus Network: Student club interest form",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "description": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-11T10:00:00+00:00",
+    "fetched_at": "2026-05-12T06:42:51.274315+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI Campus Network: Student club interest form",
+    "summary_he": "OpenAI Campus Network, a global initiative, is seeking student clubs to collaborate with and bring AI education to universities worldwide.",
+    "details_he": "The network aims to provide hands-on AI learning experiences, support student-led events and research, and offer early access to OpenAI tools and opportunities. Student clubs can share their projects, events, and community-building initiatives with the network. By partnering with OpenAI, student leaders can shape the future of learning and work, and connect with like-minded individuals globally."
+  },
+  {
+    "id": "12ae12d90d64c52d",
+    "title_original": "Inside AD CS Escalation: Unpacking Advanced Misuse Techniques and Tools",
+    "url": "https://unit42.paloaltonetworks.com/active-directory-certificate-services-exploitation/",
+    "description": "Unit 42 analyzes AD CS exploitation through template misconfigurations and shadow credential misuse while offering behavioral detection for defenders.The postInside AD CS Escalation: Unpacking Advanced Misuse Techniques and Toolsappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-05-11T22:00:43+00:00",
+    "fetched_at": "2026-05-12T06:43:01.928320+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/active-directory-certificate-services-exploitation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inside AD CS Escalation: Unpacking Advanced Misuse Techniques and Tools",
+    "summary_he": "חברות תעשייה רבות נתקלות בבעיות אבטחה כתוצאה מהתקפות על שירותי AD CS, שהן חלק מקריטי בהקמת תשתיות זהויות עסקיות. התקפות אלה נובעות מהתקנות המותקנות במסגרת AD CS, שמאפשרות לתוקפים להשתמש בכרטיסי זהוי דיגיטליים כדי להסתנן למערכות.",
+    "details_he": "במאמר זה, צוות Unit 42 מציג את ניתוחם של טכניקות ואמצעים מתקדמים של תוקפים, שהם משתמשים כדי להשתלט על שירותי AD CS. התקפות אלה, שאינן תלויות בנקודות חולשה יומיומיות, נובעות מהתקנות המותקנות במסגרת AD CS, שמאפשרות לתוקפים להשתמש בכרטיסי זהוי דיגיטליים כדי להסתנן למערכות. ניתוח זה מציג גם דגימות של כלי הקריאה המשתמשים על ידי התוקפים, וכן דרכים לזיהוי ומניעת התקפות אלה."
+  },
+  {
+    "id": "a623f558f4d8d2f9",
+    "title_original": "Wiz at Wiz: Reducing Risk through Service Ownership",
+    "url": "https://www.wiz.io/blog/reducing-risk-through-service-ownership",
+    "description": "How Wiz security uses Service Catalog to turn cloud risk into service ownership",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-11T13:00:00+00:00",
+    "fetched_at": "2026-05-12T06:43:04.091422+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/reducing-risk-through-service-ownership"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz at Wiz: Reducing Risk through Service Ownership",
+    "summary_he": "Wiz Service Catalog enables security teams to organize risk around services, creating a clearer source of truth for ownership and facilitating scalable remediation. By aligning security with developer services, it streamlines communication and makes ownership actionable.",
+    "details_he": "Wiz Service Catalog addresses the challenge of making security risk actionable by grouping cloud assets, issues, and ownership around services. This shared frame of reference for security and engineering teams improves communication and enables them to route issues to the right teams automatically. The platform's integration with Wiz Workflows will allow teams to automate remediation and orchestrate response flows using services and service issues. By reusing existing operational ownership mappings, Wiz Service Catalog builds on existing infrastructure, making it a practical solution for security teams."
+  },
+  {
+    "id": "50e2eaf4bc7bead6",
+    "title_original": "11th May – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 11th May, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Instructure, the US education technology company behind the Canvas learning platform, has confirmed a major data breach affecting its cloud-hosted environment. Exposed data reportedly includes student and staff records and private messages, while […]The post11th May – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-11T12:49:37+00:00",
+    "fetched_at": "2026-05-12T06:43:03.846799+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "11th May – Threat Intelligence Report",
+    "summary_he": "בשבוע שעבר, חברת Instructure, האחראית על פלטפורמת Canvas ללמידה, אישרה פריצה חריגה למערכת הענן שלה. נתוני סטודנטים וצוות, כמו גם הודעות אישיות, נחשפו.",
+    "details_he": "פריצה זו, שהתרחשה בענן, חשפה נתונים רבים של סטודנטים וצוות, כולל הודעות אישיות. חברת Instructure, שהיא חברת טכנולוגיה לחינוך, יצאה והודיעה על הפריצה. נראה שהפריצה הייתה חריגה והחברה נקטה בצעדים להגן על הנתונים."
+  },
+  {
+    "id": "b8689b4680e1cde0",
+    "title_original": "Q1 2026 Ransomware Report: Fewer Groups, Higher Impact",
+    "url": "https://blog.checkpoint.com/research/q1-2026-ransomware-report-fewer-groups-higher-impact/",
+    "description": "Ransomware activity remained elevated in Q1 2026, continuing the trend established over the past year. According to the State of Ransomware Q1 2026 report from Check Point Research, overall attack volume stayed near historic highs. At the same time, the structure of the ransomware ecosystem changed materially. After two years of increasing fragmentation, activity is consolidating around a smaller number of dominant groups. For organizations, this shift reduces the number of active actors but increases the potential impact of individual incidents.  Key Findings: 2,122 organizations were listed on ransomware data leak sites in Q1 2026, making it the second-highest Q1 on record The top […]The postQ1 2026 Ransomware Report: Fewer Groups, Higher Impactappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-11T10:00:39+00:00",
+    "fetched_at": "2026-05-12T06:43:14.003397+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/q1-2026-ransomware-report-fewer-groups-higher-impact/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Q1 2026 Ransomware Report: Fewer Groups, Higher Impact",
+    "summary_he": "בסקר חדש, Check Point Research חשף כי פעילות ראנסומאר נשארה גבוהה ברבעון הראשון של 2026, ומספר הקבוצות הפעילות ירד, אך השפעתן גדלה.",
+    "details_he": "לפי הדו\"ח, 2,122 ארגונים הופיעו באתרי נתוני ראנסומאר ברבעון הראשון של 2026, ומספר קבוצות הראנסומאר הפעילות ירד, אך הקבוצות הגדולות יותר גרמו לנפגעים רבים יותר. קבוצות ראנסומאר כמו Qilin, Akira, The Gentlemen ו-LockBit יחדיו גרמו ל-41% מכל הנפגעים, וה-10 הקבוצות הגדולות ביותר גרמו ל-71% מכל הנפגעים. השינוי העיקרי הזה הוא שהקבוצות הגדולות יותר הן המאיימות ביותר, והן יותר ארגוניות, יציבות ומתוחכמות."
+  },
+  {
+    "id": "6cb9233b361fef6f",
+    "title_original": "The State of Ransomware – Q1 2026",
+    "url": "https://research.checkpoint.com/2026/the-state-of-ransomware-q1-2026/",
+    "description": "Key Findings Ransomware in Q1 2026: Consolidation at Scale During the first quarter of 2026, we monitored more than 70 active data leak sites (DLS) that collectively listed 2,122 new victims. This figure represents a 12.2% decline from the Q4 2025 all-time record of 2,416 victims but remains the second-highest Q1 on record at 117% […]The postThe State of Ransomware – Q1 2026appeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "ai",
+    "published": "2026-05-11T09:58:28+00:00",
+    "fetched_at": "2026-05-12T06:43:03.846799+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/the-state-of-ransomware-q1-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The State of Ransomware – Q1 2026",
+    "summary_he": "בקצב קבוע, יותר מ-70 אתרי חשיפת מידע פעילים דיווחו על 2,122 קורבנות חדשים ברבעון הראשון של 2026, 12.2% פחות מהשיא הכל-זמנים של Q4 2025, אך 117% יותר מ-Q1 2024.",
+    "details_he": "הכמות הקבועה של קורבנות בחודשים ינואר, פברואר ומרץ עדכן את המגמה הקיימת, עם 732, 684 ו-706 קורבנות, בהתאמה. זוהי תוצאה של קצב פעילות קבוע של 707 קורבנות בחודש. ההשוואה השנתית-לשנה (YoY) מראה ירידה של 7.1% מ-2,285 קורבנות ב-Q1 2025, אך זו השוואה מטעה, כיוון ש-Q1 2025 היה מושפע על ידי קמפיין ההפרעה המונית של Cl0p, Cleo, שהכניס כ-390 קורבנות. אם נסלק Cl0p, היו 1,894 קורבנות ב-Q1 2025, ו-1,995 ב-Q1 2026, עלייה של 5.3%."
+  }
+]
