@@ -1,0 +1,212 @@
+[
+  {
+    "id": "e78dac8d7f5d7652",
+    "title_original": "How finance teams use Codex",
+    "url": "https://openai.com/academy/how-finance-teams-use-codex",
+    "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-12T15:00:00+00:00",
+    "fetched_at": "2026-05-13T06:52:29.577397+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/how-finance-teams-use-codex"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How finance teams use Codex",
+    "summary_he": "Codex enables finance teams to automate the creation of review-ready assets for monthly business reviews, reporting, and planning without requiring coding expertise.",
+    "details_he": "Finance teams can utilize Codex to transform existing close workbooks, dashboards, and notes into tangible assets that can be reviewed, refined, and shared. This process saves time and allows teams to focus on analysis and decision-making. Codex can be customized to meet specific needs and can integrate with various tools and systems, including Google Drive, SharePoint, and Spreadsheets."
+  },
+  {
+    "id": "00fb736e482efeda",
+    "title_original": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
+    "url": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+    "description": "MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces alone.The postAdvancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task modelsappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-12T13:00:00+00:00",
+    "fetched_at": "2026-05-13T06:52:31.124801+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
+    "summary_he": "במסגרת פיתוח AI לחומרים, צוות חקר הציג עדכונים חשובים ל- MatterSim, כולל תצהלים ניסיוניים, תצהלים מהירים יותר ודגם חדש של AI לתיאור של חומרים. זאת על מנת לקדם את תהליך עיצוב החומרים, שהוא חלק קריטי בטכנולוגיות שונות.",
+    "details_he": "העדכונים החדשים של MatterSim כוללים תצהלים ניסיוניים של חומרים עם תכונות גבוהות של חום, תצהלים מהירים יותר שמאפשרים תצהלים גדולים על מספר מעבדים, ודגם חדש של AI שמאפשר תיאור של תכונות שונות של חומרים. הדגם החדש, MatterSim-MT, מאפשר תיאור של תכונות שונות של חומרים, כגון תכונות חום, תכונות חשמליות ועוד. זאת על מנת לקדם את תהליך עיצוב החומרים, שהוא חלק קריטי בטכנולוגיות שונות, כגון חומרים ננו-אלקטרוניים, עיצוב שבבים ושמירת אנרגיה."
+  },
+  {
+    "id": "be512aad5d3421b7",
+    "title_original": "NVIDIA and SAP Bring Trust to Specialized Agents",
+    "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+    "description": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined  SAP CEO Christian Klein’s keynote by video — SAP and NVIDIA’s expanded collaboration helps enterprises run specialized agents with security and governance controls.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-12T12:30:56+00:00",
+    "fetched_at": "2026-05-13T06:52:32.174597+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and SAP Bring Trust to Specialized Agents",
+    "summary_he": "SAP ו-NVIDIA הציגו היום, ב-SAP Sapphire, פרויקט חדש של ניהול וביטחון של אגנטים AI מיוחדים. הפרויקט כולל ריצה בסביבת OpenShell של NVIDIA, שמאפשרת ריצה בסביבת מערכת קפדנית.",
+    "details_he": "SAP ו-NVIDIA פיתחו פרויקט חדש של ניהול וביטחון של אגנטים AI מיוחדים. הפרויקט, שנקרא OpenShell, מאפשרת ריצה בסביבת מערכת קפדנית, עם פיקוח וביקורת. SAP משתמשת ב-OpenShell כריצה בסביבת SAP Business AI Platform, ו-NVIDIA משתפת פעולה עם SAP בפיתוח OpenShell. הפרויקט יכול לשנות את הדרך שבה חברות עושות שימוש באגנטים AI, ויכול להגביר את הביטחון שלהן בשימוש באגנטים אלה."
+  },
+  {
+    "id": "e66c4d3e3e69911e",
+    "title_original": "\"זה סיפור עצוב\": חברת ההייטק הוותיקה שאיבדה מעל מיליארד דולר מהשווי בשיא",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001542779#utm_source=RSS",
+    "description": "מניית אודיוקודס נפלה במעל 80% מאז ימי הקורונה, למרות שמדובר בחברה רווחית שמחלקת דיבידנדים • אופנהיימר: \"החברה מנסה להתקדם לכיוונים חדשים, אבל יש לה חיסרון לקוטן\" • גורם בשוק: \"היא בין השקעת ערך לצמיחה, ומשקיע שמתלבט אומר לעצמו 'זה לא בשבילי'\"",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-05-13T06:09:00+00:00",
+    "fetched_at": "2026-05-13T06:54:57.326915+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001542779#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"זה סיפור עצוב\": חברת ההייטק הוותיקה שאיבדה מעל מיליארד דולר מהשווי בשיא",
+    "summary_he": "חברת ההייטק אודיוקודס, שהייתה רווחית ומחלקת דיבידנדים, נפלה בערך במעל 80% משוויה בשיא, כתוצאה מכשלים בתחום הטכנולוגי. החברה ניסתה להתקדם לכיוונים חדשים, אבל חיסרון הקטנות שלה גרם להפסדים כבדים.",
+    "details_he": "מניית אודיוקודס נפלה במעל 80% מאז ימי הקורונה, כתוצאה מכשלים בתחום הטכנולוגי. החברה, שהייתה רווחית ומחלקת דיבידנדים, ניסתה להתקדם לכיוונים חדשים, אבל חיסרון הקטנות שלה גרם להפסדים כבדים. גורמים בשוק טוענים שהחברה בין השקעות ערך לצמיחה, ולכן היא אינה נחשבת כשקעה רווחית."
+  },
+  {
+    "id": "53347351a69efa93",
+    "title_original": "עם שכר בסיס של 1.5 מיליון דולר בלבד: זוהי חבילת התגמולים השנתית של ג'נסן הואנג",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001542818#utm_source=RSS",
+    "description": "עפ\"י הזימון לאסיפה השנתית של בעלי המניות שאנבידיה פרסמה אתמול, עלות התגמולים של הואנג הסתכמה בשנת הכספים האחרונה ב-36.3 מיליון דולר - ירידה בהשוואה ל-49.9 מיליון דולר בשנת הכספים הקודמת",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-05-13T05:37:00+00:00",
+    "fetched_at": "2026-05-13T06:54:57.326915+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001542818#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "עם שכר בסיס של 1.5 מיליון דולר בלבד: זוהי חבילת התגמולים השנתית של ג'נסן הואנג",
+    "summary_he": "חברת האלגוריתם הענקית אנבידיה פרסמה את תגמולי השנתיים שלה, ובהם תגמול של 36.3 מיליון דולר למנכ\"ל, ג'נסן הואנג, שהוא פחות משנת הכספים הקודמת.",
+    "details_he": "אנבידיה פרסמה את תגמולי השנתיים שלה, ובהם תגמול של 36.3 מיליון דולר למנכ\"ל, ג'נסן הואנג. התגמול הזה פחות מ-49.9 מיליון דולר, שהיה תגמולו של הואנג בשנת הכספים הקודמת. ניכוי זה יכול להיות תוצאה של הפחתה ברווחי החברה, או של ניסיון לצמצם את עלויות החברה."
+  },
+  {
+    "id": "e71a94eccc503e17",
+    "title_original": "Accelerating detection engineering using AI-assisted synthetic attack logs generation",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/",
+    "description": "What if you could generate realistic attack telemetry on demand? Explore research methods that translate attacker behaviors (TTPs) into synthetic logs that can trigger detections at scale and without sensitive data.The postAccelerating detection engineering using AI-assisted synthetic attack logs generationappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-12T22:53:09+00:00",
+    "fetched_at": "2026-05-13T06:52:37.359609+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Accelerating detection engineering using AI-assisted synthetic attack logs generation",
+    "summary_he": "Microsoft Incident Response discovered a sophisticated attack that used trusted administrative mechanisms to evade detection, highlighting the growing trend of stealthy intrusions that exploit existing systems and processes.",
+    "details_he": "The attack, which was investigated by Microsoft Incident Response, utilized legitimate and trusted mechanisms to blend in with routine operations, making it difficult to detect. This approach is a departure from traditional methods of intrusion, which often involve noisy exploits, obvious malware, or custom tooling. By leveraging trusted systems, attackers can remain undetected, undermining the trust boundary within an organization's environment."
+  },
+  {
+    "id": "338ae3e0489d6fc3",
+    "title_original": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
+    "description": "Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH).The postDefense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmarkappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-12T22:00:00+00:00",
+    "fetched_at": "2026-05-13T06:52:37.359609+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark",
+    "summary_he": "Microsoft פיתחה מערכת ביטחון חדשה המשלבת שיטות AI, המאפשרת זיהוי מהיר של תקיפות בקצב AI.",
+    "details_he": "המערכת, הקרויה 'multi-model agentic security system', משלבת שיטות AI כדי לייצר 'לוגים' מלאכותיים של תקיפות, המסוגלים לגרום לזיהוי של תקיפות בקנה מידה גדול. זאת, ללא חשיפת מידע רגיש. השיטה יכולה לסייע בפיתוח של טכנולוגיות זיהוי תקיפות יעילות יותר."
+  },
+  {
+    "id": "58501adec1f9013e",
+    "title_original": "Defending consumer web properties against modern DDoS attacks",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/",
+    "description": "Read how to protect consumer websites and defend against modern DDoS attacks with layered security, resilient architecture, and graceful service degradation.The postDefending consumer web properties against modern DDoS attacksappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-12T16:00:00+00:00",
+    "fetched_at": "2026-05-13T06:52:37.359609+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Defending consumer web properties against modern DDoS attacks",
+    "summary_he": "להגן על תכונות אינטרנטיות של צרכנים מפני התקפות DDoS מודרניות, יש להשתמש בביטחון מרובע, ארכיטקטורה עמידה ודעיכה של שירות חסרת-עקלה.",
+    "details_he": "במאמר זה, Microsoft Security Blog מסביר כיצד להגן על אתרי אינטרנט של צרכנים מפני התקפות DDoS מודרניות. הגנה מרובעת, ארכיטקטורה עמידה ודעיכה של שירות חסרת-עקלה הן כלים חשובים להגנה. על ידי שימוש בשיטות אלה, ניתן למנוע את השפעת ההתקפות ולשמור על תפקוד טוב של האתר."
+  },
+  {
+    "id": "aaba879d62d15ede",
+    "title_original": "Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
+    "description": "Microsoft Incident Response investigated an attack operated through legitimate and trusted administrative mechanisms to blend seamlessly into routine operations and remain undetected demonstrating that intrusions have increasingly avoided using noisy exploits, obvious malware, or custom tooling, instead leveraging systems that organizations already trust within their environments.The postUndermining the trust boundary: Investigating a stealthy intrusion through third-party compromiseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-12T15:00:00+00:00",
+    "fetched_at": "2026-05-13T06:52:37.359609+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise",
+    "summary_he": "חברות ניתנות לפריצה דרך שירותי שלישי שנחשבים מסורים, וזאת כדי להישאר בלתי נראים. הפריצה נעשתה דרך גישות רשמיות ומאומתות, ולא דרך תוכנות זדוניות רגילות.",
+    "details_he": "מערכת התגובה של Microsoft חקרה פריצה שנעשתה דרך שירותי שלישי שנחשבים מסורים, כדי להסתנן לתוך פעולות יומיומיות ולהישאר בלתי נראים. הפריצה הצליחה להימנע מכל סימן של פריצה, כגון תוכנות זדוניות רגילות או כלי ניהול מותאם. הפריצה הזו מדגימה את הסכנה הגוברת שבפריצה דרך שירותי שלישי שנחשבים מסורים."
+  },
+  {
+    "id": "f47c7febfc766041",
+    "title_original": "Introducing Wiz Audit History: Track Every Change Across your Environment",
+    "url": "https://www.wiz.io/blog/introducing-audit-history",
+    "description": "Wiz Audit History is now GA, providing a continuous, cross-cloud timeline of changes to resource configurations and findings to accelerate incident response and simplify compliance.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-12T13:24:56+00:00",
+    "fetched_at": "2026-05-13T06:52:40.868371+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-audit-history"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Wiz Audit History: Track Every Change Across your Environment",
+    "summary_he": "Wiz Audit History מאפשרת לקבוצות אבטחה ו-DevOps לעקוב אחר כל שינוי בסביבת הענן, כולל שינויים במצב האבטחה ובמצב הפעילות. הפיצול הזה מאפשר להבין היטב את ההשפעות הארוכות-טווח של החלטותיהם ואת הסיכון האמיתי.",
+    "details_he": "Wiz Audit History היא תכונה חדשה של Wiz שמאפשרת לקבוצות אבטחה ו-DevOps לעקוב אחר כל שינוי בסביבת הענן. התכונה זו מספקת תיעוד רציף של כל שינוי בהגדרות המשאבים, כולל שינויים במצב האבטחה ובמצב הפעילות. Wiz Audit History גם מספקת תמונת מצב זמנית של הסביבה, כולל חידושים ויזואליים של ההגדרות, כדי לאפשר לקבוצות אבטחה ו-DevOps לטפל בבעיות ולשמור על רציפות. Wiz Audit History גם משלבת את Mika AI, עוזר ה- AI של Wiz, כדי לאפשר לקבוצות אבטחה ו-DevOps לבקש שאלות חכמות ולקבל תשובות ספציפיות על האירועים והבעלים שמאחורי האירוע. "
+  }
+]
