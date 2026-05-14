@@ -1,0 +1,212 @@
+[
+  {
+    "id": "8795493be1da31b6",
+    "title_original": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
+    "url": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "description": "mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations.The postmimalloc: A new, high-performance, scalable memory allocator for the modern eraappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-13T17:19:59+00:00",
+    "fetched_at": "2026-05-14T06:50:23.241019+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
+    "summary_he": "mimalloc, memory allocator, scalable and high-performance, is widely used in large services and applications, including Microsoft's Bing and games like Death Stranding, due to its ability to handle hundreds of threads and large memory scales.",
+    "details_he": "mimalloc is an open-source, modern memory allocator that provides bounded worst-case allocation times, bounded space overhead, low internal fragmentation, and minimal contention by relying on atomic operations. It was initially designed for the Lean and Koka programming languages, but its scalable design has proven effective for large services at Microsoft and is now widely used in various applications, including NoGIL CPython and Unreal Engine. The project is available on GitHub with over 12K stars and its Rust wrapper sees over 100K downloads per day."
+  },
+  {
+    "id": "2917b962bea0c073",
+    "title_original": "GridSFM: A new, small foundation model for the electric grid",
+    "url": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "description": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health.The postGridSFM: A new, small foundation model for the electric gridappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-13T16:00:20+00:00",
+    "fetched_at": "2026-05-14T06:50:23.241019+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GridSFM: A new, small foundation model for the electric grid",
+    "summary_he": "Microsoft השיקה דגם יסודי קטן שמסוגל לחזות את זרימת האנרגיה האופטימלית ברשת החשמל במאות מילישניות, וכך הולך וגובר השפעתה על הצמיחה הכלכלית.",
+    "details_he": "GridSFM, הדגם החדש, מסוגל לחזות את זרימת האנרגיה האופטימלית ברשת החשמל במאות מילישניות, וכך הולך וגובר השפעתה על הצמיחה הכלכלית. הדגם יכול לחזות את הפעילות האופטימלית של יחידות הייצור, וכן לחזות את הפעילות האופטימלית של הרשת כולה. זה יכול לסייע לפעילי הרשת לחזות את הפעילות האופטימלית של הרשת, ולכן לסייע לפעילי הרשת לחזות את הפעילות האופטימלית של הרשת."
+  },
+  {
+    "id": "1a6743ed83152c5a",
+    "title_original": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
+    "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
+    "description": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-13T13:00:57+00:00",
+    "fetched_at": "2026-05-14T06:50:24.567911+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
+    "summary_he": "NVIDIA ו-Ineffable Intelligence יצרו קולבורציה לפיתוח תשתית ללמידה על ידי תגמול, שיאפשר לאגנטים ללמוד ולגלות כלי חדשים.",
+    "details_he": "הקולבורציה, שהתחילה על NVIDIA Grace Blackwell, תפתח תשתית שתאפשר לאגנטים ללמוד ולגלות כלי חדשים בקנה מידה גדול. הפרויקט, שמטרתו לבנות תשתית ללמידה על ידי תגמול, יאפשר לאגנטים לגלות כלי חדשים בקנה מידה גדול. NVIDIA ו-Ineffable Intelligence יפתחו תשתית שתאפשר לאגנטים ללמוד ולגלות כלי חדשים בקנה מידה גדול."
+  },
+  {
+    "id": "f87fec6befe7ad51",
+    "title_original": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/",
+    "description": "Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 GitHub stars in under three months.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-13T13:00:10+00:00",
+    "fetched_at": "2026-05-14T06:50:24.567911+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+    "summary_he": "Hermes, a self-improving AI agent developed by Nous Research, has gained massive popularity in the open source community, becoming the most used agent in the world in just under three months. This is due to its reliability and self-improvement capabilities, which are made possible by its provider- and model-agnostic design and optimized performance on NVIDIA RTX PCs and DGX Spark. Hermes' unique features, such as self-evolving skills and contained sub-agents, set it apart from other popular agents.",
+    "details_he": "Hermes' success is attributed to its ability to learn and adapt over time, thanks to its self-evolving skills feature. This allows the agent to refine its skills and improve its performance without the need for constant debugging. Additionally, Hermes' contained sub-agents feature enables it to run with smaller context windows, making it ideal for local models. The agent's reliability is also ensured by the careful curation and stress-testing of its skills, tools, and plug-ins by Nous Research. Furthermore, Hermes' performance is enhanced by its ability to integrate with high-performance, open-weight large language models (LLMs) such as Qwen 3.6, which are optimized for local use on NVIDIA RTX PCs and DGX Spark."
+  },
+  {
+    "id": "757520ab837d5519",
+    "title_original": "Building a safe, effective sandbox to enable Codex on Windows",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "description": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-13T11:00:00+00:00",
+    "fetched_at": "2026-05-14T06:50:21.418994+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-codex-windows-sandbox"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Building a safe, effective sandbox to enable Codex on Windows",
+    "summary_he": "The Codex engineering team has been working on implementing a sandbox for Windows users to ensure their safety while using the coding agent. This is necessary because Codex runs with the permissions of a real user by default, which can be dangerous. The team has been exploring various options to create an effective sandbox.",
+    "details_he": "The Codex engineering team, led by David Wiesen, has been working on implementing a sandbox for Windows users. This is because Codex, a coding agent, runs with the permissions of a real user by default, which can be dangerous. The team has been exploring various options to create an effective sandbox, including AppContainer, Windows Sandbox, and Mandatory Integrity Control labeling. However, these existing Windows tools fell short of their requirements, prompting the team to implement their own sandbox. The new sandbox will provide a constrained execution environment, isolating Codex commands and preventing them from accessing sensitive areas of the system without explicit permission."
+  },
+  {
+    "id": "283a3c0c720df804",
+    "title_original": "The Convergence of Cloud Secrets & AI Risk",
+    "url": "https://www.sentinelone.com/blog/the-convergence-of-cloud-secrets-and-ai-risk/",
+    "description": "SentinelOne’s latest report examines the evolving 'secrets' threatscape, showing how modern cloud and AI infrastructures are being exploited.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-05-13T18:11:51+00:00",
+    "fetched_at": "2026-05-14T06:50:41.430383+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-convergence-of-cloud-secrets-and-ai-risk/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Convergence of Cloud Secrets & AI Risk",
+    "summary_he": "בעקבות התפשטות שימוש ב- AI, הסכנה שלה כבר עולה על הביטחון המסורתי. כיום, כ-88% מהארגונים משתמשים ב- AI לפחות בתפקיד אחד.",
+    "details_he": "הדוח של SentinelOne חשף גידול של 140% בסודות AI- כגון מפתחות API של OpenAI ו-API של Azure OpenAI - בשנה אחת. הגידול הזה קשור לשילוב מהיר של טכנולוגיות AI במערכות תמיכה, כלי עבודה פנימיים, פלטפורמות כספיות וניסיונות מוצר. השימוש הפורצי ב- AI יוצר תופעה של 'AI Shadow' - שימוש ב- AI ללא אישור רשמי של IT או ביטחון. זה קורה כאשר מפתחים או צוותים פנימיים משתמשים במפתחות LLM ללא שליטה או ניהול."
+  },
+  {
+    "id": "858159ac1d4cfb78",
+    "title_original": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-suspected-china-linked-threat-actor-targets-global-manufacturer/",
+    "description": "Executive Summary In April 2026, Cato CTRL identified and blocked an attempted intrusion against a global manufacturing customer involving TencShell, a previously undocumented, Go-based implant derived from the open-source Rshell C2 framework. The activity appeared in traffic associated with a third-party user connected to the customer environment. The attack chain used a first-stage dropper, Donut...The postCato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malwareappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-05-13T17:35:21+00:00",
+    "fetched_at": "2026-05-14T06:50:47.038543+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-suspected-china-linked-threat-actor-targets-global-manufacturer/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+    "summary_he": "Cato CTRL Threat Research חשף תוקף חשוד מסין שניסה לפגוע ביצרן גלובלי בעזרת תוכנת TencShell, שהיא תוכנת פגיעה שלא תועדה לפני כן, שנבנתה על בסיס תוכנת Rshell C2.",
+    "details_he": "Cato CTRL Threat Research חשף תוקף חשוד מסין שניסה לפגוע ביצרן גלובלי בעזרת תוכנת TencShell, שהיא תוכנת פגיעה שלא תועדה לפני כן, שנבנתה על בסיס תוכנת Rshell C2. התוקף ניסה להשתלט על המערכת של היצרן, ואם הייתה הצלחה, היו יכולים להיות תוצאות קטסטרופליות. Cato CTRL חסם את הניסיון לפני שהתוקף הצליח להשתלט על המערכת."
+  },
+  {
+    "id": "40dc116d5150ab72",
+    "title_original": "Thus Spoke…The Gentlemen",
+    "url": "https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/",
+    "description": "Key Points Introduction The Gentlemen ransomware‑as‑a‑service (RaaS) operation is a relatively new group that emerged around mid‑2025. Its operators advertise the service across multiple underground forums, promoting their ransomware platform and inviting penetration testers and other technically skilled actors to join as affiliates. In 2026, based on victims listed on the data leak site (DLS), […]The postThus Spoke…The Gentlemenappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-13T13:01:01+00:00",
+    "fetched_at": "2026-05-14T06:50:41.648815+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Thus Spoke…The Gentlemen",
+    "summary_he": "Key Points Introduction The Gentlemen ransomware‑as‑a‑service (RaaS) operation is a relatively new group that emerged around mid‑2025. Its operators advertise the service across multiple underground forums, promoting their ransomware platform and inviting penetration testers and other technically skilled actors to join as affiliates. In 2026, based on victims listed on the data leak site (DLS), […]The postThus Spoke…The Gentlemenappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "2e19b3d2a3da9e91",
+    "title_original": "Beyond Findings: Connecting Exploitable Risk to Cloud Context with Wiz and HackerOne",
+    "url": "https://www.wiz.io/blog/wiz-hackerone-integration",
+    "description": "See proven, exploitable risk in the context of your full cloud environment",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-13T13:00:02+00:00",
+    "fetched_at": "2026-05-14T06:50:42.034116+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-hackerone-integration"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Beyond Findings: Connecting Exploitable Risk to Cloud Context with Wiz and HackerOne",
+    "summary_he": "Integration between HackerOne and Wiz aims to bridge the gap between security findings and cloud context, enabling teams to prioritize risks more effectively.",
+    "details_he": "Security teams often struggle to connect the dots between exploitable endpoints and sensitive data, leading to prioritization challenges. The integration between HackerOne and Wiz addresses this issue by bringing together proven exploitability and cloud context on the Wiz Security Graph. This enables organizations to turn visibility into a defensive advantage, testing their attack surface and staying ahead of evolving threats. By combining continuous testing with deep cloud visibility, security leaders can gain confidence in what's actually exploitable and where it leads."
+  },
+  {
+    "id": "7062ebada03587b5",
+    "title_original": "When the Ransomware Gang Gets Hacked: What the Gentlemen Leak Reveals About Modern Ransomware Risk",
+    "url": "https://blog.checkpoint.com/research/when-the-ransomware-gang-gets-hacked-what-the-gentlemen-leak-reveals-about-modern-ransomware-risk/",
+    "description": "Key Findings  The Gentlemen RaaS has 400+ public victims and is the #2 most active ransomware group globally in 2026   Their internal systems were breached in May 2026, exposing their full operational structure   The group is run by approximately nine named operators organized around a single administrator (zeta88 / hastalamuerte), who not only manages the platform but personally participates in encryption events  That administrator has been identified as a former affiliate of the Qilin ransomware program — a career criminal who learned the trade under an established operation before building a competing one  Initial access is almost exclusively via unpatched edge devices or purchased credentials   Data stolen from one […]The postWhen the Ransomware Gang Gets Hacked: What the Gentlemen Leak Reveals About Modern Ransomware Riskappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-13T12:55:22+00:00",
+    "fetched_at": "2026-05-14T06:50:53.221068+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/when-the-ransomware-gang-gets-hacked-what-the-gentlemen-leak-reveals-about-modern-ransomware-risk/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When the Ransomware Gang Gets Hacked: What the Gentlemen Leak Reveals About Modern Ransomware Risk",
+    "summary_he": "A recent breach of the Gentlemen RaaS has exposed the inner workings of the group, revealing a sophisticated and well-organized operation. The group's administrator, zeta88, has been identified as a former affiliate of the Qilin ransomware program, and has been using AI coding assistants to accelerate ransomware development.",
+    "details_he": "The Gentlemen RaaS has been found to be one of the most active ransomware groups globally in 2026, with over 400 public victims. The group's internal systems were breached in May 2026, exposing their full operational structure, including internal chat logs, organizational rosters, ransom negotiation transcripts, and tooling discussions. The group's administrator, zeta88, has been identified as a career criminal who learned the trade under an established operation before building a competing one. The group uses AI coding assistants, including Chinese models DeepSeek and Qwen, to accelerate ransomware development, and has been using this technology to build the entire RaaS admin panel in just three days. Check Point has notified law enforcement, and the group's breach has provided a unique insight into the inner workings of a ransomware operation."
+  }
+]
