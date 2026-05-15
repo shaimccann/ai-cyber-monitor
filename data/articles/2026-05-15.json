@@ -1,0 +1,212 @@
+[
+  {
+    "id": "cc8706932c4b9869",
+    "title_original": "Sea's View on the Future of Agentic Software Development with Codex",
+    "url": "https://openai.com/index/sea-david-chen",
+    "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-14T20:30:00+00:00",
+    "fetched_at": "2026-05-15T07:29:28.070311+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sea-david-chen"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Sea's View on the Future of Agentic Software Development with Codex",
+    "summary_he": "Sea Limited, a global tech company, is leveraging Codex to revolutionize its software development process. By utilizing AI-assisted tools, the company aims to improve productivity, navigate complexity, and build resilient systems.",
+    "details_he": "Sea's adoption of Codex has shown promising results, with 87% of users being weekly active. The company sees AI-assisted software development as a fundamental shift in how engineering teams operate, enabling them to focus on higher-level tasks such as architectural design and product innovation. This approach is particularly beneficial for Sea's engineering teams, which manage large-scale systemic complexity across fragmented markets in Southeast Asia."
+  },
+  {
+    "id": "f071566429073f0d",
+    "title_original": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-14T18:55:01+00:00",
+    "fetched_at": "2026-05-15T07:29:30.348319+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "summary_he": "IBM's Granite Embedding Multilingual R2 release offers two new multilingual embedding models that bridge the gap between language coverage and model size. The 311M-parameter full-size model and the 97M-parameter compact model support 200+ languages, handle 32K-token context, and are released under the Apache 2.0 license.",
+    "details_he": "The two new models, granite-embedding-311m-multilingual-r2 and granite-embedding-97m-multilingual-r2, were built on ModernBERT and demonstrate top-tier multilingual retrieval quality. The 311M-parameter model scores 65.2 on MTEB Multilingual Retrieval, while the 97M-parameter model beats every open sub-100M multilingual embedder on MTEB Multilingual Retrieval with a score of 60.3. Both models are compatible with various frameworks and require no task-specific instructions. They also support code retrieval across 9 programming languages and are optimized for CPU inference with ONNX and OpenVINO weights."
+  },
+  {
+    "id": "32ea64a704d847d2",
+    "title_original": "Promptimus: Improving already good LLM prompts with zero manual engineering",
+    "url": "https://www.amazon.science/blog/promptimus-improving-already-good-llm-prompts-with-zero-manual-engineering",
+    "description": "By focusing on specific failure points and suggesting targeted solutions, a new automated prompt-engineering framework improves prompt performance without compromising existing functionality.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-05-14T13:47:45+00:00",
+    "fetched_at": "2026-05-15T07:29:30.838907+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/promptimus-improving-already-good-llm-prompts-with-zero-manual-engineering"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Promptimus: Improving already good LLM prompts with zero manual engineering",
+    "summary_he": "מערכת חדשה לאופטימיזציה אוטומטית של תבניות פרומפטים למודלי שפה גדולים מצליחה לשפר ביצועים ללא פגיעה בפונקציונליות קיימת. המערכת, הנקראת Promptimus, משתמשת בלולאת חזרה של ארבעה שלבים כדי לאופטימיזר את התבניות.",
+    "details_he": "Promptimus, המערכת החדשה, מצליחה לשפר ביצועים ב-16 מתוך 20 מבחנים, ומעבר לכך, היא גם מצליחה להשיג יעילות גבוהה בשימוש בסדרה של תבניות פרומפטים. המערכת עובדת באופן אוטומטי, ולא דורשת התערבות אנושית. היא גם יכולה לשפר ביצועים של מודלי שפה שונים, ולא רק של מודלים ספציפיים. המערכת עובדת באופן רב-מודלי, ולא דורשת התאמה למודל ספציפי. Promptimus יכולה לשפר ביצועים באופן יעיל, וללא פגיעה בפונקציונליות קיימת."
+  },
+  {
+    "id": "76f2108a0ef8982c",
+    "title_original": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/",
+    "description": "Editor’s note: The Gaijin single sign-on feature is now up and running. Dive masks on — Subnautica 2 is making a splash on GeForce NOW day-and-date with launch, so members can plunge into the title’s brand-new alien ocean from almost any device. It leads 11 new games joining the cloud this week. A limited-time HITMAN […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-14T13:00:08+00:00",
+    "fetched_at": "2026-05-15T07:29:30.620346+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
+    "summary_he": "GeForce NOW הפכה את פליירים לאורחי נהרות חלליים, כאשר Subnautica 2, HITMAN World of Assassination ו-Forza Horizon 6 הצטרפו לשירות.",
+    "details_he": "Subnautica 2, המשחק החדש, מאפשר לשחקנים לחקור את האוקיינוס החללי, לבנות בסיסים ולשרת במשימות סיפוריות. HITMAN World of Assassination הציגה אירוע פרסים מוגבל-זמן, שבו השחקנים יכולים לקבל כלי נשק ייחודיים. Forza Horizon 6, המשחק המפורסם, נכנס לתפוקה ראשונה, והשחקנים יכולים להצטרף לו כבר היום."
+  },
+  {
+    "id": "31482510df47998a",
+    "title_original": "Work with Codex from anywhere",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-14T13:00:00+00:00",
+    "fetched_at": "2026-05-15T07:29:28.070311+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Work with Codex from anywhere",
+    "summary_he": "Codex הופך לזמין בכל מקום, כעת ניתן לעבוד איתו מכל מכשיר נייד. זה נותן את האפשרות לעבוד בזמן אמת, לעדכן, לשנות כיוון, לאשר או להוסיף רעיון חדש.",
+    "details_he": "Codex כעת זמין באפליקציית ChatGPT הניידת, ומאפשר לעבוד עם זה מכל מכשיר נייד. זה נותן את האפשרות לעבוד בזמן אמת, לעדכן, לשנות כיוון, לאשר או להוסיף רעיון חדש. כעת, ניתן לעבוד עם Codex מכל מכשיר נייד, ולעבוד על פרויקטים שונים. זה נותן את האפשרות לעבוד בזמן אמת, לעדכן, לשנות כיוון, לאשר או להוסיף רעיון חדש. Codex כעת זמין באפליקציית ChatGPT הניידת, ומאפשר לעבוד עם זה מכל מכשיר נייד."
+  },
+  {
+    "id": "f1d7c4ee6e9521a5",
+    "title_original": "NGINX “Rift” Chain: Remote Code Execution (RCE) Discovered Leveraging 18-Year-Old Vulnerabilities",
+    "url": "https://xmcyber.com/blog/nginx-rift-chain-remote-code-execution-rce-discovered-leveraging-18-year-old-vulnerabilities/",
+    "description": "Overview On May 13, 2026, researchers disclosed “NGINX Rift,” a critical vulnerability chain discovered by DepthFirst AI. The chain consists of four remote memory...The postNGINX “Rift” Chain: Remote Code Execution (RCE) Discovered Leveraging 18-Year-Old Vulnerabilitiesappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-05-14T20:24:00+00:00",
+    "fetched_at": "2026-05-15T07:29:47.862502+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/nginx-rift-chain-remote-code-execution-rce-discovered-leveraging-18-year-old-vulnerabilities/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NGINX “Rift” Chain: Remote Code Execution (RCE) Discovered Leveraging 18-Year-Old Vulnerabilities",
+    "summary_he": "חוקרים גילו זילוג קריטי ב-NGINX, שאפשר לאפשר תקיפה רחוקה של קוד. הבעיה, שהתגלתה ב-2008, נכנסת לפעולה כאשר קודם קוראים תגים חדשים.",
+    "details_he": "החוקרים, DepthFirst AI, גילו זילוג קריטי ב-NGINX, שאפשר לאפשר תקיפה רחוקה של קוד. הבעיה, שהתגלתה ב-2008, נכנסת לפעולה כאשר קודם קוראים תגים חדשים. הזילוג, שנקרא \"NGINX Rift"
+  },
+  {
+    "id": "9781552603400cc0",
+    "title_original": "Defense in depth for autonomous AI agents",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/",
+    "description": "As AI agents gain autonomy, defense in depth must evolve, with application-layer design, identity, and human oversight at the center.The postDefense in depth for autonomous AI agentsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-14T16:00:00+00:00",
+    "fetched_at": "2026-05-15T07:29:35.834365+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Defense in depth for autonomous AI agents",
+    "summary_he": "חבילת המלואר Kazuar, שמיוחסת לגורם הרוסי Secret Blizzard, נחשבת לאחת המסובכות ביותר של חבילות מלואר, וממשיכה להתפתח ולשפר.",
+    "details_he": "Kazuar, חבילת המלואר המסובכת, נחשבת לאחת החבילות המסוכנות ביותר, ומשמשת לפעילויות ריגול. חבילת המלואר זו נחשבת לתוצר של שנים רבות של פיתוח, וממשיכה לשפר ולהתפתח בתמיכה לפעילויות ריגול."
+  },
+  {
+    "id": "73ae81dd058bbd82",
+    "title_original": "Kazuar: Anatomy of a nation-state botnet",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/",
+    "description": "Kazuar, a sophisticated malware family attributed to the Russian state actor Secret Blizzard, has been under constant development for years and continues to evolve in support of espionage-focused operations. Over time, Kazuar has expanded from a relatively traditional backdoor into a highly modular peer-to-peer (P2P) botnet ecosystem designed to enable persistent, covert access to target environments.The postKazuar: Anatomy of a nation-state botnetappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-14T15:00:00+00:00",
+    "fetched_at": "2026-05-15T07:29:35.834365+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Kazuar: Anatomy of a nation-state botnet",
+    "summary_he": "חברת המשחקים Blizzard נתקלה בסדרה של פגיעות סייבר שנגרמו על ידי זירת הפגיעות הממשלתית הרוסית Secret Blizzard, שבעזרת זירת הפגיעות המודולארית Kazuar, יכולה לקבל גישה נשלטת לסביבות היעד. זירת הפגיעות Kazuar התפתחה על ידי Secret Blizzard, והיא נועדה להקנות גישה נשלטת לסביבות היעד.",
+    "details_he": "זירת הפגיעות Kazuar, שכונתה כזירת פגיעות מתקדמת, נחשבת לאחת הזירות המורכבות ביותר של Secret Blizzard. היא נועדה לקבל גישה נשלטת לסביבות היעד, והיא יכולה להיות יעילה במיוחד במקרים שבהם זירת הפגיעות נדרשת לקבל גישה לסביבות שונות. זירת הפגיעות Kazuar יכולה להיות יעילה במיוחד במקרים שבהם זירת הפגיעות נדרשת לקבל גישה לסביבות שונות. הזירה כוללת שלושה סוגי יחידות, כל אחת עם תפקידים מוגדרים ברורים, שמאפשרים פעולה רכה, פחות נראית, ומשימות רחבות בעוד שהן מקטינות את האפשרויות לגילוי."
+  },
+  {
+    "id": "308cd480341592b5",
+    "title_original": "When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/",
+    "description": "Exposed UIs, weak authentication, and risky defaults could turn cloud-native AI apps on Kubernetes into potential targets by threat actors. Learn how exploitable misconfigurations lead to RCE and data leaks.The postWhen configuration becomes a vulnerability: Exploitable misconfigurations in AI appsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-05-14T14:20:55+00:00",
+    "fetched_at": "2026-05-15T07:29:35.834365+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps",
+    "summary_he": "AI applications deployed on cloud-native platforms are often prioritizing speed over secure configuration, leaving them vulnerable to exploitable misconfigurations. These misconfigurations can be abused by attackers to gain access to sensitive data and tools, and can be exploited without sophisticated techniques or zero-days.",
+    "details_he": "Our observations from aggregated and anonymized Microsoft Defender for Cloud signals showed cases where AI services were publicly exposed with weak or missing authentication, creating exploitable misconfigurations that attackers actively abused. These issues enabled low-effort, high-impact outcomes such as remote code execution, credential theft, and access to sensitive internal tools and data. Organizations should surface these misconfigurations early to reduce their attack surface and protect their critical AI workloads. Defender for Cloud can help customers identify and prioritize risks associated with such misconfigurations by detecting exposed Kubernetes services and unsafe deployment patterns."
+  },
+  {
+    "id": "f0a53d325913f195",
+    "title_original": "Before the First Whistle: How Cyber Criminals Are Targeting World Cup 2026",
+    "url": "https://blog.checkpoint.com/research/before-the-first-whistle-how-cyber-criminals-are-targeting-world-cup-2026/",
+    "description": "The FIFA World Cup 2026 is one of the most anticipated sporting events in history, and cyber criminals are already capitalizing on excitement. As matches kick off across the United States, Canada, and Mexico, threat actors are flooding the internet with fake merchandise stores, fraudulent betting platforms, and phishing domains designed to steal your money and personal data. This report breaks down the latest threat landscape so fans can stay safe while enjoying the beautiful game.  As the host countries of the FIFA World Cup 2026, the United States, Canada, and Mexico all recorded an increase in the weekly average number of cyber-attacks per organization in April 2026 compared to both […]The postBefore the First Whistle: How Cyber Criminals Are Targeting World Cup 2026appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-14T12:55:03+00:00",
+    "fetched_at": "2026-05-15T07:29:48.722676+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/before-the-first-whistle-how-cyber-criminals-are-targeting-world-cup-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Before the First Whistle: How Cyber Criminals Are Targeting World Cup 2026",
+    "summary_he": "Cyber criminals are taking advantage of the excitement surrounding the FIFA World Cup 2026 by creating fake merchandise stores, fraudulent betting platforms, and phishing domains to steal money and personal data from fans.",
+    "details_he": "The threat landscape is expected to worsen as the tournament approaches, with a significant increase in cyber-attacks on organizations in the host countries of the United States, Canada, and Mexico. The combined weekly average number of cyber-attacks per organization across the Media & Entertainment, Hospitality, Travel & Recreation, and Transportation & Logistics industries also increased in April 2026. Furthermore, a surge in domain registrations containing \"FIFA\" or \"World Cup\" keywords has been observed, with April 2026 reaching 9,741 registrations, more than 5x the peak seen during the Qatar 2022 World Cup."
+  }
+]
