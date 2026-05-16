@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1ba7d54f331a6bd5",
+    "title_original": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
+    "url": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "description": "Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and […]The postFurther Notes on Our Recent Research on AI Delegation and Long-Horizon Reliabilityappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-15T18:06:57+00:00",
+    "fetched_at": "2026-05-16T06:28:47.300328+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
+    "summary_he": "במחקר חדש, נחקר יכולת השיטות האינטליגנטיות לשמור על אמינות תוכן במהלך תהליכי עבודה מורכבים. נמצא כי סיכויים גבוהים לשגיאות בתהליכים אלו, אך תוכניות פקודה פשוטות יותר, כגון Python, הציגו רמת יציבות גבוהה יותר.",
+    "details_he": "המחקר, הכולל את המאמר 'LLMs Corrupt Your Documents When You Delegate', חקר את יכולת השיטות האינטליגנטיות לשמור על אמינות תוכן במהלך תהליכי עבודה מורכבים. המחקר התמקד בפיתוח שיטות סטנדרטיות לבדיקת תהליכי עבודה מורכבים, ומצא כי סיכויים גבוהים לשגיאות בתהליכים אלו. עם זאת, נמצא כי תוכניות פקודה פשוטות יותר, כגון Python, הציגו רמת יציבות גבוהה יותר. המחקר נועד לספק תובנות חדשות לגבי הפער בין ביצועים גבוהים במבחנים ובין תהליכי עבודה אמיתיים."
+  },
+  {
+    "id": "370030471d633747",
+    "title_original": "Making LLMs faster without sacrificing accuracy",
+    "url": "https://www.amazon.science/blog/making-llms-faster-without-sacrificing-accuracy",
+    "description": "A new scaling law that relates particular architectural choices to loss helps identify models that improve throughput by up to 47% with no loss of accuracy.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-05-15T13:00:00+00:00",
+    "fetched_at": "2026-05-16T06:28:48.376983+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/making-llms-faster-without-sacrificing-accuracy"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Making LLMs faster without sacrificing accuracy",
+    "summary_he": "מחקר חדש מצא שניתן לשפר את הביצועים של דגמי LLM ללא פגיעה בדיוקם. דגמים אלה יכולים לשפר את התפוקה בכ-47%.",
+    "details_he": "במחקר זה, החוקרים הציגו חוק סיבוכיות חדש שמקשר בין בחירות ארכיטקטוניות מסוימות לבין כישלון הדגם. זה מאפשר לזהות דגמים שיכולים לשפר את התפוקה בכ-47% ללא פגיעה בדיוק. החוקרים גילו גם שהיחס האופטימלי בין MLP לאטנציה בדגמים מסוג LLaMA-3.2 הוא כ-1.0, וזה נמוך מאוד מהדגמים הפתוחים הקיימים."
+  },
+  {
+    "id": "03a9f96ef6153dc8",
+    "title_original": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "description": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com",
+    "category": "ai",
+    "published": "2026-05-15T23:39:35+00:00",
+    "fetched_at": "2026-05-16T06:28:49.002782+00:00",
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "summary_he": "The Musk v. Altman trial has reached its final week, with both sides presenting their closing arguments and trading blows over each other's credibility. Elon Musk's lawyers accused OpenAI CEO Sam Altman of lying and self-dealing, while Altman painted Musk as a power-seeker who wants to control the development of artificial general intelligence.",
+    "details_he": "The trial has centered around Musk's claim that OpenAI breached its promise to maintain a nonprofit status, instead creating a for-profit subsidiary that made Altman and OpenAI president Greg Brockman wealthy. OpenAI's lawyer argued that Altman and Brockman never promised to keep OpenAI a nonprofit and that Musk's real motive is to sabotage a competitor to his own AI company, xAI. The jury will begin deliberating on Monday and deliver an advisory verdict as soon as next week, with the judge ultimately deciding the case. If the judge rules in Musk's favor, it could upend OpenAI's plans for an IPO at a valuation approaching $1 trillion, while xAI is expected to go public as part of Musk's rocket company SpaceX as early as June at a target valuation of $1.75 trillion."
+  },
+  {
+    "id": "8242b735f49fc9b7",
+    "title_original": "v2.1.143",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143",
+    "description": "What's changedAdded plugin dependency enforcement:claude plugin disablenow refuses when another enabled plugin depends on the target (with a copy-pasteable disable-chain hint), andclaude plugin enableforce-enables transitive dependenciesAdded projected context cost (per-turn and per-invocation token estimates) to the/pluginmarketplace browse paneAddedworktree.bgIsolation: \"none\"setting to let background sessions edit the working copy directly withoutEnterWorktree, for repos where worktrees are impracticalPowerShell tool now passes-ExecutionPolicy Bypass. Opt out withCLAUDE_CODE_POWERSHELL_RESPECT_EXECUTION_POLICY=1Background sessions now preserve the model and effort level you set after waking from idleShift+Tab in attached agent sessions now includes auto mode in the cycleFixed a corrupt.credentials.jsonwith a non-arrayscopesvalue hanging the CLI on startup or silently aborting OAuth token refreshFixed right-click paste inclaude agentson Windows Terminal and WSLFixed stop hooks that b",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-05-15T22:28:22+00:00",
+    "fetched_at": "2026-05-16T06:31:13.672048+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.143",
+    "summary_he": "Claude Code v2.1.143 כולל שיפורים רבים, כולל הגברת תקינות תלויות פלאג-אין, תיקון תקלות ושיפורים בביצועי רצפים רקע.",
+    "details_he": "Claude Code v2.1.143 כולל שיפורים רבים, כולל הגברת תקינות תלויות פלאג-אין. נוספה תכונה לאפשר תקינות תלויות פלאג-אין, וכן נוספו תיקונים לתקלות שונות, כולל תיקון תקלות בביצועי רצפים רקע. כמו כן, נוספה תכונה לאפשר שימוש ב-PowerShell ככלי כלי רצפים רקע, וכן נוספו שיפורים בביצועי רצפים רקע, כולל שיפורים בביצועי רצפים רקע של Windows."
+  },
+  {
+    "id": "3a1541e310d60179",
+    "title_original": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+    "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+    "description": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-05-15T21:51:24+00:00",
+    "fetched_at": "2026-05-16T06:28:49.190848+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+    "summary_he": "A federal judge has delayed the approval of Anthropic's $1.5 billion copyright settlement due to concerns over high lawyer fees and low payouts to authors. The judge wants authors to address key concerns of objectors, who argue that the settlement is unfair to class members.",
+    "details_he": "The settlement, considered the largest copyright settlement in US history, has been met with objections from several authors and class members. They argue that lawyers' compensation is too high, with some requesting over $320 million in fees, while authors are only expected to receive $3,000 payouts. The objectors claim that the lawyers' pay should be tied to the total number of claimants, not the total amount in the settlement fund. One objector, Pierce Story, estimated that the large payout could break down to lawyers receiving between $10,000–$12,000 per hour, which he considers excessive. The judge has asked authors to address these concerns and provide a more reasonable plaintiff compensation plan."
+  },
+  {
+    "id": "0aaa37877f0f700e",
+    "title_original": "Living Off the Pipeline: Defending Against CI/CD Subversion",
+    "url": "https://www.sentinelone.com/blog/living-off-the-pipeline-defending-against-ci-cd-subversion/",
+    "description": "Learn how adversaries weaponize CI/CD pipelines and how continuous behavioral monitoring helps protect against software supply chain attacks.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-05-15T13:00:53+00:00",
+    "fetched_at": "2026-05-16T06:28:55.580208+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/living-off-the-pipeline-defending-against-ci-cd-subversion/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Living Off the Pipeline: Defending Against CI/CD Subversion",
+    "summary_he": "Learn how adversaries weaponize CI/CD pipelines and how continuous behavioral monitoring helps protect against software supply chain attacks.",
+    "details_he": ""
+  },
+  {
+    "id": "f9163920875a822e",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 20",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-20-7/",
+    "description": "Police dismantle dark web markets, threat actors weaponize AI for zero-day exploits, and ShinyHunters extorts an edutech giant via XSS flaws.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-05-15T13:00:14+00:00",
+    "fetched_at": "2026-05-16T06:28:55.580208+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-20-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 20",
+    "summary_he": "European authorities dismantled a major dark web marketplace, Crimenetwork, and arrested its administrator in Spain, while U.S. and German authorities detained the main operator behind Dream Market, Owe Martin Andresen, for international money laundering charges.",
+    "details_he": "The Crimenetwork marketplace, which was first disrupted in 2024, was rebooted and amassed over 22,000 registered users and 100 vendors in the last two years, generating an estimated €3.6 million in illicit revenue. The authorities seized the underlying infrastructure and approximately €194,000 in criminal assets. Meanwhile, Owe Martin Andresen, the main operator behind Dream Market, was detained for laundering over $2 million through an American cryptocurrency service provider, and law enforcement recovered approximately $1.7 million in gold bars and $23,000 in cash."
+  },
+  {
+    "id": "22506366958f6ec3",
+    "title_original": "The Case for a Vulnerability Operations Center",
+    "url": "https://blog.checkpoint.com/exposure-management/the-case-for-a-vulnerability-operations-center/",
+    "description": "Vulnerability remediation has become an execution problem. Security teams are generating more findings than ever, but too often those findings do not translate into timely risk reduction. The gap between newly introduced exposure and effective remediation continues to widen.  Addressing that gap requires more than improved scanning, better dashboards, or additional tooling. It requires a dedicated operating model. This is the role of the Vulnerability Operations Center, or VOC. As Dr. Natalie Foster Johnson, Executive Director of the CyberMINDS Research Institute, explains, “Operationalizing a VOC is a maturity step that allows organizations to address exposure concerns earlier, reducing risk before incidents occur rather than reacting afterward.”  A VOC centralizes how organizations […]The postThe Case for a Vulnerability Operations Centerappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-15T12:40:42+00:00",
+    "fetched_at": "2026-05-16T06:29:03.937261+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/the-case-for-a-vulnerability-operations-center/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Case for a Vulnerability Operations Center",
+    "summary_he": "Organizations are struggling to address the growing gap between newly introduced vulnerabilities and effective remediation, leading to a widening exposure risk. A dedicated Vulnerability Operations Center (VOC) is proposed as a solution to centralize and coordinate remediation efforts, reducing risk before incidents occur.",
+    "details_he": "The traditional vulnerability management approach, built for a slower environment, is no longer effective in today's rapidly changing cloud and hybrid architectures. Remediation ownership has fragmented across teams, leading to prioritization challenges and a focus on easy fixes rather than risk reduction. A VOC would centralize qualification, prioritization, and remediation, actively reducing exposure through coordinated action."
+  },
+  {
+    "id": "16bc22828411dece",
+    "title_original": "Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files",
+    "url": "https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/",
+    "description": "Unit 42 analyzes the evolution of Gremlin stealer. This variant uses advanced obfuscation, crypto clipping and session hijacking to compromise data.The postGremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Filesappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-05-15T10:00:52+00:00",
+    "fetched_at": "2026-05-16T06:28:53.958165+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files",
+    "summary_he": "Gremlin Stealer malware has been observed employing sophisticated techniques to evade detection, including the use of commercial packing utilities and instruction virtualization. This allows the malware to conceal its malicious payloads within embedded resources, making it challenging to identify. The malware targets sensitive information such as payment card details, browser cookies, and cryptocurrency wallet data.",
+    "details_he": "The Gremlin Stealer malware has undergone significant evolution, incorporating new anti-analysis safeguards into recent builds. It uses a commercial packing utility that employs instruction virtualization, transforming the original code into a custom bytecode executed by a private virtual machine. This makes it difficult to analyze and detect the malware. The malware targets web browsers, system clipboard, and local storage to exfiltrate sensitive information, which is then uploaded to an attacker-controlled site. Palo Alto Networks customers are better protected from Gremlin Stealer through their Network Security solutions and Cortex line of products."
+  },
+  {
+    "id": "30001342ae36a076",
+    "title_original": "The Boring Stuff is Dangerous Now",
+    "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
+    "description": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-05-18T13:00:00+00:00",
+    "fetched_at": "2026-05-16T06:28:50.598750+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Boring Stuff is Dangerous Now",
+    "summary_he": "בעידן החדש של הטכנולוגיה, גורמי הסכנה הפשוטים נהיו גם הם סכנה. גורמי חיזיון חדשים, המסוגלים לגלות ולנצל חולשות נסתרות, נוצרים לצד פיתוח של קוד AI שעלול להיות תקלה. זה מאלץ את המגנים להתאים, ולהתמודד עם הסכנה החדשה.",
+    "details_he": "גורמי חיזיון חדשים, כמו גורם 'Claude Mythos', יכולים לגלות ולנצל חולשות שלא נודעו קודם לכן. זה יוצר סכנה חדשה, שאין לה פתרון קל. כמו כן, פיתוח של קוד AI, עלול להיות תקלה, ולהגדיל את הסכנה. המגנים צריכים להתאים ולהתמודד עם הסכנה החדשה, ולבנות תהליך יותר אבטח."
+  }
+]
