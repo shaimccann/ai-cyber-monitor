@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-16T06:31:14.484154+00:00",
+  "timestamp": "2026-05-17T06:49:38.403046+00:00",
   "errors": [
     {
-      "title": "Living Off the Pipeline: Defending Against CI/CD Subversion",
-      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 194)",
+      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1165)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 58,
+  "total_scanned": 15,
   "selected": 10
 }
