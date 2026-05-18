@@ -1,17 +1,10 @@
 {
-  "timestamp": "2026-05-17T06:49:38.403046+00:00",
-  "errors": [
-    {
-      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1165)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-05-18T08:13:50.687897+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 9,
-  "fallback": 1,
-  "total_scanned": 15,
+  "success": 10,
+  "fallback": 0,
+  "total_scanned": 36,
   "selected": 10
 }
