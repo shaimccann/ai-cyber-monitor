@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ad084d2fc5b23e54",
+    "title_original": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
+    "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
+    "description": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung and Honeywell are running AI workloads on Dell AI Factories […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-18T22:28:59+00:00",
+    "fetched_at": "2026-05-19T07:53:04.327895+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
+    "summary_he": "NVIDIA CEO Jensen Huang הצהיר כי דרישה לאי עולה באופן 'מאוד פאראבולי', כשהוא מדגיש את חשיבות הטכנולוגיה של NVIDIA Vera Rubin NVL72 בפיתוח אי",
+    "details_he": "בנאום ב-Dell Technologies World, NVIDIA CEO Jensen Huang ציין כי דרישה לאי עולה באופן 'מאוד פאראבולי'. הוא הדגיש את חשיבות הטכנולוגיה של NVIDIA Vera Rubin NVL72 בפיתוח אי, שמאפשרת חישובים מהירים יותר ואפקטיביים. הטכנולוגיה כבר בשימוש ב-5,000 חברות, כולל Lilly, Samsung ו-Honeywell. הצפי הוא שההשקעה באי תגיע ל-3-4 טריליון דולר עד 2030, עם ציפייה לצריכה של 3,400% באותו זמן."
+  },
+  {
+    "id": "211e19a2acc234e2",
+    "title_original": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "description": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-18T21:48:17+00:00",
+    "fetched_at": "2026-05-19T07:53:04.327895+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
+    "summary_he": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.",
+    "details_he": ""
+  },
+  {
+    "id": "141549e23f3c7f04",
+    "title_original": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-18T16:00:21+00:00",
+    "fetched_at": "2026-05-19T07:53:03.991375+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "summary_he": "NVIDIA Cosmos Predict 2.5, a large-scale world model, can generate realistic videos based on text, images, or video clips. However, fine-tuning it for specific domains, such as robot manipulation, requires significant resources and can lead to knowledge loss. Researchers have developed a parameter-efficient fine-tuning method using LoRA/DoRA adapters to adapt the model to different domains.",
+    "details_he": "The method, which uses LoRA (Low-Rank Adaptation) and DoRA (Dense Orthogonal Regularization) adapters, injects small trainable modules into the frozen base model, reducing memory requirements and making it practical to fine-tune on a single GPU. This approach allows for flexible swapping of adapters for different domains at inference, making it a scalable alternative to collecting real-robot trajectories. The method is demonstrated using the diffusers and accelerate libraries, with support for both single- and multi-GPU training, and is applied to generate synthetic robot trajectories for downstream robot learning tasks."
+  },
+  {
+    "id": "18981f9908e61a48",
+    "title_original": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-18T15:12:46+00:00",
+    "fetched_at": "2026-05-19T07:53:03.991375+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "summary_he": "PaddleOCR 3.5 מאפשרת למודלי OCR ופישוט תיעודי לרוץ עם רקע Transformers, כתוצאה משילוב עם Hugging Face. זה נעשה על ידי שינוי הפרמטר engine ל\"transformers\".",
+    "details_he": "PaddleOCR 3.5 מביאה שינויים חשובים במערכת ה-RUNTIME שלה, כך שהיא נותנת למפתחים אפשרות לבחור את ה-RUNTIME שלהם. כך, PaddleOCR נותנת למפתחים אפשרות לבחור בין Paddle static graph, Paddle dynamic graph, ו-Transformers. זה יכול להיות חשוב, כי רבים מה-LLM נמצאים ב-Hugging Face, ואפשרות זו תאפשר למפתחים להשתלב יותר קלות באקוסטם של Hugging Face. כמו כן, PaddleOCR 3.5 נותנת למפתחים אפשרות לבחור בין פלטפורמות שונות, כגון Paddle static graph, Paddle dynamic graph, ו-Transformers."
+  },
+  {
+    "id": "cc380e60216fc915",
+    "title_original": "The Open Agent Leaderboard",
+    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-18T14:12:58+00:00",
+    "fetched_at": "2026-05-19T07:53:03.991375+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Open Agent Leaderboard",
+    "summary_he": "מערכת לבדיקת סוכני AI כלליים חדשה נחשפה, המספקת תוצאות על יכולתם של סוכנים להתאים לסביבות שונות.",
+    "details_he": "המערכת, הנקראת Open Agent Leaderboard, מספקת תוצאות על יכולתם של סוכני AI להתאים לסביבות שונות, כולל תוצאות על יכולתם לטפל במשימות שונות, כגון קוד, שירות ללקוחות, ועוד. המערכת מספקת גם תוצאות על עלות השימוש בסוכנים, כך שניתן לראות לא רק את היכולת שלהם, אלא גם את העלות שלהם. המערכת נבנתה כדי לבדוק את יכולתם של סוכני AI להתאים לסביבות שונות, ולא רק את יכולתם של המודלים הפנימיים שלהם."
+  },
+  {
+    "id": "ff426d044839b5dd",
+    "title_original": "How Storm-2949 turned a compromised identity into a cloud-wide breach",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/",
+    "description": "Storm-2949 turned stolen credentials into a cloud-wide breach, moving from identity compromise to large-scale data theft without using malware. This incident shows how threat actors can exploit trusted systems to operate undetected.The postHow Storm-2949 turned a compromised identity into a cloud-wide breachappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-18T22:42:50+00:00",
+    "fetched_at": "2026-05-19T07:53:10.997930+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Storm-2949 turned a compromised identity into a cloud-wide breach",
+    "summary_he": "Storm-2949, a sophisticated threat actor, carried out a multi-layered attack on a target organization's cloud infrastructure, exfiltrating sensitive data from Microsoft 365 applications and Azure-hosted environments. The attack began with a targeted identity compromise, which evolved into a full-spectrum assault on the organization's cloud resources. This highlights the growing threat of identity-driven attacks in cloud environments.",
+    "details_he": "The attack, which spanned various Azure resources, utilized legitimate cloud and Azure management features to gain control-plane and data-plane access. Storm-2949 leveraged these features to execute code remotely on VMs and access sensitive cloud resources, such as Key Vaults and storage accounts. This allowed them to move laterally across cloud and endpoint environments, blending into expected administrative behavior. As organizations increasingly adopt cloud infrastructure, threat actors are targeting identity and control plane access, making it essential for teams to implement behavior-based detections across endpoints, cloud environments, and identities to identify and correlate these activities."
+  },
+  {
+    "id": "d4d4609f6c1b3a43",
+    "title_original": "How to better protect your growing business in an AI-powered world",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/",
+    "description": "See how built-in security helps keep your growing business running, protect customer trust, and support growth.The postHow to better protect your growing business in an AI-powered worldappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-05-18T16:00:00+00:00",
+    "fetched_at": "2026-05-19T07:53:10.997930+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to better protect your growing business in an AI-powered world",
+    "summary_he": "ארגונים קטנים וגדלים צריכים להתאים את עצמם לעולם שבו טכנולוגיית AI תשתלט על כל תחומי החיים, כדי להישאר מוגנים.",
+    "details_he": "ארגונים קטנים וגדלים נדרשים להתאים את עצמם לעולם שבו טכנולוגיית AI תשתלט על כל תחומי החיים. כדי להישאר מוגנים, יש להם להתמקד בהגנה על רכושם הדיגיטלי, כולל רכישת טכנולוגיות הגנה חדישות. כמו כן, יש להם לבחון את תפעולי האבטחה שלהם, כדי להבטיח שהם עומדים בתקנים המחמירים של היום."
+  },
+  {
+    "id": "ed4fa72841db8b56",
+    "title_original": "18th May – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 18th May, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Vodafone, a major international telecom, has sustained a source code leak claimed by the Lapsus$ extortion group. The company confirmed limited access to GitHub files through compromised third-party development software, while stating that […]The post18th May – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-18T14:58:29+00:00",
+    "fetched_at": "2026-05-19T07:53:15.661412+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "18th May – Threat Intelligence Report",
+    "summary_he": "Vodafone, חברה בינלאומית לתקשורת, ספגה פריצה בקוד תוכנה שנטען על ידי קבוצת Lapsus$, ומדובר בפריצה של גישה מוגבלת לקובצי GitHub דרך תוכנה לפיתוח של חברה זרה.",
+    "details_he": "בדיווח של Check Point Research, נאמר כי Vodafone אישרה כי נפגעה מפריצה בקוד תוכנה, וכי הפריצה נגרמה דרך תוכנה לפיתוח של חברה זרה. קבוצת Lapsus$ טענה כי הם היו האחראים לפריצה. הדיווח גם ציין כי Vodafone הצהירה כי הפריצה הייתה מוגבלת ולא גרמה לפגיעה במערכות התקשורת שלה."
+  },
+  {
+    "id": "908740a11b48e284",
+    "title_original": "SHub Reaper | macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain",
+    "url": "https://www.sentinelone.com/blog/shub-reaper-macos-stealer-spoofs-apple-google-and-microsoft-in-a-single-attack-chain/",
+    "description": "SHub Reaper bypasses Apple's Terminal mitigation, steals credentials and documents, and plants a persistent backdoor for continued access after infection.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-05-18T13:00:42+00:00",
+    "fetched_at": "2026-05-19T07:53:15.476006+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/shub-reaper-macos-stealer-spoofs-apple-google-and-microsoft-in-a-single-attack-chain/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SHub Reaper | macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain",
+    "summary_he": "SHub Reaper bypasses Apple's Terminal mitigation, steals credentials and documents, and plants a persistent backdoor for continued access after infection.",
+    "details_he": ""
+  },
+  {
+    "id": "634cb2ce46988315",
+    "title_original": "Hacktivists, Ransomware, and a 124% Surge Across DACH",
+    "url": "https://blog.checkpoint.com/exposure-management/hacktivists-ransomware-and-a-124-surge-the-dach-threat-picture/",
+    "description": "Hacktivism and ransomware targeting organizations across Germany, Austria, and Switzerland increased 124% in 2025, according to Check Point Exposure Management (based on published attacks on the web and dark web). Three distinct dynamics drove the surge, each with its own logic and its own implications for security teams in 2026.  Germany Absorbed Most of It  Germany accounted for more than 80% of regional incidents, with Switzerland at 12% and Austria at 8%. Across Europe, the DACH region represented 18% of all recorded attacks, placing Germany above France, Spain, and Italy by individual country share.  The concentration reflects Germany’s economic and […]The postHacktivists, Ransomware, and a 124% Surge Across DACHappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-18T13:00:27+00:00",
+    "fetched_at": "2026-05-19T07:53:24.916217+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/hacktivists-ransomware-and-a-124-surge-the-dach-threat-picture/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hacktivists, Ransomware, and a 124% Surge Across DACH",
+    "summary_he": "תקיפות תקיפה וראנסומאר עלו ב-124% ב-DACH ב-2025, על פי Check Point Exposure Management. גרמניה הייתה המדינה המותקפת ביותר, עם 82% מהתקיפות, ואת ה-18% האחרות סיפקו שווייץ ואוסטריה.",
+    "details_he": "העלייה בתקיפות נובעת מכמה גורמים, כולל פרופיל הכלכלי והפוליטי של גרמניה. המדינה היא אחת הכלכלות הגדולות באיחוד האירופי ותורמת רבות למאמצי התמיכה באוקראינה. זה גורם לכך שגרמניה היא יעד מועדף לתקיפות. כמו כן, קבוצות התקיפה הפועלות ב-DACH, כמו NoName057(16), Mr Hamza, chinafans, Dark Storm Team, ו-Hezi Rash, פעלו כדי להגביר את המסר הפוליטי שלהן. "
+  }
+]
