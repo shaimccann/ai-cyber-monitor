@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fffc25a710cf94f9",
+    "title_original": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+    "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
+    "description": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud.  Launched at Google I/O last year, the community […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-19T20:30:09+00:00",
+    "fetched_at": "2026-05-20T07:52:24.757498+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+    "summary_he": "NVIDIA ו-Google Cloud מספקים כלים למפתחים חדשים בתחום AI, כחלק מקהילת המפתחים המשותפת שלהם.",
+    "details_he": "NVIDIA ו-Google Cloud חוזקו יחדיו בכנס Google I/O, ומאפשרים למעל 100,000 מפתחים לבנות AI על פלטפורמת NVIDIA AI על Google Cloud. הקהילה, שהושקה בכנס Google I/O של שנה שעברה, מאגדת מפתחים, מדעני נתונים ומהנדסי ML שרוצים לשפר את יכולותיהם ב-AI על הטכנולוגיות האחרונות של NVIDIA ו-Google Cloud. כחלק מהקהילה, NVIDIA ו-Google Cloud מספקים כלים חדשים, כולל דרך למידה לשימוש ב-JAX library על NVIDIA GPUs, וכן סדנאות ואירועים יומיומיים."
+  },
+  {
+    "id": "de60a5804d2f8b3a",
+    "title_original": "Introducing OpenAI for Singapore",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-19T20:30:00+00:00",
+    "fetched_at": "2026-05-20T07:52:22.346809+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-for-singapore"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing OpenAI for Singapore",
+    "summary_he": "OpenAI היא חברה שהוקמה על מנת לספק פתרונות AI, ובעתיד תספק תמיכה לארגונים בסינגפור כדי לפתח טכנולוגיות AI.",
+    "details_he": "OpenAI יצרה חברות עם משרד הפיתוח הדיגיטלי והמידע (MDDI) של סינגפור, כדי לתמוך באסטרטגיה הלאומית של סינגפור בתחום AI. OpenAI תספק תמיכה לארגונים בסינגפור, כדי לפתח טכנולוגיות AI ולפתח כוח אדם חדש. OpenAI תספק תמיכה לארגונים בסינגפור, כדי לפתח טכנולוגיות AI ולפתח כוח אדם חדש. OpenAI תספק תמיכה לארגונים בסינגפור, כדי לפתח טכנולוגיות AI ולפתח כוח אדם חדש."
+  },
+  {
+    "id": "3173b1c86e77353a",
+    "title_original": "OlmoEarth v1.1: A more efficient family of models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-19T18:38:09+00:00",
+    "fetched_at": "2026-05-20T07:52:24.462636+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OlmoEarth v1.1: A more efficient family of models",
+    "summary_he": "אנחנו הודיענו על OlmoEarth v1.1, משפחה חדשה של דגמים שמציעה יעילות גבוהה יותר ומחיר נמוך יותר. הדגמים החדשים יכולים לקצר את העלויות המחשוביות בעד 3x, כאשר הביצועים שלהם נשמרים.",
+    "details_he": "אנחנו השתמשנו בשיטה של פיצול נתוני התמונה לחתיכות על סמך רזולוציה, וכעת אנחנו חוקרים את השאלה: מה יהיה הסמל המושגי של חתיכה זו. השיטה החדשה של OlmoEarth v1.1, היא יעילה יותר ומאפשרת לנו לתמוך בעוד יותר שותפים בפלטפורמת OlmoEarth, וכן לאפשר לאנשים שמפעילים OlmoEarth בעצמם להשתמש בטכנולוגיה זו במהירות ובעלויות נמוכות יותר."
+  },
+  {
+    "id": "19e6b2e1515eb8b8",
+    "title_original": "I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "description": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T07:52:23.566172+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "I/O 2026",
+    "summary_he": "Google I/O 2026 הציגה שיפורים חדשים בטכנולוגיית AI, כולל שני דגמים חדשים של Gemini, ושיפורים במגוון תוכניות ומוצרים. הדגמים החדשים, Gemini Omni ו-Gemini 3.5, יכולים ליצור תכנים מכל סוג, ולעזור בביצוע זרימות עבודה מורכבות.",
+    "details_he": "Google I/O 2026 הציגה שיפורים חדשים בטכנולוגיית AI, כולל שני דגמים חדשים של Gemini, ושיפורים במגוון תוכניות ומוצרים. הדגמים החדשים, Gemini Omni ו-Gemini 3.5, יכולים ליצור תכנים מכל סוג, ולעזור בביצוע זרימות עבודה מורכבות. כמו כן, Google I/O 2026 הציגה שיפורים במוצרי Google, כולל גרסה חדשה של האפליקציה Gemini, ושיפורים בתוכניות כגון Search, Shopping ו-Android. השיפורים בטכנולוגיית AI של Google I/O 2026 יכולים להביא לשיפורים חשובים בתחומים שונים, כגון יצירת תכנים, ביצוע זרימות עבודה, ועוד."
+  },
+  {
+    "id": "ca7f2042e5fa4b0b",
+    "title_original": "How AI Mode is changing the way people search in the U.S.",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+    "description": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T07:52:23.566172+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How AI Mode is changing the way people search in the U.S.",
+    "summary_he": "AI Mode, a feature launched by Google in the U.S. a year ago, has reached a billion monthly active users worldwide and has seen a significant increase in queries, with people asking more complex and conversational questions.",
+    "details_he": "The feature has led to a shift in how people search, with more than one in six searches in the U.S. now using voice or images, and the average AI Mode search being triple the length of a traditional Search query. Additionally, AI Mode queries related to planning have grown by 80% in the past six months, and brainstorming queries have increased by 30% since launch. These changes indicate that AI Mode is expanding the definition of what's searchable and enabling users to ask more complex and conversational questions."
+  },
+  {
+    "id": "1a942b17e41bb571",
+    "title_original": "durabletask: TeamPCP's Latest PyPi Compromise",
+    "url": "https://www.wiz.io/blog/durabletask-teampcp-supply-chain-attack",
+    "description": "Discover the latest on malicious versions of the pypi package durabletask, matching TeamPCP tactics.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-19T17:30:20+00:00",
+    "fetched_at": "2026-05-20T07:52:34.262701+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/durabletask-teampcp-supply-chain-attack"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "durabletask: TeamPCP's Latest PyPi Compromise",
+    "summary_he": "TeamPCP's ongoing supply chain campaign has led to the compromise of Microsoft's official Python client for the Durable Task workflow execution framework, durabletask, in versions 1.4.1, 1.4.2, and 1.4.3. These packages have been quarantined by PyPi following Wiz's analysis.",
+    "details_he": "The compromised packages were linked to a previously reported attack wave, @antv wave, which involved a compromised user account that targeted the microsoft/durabletask-python repository. The attacker's activity matched past examples of leveraging compromised credentials to dump secrets from GitHub, and the PyPi token was present within the GitHub secrets. The malware payload is a slight evolution of the one previously deployed in the compromise of the guardrails-ai package on May 11th, and it has been observed to steal credentials for various cloud services, including AWS, Azure, and GCP, as well as propagate laterally within Kubernetes environments. Security teams should immediately identify exposure by searching for durabletask versions 1.4.1, 1.4.2, or 1.4.3 and check for persistence by searching for the infection marker ~/.cache/.sys-update-check or ~/.cache/.sys-update-check-k8s on affected systems."
+  },
+  {
+    "id": "d12f686532447860",
+    "title_original": "Exposing Fox Tempest: A malware-signing service operation",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/",
+    "description": "Fox Tempest is a financially motivated threat actor operating a malware‑signing‑as‑a‑service (MSaaS) used by other cybercriminals, including Vanilla Tempest and Storm groups, to more effectively distribute malicious code, including ransomware.The postExposing Fox Tempest: A malware-signing service operationappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-19T15:07:01+00:00",
+    "fetched_at": "2026-05-20T07:52:30.532828+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Exposing Fox Tempest: A malware-signing service operation",
+    "summary_he": "Fox Tempest, a financially motivated threat actor, provides a malware-signing service to other cybercriminals, enabling them to distribute malicious code more effectively.",
+    "details_he": "Fox Tempest's operation is used by threat actors such as Vanilla Tempest and Storm groups to sign malware, including ransomware, making it more difficult to detect. This malware-signing-as-a-service (MSaaS) model allows cybercriminals to create and distribute malicious code without having to obtain their own digital certificates. The use of Fox Tempest's service increases the effectiveness of these threat actors in distributing malicious code."
+  },
+  {
+    "id": "b5b26e9dde4acbe0",
+    "title_original": "Turn Blind Trust into Verified Control with Prompt Security for Agentic AI",
+    "url": "https://www.sentinelone.com/blog/prompt-security-for-agentic-ai/",
+    "description": "Prompt for Agentic AI Security empowers organizations with proactive governance, meaning security teams can deploy agents with confidence.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "ai",
+    "published": "2026-05-19T13:43:37+00:00",
+    "fetched_at": "2026-05-20T07:52:33.779042+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/prompt-security-for-agentic-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Turn Blind Trust into Verified Control with Prompt Security for Agentic AI",
+    "summary_he": "Organizations are adopting agentic AI at an alarming rate, but the security models required to govern it are lagging behind. This shift in AI capabilities introduces new security challenges that traditional controls were not designed to handle.",
+    "details_he": "Agentic AI systems are executing tasks independently across tools, data, and environments, making it difficult for organizations to maintain visibility and control. These systems can interpret goals, break them into subtasks, and execute actions without human approval, introducing construction-time risks such as overly permissive IAM roles and hardcoded API keys. Runtime risks include prompt injection attacks and unauthorized action chaining, which can produce real-world consequences."
+  },
+  {
+    "id": "187fdafe2e280a62",
+    "title_original": "Introducing Runtime Threat Detection for Google Cloud Run",
+    "url": "https://www.wiz.io/blog/introducing-runtime-threat-detection-for-google-cloud-run",
+    "description": "Wiz Runtime Sensor support for Google Cloud Run Containers is now generally available, giving teams real-time threat detection and response for their serverless container workloads.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-19T13:17:41+00:00",
+    "fetched_at": "2026-05-20T07:52:34.262701+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-runtime-threat-detection-for-google-cloud-run"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Runtime Threat Detection for Google Cloud Run",
+    "summary_he": "Google Cloud Run מציגה תגובה חדשה לאיומי אבטחה, המאפשרת לצוותי אבטחה לזהות ולהשיב לאיומים בזמן אמת.",
+    "details_he": "Wiz Runtime Sensor, שכעת זמין בגרסה סדרתית, מאפשר לצוותי אבטחה לקבל תצוגה ממוחשבת וממוזערת של פעילות הרצה בתוך רכיבי Cloud Run. ה-Wiz Runtime Sensor חוקר את ההתנהגות של רכיבי Cloud Run, ומזהה איומים פעילים, כגון ריצת קוד זדוני, יישום שלל רוורס, או שאילת DNS לתחום ידוע-זדוני. Wiz כבר מספקת כיסוי אבטחה חסר-אגן ל-Cloud Run, ועכשיו ה-Wiz Runtime Sensor מספקת תגובה חדשה לאיומי אבטחה בזמן אמת. ה-Wiz Runtime Sensor נותן לצוותי אבטחה את היכולת להשיב לאיומים באופן אוטומטי, ולמנוע נזק לשרתי Cloud Run."
+  },
+  {
+    "id": "d95b5d9ba8bd51a4",
+    "title_original": "The Network Security Problem No One Could Solve – Until Now.",
+    "url": "https://blog.checkpoint.com/security/the-network-security-problem-no-one-could-solve-until-now/",
+    "description": "Networks used to be simple. A perimeter. A data center. A set of rules a single engineer could hold in their head. That world is long gone. Every wave of enterprise transformation – cloud migration, M&A, hybrid multi-cloud, IoT, remote work – added another layer of complexity. Each with its own topology, traffic patterns, and security assumptions. The complexity grew exponentially. And security followed, manually – more policies to author, more configurations to validate, more vendors to manage. The part that doesn’t show up in vendor presentations is that modern network security runs on institutional know-how. It lives in the […]The postThe Network Security Problem No One Could Solve – Until Now.appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-19T13:00:16+00:00",
+    "fetched_at": "2026-05-20T07:52:43.729625+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/the-network-security-problem-no-one-could-solve-until-now/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Network Security Problem No One Could Solve – Until Now.",
+    "summary_he": "אף שקיימות תקלות רבות בביטחון הרשת, חברות תקינות יכולות להשתמש בטכנולוגיה חדשה לפתרון הבעיה. הפלטפורמה החדשה, Check Point's Agentic Network Security Orchestration Platform, מאפשרת לצוותי ביטחון להגדיר את המטרות העסקיות, ולטכנולוגיה לפעול לפיהן.",
+    "details_he": "בעבר, רשתות היו פשוטות. גבול. מרכז נתונים. קביעת כללים שלנכ\"ל. עולם זה נעלם. כל גל של התמודדות עסקית - הגרעין, M&A, רשתות חיבר, IoT, עבודה רחוקה - הוסיף שכבה נוספת של הרכבה. כל אחת עם טופולוגיה, תבניות תנועה והנחות ביטחון. ההרכבה גדלה כפול. והביטחון עקב, באופן ידני - יותר כללים לכתוב, יותר הגדרות לאשר, יותר ספקים לנהל. החלק שאינו נראה בהצגות הספקים הוא שביטחון הרשת המודרני נעלם בידע מוסדי. הוא חי בראשי יועצי טכנולוגיה שזיכרונם מסביר מדוע כלל הוקם שמונה שנים לפני כן, בידע שבטי על שינויים שבטוחים, ובטבלאות שעוקבות אחרי איונים נצחיים. כאשר אלה הנכ\"לים יוצאים, הכלל נשאר. המטרה האחריו אינה."
+  }
+]
