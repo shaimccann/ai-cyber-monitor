@@ -1,0 +1,212 @@
+[
+  {
+    "id": "65167fdf4dfe54f4",
+    "title_original": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-05-21T19:46:42+00:00",
+    "fetched_at": "2026-05-22T07:50:54.259276+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "summary_he": "Google DeepMind Accelerator program is launched in Asia Pacific to address environmental challenges, focusing on AI solutions for climate, nature, and more.",
+    "details_he": "The Asia-Pacific region is highly vulnerable to climate change despite being a global engine for economic growth. To tackle this, Google is launching the Google DeepMind Accelerator program, which is designed for startups, research teams, and nonprofits to use frontier AI to solve environmental problems. The program will provide expert mentorship, tailored support, and integration of AI models from Google AI experts into projects or products."
+  },
+  {
+    "id": "46b8eab0ee3e36ce",
+    "title_original": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+    "url": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "description": "MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks.The postMagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small modelsappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-21T17:00:00+00:00",
+    "fetched_at": "2026-05-22T07:50:54.857046+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+    "summary_he": "Microsoft Research AI Frontiers releases MagenticLite, an experimental agentic application designed for small models, which combines a redesigned app with a harness optimized for efficient performance.",
+    "details_he": "MagenticLite is powered by two purpose-built models: MagenticBrain, for reasoning, delegation, and terminal use, and Fara1.5, a computer-use model family for browser-based tasks. The project aims to push the limits of agentic performance with smaller models, codesigned tools, and an optimized execution harness. This release reflects Microsoft's approach to agentic AI, from training data and model design to orchestration, interaction design, and human oversight throughout the experience."
+  },
+  {
+    "id": "06c3c0c8bce86299",
+    "title_original": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+    "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+    "description": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI factories and scaling infrastructure to agentic and physical AI and more.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-21T16:00:17+00:00",
+    "fetched_at": "2026-05-22T07:50:55.745294+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+    "summary_he": "NVIDIA הוכרזה כזוכה בפרסי COMPUTEX 2026 Best Choice Awards, ומערכת NVIDIA Vera Rubin NVL72 זכתה בפרס הזהב ובפרס Sustainable Tech Special Award.",
+    "details_he": "NVIDIA Vera Rubin NVL72 היא מערכת AI רכזת-קנה שמחברת 36 יחידות NVIDIA Vera CPUs ו-72 יחידות NVIDIA Rubin GPUs, והיא נועדה לסקאלה את התפוקה של AI factories. המערכת זכתה בפרסי COMPUTEX 2026 Best Choice Awards בקטגוריות AI computing, integrated circuits ו- autonomous vehicle (AV) development. NVIDIA Vera Rubin NVL72 מציעה תפוקה של 10x גבוה יותר לפי וואט ו-10x נמוך יותר בעלות על פי יחידה."
+  },
+  {
+    "id": "3985e7b74b56d39c",
+    "title_original": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+    "url": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "description": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps.The postVega: Zero-knowledge proofs for digital identity in the age of AIappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-21T13:48:40+00:00",
+    "fetched_at": "2026-05-22T07:50:54.857046+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+    "summary_he": "Vega, a new technology, enables users to prove facts from government-issued credentials without revealing the credential itself, addressing the need for fast and privacy-preserving digital identity verification in the age of AI.",
+    "details_he": "Vega uses zero-knowledge proofs, a cryptographic tool that allows users to prove a claim without revealing any additional information. This technology is particularly useful in the context of AI, where users need to establish trust with digital services, such as AI-powered assistants and autonomous agents. Vega targets real-world formats like mobile driver's licenses and the EU Digital Identity Wallet, and is built in Rust, with plans to be open sourced soon. The technology has the potential to revolutionize digital identity verification, making it practical and private at scale."
+  },
+  {
+    "id": "7a8f39a67fd37252",
+    "title_original": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/",
+    "description": "The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready to stream instantly. Leading the drop: the 007 First Light Ultimate Membership Bundle, which brings a brand-new way to jump […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-21T13:00:22+00:00",
+    "fetched_at": "2026-05-22T07:50:55.745294+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
+    "summary_he": "GeForce NOW הציגה 8 משחקים חדשים, כולל ערכת Ultimate Bundle של 007 First Light, שבואה לשרת הערפל של NVIDIA.",
+    "details_he": "GeForce NOW הציגה 8 משחקים חדשים, כולל ערכת Ultimate Bundle של 007 First Light, שבואה לשרת הערפל של NVIDIA. הערכת Ultimate Bundle של 007 First Light כוללת גרסה חדשה של סיפור המקור של ג'יימס בונד, והיא כרוכה במשחקי ספיד, גזרה ומשחקי חבר. Forza Horizon 6, שגם הוצגה, היא עולם פתוח של מרוצי כלי רכב, שבו ניתן לנצל את כל האפשרויות של המשחק. GeForce NOW מאפשרת לשחקים לשחק במשחקים אלה באיכות גבוהה, כולל תמונה ב-5K ו-Dynamic Range גבוה. הערכת Ultimate Bundle של 007 First Light כרוכה בשירות 12-חודשי של GeForce NOW Ultimate, והיא כרוכה בגישה למשחק כאשר הוא יוצא לאור. השחקן יכול להשיג את המשחק על ידי כניסה לחשבון שלו ולחיצה על 'Available to Redeem' בחלון החשבון שלו."
+  },
+  {
+    "id": "5aa27297a4d1a2df",
+    "title_original": "Claude Enterprise Meets the Security Graph: Wiz Integrates with Anthropic's Compliance API",
+    "url": "https://www.wiz.io/blog/claude-wiz-integration",
+    "description": "Security and compliance teams can now monitor Claude activity directly in Wiz, extending the workflows they already rely on to AI",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-21T17:05:00+00:00",
+    "fetched_at": "2026-05-22T07:51:04.950267+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/claude-wiz-integration"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Claude Enterprise Meets the Security Graph: Wiz Integrates with Anthropic's Compliance API",
+    "summary_he": "Wiz הציגה היום פתרון לבעיית ניהול זכויות ל-Claude Enterprise, על ידי השקת פלטפורמה חדשה של API",
+    "details_he": "Wiz, חברה לניהול ביטחון, השיקה היום פתרון חדש לניהול זכויות ל-Claude Enterprise, API של Anthropic. הפתרון, שנקרא Wiz, מאפשר לארגונים לגלות ולמפות את פעילותם של עובדים ב-Claude Enterprise, כולל זכויות והיתרים. Wiz גם מספקת תמונת מצב מלאה של פרויקטים ומטא-דטה, כולל קבצים, סטטוס של פרטיות ובעלות. זה יאפשר לארגונים להבין כיצד פרויקטים נמצאים בשימוש בארגון ומי האחראי עליהם. Wiz גם מספקת תמונת מצב של נתוני AI שמחוברים לפרויקטים ולעבודות של Claude, כך שארגונים יכולים להבין כיצד נתונים אלה נמצאים בשימוש. Wiz תספק תמונת מצב זו לכל הצוותים שזקוקים לה, כולל מהנדסי ביטחון, מנהלי זכויות ואחרים."
+  },
+  {
+    "id": "d9abb285c5bf326c",
+    "title_original": "What’s new in Microsoft Security: May 2026",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/",
+    "description": "Microsoft Security’s latest updates extend visibility, control, and protection across expanding ecosystems as organizations accelerate AI adoption.The postWhat’s new in Microsoft Security: May 2026appeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-05-21T16:00:00+00:00",
+    "fetched_at": "2026-05-22T07:51:00.900337+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What’s new in Microsoft Security: May 2026",
+    "summary_he": "Microsoft הציגה כלי פתוח לפיתוח זהב של מערכות AI, כדי להבטיח את אמינותן.",
+    "details_he": "Microsoft הציגה כלי פתוח בשם RAMPART ו-Clarity, שמטרתם להבטיח את אמינותן של מערכות AI. כלי אלה יאפשרו למפתחים לבדוק את אמינותן של המערכות, ולמנוע פגיעה באבטחת המערכות. כלי אלה יכולים לסייע בהגברת אמינותן של המערכות, ולמנוע פגיעה באבטחתן."
+  },
+  {
+    "id": "34440c11de34dc76",
+    "title_original": "The npm Threat Landscape: Attack Surface and Mitigations (Updated May 21)",
+    "url": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
+    "description": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more.The postThe npm Threat Landscape: Attack Surface and Mitigations (Updated May 21)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-05-21T15:30:33+00:00",
+    "fetched_at": "2026-05-22T07:51:03.026768+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The npm Threat Landscape: Attack Surface and Mitigations (Updated May 21)",
+    "summary_he": "במהלך החודשים האחרונים, צוות Unit 42 צפה בעלייה חדה בתדרוגי התקיפה ובעומק הטכני של התקיפות בשרת npm. התקיפות החלו להיות מאורגנות ומסוגלות להשתמש באמצעי חבילות npm כדי להפצית מאלף חבילות.",
+    "details_he": "בחודשי האחרונים, צוות Unit 42 צפה בעלייה חדה בתדרוגי התקיפה ובעומק הטכני של התקיפות בשרת npm. התקיפות החלו להיות מאורגנות ומסוגלות להשתמש באמצעי חבילות npm כדי להפצית מאלף חבילות. התקיפות כוללות גם חבילות של תוכנה פגומה, שמטרתן לגנוב נתונים ולהפצית תוכנה פגומה. התקיפות הללו עלולות לגרום לנזק רב לעסקים ולארגונים שמשתמשים בשרת npm."
+  },
+  {
+    "id": "4e98515cba4884dd",
+    "title_original": "Protect GenAI Chatbots with Check Point WAF",
+    "url": "https://blog.checkpoint.com/hybrid-mesh/protect-genai-chatbots-with-check-point-waf/",
+    "description": "Generative AI chatbots are quickly becoming the new front door to your business. They answer customer questions, support employees, guide buyers, and increasingly connect to internal documents, APIs, knowledge bases, and business workflows. That convenience creates a new risk for you, chatbot may now speak on behalf of your brand, access sensitive information, or influence customer decisions. Some of the Chatbot incidents show how quickly this can go wrong A car dealership chatbot was manipulated into a $1 car offer Air Canada faced liability after its chatbot gave misleading refund guidance Sears Home Services had millions of records of customers […]The postProtect GenAI Chatbots with Check Point WAFappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-05-21T13:00:32+00:00",
+    "fetched_at": "2026-05-22T07:51:13.592893+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/hybrid-mesh/protect-genai-chatbots-with-check-point-waf/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Protect GenAI Chatbots with Check Point WAF",
+    "summary_he": "Check Point WAF מספק הגנה בזמן אמת לשיחות GenAI, כדי למנוע פגיעה באמינות המותג ובנתוני הלקוחות.",
+    "details_he": "שיחות GenAI נותנות גישה למידע רגיש, ואף למערכות פנימיות, כמו תיקי לקוחות, תיקי עסק, ואף למערכות API. כאשר חברות נחשפות לסכנות חדשות, כאשר חטיפת פגיעה יכולה לגרום לפגיעה באמינות המותג, חשיפת נתוני לקוחות, סיכון כלשוני, ואף פגיעה במותג. Check Point WAF היא פתרון שמספק הגנה בזמן אמת, כדי למנוע פגיעה באמינות המותג ובנתוני הלקוחות. חברות צריכות להתייחס לארבעה סכנות עיקריות: חטיפת פגיעה, חשיפת נתוני לקוחות, חטיפת פגיעה, ופגיעה באמינות המותג."
+  },
+  {
+    "id": "8d177b056e87614f",
+    "title_original": "CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
+    "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
+    "description": "The Cybersecurity and Infrastructure Security Agency (CISA) announced the creation of a nomination form on Thursday that they said enables “researchers, vendors, and industry partners” to report bugs that need to be added to the Known Exploited Vulnerabilities catalog.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-05-23T01:11:00+00:00",
+    "fetched_at": "2026-05-22T07:51:00.005662+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
+    "summary_he": "CISA הקימה דרך חדשה למחקרנים לדווח על חולשות לקטלוג של חולשות שנפגעו, כדי לעזור להגביר את הביטחון הסייברי",
+    "details_he": "CISA הכריזה על יצירת צורף תצוגה חדש למחקרנים, ספקים ושותפים בתעשייה, כדי לדווח על חולשות שנפגעו. כך, CISA יכולה לזהות, לאשר ולשתף מידע קריטי על איומי סייבר. הקטלוג, הידוע בשם KEV, מספק מידע מומחה להגנת סייבר בממשלה הפדרלית. הדיווחים על חולשות ל-CISA הם 'מכריעים למאזן הביטחון הסייברי של המדינה, ומסייעים לגלות חולשות שנפגעו במהירות, לשתף מידע באופן אחראי ולמנוע אותן במהירות ברשתות פדרליות, פרטיות ובסקירת קריטיות'."
+  }
+]
