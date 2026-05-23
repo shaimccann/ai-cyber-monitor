@@ -1,10 +1,17 @@
 {
-  "timestamp": "2026-05-22T07:53:24.522850+00:00",
-  "errors": [],
+  "timestamp": "2026-05-23T06:42:34.205430+00:00",
+  "errors": [
+    {
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Mod",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 1189)",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 10,
-  "fallback": 0,
-  "total_scanned": 93,
+  "success": 9,
+  "fallback": 1,
+  "total_scanned": 65,
   "selected": 10
 }

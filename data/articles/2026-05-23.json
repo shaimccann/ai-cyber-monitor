@@ -1,0 +1,212 @@
+[
+  {
+    "id": "03f8b4cd8c0f074e",
+    "title_original": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-23T00:02:03+00:00",
+    "fetched_at": "2026-05-23T06:40:06.912997+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "summary_he": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "details_he": ""
+  },
+  {
+    "id": "aa4d9793efe0695a",
+    "title_original": "Catch up on the Dialogues stage at Google I/O 2026.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+    "description": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-05-22T18:00:00+00:00",
+    "fetched_at": "2026-05-23T06:40:05.871520+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Catch up on the Dialogues stage at Google I/O 2026.",
+    "summary_he": "בשבוע האחרון, בסטג' Dialogues של Google I/O 2026, התאסף צוות של מנהלים, מומחים ומובילי רעיונות כדי לדון בהתפתחויות טכנולוגיות שמשפיעות על החברה ועתידנו.",
+    "details_he": "בסטג' Dialogues, Google הציגה כמה תכניות חשובות, כולל ריאיון עם סאנדר פיצ'אי, ראש Google, על התכנונים העיקריים של I/O. גם ריאיונים על חשיבה עצמאית, חישוב קוונטי ו-AI, ואף על תפקיד AI בסיפוק סוגיות מדעיות מורכבות. ה-Dialouges זמינים לצפייה ב-YouTube."
+  },
+  {
+    "id": "ab9169c143e81697",
+    "title_original": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-22T15:25:59+00:00",
+    "fetched_at": "2026-05-23T06:40:06.912997+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "summary_he": "בעקבות תחקירים חדשים, נראה כי העדפת תכונות מיוחדות על פני גודל המודל הופכת למכריעה בהחלטות הרכש של מערכות AI. זאת, בעוד שבעבר, העדפת המודל הגדול ביותר הייתה הדרך הבטוחה ביותר.",
+    "details_he": "בעבר, ההחלטות הרכש של מערכות AI התבססו על עקרון שהמודל הגדול ביותר הוא הטוב ביותר. אולם, תחקירים חדשים מצאו שמודל קטן, שהותאם למשימה המיועדת, הצליח להשיג תוצאות טובות יותר מאשר מודלים גדולים. הפער בין התוצאות היה גדול, והמודל הקטן היה גם זול יותר להפעלה. זאת, בעוד שבעבר, העדפת המודל הגדול הייתה הדרך הבטוחה ביותר. התחקירים החדשים מצאו שהמודל המיוחד, שהותאם למשימה המיועדת, הוא הדרך הטובה ביותר להשגת תוצאות טובות. התוצאות הללו חושפות עקרון חדש, שלפיו, כאשר המודל הגדול הוא לא הטוב ביותר, המשתמש צריך לבחור במודל המיוחד, שהותאם למשימה המיועדת."
+  },
+  {
+    "id": "bf6028d95fc289e2",
+    "title_original": "v2.1.150",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.150",
+    "description": "What's changedInternal infrastructure improvements (no user-facing changes)",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-05-23T04:03:51+00:00",
+    "fetched_at": "2026-05-23T06:42:33.370495+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.150"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.150",
+    "summary_he": "Claude-code, a popular AI project, has released a new version v2.1.150, which includes internal infrastructure improvements without any noticeable changes for users.",
+    "details_he": "The update, released by ashwin-ant on May 23, 04:03, is marked by a commit hash 39e853e. The changes are focused on internal infrastructure, suggesting that the developers are working to improve the project's underlying systems. This move is likely aimed at enhancing the overall performance and stability of Claude-code, without affecting its user interface or functionality."
+  },
+  {
+    "id": "a53b7fe20f73e234",
+    "title_original": "AI is being used to resurrect the voices of dead pilots",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-22T23:03:33+00:00",
+    "fetched_at": "2026-05-23T06:40:08.618780+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI is being used to resurrect the voices of dead pilots",
+    "summary_he": "השימוש ב- AI נמשך להחייא קולות של טייסים שנפטרו, וה-NASA נאלצה להסתפק בספקטרוגרם, תמונה המציגה את הקולות, ולא את הקולות עצמם.",
+    "details_he": "ה-NASA הסבירה שהיא אינה יכולה לכלול קלטות קול במערכת הדוקט שלה, על פי חוק פדרלי. אך המערכת שלה כללה קובץ ספקטרוגרם של הקלטת הקול. סקוט מנלי, יוטיובר פופולרי, העלה השערה שניתן לשחזר קולות מהנתונים הקודמים. וזה קרה. אנשים ניצלו את הספקטרוגרם, יחד עם הטקסט הציבורי, כדי ליצור תיאורים של הקולות של UPS Flight 2976, על פי ה-NASA. הם השתמשו בכלים של AI, כגון Codex, על פי פוסטים ברשתות החברתיות. ה-NASA השיבה את הגישה הציבורית למערכת הדוקט, אך סגרה 42 מחקרים פתוחים, כולל המחקר הקשור לטיסה 2976."
+  },
+  {
+    "id": "6558ab19c5f51019",
+    "title_original": "Microsoft recognized as a Leader in The Forrester Wave™ for Workforce Identity Security Platforms",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/",
+    "description": "Microsoft has been recognized as a Leader in The Forrester Wave™: Workforce Identity Security Platforms, Q2 2026, receiving the highest scores in both the current offering and strategy categories.The postMicrosoft recognized as a Leader in The Forrester Wave™ for Workforce Identity Security Platformsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-22T17:00:00+00:00",
+    "fetched_at": "2026-05-23T06:40:11.640547+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft recognized as a Leader in The Forrester Wave™ for Workforce Identity Security Platforms",
+    "summary_he": "Microsoft זכתה להכרה כמובילה ב-The Forrester Wave™ לתשקוף זהות עובדים בתשתית הביטחון, עם ציונים הגבוהים ביותר בשני הקטגוריות: ההצעה הנוכחית והסטרטגיה.",
+    "details_he": "Microsoft קיבלה תואר 'מובילה' ב-The Forrester Wave™: Workforce Identity Security Platforms, Q2 2026, וקיבלה את הציונים הגבוהים ביותר בשתי הקטגוריות. זהו פרס חשוב, שמעיד על יכולתה של Microsoft להציע תשתית ביטחון זהות עובדים יעילה. הפרס יכול להשפיע על החלטות העסקאות של הלקוחות."
+  },
+  {
+    "id": "194d0cb1b33e022f",
+    "title_original": "From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/",
+    "description": "A multi-stage attack on Linux devices began with an exposed F5 BIG-IP edge appliance and pivoted to an internal Confluence server for credential theft and identity compromise. Learn how the threat actor attempted Kerberos relay and lateral movement, and how Microsoft Defender detected, blocked, and unraveled the attack.The postFrom edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluenceappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-22T16:53:39+00:00",
+    "fetched_at": "2026-05-23T06:40:11.640547+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence",
+    "summary_he": "תקיפה מרוב-שלבים במערכות Linux התחילה באפליקציה F5 BIG-IP והמשיכה לשרת Confluence הפנימי, כדי לגנוב זהויות ולפגוע באבטחת המערכת. התקיפה כללה ניסיון להעביר זהויות ולבצע תנועה לצדדים, ו-Microsoft Defender זיהה, הסתיר והפעיל תגובה.",
+    "details_he": "התקיפה, שהתגלתה באפליקציית F5 BIG-IP, כללה שלבים שונים, כולל ניסיון לבצע Kerberos relay ולבצע תנועה לצדדים. התקיפה הסתייעה בשרת Confluence הפנימי, שבו התקיפה ניסתה לגנוב זהויות ולפגוע באבטחת המערכת. Microsoft Defender זיהה את התקיפה, הסתיר אותה והפעיל תגובה, כדי למנוע נזק נוסף."
+  },
+  {
+    "id": "d3bc480ba08fb0cf",
+    "title_original": "Microsoft Security success stories: How St. Luke’s and ManpowerGroup are securing AI foundations",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/",
+    "description": "How Frontier firms secure AI at scale: read how Microsoft customers embed governance, identity, and cloud security to make protection an enabler of AI growth.The postMicrosoft Security success stories: How St. Luke’s and ManpowerGroup are securing AI foundationsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-22T16:00:00+00:00",
+    "fetched_at": "2026-05-23T06:40:11.640547+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft Security success stories: How St. Luke’s and ManpowerGroup are securing AI foundations",
+    "summary_he": "Microsoft Security מספר על הצלחות של חברות חזותיות שהצליחו לבטח את הבסיסים של AI בעזרת Microsoft Security.",
+    "details_he": "חברות כמו St. Luke's ו-ManpowerGroup השתמשו ב-Microsoft Security כדי לבטח את הבסיסים של AI שלהן. זאת כדי להקל על הגידול של AI. Microsoft Security הצליח לעזור לחברות אלה לבטח את הבסיסים של AI שלהן, כולל ניהול, זהות וביטחון בענן. הצלחות אלה תוארו בבלוג של Microsoft Security."
+  },
+  {
+    "id": "6ee1940888786256",
+    "title_original": "Fast and Furious – Nimbus Manticore Operations During the Iranian Conflict",
+    "url": "https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/",
+    "description": "Key Findings Introduction During the recent geopolitical tensions in the Middle East, we reported on multiple Iran-nexus threat actors advancing Iran’s strategic objectives through cyber operations. These activities included targeting internet-connected cameras, conducting destructive attacks against US and Israeli entities, and exfiltrating data from cloud environments to support broader kinetic and intelligence-gathering efforts. Nimbus Manticore (also tracked as UNC1549) is an IRGC-affiliated threat […]The postFast and Furious – Nimbus Manticore Operations During the Iranian Conflictappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-22T15:09:29+00:00",
+    "fetched_at": "2026-05-23T06:40:15.045429+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Fast and Furious – Nimbus Manticore Operations During the Iranian Conflict",
+    "summary_he": "Nimbus Manticore, an IRGC-affiliated threat actor, has been actively involved in cyber operations during the recent Iranian conflict, targeting various sectors with complex malware and new techniques such as AppDomain hijacking and AI-assisted malware development.",
+    "details_he": "Nimbus Manticore, also tracked as UNC1549, has been targeting the defense, aviation, and telecommunication sectors through career-themed phishing campaigns. The group's recent campaign involved adopting new techniques, including AppDomain hijacking, AI-assisted malware development, and SEO poisoning. In one of the waves of activity, the threat actor introduced a modified infection chain by abusing AppDomain Hijacking for execution instead of relying on the usual DLL sideloading techniques. The phishing lure targeted employees in selected organizations with fake career opportunities, directing them to download a compressed ZIP archive stored on the OnlyOffice platform. The downloaded ZIP file contained files that were written into the user's AppData\\Local\\Packages directory, including a first-stage loader and an encrypted payload."
+  },
+  {
+    "id": "a630c412e621c99d",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 21",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-21-7/",
+    "description": "Cops seize First VPN and share intel on users, Reaper spoofs multiple brands to infect Macs, and two Microsoft Defender zero-days exploited in the wild.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-05-22T15:08:13+00:00",
+    "fetched_at": "2026-05-23T06:40:14.908470+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-21-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 21",
+    "summary_he": "Interpol's Operation Ramz, a joint operation with 13 countries, led to the arrest of over 200 individuals and seizure of 53 servers used for cybercrime activities, including malware distribution and phishing campaigns, affecting at least 3867 confirmed victims.",
+    "details_he": "The operation, which is the third major crackdown organized by Interpol this year, targeted cybercrime networks across the Middle East and North Africa. Ukrainian cyberpolice and U.S. law enforcement identified a suspect in Odesa responsible for operating an infostealer malware campaign, compromising 28,000 customer accounts and making $721,000 in unauthorized purchases. Additionally, Europol took down 'First VPN', a platform used to facilitate ransomware deployments and data theft, seizing 33 servers across 27 countries and arresting the administrator."
+  }
+]
