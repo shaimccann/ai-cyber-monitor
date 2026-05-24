@@ -1,0 +1,212 @@
+[
+  {
+    "id": "7015efded3b8cac9",
+    "title_original": "המחקר שיוכל להזקין את המוח שלכם במעבדה - ולחזות את המחלות שתפגשו בעתיד",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001543348#utm_source=RSS",
+    "description": "שיחה עם פרופ' טל דביר, ראש המעבדה להנדסת רקמות ורפואה רגנרטיבית באוניברסיטת תל אביב והמדען הראשי של חברת הביומד מטריסלף, וד\"ר שי מלצר, מנהל התוכנית הלאומית לביו־קונברג'נס ברשות החדשנות • על הדפסת איברים, היתרונות של ישראל בתחום והפוטנציאל הכלכלי",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-05-23T16:00:00+00:00",
+    "fetched_at": "2026-05-24T07:29:00.162684+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001543348#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "המחקר שיוכל להזקין את המוח שלכם במעבדה - ולחזות את המחלות שתפגשו בעתיד",
+    "summary_he": "במעבדה, חוקרים עובדים על פיתוח טכנולוגיה שתאפשר להדפיס איברים, כולל איברי גפיים, על בסיס DNA. פרופ' טל דביר וד\"ר שי מלצר חוקרים את הפוטנציאל של טכנולוגיה זו, כולל את היתרונות של ישראל בתחום.",
+    "details_he": "פרופ' טל דביר, ראש המעבדה להנדסת רקמות ורפואה רגנרטיבית באוניברסיטת תל אביב, וד\"ר שי מלצר, מנהל התוכנית הלאומית לביו־קונברג'נס ברשות החדשנות, חוקרים את הפוטנציאל של טכנולוגיה שתאפשר להדפיס איברים על בסיס DNA. הם חוקרים את היתרונות של ישראל בתחום, כולל את הפוטנציאל הכלכלי של טכנולוגיה זו. הם גם חוקרים את הסיכונים וההתקדמויות של טכנולוגיה זו."
+  },
+  {
+    "id": "5f072ffc640a8052",
+    "title_original": "Ferrari is using IBM’s AI to create F1 superfans",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-23T15:08:00+00:00",
+    "fetched_at": "2026-05-24T07:26:24.964250+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Ferrari is using IBM’s AI to create F1 superfans",
+    "summary_he": "IBM's partnership with Ferrari is using AI to enhance fan engagement in Formula One, leveraging the vast amount of data collected during races to create personalized content and experiences for fans.",
+    "details_he": "The partnership focuses on storytelling and data-driven content, with IBM providing advanced enterprise AI solutions to help Ferrari process and analyze millions of data points per second. This enables the team to create engaging content, such as AI-written race summaries and behind-the-scenes stories, and even offer a standalone fan app in multiple languages, including Italian. The goal is to make each fan feel like they know the team, by providing a more personalized and interactive experience through the app, which includes games, predictions, and an AI companion."
+  },
+  {
+    "id": "a3e94b3c5eb3c08f",
+    "title_original": "Radar Can Tell the Difference Between Insect Species",
+    "url": "https://spectrum.ieee.org/mmwave-radar-insects-pollinators",
+    "description": "Bees and other pollinating insects play vital roles in food webs and crop pollination, yet monitoring them has proven difficult. That’s why researchers have developed a radar system that could lead to a cost-effective, non-invasive way to track pollinators.Traditionally, identifying pollinators has proven tricky and time-consuming, and typically requires capturing and killing insects to get a close look at them. To find a better way tomonitor pollinators, scientists are developing vision systems that usemachine learningto automatically classify insects.However, a major limitation these machine learning systems face is acquiring usable images, because of issues such as variable lighting, poor weather, and cluttered backgrounds—not to mention that many insects can just fly away when approached.That’s why researchers based in Europe instead analyzed radar scans of insects. It’s not a new idea—scientists have used radar for decades to study migratory insects. However, that research was mos",
+    "source_name": "IEEE Spectrum",
+    "source_url": "https://spectrum.ieee.org",
+    "category": "ai",
+    "published": "2026-05-23T13:00:01+00:00",
+    "fetched_at": "2026-05-24T07:26:25.341067+00:00",
+    "sources": [
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/mmwave-radar-insects-pollinators"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Radar Can Tell the Difference Between Insect Species",
+    "summary_he": "חוקרים באירופה פיתחו מערכת רדאר שתאפשר לעקוב אחר חרקים פוליטיים, כמו דבורים, באופן זול וללא פגיעה. המערכת יכולה לזהות בין מיני חרקים שונים.",
+    "details_he": "בעבר, הזיהוי של חרקים פוליטיים היה קשה ומורכב, ודרש ציד והריגת החרקים כדי להשיג תצלום קרוב. חוקרים פיתחו מערכות ראייה שמשתמשות בלמידת מכונה כדי לזהות אוטומטית את החרקים. אולם, חסרונם העיקרי היה באיסוף תמונות ניתנות לשימוש, עקב בעיות כמו אור שונה, אקלים גרוע ורקע מזוהם. חוקרים באירופה פיתחו פתרון חדש: הם השתמשו ברדאר כדי לסריק את החרקים. רעיון זה לא חדש, ומדענים השתמשו בו כבר עשרות שנים כדי לחקור חרקים המיגרים. עם זאת, מחקר זה היה נרחב ולא נכון לכל המינים של חרקים."
+  },
+  {
+    "id": "661baa9928b41060",
+    "title_original": "Elon Musk has given up on solar power (on Earth)",
+    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "description": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-05-23T13:00:00+00:00",
+    "fetched_at": "2026-05-24T07:26:24.964250+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Elon Musk has given up on solar power (on Earth)",
+    "summary_he": "Elon Musk's company xAI has opted for natural gas turbines to power its data centers, contradicting Musk's previous emphasis on clean energy and solar power. This decision has sparked concerns about the environmental impact and the feasibility of Musk's plans for space-based solar power. Musk's vision for a solar-powered economy may be shifting towards a reliance on space-based energy.",
+    "details_he": "xAI's decision to use natural gas turbines for its data centers marks a significant departure from Musk's previous commitment to clean energy and solar power. This move has raised questions about the environmental impact of xAI's operations and the potential consequences of relying on fossil fuels. Meanwhile, Musk's company SpaceX is pushing forward with plans to develop space-based solar power, which Musk believes will be more efficient and sustainable than traditional solar panels on Earth. However, the economics of launching data centers into orbit are challenging, and it remains to be seen whether Musk's vision for a solar-powered economy will ultimately prevail."
+  },
+  {
+    "id": "e3675ae1616a39f6",
+    "title_original": "Google’s new anything-to-anything AI model is wild",
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "description": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-05-23T07:00:00-04:00",
+    "fetched_at": "2026-05-24T07:26:24.360374+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google’s new anything-to-anything AI model is wild",
+    "summary_he": "Google's new AI model, Omni, has shown promising results in generating realistic videos, but still has room for improvement. The model can turn any input into a video, and its ability to incorporate real-world knowledge and keep characters consistent is an upgrade from its predecessor, Veo. However, the generated videos still have AI-related glitches.",
+    "details_he": "Omni is a part of Google's new family of generative models, which will allegedly be able to turn any kind of input into anything else. The model is currently available in Google's AI video generation and editing platform, Flow, and can be used to create videos from text prompts and uploaded videos. While Omni has shown improvement over Veo, it still has some AI-related glitches, such as sudden changes in character orientation and inconsistent character behavior. The model's ability to incorporate real-world knowledge and artistic freedom is a significant upgrade, but it still requires human input to achieve the desired results."
+  },
+  {
+    "id": "8eeaa5102ae3ed48",
+    "title_original": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+    "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+    "description": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.\n\nCalled staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-05-23T22:05:10+05:30",
+    "fetched_at": "2026-05-24T07:26:35.109717+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+    "summary_he": "npm נותן למפתחים את השליטה בפרסום והתקנה של פקג'י, כדי למנוע פגיעה באספקת התוכנה. הפקג'י תאפשר למפתחים לאשר פרסום קודם לכן, ולהגדיל את הביטחון של האספקת התוכנה.",
+    "details_he": "npm הציגה תכונות חדשות של 2FA ובקרת התקנה, כדי למנוע פגיעה באספקת התוכנה. התכונות, שנקראות 'staged publishing' ו'install source flags', יאפשרו למפתחים לאשר פרסום קודם לכן, ולהגדיל את הביטחון של האספקת התוכנה. התכונות יאפשרו גם למפתחים לבקר את המקורות של ההתקנה, ולהגדיל את הביטחון של האספקת התוכנה."
+  },
+  {
+    "id": "a1e336eb4ecc0e19",
+    "title_original": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+    "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+    "description": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.\n\n\"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-05-23T21:37:51+05:30",
+    "fetched_at": "2026-05-24T07:26:35.109717+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+    "summary_he": "מתקפת אספקה של Packagist, שהתרחשה ב-8 פקג'ג'ס, כללה קוד זדוני שנועד לרץ בקובץ Linux שהורד מ-GitHub. הקוד הזדוני לא נוסף ל- composer.json, אלא ל- package.json.",
+    "details_he": "המתקפה, שנקראה 'מתקפת אספקה מתואמת', כללה קוד זדוני שנועד לרץ בקובץ Linux שהורד מ-GitHub. הקוד הזדוני נכנס ל- package.json, ולא ל- composer.json. זאת כדי לפגוע בפרויקטים שמשיבים כלי בנייה של JavaScript לצד קוד PHP. הקוד הזדוני נועד להוריד קובץ Linux מ-GitHub, לשמור אותו ב- /tmp/.sshd, לשנות את הרשאותיו ולרוץ אותו ברקע. הקובצים הנגועים כבר הוסרו מ-Packagist."
+  },
+  {
+    "id": "d597e211fae53f09",
+    "title_original": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+    "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+    "description": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.\n\n Project Glasswing  is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "ai",
+    "published": "2026-05-23T17:25:35+05:30",
+    "fetched_at": "2026-05-24T07:26:35.109717+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+    "summary_he": "Anthropic's AI-powered initiative, Project Glasswing, has successfully identified over 10,000 high-severity vulnerabilities in widely used software, with a significant portion of these flaws impacting open-source projects. The initiative has led to the patching of 97 vulnerabilities and the issuance of 88 advisories. This breakthrough highlights the potential of AI in enhancing cybersecurity.",
+    "details_he": "Project Glasswing, a defensive effort by Anthropic, has leveraged the capabilities of Claude Mythos Preview to uncover a substantial number of high-severity vulnerabilities. The initiative has granted exclusive access to a small set of partners, who have utilized the AI model to identify vulnerabilities in widely used software. Of the 10,000+ vulnerabilities discovered, 6,202 have been classified as high- or critical-severity flaws impacting over 1,000 open-source projects. The identified weaknesses include a critical flaw in WolfSSL, which could allow an attacker to forge certificates and masquerade as a legitimate service. Anthropic is urging software developers to shorten their patch cycles and make security fixes available as quickly as possible, given the potential for similar AI models to become broadly available in the near future."
+  },
+  {
+    "id": "a8ad47d1aaff5d27",
+    "title_original": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+    "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+    "description": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-05-23T16:48:23-04:00",
+    "fetched_at": "2026-05-24T07:26:25.913762+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+    "summary_he": "בעקבות התקפת ספליין של חברת Laravel, תוכנות התאמה שלה נשלטו והופצו תוכנה זדונית שגורמת לגנבת זהויות",
+    "details_he": "חברות אבטחה ציינו כי התקפה נעשתה על ידי תקיפת גיטהאב, והתוכנה הזדונית נשלטה על ידי GitHub. התקפה התרחשה על ארבעה רפרטואריות של Laravel Lang, כולל laravel-lang/lang, laravel-lang/http-statuses, laravel-lang/attributes, ואולי laravel-lang/actions. התוכנה הזדונית נשלטה על ידי חברת האבטחה StepSecurity, שציינה כי התקפה התרחשה על 233 גרסאות של התוכנה, ואף יותר גרסאות היו נגישות. התקפה התרחשה על 22:32 UTC נגד laravel-lang/lang, והסתיימה ב-00:00 UTC נגד laravel-lang/actions. התוכנה הזדונית גנבה זהויות של עובדי חברות, כולל זהויות של חברות ענק, ואף גנבה סודות של Kubernetes, Vault, וגיט."
+  },
+  {
+    "id": "7dc5f70e04f24017",
+    "title_original": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+    "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+    "description": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.\n\nThe affected packages include -\n\n\n  laravel-lang/lang\n  laravel-lang/http-statuses\n  laravel-lang/attributes\n  laravel-lang/actions\n\n\"The timing and pattern of the newly published tags",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-05-23T15:21:13+05:30",
+    "fetched_at": "2026-05-24T07:26:35.109717+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+    "summary_he": "חברת Laravel-Lang נפגעה ממתקפת אספקת תוכנה, שבה נשלחה תוכנת גנבת קרדיטים רב-פלטפורמית. התקפה זו כללה כ-700 גרסאות של כמה פקג'ג'ים.",
+    "details_he": "חברת Laravel-Lang נפגעה ממתקפת אספקת תוכנה, שבה נשלחה תוכנת גנבת קרדיטים רב-פלטפורמית. התקפה זו כללה כ-700 גרסאות של כמה פקג'ג'ים, כולל laravel-lang/lang, laravel-lang/http-statuses, laravel-lang/attributes ו-laravel-lang/actions. התקפה זו נחשבת לאחד המקרים החשובים ביותר של תקיפת אספקת תוכנה, שבה נשלחה תוכנת גנבת קרדיטים רב-פלטפורמית. התקפה זו כללה כ-700 גרסאות של כמה פקג'ג'ים, כולל laravel-lang/lang, laravel-lang/http-statuses, laravel-lang/attributes ו-laravel-lang/actions. התקפה זו נחשבת לאחד המקרים החשובים ביותר של תקיפת אספקת תוכנה, שבה נשלחה תוכנת גנבת קרדיטים רב-פלטפורמית. התקפה זו כללה כ-700 גרסאות של כמה פקג'ג'ים, כולל laravel-lang/lang, laravel-lang/http-statuses, laravel-lang/attributes ו-laravel-lang/actions. התקפה זו נחשבת לאחד המקרים החשובים ביותר של תקיפת אספקת תוכנה, שבה נשלחה תוכנת גנבת קרדיטים רב-פלטפורמית."
+  }
+]
