@@ -1,0 +1,212 @@
+[
+  {
+    "id": "5baa94d3a3ad2813",
+    "title_original": "Evaluating Large Language Models in a Complex Hidden Role Game",
+    "url": "https://arxiv.org/abs/2605.22826",
+    "description": "arXiv:2605.22826v1 Announce Type: new \nAbstract: Quantifying the deceptive potential of Large Language Models (LLMs) is critical for AI safety, yet difficult to achieve in uncontrolled environments. This work investigates the reasoning, persuasion, and deceptive capabilities of LLMs within the social deduction game Secret Hitler. I introduce an open-source framework and novel metrics to measure performance: Role Identification Accuracy, Deception Retention Rate, and Game State Impact Rate. By benchmarking models against rule-based algorithms and human games, I identify a gap between conversational ability and strategic depth. The study also analyzes the impact of reasoning-enhancement techniques on win rates and strategic reasoning. Neither Chain-of-Thought prompting nor internal memory bring improvements in performance, with up to 23.2% worse win rates for fascist roles. While rule-based agents align with expert human voting decisions 86.7% of the time, models like Llama 3.1 70B achie",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-25T00:00:00-04:00",
+    "fetched_at": "2026-05-25T08:26:14.188453+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.22826"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Evaluating Large Language Models in a Complex Hidden Role Game",
+    "summary_he": "חוקרים בתחום החשבון והשפה חקרו את יכולות השקרנות של מודלי שפה גדולים במשחק חשאי. הם פיתחו פרוטוקול פתוח-מקור ומדדים חדשים למדידת ביצועים.",
+    "details_he": "במחקר זה, ניקלס באואר, חוקר באוניברסיטת גטינגן, חקר את יכולות השקרנות של מודלי שפה גדולים במשחק 'היטלר הסודי'. הוא פיתח פרוטוקול פתוח-מקור ומדדים חדשים למדידת ביצועים, כולל דיוק בזיהוי תפקיד, קצב שימור שקרנות ואינדקס תוצאות מצב המשחק. המחקר גם בחן את השפעת טכניקות שיפור תפיסה על קצב ניצחון ותפיסה אסטרטגית. הממצאים מצאו שאף טכניקה לא השיגה השפעה חיובית, ואף הביאה לירידה בקצב ניצחון של עד 23.2%."
+  },
+  {
+    "id": "260e76eb32f09833",
+    "title_original": "A Survey of Text and Speech Resources for Hausa and Fongbe: Availability, Quality, and Gaps for NLP Development",
+    "url": "https://arxiv.org/abs/2605.22828",
+    "description": "arXiv:2605.22828v1 Announce Type: new \nAbstract: This survey provides a comprehensive catalog of publicly available text and speech resources for two West African languages: Hausa, an Afroasiatic language with approximately 80-100 million speakers, and Fongbe, a Niger-Congo language spoken by approximately 2 million people in Benin. These languages represent contrasting cases on the resource availability spectrum. We address the question: \\textit{What is the current state of publicly available NLP resources for Hausa and Fongbe, and what gaps remain?} Through systematic search of academic repositories, data platforms, and web sources, we catalog parallel corpora, monolingual text collections, speech datasets, pre-trained models, and evaluation benchmarks. For each resource, we document size, domain coverage, format, licensing, and accessibility. Our findings reveal that Hausa benefits from broader text resource diversity across news, encyclopedic, and educational domains. Fongbe, while",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-25T00:00:00-04:00",
+    "fetched_at": "2026-05-25T08:26:14.188453+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.22828"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A Survey of Text and Speech Resources for Hausa and Fongbe: Availability, Quality, and Gaps for NLP Development",
+    "summary_he": "חוקרים הציגו דוח מקיף על משאבי טקסט ודיבור לשפות Hausa ו-Fongbe, שני שפות אפריקאיות. הדוח חושף חוסרים במשאבים לפיתוח NLP.",
+    "details_he": "החוקרים, שכללו את Mahounan Pericles Adjovi, Victor Olufemi, Roald Eiselen ו-Prasenjit Mitra, חקרו את זמינות, איכות וחוסרים של משאבי טקסט ודיבור לשפות Hausa ו-Fongbe. הם חיפשו וקטלגו משאבים עבור NLP, כולל קורפורה פאראלל, קבצי טקסט מונולינגואלי, קבצי דיבור, דגמי מודלים מוכשרים ובניית מדדי הערכה. הם מצאו ש-Hausa יוצאת יותר במשאבי טקסט ויש לה יותר קבצי דיבור. Fongbe, לעומת זאת, חסרה במשאבי טקסט, אך יש לה קבצי דיבור שנאספו באופן אקדמי. החוקרים מציעים תוכניות פעולה ומזהירים מחוסרים, כולל קבצי טקסט דיבוריים וקבצי דיבור מוקדשים."
+  },
+  {
+    "id": "9d3c5e8656d12128",
+    "title_original": "Query-Adaptive Semantic Chunking for Retrieval-Augmented Generation: A Dynamic Strategy with Contextual Window Expansion",
+    "url": "https://arxiv.org/abs/2605.22834",
+    "description": "arXiv:2605.22834v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) systems depend critically on document chunking quality for retrieving relevant context. Fixed chunking segments documents into uniform units irrespective of semantics or user intent, producing a precision-recall trade-off unresolvable by tuning chunk size alone. Semantic and agentic methods partially address these limitations but do not integrate user queries at the chunking stage. We present Query-Adaptive Semantic Chunking (QASC), which dynamically constructs chunks by integrating queries into segmentation through three mechanisms: cosine similarity scoring between sentence and query embeddings to identify seed sentences, contextual window expansion around seeds to preserve coherence, and chunk-level score aggregation to ensure holistic relevance. We evaluate QASC on 100 technical documents across 200 queries spanning four types, comparing against fixed chunking at five granularities, recursive spli",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-25T00:00:00-04:00",
+    "fetched_at": "2026-05-25T08:26:14.188453+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.22834"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Query-Adaptive Semantic Chunking for Retrieval-Augmented Generation: A Dynamic Strategy with Contextual Window Expansion",
+    "summary_he": "מחקר חדש פיתח שיטה דינאמית לקטגוריזציה של נושאים בתקשורת, המשלבת שאילתות של המשתמש. השיטה, שנקראת QASC, מצליחה לשפר את תוצאות החיפוש ב-18-27% ביחס לשיטות קודמות.",
+    "details_he": "המחקר, שפורסם בארכיון arXiv, פיתח שיטה חדשה לקטגוריזציה של נושאים בתקשורת, המשלבת שאילתות של המשתמש. QASC מבצעת קטגוריזציה דינאמית של נושאים, על ידי שימוש בשלושה מנגנונים: חישוב דומיננטיות בין תצורות משפטים לבין תצורות שאילתות, הרחבת חלון ראייה תקופתי סביב תצורות הבסיס, ואגרגציה של ציוני חלון. QASC נבחנה על 100 דוחות טכניים, והשיגה תוצאות טובות יותר מאשר שיטות קודמות. המחקר גם חקר את השפעת כל חלקי QASC, ומצא שכל חלק משתפר את התוצאות."
+  },
+  {
+    "id": "d174b4c8855c4a61",
+    "title_original": "Knowledge Distillation for Low-Resource Open-source Text-to-SQL Model",
+    "url": "https://arxiv.org/abs/2605.22843",
+    "description": "arXiv:2605.22843v1 Announce Type: new \nAbstract: Text-to-SQL converts natural language questions into executable SQL queries, enabling non-technical users to access relational databases for analytics and intelligent data services. In real-world scenarios, performance is often constrained by low-resource settings, where high-quality annotated \\texttt{} pairs are scarce, particularly for domain-specific databases. Additional challenges include opaque schema definitions, abbreviations, and implicit business logic that are not explicitly encoded in the schema. Existing data synthesis and prompting techniques improve coverage but often fail to produce task-specific, semantically grounded examples aligned with database constraints. To address these challenges, we propose a knowledge-aware Text-to-SQL framework that constructs task-specific knowledge base including schema semantics, abbreviations, business logic, and query patterns, and injects them into both training and inference. This fram",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-25T00:00:00-04:00",
+    "fetched_at": "2026-05-25T08:26:14.188453+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.22843"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Knowledge Distillation for Low-Resource Open-source Text-to-SQL Model",
+    "summary_he": "מחקר חדש פותח פרקטיקה חדשה להכשרת דגימות נתונים למודלי טקסט-SQL, כדי לשפר ביצועים במצבי משאבים נמוכים.",
+    "details_he": "המחקר, שפורסם בארכיוו של arXiv, נקרא 'Knowledge Distillation for Low-Resource Open-source Text-to-SQL Model' והוא פותח פרקטיקה חדשה להכשרת דגימות נתונים למודלי טקסט-SQL. הפרקטיקה, שפותחה על ידי Tianhao Qiu ו-Xiaojun Chen, מקנה למודלים יכולת לייצר דגימות נתונים סינתטיות שמתאימות למבנה הנתונים ולקונטקסט של השאלות. הפרקטיקה משפרת את ביצועי המודלים, כמו גם את יכולתם להתאים למצבי משאבים נמוכים. המחקר כולל ניסויים שנערכו על שבעה מבחנים שונים, והתוצאות הראו שהפרקטיקה החדשה משפרת את ביצועי המודלים בצורה ניכרת."
+  },
+  {
+    "id": "c5fb617f534ae848",
+    "title_original": "Latent Cache Flow: Model-to-Model Communication Without Text",
+    "url": "https://arxiv.org/abs/2605.22863",
+    "description": "arXiv:2605.22863v1 Announce Type: new \nAbstract: LLM agents today communicate via text, which incurs considerable latency and information loss due to the need to autoregressively decode the sharer model's state and encode at the receiver model. Recent work such as Cache-to-Cache (C2C; Fu et al., 2026) seeks to exchange KV caches by learning adapters that translate sharer KV matrices to the receiver model. However, the adapters are large and expensive to train, and translate individual tokens, which requires the target context to be identical. This is unsuitable for agent communication, where the LLMs have differing context.\n  We introduce Latent Cache Flow (LCF). To address efficiency, we observe that keys and values can be jointly translated and compressed, reducing the adapter to about 4% of C2C's size. To address differing context, we design the adapter to transmit a summary of new information that the target model does not have. Our early experiments show that a 13 MB LCF adapter c",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-25T00:00:00-04:00",
+    "fetched_at": "2026-05-25T08:26:14.188453+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.22863"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Latent Cache Flow: Model-to-Model Communication Without Text",
+    "summary_he": "מחקר חדש מציג שיטה לתקשורת בין מודלי למידה ללא שימוש בטקסט, כדי לצמצם את העלויות ולשפר את הדיוק.",
+    "details_he": "המחקר, שנקרא Latent Cache Flow, מציע שיטה חדשה לתקשורת בין מודלי למידה שאינם נמצאים באותו תיקון, על ידי שימוש בזיכרון סתום. השיטה, המכונה LCF, מציעה לשלב את המידע החדש ולשלוח אותו כסיכום, כדי לצמצם את העלויות ולשפר את הדיוק. המחקר מציג תוצאות מוצלחות של LCF בהשוואה לשיטה קודמת, Cache-to-Cache, ומציע שיטה חדשה לתקשורת בין מודלי למידה."
+  },
+  {
+    "id": "73754b902c40c489",
+    "title_original": "Stop Treating AI Like Another SaaS App",
+    "url": "https://www.catonetworks.com/blog/stop-treating-ai-like-another-saas-app/",
+    "description": "Secure AI where the risk happens: in the prompt, the output, and the action. Employees are leveraging AI to boost productivity and adopt skills that would take years to learn. This ranges from drafting content, writing code, and building automated workflows. Some of this use is approved. Much of it is not. For many security...The postStop Treating AI Like Another SaaS Appappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-05-25T06:40:08+00:00",
+    "fetched_at": "2026-05-25T08:26:25.327843+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/stop-treating-ai-like-another-saas-app/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Stop Treating AI Like Another SaaS App",
+    "summary_he": "Liron Hakim Bobrov emphasizes that traditional security methods are insufficient for protecting AI systems, as AI risk is contextual and semantic, requiring a deeper understanding of user intent and surrounding context.",
+    "details_he": "The article highlights that employees are increasingly using AI to boost productivity, but this use is not always approved, and traditional security methods, such as CASB and DLP, are not effective in securing AI systems. AI risk is complex and requires controls that inspect the interaction itself, analyzing prompts, responses, and agent actions in context. This is because AI risk does not always sit neatly inside an app, file, or structured data field, but rather shows up in prompts, responses, and the actions AI systems can take. As a result, security teams are left with a bad tradeoff between being too restrictive and pushing users into tools they can't see, or being too permissive and allowing data to leak through prompts, outputs, APIs, or agents."
+  },
+  {
+    "id": "b805fab9751f8189",
+    "title_original": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+    "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+    "description": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware.\n\nThe campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The earliest activity was recorded on May 22, 2026, at 8:20 p.m. UTC, with new packages published to the ecosystems in waves from a cluster of",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-05-25T11:29:13+05:30",
+    "fetched_at": "2026-05-25T08:26:15.114108+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+    "summary_he": "מבצע TrapDoor, המכונה 'דלת חסימה', הוא פגיעה באספקה של תוכנה שמטרתה להפצת תוכנת זיוף סודות זהות דרך npm, PyPI ו-CratesIO. הפגיעה כללה 34 תוכניות זדוניות ו-384 גרסאות.",
+    "details_he": "מבצע TrapDoor נחשף לאחרונה, והוא כולל 34 תוכניות זדוניות ו-384 גרסאות שהופצו דרך npm, PyPI ו-CratesIO. התוכניות, המכונות 'דלת חסימה', נועדו לגנוב סודות פיתוח, כספים קריפטוגרפיים, מפתחות SSH, זהויות ענן, מידע מדפדפן ומשתנים אישיים. התוכניות נועדו לפגוע בקהילות פיתוח, קריפטוגרפיה, DeFi, Solana ו-AI. התוכניות הזדוניות נכתבו בשפות JavaScript ו-Rust, והן נועדו לבצע פעולות זדוניות כגון סריקת סודות, חיפוש AWS ו-GitHub, ויצירת נוכחות על המארח."
+  },
+  {
+    "id": "feef07cfdef5aba2",
+    "title_original": "Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack",
+    "url": "https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/",
+    "description": "Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens.The postOver 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attackappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-05-25T07:40:55+00:00",
+    "fetched_at": "2026-05-25T08:26:15.871285+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack",
+    "summary_he": "חבר'ה של חברי GitHub נפגעו כאשר יותר מ-5,500 רפוזיטוריום נגרם נגרם להפצת רכיבי מל\"ט. המתקפה, הקרויה 'Megalodon', נעשתה על ידי חבר'ה שהזרימו קוד זדוני לרפוזיטוריום.",
+    "details_he": "המתקפה, Megalodon, נעשתה על ידי חבר'ה שהזרימו קוד זדוני לרפוזיטוריום של GitHub. הקוד, שהוזרם דרך פעילויות GitHub Actions, נועד לגנוב סודות, מפתחות, טוקן, וסודות אחרים. הפעילויות, אומר SafeDep, נועדו לגנוב סודות ולהפצית רכיבי מל\"ט. הפעילויות נועדו להפצית רכיבי מל\"ט ליותר מ-5,500 רפוזיטוריום, והם נועדו לגנוב סודות ולהפצית רכיבי מל\"ט. הפעילויות נועדו להפצית רכיבי מל\"ט ליותר מ-5,500 רפוזיטוריום, והם נועדו לגנוב סודות ולהפצית רכיבי מל\"ט."
+  },
+  {
+    "id": "714f47b391db2b40",
+    "title_original": "Wireshark 4.6.6 Released, (Sun, May 24th)",
+    "url": "https://isc.sans.edu/diary/rss/33010",
+    "description": "Wireshark release4.6.6fixes 1 vulnerability and 11 bugs.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "ai",
+    "published": "2026-05-24T16:38:21+00:00",
+    "fetched_at": "2026-05-25T08:26:16.986452+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33010"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wireshark 4.6.6 Released, (Sun, May 24th)",
+    "summary_he": "Wireshark הוציאה גרסה חדשה של Wireshark, 4.6.6, שכוללת תיקון 1 חולשה ו-11 בעיות. גרסה זו גם תוקנה ל-Windows.",
+    "details_he": "Wireshark הוציאה גרסה חדשה של Wireshark, 4.6.6, שכוללת תיקון 1 חולשה ו-11 בעיות. גרסה זו גם תוקנה ל-Windows, וכוללת עדכון של Npcap לגרסה 1.88. גרסה זו עשויה לשפר את אבטחת Wireshark ולמנוע תקלות. העדכון זמין כעת ומומלץ לכל משתמשי Wireshark."
+  },
+  {
+    "id": "054cabbdb608702a",
+    "title_original": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+    "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+    "description": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-05-24T10:12:32-04:00",
+    "fetched_at": "2026-05-25T08:26:14.872084+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+    "summary_he": "A large-scale campaign is exploiting a critical SQL injection vulnerability in Ghost CMS, targeting over 700 domains, including university portals and media outlets, to inject malicious JavaScript code and trigger ClickFix attack flows.",
+    "details_he": "The campaign, discovered by XLab threat intelligence researchers, has compromised websites of prominent institutions such as Harvard University, Oxford University, and DuckDuckGo. The vulnerability, CVE-2026-26980, allows unauthenticated attackers to read arbitrary data from the website database, including admin API keys, which grant management access to users, articles, and themes. Although a fix was released in February, many sites failed to install the security update, leaving them vulnerable to exploitation. The attackers use the stolen API keys to inject malicious JavaScript into articles, which fetches second-stage code from the attacker's infrastructure, ultimately leading to the delivery of malware payloads, including DLL loaders, JavaScript droppers, and an Electron-based malware sample."
+  }
+]
