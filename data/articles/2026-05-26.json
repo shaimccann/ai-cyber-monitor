@@ -1,0 +1,212 @@
+[
+  {
+    "id": "b9863d8d69f731d3",
+    "title_original": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+    "url": "https://arxiv.org/abs/2605.23908",
+    "description": "arXiv:2605.23908v1 Announce Type: new \nAbstract: We are in the midst of large-scale industrial and academic efforts to automate the processes of scientific, technological and creative production through AI-driven assistants. Historically, a fundamental property of these processes in their human form has been their open-endedness: their capacity for generating a seemingly endless supply of novel and meaningful new forms. Do artificial agents have any capacity for such fruitful unguided discovery? To answer this question, we turn to Picbreeder, the canonical exemplar of human-driven open-ended search, in which users collaboratively generated a diverse library of images through interactive evolution of small neural networks. We replicate Picbreeder, replacing human users with frontier Vision Language Models (VLMs). We observe clear qualitative differences between the output of our system and the historical human baseline, and attempt to characterize them using metrics of phylogenetic comp",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-26T00:00:00-04:00",
+    "fetched_at": "2026-05-26T07:56:33.148317+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.23908"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+    "summary_he": "חוקרים מנסים לבדוק אם דגמי תצלום-לשון גדולים יכולים לייצר תמונות חדשות ומשמעותיות, כמו במערכת Picbreeder שבה גולשים יצרו תמונות חדשות באמצעות התפתחות רשתות עצבים.",
+    "details_he": "חוקרים מאוניברסיטת Sam Earle ועוזריו ניסו לייצר תמונות חדשות באמצעות דגמי תצלום-לשון גדולים, כמו במערכת Picbreeder. הם גילו שהתמונות שנוצרו על ידי הדגמים היו שונות מאלה שנוצרו על ידי אדם. החוקרים ניסו לבדוק את הגורמים שהשפיעו על התמונות שנוצרו, כולל רעש חקירה, תפוצה בין הדגמים וזיכרון של פעולות קודמות. המחקר יכול להיות חשוב לפיתוח של דגמי AI שיכולים לייצר תמונות חדשות ומשמעותיות."
+  },
+  {
+    "id": "b563be8a52cf076c",
+    "title_original": "Confidence Calibration in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.23909",
+    "description": "arXiv:2605.23909v1 Announce Type: new \nAbstract: We investigate the calibration of large language models' (LLMs') confidence across diverse tasks. The results of our preregistered study show that the current crop of LLMs are, like people, too sure they are right: confidence exceeds accuracy, on average. Importantly, however, this tendency is moderated by a powerful hard-easy effect, wherein overconfidence is greatest on difficult tests; by contrast, easy tests actually show substantial underconfidence. We develop LifeEval, a test for evaluating model calibration across levels of difficulty.",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-26T00:00:00-04:00",
+    "fetched_at": "2026-05-26T07:56:33.148317+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.23909"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Confidence Calibration in Large Language Models",
+    "summary_he": "חוקרים חקרו את התאמת הביטחון של מודלי שפה גדולים (LLMs) במגוון תחומים. תוצאות המחקר הראו שה-LLMs הנוכחיים חסרים ביטחון: הביטחון עולה על הדיוק, בממוצע. תופעה זו נמולטרט על ידי השפעה חזקה של טיב המשימה.",
+    "details_he": "חוקרים גילו כי מודלי שפה גדולים (LLMs) חסרים ביטחון, והביטחון שלהם עולה על הדיוק, בממוצע. תופעה זו נמולטרט על ידי השפעה חזקה של טיב המשימה. חוקרים פיתחו את LifeEval, ניסוי לבדיקת התאמת הביטחון של ה-LLMs במגוון רמות קושי. המחקר חשוב, כיוון שה-LLMs נמצאים בשימוש נרחב בתחומים שונים, כגון זיהוי דיבור, תרגום, ועוד."
+  },
+  {
+    "id": "aab40ff6120bdceb",
+    "title_original": "Document Classification Pattern Recognition via Information Fusion: A Systematic Review of Multimodal and Multiview Representation Approaches",
+    "url": "https://arxiv.org/abs/2605.23910",
+    "description": "arXiv:2605.23910v1 Announce Type: new \nAbstract: Information fusion is used widely to improve document classification by the integration of multiple data sources (multimodal) or representations (multiview). However, the field lacks a unified framework, a quantitative synthesis of its effectiveness, and clear guidance for practitioners. This systematic review addresses these gaps by analysing 139 primary studies. It introduces a formal framework to structure the field, presents the results of a qualitative analysis to identify key trends, and performs a random-effects meta-analysis (to our knowledge, the first focused on document classification) to quantify performance gains. Our meta-analysis reveals that multimodal fusion improves accuracy (mean gain of +5.28 percentage points, $p=0.0016$) significantly -- the F1-score effect is directionally positive but statistically non-significant in our primary model. Multiview fusion provides consistent but modest gains for accuracy (+4.67\\%), F",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-26T00:00:00-04:00",
+    "fetched_at": "2026-05-26T07:56:33.148317+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.23910"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Document Classification Pattern Recognition via Information Fusion: A Systematic Review of Multimodal and Multiview Representation Approaches",
+    "summary_he": "חוקרים חשבו על צורך בפרספקטיבה יותר שיתופית בתחום זיהוי קטגוריות תיעודיות, והציעו פרספקטיבה זאת בעזרת חקירה מערכתית. הם חקרו 139 מחקרים ראשוניים ומצאו שאינטגרציה של מקורות נתונים (בינאישיים) או ייצוגים (בין-תצפיות) משפרת את דיוק הזיהוי.",
+    "details_he": "החוקרים חקרו 139 מחקרים ראשוניים ומצאו שאינטגרציה של מקורות נתונים (בינאישיים) או ייצוגים (בין-תצפיות) משפרת את דיוק הזיהוי. הם גילו שאינטגרציה בינאישית משפרת את דיוק הזיהוי ב-5.28% (p=0.0016), ואינטגרציה בין-תצפיות משפרת את דיוק הזיהוי ב-4.67%, 3.08% ו-4.67% (p<0.05) בהתאמה. הם גם גילו שרק 11.8% (בינאישי) ו-23.3% (בין-תצפיות) של המחקרים עשו שימוש בבדיקות סטטיסטיות כדי לאמת את התוצאות שלהם, מה שמפחית את האמינות של תוצאות רבות שלהם."
+  },
+  {
+    "id": "fa31fb1ebc302a31",
+    "title_original": "Raon-Speech Technical Report",
+    "url": "https://arxiv.org/abs/2605.23912",
+    "description": "arXiv:2605.23912v1 Announce Type: new \nAbstract: We present Raon-Speech, a top-performing 9B-parameter speech language model (SpeechLM) for English and Korean speech understanding, answering, and generation, and Raon-SpeechChat, a high-performing full-duplex extension for natural real-time conversation. Raon-Speech successfully transforms a pre-trained LLM into a SpeechLM that both understands and generates speech while preserving strong text capabilities. It trains on 1.38M hours of highly curated English and Korean speech and text datasets with the following training stages: (1) speech modules alignment, (2) end-to-end SpeechLM pre-training with knowledge distillation, and (3) multi-task preference optimization-based post-training. Across 42 English and Korean speech and text benchmarks, Raon-Speech establishes the strongest overall profile on speech-centric tasks in our comparison against eight similarly sized recent audio foundation models, including Qwen2.5-Omni and Fun-Audio-Chat",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-26T00:00:00-04:00",
+    "fetched_at": "2026-05-26T07:56:33.148317+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.23912"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Raon-Speech Technical Report",
+    "summary_he": "מערכת Raon-Speech, שפותחה על ידי 26 מחברים, היא מודל דיבור מוצלח של 9 מיליארד תבניות, המסוגלת להבין, לענות ולייצר דיבור באנגלית ובקוריאנית. המערכת נבנתה על ידי שינוי מודל LLM קיים ל-SpeechLM שמשמר יכולות טקסט חזקות.",
+    "details_he": "Raon-Speech היא מערכת דיבור מתקדמת שפותחה על ידי 26 מחברים. היא משתמשת ב-9 מיליארד תבניות ומסוגלת להבין, לענות ולייצר דיבור באנגלית ובקוריאנית. המערכת נבנתה על ידי שינוי מודל LLM קיים ל-SpeechLM שמשמר יכולות טקסט חזקות. Raon-SpeechChat היא גרסה מתקדמת של המערכת, המאפשרת שיחה דו-כיוונית טבעית. היא נבנתה על ידי כלי נשק של שלושה שלבי אימון: (1) התאמת ערכאות, (2) אימון קדימה, (3) הדרכה קדימה. Raon-SpeechChat היא יעילה ביותר בשיחה דו-כיוונית, ומציגה יכולות חזקות במקרים של קלט-קלט. "
+  },
+  {
+    "id": "6e12a34ecf6713b6",
+    "title_original": "Multi-Persona Debate System for Automated Scientific Hypothesis Generation",
+    "url": "https://arxiv.org/abs/2605.23917",
+    "description": "arXiv:2605.23917v1 Announce Type: new \nAbstract: Modern scientific discovery is bottlenecked not by data scarcity, but by the inability to synthesize fragmented knowledge into actionable hypotheses. This challenge is especially acute in battery materials research, where electrochemical performance, interfacial behavior, and manufacturing feasibility must be optimized simultaneously. Here, we present the Multi-Persona Debate System (MPDS), a literature-grounded framework for automated scientific hypothesis generation that combines literature retrieval, long-context large language model reasoning, corpus-driven persona induction, and structured multi-agent debate. MPDS constructs literature snapshots of up to 500 papers, grounds agents in role-specific evidence pools, and conducts a three-round citation-aware debate followed by moderator synthesis, enabling negotiation between personas while preserving evidence traceability. We evaluate MPDS using a temporally controlled protocol excludi",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-05-26T00:00:00-04:00",
+    "fetched_at": "2026-05-26T07:56:33.148317+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2605.23917"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Multi-Persona Debate System for Automated Scientific Hypothesis Generation",
+    "summary_he": "מערכת תגובה מרוב-אישיות חדשה עוזרת להציע השערות מדעיות אוטומטיות, על ידי ניתוח סיכומי של מאמרים מדעיים. המערכת, שנקראת MPDS, יכולה לבחור בין 500 מאמרים, לנתח אותם ולסכם את התוצאות. המערכת נבדקה במספר תרחישים של תכנון של חיובי-סודיום וקתודה-כל-מצב-מוצק.",
+    "details_he": "המערכת MPDS, שפותחה על ידי צוות של חוקרים, יכולה לבחור בין 500 מאמרים, לנתח אותם ולסכם את התוצאות. המערכת נבדקה במספר תרחישים של תכנון של חיובי-סודיום וקתודה-כל-מצב-מוצק. התוצאות הראו שהמערכת הצליחה להציע השערות מדעיות שהתאימו לתוצאות הניסויים המדעיים. המערכת גם הצליחה להציע השערות שהיו יותר מפורטות ומעודכנות מאשר השערות שהוצעו על ידי מערכות פשוטות יותר. התוצאות האלה מראות שהמערכת MPDS יכולה לשפר את תהליך ההשערות בתחום המדעי."
+  },
+  {
+    "id": "736d573ebf593c6b",
+    "title_original": "25th May – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 25th May, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES 7-Eleven, the global convenience store chain, confirmed a breach after an unauthorized access to systems used for franchisee documents. ShinyHunters claimed responsibility and said it stole more than 600,000 Salesforce records containing personal […]The post25th May – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-25T15:08:40+00:00",
+    "fetched_at": "2026-05-26T07:56:39.653544+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "25th May – Threat Intelligence Report",
+    "summary_he": "חברת 7-אלבן, רשת החנויות למזון להלוואה, אישרה פריצה למערכותיה לאחר גישה לא מורשית לתיעוד של נציגי חברות-בת.  ShinyHunters טענה אחריות ואמרה שהיא גנבה יותר מ-600,000 תיעודים של Salesforce הכוללים פרטים אישיים.",
+    "details_he": "חברת 7-אלבן, רשת החנויות למזון להלוואה, אישרה פריצה למערכותיה.  ShinyHunters טענה אחריות על הפריצה ואמרה שהיא גנבה יותר מ-600,000 תיעודים של Salesforce הכוללים פרטים אישיים.  פריצה זו היא דוגמה לסוגיית הבטיחות הגבוהה של Salesforce."
+  },
+  {
+    "id": "0dd50ba768190d3d",
+    "title_original": "When Identity is the Attack Path",
+    "url": "https://xmcyber.com/news/when-identity-is-the-attack-path/",
+    "description": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do – a user logged in,...The postWhen Identity is the Attack Pathappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-05-25T08:39:57+00:00",
+    "fetched_at": "2026-05-26T07:56:47.562916+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/news/when-identity-is-the-attack-path/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When Identity is the Attack Path",
+    "summary_he": "בעידן הדיגיטלי, זהות המשתמש הפכה לדרך התקיפה העיקרית לפריצה למערכות. זאת, כיוון שזהות המשתמש והרשאות הקשורות אליה, יכולות לספק גישה למערכות ולאסטרטגיות חשובות.",
+    "details_he": "זהות המשתמש והרשאות הקשורות אליה, הפכו לדרך העיקרית לפריצה למערכות. זאת, כיוון שהם יכולים לספק גישה למערכות ולאסטרטגיות חשובות. לדוגמה, כרטיס אישור קודם שנשמר במחשב אחד, יכול היה לספק גישה לכ-98% מהמערכות בסביבת הענן של החברה. זאת, כיוון שהכרטיס היה קשור לזהות המשתמש, והרשאות שלה. כמו כן, חברות רבות עדיין עוסקות בהגנה על זהות המשתמש, כאילו היא הייתה גבול. יתרה מכך, הסכנה האמיתית נמצאת בתוך הדלת, וזהות המשתמש היא הדרך העיקרית לפריצה. "
+  },
+  {
+    "id": "f3ea1806b3f5fe41",
+    "title_original": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+    "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+    "description": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon.\n\nThe vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-05-26T10:49:38+05:30",
+    "fetched_at": "2026-05-26T07:56:34.262863+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+    "summary_he": "תקלה ב-LMS KnowledgeDeliver נוצלה כדי להפעיל את Godzilla ו-Cobalt Strike, וכעת תוקנה. תקלה זו, שנקראת CVE-2026-5426, הייתה ניתנת להשתלטות על ידי תוקפים, שהשתמשו בה כדי לבצע פעולות רמות קוד. תקלה זו התגלתה ב-LMS KnowledgeDeliver, שהיא LMS פופולרית ביפן.",
+    "details_he": "תקלה זו, שנקראת CVE-2026-5426, הייתה ניתנת להשתלטות על ידי תוקפים, שהשתמשו בה כדי לבצע פעולות רמות קוד. תקלה זו התגלתה ב-LMS KnowledgeDeliver, שהיא LMS פופולרית ביפן. תקלה זו הייתה ניתנת להשתלטות על ידי תוקפים, שהשתמשו בה כדי לבצע פעולות רמות קוד. תקלה זו התגלתה ב-LMS KnowledgeDeliver, שהיא LMS פופולרית ביפן. תקלה זו הייתה ניתנת להשתלטות על ידי תוקפים, שהשתמשו בה כדי לבצע פעולות רמות קוד. תקלה זו התגלתה ב-LMS KnowledgeDeliver, שהיא LMS פופולרית ביפן. Google Mandiant ו- Google Threat Intelligence Group (GTIG) אמרו, 'תוקף לא ידוע השתמש בגישה זו כדי להזרים קוד זדוני ל-LMS, כדי להזיק למשתמשים שביקרו באתר.'"
+  },
+  {
+    "id": "afe5d1ba937a2f60",
+    "title_original": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+    "description": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-05-26T03:41:25-04:00",
+    "fetched_at": "2026-05-26T07:56:33.959795+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+    "summary_he": "Microsoft הצהירה כי חיפושי נגישות למערכת הבקרה של הדומיין עלולים לכשל במערכות Windows Server 2016, אחרי התקנת עדכון הבטיחות KB5087537 במאי 2026.",
+    "details_he": "Microsoft הצהירה כי חיפושי נגישות למערכת הבקרה של הדומיין עלולים לכשל במערכות Windows Server 2016, אחרי התקנת עדכון הבטיחות KB5087537 במאי 2026. הבעיה נגרמת רק במערכות שבהן שם המאזין הוא 15 תווים ארוך. כתוצאה מכך, תקריות ניהוליות שתלויות בחיפושי נגישות למערכת הבקרה של הדומיין עלולות לכשל. Microsoft נמצאת בחקירה ולא נתנה תאריך ספציפי לפתרון הבעיה."
+  },
+  {
+    "id": "6f938a5d6f943ff4",
+    "title_original": "7-Eleven data breach exposes personal information of 185,000 people",
+    "url": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+    "description": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com",
+    "category": "cyber",
+    "published": "2026-05-26T03:01:12-04:00",
+    "fetched_at": "2026-05-26T07:56:33.959795+00:00",
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "7-Eleven data breach exposes personal information of 185,000 people",
+    "summary_he": "7-Eleven הפריעה בגילוי פרטי אישי של 185,000 אנשים. חברת המזון המהירה חשפה כי קבוצת הפריצים ShinyHunters גנבה פרטי אישי של יותר מ-183,000 אנשים, לאחר שפרצה למערכות החברה. ",
+    "details_he": "7-Eleven הפריעה בגילוי פרטי אישי של 185,000 אנשים, כולל שמות, תאריכי לידה, כתובות אימייל ייחודיות, מספרי טלפון וכתובות בית. 7-Eleven, רשת המזון המהיר, חשפה כי קבוצת הפריצים ShinyHunters גנבה פרטי אישי של 185,000 אנשים, לאחר שפרצה למערכות החברה. 7-Eleven חשפה כי קבוצת הפריצים ShinyHunters גנבה פרטי אישי של 185,000 אנשים, לאחר שפרצה למערכות החברה. 7-Eleven חשפה כי קבוצת הפריצים ShinyHunters גנבה פרטי אישי של 185,000 אנשים, לאחר שפרצה למערכות החברה. "
+  }
+]
