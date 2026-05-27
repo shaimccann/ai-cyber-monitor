@@ -1,0 +1,212 @@
+[
+  {
+    "id": "5be57f43c9ab81cf",
+    "title_original": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+    "description": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-26T21:15:15+00:00",
+    "fetched_at": "2026-05-27T08:08:48.449495+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+    "summary_he": "NVIDIA Vera CPU הוכיחה יכולת גבוהה בביצועים, כאשר היא עומדת בדרישות הפקת תוצרי חשמל אקסטרימלי. ה-CPU החדשה של NVIDIA, Vera, צברה תוצאות טובות בביצועים, והיא נחשבת לאחד המתחרים הגדולים ביותר ל-Intel ו-AMD.",
+    "details_he": "בביצועי המבחן של Phoronix, NVIDIA Vera הוכיחה יכולת גבוהה בביצועים, כאשר היא עומדת בדרישות הפקת תוצרי חשמל אקסטרימלי. ה-CPU החדשה של NVIDIA, Vera, צברה תוצאות טובות בביצועים, והיא נחשבת לאחד המתחרים הגדולים ביותר ל-Intel ו-AMD. ה-CPU מכילה 88 גרעיני Olympus, 1.2TB/s של עוצמת זיכרון וצברת חיצונית גבוהה, והיא נועדה לפקודות רציפות של CPU. ה-CPU גם כוללת זיכרון LPDDR5X, שמאפשר עוצמת זיכרון גבוהה יותר, והיא נחשבת לאחד ה-CPU הטובים ביותר בתחום הזיכרון."
+  },
+  {
+    "id": "361ec526005d9a0f",
+    "title_original": "Diverse reasoning traces teach LLMs to make better decisions",
+    "url": "https://www.amazon.science/blog/diverse-reasoning-traces-teach-llms-to-make-better-decisions",
+    "description": "How to train language models to generate diverse, accurate reasoning paths using tokens that control distinct reasoning strategies.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-05-26T15:17:06+00:00",
+    "fetched_at": "2026-05-27T08:08:48.789750+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/diverse-reasoning-traces-teach-llms-to-make-better-decisions"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Diverse reasoning traces teach LLMs to make better decisions",
+    "summary_he": "מחקריים של אמזון פיתחו שני שיטות חדשות לאימון דגמי תקשורת כדי ליצור דרכי יישום שונות ודיוקיות",
+    "details_he": "המחקר, שפורסם בכנס ICLR, מציג שני שיטות: SSFT (set-supervised fine-tuning) ו-GFPO (global forking policy optimization). SSFT מתמקד באימון דגמי תקשורת לייצר דרכי יישום שלמות, בעוד GFPO מבחירה בדרך היעילה ביותר לכל קלט. השיטות החדשות משפרות את הדיוק של דגמי התקשורת ב-5% ל-7% על פי הבנקאי AIME 2025 ו- LiveCodeBench. השיטות נועדו לאפשר לדגמי התקשורת לייצר דרכי יישום שונות ודיוקיות, ולשפר את יכולתם להציג ראיות לתוצאות שלהם."
+  },
+  {
+    "id": "5c3a9473f9e710b8",
+    "title_original": "אנבידיה חנכה קמפוס ענק חדש בטייוואן",
+    "url": "https://techtime.co.il/2026/05/27/nvidia-84/",
+    "description": "ג'נסן הואנג הכריז על קמפוס Constellation החדש בטאיפיי, שיאכלס 4,000 עובדים ויחזק את מעמדה של טייוואן כמרכז הייצור והתשתיות של מהפכת ה-AI העולמית",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-05-27T07:47:19+00:00",
+    "fetched_at": "2026-05-27T08:11:16.470867+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/05/27/nvidia-84/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "אנבידיה חנכה קמפוס ענק חדש בטייוואן",
+    "summary_he": "בטאיפיי, ג'נסן הואנג, מנכ\"ל אנבידיה, חשף קמפוס חדש בשם \"Constellation\" שייבנה בפארק הטכנולוגיה Beitou-Shilin וישתרע על פני 40 אלף מ\"ר. הקמפוס צפוי לאכלס 4,000 עובדים.",
+    "details_he": "קמפוס \"Constellation\" יהווה חלק ממאמצי אנבידיה להעמיק את פעילותה בטייוואן, שם החברה נשענת על אקוסיסטם מקומי שכולל יצרניות שרתים ותשתיות כמו Foxconn, Quanta Computer ו-Wistron. הקמפוס ישתרע על פני 40 אלף מ\"ר וצפוי לאכלס 4,000 עובדים. הבנייה שלו צפויה להתחיל בחודשים הקרובים. הדברים משתלבים בהצהרות נוספות של הואנג מהימים האחרונים, שלפיהן אנבידיה צפויה להגדיל משמעותית את היקף הפעילות הכלכלית שלה בטייוואן."
+  },
+  {
+    "id": "c4fe3376b3105b7d",
+    "title_original": "מחזקת את יכולות ה־AI: אלביט קונה חברה־בת ישראלית",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001544089#utm_source=RSS",
+    "description": "חברת FUSE רכשה את חברת הטכנולוגיה הישראלית \"בלו־ווייט\", המפתחת פתרונות אוטונומיים מבוססי בינה מלאכותית ליישומים בתחומי השטח והביטחון • הרכישה מחזקת את יכולות האוטונומיה הרב-ממדיות של החברה ומשלימה את הטכנולוגיות האוויריות והנחיל הקיימות שלה",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-05-27T07:35:00+00:00",
+    "fetched_at": "2026-05-27T08:11:17.264664+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001544089#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מחזקת את יכולות ה־AI: אלביט קונה חברה־בת ישראלית",
+    "summary_he": "חברת FUSE, מחזקת את יכולות הבינה המלאכותית שלה על ידי רכישת חברת הטכנולוגיה הישראלית 'בלו־ווייט', המתמחה בפיתוח פתרונות אוטונומיים. הרכישה תסייע להשלים את הטכנולוגיות האוויריות והנחיל של FUSE.",
+    "details_he": "FUSE, חברת הבינה המלאכותית, רכשה את חברת 'בלו־ווייט', המתמחה בפיתוח פתרונות אוטונומיים. החברה הישראלית 'בלו־ווייט' פיתחה פתרונות אוטונומיים מבוססי בינה מלאכותית ליישומים בתחומי השטח והביטחון. הרכישה תסייע ל-FUSE להשלים את הטכנולוגיות האוויריות והנחיל שלה, ותחזק את יכולות האוטונומיה הרב-ממדיות שלה."
+  },
+  {
+    "id": "39174ed2fd7603c9",
+    "title_original": "היום זה מתחיל: איך תשפיע מערכת ה-AI החדשה על בתי המשפט?",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001542055#utm_source=RSS",
+    "description": "אחרי פיילוט שהוגדר כהצלחה מסחררת, תיכנס היום לתוקף מערכת הבינה המלאכותית החדשה, ותגיע ללשכותיהם של כלל השופטים והעוזרים המשפטיים • המטרה: הקלה בעבודה השיפוטית וחיסכון בזמן • מהו עתיד המתמחים בעידן \"צ'אט המשפט\", ואיך נמנעים מטעויות שעשויות לחרוץ גורלות?",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-05-27T05:57:00+00:00",
+    "fetched_at": "2026-05-27T08:11:17.264664+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001542055#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "היום זה מתחיל: איך תשפיע מערכת ה-AI החדשה על בתי המשפט?",
+    "summary_he": "מערכת הבינה המלאכותית החדשה, שהוגדרה כהצלחה מסחררת, תוכנס היום לתוקף, ותסייע לשופטים ולעוזרים המשפטיים בעבודתם.",
+    "details_he": "מערכת ה-AI החדשה, שהוצגה בפיילוט, תסייע לשופטים ולעוזרים המשפטיים בקליטת תיקים, בחיפוש ראיות ובהכנת פסקי דין. המטרה היא להקל על עבודתם ולחסוך בזמן. עם זאת, יש חששות לגבי טעויות שעשויות לחרוץ גורלות, ולגבי עתיד המתמחים בעידן 'צ'אט המשפט'."
+  },
+  {
+    "id": "a60e8413b10560c3",
+    "title_original": "Cato CTRL Threat Brief: AI, Zero-Days, and the US-China Cyber Arms Race",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-ai-zero-days-and-us-china-cyber-arms-race/",
+    "description": "TL;DR Underlying the US–China AI race, there’s arguably a more sinister arms race—the race to identify zero-day threats. Frontier AI algorithms, such as Anthropic Mythos (here) and China’s Qihoo 360 (here), are compressing the zero-day discovery cycle. But how those discoveries are gathered and shared among cooperating entities is giving China significant defensive and offensive...The postCato CTRL Threat Brief: AI, Zero-Days, and the US-China Cyber Arms Raceappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-05-27T07:16:16+00:00",
+    "fetched_at": "2026-05-27T08:09:04.282051+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-ai-zero-days-and-us-china-cyber-arms-race/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL Threat Brief: AI, Zero-Days, and the US-China Cyber Arms Race",
+    "summary_he": "תפקיד ה- AI במלחמה הסייברית בין ארצות הברית לסין הוא לזהות חולשות זריזות, אך האופן בו נאספות ומתוחזקות חולשות אלה, נותן יתרון לסין. ה- AI גם מאפשרת לארגונים להגן על עצמם בצורה יעילה יותר.",
+    "details_he": "במלחמה הסייברית הנוכחית, נטען כי ה- AI משנה את דפוס הגילוי של חולשות זריזות. חברות סייבר, כמו Anthropic ו-Qihoo 360, משתמשות ב- AI כדי לזהות חולשות זריזות, ואלה נאספות ומתוחזקות באופן מאורגן. סין, לדוגמה, רוכשת חולשות זריזות ומשתמשת בהן לצורכי הגנה והתקפה. זה נותן לסין יתרון על ארצות הברית, שאינה יכולה לאגד את חולשותיה באופן דומה. בעקבות זאת, יש לארגונים לשנות את תוכנית הפיצויים שלהם ולהגן על עצמם בצורה יעילה יותר."
+  },
+  {
+    "id": "68a4393b0bddbece",
+    "title_original": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/",
+    "description": "Microsoft exposes a cryptojacking campaign using SEO poisoning and ScreenConnect to target high-performance PCs, with malicious sites also surfaced through AI chatbots.The postFrom poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilitiesappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-26T21:35:34+00:00",
+    "fetched_at": "2026-05-27T08:08:54.863089+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
+    "summary_he": "Microsoft חשפה קמפיין של חקירת קריפטו שמשתמשת בזיוף תוצאות חיפוש וב ScreenConnect לפגוע במחשבי PC עם ביצועים גבוהים, כאשר אתרים מזויפים גם נמצאו דרך רובוטים של שיחות AI.",
+    "details_he": "הקמפיין, שנחשף על ידי Microsoft, משתמש בזיוף תוצאות חיפוש כדי לשלוח קובצי ScreenConnect למחשבי PC עם ביצועים גבוהים, כדי לאפשר חקירת קריפטו. האתרים המזויפים גם נמצאו דרך רובוטים של שיחות AI. הקמפיין נועד לאפשר חקירת קריפטו על ידי GPU, ואינו רק סכנה לביצועים של המחשב, אלא גם סכנה לביטחון המידע."
+  },
+  {
+    "id": "0afecbfb217edc78",
+    "title_original": "Check Point Frontier AI Models Readiness Program – Security Update",
+    "url": "https://blog.checkpoint.com/security/check-point-frontier-ai-models-readiness-program-security-update/",
+    "description": "At Check Point we don’t wait for threats to evolve; we evolve ahead of them. This is why we’ve been running our Frontier AI Models Readiness Program: a proactive, structured initiative designed to ensure that our products remain resilient as AI models grow increasingly capable of understanding complex software systems and assisting adversaries in attacking them. As part of this program, we conducted large-scale AI-driven code scanning across our products, performed extensive security reviews, hardened components where needed, refined our time-to-patch procedures, and accelerated our protection development processes to meet the pace of emerging AI-driven threats. Today’s Jumbo Security Release […]The postCheck Point Frontier AI Models Readiness Program – Security Updateappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-26T12:50:38+00:00",
+    "fetched_at": "2026-05-27T08:09:08.796480+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/check-point-frontier-ai-models-readiness-program-security-update/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point Frontier AI Models Readiness Program – Security Update",
+    "summary_he": "Check Point הציגה תעדוף חדשה בזירת הביטחון, כתוצאה מתוכנית Frontiers AI Models Readiness Program שלה. התוכנית נועדה להבטיח שהמוצרים שלה יישארו חזקים ומגנים בפני איימים חדשים.",
+    "details_he": "התוכנית Frontiers AI Models Readiness Program של Check Point כללה סריקות גדולות של קוד באמצעות AI, בדיקות ביטחון נרחבות, תיקון חלקים, הגברת תהליך התיקון הזמני והרחבת תהליך הפיתוח להתמודד עם איימים חדשים. התוכנית כללה גם פיתוח טכנולוגיות פנימיות שנקראות BLAST, שמטרתן לבצע בדיקות ביטחון באמצעות AI. BLAST עורך בדיקות רב-מאגריות, ומסוגל לקבוע קשרים בין-מאגריים, ולבצע ניתוח רב-מאגרי. התוכנית נועדה להבטיח שהמוצרים של Check Point יישארו חזקים ומגנים בפני איימים חדשים."
+  },
+  {
+    "id": "35adabd05dcf37c7",
+    "title_original": "State of SDLC Security 2026: How Risk Scales in Modern Development",
+    "url": "https://www.wiz.io/blog/sdlc-security-report-2026-key-takeaways",
+    "description": "Insights from real-world environments into how code, developer tooling, automation, and AI are reshaping application security.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-26T12:45:02+00:00",
+    "fetched_at": "2026-05-27T08:08:59.966620+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/sdlc-security-report-2026-key-takeaways"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "State of SDLC Security 2026: How Risk Scales in Modern Development",
+    "summary_he": "בדו\"ח ה-2026 של חברת Wiz Research, נמצא כי סיכון היישומים אינו נוצר רק על ידי חולשות בעצמן, אלא גם על ידי שימוש בקוד חוזר, תרגול של סיכונים ואוטומציה.",
+    "details_he": "בדו\"ח ה-2026 של Wiz Research, נמצא כי סיכון היישומים נוצר על ידי שלושה גורמים עיקריים: שימוש בקוד חוזר, תרגול של סיכונים ואוטומציה. נמצא כי 45-50% מהארגונים משתמשים ב-GitHub Actions, ורבים מהם משתמשים באותם כלים ומרכיבים ניתנים לשימוש מחדש בפלטפורמות שלהם. זה גורם לכך שחולשות בקוד יכולות להתפשט במהירות רבה דרך תלותיות וכלים שונים. הדו\"ח גם מציין כי AI-assisted development מגדילה את המהירות והקנה-קופה של ייצור תוכנה, וגורמת לכך שחולשות קיימות נוצרות ומתפשטות במהירות רבה."
+  },
+  {
+    "id": "2b4f07b15b977a39",
+    "title_original": "2026 Cloud Security Report: Why Traditional Network, Cloud, and Security Architecture Are Lagging Behind the AI Transformation",
+    "url": "https://blog.checkpoint.com/securing-the-cloud/2026-cloud-security-report-why-traditional-network-cloud-and-security-architecture-are-lagging-behind-the-ai-transformation/",
+    "description": "As AI rapidly reshapes industries, the role of the cloud has become even more critical. From automated customer experiences to intelligent cyber security and predictive analytics, AI transformations are increasingly being built on a cloud-first foundation. Over the past two years, AI has swiftly moved from an experimental state to an operational reality, with every leading organization embedding AI into the core of how they build, operate, and compete. However, security architectures have not kept pace with the AI transformation. Closing that gap requires more than incremental fixes. It demands a rethinking of how security is designed, deployed, and enforced […]The post2026 Cloud Security Report: Why Traditional Network, Cloud, and Security Architecture Are Lagging Behind the AI Transformationappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-26T12:40:14+00:00",
+    "fetched_at": "2026-05-27T08:09:08.796480+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/securing-the-cloud/2026-cloud-security-report-why-traditional-network-cloud-and-security-architecture-are-lagging-behind-the-ai-transformation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "2026 Cloud Security Report: Why Traditional Network, Cloud, and Security Architecture Are Lagging Behind the AI Transformation",
+    "summary_he": "בעוד התפתחות ה- AI תופסת את העולם, רבות מהארגונים נאלצות לעמוד בפני אתגרי ביטחון חדשים. הסיכון העיקרי הוא כי 77% מהארגונים עדכנו את סטרטגיות הביטחון שלהם, אך רק 26% יודעים ליישם את הסטרטגיות האלה.",
+    "details_he": "מסקנות הדוח החדש של 2026 Cloud Security Report, היא ש-70% מהארגונים רצויים עבודות GenAI במסגרת פקדון, ו-64% פרסמו סוכני AI בסביבות חיים. אך המערכות הביטחוניות הסובבות אותן, לא התפתחו באותה מידה. כתוצאה מכך, יותר מ-50% מהארגונים דיווחו על תקלות בביטחון AI, אשר רק תורמו להמשך הבעיה."
+  }
+]
