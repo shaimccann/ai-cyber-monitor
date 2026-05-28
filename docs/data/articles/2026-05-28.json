@@ -1,0 +1,212 @@
+[
+  {
+    "id": "8ee16ded0e80dcb6",
+    "title_original": "Amazon Research Awards recipients announced",
+    "url": "https://www.amazon.science/research-awards/latest-news/fall-2025-amazon-research-awards-recipients-announced",
+    "description": "Awardees represent more than 49 universities in 11 countries. Recipients have access to Amazon public datasets, along with AWS AI/ML services and tools.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-05-27T17:21:51+00:00",
+    "fetched_at": "2026-05-28T08:06:52.205157+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/research-awards/latest-news/fall-2025-amazon-research-awards-recipients-announced"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Amazon Research Awards recipients announced",
+    "summary_he": "Amazon Research Awards (ARA) announced its recipients for the fall 2025 cycle, recognizing 68 researchers from 49 universities across 11 countries. The awardees will have access to Amazon public datasets, AWS AI/ML services, and tools, as well as consultation and advice from Amazon research contacts.",
+    "details_he": "The Amazon Research Awards provide unrestricted funds and AWS Promotional Credits to academic researchers investigating various research topics in multiple disciplines. The awardees were selected from six calls for proposals, including AI for Information Security, Agentic AI, Automated Reasoning, AWS Cryptography, Cybersecurity and Anti-Abuse Technologies, and Sustainability. The research proposals were reviewed for their scientific content and potential impact on both the research community and society."
+  },
+  {
+    "id": "96e91ae6f1588ea7",
+    "title_original": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-05-27T17:20:29+00:00",
+    "fetched_at": "2026-05-28T08:06:51.643948+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/itbench-aa"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "summary_he": "IBM ו- Artificial Analysis הציגו את ITBench-AA, הבנקאי הראשון לבדיקת דגמי AI על תפקידי IT עסקיים, שכולל תפקידי Site Reliability Engineering שבהם דגמי AI סומכים על 50%.",
+    "details_he": "ITBench-AA נועד לבדוק את יכולתם של דגמי AI לבצע תפקידי IT עסקיים, כולל Site Reliability Engineering. המבחן כולל 59 תפקידים, 40 מהם תפקידים ציבוריים ו-19 תפקידים חדשים שלא פורסמו. הדגמים חייבים לזהות את הגורמים העיקריים שגרמו לתקלה. המבחן ITBench-AA נועד לבדוק את יכולתם של דגמי AI לבצע תפקידי IT עסקיים, כולל Site Reliability Engineering. המבחן כולל 59 תפקידים, 40 מהם תפקידים ציבוריים ו-19 תפקידים חדשים שלא פורסמו. הדגמים חייבים לזהות את הגורמים העיקריים שגרמו לתקלה. המבחן ITBench-AA נועד לבדוק את יכולתם של דגמי AI לבצע תפקידי IT עסקיים, כולל Site Reliability Engineering. המבחן כולל 59 תפקידים, 40 מהם תפקידים ציבוריים ו-19 תפקידים חדשים שלא פורסמו. הדגמים חייבים לזהות את הגורמים העיקריים שגרמו לתקלה."
+  },
+  {
+    "id": "ad30caf7857ea316",
+    "title_original": "AI Factories: The New Infrastructure of Intelligence",
+    "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+    "description": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-27T16:00:36+00:00",
+    "fetched_at": "2026-05-28T08:06:51.882735+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Factories: The New Infrastructure of Intelligence",
+    "summary_he": "AI Factories מייצרים ידע בזמן אמת, וככל שה-AI המוטה-לפעול מתפתח, יותר ויותר סוכנים עצמאיים נכנסים לשירות בארגונים.",
+    "details_he": "AI Factories הן מפעלי ייצור של טוקנים, הממציאים כוח לידע בזמן אמת. ככל שה-AI המוטה-לפעול מתפתח, יותר ויותר סוכנים עצמאיים נכנסים לשירות בארגונים. הביצועים לוואט והעלות לטוקן הם הכלכלה שהיא."
+  },
+  {
+    "id": "29de674e0d3d11c0",
+    "title_original": "Extending Human Intelligence Through AI",
+    "url": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "description": "Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.The postExtending Human Intelligence Through AIappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-27T16:00:00+00:00",
+    "fetched_at": "2026-05-28T08:06:50.676916+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Extending Human Intelligence Through AI",
+    "summary_he": "חוקרים טוענים כי החוכמה האנושית היא הבסיס ליכולות ה-AI, ולא הפוך. זאת, על פי מחקר שפורסם בעבר, שטוען כי ה-AI פועל על ידי הרחבת מבנים שקיימים כבר בתפיסה האנושית.",
+    "details_he": "במאמרם, The Origins of Artificial Intelligence in Natural Intelligence, החוקרים טוענים כי ה-AI פועל על ידי הרחבת מבנים שקיימים כבר בתפיסה האנושית. הם טוענים כי ה-AI לומד להתאים עצמו למבנים אלה, ולא פועל כמו חוכמה אנושית. זאת, על פי הפנומנולוגיה של אדמונד הוסרל. החוקרים גם טוענים כי ה-AI פועל על ידי למידה סטטיסטית, ולא על ידי חוכמה אנושית. הם טוענים כי ה-AI יכול לפעול בצורה יעילה, אך גם להיכשל במקרים מסוימים."
+  },
+  {
+    "id": "3d87f08e9bc9aa4c",
+    "title_original": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-27T11:00:00+00:00",
+    "fetched_at": "2026-05-28T08:06:49.271111+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/cisco"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "summary_he": "Cisco and OpenAI's collaboration on Codex has led to a significant shift in enterprise software development, with Codex becoming an integral part of Cisco's engineering workflows. This has resulted in increased efficiency and productivity, with 95% of new AI features being written by Codex and 1,500+ engineering hours saved per month.",
+    "details_he": "Cisco's integration of Codex into its production engineering workflows has enabled the company to scale advanced technology in demanding environments. By exposing Codex to massive multi-repository systems and C/C++-heavy codebases, Cisco has helped shape Codex into an AI engineering teammate capable of operating at enterprise scale. This collaboration has also led to the development of AI Defense, an end-to-end AI security solution that protects against safety and security risks introduced by AI. Additionally, Cisco has used Codex to build their Defense Squad, an open-source tool that moved from ideation to the developer community in under one week."
+  },
+  {
+    "id": "b5d0c3f69cb9ccbe",
+    "title_original": "Pirates in the crosshairs: how one cybercrime gang has been infecting book, movie, and TV show fans for years",
+    "url": "https://securelist.com/video-books-pirates-miners-rat/119943/",
+    "description": "Our experts continue to track attacks targeting consumers of pirated content, both books and movies. 2026 saw the discovery of new target sites with tens of millions of visitors, while the miner gained a RAT module.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-05-28T06:55:11+00:00",
+    "fetched_at": "2026-05-28T08:06:59.545118+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/video-books-pirates-miners-rat/119943/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Pirates in the crosshairs: how one cybercrime gang has been infecting book, movie, and TV show fans for years",
+    "summary_he": "במהלך 2022 ועד 2026, חבורת פורצי סייבר פעלה להפצת תוכנת זיהום, המטרה הייתה קורבנות שצפו בסרטים, סדרות טלוויזיה וספרים. התוכנה נגרם כאשר המשתמשים נתקלו באתרי אינטרנט פיראטיים.",
+    "details_he": "החבורה פעלה באמצעות תוכנת DLL, שהורדה למחשבים של הקורבנות. ה- DLL הכניסה את התוכנה לתוך תוכנת HLS Installer.874.exe, שהייתה תוכנה חוקית. ה- DLL גם הקים תוכנת Watchdog, שסיפקה תמיכה והקימה תוכנת RAT, שהייתה תוכנת זיהום. ה- RAT גם יצרה תוכנת Miners, שהייתה תוכנת זיהום. החבורה פעלה כבר מ-2022, ובמהלך 2026, הם עדיין פעלו. הם עדיין פעלו עד 2026, והם פעלו גם באתרי אינטרנט פיראטיים."
+  },
+  {
+    "id": "2577a268a5eb033e",
+    "title_original": "What Consistent Leadership Across SSE, SD-WAN, and SASE Signals",
+    "url": "https://www.catonetworks.com/blog/what-consistent-leadership-across-sse-sd-wan-and-sase-signals/",
+    "description": "Employees are leveraging AI to boost productivity and adopt skills that would take years to learn. This ranges from drafting content, writing code, and building automated workflows. Some of this use is approved. Much of it is not. For many security teams, the first instinct is to treat this risk like they would any other...The postWhat Consistent Leadership Across SSE, SD-WAN, and SASE Signalsappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-05-28T06:27:20+00:00",
+    "fetched_at": "2026-05-28T08:07:05.309796+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/what-consistent-leadership-across-sse-sd-wan-and-sase-signals/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What Consistent Leadership Across SSE, SD-WAN, and SASE Signals",
+    "summary_he": "ארגונים רבים נוטים לבחור בפלטפורמות SASE מואחדות, שמציעות תמיכה ב-SSE, SD-WAN ואבטחה, כדי להפחית מורכבות ולשפר תצפית. זאת, כתוצאה משינוי בשוק, שבו יצרנים רבים מתפצלים כיום.",
+    "details_he": "ארגונים רבים נוטים לבחור בפלטפורמות SASE מואחדות, שמציעות תמיכה ב-SSE, SD-WAN ואבטחה, כדי להפחית מורכבות ולשפר תצפית. זאת, כתוצאה משינוי בשוק, שבו יצרנים רבים מתפצלים כיום. כך, ניתן לראות, ש-Cato Networks הוכרזה כמובילה ומבצעת מעל ביקורת של GigaOm, בתחום SSE, SD-WAN ו-SASE. זאת, כתוצאה משינוי בשוק, שבו יצרנים רבים מתפצלים כיום. כך, ניתן לראות, ש-Cato Networks הוכרזה כמובילה ומבצעת מעל ביקורת של GigaOm, בתחום SSE, SD-WAN ו-SASE."
+  },
+  {
+    "id": "b2ececc82e4c2650",
+    "title_original": "Out of the Crypt: The Evolving Cyber Extortion Economy",
+    "url": "https://unit42.paloaltonetworks.com/cyber-extortion-economy/",
+    "description": "Unit 42 explores trends in data theft and extortion, outlining key strategies for organizations as frontier AI models advance.The postOut of the Crypt: The Evolving Cyber Extortion Economyappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-05-27T22:00:46+00:00",
+    "fetched_at": "2026-05-28T08:06:59.376023+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/cyber-extortion-economy/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Out of the Crypt: The Evolving Cyber Extortion Economy",
+    "summary_he": "בעידן החדש של הטקטיקות הסייבר, גורמי האיום נמנעים מלהשתמש בצופן לצורך חבלה, ומתמקדים בגנבת נתונים ובחבלה. זאת, כתוצאה משיפור בביצועי הבקרה והשחזור, וכן מהתקדמות באבטחת קצה ובאפקטיביות של פיזור פעילות.",
+    "details_he": "בשנת 2025, נצפה ירידה ניכרת בשימוש בצופן לצורך חבלה, וכ-78% מהמקרים היו ללא צופן. זאת, כתוצאה משיפור בביצועי הבקרה והשחזור, וכן מהתקדמות באבטחת קצה ובאפקטיביות של פיזור פעילות. גורמי האיום, כגון Bling Libra ו-Hazy Scorpius, החלו להתמקד בגנבת נתונים ובחבלה, ולא בהשתמש בצופן. הם נמנעים מלהשתמש בצופן, ובמקומו, הם משתמשים בטקטיקות של גנבת נתונים ובחבלה."
+  },
+  {
+    "id": "e82d66eb369d5857",
+    "title_original": "Evidence at the Moment of Attack. Answers at AI Speed.",
+    "url": "https://www.wiz.io/blog/wiz-sensor-forensics-ga",
+    "description": "Wiz Sensor Forensics is now generally available - automatically capturing forensic artifacts at the moment of detection and using AI to accelerate investigation for SOC and IR teams.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-27T16:03:11+00:00",
+    "fetched_at": "2026-05-28T08:07:01.165033+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-sensor-forensics-ga"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Evidence at the Moment of Attack. Answers at AI Speed.",
+    "summary_he": "Wiz Forensics הפכה לגרסה הסדירה, מספקת לצוותי ביטחון ראיות ברגע המכריע, ואנליזה באמצעות AI.",
+    "details_he": "Wiz Forensics פותרת את האתגר המשמעותי בחקירות ביטחון בענן. עבודות נוצרות ונעלמות בדקות. התקפות חסרות קובץ רציפות, ומבצעות את פעולותיהן בזיכרון, ללא כל ראיות על הדיסק. כאשר צוות ה-SOC מתחיל לבצע טרייג', או צוות ה-IR מקבל את ההצעה, הראיות שיכלו לענות על השאלות המכריעות נעלמות יחד עם העבודה שיצרה אותן. Wiz Forensics נותנת לצוותי ביטחון את הראיות שהם צריכים, ואת האנליזה המיידית, כדי לענות על שאלות הביטחון ברגע המכריע. Wiz Forensics כבר זמין ללקוחות Wiz Sensor."
+  },
+  {
+    "id": "02de3d17af08ebb7",
+    "title_original": "Commit to Compromise: A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
+    "url": "https://www.wiz.io/blog/threat-actors-target-crypto-orgs",
+    "description": "Wiz CIRT and Wiz Research detail JINX-0164, a threat actor using LinkedIn social engineering, custom macOS malware, and CI/CD hijacking to target cryptocurrency organizations.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-27T13:52:45+00:00",
+    "fetched_at": "2026-05-28T08:07:01.165033+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/threat-actors-target-crypto-orgs"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Commit to Compromise: A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
+    "summary_he": "חברת Wiz חשפה תוקף חדש שלקח חלק בהתקפות על חברות קריפטוגרפיה, והפעילות שלו כוללת התקפות חברתיות מתקדמות, תוכנת מל\"ט נקודתית למערכות macOS, והתקפות על CI/CD.",
+    "details_he": "חברת Wiz חשפה תוקף חדש, JINX-0164, שלקח חלק בהתקפות על חברות קריפטוגרפיה. התוקף השתמש בהתקפות חברתיות מתקדמות, תוכנת מל\"ט נקודתית למערכות macOS, והתקפות על CI/CD. התוקף נראה להיות מונע מרווחים כספיים. התוקף נעקר מכלי עובדים נגזרים, והגיע למערכות CI/CD. התוקף גם נעקר למערכות הפצה של קוד ומערכות פיתוח. התוקף נעקר למערכות CI/CD, והגיע למערכות הפצה של קוד ומערכות פיתוח. התוקף גם נעקר למערכות CI/CD."
+  }
+]
