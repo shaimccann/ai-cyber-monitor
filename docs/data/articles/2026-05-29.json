@@ -1,0 +1,212 @@
+[
+  {
+    "id": "f250d3f3d567eebc",
+    "title_original": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+    "url": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "description": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.The postData Formulator 0.7: AI-powered data analytics for enterprise dataappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-05-28T16:00:00+00:00",
+    "fetched_at": "2026-05-29T08:03:43.345805+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+    "summary_he": "Data Formulator 0.7 היא פלטפורמה פתוחה של AI שמסייעה לחברות גדולות לנתח נתונים, עם גישה ישירה למגוון רחב של מקורות נתונים.",
+    "details_he": "Data Formulator 0.7 כוללת תכונות של Data Connectors, שמאפשרות חיבור נתונים גלובלי, ואג'נטים מודעים לתצורה שמסייעים למשתמשים להכין נתונים, לחקור, לייצר תמונות ולנווט במערכות עבודה אנליטית. הפלטפורמה כוללת גם ממשק רב-מודלי, שמאפשר לקבוצות לחקור ולשפר את נתוניהם באופן רציף. Data Formulator 0.7 נועדה לפתור את הקושי של חברות גדולות לנתח נתונים, כאשר הנתונים נמצאים במקורות שונים."
+  },
+  {
+    "id": "8155128428461d5b",
+    "title_original": "Catch up on 12 major I/O 2026 moments",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+    "description": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-05-28T15:00:00+00:00",
+    "fetched_at": "2026-05-29T08:03:42.991167+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Catch up on 12 major I/O 2026 moments",
+    "summary_he": "Google I/O 2026 saw significant announcements in the field of artificial intelligence, including the debut of Gemini Omni, a model capable of creating content from various inputs, and updates to Search, such as the introduction of intelligent agents.",
+    "details_he": "The conference highlighted Google's advancements in generative AI, with the launch of Gemini Omni Flash, a model that can generate high-quality videos from a combination of images, audio, and text. Additionally, the Gemini 3.5 family of models was introduced, which combines frontier intelligence with action, and is available for use in various Google platforms. The company also announced the introduction of information agents in Search, which can reason across the web and provide users with personalized updates."
+  },
+  {
+    "id": "b7d349045d632f57",
+    "title_original": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+    "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+    "description": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world.  At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real transfer is becoming a foundation for that shift, helping robots perceive, reason, plan and […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-28T13:00:51+00:00",
+    "fetched_at": "2026-05-29T08:03:44.311839+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+    "summary_he": "NVIDIA Research הובילה את המחקר בתחום הרובוטיקה, והציגה 28 מאמרים בכנס ICRA, כולל שמונה שהציגו את הקשר בין תכנון באמצעות הדמיות לבין תכנון בעולם האמיתי.",
+    "details_he": "המחקרים של NVIDIA Research עוסקים בשינוי הפנים של הרובוטיקה, מדמיות מוגבלות לבין רובוטים שיכולים להתאים עצמם לסביבות חדשות. המחקרים עוסקים בשלושה תחומים עיקריים: תכנון, תפעול והתאמה. המחקרים כוללים פיתוח של תוכנה שמאפשרת לרובוטים לתכנן ולבצע תפעול באופן עצמאי, וכן פיתוח של תוכנה שמאפשרת לרובוטים להתאים עצמם לסביבות חדשות. המחקרים גם כוללים פיתוח של תוכנה שמאפשרת לרובוטים ללמוד מניסיונם ולשפר את תפעולם."
+  },
+  {
+    "id": "d666e7cd181610ae",
+    "title_original": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/",
+    "description": "License to stream, shaken and stirred. GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond’s reimagined origin story from almost any device — no tux or preloads required.  For a limited time, the game is included with the purchase of a 12‑month GeForce NOW […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-05-28T13:00:37+00:00",
+    "fetched_at": "2026-05-29T08:03:44.311839+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
+    "summary_he": "GeForce NOW השיקה את 007 First Light, גיימינג חודשי בעל פרקטיקה חדשה של ספיי, כחלק מחבילת GeForce NOW Ultimate.",
+    "details_he": "007 First Light היא גרסה חדשה של סיפור המקור של ג'יימס בונד, שמאפשרת לשחקנים לחוות את הסיפור המקורי של הסוכן הבריטי. הגיימינג כולל פעולות גבוהות, פעולות סודיות וסצינות סגנון. כחלק מהשירות, GeForce NOW Ultimate כולל גם גיימינג חודשי בעל פרקטיקה חדשה של ספיי. השירות גם כולל גיימינג חודשי של Resident Evil Requiem, ו-8 גיימים חדשים שנוספו לספרייה."
+  },
+  {
+    "id": "bfaa843cb3560a47",
+    "title_original": "How Endava builds an agentic organization with Codex",
+    "url": "https://openai.com/index/endava",
+    "description": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-05-28T12:00:00+00:00",
+    "fetched_at": "2026-05-29T08:03:41.914629+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/endava"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Endava builds an agentic organization with Codex",
+    "summary_he": "Endava, חברה עולמית לחוזים תוכנה, השתמשה ב-Codex כדי להגדיל את היכולות הטכניות שלה. הם השתמשו ב-Codex כדי לקצר את זמן הבדיקה והאנליזה של הדרישות.",
+    "details_he": "Endava, חברה עולמית לחוזים תוכנה, השתמשה ב-Codex כדי להגדיל את היכולות הטכניות שלה. הם השתמשו ב-Codex כדי לקצר את זמן הבדיקה והאנליזה של הדרישות. כתוצאה מכך, Endava יכולה להגדיל את היכולות שלה לספק תוכנה גבוהה באיכות. Codex הוא כלי שמאפשר לקבוצת עובדים לעבוד יחד, כאשר הבוגרים והצעירים יכולים לעבוד יחד, כאשר Codex משמש כמדריך לטובות הנהלים וההחלטות הארכיטקטוניות. זה נותן לקבוצת עובדים את היכולת ללמוד ולצבור ניסיון, כאשר Codex משמש כמדריך לטובות הנהלים וההחלטות הארכיטקטוניות."
+  },
+  {
+    "id": "5b027d11cfb0a2fe",
+    "title_original": "What’s in the container? Analyzing vulnerabilities, risks and protection with Kaspersky Container Security and the KIRA AI assistant",
+    "url": "https://securelist.com/container-security-typical-issues/119974/",
+    "description": "What are the main risks for container environments: vulnerabilities, supply chain attacks, configuration errors; how to improve container security and how Kaspersky Container Security with the KIRA AI assistant can help.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-05-29T07:00:51+00:00",
+    "fetched_at": "2026-05-29T08:03:51.368664+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/container-security-typical-issues/119974/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What’s in the container? Analyzing vulnerabilities, risks and protection with Kaspersky Container Security and the KIRA AI assistant",
+    "summary_he": "כדי למנוע התקפות על תשתית הקונטיינר, חשוב לבדוק תמונות Docker הסופיות, כולל השכבות הנתונות, על חולשות והפרעות בהקמה. כלי Kaspersky Container Security ו-KIRA, העוזר האינטליגנטי, מסייעים לזהות עיצובים לא בטוחים והצעות לתיקון.",
+    "details_he": "בעזרת KIRA, ניתן לבדוק תמונות Docker פופולריות ולזהות חולשות והפרעות. כאשר נבדוק תמונות, ניתן לגלות חולשות בבניית תמונות, כגון חולשות במערכות הפעלה, חולשות בספריות וחולשות בכלי. כאשר נבדוק תמונות, ניתן גם לגלות חולשות בהקמת תמונות, כגון חולשות בספריות, חולשות בכלי וחולשות במערכות הפעלה. כלי KIRA מסייע לזהות חולשות אלה ולהציע פתרונות."
+  },
+  {
+    "id": "2c4ad05db44f811f",
+    "title_original": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/",
+    "description": "The Mini Shai-Hulud campaign used malicious npm packages to target cloud and CI/CD credentials across developer environments. This report details the attack chain, detection opportunities, and mitigation guidance to help organizations identify and disrupt related activity.The postTyposquatted npm packages used to steal cloud and CI/CD secretsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-29T03:04:52+00:00",
+    "fetched_at": "2026-05-29T08:03:48.990915+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
+    "summary_he": "Microsoft Threat Intelligence revealed a sophisticated ransomware, The Gentlemen, which uses self-propagation techniques to spread across networks and encrypt files with ephemeral keys.",
+    "details_he": "The Gentlemen is a Go-based ransomware developed by affiliates of Storm-2697, a group known for its aggressive tactics. This ransomware combines per-file encryption with a self-propagation module, allowing it to move laterally across a network and deploy itself simultaneously on multiple targets. The self-propagation module enables The Gentlemen to spread quickly and efficiently, making it a significant threat to organizations. Microsoft's analysis aims to provide insights into the workings of this ransomware and help defenders prepare for potential attacks."
+  },
+  {
+    "id": "330efdd863c8ff00",
+    "title_original": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/",
+    "description": "Microsoft Threat Intelligence presents a comprehensive analysis of The Gentlemen, a Go-based ransomware deployed by affiliates of Storm-2697 that combines per-file ephemeral key encryption with an aggressive self-propagation module to deploy itself across an entire network using series of simultaneous lateral movement techniques per target.The postThe Gentlemen ransomware: Dissecting a self-propagating Go encryptorappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-05-28T15:00:00+00:00",
+    "fetched_at": "2026-05-29T08:03:48.990915+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
+    "summary_he": "Microsoft Threat Intelligence חשף תחקיר מלא של The Gentlemen, ראנסומאר Go המשתמש בשיטת צפנה per-file ephemeral key encryption ובמודול של פצצת התפשטות אגרסיבית.",
+    "details_he": "The Gentlemen הוא ראנסומאר Go שנכתב על ידי חברי Storm-2697. הוא משתמש בטכניקות של התפשטות צדדית, כלומר, הוא פוצע את עצמו בין חומרה שונה באותו רשת. זה נעשה באמצעות טכניקות של lateral movement, כלומר, הוא נועד להתפשטות רחבה ברשת. ה-Gentlemen גם משתמש בצפנה per-file ephemeral key encryption, כלומר, כל קובץ נצפן באופן עצמאי."
+  },
+  {
+    "id": "aa6f1845bdc0e3fa",
+    "title_original": "State of Post Quantum Cryptography",
+    "url": "https://www.wiz.io/blog/state-of-post-quantum-cryptography",
+    "description": "Discussion of PQC relevant statistics that we see across our customers and other data sources.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-05-28T13:34:55+00:00",
+    "fetched_at": "2026-05-29T08:03:52.854935+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/state-of-post-quantum-cryptography"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "State of Post Quantum Cryptography",
+    "summary_he": "Google's post-quantum cryptography (PQC) migration timeline has been set for 2029, with a shift in priorities towards authentication services. This change is driven by advances in quantum computers and reduced estimates of resources needed to break asymmetric cryptography.",
+    "details_he": "The PQC migration has been focused on key exchanges to mitigate Harvest-Now-Decrypt-Later (HNDL) attacks, but Google is now prioritizing digital signature algorithms, such as ML-DSA or SLH-DSA, for authentication services. This is a critical step towards a full PQC migration, which requires both key exchange and digital signature algorithm migrations. The timeline and change in priorities are a response to the growing risks of quantum computers and the availability of post-quantum cryptography standards and implementations."
+  },
+  {
+    "id": "d8c5d6837a10cf63",
+    "title_original": "The Autonomous Security Platform Built for Attacker Speed",
+    "url": "https://blog.checkpoint.com/exposure-management/the-autonomous-security-platform-built-for-attacker-speed/",
+    "description": "Attackers are now agentic. AI agents run reconnaissance, test exploits, and weaponize vulnerabilities at machine speed – collapsing the mean time from CVE disclosure to confirmed exploitation from 2.3 years in 2018 to roughly 10 hours in 2026, with 72.7% of exploited CVEs in 2026 hitting as zero days, up from 16.1% in 2018.   Every year, the major breach reports tell the same story. Misconfigurations. Unpatched systems. Identity sprawl. Flat networks. The root causes barely change, and yet organizations continue to get breached, not because they lack visibility into these problems, but because closing them at scale is genuinely hard. Too many […]The postThe Autonomous Security Platform Built for Attacker Speedappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-05-28T13:00:05+00:00",
+    "fetched_at": "2026-05-29T08:04:00.960370+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/the-autonomous-security-platform-built-for-attacker-speed/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Autonomous Security Platform Built for Attacker Speed",
+    "summary_he": "בעקבות התקדמות הטכנולוגיה, פורצי דרך נעשו יותר חכמים ומהירים, וזה גורם לכך שארגונים נוטים להיפגע. הזמן הממוצע מבין הודעה על חולשה והפצת תוכנית פגיעה ירד מ-2.3 שנים ב-2018 לכ-10 שעות ב-2026.",
+    "details_he": "בשנים האחרונות, פורצי דרך נעשו יותר חכמים ומהירים, וזה גורם לכך שארגונים נוטים להיפגע. פורצי דרך נעשו יותר חכמים עקב שימוש באי. אי כבר משמש פורצי דרך להגדיל את כמות התקיפות, לקדם את החיפוש אחר חולשות, וליצור תוכניות פגיעה יותר משכנעות. על פי מחקר Check Point, ארגונים נתקלו ב-1,925 תקיפות בשבוע ברבעון הראשון של 2025, עלייה של 47% בהשוואה לשנה שעברה. זה גורם לכך שצוותי הביטחון נאלצים לפעול במהירות יותר מאשר הזרימות העבודה המסורתיות."
+  }
+]
