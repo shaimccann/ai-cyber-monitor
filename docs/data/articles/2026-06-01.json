@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1966fb47267be6eb",
+    "title_original": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+    "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+    "description": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications.  NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications. […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-01T05:00:56+00:00",
+    "fetched_at": "2026-06-01T09:31:57.515377+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+    "summary_he": "NVIDIA AI Cloud ecosystem expands worldwide to meet growing demand for AI compute, with partners adding capacity to support enterprises, startups, and nations.",
+    "details_he": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure, with partners expanding capacity to meet growing demand from enterprises, startups, nations, AI labs, and developers scaling agentic AI applications. This expansion is driven by the increasing need for AI compute, with NVIDIA AI Clouds providing a growing ecosystem of purpose-built clouds serving the demand behind popular AI applications. These AI clouds combine NVIDIA accelerated computing, networking, and AI software to support various AI workloads, including training, fine-tuning, inference, agentic AI, physical AI, and sovereign AI deployments."
+  },
+  {
+    "id": "a778eaa1cadb1d1b",
+    "title_original": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+    "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+    "description": "As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts into a unified decision layer.  Today at GTC Taipei at COMPUTEX, NVIDIA announced the NVIDIA Factory Operations Blueprint (FOX) — a reference design for building an autonomous factory manager […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-01T05:00:47+00:00",
+    "fetched_at": "2026-06-01T09:31:57.515377+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+    "summary_he": "NVIDIA הכריזה על NVIDIA Factory Operations Blueprint, תכנית ייעודית לבניית סוכן ניהול תעשייתי אוטונומי שמסוגל לספק פיתוח ופעולה של סוכני AI תעשייתיים מותאמים.",
+    "details_he": "NVIDIA Factory Operations Blueprint (FOX) היא תכנית ייעודית של NVIDIA שמספקת תשתית ניידת לבניית סוכני ניהול תעשייתיים אוטונומיים. FOX מאפשרת למפתחים לבנות סוכני ניהול תעשייתיים מאובטחים ומרכזיים לניהול ואופטימיזציה של סוכני AI תעשייתיים מיוחדים. FOX משתמשת ב-NVIDIA NemoClaw, AI-Q Blueprint ו-NVIDIA Nemotron open models כדי לספק תשתית ניידת לבניית סוכני ניהול תעשייתיים. FOX גם מאפשרת למפתחים לבנות סוכני ניהול תעשייתיים שמסוגלים לקשר בין מערכות תעשייתיות, לאוטומציית פיתוח דגמי AI ולהפעלת פעולות תעשייתיות מומחשות. FOX נועדה להיות תשתית ניידת לבניית סוכני ניהול תעשייתיים אוטונומיים שמסוגלים לספק פיתוח ופעולה של סוכני AI תעשייתיים מותאמים."
+  },
+  {
+    "id": "7aefee817b378145",
+    "title_original": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
+    "url": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
+    "description": "Taiwan is home to more than 500 NVIDIA ecosystem partners. More than 1 million NVIDIA MGX rack components for NVIDIA Vera Rubin infrastructure come together in Taiwan, from across 25 factory sites. As Vera Rubin ramps into full production to power agentic AI factories worldwide, that ecosystem spans the full supply chain — from key […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-01T05:00:41+00:00",
+    "fetched_at": "2026-06-01T09:31:57.515377+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
+    "summary_he": "Taiwan's manufacturing leaders are leveraging NVIDIA technologies to revolutionize the design, construction, and operation of AI infrastructure, driving efficiency and innovation in various sectors, including chipmaking, server assembly, and factory operations.",
+    "details_he": "More than 500 NVIDIA ecosystem partners in Taiwan are collaborating to build the world's AI infrastructure, with over 1 million NVIDIA MGX rack components being assembled from 25 factory sites. This partnership spans the entire supply chain, from key wafer and chip partners to manufacturing and systems leaders. Taiwan's industry titans, such as Foxconn and Quanta Cloud Technology, are not only building AI factories but also applying accelerated computing, simulation, and AI agents to their own operations, creating a model for how AI can make advanced manufacturing faster, more efficient, and adaptive."
+  },
+  {
+    "id": "8c8a9a1c38d78b1a",
+    "title_original": "How Cosmos 3 Helps Physical AI Think Before It Acts",
+    "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+    "description": "",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-01T04:45:07+00:00",
+    "fetched_at": "2026-06-01T09:31:57.515377+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Cosmos 3 Helps Physical AI Think Before It Acts",
+    "summary_he": "NVIDIA's Factory Operations Blueprint, Cosmos 3, enables factories to integrate various systems into a unified decision-making AI, enhancing plant-wide intelligence and automation.",
+    "details_he": "This integration allows for real-time monitoring and analysis of machine signals, quality systems, work instructions, and operational alerts, providing a more comprehensive understanding of factory operations. By connecting these disparate systems, Cosmos 3 helps manufacturers make more informed decisions and optimize their production processes. This shift towards plant-wide intelligence is critical for factories moving beyond isolated automation, enabling them to respond more effectively to changing conditions and improve overall efficiency."
+  },
+  {
+    "id": "74891a3f62f929dc",
+    "title_original": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-01T04:44:55+00:00",
+    "fetched_at": "2026-06-01T09:31:57.206248+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "summary_he": "NVIDIA Cosmos 3 היא דגם פיזי-אי של NVIDIA שמספק תכונות רב-תכונות, כולל יצירת תיאורים פיזיים, תגובות פיזיות והנחיות. הדגם יכול לספק תיאורים פיזיים ממידע טקסטואלי, תמונות, וידאו, או קלטים של פעולות.",
+    "details_he": "NVIDIA Cosmos 3 היא דגם פיזי-אי של NVIDIA שמספק תכונות רב-תכונות. הדגם יכול לספק תיאורים פיזיים, תגובות פיזיות והנחיות. הדגם נבנה על רקע של MoT (Mixture-of-Transformers) ומאפשר להנדסאים לבנות תכונות שונות, כגון יצירת תיאורים פיזיים, תגובות פיזיות והנחיות, באופן אחד. NVIDIA Cosmos 3 יכולה לשמש כבסיס לבניית מערכות AI פיזיות שיכולות להבין את העולם האמיתי. הדגם ניתן להתקין על Hugging Face ומאפשר להנדסאים לבנות תכונות שונות, כגון יצירת תיאורים פיזיים, תגובות פיזיות והנחיות, באופן אחד."
+  },
+  {
+    "id": "a02aaca95f54e638",
+    "title_original": "The Server Seizure That Affects Also Iran’s Cyber Operations",
+    "url": "https://blog.checkpoint.com/security/the-server-seizure-that-affects-also-irans-cyber-operations/",
+    "description": "On May 22, 2026, Dutch financial-crime investigators walked into data centers in Dronten and Schiphol-Rijk and seized approximately 800 servers. The target was WorkTitans B.V., a hosting provider that, on the surface, looked like any other internet infrastructure company. What investigators uncovered, however, was something far more significant: a ghost operation built on sanctioned infrastructure, quietly serving as the backbone for some of Iran’s most active cyber espionage campaigns. The story starts a year earlier. In May 2025, the European Union sanctioned Stark Industries, an internet service provider linked to Russian information-warfare operations. Rather than shutting down, the people behind […]The postThe Server Seizure That Affects Also Iran’s Cyber Operationsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-01T08:55:17+00:00",
+    "fetched_at": "2026-06-01T09:32:16.527004+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/the-server-seizure-that-affects-also-irans-cyber-operations/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Server Seizure That Affects Also Iran’s Cyber Operations",
+    "summary_he": "חדירת השרתים של WorkTitans, המשרת את הפעילות הסייברית של איראן, חשפה קשר חשאי בין החברה לקבוצות סייבר פרטיות איראניות. החברה, שהוקמה כתחליף לחברה המקורית Stark Industries, שהושעתה על ידי האיחוד האירופי, נחשדה בפעילות סייבר פרטית למען ממשלת איראן.",
+    "details_he": "ב-22 במאי 2026, חוקרי פשעי כספים הולנדים חדרו למרכזי הנתונים ב-Dronten וב-Schiphol-Rijk וחטפו כ-800 שרתים. המטרה הייתה WorkTitans B.V., ספק שרתים שבפניו נראה ככלי תשתית אינטרנטי רגיל. אך החוקרים גילו דבר שהיה חשאי יותר: פעילות רוחב של קבוצות סייבר פרטיות איראניות, שהפעילו את השרתים של WorkTitans. הקבוצות, שכל אחת פעלה במטרות שונות, השתמשו בשרתי WorkTitans כבסיס הפעולה שלהן. חטיפת השרתים כנראה השפיעה על הפעילות הסייברית של איראן. "
+  },
+  {
+    "id": "538b1cc17b958690",
+    "title_original": "Check Point Lays the Groundwork for the Future of AI Factory Security with NVIDIA",
+    "url": "https://blog.checkpoint.com/ai-security/check-point-lays-the-groundwork-for-the-future-of-ai-factory-security-with-nvidia/",
+    "description": "At GTC Taipei during COMPUTEX 2026, NVIDIA is highlighting the growing adoption of its NVIDIA Vera BlueField-4 STX architecture and introducing new NVIDIA DOCA-powered innovations designed to secure the next generation of enterprise AI infrastructure. As organizations continue scaling AI factories, private LLM environments, distributed inference systems, and increasingly autonomous AI operations, enterprise infrastructure requirements are rapidly evolving. Modern AI environments combine high-performance compute, distributed storage systems, inference pipelines, Kubernetes clusters, APIs, GPU server farms, and sensitive enterprise data operating continuously at enormous scale. At the same time, AI-driven environments are introducing increasingly dynamic machine-to-machine interactions across infrastructure, applications, and […]The postCheck Point Lays the Groundwork for the Future of AI Factory Security with NVIDIAappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-06-01T05:30:21+00:00",
+    "fetched_at": "2026-06-01T09:32:16.527004+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/check-point-lays-the-groundwork-for-the-future-of-ai-factory-security-with-nvidia/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point Lays the Groundwork for the Future of AI Factory Security with NVIDIA",
+    "summary_he": "Check Point, a prominent cybersecurity company, is collaborating with NVIDIA to develop cutting-edge AI security solutions. This partnership aims to secure the next generation of enterprise AI infrastructure, which is becoming increasingly complex and dynamic.",
+    "details_he": "The growing adoption of NVIDIA's Vera BlueField-4 STX architecture and new DOCA-powered innovations is driving the need for AI security architectures that can protect modern AI infrastructure environments. Traditional security architectures are no longer sufficient, as AI factories introduce highly distributed workloads, east-west traffic flows, and increasingly automated AI operations. NVIDIA's BlueField-4 and DOCA innovations are designed to provide infrastructure-native protection models that can operate closer to the infrastructure layer and directly within modern AI runtime environments, extending protections across distributed AI infrastructure environments."
+  },
+  {
+    "id": "1a9c5efcbb68bf70",
+    "title_original": "CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA",
+    "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "ai",
+    "published": "2026-06-01T00:00:00-05:00",
+    "fetched_at": "2026-06-01T09:32:05.081367+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA",
+    "summary_he": "CrowdStrike and NVIDIA collaborate to accelerate and scale AI-native agents in Falcon Exposure Management, leveraging trillions of telemetry events and threat intelligence to drive real-time risk reduction.",
+    "details_he": "The partnership aims to bridge the gap between exposure and remediation by harnessing AI that can reason across the entire environment, cut through noise with adversary-informed context, and drive action at machine speed. By leveraging NeMo Data Designer and NeMo AutoModel, CrowdStrike curates and synthesizes security data into high-quality training datasets tailored to cyber defense, enabling the fine-tuning and post-training of Nemotron 3 Supermodels. This collaboration enables Falcon Exposure Management's AI agents to surface vulnerabilities and reason about them with the depth and precision of a seasoned practitioner, quickly, continuously, and at enterprise scale."
+  },
+  {
+    "id": "3a0807972cb60b95",
+    "title_original": "CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX",
+    "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "ai",
+    "published": "2026-06-01T00:00:00-05:00",
+    "fetched_at": "2026-06-01T09:32:05.081367+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX",
+    "summary_he": "CrowdStrike and NVIDIA are expanding their partnership to bring enterprise-grade security to the AI factory with the launch of NVIDIA Vera BlueField-4 STX. This collaboration aims to extend security deeper into the infrastructure layer by integrating NVIDIA DOCA Argus into the CrowdStrike Falcon platform.",
+    "details_he": "The NVIDIA Vera BlueField-4 STX defines a new class of secure-by-design AI infrastructure, embedding real-time protection for data, inference workloads, and autonomous agents directly in silicon. This architecture introduces new security capabilities, including DOCA Vault for Zero Trust file access, DOCA Argus for agent behavior visibility, and DOCA Flow for network-level isolation. The integration of NVIDIA DOCA Argus into CrowdStrike Falcon Next-Gen SIEM will extend visibility across the AI factory with infrastructure-level signals that can be correlated against endpoint, identity, cloud, data, and third-party activity. This enables security teams to detect and investigate threats spanning the full AI operating environment, from agent behavior anomalies and unauthorized data access attempts to network policy violations and lateral movement across AI infrastructure."
+  },
+  {
+    "id": "d9d519b53a7d4683",
+    "title_original": "The Identity Attack Surface: A Practical Security Checklist",
+    "url": "https://xmcyber.com/checklist/the-identity-attack-surface-a-practical-security-checklist/",
+    "description": "Audit configuration drift, manage non-human identities, and close hidden lateral movement paths.The postThe Identity Attack Surface: A Practical Security Checklistappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-05-31T10:00:49+00:00",
+    "fetched_at": "2026-06-01T09:32:15.798407+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/checklist/the-identity-attack-surface-a-practical-security-checklist/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Identity Attack Surface: A Practical Security Checklist",
+    "summary_he": "Identity security posture in hybrid environments is often overlooked by traditional vulnerability scanners, which focus on CVEs. This checklist provides 20 best practices for security architects and IAM teams to assess identity security. It covers key areas such as non-human identity posture, credential hygiene, and least privilege enforcement.",
+    "details_he": "The checklist is designed to help security teams identify and address identity-related security risks in hybrid environments. It includes practices such as tracking privilege levels for machine and AI accounts, locating cached and exposed domain credentials, and verifying if elevated permissions are actually in use. By following this checklist, security teams can improve their identity security posture and reduce the risk of lateral movement attacks."
+  }
+]
