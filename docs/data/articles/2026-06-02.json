@@ -1,0 +1,212 @@
+[
+  {
+    "id": "3a9dce1b144e9b8e",
+    "title_original": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+    "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+    "description": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems.  Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-02T06:00:36+00:00",
+    "fetched_at": "2026-06-02T08:42:06.569441+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+    "summary_he": "Financial institutions are shifting towards transaction foundation models to build unified intelligence, leveraging proprietary data and transformer architectures to improve performance across tasks.",
+    "details_he": "Financial institutions have spent years building task-specific AI models, but siloed systems have limited their ability to develop a unified understanding of consumers' financial behavior. With the growth of enterprise datasets, the gap between what institutions know and what their AI can reason over has created an opportunity for the industry to build intelligence using proprietary data. Leading firms are now rethinking the architecture of their AI systems, using transaction foundation models to learn a unified representation of consumer behavior trained entirely on proprietary data. These large-scale AI systems are trained on billions of financial events and transform raw data into intelligence, helping firms better serve their customers."
+  },
+  {
+    "id": "2fca132cca37003d",
+    "title_original": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+    "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+    "description": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-02T02:00:40+00:00",
+    "fetched_at": "2026-06-02T08:42:06.569441+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+    "summary_he": "NVIDIA Jetson has been upgraded with agentic AI capabilities, enabling developers to deploy physical AI agents in production at the edge. This upgrade is part of the NVIDIA JetPack 7.2 release, which includes Yocto project support, NVIDIA CUDA 13, and Multi-Instance GPU support. The agentic AI framework, NemoClaw, has also been deployed on the production-grade Jetson stack.",
+    "details_he": "The NVIDIA JetPack 7.2 release brings significant upgrades to the Jetson software foundation, including Yocto-based OS support, CUDA 13 on Jetson Orin, and MIG plus real-time kernel on Jetson Thor. This allows developers to reserve dedicated GPU resources for deterministic workloads, such as robot perception systems. Additionally, the Jetson agent skills now include Linux customization, memory optimization, and model benchmarking, which can be deployed as agent-deployable skills. The NemoClaw agentic AI framework can be deployed on the Jetson stack with a single command, accelerating task automation for industrial systems."
+  },
+  {
+    "id": "416498c28b481785",
+    "title_original": "Our views on AI policy and political advocacy",
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "description": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-01T17:00:00+00:00",
+    "fetched_at": "2026-06-02T08:42:04.458938+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Our views on AI policy and political advocacy",
+    "summary_he": "OpenAI emphasizes its commitment to transparency and clear policy positions on AI governance, urging governments, researchers, and the public to shape the future of the technology, rather than relying on individual companies or organizations.",
+    "details_he": "The company has chosen not to establish employee-funded Political Action Committees (PACs) or make donations to super PACs or political candidates, instead allowing employees to participate in the political process in their personal capacities. OpenAI's President and co-founder, Greg Brockman, has been involved with Leading the Future (LTF), but emphasizes that this engagement is in a personal capacity, not on behalf of the company. OpenAI advocates for thoughtful regulation, rigorous testing, and strong safety standards for AI systems, and supports broad access to AI's benefits."
+  },
+  {
+    "id": "813b4248a59fbd0f",
+    "title_original": "How we used Gemini to build Google I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "description": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-06-01T16:00:00+00:00",
+    "fetched_at": "2026-06-02T08:42:05.386338+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How we used Gemini to build Google I/O 2026",
+    "summary_he": "Google I/O 2026 showcased the integration of AI tools in event production, with the company pushing the boundaries of what can be achieved with AI. The event featured a short film, 'TPU Training Day,' which was created using a combination of human artistry and experimental AI technology. The film's production process demonstrated the potential of AI to enhance creativity and automate mundane tasks.",
+    "details_he": "The production of 'TPU Training Day' involved a collaborative effort between Google, director Laurie Rowan, and Nexus Studios. The team used a range of AI tools, including Google AI Studio, experimental DeepMind models, Gemini Omni, and Nano Banana, to bring the film to life. By leveraging these tools, the team was able to automate tasks such as generating stylized frames and merging base animation with stylized frames, allowing them to focus on the creative aspects of the project. The use of AI in the production process enabled the team to work more efficiently and effectively, resulting in a high-quality film that showcased the potential of AI in creative applications."
+  },
+  {
+    "id": "32425258c3013b6c",
+    "title_original": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-01T15:45:17+00:00",
+    "fetched_at": "2026-06-02T08:42:06.321513+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/JetBrains/mellum2-launch"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "summary_he": "JetBrains הוציאה לאור Mellum2, דגם מומחה-מומחה של 12 מיליארד תכונות, שמטרתו לספק תקשורת נמוכה-לטאנסי ומהירה עבור עבודות טקסט וקוד.",
+    "details_he": "Mellum2 היא דגם מומחה-מומחה שהוכשרה מאפס על טקסט טבעי וקוד. הדגם פועל רק 2.5 מיליארד תכונות לכל תו, מה שהופך אותו לכדאי לשימוש בפלטפורמות גבוהות-עומס ובעלות זמן-תגובה נמוך. Mellum2 יכולה להיות שימושית לצורכי רוטינג, RAG, סיכום, סוב-אג'נטים, תכונות קוד-גבוה-עומס והפצה פרטית. הדגם פורסם תחת רישיון Apache 2.0. בהשוואה לדגמים דומים, Mellum2 מציגה ביצועים תחרותיים, בעוד שהיא מגיעה לביצועים של יותר מ-2 פעמים מהמהירות של דגמים דומים."
+  },
+  {
+    "id": "22864718d49b61e6",
+    "title_original": "Eliminate Critical API Attack Paths with Wiz API SPM",
+    "url": "https://www.wiz.io/blog/introducing-wiz-api-spm",
+    "description": "Wiz API SPM is now GA, enabling customers to discover APIs, assess APIs for exploitability, and prioritize remediation to mitigate the risk of an API-related breach.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-06-01T15:02:08+00:00",
+    "fetched_at": "2026-06-02T08:42:16.039301+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-api-spm"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Eliminate Critical API Attack Paths with Wiz API SPM",
+    "summary_he": "Wiz API Security Posture Management (API SPM) נועד לסייע לצוותי ביטחון להסיר חסרונות API, לזהות API ניתנים להשתלטות ולהפחית את הסיכון של פריצה API.",
+    "details_he": "APIs הן נקודת חוליה חשובה בסביבת הענן, והם נמצאים במרכז המארב של התקיפות. Wiz API SPM נועד לסייע לצוותי ביטחון לזהות API ניתנים להשתלטות, להפחית את הסיכון של פריצה API ולסייע להם לפעול באופן יעיל יותר. Wiz API SPM משתמש בגרף הביטחון של Wiz, שמספק תמונה מלאה של הסביבה, כדי לזהות API ניתנים להשתלטות ולהפחית את הסיכון של פריצה API. Wiz API SPM גם מספק גילוי API רציף ואוטומטי, כדי לסייע לצוותי ביטחון לזהות API חדשים ולהפחית את הסיכון של פריצה API."
+  },
+  {
+    "id": "e11bcce08662ec57",
+    "title_original": "1st June – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 1st June, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Carnival Corporation, a global cruise line operator, has confirmed a data breach affecting nearly 6 million people after attackers used social engineering to compromise an employee account. Exposed information may include names, contact […]The post1st June – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-01T14:43:11+00:00",
+    "fetched_at": "2026-06-02T08:42:15.613177+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "1st June – Threat Intelligence Report",
+    "summary_he": "Check Point IPS נותנת הגנה נגד סכנות חדשות ב-1 ביוני. כולל תקלות ב- IKE ו-Gogs.",
+    "details_he": "Check Point IPS מספקת הגנה נגד סכנות חדשות, כולל IKE Unsigned Underflow (CVE-2026-48131) ו-IKE Improper Length Validation (CVE-2026-48132), Gogs Remote Code Execution ו-Ghost SQL Injection (CVE-2026-26980). זה חשוב להגן על עצמך מפני אלו הסכנות, כדי למנוע פגיעה בביטחון המידע שלך."
+  },
+  {
+    "id": "01f02377a6b29858",
+    "title_original": "Miasma: Supply Chain Attack Targeting RedHat npm Packages",
+    "url": "https://www.wiz.io/blog/miasma-supply-chain-attack-targeting-redhat-npm-packages",
+    "description": "Detect and mitigate malicious npm packages linked to the latest npm supply chain attack, based on the open sourced Mini Shai-Hulud malware.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-06-01T12:45:51+00:00",
+    "fetched_at": "2026-06-02T08:42:16.039301+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/miasma-supply-chain-attack-targeting-redhat-npm-packages"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Miasma: Supply Chain Attack Targeting RedHat npm Packages",
+    "summary_he": "Wiz Research זיהתה פגיעה בשרשרת הסнייפר של RedHat npm, שכללה 32 גרסאות של כלי-ארגומנטציה שנשלטו על ידי תוכנה זדונית.",
+    "details_he": ""
+  },
+  {
+    "id": "899e45196fcd33e5",
+    "title_original": "Reducing Time-to-Protect with Cato’s Self-Evolving Vulnerability Protection Agent",
+    "url": "https://www.catonetworks.com/blog/reducing-time-to-protect/",
+    "description": "TL;DR: In the age of frontier AI models, vulnerability discovery and exploit development are scaling faster than human defenders can manually respond. Security teams already face growing CVE volumes, shorter exploitation windows, and manual workflows for researching vulnerabilities, creating protections, validating them, and preparing them for deployment. As attackers weaponize vulnerabilities faster than organizations can...The postReducing Time-to-Protect with Cato’s Self-Evolving Vulnerability Protection Agentappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-06-01T12:26:33+00:00",
+    "fetched_at": "2026-06-02T08:42:19.939732+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/reducing-time-to-protect/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Reducing Time-to-Protect with Cato’s Self-Evolving Vulnerability Protection Agent",
+    "summary_he": "Cato's Self-Evolving Vulnerability Protection Agent accelerates the path from CVE disclosure to customer protection, addressing the growing challenge of time-to-protect in the face of rapidly scaling vulnerability discovery and exploit development.",
+    "details_he": "The agent was built to address the increasing pressure on security teams to manually research vulnerabilities, create protections, validate them, and prepare them for deployment. Through a multi-model and multi-modal design, the agent can analyze different types of security artifacts, including vendor advisories, CVE records, and technical diagrams. In two pilot phases, the agent generated usable protections across multiple vulnerability classes with consistent results, with the fastest completed in 45 minutes. The agent's workflow includes five stages: vulnerability intelligence collection, exploit analysis, protection generation, validation, and researcher review, allowing security researchers to remain in control of final decisions."
+  },
+  {
+    "id": "556bca1f58a23b71",
+    "title_original": "Containers on fire: from container escapes to supply chain attacks",
+    "url": "https://securelist.com/container-attack-vectors/120010/",
+    "description": "We break down the primary attack vectors in containerized environments: exposed secrets, privilege misconfigurations, API compromise, and supply chain attacks.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-06-01T10:00:06+00:00",
+    "fetched_at": "2026-06-02T08:42:14.418989+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/container-attack-vectors/120010/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Containers on fire: from container escapes to supply chain attacks",
+    "summary_he": "Container attacks have evolved into complex scenarios involving supply chain compromises, Kubernetes secrets theft, and orchestration API abuse. These attacks often target vulnerabilities in host systems and container runtime components, as well as misconfigurations and insecure use of containerization and orchestration APIs.",
+    "details_he": "The use of containerization has become widespread in modern infrastructures, with Docker, Kubernetes, and similar technologies being the corporate standard for efficient automation. However, this has also led to a growing interest from malicious actors, who are actively exploiting vulnerabilities in host systems and container runtime components, as well as misconfiguring and abusing containerization and orchestration APIs. The APT group TeamPCP recently compromised Checkmarx KICS across multiple attack chains for different vectors, including poisoning a Docker Hub repository to steal Kubernetes secrets and other sensitive data. This highlights the need for robust security measures to prevent container attacks, which can have serious consequences, including supply chain compromises and Kubernetes secrets theft."
+  }
+]
