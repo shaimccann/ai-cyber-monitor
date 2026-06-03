@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fc47bbb907110ef1",
+    "title_original": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+    "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+    "description": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours.  Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes.  At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-02T22:00:58+00:00",
+    "fetched_at": "2026-06-03T09:00:03.018827+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+    "summary_he": "NVIDIA NemoClaw enables industrial software leaders to build secure, autonomous AI engineers that automate end-to-end workflows in computer-aided design, simulation, and post-processing, reducing time-consuming tasks from weeks to hours.",
+    "details_he": "NVIDIA NemoClaw is an open blueprint for building specialized AI agents with secure runtime and frontier models, allowing users to integrate with various orchestration frameworks and deploy on NVIDIA DGX Spark personal AI supercomputers, enterprise data centers, and cloud service providers. This technology is being adopted by industrial software leaders such as Cadence, Dassault Systèmes, Siemens, and Synopsys to automate workflows in automotive, aerospace, semiconductors, and manufacturing. Additionally, startups like Flexcompute are also leveraging NVIDIA NemoClaw to build AI engineers for their workflows, further extending the reach of agentic AI."
+  },
+  {
+    "id": "cdb75f8ef2c0ed72",
+    "title_original": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+    "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+    "description": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-02T19:00:08+00:00",
+    "fetched_at": "2026-06-03T09:00:03.018827+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+    "summary_he": "NVIDIA ו-Microsoft הציגו פרטנריות חדשה לפיתוח והפעלה של AI אגנטי, המשלבת עבודה על Windows, Azure ו-Local. הפרטנריות כוללת פיתוח של NVIDIA RTX Spark ו-DGX Station for Windows, NVIDIA GPU-accelerated Microsoft Fabric, NVIDIA open models on Microsoft Foundry ו-NVIDIA OpenShell.",
+    "details_he": "NVIDIA ו-Microsoft הציגו פרטנריות חדשה לפיתוח והפעלה של AI אגנטי, המשלבת עבודה על Windows, Azure ו-Local. הפרטנריות כוללת פיתוח של NVIDIA RTX Spark ו-DGX Station for Windows, NVIDIA GPU-accelerated Microsoft Fabric, NVIDIA open models on Microsoft Foundry ו-NVIDIA OpenShell. NVIDIA RTX Spark הוא גיבוי חדש למחשבים Windows, המסוגל לבצע 1 petaflop של ביצועי AI, עד 128GB של זיכרון יחודי וחיים על-יום של סוללה. DGX Station for Windows הוא גיבוי חזק ביותר למחשבי AI, המסוגל לבצע חישובים על-יום לבניית והפעלה של אגנטים על Windows. NVIDIA OpenShell הוא רצועת זמן נושא-מעצב, המספק רציפות ובטיחות לאגנטים."
+  },
+  {
+    "id": "fa976aea5c246141",
+    "title_original": "Holo3.1: Fast & Local Computer Use Agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-02T14:13:23+00:00",
+    "fetched_at": "2026-06-03T09:00:02.640419+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Hcompany/holo31"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Holo3.1: Fast & Local Computer Use Agents",
+    "summary_he": "Holo3.1, הגרסה החדשה של מודל השימוש במחשב, כוללת שיפורים באמינות וביצועים, כולל תמיכה באג'נטים שונים ובסביבות גרפיות שונות.",
+    "details_he": "Holo3.1, הגרסה החדשה של מודל השימוש במחשב, נועדה לשפר את האמינות והביצועים שלו, ולתמוך בסביבות גרפיות שונות ובאג'נטים שונים. הגרסה החדשה כוללת תמיכה באג'נטים שונים, כולל פקודות קריאה והפעלה טבעית, ושיפורים בביצועים בסביבות גרפיות שונות, כולל סביבות גרפיות על פלטפורמות אנדרואיד. Holo3.1 נועדה להיות צעד חשוב בדרך למודלי שימוש במחשב שיכולים לפעול בסביבות שונות, להתבסס בכל סביבה ולהיות יכולים לרוץ בכל מקום שבו הזרימת העבודה חייבת."
+  },
+  {
+    "id": "eb9f1eea85d2e578",
+    "title_original": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "url": "https://openai.com/index/travelers",
+    "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-02T12:00:00+00:00",
+    "fetched_at": "2026-06-03T09:00:00.043809+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/travelers"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "summary_he": "Travelers הציבה עוזר תביעה עם AI כלל-ארצי, תוך שימוש ב-OpenAI, כדי לסייע ללקוחות להגיש תביעות תוך זמן קצר. העוזר, שנבנה על ידי Travelers, יכול לענות על שאלות, לאסוף פרטים ולהגיש תביעות. כ-90% מהלקוחות כבר סיימו להגיש תביעות דרך העוזר.",
+    "details_he": "Travelers הציבה עוזר תביעה עם AI כלל-ארצי, תוך שימוש ב-OpenAI, כדי לסייע ללקוחות להגיש תביעות תוך זמן קצר. העוזר, שנבנה על ידי Travelers, יכול לענות על שאלות, לאסוף פרטים ולהגיש תביעות. כ-90% מהלקוחות כבר סיימו להגיש תביעות דרך העוזר. זה נעשה על ידי חיבור OpenAI למערכות התביעות של Travelers, למערכות האורקסטרציה שלהם ולכלי העבודה הפנימיים שלהם. כך, הלקוחות יכולים לקבל תמיכה 24/7, כלל-ארצית, וללא תקופות המתנה, גם במהלך אירועי קטסטרופה."
+  },
+  {
+    "id": "8b210ead77d82ac3",
+    "title_original": "Esh-Tech חושפת מערכת לייזר ליירוט רחפנים בתוך שניות",
+    "url": "https://techtime.co.il/2026/06/03/esh-tec/",
+    "description": "החברה הישראלית הצעירה חשפה את DroneLight, מערכת לייזר חדשה שלדבריה מסוגלת ליירט רחפנים בתוך 1–2 שניות ובצריכת אנרגיה נמוכה, ומיועדת להגנה על כוחות מתמרנים מפני איומי רחפנים ונחילים.",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-06-03T08:44:32+00:00",
+    "fetched_at": "2026-06-03T09:02:29.987881+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/06/03/esh-tec/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Esh-Tech חושפת מערכת לייזר ליירוט רחפנים בתוך שניות",
+    "summary_he": "חברת Esh-Tech Systems הישראלית חשפה את DroneLight, מערכת לייזר חדשה ליירוט רחפנים, שמסוגלת לנטרל מטרה בתוך 1–2 שניות בלבד ובצריכת אנרגיה נמוכה. המערכת פותחה עבור כוחות מתמרנים ונייחים המתמודדים עם איומי רחפנים ורחפני נפץ.",
+    "details_he": "DroneLight מבוססת על ארכיטקטורת לייזר ייחודית המשתמשת בפולסים קצרים ועוצמתיים, ומאפשרת לדבריה פגיעה מהירה במטרה. המערכת צורכת פחות מ-4 קילו-ואט, לעומת עשרות קילו-ואט הנדרשים במערכות לייזר רבות אחרות. Esh-Tech טוענים כי המערכת מסוגלת לבצע עד 30 יירוטים בדקה, ומופעלת בידי מפעיל יחיד. החברה נמצאת כיום בתהליכי בחינה במספר מדינות בעולם."
+  },
+  {
+    "id": "d8d5a2de628d668d",
+    "title_original": "The AI Defense Plane: Securing the New Enterprise Execution Layer",
+    "url": "https://blog.checkpoint.com/ai-security/the-ai-defense-plane-securing-the-new-enterprise-execution-layer/",
+    "description": "Enterprise security has always had a comforting assumption baked into it: systems do what they were built to do. Sometimes badly. Sometimes insecurely. Sometimes in ways that make auditors develop a nervous twitch. But still, the basic shape was understandable. Applications processed requests. Databases stored data. APIs connected systems. Users clicked things they probably should not have clicked. Then AI arrived and made the whole thing a little weird. AI did not introduce one neat new risk category. Security teams are very good at turning new risk categories into taxonomies, dashboards, and meetings with names like “working group.” The real […]The postThe AI Defense Plane: Securing the New Enterprise Execution Layerappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-06-03T08:02:59+00:00",
+    "fetched_at": "2026-06-03T09:00:22.684843+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/the-ai-defense-plane-securing-the-new-enterprise-execution-layer/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The AI Defense Plane: Securing the New Enterprise Execution Layer",
+    "summary_he": "AI has transformed the enterprise security landscape by blurring the lines between traditional risk categories. As AI becomes a new execution layer, it introduces a new level of complexity, making it challenging for security teams to keep up.",
+    "details_he": "The integration of AI across various enterprise systems has created a new security challenge. AI tools are being used by employees to make decisions and interact with systems, while developers are embedding models into applications, making it difficult to control and secure. The lack of a coherent control model is a major concern, as AI risk can move between different layers, including employees, applications, models, data, tools, APIs, and agents. This has led to a gap in AI security, with only 26% of organizations having the necessary architecture to enforce their AI security strategy."
+  },
+  {
+    "id": "f3fc47a50152d77b",
+    "title_original": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
+    "description": "A large-scale npm supply chain attack compromised over 90 versions of @redhat-cloud-services packages, silently infecting CI/CD environments and developer systems. The malicious code steals credentials from GitHub, cloud platforms, and local machines, then spreads like a worm by republishing trusted packages. Discover how the attack works, what data is at risk, and the steps you can take to protect your organization.The postPreinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaignappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-03T04:45:06+00:00",
+    "fetched_at": "2026-06-03T09:00:08.202865+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
+    "summary_he": "תקיפה גדולה באמצעות npm השתלטה על יותר מ-90 גרסאות של כלי @redhat-cloud-services, והפציצה את הסביבות CI/CD ומערכות המפתחים באופן סמוי. הקוד המלווה את התקיפה גונב זהויות מ-GitHub, מפלטפורמות הענן וממערכות המקומיות.",
+    "details_he": "התקיפה, שנקראת Miasma, נעשתה על ידי תקיפה באמצעות npm, שהיא רשת של כלי לניהול תוכנה. התקיפה השתלטה על יותר מ-90 גרסאות של כלי @redhat-cloud-services, שהם כלי שנועדו לעזור לפיתוח ולהפצת תוכנה. התקיפה גונבת זהויות מ-GitHub, מפלטפורמות הענן וממערכות המקומיות, ואז מפציצה את הסביבות CI/CD ומערכות המפתחים באופן סמוי. התקיפה גם משתמשת בכלי ניהול תוכנה כדי להפציץ את הסביבות CI/CD ומערכות המפתחים."
+  },
+  {
+    "id": "2f79d2772be61ca4",
+    "title_original": "SentinelOne + Claude: Integrations for AI Visibility, Governance, and Defense",
+    "url": "https://www.sentinelone.com/blog/sentinelone-and-claude-integrations-for-ai-visibility-governance-and-defense/",
+    "description": "Learn how SentinelOne empowers modern enterprises to safely adopt Claude with Prompt Security, AI SIEM, and Wayfinder Frontier AI.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "ai",
+    "published": "2026-06-02T19:59:49+00:00",
+    "fetched_at": "2026-06-03T09:00:12.053526+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/sentinelone-and-claude-integrations-for-ai-visibility-governance-and-defense/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SentinelOne + Claude: Integrations for AI Visibility, Governance, and Defense",
+    "summary_he": "SentinelOne's integration with Claude aims to provide comprehensive security for AI adoption, addressing risks associated with sensitive data exposure and new attack vectors.",
+    "details_he": "The integration brings AI usage directly into security platforms, enabling security teams to apply policies to user prompts, ingest Claude activity into the Singularity AI SIEM for investigation, and utilize frontier AI-powered services to identify real-world risks. This includes the use of SentinelOne's Anthropic Compliance API integrations, Prompt Security, and Singularity AI SIEM offerings. The partnership also extends to Wayfinder Frontier AI Services, a managed offering that pairs human security experts with frontier models to provide AI-ready defense."
+  },
+  {
+    "id": "606f612c965004e2",
+    "title_original": "The Meta AI Account Recovery Incident Wasn’t Just a Chatbot Problem",
+    "url": "https://blog.checkpoint.com/ai-security/the-meta-ai-account-recovery-incident-wasnt-just-a-chatbot-problem/",
+    "description": "When people hear about hackers “asking an AI chatbot” to help them take over Instagram accounts, the instinctive reaction is to file it under prompt injection, jailbreaks, or “the model got tricked.”  That may be the wrong lesson.  According to reporting from 404 Media, hackers claimed they used Meta’s AI support chatbot to gain access to high-profile Instagram accounts by asking it to change the email address associated with the target account. The reported incidents coincided with several high-profile account takeovers, including accounts linked to the Obama White House, Sephora, and the Chief Master Sergeant of the Space Force.    […]The postThe Meta AI Account Recovery Incident Wasn’t Just a Chatbot Problemappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-02T19:57:08+00:00",
+    "fetched_at": "2026-06-03T09:00:22.684843+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/the-meta-ai-account-recovery-incident-wasnt-just-a-chatbot-problem/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Meta AI Account Recovery Incident Wasn’t Just a Chatbot Problem",
+    "summary_he": "במקרה של הפריצה לחשבונות Instagram, הקושי האמיתי הוא לא בעצמו ה-Chatbot, אלא באופן שבו הוא נכנס לזירה. ה-Chatbot הותקן בתהליך של תיקון חשבון, שהוא זירה רגישה, ולא עבר תפקוד עצמאי. זה יצר סיכון, כי כש-AI נכנס לתהליך זה, הוא נהפך לחלק מהגבול הביטחוני.",
+    "details_he": "במקרה של הפריצה לחשבונות Instagram, הקושי האמיתי הוא לא בעצמו ה-Chatbot, אלא באופן שבו הוא נכנס לזירה. ה-Chatbot הותקן בתהליך של תיקון חשבון, שהוא זירה רגישה, ולא עבר תפקוד עצמאי. זה יצר סיכון, כי כש-AI נכנס לתהליך זה, הוא נהפך לחלק מהגבול הביטחוני. הסיכון הוא לא בעצמו ה-Chatbot, אלא באופן שבו הוא נכנס לזירה. ה-Chatbot הותקן בתהליך של תיקון חשבון, שהוא זירה רגישה, ולא עבר תפקוד עצמאי. זה יצר סיכון, כי כש-AI נכנס לתהליך זה, הוא נהפך לחלק מהגבול הביטחוני."
+  },
+  {
+    "id": "77b5ad5d5c37024d",
+    "title_original": "The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2)",
+    "url": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
+    "description": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more.The postThe npm Threat Landscape: Attack Surface and Mitigations (Updated June 2)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-02T17:30:33+00:00",
+    "fetched_at": "2026-06-03T09:00:10.413294+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2)",
+    "summary_he": "בשנה שעברה, הסביבה הביטחונית של npm הגיעה לנקודת התמוטטות. זה היה נקודת המפנה שבה הסביבה הפכה מ'מטרד' לאיום רציני. מאז, Unit 42 תיעדה צמיחה נמרצת בתדירות ובעומק הפגיעה בספליין הספליין.",
+    "details_he": "בשנה שעברה, Unit 42 תיעדה צמיחה נמרצת בתדירות ובעומק הפגיעה בספליין הספליין. המתקפות התפתחו מסדרת התקפות ייעודיות של טיפוס-ספליין לקמפיינים מאורגנים של גורמי סכנה שונים להנצלת אמון המוביל לפגיעה בספליין. באפריל 2026, Unit 42 תיעדה שני קמפיינים: הראשון החל ב-22 באפריל 2026 וכלל את השם Shai-Hulud: The Third Coming. השני החל ב-29 באפריל 2026 וכונה Mini Shai-Hulud. במאי 2026, הקמפיין Mini Shai-Hulud המשיך עם שתי גליות חדשות שיוחסו לקבוצת TeamPCP. הקמפיינים האלה הובילו לשתי תכונות ייחודיות: אחד הקמפיינים השתמש בטכניקת גישה ללא תיקי זהויות. השני הפיץ את הגל הגדול ביותר של כל זקן Shai-Hulud עד כה. פעילות התאבדה הפכה את האטריבוציה של TeamPCP לקבוצה קשה יותר לזיהוי."
+  }
+]
