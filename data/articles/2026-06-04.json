@@ -1,0 +1,212 @@
+[
+  {
+    "id": "698f5f81e24e9e89",
+    "title_original": "Ground truth is a process, not a dataset",
+    "url": "https://www.amazon.science/blog/ground-truth-is-a-process-not-a-dataset",
+    "description": "Automatically fact-checking long, AI-generated research reports poses new challenges — including benchmarking.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-06-03T15:56:57+00:00",
+    "fetched_at": "2026-06-04T08:24:09.157691+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/ground-truth-is-a-process-not-a-dataset"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Ground truth is a process, not a dataset",
+    "summary_he": "בעוד האלגוריתמים המלמדים נוטים להפוך יותר מתקדמים, הצורך בבדיקה ובאימות של התוצאות שלהם גובר. כיום, האתגר העיקרי בתחום ה-AI אינו רק בבניית אלגוריתמים טובים יותר, אלא גם בבניית מערכות הערכה שיכולות להישאר רלוונטיות.",
+    "details_he": "בעבר, נתפסה אמיתות הקרקע (ground truth) כדטה-סט קבוע. אולם, כאשר ניסו לבדוק את האלגוריתמים המלמדים, התברר כי אמיתות הקרקע חייבת להיות תהליך. התהליך החדש, הנקרא audit-then-score, כולל שלושה שלבים: 1) ניתוח, 2) תיקון, ו-3) ציון. התהליך החדש נועד לשפר את דיוק הבדיקה ולהפחית את הטעויות. בעקבות השינוי, דיוק הבדיקה עלה מ-60.8% ל-90.9%. התהליך החדש גם נועד לשפר את השיתוף הפעולה בין האלגוריתמים, האנשים והנתונים."
+  },
+  {
+    "id": "0e9b4dae3139e0bd",
+    "title_original": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+    "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+    "description": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before.  What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-03T15:00:57+00:00",
+    "fetched_at": "2026-06-04T08:24:08.869099+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+    "summary_he": "NVIDIA Research הציגה שלוש עבודות מחקר בכנס CVPR שמטרתן לפתור את האתגרים של עבודה פיזית, נהיגה אוטונומית ואימון סוכנים. העבודות עוסקות באימון בקנה מידה גדול, שמאפשר למערכות לכלול יותר תכונות.",
+    "details_he": "NVIDIA Research הציגה שלוש עבודות מחקר בכנס CVPR. העבודות עוסקות באימון בקנה מידה גדול, שמאפשר למערכות לכלול יותר תכונות. GraspGen-X, LCDrive ו-NitroGen הם שלושת העבודות, שמטרתן לפתור את האתגרים של עבודה פיזית, נהיגה אוטונומית ואימון סוכנים. GraspGen-X הוא העבודה הראשונה, שמטרתה לבנות דגם יסודי לאימון תפיסה. LCDrive הוא העבודה השנייה, שמטרתה לבנות דגם, שמאפשר למערכות לחשב מהר יותר. NitroGen הוא העבודה השלישית, שמטרתה לבנות דגם, שמאפשר לסוכנים לאמן בסביבות וירטואליות."
+  },
+  {
+    "id": "73021154e27f9b9a",
+    "title_original": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+    "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+    "description": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-03T15:00:35+00:00",
+    "fetched_at": "2026-06-04T08:24:08.869099+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+    "summary_he": "NVIDIA החלה בפיתוח של טכנולוגיות חדשות למחקר פיזי של AI, שיאפשרו למדענים ומפתחים לפתח רכבים עצמאיים, רובוטים ומערכות AI לתצוגה.",
+    "details_he": "NVIDIA הציגה כלים חדשים למחקר פיזי של AI, שיאפשרו למדענים ומפתחים לפתח רכבים עצמאיים, רובוטים ומערכות AI לתצוגה. הכלים, שנקראים Agent Skills, יאפשרו למדענים לבנות זרימה מלאה של פעולות, כולל תיאור של סצינות מציאותיות, יצירת תחומי גבול, אימון מדלים, בירור התנהגות ואיטרציה מהירה. הכלים יפעלו בשילוב עם NVIDIA Cosmos 3, דגם פתוח למחקר פיזי של AI, ויאפשרו למדענים לפתח רכבים עצמאיים, רובוטים ומערכות AI לתצוגה."
+  },
+  {
+    "id": "49f9ec43db36a6b6",
+    "title_original": "Introducing new capabilities to GPT-Rosalind",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-03T13:15:00+00:00",
+    "fetched_at": "2026-06-04T08:24:06.404884+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing new capabilities to GPT-Rosalind",
+    "summary_he": "GPT-Rosalind, a life sciences research tool, has been updated with new capabilities that combine agentic coding and tool-use with stronger model intelligence in core drug-discovery domains. This update aims to improve performance on scientifically-valuable tasks, such as extracting and reconciling scientific evidence from papers and experimental records.",
+    "details_he": "The updated GPT-Rosalind model is designed to bring greater intelligence grounded in real scientific workflows for the life sciences industry. It combines the capabilities of GPT-5.5 with stronger model intelligence in medicinal chemistry and genomics, while advancing performance across broader life sciences analysis, design, and experimental workflows. The model has shown broad performance gains on research tasks from biology experts, complex medicinal chemistry queries, quantitative biology, and wet lab troubleshooting. GPT-Rosalind is now available in research preview to eligible organizations globally through a trusted-access deployment structure."
+  },
+  {
+    "id": "d8be2daafd389cf2",
+    "title_original": "5 ways Google Search can level up your thrift and vintage shopping",
+    "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+    "description": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-06-03T13:00:00+00:00",
+    "fetched_at": "2026-06-04T08:24:07.500752+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "5 ways Google Search can level up your thrift and vintage shopping",
+    "summary_he": "Google Search מאפשרת למשתמשים למצוא חיפושים טובים יותר באמצעות כלי AI, כולל תכנון מסע החיפוש, חיפוש נסתר, ואפשרויות קנייה.",
+    "details_he": "Google Search משתמשים בכלי AI כדי למצוא חיפושים טובים יותר באמצעות AI Mode, Google Lens, Circle to Search, Virtual Try-On, ו-Lens. AI Mode מאפשרת למשתמשים לשאול שאלות ספציפיות ומעניקה תוצאות עם פרטים חשובים. Google Lens מאפשרת למשתמשים לחפש נסתרים ולבקש מידע על פריטים. Circle to Search מאפשרת למשתמשים לחפש פריטים דומים ולבקש מידע נוסף. Virtual Try-On מאפשרת למשתמשים לנסות פריטים דיגיטלית. Lens מאפשרת למשתמשים לחפש פריטים דומים ולבקש מידע נוסף."
+  },
+  {
+    "id": "35668fa31b13bab8",
+    "title_original": "How Identity Becomes the Attack Path: 11 Real-Life Stories",
+    "url": "https://xmcyber.com/ebook-whitepaper/how-identity-becomes-the-attack-path-11-real-life-stories/",
+    "description": "See real-life attack path scenarios that exploited identity-related exposures Identities touch every layer of a hybrid environment – Active Directory, cloud, service accounts, machine...The postHow Identity Becomes the Attack Path: 11 Real-Life Storiesappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-06-03T10:31:25+00:00",
+    "fetched_at": "2026-06-04T08:24:27.697270+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/ebook-whitepaper/how-identity-becomes-the-attack-path-11-real-life-stories/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Identity Becomes the Attack Path: 11 Real-Life Stories",
+    "summary_he": "Attackers are exploiting identity-related exposures to break into organizations' systems, move laterally, and compromise critical assets. These exposures often go undetected by traditional exposure management platforms. Real-life attack path scenarios highlight the importance of examining permissions, credentials, and access controls.",
+    "details_he": "11 real-life attack path scenarios have been discovered by field experts inside real organizations' live environments. These scenarios demonstrate how attackers exploit identity-related exposures to gain unauthorized access to sensitive systems and data. The scenarios include the 'AI Agent Highway', where a developer workflow configuration granted an AI assistant admin rights, and the 'Single-Key Takeover', where one cached AWS access key exposed 48 out of 49 cloud assets to a near-total environment compromise."
+  },
+  {
+    "id": "b8da3c141ad1c91c",
+    "title_original": "Argamal: Malware hidden in hentai games",
+    "url": "https://securelist.com/argamal-rat-distributed-with-hentai-games/119999/",
+    "description": "Kaspersky researchers analyze new Argamal RAT distributed via infected hentai games and allowing the attacker to control the target machine.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-06-03T09:00:22+00:00",
+    "fetched_at": "2026-06-04T08:24:17.111239+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/argamal-rat-distributed-with-hentai-games/119999/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Argamal: Malware hidden in hentai games",
+    "summary_he": "חברת הביטחון הסייבר Kaspersky גילתה קמפיין חדש של תוכנה מזיקה שמטרתו לפגוע בשחקנים של משחקי 'הנטאי'. התוכנה, שכונתה 'Argamal', מתחילה להתקין תוכנה מזיקה חדשה על המחשב, שמורידה ומבצעת טרויאן, ובכך מאפשרת לפורצי הביטחון שליטה רחבה במחשב.",
+    "details_he": "התוכנה 'Argamal' משתמשת בטכניקת COM hijacking כדי לשמור את עצמה על המחשב, על ידי החלפת הקלטת ה-DLL של Windows Color System Calibration Loader. התוכנה נגלתה לראשונה באפריל 2026, אך נראה שה-DLLs המזוייפים היו בשימוש מאז 2024. ה-DLLs היו קיימים במשחקים שונים, כולל RenPy ו-RPG Maker MV, והם כולם היו משחקי 'הנטאי'."
+  },
+  {
+    "id": "170a927fc7edf1df",
+    "title_original": "CISA directive for AI executive order to be released this week, Andersen says",
+    "url": "https://therecord.media/cisa-directive-for-ai-exec-order-release",
+    "description": "The binding operational directive will focus in part on “vulnerability alleviation and vulnerability management,” Andersen said in remarks delivered at the TechNet Cyber conference in Baltimore.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "ai",
+    "published": "2026-06-04T15:05:00+00:00",
+    "fetched_at": "2026-06-04T08:24:13.909701+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/cisa-directive-for-ai-exec-order-release"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA directive for AI executive order to be released this week, Andersen says",
+    "summary_he": "CISA Acting Director Nick Andersen announced plans to release a directive to federal agencies detailing actions required to carry out the president's artificial intelligence executive order by the end of the week. The directive will focus on vulnerability alleviation and management, and CISA will also roll out specific artificial intelligence access to partners. The executive order asks companies to submit models to the government for testing before public release.",
+    "details_he": "The directive is a key step in implementing the president's executive order, which was released on Tuesday. The order is a scaled-back version of an earlier iteration, and it asks companies to voluntarily submit models to the government for testing 30 days before they are released publicly. CISA will play a key role in helping to stand up the 'cyber clearinghouse' envisioned by the executive order, and it will also be accessing models to vet. Andersen emphasized the need for the government to address the increasing threat environment and to improve its IT infrastructure, which is vulnerable to cyber attacks."
+  },
+  {
+    "id": "b5b3363247f70438",
+    "title_original": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+    "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-04T12:49:33+05:30",
+    "fetched_at": "2026-06-04T08:24:12.171457+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+    "summary_he": "CISA has added a critical flaw in Mirasvit Cache Warmer, a Magento extension, to its Known Exploited Vulnerabilities catalog. The vulnerability, CVE-2026-45247, allows unauthenticated attackers to execute arbitrary PHP code. Patches for the issue were released on May 25, 2026.",
+    "details_he": "The vulnerability, a deserialization of untrusted data issue, impacts all versions of Mirasvit Cache Warmer prior to version 1.11.12. Sansec, a Dutch security company, identified about 6,000 stores running Mirasvit extensions, although the exact number is likely higher due to content delivery networks masking installs. Thales-owned Imperva has observed active attack activity attempting to exploit CVE-2026-45247 through serialized PHP object payloads delivered via malicious HTTP requests. The activity has primarily targeted gaming and business sites in the U.S., the U.K., France, and Australia."
+  },
+  {
+    "id": "a59fd7da225082f5",
+    "title_original": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
+    "url": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
+    "description": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans.\n\nThe \"Disruption Week\" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-04T11:36:25+05:30",
+    "fetched_at": "2026-06-04T08:24:12.171457+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
+    "summary_he": "ה-DוJ הכריזה על הפסקת רשתות שוד קריפטוגרפי בדרום-מזרח אסיה, והקפאת 3.8 מיליון דולר במזומנים. הפעולה, שנקראת 'Disruption Week', החלה ב-18 במאי 2026 וכללה השתתפות של חברות פרטיות ורשויות ממשלתיות.",
+    "details_he": "ה-DoJ טען כי רשתות השוד הקריפטוגרפיות הפכו לאחד הסוגים הגדולים והמסוכנים ביותר של שוד, וכי האבדות שנגרמו מהם עלו מ-3.96 מיליארד דולר ב-2023 ל-5.8 מיליארד. הפעולה, שהייתה 'אירוע ראשון מסוגו', כללה פעולות שונות, כולל הפסקת פעילות של יותר מ-1.4 מיליון חשבונות, דפים וקבוצות בפייסבוק ואינסטגרם, והפסקת פעילות של 20,000 חשבונות Microsoft."
+  }
+]
