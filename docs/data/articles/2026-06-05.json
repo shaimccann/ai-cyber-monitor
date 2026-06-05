@@ -1,0 +1,212 @@
+[
+  {
+    "id": "69aa65ac5ab85cd4",
+    "title_original": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+    "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+    "description": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-05T05:38:37+00:00",
+    "fetched_at": "2026-06-05T08:12:20.043529+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+    "summary_he": "NVIDIA's CEO Jensen Huang is in Seoul, South Korea, to meet with partners and builders behind the country's cutting-edge AI infrastructure and robotics innovations. The visit aims to align the AI supply chain ahead of a busy second half of the year. Robotics is seen as a major sector with huge potential in Korea.",
+    "details_he": "Huang touched down in Seoul on Friday afternoon, greeted by fans and media, and mentioned that the first half of the year was successful in terms of AI infrastructure buildout. He also highlighted the success of NVIDIA's systems, Grace Blackwell and Vera Rubin, which are in full production. Huang emphasized the importance of investing in AI, particularly in robotics, which he believes will be the next major sector in Korea."
+  },
+  {
+    "id": "f85f239aa55ead2c",
+    "title_original": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-04T18:57:45+00:00",
+    "fetched_at": "2026-06-05T08:12:19.789288+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "summary_he": "NVIDIA השיקה Nemotron 3.5 Content Safety, שהיא גרסה מעודכנת של יכולות הבטיחות של Nemotron 3.5. הגרסה החדשה מאפשרת בטיחות מודולרית, תמיכה ב-12 שפות ואפשרות להגדרת מדיניות חדשה.",
+    "details_he": "Nemotron 3.5 Content Safety היא גרסה מעודכנת של Nemotron 3, שהושקה במרץ 2026. הגרסה החדשה משלבת יכולות מודולריות, תמיכה ב-12 שפות ואפשרות להגדרת מדיניות חדשה. הגרסה החדשה תאפשר למפתחים לבצע בדיקות בטיחות יעילות יותר ולהגדיר מדיניות בטיחות חדשה לכלי המודע שלהם. הגרסה החדשה תהיה חשובה במיוחד למפתחים של כלי AI שמעוניינים לבצע בדיקות בטיחות יעילות יותר ולהגדיר מדיניות בטיחות חדשה."
+  },
+  {
+    "id": "5530d7794f49027c",
+    "title_original": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
+    "description": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streaming from the cloud, no downloads […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-04T13:00:27+00:00",
+    "fetched_at": "2026-06-05T08:12:20.043529+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+    "summary_he": "GeForce NOW is gearing up for a busy month with 18 new games joining its streaming platform in June, offering a diverse range of experiences from big-name blockbusters to quirky indies.",
+    "details_he": "The lineup includes titles such as Neverness to Everness, a surreal open-world game where players explore a supernatural metropolis, and Gothic 1 Remake, a faithful rebuild of the original experience with expanded world details and a modernized combat system. GeForce NOW's cloud-based streaming allows players to access these games instantly across various devices without the need for downloads or upgrades. The platform's diverse library will continue to grow throughout the month with the addition of more titles, including STARSEEKER: Astroneer."
+  },
+  {
+    "id": "950df98948b8caf4",
+    "title_original": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-04T12:24:58+00:00",
+    "fetched_at": "2026-06-05T08:12:19.789288+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "summary_he": "EVA-Bench Data 2.0 מציגה תצהירים חדשים של 213 תצהירים, 121 כלי עבודה, ו-3 תחומים: שירות לקוחות טיסות, ניהול שירותי טכנולוגיה, ותפעול HR בבריאות. התצהירים נבדקו נגד דגמי חזית והופצו לציבור.",
+    "details_he": "EVA-Bench Data 2.0 היא גרסה מעודכנת של EVA-Bench, שמציגה 213 תצהירים, 121 כלי עבודה, ו-3 תחומים: שירות לקוחות טיסות, ניהול שירותי טכנולוגיה, ותפעול HR בבריאות. התצהירים נבדקו נגד דגמי חזית, כולל OpenAI GPT-5.4, Google Gemini 3.1 Pro, ו-Anthropic Claude Opus 4.6, כדי לוודא שהם קשים ושוויוניים. התצהירים זמינים להורדה ומיועדים לאודיו-אג'נטים, וכן למי שבונה את האודיו-אג'נט. ה-EVA-Bench Data 2.0 גם כוללת תצהירים חדשים של 35+ זרמי עבודה שונים, ומציעה תצהירים ריאליסטיים של שירות לקוחות טיסות, ניהול שירותי טכנולוגיה, ותפעול HR בבריאות."
+  },
+  {
+    "id": "0588b7d15da1d287",
+    "title_original": "How Endava is redesigning software delivery around AI agents",
+    "url": "https://openai.com/index/endava-frontiers",
+    "description": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-04T12:00:00+00:00",
+    "fetched_at": "2026-06-05T08:12:17.329120+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/endava-frontiers"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Endava is redesigning software delivery around AI agents",
+    "summary_he": "Endava, חברה עולמית לשירותי טכנולוגיה, משנה את דרך סיפוק התוכנה סביב סוכני AI, כדי להאיץ את השינוי ולשנות את זרמי העבודה בארגונים.",
+    "details_he": "Endava, חברה עולמית לשירותי טכנולוגיה, עושה שינוי גדול בדרך סיפוק התוכנה, על ידי חברת OpenAI, ומשנה את זרמי העבודה בארגון. החברה פיתחה שיטת סיפוק תוכנה, DavaFlow, שמשתמשת בטכנולוגיית OpenAI, ומאפשרת לצוותים לעבוד באופן יעיל יותר. השיטה כוללת חברת OpenAI, ומאפשרת לצוותים לעבוד באופן יעיל יותר, ולייצר תוצרים טובים יותר."
+  },
+  {
+    "id": "0a7e68449ea969b2",
+    "title_original": "Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/",
+    "description": "A surge in real-world attacks against agentic AI systems is reshaping how we think about risk. Based on 12 months of red teaming, this update introduces seven new failure modes, from supply chain compromise to goal hijacking, and the practical mitigations teams need now.The postUpdating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught usappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-06-04T19:14:42+00:00",
+    "fetched_at": "2026-06-05T08:12:25.689502+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us",
+    "summary_he": "בשנה של פעילות 'אדום' (red teaming) נגד מערכות AI חכמות, נצפה עלייה במספר התקיפות באופן ריאל-טיים. עדכון זה מציג שבעה תסמינים חדשים של כשל, כולל פגיעה באספקה והפעלת מטרה, ואת המומחויות העקרוניות שצוותים צריכים לקבל כעת.",
+    "details_he": "בשנה של פעילות 'אדום' (red teaming) נגד מערכות AI חכמות, נצפה עלייה במספר התקיפות באופן ריאל-טיים. עדכון זה מציג שבעה תסמינים חדשים של כשל, כולל פגיעה באספקה והפעלת מטרה. צוותי הביטחון צריכים להתאים את עצמם לאתגרים החדשים, ולקבל את המומחויות העקרוניות שצריכים להיות זמינים כעת."
+  },
+  {
+    "id": "39844f5a45d964db",
+    "title_original": "AI Threat Readiness Pillar 1: Reduce Critical Exposures & Scan with AI",
+    "url": "https://www.wiz.io/blog/ai-threat-readiness-pillar-1",
+    "description": "Diving into the first pillar of the AI Threat Readiness Framework and how Wiz helps",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-06-04T14:19:33+00:00",
+    "fetched_at": "2026-06-05T08:12:29.808008+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/ai-threat-readiness-pillar-1"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Threat Readiness Pillar 1: Reduce Critical Exposures & Scan with AI",
+    "summary_he": "בעידן של AI, חולשות בבטיחות התקינה נהיו קריטיות יותר, וצוותי בטיחות צריכים להתמקד באיתור חולשות שאכן חשוב לתקן.",
+    "details_he": "ארגונים נאלצים להתמודד עם כמות גדולה של חולשות, וצוותי בטיחות צריכים להתמקד באיתור חולשות שאכן חשוב לתקן. כדי לעשות זאת, הם צריכים להפעיל סריקה עם AI, כדי לגלות חולשות מורכבות שאין להן סימנים. חולשות אלה כוללות API, מנגנוני אימות, ועוד. הסריקה הזו תאפשר לצוותי הבטיחות להתמקד בחולשות שאכן חשוב לתקן, ולצמצם את החשיפה האפשרית."
+  },
+  {
+    "id": "4445b4d1060d2833",
+    "title_original": "Fraud, Ransomware, and Fake Apps Are Already Targeting FIFA 2026",
+    "url": "https://blog.checkpoint.com/exposure-management/fraud-ransomware-and-fake-apps-are-already-targeting-fifa-2026/",
+    "description": "The FIFA World Cup 2026 kicks off on June 11. Across 16 cities in the US, Canada, and Mexico, billions of people will be watching, traveling, betting, and spending. Threat actors have been watching too, and for far longer. Check Point Research and Check Point Exposure Management spent the past year tracking the cyber threat landscape building around this tournament. What emerged is a coordinated pre-positioning effort across three sectors that sit at the center of the World Cup economy: finance, travel and hospitality, and gambling. The infrastructure is already built, with most of them already live. Financial Sector: Fraud […]The postFraud, Ransomware, and Fake Apps Are Already Targeting FIFA 2026appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-04T13:00:41+00:00",
+    "fetched_at": "2026-06-05T08:12:37.234773+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/fraud-ransomware-and-fake-apps-are-already-targeting-fifa-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Fraud, Ransomware, and Fake Apps Are Already Targeting FIFA 2026",
+    "summary_he": "בעת שהעולם צופה במשחקי גביע העולם בכדורגל 2026, גם התוקפים הסייבריים נמצאים בעורף, ומפעילים תוכניות פשע ואיומי ראנסומאר, כדי להסיח את דעתם של הצופים.",
+    "details_he": "במהלך שנה שלאחריה, חברת Check Point Research ו-Check Point Exposure Management עקבו אחר האיומים הסייבריים שהתעוררו סביב טורניר גביע העולם. נראה שתוקפים קואורדינטים פעילותם סביב שלושה תחומים: תעשיית הפיננסים, התעשייה התחבורתית והמלונאות, וההגמוניה. תוכניות האיום כבר נבנו וכבר פועלות. הפיננסים נגועים בזיופי פרסומים, ראנסומאר, ואפליקציות זיופיות. התעשייה התחבורתית והמלונאות נגועים בפגיעה באתרי האינטרנט ובראנסומאר."
+  },
+  {
+    "id": "577df4b33f6fce11",
+    "title_original": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+    "url": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
+    "description": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff.\n\nRecent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts.\n\nIt is an obvious target. More than",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-05T12:31:41+05:30",
+    "fetched_at": "2026-06-05T08:12:23.675447+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+    "summary_he": "Security experts are warning that scammers are targeting FIFA World Cup 2026 fans with fake websites, banking malware, and stolen login credentials, taking advantage of the high demand for tickets.",
+    "details_he": "The scammers are using various tactics to deceive fans, including creating fake FIFA domains, phishing kits, and social media accounts. One group, called GHOST STADIUM, has been identified as the operator behind over 300 cloned FIFA sites, which mimic the official FIFA website and login page. The fake sites are designed to steal login credentials and resell tickets tied to the victims' accounts. The losses from premium and hospitality ticket fraud alone are estimated to be between $71 million and $474 million, and the total losses could add up to billions. The FBI and other security researchers are warning fans to be cautious and to only purchase tickets from official sources."
+  },
+  {
+    "id": "049795a361db2427",
+    "title_original": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+    "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
+    "description": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network.\n\n\"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-05T11:04:19+05:30",
+    "fetched_at": "2026-06-05T08:12:23.675447+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+    "summary_he": "PCPJack, a threat actor, hijacked 230 cloud servers across AWS, Google Cloud, and Azure to create a covert email relay network. The compromised servers were used to send emails without being detected. This operation was discovered by Hunt.io, a threat intelligence company.",
+    "details_he": "PCPJack hijacked the cloud servers by exploiting vulnerabilities and using tools such as Sliver and Chisel. The threat actor created a covert SMTP relay network that allowed them to send emails without being detected. The compromised servers were located in the U.S., Europe, and Asia, and were used to send emails to a downstream consumer every five minutes. Hunt.io discovered the operation after finding source code, compiled binaries, and other tools left behind by the threat actor on a command-and-control server."
+  }
+]
