@@ -1,0 +1,212 @@
+[
+  {
+    "id": "e02d1e9760772d3b",
+    "title_original": "Real-world grounding in agentic AI",
+    "url": "https://www.amazon.science/blog/real-world-grounding-in-agentic-ai",
+    "description": "Four approaches can dramatically improve the performance and trustworthiness of AI agents in operational environments.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-06-08T19:00:00+00:00",
+    "fetched_at": "2026-06-09T07:56:43.373179+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/real-world-grounding-in-agentic-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Real-world grounding in agentic AI",
+    "summary_he": "מאמצים חדשים לשפר את יכולת ה-AI להתאים לעולם האמיתי. חוקרים פיתחו שיטות חדשות להבטיח שאג'נטים AI יכולים לבצע משימות בסביבה פיזית.",
+    "details_he": "בעולם האמיתי, AI agents חייבים להיות יותר משוטחים בשפה הטבעית. הם חייבים להיות קשורים לחוקי הפיזיקה ולגבולות הפעולה. ארבעה שיטות חדשות, כולל חינוך פיזיקלי, סבירות-מודע, פסימולציה-מתאימה, ואימות-משופר, יכולים לשפר את הביצועים ואת האמינות של AI agents בסביבה פיזית. אלה השיטות יכולות להבטיח ש-AI agents יכולים לבצע משימות בסביבה פיזית, ולהימנע מהתנהגות שגויה."
+  },
+  {
+    "id": "4287745638cae50c",
+    "title_original": "Bridging intent and execution in agentic systems",
+    "url": "https://www.amazon.science/blog/bridging-intent-and-execution-in-agentic-systems",
+    "description": "The harnesses that mediate between models and tools in agentic systems are becoming their own performance bottleneck, but a few simple design principles can fix what ails them.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-06-08T17:00:00+00:00",
+    "fetched_at": "2026-06-09T07:56:43.373179+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/bridging-intent-and-execution-in-agentic-systems"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bridging intent and execution in agentic systems",
+    "summary_he": "מחקר של אמזון חושף כי הבעיות בביצועי סוכני AI נגרמות לא רק מהדגמים, אלא גם מהמערכות שבהן הם פועלים. המחקר מציע פתרונות פשוטים לשפר את ביצועי הסוכנים.",
+    "details_he": "המחקר, שכותרתו 'Simple Strands Agent', חושף כי הבעיות בביצועי סוכני AI נגרמות מהבעיות במערכות שבהן הם פועלים, ולא רק מהדגמים. המחקר מציע פתרונות פשוטים לשפר את ביצועי הסוכנים, כולל השפעה על רכיבי הכלי, ספקי פידבק דרך קובצי diff, ואיזון בין תהליך ההסברה הפנימי לבין התקשורת החיצונית. המחקר גם חושף כי ישנם סוגי כלים שונים, ושפעולם תלוי במוחשיות המודל. המחקר נערך על ידי חוקרים באמזון, והם פרסמו את הממצאים שלהם כדי לשפר את ביצועי הסוכנים."
+  },
+  {
+    "id": "7aa00b8fccbc5aa1",
+    "title_original": "Confidential submission of draft S-1 to the SEC",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "description": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-08T14:00:00+00:00",
+    "fetched_at": "2026-06-09T07:56:40.445786+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-submits-confidential-s-1"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Confidential submission of draft S-1 to the SEC",
+    "summary_he": "OpenAI recently submitted a confidential draft S-1 to the Securities and Exchange Commission (SEC), despite expecting it to leak. The company has not yet decided on a public listing timeline, citing the need to complete certain tasks that may be easier as a private company. This announcement is a precautionary measure under Rule 135 of the Securities Act of 1933.",
+    "details_he": "The submission of the confidential draft S-1 is a significant step for OpenAI, which is considering a public listing. However, the company has not yet determined a specific timeline for its public listing, and may choose to delay it if certain tasks are more easily completed as a private company. This decision is likely influenced by the trade-offs between the benefits of being a public company and the flexibility of remaining private. The announcement is being made in accordance with Rule 135 of the Securities Act of 1933, which requires companies to disclose certain information before a public offering."
+  },
+  {
+    "id": "06cf3533c7c59d91",
+    "title_original": "מחכים להנפקת הענק של אילון מאסק: הנסיך הסעודי שהונו זינק לשיא של עשור",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001545170#utm_source=RSS",
+    "description": "לפני כעשור הנסיך הסעודי אל־ווליד בן טלאל נעצר בחשד לשחיתות, ומניית חברת ההחזקות שלו צנחה • כעת נחשפה ההשקעה שלו בחברת החלל SpaceX, ומשקיעים נהרו לחברת ההחזקות בשליטתו • והוא לא המרוויח היחיד",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-06-09T05:14:00+00:00",
+    "fetched_at": "2026-06-09T07:59:11.094664+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001545170#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מחכים להנפקת הענק של אילון מאסק: הנסיך הסעודי שהונו זינק לשיא של עשור",
+    "summary_he": "הנסיך הסעודי אל־ווליד בן טלאל, שנעצר בעבר בחשד לשחיתות, השקיע בחברת SpaceX וגרם לפריחה במניית חברת ההחזקות שלו. ההשקעה גרמה למשקיעים להתעניין בחברה, והיא צפויה להנפקה. ",
+    "details_he": "הנסיך אל־ווליד בן טלאל, שהיה נעצר בעבר בחשד לשחיתות, השקיע בחברת SpaceX, חברת החלל של אילון מאסק. ההשקעה גרמה לפריחה במניית חברת ההחזקות שלו, ומשקיעים רבים התעניינו בחברה. כעת, חברת ההחזקות שלו צפויה להנפקה, והדבר יכול להיות נקודת מפנה בקריירה שלו."
+  },
+  {
+    "id": "4ec854cb84ddc9e4",
+    "title_original": "אחרי אנתרופיק: OpenAI הגישה תשקיף חסוי לקראת הנפקה",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001545326#utm_source=RSS",
+    "description": "חברת הבינה המלאכותית של סם אלטמן הודיעה כי הגישה מסמכים ראשוניים ל-SEC לקראת הנפקה אפשרית • החברה, המוערכת בכ-850 מיליארד דולר, מצטרפת לאנתרופיק שהגישה תשקיף בשבוע שעבר • במקביל, SpaceX כבר חשפה לציבור את מסמכי ההנפקה שלה ומבקשת להנפיק לפי שווי מונומנטלי",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-06-09T04:39:00+00:00",
+    "fetched_at": "2026-06-09T07:59:11.094664+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001545326#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "אחרי אנתרופיק: OpenAI הגישה תשקיף חסוי לקראת הנפקה",
+    "summary_he": "OpenAI, חברת הבינה המלאכותית של סם אלטמן, הגישה תשקיף חסוי ל-SEC, חברה האחראית על ניירות ערך בארצות הברית, כחלק מתהליך ההנפקה האפשרי שלה. זוהי פעולה דומה לזו של אנתרופיק, שהגישה תשקיף בשבוע שעבר. OpenAI, שהיא חברה עשירה, נאמדת בכ-850 מיליארד דולר.",
+    "details_he": "OpenAI, חברת הבינה המלאכותית של סם אלטמן, הגישה תשקיף חסוי ל-SEC, חברה האחראית על ניירות ערך בארצות הברית, כחלק מתהליך ההנפקה האפשרי שלה. זוהי פעולה דומה לזו של אנתרופיק, שהגישה תשקיף בשבוע שעבר. OpenAI, שהיא חברה עשירה, נאמדת בכ-850 מיליארד דולר. SpaceX, חברת החלל של אלון מוסק, כבר חשפה לציבור את מסמכי ההנפקה שלה ומבקשת להנפיק לפי שווי מונומנטלי. זאת תוך כדי שהיא נמצאת בתהליך הנפקה חדש, לאחר שהגישה תשקיף חסוי ל-SEC. ההנפקה האפשרית של OpenAI ו-SpaceX עשויה להיות אחת ההנפקות הגדולות ביותר בתולדות העולם."
+  },
+  {
+    "id": "f337b058d092f40f",
+    "title_original": "When “Hi, This Is IT” Comes Through Microsoft Teams",
+    "url": "https://unit42.paloaltonetworks.com/microsoft-teams-phishing/",
+    "description": "Attackers are increasingly targeting collaboration platforms like Microsoft Teams. Learn the risks and key steps to strengthen your organization's security.The postWhen “Hi, This Is IT” Comes Through Microsoft Teamsappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-08T23:00:45+00:00",
+    "fetched_at": "2026-06-09T07:56:50.540966+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/microsoft-teams-phishing/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When “Hi, This Is IT” Comes Through Microsoft Teams",
+    "summary_he": "תקיפות חדשות של גורמי סייבר ניצלו את Microsoft Teams כדי לשדל עובדים להפעיל פעולות שמובילות לפגיעה. התקיפות נעשו דרך הודעות חדשות שנשלחו ב-Microsoft Teams, שנראו כמו הודעות רגילות מה-IT.",
+    "details_he": "בשנים האחרונות, גורמי סייבר רבים ניצלו את Microsoft Teams כדי לבצע תקיפות חדשות. התקיפות נעשו דרך הודעות חדשות שנשלחו ב-Microsoft Teams, שנראו כמו הודעות רגילות מה-IT. התקיפות הללו כוללות שדלנות לעובדים להפעיל פעולות שמובילות לפגיעה, כגון הפעלת אימות משני-גורם. התקיפות הללו יכולות להסתיר את זהותן של התקיפים ולהפגין כמו פעילויות חוקיות. התקיפות הללו יכולות להיות קשות לגילוי, כיוון שהן נעשות דרך תכנית קיימת ולא דרך דואר אלקטרוני."
+  },
+  {
+    "id": "1b58307f36f34de8",
+    "title_original": "AI brands as bait: How threat actors are using the AI hype in social engineering",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/",
+    "description": "As threat actors operationalize AI to accelerate attacks, they are also leveraging the wider global interest around AI itself as a social engineering lure.The postAI brands as bait: How threat actors are using the AI hype in social engineeringappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-08T16:00:00+00:00",
+    "fetched_at": "2026-06-09T07:56:48.194994+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI brands as bait: How threat actors are using the AI hype in social engineering",
+    "summary_he": "תגובות אלגוריתמיות נמחקות כעת ככלי פשיסטי: תגובות אלגוריתמיות נמחקות כעת ככלי פשיסטי",
+    "details_he": "תגובות אלגוריתמיות נמחקות כעת ככלי פשיסטי. תגובות אלגוריתמיות נמחקות כעת ככלי פשיסטי. תגובות אלגוריתמיות נמחקות כעת ככלי פשיסטי. הסוכנים המזוינים מפעילים את ה- AI כדי לסייע להם לפעול, והם גם ניצולים את העניין הגלובלי הרחב סביב ה- AI ככלי לחקירה חברתית."
+  },
+  {
+    "id": "b121e86861a3af87",
+    "title_original": "8th June – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 1st June, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES DentaQuest, a U.S. dental benefits administrator owned by Sun Life, has suffered a data breach after threat group ShinyHunters leaked exfiltrated data. Analysts assessed that 2.6 million accounts were exposed, including names, emails, […]The post8th June – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-08T14:47:59+00:00",
+    "fetched_at": "2026-06-09T07:56:52.460032+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "8th June – Threat Intelligence Report",
+    "summary_he": "Check Point מספקת הגנה נגד פגיעה ב-CVE-2026-41089, תקלה ב-Microsoft Windows Netlogon.",
+    "details_he": "Check Point IPS, Threat Emulation ו-Harmony Endpoint מספקים הגנה נגד פגיעה זו. ה-BFSI משתמשת בקוביות על אתר זה. ה-BFSI משתמשת בקוביות כדי לאפשר חוויה מהירה ונוחה יותר. על ידי המשך ביקור על האתר, אתם מסכימים לשימוש שלנו בקוביות."
+  },
+  {
+    "id": "6209229a33a6bb00",
+    "title_original": "Introducing Wiz Cloud Cost: Powering Cost Management and Optimization with Context",
+    "url": "https://www.wiz.io/blog/introducing-wiz-cloud-cost",
+    "description": "Wiz unifies cloud and AI cost visibility to help teams eliminate waste and improve spend efficiency across their AWS, Azure, and GCP environments.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-06-08T12:00:00+00:00",
+    "fetched_at": "2026-06-09T07:56:52.730431+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-cloud-cost"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Wiz Cloud Cost: Powering Cost Management and Optimization with Context",
+    "summary_he": "Wiz Cloud Cost היא פלטפורמה של Wiz שמטרתה לאפשר לצוותים לנהל, לאופטימיזר, ולממשל את עלויות הענן וה-AI. הפלטפורמה תספק תצוגה אחידה של עלויות, תזהה את הבעלים של המשאבים, ותציע הזדמנויות להצלחה",
+    "details_he": "Wiz Cloud Cost תאפשר לצוותים לראות את עלויות הענן, לזהות הזדמנויות להצלחה, ולקבל הנחיות לאופטימיזציה. הפלטפורמה תספק תצוגה אחידה של עלויות, תזהה את הבעלים של המשאבים, ותציע הזדמנויות להצלחה. Wiz Cloud Cost תפעל בדקות, ותספק נתוני עלויות ושימוש מסודרים מ-AWS, Azure, ו-GCP. הפלטפורמה תבנה תמונה מלאה של הענן, כולל כל המשאבים והיחסים ביניהם."
+  },
+  {
+    "id": "239909966fc8e65f",
+    "title_original": "Initial Reactions and Key Takeaways from the 2026 Gartner Security and Risk Summit",
+    "url": "https://xmcyber.com/blog/initial-reactions-and-key-takeaways-from-the-2026-gartner-security-and-risk-summit/",
+    "description": "Last week, the XM Cyber team had the pleasure of attending the annual Gartner Security and Risk Summit at the Gaylord Resort in National...The postInitial Reactions and Key Takeaways from the 2026 Gartner Security and Risk Summitappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "ai",
+    "published": "2026-06-08T11:50:55+00:00",
+    "fetched_at": "2026-06-09T07:57:01.840604+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/initial-reactions-and-key-takeaways-from-the-2026-gartner-security-and-risk-summit/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Initial Reactions and Key Takeaways from the 2026 Gartner Security and Risk Summit",
+    "summary_he": "The Gartner Security and Risk Summit highlighted the dual nature of Artificial Intelligence in cybersecurity, where it brings both positive and negative impacts. AI is driving significant advancements for defenders, but also empowering sophisticated attacks.",
+    "details_he": "The summit emphasized the urgent need for organizations to address the risks associated with AI-augmented attacks. Gartner warned that 90% of organizations using large language models to reduce false positives and costs will miss their objectives to lower breach rates by 2027. The White House's Executive Order on AI innovation and security underscores the growing national concern. Meanwhile, the hype surrounding Anthropic's Mythos was evident, but its actual impact on the vulnerability landscape remains to be seen."
+  }
+]
