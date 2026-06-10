@@ -1,0 +1,212 @@
+[
+  {
+    "id": "f56dcedccb81d1ef",
+    "title_original": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+    "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+    "description": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud.  Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-09T22:34:27+00:00",
+    "fetched_at": "2026-06-10T08:12:48.397072+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+    "summary_he": "NVIDIA Confidential Computing נותן תמיכה למחשוב פרטי של Apple בענן, כולל עבודות AI, כשהטכנולוגיה נותנת רמת ביטחון גבוהה לעבודות AI.",
+    "details_he": "NVIDIA Confidential Computing, טכנולוגיה של NVIDIA, נותנת תמיכה למחשוב פרטי של Apple בענן, כולל עבודות AI. הטכנולוגיה נותנת רמת ביטחון גבוהה לעבודות AI על ידי יישום שכבת ביטחון תוכנית-מתכות, המגן על נתונים עודם בעבודה. NVIDIA Collaborates with Apple and Google to support next-generation Apple Intelligence features, using NVIDIA Blackwell GPUs with Confidential Computing integrated into Private Cloud Compute’s hardware security architecture running on Google Cloud."
+  },
+  {
+    "id": "aaec59498975a15d",
+    "title_original": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-09T19:38:28+00:00",
+    "fetched_at": "2026-06-10T08:12:48.085187+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "summary_he": "חברות עסקיות נתקלות בבעיות כאשר הלקוחות שלהן מדברים בשני שפות. חברת ServiceNow-AI פיתחה במחקר שלה תקן לבדיקת מודלי הכרה של דיבור, כדי לבדוק את היכולת שלהם להתמודד עם דיבור בשני שפות.",
+    "details_he": "במחקר זה, ServiceNow-AI פיתחה תקן לבדיקת מודלי הכרה של דיבור, שנקרא 'AU-Harness'. התקן כולל נתונים של 4 זוגות שפות: ספרדית-אנגלית, צרפתית-אנגלית, צרפתית-קנדית-אנגלית וגרמנית-אנגלית. הנתונים כוללים סצנות של תמיכה ב-IT וניהול אנשי מקצוע. התקן מדד את היכולת של 7 מודלי הכרה של דיבור, כולל מודלים גדולים של שפה, ומצא כי 11Labs Scribe V2, Gemini 3 Flash ו-Assembly AI Universal 3-Pro הם המודלים הטובים ביותר. התקן כולל גם 3 מדדים: קצב טעות של מילים, קצב טעות של מילים סמנטי, וקצב טעות של תשובות."
+  },
+  {
+    "id": "980d46eff7ed524d",
+    "title_original": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-09T15:56:23+00:00",
+    "fetched_at": "2026-06-10T08:12:48.085187+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "summary_he": "Cohere השיקה את North Mini Code, דגם חדש שלה שמיועד למפתחים. הדגם, שפותח בעזרת Mixture-of-Experts, כולל 30 מיליארד תכונות והוא זמין תחת רישיון Apache 2.0.",
+    "details_he": "North Mini Code, הדגם החדש של Cohere, נועד לבצע תפקידים אגנטיים בהנדסת תוכנה. הדגם, שפותח בעזרת Mixture-of-Experts, כולל 30 מיליארד תכונות והוא זמין תחת רישיון Apache 2.0. הדגם נחשב לאחד החזקים ביותר בקטגוריית הדגמים הפתוחים בגודלו. North Mini Code נועד לבצע תפקידים אגנטיים בהנדסת תוכנה, כולל יצירת קוד, תכנון וביצוע. הדגם נבחן במספר תחומים, כולל יצירת קוד, תכנון וביצוע. הדגם הציג תוצאות טובות בכל התחומים שבהם נבחן."
+  },
+  {
+    "id": "757497b792c4f39b",
+    "title_original": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "description": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-06-09T15:16:25+00:00",
+    "fetched_at": "2026-06-10T08:12:46.631703+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "summary_he": "Gemini 3.5 Live Translate, Google's latest audio model, enables near real-time speech-to-speech translation in over 70 languages, allowing for seamless communication across languages without awkward pauses.",
+    "details_he": "Gemini 3.5 Live Translate is the latest innovation in Google's machine learning experiments, which have come a long way since its inception 20 years ago, translating over a trillion words for billions of users every month. The model automatically detects languages and generates natural-sounding translated speech, preserving the speakers' intonation, pacing, and pitch. It is rolling out across Google products, including Google Translate on Android and iOS, and is being tested by partners such as Grab to enable multilingual communication in near real-time."
+  },
+  {
+    "id": "e98cadae1db769c1",
+    "title_original": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-06-09T14:10:19+00:00",
+    "fetched_at": "2026-06-10T08:12:46.631703+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "summary_he": "Google DeepMind השיקה את Gemma 4 12B, מודל רב-תכליתי שמאפשר תקשורת רב-תכליתית יעילה על גבי מחשבי לפטופ, ומשלב יעילות רב-תכליתית עם תפיסה מתקדמת.",
+    "details_he": "Gemma 4 12B היא הגרסה האחרונה של המודל, שנועדה להביא תקשורת רב-תכליתית יעילה ישירות למחשבי לפטופ. המודל משלב יעילות רב-תכליתית עם תפיסה מתקדמת, ומאפשרת להריץ זיכרון נמוך יותר. גם זהו המודל הראשון של Google DeepMind שמאפשר קלט נטיבי של קול. המודל זמין להורדה תחת רישיון Apache 2.0, ומאפשרת למפתחים לבנות פרויקטים חדשים. גם Gemma 4 12B כוללת דרפטרים של MTP להפחתת זמן הגשמה."
+  },
+  {
+    "id": "cef8e7e59fb519d3",
+    "title_original": "Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility",
+    "url": "https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/",
+    "description": "Unit 42 research examines attack scenarios targeting cloud logging services. Learn how to defend against log manipulation and defense evasion.The postBlinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibilityappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-09T22:00:21+00:00",
+    "fetched_at": "2026-06-10T08:12:55.669334+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility",
+    "summary_he": "Cloud logging services, while providing comprehensive visibility into cloud actions, have become a high-value target for attackers seeking to evade detection and disrupt log flow. Attackers can exploit these services to create weak spots, evade detection, and establish continuous visibility within a target's environment.",
+    "details_he": "Attackers target cloud logging services to bypass detection systems, modify resources, and transfer logs to their own accounts. This can be achieved through defense evasion and continuous visibility techniques. Organizations can protect themselves by implementing appropriate configurations and detecting service misuse. Palo Alto Networks customers are better protected through products such as Cortex Cloud and the Unit 42 Cloud Security Assessment. These services help identify misconfigurations and security gaps, and the Unit 42 Incident Response team is available for urgent matters."
+  },
+  {
+    "id": "c15b91ce5ee3c205",
+    "title_original": "Reconstructing AI activity in investigations",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/",
+    "description": "Learn how to investigate AI activity in Microsoft 365 Copilot and Azure AI services using a structured, telemetry-driven approach. This playbook helps security teams reconstruct events, assess data exposure, and detect potential threats faster.The postReconstructing AI activity in investigationsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-09T17:35:06+00:00",
+    "fetched_at": "2026-06-10T08:12:53.590582+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Reconstructing AI activity in investigations",
+    "summary_he": "Microsoft 365 Copilot ו- Azure AI services נותנים לצוותי ביטחון כלי חדש לחקירת פעילות AI, המאפשרת להם לבנות מחדש אירועים, לבחון חשיפת נתונים ולזהות איומים פוטנציאליים.",
+    "details_he": "המדריך מספק גישה מבוקרת, טלמטרית לחקירת פעילות AI ב- Microsoft 365 Copilot וב- Azure AI services. זה יועיל לצוותי ביטחון לבנות מחדש אירועים, לבחון חשיפת נתונים ולזהות איומים פוטנציאליים. המדריך יכול להפוך לכלי חשוב במאבק באיומי AI."
+  },
+  {
+    "id": "39b9149ed67ceabb",
+    "title_original": "AI Threat Readiness Pillar 2: Accelerate Patching and Response",
+    "url": "https://www.wiz.io/blog/ai-threat-readiness-pillar-2",
+    "description": "Your guide to operationalizing ownership, remediation, and response with Wiz to keep pace with the AI threat landscape.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-06-09T15:25:20+00:00",
+    "fetched_at": "2026-06-10T08:12:57.646202+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/ai-threat-readiness-pillar-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Threat Readiness Pillar 2: Accelerate Patching and Response",
+    "summary_he": "To stay ahead in the AI threat landscape, organizations must accelerate patching and response to close the loop between detection and remediation. This requires automating workflows, establishing clear ownership, and determining the optimal fix path for each vulnerability. By doing so, organizations can reduce the mean time to remediation and prevent recurrence.",
+    "details_he": "The AI threat landscape is evolving rapidly, with AI-powered scanners surfacing thousands of findings and attackers exploiting vulnerabilities at an unprecedented pace. Traditional remediation workflows, which involve manual triage and ticket creation, are no longer sufficient to keep pace with this acceleration. Pillar 2 of the AI Threat Readiness Framework aims to address this challenge by establishing clear ownership, identifying the root cause of every vulnerability, determining the optimal fix path, automating remediation workflows, and preventing recurrence. By implementing these strategies, organizations can reduce the mean time to remediation and stay ahead of the AI threat landscape."
+  },
+  {
+    "id": "3cfaa442b325249b",
+    "title_original": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257",
+    "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+    "description": "We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257.The postThreat Brief: Active Exploitation of PAN-OS CVE-2026-0257appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-09T14:05:42+00:00",
+    "fetched_at": "2026-06-10T08:12:55.669334+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257",
+    "summary_he": "Palo Alto Networks Unit 42 reported active exploitation of PAN-OS vulnerability CVE-2026-0257, which allows unauthorized attackers to bypass security controls and initiate VPN connections. The vulnerability affects portal and gateway components of vulnerable PAN-OS software versions. Organizations are advised to proactively hunt for indicators of the activity and activate incident response protocols.",
+    "details_he": "The identified threat actor is attempting to access GlobalProtect, and no post-access behavior or lateral movement has been detected. Only a small portion of probed devices established VPN sessions, resulting in gateway-connected events. Organizations are recommended to review the security advisory for CVE-2026-0257, follow available workarounds and mitigations, or upgrade to a version with a fix for this issue. Additionally, Palo Alto Networks Cortex Xpanse can identify publicly exposed PAN-OS gateways and GlobalProtect portals."
+  },
+  {
+    "id": "e31792c00ece824e",
+    "title_original": "Global Cyber Attacks Ease in May 2026, But Ransomware Surges 48% As Threats Reorganize",
+    "url": "https://blog.checkpoint.com/research/global-cyber-attacks-ease-in-may-2026-but-ransomware-surges-48-as-threats-reorganize/",
+    "description": "Attack Volumes Pull Back, But the Bigger Picture Tells a Different Story In May 2026, global cyber-attack activity eased from April’s sharp rebound, though the underlying trends offer little genuine comfort. Organizations experienced an average of 2,055 weekly cyber-attacks, a 2% increase year over year and a short term 7% decrease month over month. While the monthly decline may read as stabilization, ransomware activity surged to its highest year-over-year growth rate of 2026, and GenAI-driven data exposure risks continued to deepen across enterprise environments. Check Point Research data consistently shows that short-term volume moderation does not equal reduced risk. Adversaries […]The postGlobal Cyber Attacks Ease in May 2026, But Ransomware Surges 48% As Threats Reorganizeappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-09T13:42:49+00:00",
+    "fetched_at": "2026-06-10T08:13:07.008547+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/global-cyber-attacks-ease-in-may-2026-but-ransomware-surges-48-as-threats-reorganize/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Global Cyber Attacks Ease in May 2026, But Ransomware Surges 48% As Threats Reorganize",
+    "summary_he": "Despite a 7% decrease in global cyber-attacks in May 2026, experts warn that the underlying trends suggest a continued threat. Ransomware activity surged 48% year-over-year, and GenAI-driven data exposure risks deepened across enterprise environments.",
+    "details_he": "The decrease in cyber-attacks in May 2026 may seem reassuring, but Check Point Research data indicates that adversaries are simply recalibrating their tactics. Ransomware activity, in particular, reached its highest year-over-year growth rate of 2026, with Education and Agriculture sectors experiencing significant increases in attacks. Furthermore, the growing adoption of GenAI tools has led to a significant risk of sensitive data leakage, with 91% of organizations using GenAI tools regularly being affected. The lack of governance frameworks in place for these tools has created an additional surface for credentials and data to be compromised."
+  }
+]
