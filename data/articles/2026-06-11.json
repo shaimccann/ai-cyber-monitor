@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a0780e9092a831a2",
+    "title_original": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-11T00:00:00+00:00",
+    "fetched_at": "2026-06-11T08:50:41.280876+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How an astrophysicist uses Codex to help simulate black holes",
+    "summary_he": "Astrophysicist Chi-kwan Chan is using Codex to improve simulations of black holes, focusing on the behavior of electrons and ions around these cosmic phenomena. His work aims to refine our understanding of gravity and the extreme physics involved in black holes. Chan's research is part of the Event Horizon Telescope collaboration, which seeks to create the first video of a supermassive black hole.",
+    "details_he": "Chan's research utilizes Codex to tackle the challenge of modeling the plasma around black holes, which is crucial for understanding the behavior of these cosmic objects. Plasma is a superheated state of matter composed of electrically charged electrons and ions, and its behavior near black holes is complex and difficult to simulate. By refining algorithms and using large-scale computing workflows, Chan hopes to improve the accuracy of his simulations and gain a deeper understanding of the extreme physics involved in black holes. His work has the potential to shed new light on Einstein's general theory of relativity and the behavior of gravity in the universe."
+  },
+  {
+    "id": "7f1e9ccc228eea38",
+    "title_original": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-11T00:00:00+00:00",
+    "fetched_at": "2026-06-11T08:50:41.280876+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "summary_he": "OpenAI announces its support for the EU Code of Practice on Transparency of AI-generated content, aligning with the EU's efforts to ensure a trustworthy AI ecosystem. This move builds on OpenAI's internal research and cooperation with the wider ecosystem to strengthen provenance for AI-generated content. The company aims to advance transparency of AI-generated content through its compliance with the Code's requirements.",
+    "details_he": "OpenAI's support for the EU Code of Practice on Transparency of AI-generated content is a significant step in implementing the EU AI Act and building a more transparent digital ecosystem. The company has been developing and adopting provenance standards since 2024, adding C2PA metadata to its DALL-E 3 image generation tool and releasing a public verification tool. By complying with the Code's requirements, OpenAI aims to contribute to the ecosystem-wide effort to advance transparency of AI-generated content and protect the digital ecosystem from disinformation campaigns. This move also reflects OpenAI's broader approach to AI governance in Europe, where the company was the first US company to sign the EU's General-Purpose AI Code of Practice in 2025."
+  },
+  {
+    "id": "5893b987e3449df9",
+    "title_original": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-10T20:00:00+00:00",
+    "fetched_at": "2026-06-11T08:50:41.280876+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-on-oracle-cloud"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "summary_he": "OpenAI ו-Oracle יצרו שותפות, המאפשרת ללקוחות Oracle להגיש זכויות על ידי Oracle Universal Credits כדי לגישה למודלים חדשים של OpenAI.",
+    "details_he": "השותפות בין OpenAI ו-Oracle תאפשר ללקוחות Oracle לגשת למודלים חדשים של OpenAI ול-Codex, ללא צורך ביצירת דרך קנייה חדשה. זאת תאפשר ללקוחות Oracle להשתמש בזכויות על ידי Oracle Universal Credits, ולגשת למודלים חדשים של OpenAI. השותפות תאפשר ללקוחות Oracle להשתמש במודלים של OpenAI כדי לבנות אפליקציות AI, לנתח מידע מורכב, לאוטומט את זרימת העבודה, וליצור חוויות חדשות ללקוחות ולעובדים. השותפות תאפשר ללקוחות Oracle להשתמש במודלים של OpenAI, ולהגיש זכויות על ידי Oracle Universal Credits."
+  },
+  {
+    "id": "ec24911982e88de3",
+    "title_original": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+    "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
+    "description": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-10T19:00:12+00:00",
+    "fetched_at": "2026-06-11T08:50:43.448516+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+    "summary_he": "התקדמות בתחום הרובוטקסי: חברות מספקות פתרונות לבטיחות, אך יש עוד דרך ללכת.",
+    "details_he": "בתחום הרובוטקסי, חברות רבות עובדות כדי לפתח פתרונות לבטיחות. NVIDIA, לדוגמה, הציגה את ה-Halos Operating System, שמספק יסוד יחיד לבטיחות ברכבים נהוגים על ידי AI. ה-Halos Core, חלק מה-Halos OS, הוא OS מובטח, שנבדק ותועד, ומסוגל להתנהג באופן עקבי תחת תנאי תקלה. ה-Halos SDK, חלק נוסף מה-Halos OS, מספק ממשקים חדשים ובטוחים, שמאפשרים לרכבים להתקשר עם רשתות ובקרים. חברות רבות, כמו Uber ו-Foxconn, עובדות עם NVIDIA כדי לפתח רכבי רובוטקסי חדישים ובטוחים."
+  },
+  {
+    "id": "df14b026a35d2773",
+    "title_original": "DiffusionGemma: 4x faster text generation",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-06-10T16:24:11+00:00",
+    "fetched_at": "2026-06-11T08:50:41.979230+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "DiffusionGemma: 4x faster text generation",
+    "summary_he": "אנו מציגים את DiffusionGemma, מודל חדש שלנו שמאפשר ייצור טקסט במהירות 4 פעמים מהמודלים הקודמים. המודל נבנה על בסיס Gemma 4 ומשתמש בשיטת דיפוזיה כדי לייצר טקסט כולל. המודל ניתן להפעלה על מעבדי GPU ומאפשר עבודה מהירה ומקבילה.",
+    "details_he": "DiffusionGemma הוא מודל חדש שלנו שמשתמש בשיטת דיפוזיה כדי לייצר טקסט במהירות 4 פעמים מהמודלים הקודמים. המודל נבנה על בסיס Gemma 4, שהוא מודל מוביל בתחום האינטליגנציה לפי-פרמטר. DiffusionGemma משתמש בשיטת דיפוזיה כדי לייצר טקסט כולל, ולא רק טוקן-אחר-טוקן כמו מודלים אוטורגרסיביים. המודל ניתן להפעלה על מעבדי GPU ומאפשר עבודה מהירה ומקבילה. המודל ניתן להפעלה על מעבדי GPU ומאפשר עבודה מהירה ומקבילה, והוא ניתן להפעלה על מעבדי GPU ומאפשר עבודה מהירה ומקבילה."
+  },
+  {
+    "id": "de77ac6ab4883f97",
+    "title_original": "From CVE Disclosure to Agentic Protection in 45 Minutes. Why it Matters Now.",
+    "url": "https://www.catonetworks.com/blog/from-cve-disclosure-to-agentic-protection-in-45-minutes-why-it-matters-now/",
+    "description": "A CVE lands in the morning. Hours later, attackers are exploiting it in the wild. The patch is not ready, the change window is days away, and the clock is already running. None of this is new. What changed is that vulnerability exploitation is now the most common path into organizations. The 2026 Verizon Data...The postFrom CVE Disclosure to Agentic Protection in 45 Minutes. Why it Matters Now.appeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-06-11T08:00:24+00:00",
+    "fetched_at": "2026-06-11T08:50:56.547897+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/from-cve-disclosure-to-agentic-protection-in-45-minutes-why-it-matters-now/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From CVE Disclosure to Agentic Protection in 45 Minutes. Why it Matters Now.",
+    "summary_he": "Organizations are struggling to protect themselves from rapidly evolving cyber threats, with vulnerability exploitation becoming the most common path into organizations. The median time-to-patch has increased to 43 days, and only 26% of known exploited vulnerabilities were fully remediated last year.",
+    "details_he": "The shift in cyber threats is evident in the 2026 Verizon Data Breach Investigations Report, which shows that exploitation of vulnerabilities is now the number one initial access vector in breaches, accounting for 31% of initial access. This is a significant increase from 20% one year earlier. The challenge is no longer just patching, but reducing the time between disclosure and protection. Attackers are finding more ways in, and organizations are closing fewer of them, resulting in a widening gap. The use of AI in automating vulnerability research and exploit generation is also accelerating the trend toward faster exploitation."
+  },
+  {
+    "id": "2680a91049d39ec6",
+    "title_original": "Turn specs into evals for any agent with ASSERT",
+    "url": "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
+    "description": "Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents.The postTurn specs into evals for any agent with ASSERTappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-06-10T16:00:00+00:00",
+    "fetched_at": "2026-06-11T08:50:48.483777+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://commandline.microsoft.com/assert-written-intent-executable-evals/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Turn specs into evals for any agent with ASSERT",
+    "summary_he": "Microsoft's Responsible AI team has released an open-source framework called ASSERT, which enables teams to convert natural-language behavior specifications into executable evaluations for AI models and agents.",
+    "details_he": "The Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) framework aims to address the challenge of turning product requirements into eval suites that can be run, inspected, and updated as the system changes. It automatically generates test scenarios, datasets, metrics, and scorecards, and runs them against the model, application, or agent. This is particularly important for high-quality behavioral evaluations, which are essential for understanding whether AI systems behave as intended. However, existing evaluations are often slow to build, hard to validate, and quick to go stale, making it difficult to ensure that AI systems meet their intended behaviors."
+  },
+  {
+    "id": "d1e34dd784da9487",
+    "title_original": "AI Agents Are Becoming Enterprise Workers. Who Secures Them?",
+    "url": "https://blog.checkpoint.com/ai-security/ai-agents-are-becoming-enterprise-workers/",
+    "description": "A sales operations team builds an AI agent to help manage renewal requests.  On the surface, the workflow looks ordinary. The agent reads inbound customer emails, checks the account record in the CRM, looks up contract terms, drafts a response, updates the opportunity stage, and creates a follow-up task. No one has set out to build a sentient machine in a basement. They are just trying to remove friction from a familiar business process.  Underneath that ordinary workflow, something important has changed.  The agent is not just generating text. It is reading business data, interpreting instructions, using credentials, calling tools, […]The postAI Agents Are Becoming Enterprise Workers. Who Secures Them?appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-06-10T14:06:50+00:00",
+    "fetched_at": "2026-06-11T08:51:00.915313+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/ai-agents-are-becoming-enterprise-workers/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Agents Are Becoming Enterprise Workers. Who Secures Them?",
+    "summary_he": "The increasing use of AI agents in enterprises has raised concerns about their security, as they have access to private information, untrusted input, and can communicate externally, making them a new kind of security risk.",
+    "details_he": "AI agents are not just chatbots, but LLM-powered systems with autonomy, accessing tools, context, and performing actions on behalf of users, teams, and workflows. They can read, change, and move data, alter records, and trigger processes, making them a semi-autonomous workforce that requires new security measures. Enterprises need to build an AI Defense Plane to secure these agents, which are a new kind of enterprise actor, and ask contextual questions about their behavior, permissions, and tools used."
+  },
+  {
+    "id": "948f754cdea1f7a7",
+    "title_original": "Cato CTRL™ Threat Research: From Fiscal Lures to Remote Access, A Previously Undocumented NinjaOne RMM Abuse Chain",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-previously-undocumented-ninjaone-rmm-abuse-chain/",
+    "description": "Executive Summary Cato CTRL researchers recently identified an undocumented, active phishing campaign targeting Brazilian organizations with fake business-document lures, downloading a NinjaOne Remote Monitoring and Management (RMM) agent. The use of NinjaOne is particularly significant, underscoring how attackers no longer need exotic malware to penetrate an enterprise. Familiar business workflows and software is enough. The...The postCato CTRL™ Threat Research: From Fiscal Lures to Remote Access, A Previously Undocumented NinjaOne RMM Abuse Chainappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-06-10T12:26:15+00:00",
+    "fetched_at": "2026-06-11T08:50:56.547897+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-previously-undocumented-ninjaone-rmm-abuse-chain/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL™ Threat Research: From Fiscal Lures to Remote Access, A Previously Undocumented NinjaOne RMM Abuse Chain",
+    "summary_he": "Cato CTRL researchers exposed a sophisticated phishing campaign targeting Brazilian organizations with fake business-document lures, utilizing legitimate NinjaOne Remote Monitoring and Management software for remote access. The campaign's use of familiar Brazilian workflows and software highlights how attackers can penetrate enterprises with readily available tools. The observed victim belonged to the chemicals and advanced materials sector.",
+    "details_he": "The phishing campaign, which began with emails containing links hidden behind a Googleusercontent-based redirection chain, targeted procurement, finance, accounting, and administrative users who handle invoices, supplier communications, tax documents, and protected business correspondence. The legitimate NinjaOne RMM agent was configured to provide remote access to attacker-controlled infrastructure, showcasing a previously undocumented abuse of NinjaOne in the Brazilian threat landscape. The phishing infrastructure included geofencing, browser fingerprinting, sandbox detection, and user-interaction validation to restrict payload delivery and reduce exposure to researchers. At the time of writing, portions of the phishing infrastructure remained accessible despite responsible disclosure."
+  },
+  {
+    "id": "5591eba7ad1b2ec1",
+    "title_original": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+    "url": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
+    "description": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats.\n\nThe changes aim to combat attack techniques that abuse the \"npm install\" command to trigger the execution of malicious code using npm lifecycle hooks. \"Npm install\" is used to download and install all the necessary",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-11T11:53:03+05:30",
+    "fetched_at": "2026-06-11T08:50:46.449108+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+    "summary_he": "GitHub הכריזה על שינויים חריגים ב-npm גרסה 12, שמטרתם למנוע פגיעות באספקת תוכנה. השינויים יכללו את כפיית האישור של המשתמש לריצת סקריפטים בעת התקנת npm.",
+    "details_he": "GitHub הכריזה על שינויים חריגים ב-npm גרסה 12, שמטרתם למנוע פגיעות באספקת תוכנה. השינויים יכללו את כפיית האישור של המשתמש לריצת סקריפטים בעת התקנת npm. כך, תהיה דרישה לאישור ספציפי מהמשתמש לפני ריצת קוד, ולא יהיה זה אוטומטי. השינויים יכללו גם את כפיית האישור של המשתמש לקבלת תלותות גיט, ולקבלת תלותות מ-URL רחוק. השינויים יכללו גם את כפיית האישור של המשתמש לריצת סקריפטים של תלותות גיט, ולריצת סקריפטים של תלותות מ-URL רחוק."
+  }
+]
