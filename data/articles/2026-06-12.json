@@ -1,0 +1,212 @@
+[
+  {
+    "id": "8d3d9de8b2341846",
+    "title_original": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+    "description": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-06-11T20:00:00+00:00",
+    "fetched_at": "2026-06-12T08:38:01.531022+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "summary_he": "Google expands its presence in Virginia through new investments, focusing on job creation, workforce development, and energy affordability.",
+    "details_he": "The investments include funding for the electrical training ALLIANCE to increase apprenticeship training capacity by 2,741 positions by 2030, and a $15 million Energy Impact Fund to support community projects that reduce utility bills for Virginians. This builds on Google's existing presence in the state, including an office in Reston and data centers in Loudoun and Prince William Counties. The company's commitment to Virginia is part of a larger national effort to prepare over 300,000 skilled tradespeople."
+  },
+  {
+    "id": "af80c7d5b12a144c",
+    "title_original": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
+    "description": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-11T13:00:17+00:00",
+    "fetched_at": "2026-06-12T08:38:02.908272+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+    "summary_he": "GeForce NOW's summer sale offers significant discounts on its 12-month memberships, allowing gamers to access high-performance cloud gaming without the need for expensive hardware upgrades.",
+    "details_he": "The sale provides up to $70 off a 12-month membership, making it an ideal time for gamers to upgrade to the cloud-based service. GeForce NOW streamlines the gaming experience by handling installs, patches, and updates in the cloud, allowing gamers to access their games instantly. The service also offers access to powerful NVIDIA GPUs, making it possible for gamers to enjoy high-performance gaming without the need for expensive hardware upgrades."
+  },
+  {
+    "id": "827f84616066bb26",
+    "title_original": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-06-12T04:30:00+00:00",
+    "fetched_at": "2026-06-12T08:38:04.072614+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "summary_he": "Avataar AI, a startup selected for the India AI Mission, has launched a new video model called Varya that is designed to understand local context and cultural nuances in India. The model is built on top of Wan 2.2, a publicly available video generation model, and is optimized for speed and cost-effectiveness. Varya can generate a 5-second 720p clip in 45 seconds, making it 10 times faster and cheaper than existing models.",
+    "details_he": "Avataar AI's Varya model is a significant development in India's AI landscape, which has been slow to adopt video AI models compared to the US, Europe, and China. The model's ability to recognize cultural nuances, such as food, clothing, and festivals, is a major improvement over existing models that often produce stereotyped or generic outputs. Varya's launch also reflects the Indian government's efforts to encourage AI development through initiatives like the India AI Mission, which provides subsidized GPU compute to selected startups in exchange for releasing their models publicly."
+  },
+  {
+    "id": "06a67d5c23b76eb3",
+    "title_original": "Siri won’t be your AI girlfriend",
+    "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "description": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-06-12T03:00:31-04:00",
+    "fetched_at": "2026-06-12T08:38:03.712170+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Siri won’t be your AI girlfriend",
+    "summary_he": "Apple's new Siri AI is designed to be more practical and less engaging, unlike other chatbots that focus on building relationships with users. According to Craig Federighi, Apple's software chief, Siri's purpose is to assist users in getting things done and learning about the world, rather than acting as a romantic partner. This approach is a deliberate departure from other AI chatbots.",
+    "details_he": "Apple's new Siri AI is a result of the company's deliberate design choice to focus on functionality over engagement. In an interview with Mostly Human, Craig Federighi explained that other chatbots, such as those developed by OpenAI and Google, are designed to encourage users to reveal personal information and build a connection. In contrast, Apple's Siri is designed to be more reserved and helpful, with a clear message that it is not interested in romantic relationships. This approach is part of Apple's broader strategy to prioritize user privacy and safety, as seen in its new child safety protections."
+  },
+  {
+    "id": "fecca607dd426e27",
+    "title_original": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-06-12T01:48:07+00:00",
+    "fetched_at": "2026-06-12T08:38:04.072614+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "summary_he": "Theker, an AI robotics startup, has secured $85 million in funding to develop a factory robot that can adapt to various tasks, aiming to revolutionize the manufacturing industry.",
+    "details_he": "Theker's unique approach involves designing robots that can be reconfigured to suit different tasks, unlike humanoid robots that are typically trained for a single task. This flexibility is expected to address labor shortages in the manufacturing sector, where tasks are often complex and varied. The startup has already gained significant traction, with Inditex, the parent company of Zara, as an early backer, and plans to expand its operations across Europe, the US, and Asia."
+  },
+  {
+    "id": "71cc67e26b583026",
+    "title_original": "AI Threat Readiness Pillar 3: Perform AI Code Analysis Natively in Wiz",
+    "url": "https://www.wiz.io/blog/ai-threat-readiness-pillar-3",
+    "description": "Your guide to operationalizing AI-powered code analysis with Wiz to stay ahead of AI driven development and adversaries",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-06-11T22:17:33+00:00",
+    "fetched_at": "2026-06-12T08:38:11.845974+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/ai-threat-readiness-pillar-3"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Threat Readiness Pillar 3: Perform AI Code Analysis Natively in Wiz",
+    "summary_he": "Wiz introduces AI Code Analysis to address the challenges of AI-driven development, where traditional code security tools struggle to keep pace. By leveraging native AI Code Scans and frontier models, Wiz aims to accelerate vulnerability remediation and reduce the attack surface area.",
+    "details_he": "The increasing use of AI in development has amplified existing security risks through faster code generation and a wider attack surface area. Traditional code security tools are inadequate, struggling with inconsistent coverage, alert fatigue, and manual remediation workflows. Wiz's AI Code Analysis addresses these challenges by providing a systematic strategy for deploying AI analysis, pinpointing critical repositories, and accelerating vulnerability remediation."
+  },
+  {
+    "id": "df5717ed6ebe9929",
+    "title_original": "Check Point Joins OpenAI’s Trusted Access for Cyber Program and Daybreak Initiative",
+    "url": "https://blog.checkpoint.com/ai-security/check-point-joins-openais-trusted-access-for-cyber-program-and-daybreak-initiative/",
+    "description": "The model behind a security workflow shapes how fast a threat is caught, how accurately an incident is investigated, and how much a defender can trust the result. We treat that choice with care. Today we’re taking a clear step forward: Check Point has joined OpenAI’s Daybreak initiative through its Trusted Access for Cyber (TAC) program. These are real steps in how we bring AI into our defensive operations, and in the security we deliver to our customers. What Trusted Access for Cyber Gives Us Trusted Access for Cyber is OpenAI’s program for vetted security organizations that need its most […]The postCheck Point Joins OpenAI’s Trusted Access for Cyber Program and Daybreak Initiativeappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-11T15:38:01+00:00",
+    "fetched_at": "2026-06-12T08:38:19.260303+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/check-point-joins-openais-trusted-access-for-cyber-program-and-daybreak-initiative/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point Joins OpenAI’s Trusted Access for Cyber Program and Daybreak Initiative",
+    "summary_he": "Check Point, חברה לפיתוח תוכנה, הצטרפה למסגרת יוזמת OpenAI, Daybreak, תוך שהיא גם חברה בתוכנית Trusted Access for Cyber. זאת צעד חשוב בשילוב של AI בפעולות ההגנה, ובאיכות הביטחון שמוצעת ללקלקלים.",
+    "details_he": "Check Point, חברה לפיתוח תוכנה, הצטרפה ליוזמת Daybreak של OpenAI, תוך שהיא גם חברה בתוכנית Trusted Access for Cyber. באמצעות תוכנית זו, Check Point יכולה להשתמש במודל GPT-5.5 ובמסגרת זו, לבצע פעולות הגנה כגון בדיקת איומים, חקירת אירועים ובניית תוכנות הגנה. יוזמת Daybreak, היא יוזמה רחבה של OpenAI, שמטרתה להעניק לארגונים מוסמכים גישה למודלים חדישים, וכן תמיכה ישירה מצוות OpenAI. המטרה המשותפת היא להשתמש ב- AI למטרות הגנה, באופן אחראי ומושכל."
+  },
+  {
+    "id": "36ceea9e6e471050",
+    "title_original": "Cato Expands the Power of the Platform with New Technology Ecosystem",
+    "url": "https://www.catonetworks.com/blog/cato-expands-power-platform-new-technology-ecosystem/",
+    "description": "Modern IT and security teams no longer evaluate platforms in isolation. They ask how a platform fits into the architecture they run, the workflows they trust, and the outcomes they need to improve. Enterprise stacks are not isolated; they are interdependent. Identity shapes access, endpoint posture influences policy, while SIEM tools drive investigations and rely...The postCato Expands the Power of the Platform with New Technology Ecosystemappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-06-11T14:17:45+00:00",
+    "fetched_at": "2026-06-12T08:38:15.723256+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-expands-power-platform-new-technology-ecosystem/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato Expands the Power of the Platform with New Technology Ecosystem",
+    "summary_he": "Cato Networks הציגה שני צעדים חשובים לקדם את תשתית ה-Cato, כדי לסייע ללקליטת טכנולוגיות חדשות ולקדם את התשתית הקיימת. הצעדים כוללים את Integration Hub ו-Technology Partner Program.",
+    "details_he": "Cato Networks הציגה שני צעדים חשובים לקדם את תשתית ה-Cato. Integration Hub הוא מרכז שבו ניתן למצוא התגבשויות של תוכנות שלישיות ודוגמאות של שימוש, המסייע לחברות להבין איך Cato עובד עם הטכנולוגיות הבסיסיות שהן כבר משתמשות בהן. Technology Partner Program הוא תוכנית שמספקת דרך מבוקרת ליצרני טכנולוגיה להתחבר ל-Cato ולפתח התגבשויות של תוכנות שלישיות. Technology Partners יכולים להגדיר שימושים של התגבשויות, לבנות עם APIs של Cato וארכיטקטורה של התשתית, לאשרר תוצאות ולהפיץ התגבשויות מאומתות. ההתגבשויות עם Cato מאפשרות לשותפים להגיע לאלפי לקוחות דרך Cato Integration Hub, שם ההתגבשויות המאומתות קלות יותר לגילוי ולאימוץ."
+  },
+  {
+    "id": "823e5a578bc75c7b",
+    "title_original": "From SQLi to RCE – Exploiting LangGraph’s Checkpointer",
+    "url": "https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/",
+    "description": "By Yarden Porat AI agents need memory. Frameworks like LangGraph provide it through checkpointers – persistence layers that store execution state. But what happens when that persistence layer isn’t locked down? Key Points Background LangGraph is an open-source framework for building stateful, multi-agent AI systems with built-in persistence. It’s an extension of LangChain, with over […]The postFrom SQLi to RCE – Exploiting LangGraph’s Checkpointerappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-11T13:37:11+00:00",
+    "fetched_at": "2026-06-12T08:38:11.549706+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From SQLi to RCE – Exploiting LangGraph’s Checkpointer",
+    "summary_he": "By Yarden Porat AI agents need memory. Frameworks like LangGraph provide it through checkpointers – persistence layers that store execution state. But what happens when that persistence layer isn’t locked down? Key Points Background LangGraph is an open-source framework for building stateful, multi-agent AI systems with built-in persistence. It’s an extension of LangChain, with over […]The postFrom SQLi to RCE – Exploiting LangGraph’s Checkpointerappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "04206c6ec36dacda",
+    "title_original": "When Your AI Agent’s Memory Becomes a Security Liability",
+    "url": "https://blog.checkpoint.com/research/when-your-ai-agents-memory-becomes-a-security-liability/",
+    "description": "Key Findings:   Check Point Research identified a critical vulnerability chain in LangGraph, an open-source framework from the creators of LangChain that enables developers to build complex, stateful, and controllable AI agent workflows using LLMs; they have approximately 46.5 million monthly downloads, making it one of the most widely adopted AI agent platforms in the world An SQL injection in LangGraph’s function could allow attackers to gain full control via remote code execution of a server by exploiting weaknesses in how the system processes and handles data. A compromised LangGraph server exposes everything the agent touches, including LLM API keys, customer data, CRM credentials, conversation history, and internal network […]The postWhen Your AI Agent’s Memory Becomes a Security Liabilityappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-11T13:00:37+00:00",
+    "fetched_at": "2026-06-12T08:38:19.260303+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/when-your-ai-agents-memory-becomes-a-security-liability/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When Your AI Agent’s Memory Becomes a Security Liability",
+    "summary_he": "חברת Check Point Research גילתה חולשה בשרת LangGraph, שמאפשרת לתוקף לקבל שליטה מלאה על השרת. החולשה נגרמת מאופן שבו LangGraph מעבדת ומטפלת בנתונים.",
+    "details_he": "LangGraph היא פלטפורמה פתוחה שנוצרה על ידי יוצרי LangChain, שמאפשרת למפתחים לבנות זרימות עבודה מורכבות, מדינית ושליטה של אגנטי AI המשתמשות ב-LLMs. LangGraph נפוצה ויש לה כ-46.5 מיליון הורדות חודשיות, והיא אחת הפלטפורמות הנפוצות ביותר לאגנטי AI בעולם. חברת Check Point Research גילתה שחולשה ב LangGraph יכולה לאפשר לתוקף לקבל שליטה מלאה על השרת, כולל גישה ל-API של LLM, לנתוני הלקוח, לזהויות CRM, להיסטוריה של השיחה ולגישה לרשת הפנימית. החולשה נגרמת מאופן שבו LangGraph מעבדת ומטפלת בנתונים, והיא נכללה בשלושה CVEs: CVE-2025-67644, CVE-2026-28277 ו-CVE-2026-27022. כל החולשות תוקנו בגרסאות מעודכנות."
+  }
+]
