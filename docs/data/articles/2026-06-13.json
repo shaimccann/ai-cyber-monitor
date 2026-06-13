@@ -1,0 +1,212 @@
+[
+  {
+    "id": "65430139f42c3833",
+    "title_original": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+    "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+    "description": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-12T21:00:08+00:00",
+    "fetched_at": "2026-06-13T07:53:19.902998+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+    "summary_he": "NVIDIA Blackwell Ultra NVL72 platform leads in agentic AI performance, delivering 20x more agents per megawatt than NVIDIA Hopper, according to the industry's first agentic AI benchmark, AgentPerf. This significant performance advantage is due to the platform's extreme codesign across the full stack, enabling large models to distribute execution efficiently at scale. Agentic AI requires complex workloads that involve multiple LLM calls and tool calls, making traditional AI inference benchmarks insufficient.",
+    "details_he": "The NVIDIA Blackwell Ultra NVL72 platform's performance leadership in agentic AI is a critical milestone for companies building and deploying agents at scale. Agentic AI workloads are fundamentally different from conversational AI, involving dozens to hundreds of LLM calls chained together, each passing growing context to the next, with tool calls like code compile and execution, database search, and web browsing at every handoff. The complexity of agentic workloads is multiplicative, making traditional AI inference benchmarks inadequate. The AgentPerf benchmark methodology reflects how agentic AI actually works, providing a clear way to compare systems for agentic AI."
+  },
+  {
+    "id": "1878c34bdf8964b7",
+    "title_original": "Ire identifies another LOTUSLITE specimen",
+    "url": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "description": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.The postIre identifies another LOTUSLITE specimenappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-06-12T20:30:48+00:00",
+    "fetched_at": "2026-06-13T07:53:19.007839+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Ire identifies another LOTUSLITE specimen",
+    "summary_he": "Project Ire, a LLM-driven agent, identified a variant of LOTUSLITE, a Windows DLL backdoor, without any user interaction. The agent produced a function-by-function behavioral report that matched Acronis's published analysis, indicating the sample's malicious intent. The variant shares TTPs with the public family but lacks indicators of compromise.",
+    "details_he": "The LOTUSLITE variant was identified by Project Ire through its LLM-driven agent, which produced a detailed behavioral report without any user interaction. The report included information on the sample's install routine, C2 packet layout, command IDs, persistence mechanism, and obfuscation. This highlights the effectiveness of behavioral, agentic reverse engineering in identifying malware variants that share TTPs but lack indicators of compromise. The agent's ability to operate without context and reach a verdict based on its analysis demonstrates its potential in novel malware classification. The LOTUSLITE variant was attributed to Mustang Panda by Acronis's Threat Research Unit, but its detection on VirusTotal has increased over time, with several vendors now flagging it as malicious."
+  },
+  {
+    "id": "f2f378ad20ea8ec5",
+    "title_original": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-12T15:56:10+00:00",
+    "fetched_at": "2026-06-13T07:53:19.646835+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/olmo-eval"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "olmo-eval: An evaluation workbench for the model development loop",
+    "summary_he": "Allen AI השיקה olmo-eval, עבודה-בסיס לבדיקה של חיפוש-מודל, שמטרתה לקדם את פיתוח החיפוש-מודל. הכלי נועד לקלות את תהליך הבדיקה, ולאפשר פיתוח חיפוש-מודל יעיל יותר.",
+    "details_he": "olmo-eval נועד לקדם את פיתוח החיפוש-מודל, ולקלות את תהליך הבדיקה. הכלי מבוסס על OLMES, תקן לבדיקת חיפוש-מודל, ומציע תכונות חדשות. olmo-eval מאפשר לבדוק חיפוש-מודל באופן יעיל יותר, ולבדוק את השפעת שינויים במודל. הכלי גם מאפשר לבדוק חיפוש-מודל בתנאים שונים, ולבדוק את התנהגותו בתנאים שונים. olmo-eval נועד להיות כלי חדשני בתחום החיפוש-מודל, ולקדם את פיתוח החיפוש-מודל."
+  },
+  {
+    "id": "d4a135a3b211b7e4",
+    "title_original": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-12T10:00:00+00:00",
+    "fetched_at": "2026-06-13T07:53:17.511718+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New OpenAI Academy courses for the next era of work",
+    "summary_he": "OpenAI Academy introduces three new courses to help organizations build AI fluency across their workforce, enabling teams to apply AI effectively in their day-to-day work and turn successful uses into repeatable workflows.",
+    "details_he": "The new courses, AI Foundations, Applied AI Foundations, and Agents and Workflows, are designed to provide learners with the practical skills and knowledge needed to apply AI effectively in their work. AI Foundations introduces the core concepts and practices for using AI effectively, while Applied AI Foundations teaches learners how to turn effective prompts into structured, repeatable workflows. Agents and Workflows focuses on how to direct agent-assisted work by providing context, defining outputs and boundaries, and reviewing results. OpenAI Academy is shaped by teams across AI research, product, safety, and deployment, and its curriculum can evolve alongside OpenAI's models and products."
+  },
+  {
+    "id": "44aa2c170a423808",
+    "title_original": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "description": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-06-13T04:14:19+00:00",
+    "fetched_at": "2026-06-13T07:53:21.440905+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "summary_he": "Andrew Yang, a former presidential candidate, believes that the next big startup opportunity lies in reducing the cost of living for Americans, who are facing challenges due to AI-related workforce displacement and wealth concentration.",
+    "details_he": "Yang was inspired by Mark Cuban's Cost Plus Drugs, which sells pharmaceuticals at cost, and has launched his own mobile virtual network operator, Nobile Mobile, that provides cell service at a lower cost and gives customers money back if they use less data. He sees this as an emerging business category where startups give back margins to customers, and believes that meeting people's basic needs at a lower cost is a rich opportunity. Yang's company, Nobile Mobile, has grown to thousands of customers and is generating millions in revenue, with the goal of sharing profits with subscribers and making them happy and loyal."
+  },
+  {
+    "id": "719719a3a4f23a01",
+    "title_original": "Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered",
+    "url": "https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/",
+    "description": "Unit 42 has discovered a new macOS Tahoe 26 forensic artifact that tracks user menu selections across the operating system. Learn more here.The postTracing Digital Intent: New MacOS Tahoe 26 Artifact Discoveredappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-12T22:00:14+00:00",
+    "fetched_at": "2026-06-13T07:53:27.524055+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered",
+    "summary_he": "A new artifact has been discovered in macOS Tahoe 26, which provides a detailed record of user actions across the operating system. This artifact, called App.MenuItem, logs specific menu selections made by users, offering critical context for user activity. It can be found at ~/Library/Biome/streams/restricted/App.MenuItem/local and requires specific tooling to parse.",
+    "details_he": "The Apple Biome system has long been a valuable resource for forensic investigators, tracking various user activities. With the introduction of App.MenuItem in macOS Tahoe 26, investigators can now gain insight into user intent behind specific actions. This artifact captures the exact text of menu items selected by the user, along with timestamps, providing a narrative of their interaction with the interface. To process the file, examiners can use open-source tools like ccl-segb, which extracts the raw data, and then convert it into a CSV format for easier analysis. The true value of App.MenuItem lies in its ability to reconstruct a user's workflow, offering a more detailed understanding of user activity than traditional file system events."
+  },
+  {
+    "id": "c51feabef43b63e6",
+    "title_original": "The AI Your Security Team Can’t See Is the One You Should Worry About",
+    "url": "https://blog.checkpoint.com/ai-security/the-ai-your-security-team-cant-see-is-the-one-you-should-worry-about/",
+    "description": "Shadow AI is no longer a theoretical risk. Employees are adopting AI tools faster than security teams can track them, often without IT’s knowledge, and frequently on devices and surfaces that traditional security tools simply can’t see. If you asked your security team right now how many AI tools are active across your organization, on which surfaces, and what’s being shared, could they answer? For most organizations, the honest answer is no. And that gap, between what your employees are doing with AI and what your security team can actually see, is where enterprise risk lives today.  AI adoption in the enterprise didn’t slow down and wait for governance to catch […]The postThe AI Your Security Team Can’t See Is the One You Should Worry Aboutappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-12T17:00:32+00:00",
+    "fetched_at": "2026-06-13T07:53:37.453515+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/the-ai-your-security-team-cant-see-is-the-one-you-should-worry-about/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The AI Your Security Team Can’t See Is the One You Should Worry About",
+    "summary_he": "אף-ז\"ה, המסוגל להסתתר מעיני צוותי הביטחון, הוא האי שאליו יש להתייחס בעיקר. עובדים נוטלים כלי-אי במהירות יותר מאשר צוותי הביטחון יכולים לעקוב אחריהם, לעיתים ללא ידיעת ה-IT, ובדרך כלל על מכשירים ופני שטחים שכלי-ביטחון רגילים אינם יכולים לראות.",
+    "details_he": "בעקבות התפשטות כלי-אי בארגונים, צוותי הביטחון נאלצים לעמוד בפני גודל חסר תקדים של חורים בביטחון. כלי-אי נכנסים לשימוש כדי לסייע לעובדים, אך זה גורם לקושי לבקר את השימוש בהם. כעת, Check Point מגדילה את כיסוי הביטחון שלה כדי לכלול את API של Claude, המאפשרת למנהלי הביטחון לקבל תמונה מלאה יותר של השימוש בכלי-אי בכל פני שטח."
+  },
+  {
+    "id": "50811ca5e8e00989",
+    "title_original": "Check Point Engage Public Sector 2026: AI Is the New Battlefield",
+    "url": "https://blog.checkpoint.com/usa/check-point-engage-public-sector-2026-ai-is-the-new-battlefield/",
+    "description": "Last week, public sector leaders, cyber security practitioners, and technology experts gathered at the International Spy Museum in Washington, D.C. for Check Point Engage Public Sector: Securing the Mission of Public Sector Organizations in a Hyperconnected AI World. And what was on everyone’s mind? You guessed it – how federal and other public sector organizations secure mission-critical operations in an era where AI is transforming both cyber security defense and cyber warfare. What the audience learned across our several superb panel discussions was that AI has definitively become a challenging and fast-evolving battleground in the push and pull between attackers […]The postCheck Point Engage Public Sector 2026: AI Is the New Battlefieldappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-06-12T13:00:59+00:00",
+    "fetched_at": "2026-06-13T07:53:37.453515+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/usa/check-point-engage-public-sector-2026-ai-is-the-new-battlefield/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point Engage Public Sector 2026: AI Is the New Battlefield",
+    "summary_he": "Check Point Engage Public Sector 2026 highlighted the growing importance of AI in cyber security, with experts warning that public sector organizations must adapt to proactive, prevention-first strategies to stay secure from emerging AI threats.",
+    "details_he": "The conference, held at the International Spy Museum in Washington, D.C., brought together public sector leaders, cyber security practitioners, and technology experts to discuss the challenges of securing mission-critical operations in a hyperconnected AI world. Check Point executives emphasized that AI has become a fast-evolving battleground, and that organizations must learn from historical intelligence failures to avoid missing critical signals. The conference identified four recurring patterns that contribute to security failures: the containment illusion, fighting the last war, efficiency over resilience, and comfort over truth. These lessons are increasingly relevant in today's cyber landscape, where attacks unfold at machine speed."
+  },
+  {
+    "id": "cf94d446a76aa1b3",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 24",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-24-7/",
+    "description": "Authorities seize crypto-laundering network and fake recruitment sites, JDY botnet targets U.S. military, and Miasma worm infects Microsoft and PyPi repos.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-06-12T13:00:56+00:00",
+    "fetched_at": "2026-06-13T07:53:28.835037+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-24-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 24",
+    "summary_he": "Europol and Eurojust successfully dismantled a major cryptocurrency laundering network called 'AudiA6', which allegedly laundered over $380 million for ransomware syndicates and cybercriminals worldwide. Meanwhile, the FBI seized 13 fraudulent websites operated by suspected Chinese intelligence agents attempting to recruit U.S. citizens with sensitive government security clearances. The JDY botnet, associated with PRC-based threat groups, is expanding its cyber reconnaissance operations and targeting U.S. military networks.",
+    "details_he": "The joint operation against AudiA6, which spanned 11 countries, resulted in the seizure of multiple domains and the freezing of a substantial amount of the platform's digital assets. The suspects, who managed the 'Dark2Web' cybercrime forum, now face potential 20-year prison sentences for operating the illicit service. The FBI's operation against the suspected Chinese intelligence agents involved the use of AI-generated photographs and stolen identities to construct fake consulting firms. The JDY botnet, which has grown from approximately 650 active bots to over 1,500 compromised devices, is primarily used for distributed scanning and fingerprinting, allowing operators to quickly locate vulnerable infrastructure. The botnet's expansion into the U.S. military networks poses a significant threat to national security."
+  },
+  {
+    "id": "0c5fe6836520ba1e",
+    "title_original": "Navigating the New Federal Logging Mandate | OMB Memorandum M-26-14",
+    "url": "https://www.wiz.io/blog/navigating-the-new-federal-logging-mandate-or-omb-memorandum-m-26-14",
+    "description": "The White House Memorandum puts in place an “adaptive framework,” where agencies make risk-based, prioritized logging decisions.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-06-12T12:00:01+00:00",
+    "fetched_at": "2026-06-13T07:53:29.339727+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/navigating-the-new-federal-logging-mandate-or-omb-memorandum-m-26-14"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Navigating the New Federal Logging Mandate | OMB Memorandum M-26-14",
+    "summary_he": "הצעדים החדשים של הבית הלבן לקידום אבטחת המידע בפדרציה, כוללים פיתוח של תקן רישום חדש, שיבטיח זמינות נתונים עבור חקירות ותגובה.",
+    "details_he": "ה-OMB (Office of Management and Budget) הוציאה צו (M-26-14) שבוחן את תקן הרישום הקיים (M-21-31), שהוצא בעקבות פרשת SolarWinds ב-2020. הצו החדש מטרתו להקל על הפדרציה להתאים את אבטחת המידע שלה לצורכי המשתמש. הפדרציה צפויה לפתח תקן רישום חדש (LRA) עד 20 באוגוסט, ואז תשקול אפשרות לשפר את אבטחת המידע שלה. הצו ישפר את הגישה לנתונים, ויאפשר לגופי הפדרציה לפתח תקן רישום חדש, שיבטיח זמינות נתונים עבור חקירות ותגובה."
+  }
+]
