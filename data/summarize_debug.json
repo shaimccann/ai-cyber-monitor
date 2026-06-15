@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-14T08:21:39.897239+00:00",
+  "timestamp": "2026-06-15T10:32:03.336556+00:00",
   "errors": [
     {
-      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 1184)",
+      "title": "Evil MSI Background: BASE64 Statistical Analysis, (Mon, Jun 15th)",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 975)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 20,
+  "total_scanned": 29,
   "selected": 10
 }
