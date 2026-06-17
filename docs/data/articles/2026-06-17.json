@@ -1,0 +1,212 @@
+[
+  {
+    "id": "36e7745d04f47ac5",
+    "title_original": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-17T09:01:25+00:00",
+    "fetched_at": "2026-06-17T09:06:48.204704+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/zai-org/glm-52-blog"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GLM-5.2: Built for Long-Horizon Tasks",
+    "summary_he": "Z.AI השיקה דגם חדש, GLM-5.2, שמסוגל לבצע תפקודים ארוכי-זמן, ומציג קדמוניות רבות יותר מדגם הקודם, GLM-5.1. הדגם כולל יכולות חדשות, כולל 1M-token קונטקסט יציב, יכולות קוד חזקות וארכיטקטורה משופרת.",
+    "details_he": ""
+  },
+  {
+    "id": "b1d31bace00c95dd",
+    "title_original": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+    "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+    "description": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-16T22:30:41+00:00",
+    "fetched_at": "2026-06-17T09:06:48.517801+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+    "summary_he": "NVIDIA XR AI מאפשרת למפתחים לבנות זירות חכמות של AR שמסוגלות להבין את הסביבה ולספק סיוע זמין באופן אוטומטי.",
+    "details_he": "NVIDIA XR AI היא ספריית מפתחים שמאפשרת למפתחים לבנות אפליקציות של AR שמסוגלות להבין את הסביבה, לגשת לידע, לספק סיוע ולבצע פעולות בזמן אמת. הספרייה מקשרת מודלי AI, נתוני עסק, כלים ומחשוב מואץ, ומאפשרת לבנות זירות חכמות של AR שמסוגלות להבין, לספק סיוע ולבצע פעולות בזמן אמת. NVIDIA XR AI מספקת יסודות למפתחים לבנות או לחבר כישורים וכלים לאפליקציות XR של עסק, ומפשטת את השילוב של תפיסה מורכבת, גישה לנתוני עסק, דגימות סיבוכיות וארגון של זירות חכמות."
+  },
+  {
+    "id": "fb8d62ecb1109ac0",
+    "title_original": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+    "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+    "description": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas.  The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the world’s first 6-inch indium phosphide […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-16T22:10:56+00:00",
+    "fetched_at": "2026-06-17T09:06:48.517801+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+    "summary_he": "Coherent, a leading manufacturer of lasers and optical components, has made significant strides in advancing the field of artificial intelligence with its expanded Texas facility. The company's innovative technology enables the creation of high-speed networking and optical interconnects, crucial for modern AI systems. This milestone marks a crucial step in reindustrializing the US and strengthening the domestic supply chain for critical semiconductor materials.",
+    "details_he": "Coherent's expanded facility in Sherman, Texas, is a testament to the growing importance of advanced semiconductor manufacturing in the United States. The company's investment in the facility, aided by a $50 million CHIPS Act grant, is a significant step towards strengthening the domestic supply chain for critical semiconductor materials. This development is also a result of public-private partnerships, with NVIDIA's commitment to produce up to $500 billion of AI infrastructure in the US through industry partnerships. The expanded facility will scale production of indium phosphide wafers, which carry data between chips, servers, and data centers at the speed of light, further solidifying the US's position in the global AI infrastructure market."
+  },
+  {
+    "id": "4eaa512ade4fcfc8",
+    "title_original": "Unlocking UK house-building with AI-accelerated planning",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-06-16T21:29:50+00:00",
+    "fetched_at": "2026-06-17T09:06:46.915193+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Unlocking UK house-building with AI-accelerated planning",
+    "summary_he": "במסגרת יוזמה לשיפור שירותי הממשלה, הממשלה הבריטית פיתחה תוכנית תכנון מואצת באמצעות AI, בשיתוף עם Google DeepMind. התוכנית, שנבנתה עם Gemini, תציל את הזמן הדרוש לתהליך קבלת החלטות בנוגע לבקשות של תושבים לבניית בתים.",
+    "details_he": "התוכנית, שנקראת 'Gemini', תסייע לקציני תכנון להתמקד בתיקים מורכבים ולחסוך זמן בתיקים פשוטים. התוכנית תסייע לקציני תכנון להתמקד בתיקים שיש בהם סכסוכים או התנגדויות. התוכנית תציל את הזמן הדרוש לתהליך קבלת החלטות בנוגע לבקשות של תושבים לבניית בתים. התוכנית תסייע לממשלה הבריטית להשיג את המטרה שלה לבנות 1.5 מיליון יחידות דיור עד 2029."
+  },
+  {
+    "id": "d4a2e46847c88768",
+    "title_original": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+    "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+    "description": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-16T16:30:27+00:00",
+    "fetched_at": "2026-06-17T09:06:48.517801+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+    "summary_he": "HPE ו-NVIDIA מרחיבים את HPE AI Factory לכדי תקשורת עם תכונות חדשות, כולל NVIDIA Vera CPU ו-NVIDIA Agent Toolkit. התקשורת החדשה תאפשר לעסקים להפעיל את ה-AI האגנטי שלהם באופן יעיל ובטוח.",
+    "details_he": "HPE ו-NVIDIA מרחיבים את HPE AI Factory, כולל NVIDIA Vera CPU ו-NVIDIA Agent Toolkit, כדי לתמוך בעסקים בהפעלת AI אגנטי. התקשורת החדשה תאפשר לעסקים להפעיל את ה-AI האגנטי שלהם באופן יעיל ובטוח. NVIDIA Vera CPU, המיועד לעבודה עם תכונות חדשות, יהיה זמין ב-2027 עם HPE Private Cloud AI. התקשורת החדשה תכלול NVIDIA Confidential Computing, NVIDIA accelerated computing, NVIDIA AI software ו-NVIDIA networking."
+  },
+  {
+    "id": "26d01cbf68f829d8",
+    "title_original": "Check Point and Illumio Expand Partnership to Secure Hybrid Environments",
+    "url": "https://blog.checkpoint.com/hybrid-mesh/check-point-and-illumio-expand-partnership-to-secure-hybrid-environments/",
+    "description": "Building on our previous Illumio Insights integration, Check Point and Illumio are expanding their partnership with an integration to Illumio Segmentation, helping organizations prevent threats, expose risky paths, contain lateral movement across hybrid and multi-cloud environments, and better align gateway enforcement with microsegmentation policy. Hybrid environments keep getting more complex. Applications and data now span data centers, private cloud, public cloud, SaaS, remote access paths, and shared services, while attackers are using AI to move faster from intrusion to impact. Security teams are not just trying to stop threats at the edge. They also need to see how traffic moves […]The postCheck Point and Illumio Expand Partnership to Secure Hybrid Environmentsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-16T15:00:00+00:00",
+    "fetched_at": "2026-06-17T09:07:11.627711+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/hybrid-mesh/check-point-and-illumio-expand-partnership-to-secure-hybrid-environments/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point and Illumio Expand Partnership to Secure Hybrid Environments",
+    "summary_he": "Check Point ו-Illumio מתרחבות שותפותן להגנה על סביבות היברידיות",
+    "details_he": "Check Point ו-Illumio חוזרות ומתרחבות שותפותן, כדי להגביר את הביטחון בסביבות היברידיות. השותפות החדשה מכלול גם את Illumio Segmentation, שמאפשרת לארגונים למנוע איומים, לחשוף מסלולים סיכוניים, להגביל תנועה אלטרנטיבית בסביבות היברידיות ובסביבות הענן הרב-ענן, ולהתאים את הביטחון הגשרי למדיניות המיקרו-סגמנטציה. השותפות החדשה תסייע לארגונים לקבל תמונת מצב מלאה יותר של Zero Trust."
+  },
+  {
+    "id": "f34822193c0abab1",
+    "title_original": "Wiz Exposure Management Dashboard: Your CTEM Command Center",
+    "url": "https://www.wiz.io/blog/exposure-management-dashboard",
+    "description": "New exposure management dashboard helps organizations align with CTEM to stay ahead in an era of AI exploiting vulnerabilities faster than ever",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-06-16T10:53:02+00:00",
+    "fetched_at": "2026-06-17T09:07:02.979669+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/exposure-management-dashboard"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz Exposure Management Dashboard: Your CTEM Command Center",
+    "summary_he": "ארגונים צריכים להתאים את דפדפת הניהול שלהם לאתגרים החדשים של חדשנות AI, שבה פגמים יכולים להיות חשפים בשעות ספורות.",
+    "details_he": "בעקבות חדשנות AI, פגמים יכולים להיות חשפים בשעות ספורות, וזה יוצר תפנית באופן שבו ארגונים צריכים לנהל את תיקון ותיקון.  תהליך שבעבר אפשר לקבוצות לבצע טריאז'ה, לזהות אחריות ולאזן, ואז למצוא את הסיבה המקורית, כעת דורש תיקון ותיקון שיהיה כמהנדסי AI.  זה דורש מארגונים לקבל דפדפת פעולה חדשה להתגוננות מ-AI, שתאפשר לצוותי ביטחון וניהול פגמים להגן על עצמם במהירות של מכונה כדי להישאר קדימה מ-AI.  Wiz הציגה פרקטיקה שתאפשר לארגונים להשיג זאת בבלוג שלנו להתגוננות מ-AI ובבלוג שלנו 'Wiz Helps'."
+  },
+  {
+    "id": "9d0aa680593ea01f",
+    "title_original": "Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE",
+    "url": "https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/",
+    "description": "Unit 42 discovered a Vertex AI Python SDK vulnerability that allows remote code execution via bucket squatting. Read the article for more.The postPickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCEappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-16T10:00:29+00:00",
+    "fetched_at": "2026-06-17T09:07:01.070048+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE",
+    "summary_he": "חוקרי אבטחת האובייקטים ב-Google Cloud גילו חולשה ב-SDK של Vertex AI, שאפשרה התקפת RCE. החולשה, שהודלפה כעת, הייתה יכולה לאפשר לתוקף להזדהם בעצמו לפרויקט הקורבן ולהזיק לו.",
+    "details_he": "החולשה התגלתה ב-SDK של Vertex AI, שקיים בגרסאות 1.139.0 ו-1.140.0. ה-SDK קונסטרוקט את שם התיקייה האפליקציה באופן ספציפי, והתוקף יכול היה ליצור תיקייה זהה בפרויקט שלו. כאשר הקורבן עלה את המודל, ה-SDK עלה את המודל לתיקייה התוקפי. התוקף יכול היה להחליף את המודל, ולבצע RCE. החולשה נפתרה בגרסה 1.148.0 של ה-SDK, שיצאה ב-15 באפריל 2026. ניתן למנוע את התקפה על ידי עדכון ה-SDK."
+  },
+  {
+    "id": "a24187b01339c8ad",
+    "title_original": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+    "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
+    "description": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from JFrog, SafeDep, Socket, and StepSecurity.\n\n\"A single npm account (ehindero) mass-published more",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-17T13:08:24+05:30",
+    "fetched_at": "2026-06-17T09:06:51.385259+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+    "summary_he": "תקיפה של זירת אספקה סופר-מארז פגעה ב-144 פקג'ג'ס npm קשורים לפרויקט Mastra, פלטפורמת JavaScript ו-TypeScript לבניית אפליקציות AI. התקיפה, שנקראה easy-day-js, נעשתה על ידי חשבון npm שנשלט, 'ehindero', שפרסם יותר מ-140 פקג'ג'ס זדוניים במרווח זמן קצר.",
+    "details_he": "הפקג'ג'ס הזדוניים עצמם אינם כוללים קוד זדוני. במקום זאת, הם מכילים ספריית JavaScript בשם 'easy-day-js' שנוספה לרשימת התלות של כל פקג'ג'ס. ספרייה זו היא קופיה של ספריית 'dayjs' שמורידה ומרצה טרוטר לגנב קריפטוקורנצי. 'easy-day-js' נכתבה על ידי 'sergey2016' ופורסמה ב-16 ביוני 2026, אך השינויים הזדוניים נעשו ב-17 ביוני 2026, ב-1:01 בבוקר UTC. הפקג'ג'ס הזדוניים פועלים כדלקטורי, ומורידים פיילוד ממאגר תקיפה שנשלט על ידי התוקפים."
+  },
+  {
+    "id": "65a80da9b6bee92f",
+    "title_original": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+    "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-17T11:20:46+05:30",
+    "fetched_at": "2026-06-17T09:06:51.385259+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+    "summary_he": "CISA הצהירה על חולשה ב-Joomla JCE שמאפשרת ריצה של PHP, והיא נחשדת כנטענה. החולשה, שקוד חולשה 10.0, נכללה בקטלוג KEV של CISA, והיא נחשדת כנטענה. ישנה חשש לפגיעה באתרים של Joomla.",
+    "details_he": "CISA הוסיפה את החולשה ב-Joomla JCE לקטלוג KEV שלה, והיא נחשדת כנטענה. החולשה, שקוד חולשה 10.0, נכללה בקטלוג KEV של CISA, והיא נחשדת כנטענה. CISA ציינה שהחולשה נגרמת עקב חולשה באבטחת גישה, שמאפשרת ריצה של PHP. החולשה נכללה בגרסאות JCE 1.0.0 עד 2.9.99.4, והיא תוקנה בגרסה 2.9.99.5, שיצאה ב-3 ביוני 2026. ישנה חשש לפגיעה באתרים של Joomla."
+  }
+]
