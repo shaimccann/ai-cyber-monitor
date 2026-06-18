@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ce47f559731cdf4c",
+    "title_original": "France Advances Europe’s AI Future With NVIDIA Technologies",
+    "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+    "description": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-18T06:00:59+00:00",
+    "fetched_at": "2026-06-18T08:51:53.432445+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "France Advances Europe’s AI Future With NVIDIA Technologies",
+    "summary_he": "צרפת ממשיכה להיות מובילה באירופה בפיתוח טכנולוגיות AI, עם NVIDIA, ומבצעת תוכניות גדולות להקמת מפעלי AI ותשתיות מחשוב.",
+    "details_he": "צרפת הכריזה על תוכניות להקמת מפעלי AI חדשים ותשתיות מחשוב, כחלק מהתחייבויות של 10 מיליארד אירו כחלק מהתוכנית France 2030. התוכניות כוללות הקמת מרכזי מחשוב חדשים, פיתוח מודלים ומאגרי נתונים, והפעלת רשתות AI. חברות כמו Scaleway, Bull ו-Foxconn, ו-Schneider Electric, עובדות עם NVIDIA כדי לפתח טכנולוגיות AI ולהקים מפעלי AI חדשים. התוכניות נועדו לסייע לארגונים לפתח טכנולוגיות AI ולהקים מפעלי AI, ולהגביר את השימוש ב-AI באירופה."
+  },
+  {
+    "id": "9860beef8f3ee477",
+    "title_original": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "description": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-06-17T15:00:00+00:00",
+    "fetched_at": "2026-06-18T08:51:52.310354+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "summary_he": "מחקר חדש מראה כיצד ה-AMIE, ה-AI הרפואי שלנו, יכול לעזור לנהל בריאות.",
+    "details_he": "בעת שהאבחנה היא השלב הראשון בטיפול בחולה, האתגר הבא הוא ניהול מצב בריאותי על ידי עקיבת תסמינים, פירוש מדריכים שנעדכנים ואיתור תרופות. המחקר, שפורסם היום ב-\"Nature\", מראה את יכולות AMIE, מערכת ה-AI שלנו לחקירה רפואית ושיחות, בפיתוח מנהל של מצבי חולי על ידי פורמולריות תרופות ומדריכים רפואיים. AMIE, שמשתמשת ביכולות הארוכות-הזיכרון של גמיני, כוללת סוכן שיחה אמפתי לשיחות חי-זמן עם חולים וסוכן תפיסה-עמוקה לניהול תפיסה של מצבי חולי. במחקר זה, רופאים מומחים השוו את AMIE עם 21 רופאי בריאות ראשונים. AMIE השווה את עצמה לרופאים בתפיסה הכללית של ניהול מצבי חולי וציינה יתרון גדול בדיוק ובהתאמה למדריכים."
+  },
+  {
+    "id": "9fdee0583f6d9a1b",
+    "title_original": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-17T10:00:00+00:00",
+    "fetched_at": "2026-06-18T08:51:51.104180+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ai-chemist-improves-reaction"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "summary_he": "A team of researchers from OpenAI has successfully utilized a near-autonomous AI chemist to improve a challenging reaction in medicinal chemistry, specifically the Chan-Lam Coupling. The AI system, GPT-5.4, was integrated with a laboratory for autonomous research and was able to identify a surprising additive that boosted yields for over 80% of tested substrates.",
+    "details_he": "The research project, conducted in collaboration with Molecule.one, aimed to leverage the capabilities of advanced AI in supporting scientists in their work. The AI system, GPT-5.4, was given an open-ended goal to improve one of several important reaction classes, and it was able to generate research proposals, design and run experiments, analyze data, and propose follow-up experiments. The system's most promising proposal, OAI-M1-03, focused on improving Chan-Lam Coupling and suggested the use of mild oxidants, including TEMPO, which resulted in a significant improvement in yields. The results were confirmed by human chemists at bench scale, showing higher yields for 11 of 14 substrate pairs, with a more than twofold increase in most cases."
+  },
+  {
+    "id": "594fd261118c7a9d",
+    "title_original": "אפל צפויה לייקר את מוצריה. טים קוק: \"העלאות מחירים הן בלתי נמנעות\"",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001546284#utm_source=RSS",
+    "description": "מנכ\"ל אפל היוצא אמר בראיון לוול סטריט ג'ורנל כי הזינוק בביקוש לשבבי זיכרון עבור מערכות בינה מלאכותית הקפיץ את עלויות הרכיבים והוביל את החברה להיערך להעלאות מחירים • קוק לא פירט מתי ייכנסו ההתייקרויות לתוקף והן עשויות לחול על אייפונים, מחשבי מק ואייפדים • לפי הדיווחים, הצפי להתייקרות הוא עד כ-270 דולר במכשירי אייפון פרו העתידיים",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-06-18T08:02:00+00:00",
+    "fetched_at": "2026-06-18T08:54:17.238649+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001546284#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "אפל צפויה לייקר את מוצריה. טים קוק: \"העלאות מחירים הן בלתי נמנעות\"",
+    "summary_he": "בראיון לוול סטריט ג'ורנל, טים קוק, מנכ\"ל אפל היוצא, אמר כי הזינוק בביקוש לשבבי זיכרון עבור מערכות בינה מלאכותית גרם לעלייה בעלויות הרכיבים, ולכן החברה צפויה להעלות את מחיריה.",
+    "details_he": "קוק לא פירט מתי ייכנסו ההתייקרויות לתוקף, אך ציין כי הן עשויות לחול על אייפונים, מחשבי מק ואייפדים. על פי הדיווחים, הצפי להתייקרות הוא עד 270 דולר במכשירי אייפון פרו העתידיים. העלאות מחירים אלו עשויות להיות בלתי נמנעות, על פי קוק."
+  },
+  {
+    "id": "e8cf44ae4a4e7841",
+    "title_original": "שיא לגיוס סיד בסייבר האירופי: סטארט-אפ אבטחת AI ספרדי גייס 20 מיליון דולר",
+    "url": "https://techtime.co.il/2026/06/18/neuraltrust/",
+    "description": "הסטארטאפ הספרדי פיתח פלטפורמה לאבטחת סוכני AI ארגוניים. הגיוס החריג משקף את הצמיחה בהשקעות סייבר באירופה ואת המרוץ להקמת תשתיות הגנה לעידן ה-Agentic AI",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-06-18T07:40:15+00:00",
+    "fetched_at": "2026-06-18T08:54:16.689315+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/06/18/neuraltrust/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "שיא לגיוס סיד בסייבר האירופי: סטארט-אפ אבטחת AI ספרדי גייס 20 מיליון דולר",
+    "summary_he": "חברת הסייבר הספרדית NeuralTrust גייסה 20 מיליון דולר בסבב סיד, הגיוס הגדול ביותר שביצעה חברת סייבר באיחוד האירופי. הגיוס ישמש להרחבת פעילותה בארצות הברית ובאירופה, לגיוס עובדים ולהמשך פיתוח הפלטפורמה.",
+    "details_he": "NeuralTrust היא חברת סייבר שפותחה פלטפורמה לאבטחת סוכני AI ארגוניים. הפלטפורמה מפעילה כמעין שער תעבורה עבור מערכות AI ומנטרת את האינטראקציות בין המשתמשים, המודלים, הסוכנים והכלים החיצוניים. החברה מסרה כי הכסף ישמש להרחבת פעילותה בארצות הברית ובאירופה, לגיוס עובדים ולהמשך פיתוח הפלטפורמה. הגיוס של NeuralTrust מגיע בתקופה שבה ההייטק האירופי מציג סימני התאוששות ברורים לאחר שנתיים של צמיחה."
+  },
+  {
+    "id": "f20462c669792c04",
+    "title_original": "From package to postinstall payload: Inside the Mastra npm supply chain compromise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
+    "description": "A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence.The postFrom package to postinstall payload: Inside the Mastra npm supply chain compromiseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-18T03:43:04+00:00",
+    "fetched_at": "2026-06-18T08:51:58.217279+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From package to postinstall payload: Inside the Mastra npm supply chain compromise",
+    "summary_he": "חברת Microsoft חשפה תקיפה באספקת npm, שהשתלטה על 140+ פרויקטים. הדיווח מספק עצות לזיהוי, חיפוש והגנה מפני התקפות אספקה.",
+    "details_he": "התקיפה, שכונתה 'Mastra', השתמשה בפקטורי npm כדי להכניס תכנית סודית ל-140+ פרויקטים. הדיווח של Microsoft מספק עצות לשימוש ב- Microsoft Defender ובמודיעין על איומים כדי לזהות ולהתגונן מפני התקפות אספקה. הדיווח גם מספק עצות לגבי איך לחפש ולזהות תקיפות אספקה."
+  },
+  {
+    "id": "d814fe05b5c65761",
+    "title_original": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
+    "description": "Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability.The postCrypto Clipper uses Tor and worm-like propagation for persistence and controlappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-17T23:11:43+00:00",
+    "fetched_at": "2026-06-18T08:51:58.217279+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
+    "summary_he": "תגלית מעניקה תמיכה למערכת הבטיחות של Microsoft לגבי תוכנת קליפר קריפטוגרפית, שהתגלתה כבר בפברואר 2026. התוכנה חוטפת נתונים מהלשטבן ומפרשת אותם כדי לגנוז ערכים יקרים.",
+    "details_he": "תגלית זו חשובה, כיוון שהתוכנה נעשית באמצעות Windows Script Host ו-ActiveX-driven logic, והיא פועלת כדי להפעיל קולקטור Tor ולקרוא לשרת C2 סודי. התוכנה גונזת נתונים מהלשטבן, וגם תופסת תמונות ומגניזה כתובות כספיות. התוכנה נעשית כדי לא להסתמך על תקן מותקן או על תקן IP-בסיסי C2. במקום זאת, היא מפעילה קולקטור Tor נייד, ומסדרת את התנועה דרך קולקטור SOCKS5 מקומי. התוכנה גם גונזת נתונים ומבצעת ריצה של קוד רחוק, ומשנה תוכנה נעשית כדי להפוך תוכנת גנבה כספית לדלתה קלה."
+  },
+  {
+    "id": "2fda8d279743033a",
+    "title_original": "Beyond the benchmark: Advancing security at AI speed",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
+    "description": "Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems.The postBeyond the benchmark: Advancing security at AI speedappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-17T19:30:00+00:00",
+    "fetched_at": "2026-06-18T08:51:58.217279+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Beyond the benchmark: Advancing security at AI speed",
+    "summary_he": "Microsoft השיקה פלטפורמה חדשה לזיהוי ותיקון חולשות בתוכנה, MDASH, אשר משלבת טכנולוגיות AI כדי לגלות ולתקן חולשות באופן מואץ ומושכל.",
+    "details_he": "MDASH, הפלטפורמה החדשה של Microsoft, משלבת טכנולוגיות AI כדי לגלות ולתקן חולשות בתוכנה. הפלטפורמה משתמשת בטכנולוגיות AI כדי לגלות חולשות בתוכנה, ואז לתקן אותן. MDASH נועדה לשנות את הדרך בה חברות תוכנה גולשות ותוקנות חולשות בתוכנה. הפלטפורמה כבר נמצאת בשימוש על ידי צוותי הנדסה של Microsoft במערכות Windows, Azure ומערכות זהויות."
+  },
+  {
+    "id": "f6aaafc4d02b743c",
+    "title_original": "​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/",
+    "description": "Microsoft has been named a Leader in The Forrester Wave™: Extended Detection and Response Platforms, Q2 2026.The post​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ reportappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-17T18:30:00+00:00",
+    "fetched_at": "2026-06-18T08:51:58.217279+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report",
+    "summary_he": "Forrester Wave report נפתח ב-2026, ובו Microsoft נקבע כמנהיג בתחום מערכות Extended Detection and Response.",
+    "details_he": "Forrester Wave report נפתח ב-2026, ובו Microsoft נקבע כמנהיג בתחום מערכות Extended Detection and Response. הדירוג נועד לבחון את המערכות של Extended Detection and Response, שמטרתן לזהות ולהגן על תקשורת נגד פעולות תקיפה. Microsoft נקבע כמנהיג בשל יכולותיו בזיהוי והגנה על תקשורת."
+  },
+  {
+    "id": "0cd795ec9a267281",
+    "title_original": "AI is accelerating cyberattacks—here’s how to stay ahead",
+    "url": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
+    "description": "See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster.The postAI is accelerating cyberattacks—here’s how to stay aheadappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-17T17:00:00+00:00",
+    "fetched_at": "2026-06-18T08:51:58.217279+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI is accelerating cyberattacks—here’s how to stay ahead",
+    "summary_he": "בעוד התקפי סייבר מתקדמים בעזרת AI, חברות צריכות להתאים את רמתן לקצב המהיר של התקפות אלה. זאת, כדי לשמור על זהותן ולמנוע פריצה חברתית.",
+    "details_he": "AI מסייע לתוקפי סייבר לזהות חלשים באבטחת זהויות, לאתר זהויות חשופות ולאתר זהויות חשובות. כדי להתמודד עם זאת, חברות צריכות להשקיע באבטחת זהויות, כולל זהויות של גורמים שאינם-אנושיים. זאת, כדי לקבל תמונה מלאה של סיכון זהות, ולקבל תמונה זו בזמן אמת. Microsoft Entra ו-Microsoft Defender עובדים יחד כדי לספק חוויות אבטחת זהויות מאוחדות יותר."
+  }
+]
