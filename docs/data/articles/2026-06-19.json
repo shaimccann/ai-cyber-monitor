@@ -1,0 +1,212 @@
+[
+  {
+    "id": "267e57e0db2dbc28",
+    "title_original": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+    "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+    "description": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid.  In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-18T20:00:27+00:00",
+    "fetched_at": "2026-06-19T09:09:12.294787+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+    "summary_he": "התקדמות חשובה בתשתיות רשת החשמל, של הוועדה הפדרלית לאנרגיה (FERC), תורמת להפחתת עומס רשת ושיפור זמינות. ",
+    "details_he": "בעקבות צו של שר האנרגיה, FERC הכריזה על תוכנית לאינטרקונקציה של טעינות גדולות, שתאפשר למפתחי AI, מערכות ייצור של מעבדים ומתקני ייצור מתקדמים להתחבר לרשת. הצעדים של FERC יעזרו להוריד את העלויות האנרגטיות, לגדל את הבסיס התעשייתי של ארצות הברית, לגדל את AI ולחזק את רשת החשמל. "
+  },
+  {
+    "id": "0dce487fd5cb6c97",
+    "title_original": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-18T18:13:13+00:00",
+    "fetched_at": "2026-06-19T09:09:12.042074+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "MosaicLeaks: Can your research agent keep a secret?",
+    "summary_he": "חברות תעשייה נאלצות להתמודד עם סכנה חדשה: סוכני מחקר מסוגלים לחשוף מידע פרטי כאשר הם משתמשים בכלים חיצוניים, כגון חיפוש באינטרנט. חוקרים הציעו תרגיל חדש לסוכני מחקר, המכונה MosaicLeaks, כדי לבדוק את יכולתם לשמור על סודות.",
+    "details_he": "MosaicLeaks הוא תרגיל חדש לסוכני מחקר, המטרתו לבדוק את יכולתם של סוכני מחקר לשמור על סודות. החוקרים הציעו שיטה חדשה לאימון סוכני מחקר, המכונה Privacy-Aware Deep Research (PA-DR), המגבירה את היכולת של הסוכנים לשמור על סודות. השיטה החדשה הגבירה את היכולת של הסוכנים לשמור על סודות, והפחיתה את הסיכוי שלהם לחשוף מידע פרטי. החוקרים גילו כי סוכני מחקר נפוצים כדי לחשוף מידע פרטי, ושאימון רק לביצוע טוב יותר של התרגיל גרם לכך שהם חשפו יותר מידע פרטי."
+  },
+  {
+    "id": "2c2a0749ae12bd50",
+    "title_original": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-18T17:00:00+00:00",
+    "fetched_at": "2026-06-19T09:09:10.050277+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New usage analytics and updated spend controls for enterprises",
+    "summary_he": "OpenAI השיקה כלים חדשים לניטור ובקרה על שימוש ב-ChatGPT Enterprise, כדי לאפשר לחברות לנהל את ה-AI כמו כל השקעה עסקית.",
+    "details_he": "הכלים החדשים, שכוללים ניטור ובקרה על שימוש, יאפשרו לחברות לראות תמונה ברורה יותר של שימוש, אימוץ והוצאות, ולהחליט על האפשרות להשקיע ב-AI. הכלים יאפשרו לחברות לאפשר לצוותים להשתמש ב-AI על פי צורך, ולשמור על ההשקעות ב-AI על העבודה החשובה ביותר. OpenAI פיתחה את הכלים החדשים בשיתוף עם Zipline, חברה שהשתמשה ב-Codex והצליחה לשפר את תוצאותיה."
+  },
+  {
+    "id": "14b0d8d620d60b3a",
+    "title_original": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+    "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+    "description": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations.  For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands.  At Cannes Lions, running […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-18T13:00:43+00:00",
+    "fetched_at": "2026-06-19T09:09:12.294787+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+    "summary_he": "NVIDIA, ביחד עם חברות נוספות, מציגות טכנולוגיות AI שמאפשרות פעילות אוטונומית בתעשיית הפרסום והשיווק.",
+    "details_he": "בפסטיבל Cannes Lions, NVIDIA, Alembic, Amazon Web Services, Criteo, Higgsfield, KERV.ai ו-Taboola, מציגות את האפשרויות של טכנולוגיות AI לתעשיית הפרסום והשיווק. NVIDIA DGX Vera Rubin NVL72 מאפשרות ל-Alembic לפתח דגמים AI גדולים יותר, לרוץ סימולציות גדולות יותר ולחשב את הנהגי הגדולים של הצמיחה במשקיעים. NVIDIA DGX Vera Rubin SuperPODs יאפשרו ל-Alembic להיות החברה הראשונה של חברות AI הגורמים למודלים גדולים יותר, ולהציג נתונים ניידים ואי-משתנים להחלטות עסקיות."
+  },
+  {
+    "id": "47faa689a92c0d6a",
+    "title_original": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
+    "description": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-18T13:00:32+00:00",
+    "fetched_at": "2026-06-19T09:09:12.294787+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
+    "summary_he": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get […]",
+    "details_he": ""
+  },
+  {
+    "id": "0e126b3c7ea26b75",
+    "title_original": "AutoJack: How a single page can RCE the host running your AI agent",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
+    "description": "AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in localhost, missing authentication, and unsafe parameter handling, attackers can trigger arbitrary process execution through AutoGen Studio’s MCP WebSocket. The research highlights a broader pattern - when agents can browse untrusted content and access local services, traditional boundaries like localhost are no longer secure.The postAutoJack: How a single page can RCE the host running your AI agentappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-19T00:17:54+00:00",
+    "fetched_at": "2026-06-19T09:09:16.898670+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AutoJack: How a single page can RCE the host running your AI agent",
+    "summary_he": "חברת Microsoft חשפה חולשה במערכת AutoGen Studio, שמאפשרת לאדם זר לבצע ריצוף קוד רחוק (RCE) באמצעות חבילת ה-WebSocket של MCP. החולשה, שנקראת AutoJack, נמצאה על ידי צוות המחקר של Microsoft.",
+    "details_he": "החולשה נמצאה במערכת AutoGen Studio, שהיא פרויקט מחקר של Microsoft Research. המערכת מאפשרת למפתחים לבנות זוגות עבודה, להתקשר לטולים, כולל שרתי MCP, ולבצע ניסויים מהירים. החולשה, שנקראת AutoJack, מאפשרת לאדם זר לבצע ריצוף קוד רחוק (RCE) באמצעות חבילת ה-WebSocket של MCP. החולשה נמצאה על ידי צוות המחקר של Microsoft, והיא כבר תוקנה. החולשה התגלתה במהלך פיתוח המערכת, והיא לא נכללה בגרסה שפורסמה ב-PyPI. לכן, משתמשים שהתקינו את AutoGen Studio מ-PyPI אינם חשופים לחולשה זו. החולשה הראתה כי כאשר זוג עבודה יכול להציג דפים לא ממוסרים ולהתקשר לשרותים מקומיים, הגבול האמין של localhost יכול להפוך לפתח תעלה לתקיפה."
+  },
+  {
+    "id": "ef34e684eb9fef6e",
+    "title_original": "New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/",
+    "description": "New Forrester Total Economic Impact™ study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI.The postNew Forrester study shows customers who unified with Microsoft Security benefited from 124% ROIappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-18T19:36:08+00:00",
+    "fetched_at": "2026-06-19T09:09:16.898670+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI",
+    "summary_he": "מחקר חדש של Forrester מראה כי ללקוחות שאיחדו את Microsoft Security הייתה תועלת של 124% ROI.",
+    "details_he": "המחקר, Forrester Total Economic Impact™, מצא כי איחוד Microsoft Security יוצר ROI, יורד את הסיכון ומכין את הארגונים להגנה על AI. המחקר גם מצא כי האיחוד הוביל להפחתת עלויות ושיפור בביטחון."
+  },
+  {
+    "id": "9c49a27f03d4de15",
+    "title_original": "The President’s Executive Actions on AI Have a Lot to Say on Cybersecurity",
+    "url": "https://www.wiz.io/blog/ai-executive-order-cybersecurity",
+    "description": "The spotlight has been on frontier models, but the goals are more far reaching -- including supercharging cyber defense and remediating risk at machine speed",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-06-18T12:52:21+00:00",
+    "fetched_at": "2026-06-19T09:09:20.815895+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/ai-executive-order-cybersecurity"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The President’s Executive Actions on AI Have a Lot to Say on Cybersecurity",
+    "summary_he": "The White House has taken significant steps to enhance cybersecurity through its recent executive actions, focusing on empowering cyber defenders to prioritize and mitigate risks. The President's Executive Order and accompanying National Security Presidential Memorandum emphasize the need for modern risk assessment frameworks, shifting from static compliance checklists. This shift aims to provide federal agencies with the resources to assess and eliminate key threats to their systems.",
+    "details_he": "The President's Executive Order places a 30-day mandate on the Department of War and Civilian Federal Agencies to prioritize cyber defense against AI risks. The Cybersecurity and Infrastructure Security Agency (CISA) has issued Binding Operational Directive (BOD) 26-04, which establishes prioritized remediation timelines for federal agencies based on risk. This directive marks a significant shift from previous requirements, replacing a focus on CVSS severity scores with a context-based prioritization model that mandates remediation of the highest-risk vulnerabilities in as little as three calendar days. This change is a recognition by the federal government that AI can weaponize vulnerabilities in hours, and exploitation techniques are automated to immediate and wide effect. The shift towards nuanced prioritization is a step towards meeting the evolving cybersecurity threats."
+  },
+  {
+    "id": "9619de3103956f11",
+    "title_original": "Cato CTRL™ Threat Actor Profile: ShinyHunters – The Brand That Outlasts the Takedowns",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-shinyhunters-the-brand-that-outlasts-the-takedowns/",
+    "description": "Executive Summary  Despite three forum seizures, five administrator arrests across three operations, and the conviction of its founder, ShinyHunters remains active. The real story of ShinyHunters in 2026 is not just persistence, but the evolution of a cybercrime brand that adapts faster than defenders and law enforcement can respond. The 2025–2026 tactics make this persistence...The postCato CTRL™ Threat Actor Profile: ShinyHunters – The Brand That Outlasts the Takedownsappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-06-18T12:29:12+00:00",
+    "fetched_at": "2026-06-19T09:09:25.122678+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-shinyhunters-the-brand-that-outlasts-the-takedowns/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL™ Threat Actor Profile: ShinyHunters – The Brand That Outlasts the Takedowns",
+    "summary_he": "ShinyHunters, a notorious cybercrime group, continues to evade takedowns despite multiple forum seizures, administrator arrests, and the conviction of its founder. The group's persistence is not just a testament to its resilience, but also its ability to adapt and evolve its tactics to bypass multi-factor authentication (MFA).",
+    "details_he": "ShinyHunters has been active since 2020, initially building its reputation through high-volume database brokerage. Despite the seizure of forums such as RaidForums and BreachForums, as well as the arrest of its founder and multiple administrators, the group has consistently reemerged. Its resilience is largely due to its organizational structure, which allows it to withstand arrests and platform losses. The group's ability to adapt its tactics has made it increasingly difficult for defenders to keep up, particularly in light of its recent use of help-desk vishing and stolen SaaS integration tokens to bypass MFA."
+  },
+  {
+    "id": "57ed5d7d43907202",
+    "title_original": "What Successful Exposure Management Deployments Had in Common in 2026",
+    "url": "https://blog.checkpoint.com/hybrid-mesh/what-successful-exposure-management-deployments-had-in-common-in-2026/",
+    "description": "Throughout 2026, Check Point Exposure Management was deployed across organizations spanning different industries, sizes, and levels of security maturity. While each environment was unique, the objective was remarkably consistent: bring exposure data into a single view, improve prioritization, and support more effective remediation as part of a broader exposure management strategy.  Most organizations were not starting from zero. They already had visibility into vulnerabilities, attack surface findings, and other sources of exposure data, often managed across multiple tools and workflows. The challenge was rarely identifying issues. More often, it was applying context consistently, prioritizing effectively, and managing remediation in a […]The postWhat Successful Exposure Management Deployments Had in Common in 2026appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-18T12:00:06+00:00",
+    "fetched_at": "2026-06-19T09:09:29.462851+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/hybrid-mesh/what-successful-exposure-management-deployments-had-in-common-in-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What Successful Exposure Management Deployments Had in Common in 2026",
+    "summary_he": "ב-2026, חברות משונות הפעילו תפעולי ניהול חשיפה מוצלחים, שהיו כולם דומים במטרתם: להביא את הנתונים על חשיפה לתצוגה אחת, לשפר את ההפנייה, ולתמוך בתיקון יעיל יותר",
+    "details_he": "ב-2026, חברות משונות הפעילו תפעולי ניהול חשיפה מוצלחים, שהיו כולם דומים במטרתם. בין היתר, הן הביאו את הנתונים על חשיפה לתצוגה אחת, שפרו את ההפנייה, ותמכו בתיקון יעיל יותר. החברות הללו כבר היו ברובן ברשות נתונים על חשיפה, והן פעלו לאורך שנים. הן הבינו שהסיכוי לזיהוי חשיפה נמוך, והן חיפשו דרך לארגן את הנתונים, ולתמוך בתיקון יעיל. החברות הללו גילו שבאמצעות תפעולי ניהול חשיפה, הן יכלו להביא את הנתונים לתצוגה אחת, לשפר את ההפנייה, ולתמוך בתיקון יעיל יותר."
+  }
+]
