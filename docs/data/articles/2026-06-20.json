@@ -1,0 +1,212 @@
+[
+  {
+    "id": "48d8b86e7c9fc5f3",
+    "title_original": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-06-19T22:40:14+00:00",
+    "fetched_at": "2026-06-20T07:54:47.861016+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+    "summary_he": "הפקת רכז חדשה בתחום הביטחון הלאומי של ארצות הברית, כפי שהוצגה באופן חד-צדדי, נגד חברת ה-AI Anthropic, יכולה לשנות את פני התחום. הפקת רכז זו, שהתרחשה ב-7 ביוני, כללה הוראה לחברה להגביל את הפצת דגמי ה-AI שלה, Fable ו-Mythos, ולהגביל גישה להם רק לאזרחים אמריקאים.",
+    "details_he": "הפקת רכז זו, שהתרחשה כתגובה לחששות ביטחוניים, נותנת לארצות הברית כוח לקבוע כללים לחברות ה-AI, ולהגביל את הפצת טכנולוגיות AI. הפקת רכז זו, שהתרחשה כתגובה לחששות ביטחוניים, נותנת לארצות הברית כוח לקבוע כללים לחברות ה-AI, ולהגביל את הפצת טכנולוגיות AI. חברת Anthropic, שהיא אחת החברות המובילות בתחום ה-AI, נאלצה להגביל את הפצת דגמי ה-AI שלה, Fable ו-Mythos, ולהגביל גישה להם רק לאזרחים אמריקאים. הפקת רכז זו, שהתרחשה כתגובה לחששות ביטחוניים, נותנת לארצות הברית כוח לקבוע כללים לחברות ה-AI, ולהגביל את הפצת טכנולוגיות AI."
+  },
+  {
+    "id": "7dca0e9f85450e0e",
+    "title_original": "IEEE Rolls Out Large Language Models Virtual Training Course",
+    "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+    "description": "Large language modelshave moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications.While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures are built and maintained. As the AI models move into mainstream engineering practice, the demand for technical expertise is rising.The LLM technology market is expected to grow byabout 33 percent every year through 2030, according toMarketsandMarkets. The rapid expansion suggests that proficiency in implementing and securing the models is transitioning from a niche into a core requirement for technologists.More than just a better search engineTo use LLMs effectively, technical professionals must mo",
+    "source_name": "IEEE Spectrum",
+    "source_url": "https://spectrum.ieee.org",
+    "category": "ai",
+    "published": "2026-06-19T18:00:01+00:00",
+    "fetched_at": "2026-06-20T07:54:48.505953+00:00",
+    "sources": [
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/large-language-models-ieee-course"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "IEEE Rolls Out Large Language Models Virtual Training Course",
+    "summary_he": "IEEE recently launched a virtual training course focused on large language models, aiming to educate technical professionals on designing, securing, and deploying these complex AI systems. The course is a response to the growing demand for expertise in implementing and securing LLMs, which is expected to become a core requirement for technologists.",
+    "details_he": "The rapid expansion of the LLM technology market, projected to grow by about 33 percent every year through 2030, highlights the need for technical professionals to move beyond treating LLMs as conversational robots. By mastering the internal logic of these models, developers can ensure the AI tools handle complex data reliably and avoid common issues such as hallucinations. The course will cover areas such as integrating LLMs with databases and software tools, fixing the hallucination problem, and prioritizing data security."
+  },
+  {
+    "id": "7d3b6c088f87bdfc",
+    "title_original": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "description": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-06-19T16:08:17+00:00",
+    "fetched_at": "2026-06-20T07:54:47.861016+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "summary_he": "האיסור של הממשל האמריקאי על Anthropic עשוי להיות תועלתי לחברה, וזאת על אף שהוא נוגע לבטיחות. האיסור נוגע לשני המודלים החדשים של Anthropic, Fable 5 ו-Mythos 5, שנכנסו לשירות לאחר שחוקרים מאמזון הצליחו לבצע חסימה.",
+    "details_he": "האיסור נוגע לבטיחות, אך חוקרי ביטחון קראו לו 'מסוכן' ו- Anthropic גם ציינה שהחסימה קיימת במודלים אחרים. האיסור עשוי להיות תועלתי לחברה, וזאת על אף שהוא נוגע לבטיחות. האיסור נוגע לשני המודלים החדשים של Anthropic, Fable 5 ו-Mythos 5, שנכנסו לשירות לאחר שחוקרים מאמזון הצליחו לבצע חסימה. חברת Anthropic נתנה תגובה לאיסור, וציינה שהחסימה קיימת במודלים אחרים."
+  },
+  {
+    "id": "76233b24514aa625",
+    "title_original": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "description": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-06-19T16:01:03+00:00",
+    "fetched_at": "2026-06-20T07:54:47.861016+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "summary_he": "Anthropic's Fable 5 release was banned by the US government due to national security concerns, but experts argue that the issue may be more complex than initially thought.",
+    "details_he": "The ban was triggered by Amazon researchers allegedly finding a way to bypass Fable 5's guardrails, but cybersecurity researchers have signed an open letter calling the move 'dangerous'. Anthropic itself notes that similar jailbreaks exist in other models, raising questions about the legitimacy of the ban. The move may also have unintended consequences for developers building on Anthropic's platform and the company's upcoming IPO."
+  },
+  {
+    "id": "06edcc8545071fc4",
+    "title_original": "Billionaire Ambani wants AI in every call, app, and home",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "description": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-06-19T15:23:28+00:00",
+    "fetched_at": "2026-06-20T07:54:47.861016+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Billionaire Ambani wants AI in every call, app, and home",
+    "summary_he": "Mukesh Ambani's Reliance Industries is expanding its AI services to make them an integral part of Indian life, from phone calls and mobile apps to connected homes. The company's new AI assistant, Jio Call Agent, can join phone calls to perform tasks and provide information, while its MyJio app can perform tasks on behalf of users through natural-language requests. This move is part of India's efforts to develop domestic AI capabilities.",
+    "details_he": "Reliance Industries, led by billionaire Mukesh Ambani, is positioning itself as a national champion in the global AI race. The company's new AI services, including Jio Call Agent and TeleFrame, are designed to operate across multiple Indian languages and cater to local needs. By embedding AI assistance directly into its telecom network, Reliance aims to reduce consumers' reliance on third-party call-assistant apps and gain a powerful distribution advantage. The company has also unveiled a suite of AI services for various sectors, including healthcare, education, and agriculture, as part of its efforts to establish itself as a major player in India's emerging AI ecosystem."
+  },
+  {
+    "id": "0966ec729c29ae04",
+    "title_original": "Threat Brief: Mitigating Large-Scale Credential Attacks",
+    "url": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
+    "description": "We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices.The postThreat Brief: Mitigating Large-Scale Credential Attacksappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-20T02:05:33+00:00",
+    "fetched_at": "2026-06-20T07:54:54.979880+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Mitigating Large-Scale Credential Attacks",
+    "summary_he": "Unit 42, תחנת המחקר, חשפה קמפיין גדול של פריצה לסיסמאות, 'FortiBleed', המטרה היא ציוד Fortinet, Sophos ו-MSSQL. הפריצה נעשית על ידי רשת של תופעי סיסמאות והפריצה נעשית על ידי רשת של תופעי סיסמאות.",
+    "details_he": "Unit 42, תחנת המחקר, חשפה קמפיין גדול של פריצה לסיסמאות, 'FortiBleed', המטרה היא ציוד Fortinet, Sophos ו-MSSQL. הפריצה נעשית על ידי רשת של תופעי סיסמאות, שמשתמשים ברשת האינטרנט כדי לבצע פצצות סיסמאות. הפריצה נעשית גם על ידי רשת של תופעי סיסמאות, שמשתמשים ברשת האינטרנט כדי לבצע פצצות סיסמאות. הפריצה נעשית על ידי רשת של תופעי סיסמאות, שמשתמשים ברשת האינטרנט כדי לבצע פצצות סיסמאות. Unit 42 ממליץ לבדוק את ההיסטוריית המשתמשים ולבדוק אם יש פעילות חשודה. Unit 42 גם ממליץ לבדוק את ההיסטוריית המשתמשים ולבדוק אם יש פעילות חשודה."
+  },
+  {
+    "id": "99136c4e8ee6c469",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 25",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-7/",
+    "description": "FBI dismantles extensive PhaaS, DragonForce ransomware abuses MS Teams relays, and PRC-based spies breach REDCap servers to steal research data.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-06-19T13:00:54+00:00",
+    "fetched_at": "2026-06-20T07:54:56.660970+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 25",
+    "summary_he": "בשבוע האחרון, רשויות הביטחון והעסקים חברו כדי להשמיד רשת PhaaS סינית ולנקות אתרים שנגועים ב-SocGholish, ובאותו זמן, קרטל הרansomware DragonForce השתמש במערכת Microsoft Teams כדי להסתיר תעבורה של דלתא חזרה.",
+    "details_he": "ה-FBI, Europol ו-Eurojust חברו כדי להשמיד רשת PhaaS, שהפעילה פישינג על יותר מ-15,000 אתרי WordPress ו-100 סרברים. הם גם חיסלו את SocGholish, סוג של malware שהפעילה פעולה של חטיפת פיילוד חדש. ה-FBI גם חיסלה 3.8 מיליון רשומות קרדיט ו-1.9 מיליארד דולר בהפסדים כספיים. DragonForce, קרטל הרansomware, השתמש ב-Backdoor.Turn, סוג של malware, כדי להסתיר תעבורה של דלתא חזרה. הם גם חיסלו 15,000 אתרי WordPress ו-100 סרברים. ה-FBI גם חיסלה 3.8 מיליון רשומות קרדיט ו-1.9 מיליארד דולר בהפסדים כספיים."
+  },
+  {
+    "id": "6acd750c7775c2ac",
+    "title_original": "Amazon Prime Day 2026: Bargains Begin June 23 — and So Do the Scams",
+    "url": "https://blog.checkpoint.com/research/amazon-prime-day-2026-bargains-begin-june-23-and-so-do-the-scams/",
+    "description": "When Amazon Prime Day returns on June 23–26, 2026, more than 25 countries will take part in one of the largest shopping windows of the year. Spanning millions of products and generating billions of dollars in transactions in just 96 hours, the event is as lucrative for cyber criminals as it is anticipated by consumers. Major retail moments bring together the three ingredients’ attackers exploit most: a globally trusted brand, time-limited urgency, and massive purchase intent at scale. The result is predictable — phishing emails, fake websites, fraudulent offers, smishing campaigns, and account takeover attempts impersonating Amazon all surge during […]The postAmazon Prime Day 2026: Bargains Begin June 23 — and So Do the Scamsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-19T13:00:31+00:00",
+    "fetched_at": "2026-06-20T07:55:07.615780+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/amazon-prime-day-2026-bargains-begin-june-23-and-so-do-the-scams/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Amazon Prime Day 2026: Bargains Begin June 23 — and So Do the Scams",
+    "summary_he": "Amazon Prime Day 2026 is expected to be a lucrative target for cybercriminals, with a surge in phishing emails, fake websites, and account takeover attempts impersonating Amazon. The event's scale and time-limited urgency make it an attractive target for attackers. Check Point Research has observed a significant build-up of malicious infrastructure ahead of the event.",
+    "details_he": "The sectors that power Prime Day checkouts, such as Financial Services and Consumer Goods & Services organizations, are seeing a sharp increase in attack activity. Between December 2025 and May 2026, 6,843 new Amazon-themed domains were registered worldwide, with 9.2% of them already classified as malicious or suspicious in May 2026. Two coordinated campaigns targeting Prime members have been identified, with multiple domains designed to exploit brand trust and high purchase intent at scale."
+  },
+  {
+    "id": "4dcc35fd2049bbd0",
+    "title_original": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+    "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+    "description": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.\n\nThat code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use.\n\nThis is not a remote attack. It requires",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-20T00:07:41+05:30",
+    "fetched_at": "2026-06-20T07:54:49.503993+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+    "summary_he": "חוקרי ביטחון חשמלי פרסמו תקיפה חסרת תיקון שמאפשרת ריצה של קוד זר בתוך SecureROM של חברות A12 ו-A13 של אפל. תקיפה זו יכולה להתבצע רק עם גישה פיזית למכשיר.",
+    "details_he": "חוקרי ביטחון חשמלי ב-Paradigm Shift פרסמו תקיפה חסרת תיקון שמאפשרת ריצה של קוד זר בתוך SecureROM של חברות A12 ו-A13 של אפל. תקיפה זו יכולה להתבצע רק עם גישה פיזית למכשיר, שמחובר ל-RP2350-בייסד מיקרו-בורד. תקיפה זו יכולה להתבצע בזמן קצר, ולפני שהמכשיר יכול להתחבר לאפל. תקיפה זו יכולה להתבצע על מכשירים של אפל שבנויים על A12, A13, S4 ו-S5. תקיפה זו אינה יכולה להתבצע על A11, A14 ומאוחר יותר. התקיפה נבעה מתקלה בתוכנה של Synopsys DWC2 USB controller."
+  },
+  {
+    "id": "8b3622192fe50eba",
+    "title_original": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+    "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+    "description": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor.\n\nThis mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller.\n\n\"They also incorporate third-party or",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-20T00:03:07+05:30",
+    "fetched_at": "2026-06-20T07:54:49.503993+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+    "summary_he": "The Gentlemen ransomware-as-a-service operation is developing and maintaining a suite of endpoint detection and response (EDR) killers to impair system defenses before deploying the encryptor. These EDR-terminating tools are centered around a framework called GentleKiller, which comes in eight different variants mimicking legitimate products. The framework specifically targets 400 processes associated with 48 distinct security programs from various vendors.",
+    "details_he": "The Gentlemen ransomware group has risen to prominence since its emergence in March 2025, claiming 504 victims to date, primarily in Southeast Asia, South America, and Western Europe. The group's technical agility is attributed to its use of techniques such as binary protection using Enigma or Themida and file names resembling well-known cybersecurity vendors. GentleKiller, the most prevalent EDR killer, abuses a vulnerable or malicious driver as part of the bring your own vulnerable driver (BYOVD) attack, targeting 400 processes associated with 48 distinct security programs."
+  }
+]
