@@ -1,0 +1,212 @@
+[
+  {
+    "id": "b0e837195152c97b",
+    "title_original": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "description": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-22T05:00:22+00:00",
+    "fetched_at": "2026-06-22T09:51:44.984194+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+    "summary_he": "NVIDIA's innovative liquid-cooling technology has achieved a breakthrough in cooling AI's biggest machines, allowing them to run at 45°C, which is 5°C higher than a typical hot tub. This advancement makes them more energy efficient and reduces cooling energy consumption in data centers.",
+    "details_he": "The NVIDIA DSX AI factory reference design outlines best practices for designing and operating AI factory infrastructure. This liquid-cooling methodology enables data centers to dramatically reduce cooling energy consumption, making a meaningful difference to overall data center energy use at hyperscale. Industry estimates suggest that raising chiller plant temperatures by just one degree can cut cooling energy costs by about 4%, and at scale, those savings add up quickly. A 50-megawatt hyperscale facility can save over $4 million annually in cooling-related energy and water costs by moving to liquid-cooled infrastructure."
+  },
+  {
+    "id": "4b3f886de1a5e2a4",
+    "title_original": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-21T23:00:00+00:00",
+    "fetched_at": "2026-06-22T09:51:42.636692+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "summary_he": "Samsung Electronics החלה להציע לעובדיה תוכניות חדשות של ChatGPT ו-Codex, כחלק ממאמצים להקל על עבודתם ולשפר את יכולות הפתרון שלהם.",
+    "details_he": "Samsung Electronics הציבה את ChatGPT Enterprise ו-Codex ככלי עזר לעובדיה בכל תחומי העסק, מחקר ופיתוח ועד ייצור וקידום. כלי אלה יאפשרו לעובדי Samsung לבצע תפקידים שונים, כגון חיפוש וניתוח מידע, כתיבת תזכירים ופיתוח רעיונות. OpenAI ו-Samsung Electronics החלו לשתף פעולה בתחום האינפורמטיקה העולמית, והסכם זה נחשב לאחד הגדולים ביותר של OpenAI. יותר מ-5 מיליון אנשים משתמשים ב-Codex מדי שבוע, וכמות המשתמשים בקוריאה גדלה כ-800% מאז ינואר 1, 2026."
+  },
+  {
+    "id": "10d8bd9885ad8b91",
+    "title_original": "באטמ בעסקת ענק שתמקד אותה בתחום התקשורת והסייבר",
+    "url": "https://techtime.co.il/2026/06/22/batm-14/",
+    "description": "תמכור ליזם והמשקיע חיים דור את כל הפעילויות שאינן בתחומי הליבה תמורת כ-36.6 מיליון דולר. חיים דור יחזיק ב-22% ממניות באטמ. המנייה בתל אביב מזנקת. המנכ\"ל מוטי נגר: \"זהו נצחון אסטרטגי\"",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-06-22T09:43:13+00:00",
+    "fetched_at": "2026-06-22T09:54:11.978002+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/06/22/batm-14/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "באטמ בעסקת ענק שתמקד אותה בתחום התקשורת והסייבר",
+    "summary_he": "חברת BATM חתמה על עסקה למכירת 7 חברות-בנות שאינן בליבת פעילותה, בהיקף של כ-36.6 מיליון דולר. העסקה תאפשר לחברה להתמקד בתחומי הרשתות המאובטחות, ההצפנה הקוונטית ואבטחת הסייבר.",
+    "details_he": "במסגרת העסקה, BATM תמכור ליזם והמשקיע חיים דור 7 חברות-בנות שהיא מחזיקה בכל מניותיהן או בחלק מרכזי מהמניות שלהן. הפעילויות שיימכרו מגוונות, וכוללות רשת בתי מרקחת במולדובה, חברת דיאגוסטיקה רפואית וחברת נדל\"ן הרשומות באיטליה. העסקה תלויה באישור אסיפת בעלי המניות ועמידה בתנאים רגולטוריים שונים. לאחר השלמת העסקה, BATM תהפוך לחברה ממוקדת כמעט לחלוטין בתחומי הרשתות המאובטחות, ההצפנה הקוונטית ואבטחת הסייבר."
+  },
+  {
+    "id": "f92691c0a6895b62",
+    "title_original": "מניית אמדוקס צנחה כ-50% מהשיא. ברקע: החשש מ-AI וצמיחה נמוכה",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001546561#utm_source=RSS",
+    "description": "הסנטימנט החלש במניית חברת הטכנולוגיה הוותיקה מישראל מוסבר בשילוב של מספר גורמים, בהם השפעות ה-AI על המודל העסקי שלה • וגם: בנק ההשקעות שמציב לה מחיר יעד שאפתני",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-06-22T02:53:00+00:00",
+    "fetched_at": "2026-06-22T09:54:12.544229+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001546561#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מניית אמדוקס צנחה כ-50% מהשיא. ברקע: החשש מ-AI וצמיחה נמוכה",
+    "summary_he": "מניית אמדוקס, חברת טכנולוגיה ישראלית, חוותה ירידה חדה של כ-50% משיאה. זאת נובעת מחששות להשפעות ה-AI על המודל העסקי של החברה, וכן מציפיות גבוהות של בנק ההשקעות.",
+    "details_he": "מניית אמדוקס, חברת טכנולוגיה ישראלית, חוותה ירידה חדה של כ-50% משיאה. השפעות ה-AI על המודל העסקי של החברה, כמו גם ציפיות גבוהות של בנק ההשקעות, הם הגורמים העיקריים שמוסברים את השינוי הזה. בנק ההשקעות קבע לחברה מחיר יעד שאפתני, שהוביל לחששות על יכולת החברה להגיע אליו."
+  },
+  {
+    "id": "6e59e7459e7b37fd",
+    "title_original": "\"פיטורים המוניים בהייטק יפגעו גם ברואי החשבון, עורכי הדין וקרנות ההשקעה\"",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001546567#utm_source=RSS",
+    "description": "חברות הטכנולוגיה חוות \"סערה מושלמת\" שהגיעה גם לישראל, עם צלילת שער הדולר, מהפכת ה־AI שמשנה את הכללים והצורך המיידי בהתייעלות • בתוך חודש בלבד נפרדו החברות מאלפי עובדים - ואם הקצב יימשך, בתרחיש האימים, המספר יגיע ל–40 אלף עד סוף השנה • מומחים מעריכים: עשרות אלפים בסכנת פיטורים",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-06-22T02:49:00+00:00",
+    "fetched_at": "2026-06-22T09:54:12.544229+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001546567#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"פיטורים המוניים בהייטק יפגעו גם ברואי החשבון, עורכי הדין וקרנות ההשקעה\"",
+    "summary_he": "בעקבות המהפכה הטכנולוגית בתחום ה-AI, חברות הייטק בישראל נאלצות לבצע פיטורים המוניים, כתוצאה מצלילת שער הדולר והצורך בהתייעלות. נפרדו כבר אלפי עובדים בתוך חודש, ואם הקצב יימשך, עשוי הוא להגיע ל-40,000 עד סוף השנה. זאת, כפי שמעריכים מומחים.",
+    "details_he": "מומחים מעריכים כי עשרות אלפים עובדים נמצאים בסכנת פיטורים, כתוצאה מהפיטורים המוניים בחברות הייטק. המהפכה הטכנולוגית בתחום ה-AI, שמשנה את הכללים, גורמת לצורך בהתייעלות ובצמצום עלויות. זאת, כתוצאה מצלילת שער הדולר, שהורידה את רמת המזומנים של החברות. נפרדו כבר אלפי עובדים בתוך חודש, ואם הקצב יימשך, עשוי הוא להגיע ל-40,000 עד סוף השנה."
+  },
+  {
+    "id": "de7f527caedd06be",
+    "title_original": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
+    "url": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
+    "description": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.\n\nThe Federal Court released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Service has used its threat reduction warrant powers this way.\n\nThe warrant let CSIS alter,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-22T14:41:37+05:30",
+    "fetched_at": "2026-06-22T09:51:47.941269+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
+    "summary_he": "Canada's spy agency, CSIS, received a unique warrant to neutralize two foreign-run botnets infecting devices on Canadian soil. The warrant allowed CSIS to alter and destroy botnet data, cutting the devices loose from the networks. This was the first time CSIS used its threat reduction warrant powers in this manner.",
+    "details_he": "The warrant, granted by Justice Catherine Kane, targeted Canada-based servers, small office and home office routers, and Internet of Things devices. The botnets, which used a standard relay playbook, were found to be a threat to Canada's security, with the court flagging the energy sector as a potential target. The operation aimed to disrupt the botnets' ability to probe and potentially disrupt Canadian infrastructure, with the court finding the measures necessary and proportional. The public ruling settles the fact that two foreign adversaries were behind the threat, but the specific countries involved remain unclear due to redactions in the ruling."
+  },
+  {
+    "id": "e3fe27121ff9fbd4",
+    "title_original": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
+    "url": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
+    "description": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's XLab calls it AryStinger and counts at least 4,300 infected routers, a total it says is still rising.\n\nThe distinction matters. AryStinger exists for the stage of an attack that comes before the break-in. Infected",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-22T12:27:44+05:30",
+    "fetched_at": "2026-06-22T09:51:47.941269+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
+    "summary_he": "בעקבות פרסום של QiAnXin, XLab, נמצאה זיהום של 4,300 רוטרים ישנים, שהופכים לרשת רישום ופרוקסי, ולא לבוטנט DDoS שהם נוהגים להיות. הזיהום, AryStinger, מסנן את האינטרנט, מזהה שירותים, מספר תתי-תחומים, ומעביר את התוצאות לפעיל הזיהום.",
+    "details_he": "הקמפיין נגד רוטרים נוצר על ידי חומרה של Realtek, RTL819X, שהייתה נפוצה בין 2012 ל-2015. XLab גילה את הזיהום לראשונה ב-12 במרץ 2026, כאשר הוא נפוץ מ-IP אחד, 107.150.106.14. הבינרי שהופץ היה Linux ELF, שלא זוהה על ידי כל המנועים ב-VirusTotal, והוא ניצל שתי פגמים שהיו ב-2013 ו-2016. הזיהום נפוץ בעיקר ב-D-Link, ובעיקר בדגם DIR-850L, שהוא כ-75% מהזיהום. הזיהום נפוץ בעיקר בדרום קוריאה (כ-48%) ובסין (כ-32%), ואחריהם שוודיה, מלזיה וסינגפור."
+  },
+  {
+    "id": "3c9a3754a6ed8b88",
+    "title_original": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
+    "url": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
+    "description": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity maturity.\n\nAccording to INTERPOL's 2025/2026 Asia and South Pacific Cyberthreat Assessment Report, phishing has emerged as the most widespread and",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-22T11:36:53+05:30",
+    "fetched_at": "2026-06-22T09:51:47.941269+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
+    "summary_he": "INTERPOL's latest report highlights a significant increase in cybercrime across Asia and the South Pacific, driven by rapid digitalization and a disparity in cybersecurity maturity. Phishing has emerged as the most widespread and financially damaging form of cybercrime, with over half of INTERPOL member countries reporting that cybercrime accounted for at least 30% of all crimes recorded nationally. The region has seen a surge in ransomware attacks and AI-driven scams, including deepfakes and romance baiting scams.",
+    "details_he": "The report, which covers the period from January 2024 to March 2025, reveals that phishing has become the most prevalent form of cybercrime in the region, with a third of countries reporting over 10,000 cases. The region has also seen a significant increase in ransomware attacks, with over 135,000 incidents registered in 2024, primarily targeting the real estate, manufacturing, and financial services sectors. Additionally, the report highlights the growing sophistication of cybercriminal tradecraft, including the use of AI personas and social engineering to fuel $37 billion in regional cybercrime losses. Organized crime syndicates in countries like Cambodia, Laos, and Myanmar have set up extensive scam centers, using forced labor to carry out investment scams and preying on people across the world. The report also notes that 5.5 out of every 1,000 individuals in the Asia and South Pacific region clicked on phishing links monthly, nearly double the global average."
+  },
+  {
+    "id": "2f3ba9a016a4f370",
+    "title_original": "Fortinet Responds to FortiBleed Campaign",
+    "url": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
+    "description": "A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign.The postFortinet Responds to FortiBleed Campaignappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-06-22T09:34:59+00:00",
+    "fetched_at": "2026-06-22T09:51:50.141460+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Fortinet Responds to FortiBleed Campaign",
+    "summary_he": "Fortinet הצהירה כי המסע הגדול-ממדים של גנבת זהויות המטריד את לקוחותיה, אינו נוגע לנקודות החולשה החדשות של החברה. הפרשה, שכונתה FortiBleed, כוללת רשימה של יותר מ-86,000 זהויות עבודה תקינות למכשירי Fortinet ב-194 מדינות.",
+    "details_he": "Fortinet אמרה כי הפרשה, שכונתה FortiBleed, כוללת רשימה של יותר מ-86,000 זהויות עבודה תקינות למכשירי Fortinet ב-194 מדינות. החברה הוסיפה כי הפרשה היא תוצאה של גנבת זהויות שכבר התרחשה בעבר. Fortinet כבר סיפקה הדרכה פרטית בעבר, וממשיכה לקרוא ללקוחותיה לבצע צעדי תיקון. החברה הוסיפה כי היא כבר זיהתה את המערכות הפוטנציאלית-מזוהמות, התחילה להודיע ללקוחות הפגועים, ועובדת עם המשטרה לחקור את המתקפות."
+  },
+  {
+    "id": "12195b5f464252ac",
+    "title_original": "More Cybersecurity Firms Disclose Impact From Klue Hack",
+    "url": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
+    "description": "HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers.The postMore Cybersecurity Firms Disclose Impact From Klue Hackappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-06-22T09:03:08+00:00",
+    "fetched_at": "2026-06-22T09:51:50.141460+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "More Cybersecurity Firms Disclose Impact From Klue Hack",
+    "summary_he": "החברות לביטחון הסייבר חשפו את השפעת התקיפה של Klue. חברות כמו HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, Tanium, Insurity ו-Sprout Social הצהירו כי התקיפה הייתה מוגבלת למערכות Salesforce.",
+    "details_he": "ב-11-12 ביוני, Klue חוותה תקיפת ספליין של חברות סייבר. התקיפה התרחשה כאשר התוקף נכנס למערכת Klue באמצעות זהויות כניסה ישנות שנפגעו. Klue חזר על דברי הדיווחים הביטחוניים, ואמר כי התוקף השתמש בזהויות הכניסה הישנות כדי לגשת למערכות Salesforce של Klue. החברה החזירה את הזהויות הפגועות והכרטיסי גישה, וכן כבתה את האפשרות להתחברות למערכות רבות. Klue חקרה את התקיפה ביחד עם CrowdStrike והמשטרה. Klue אמרה כי לפי החקירה התקיפה הייתה מוגבלת למערכות השלישיות, ולא הייתה כל הוכחה לכך שהתוכן של הלקוחות של Klue נפגע."
+  }
+]
