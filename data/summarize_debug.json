@@ -1,10 +1,17 @@
 {
-  "timestamp": "2026-06-22T09:54:14.640939+00:00",
-  "errors": [],
+  "timestamp": "2026-06-23T07:55:03.351111+00:00",
+  "errors": [
+    {
+      "title": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 527)",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 10,
-  "fallback": 0,
-  "total_scanned": 19,
+  "success": 9,
+  "fallback": 1,
+  "total_scanned": 88,
   "selected": 10
 }

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "305325a2b519118a",
+    "title_original": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+    "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+    "description": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy.  The […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-23T06:00:09+00:00",
+    "fetched_at": "2026-06-23T07:54:39.377542+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+    "summary_he": "NVIDIA ושותפיה נותנים למפעילי תקשורת גישה לסוכני AI נאמנים, 24/7, לניהול תפעולי. סוכני AI הללו יכולים לצפות לבעיות ולקוארדינט את השינויים ברשת, במערכות IT ובמערכות עסקי.",
+    "details_he": "NVIDIA ושותפיה נותנים למפעילי תקשורת גישה לסוכני AI נאמנים, 24/7, לניהול תפעולי. סוכני AI הללו יכולים לצפות לבעיות ולקוארדינט את השינויים ברשת, במערכות IT ובמערכות עסקי. כדי להשיג זאת, NVIDIA ושותפיה משתמשים בטכנולוגיות כגון NVIDIA NeMo Safe Synthesizer ו-NVIDIA NeMo Anonymizer, שמאפשרות להפיק נתונים סינתטיים שמגנים על פרטיות הלקוחות. סוכני AI אלה יכולים לצפות לבעיות ולקוארדינט את השינויים ברשת, במערכות IT ובמערכות עסקי, תוך כדי שמירה על פרטיות הלקוחות."
+  },
+  {
+    "id": "1a16bf6126c42ff2",
+    "title_original": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-22T13:18:56+00:00",
+    "fetched_at": "2026-06-23T07:54:39.006299+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "summary_he": "PaddlePaddle הציגה את PP-OCRv6, דגם OCR חדש שלה, שמסוגל לזהות טקסט ב-50 שפות. הדגם כולל שלושה רמות: קטן, בינוני וגדול, כאשר הרמה הבינונית מגיעה ל-86.2% של זיהוי טקסט.",
+    "details_he": "PP-OCRv6 הוא דגם OCR חדש של PaddlePaddle, שמסוגל לזהות טקסט ב-50 שפות. הדגם כולל שלושה רמות: קטן, בינוני וגדול, כאשר הרמה הבינונית מגיעה ל-86.2% של זיהוי טקסט. הדגם משתמש בארכיטקטורה PPLCNetV4 כבסיס וב-RepLKFPN לזיהוי טקסט. PP-OCRv6 מציע פרימיטיבים OCR משופרים, כולל זיהוי טקסט ב-50 שפות, והוא ניתן להפעלה על מגוון של פלטפורמות, כולל מכשירים קצרי זמן, מכשירים ניידים ושרתים."
+  },
+  {
+    "id": "8a065e152ad23307",
+    "title_original": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+    "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+    "description": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-22T13:00:48+00:00",
+    "fetched_at": "2026-06-23T07:54:39.377542+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+    "summary_he": "JUPITER, the first exascale supercomputer in Europe, is leading the way in scientific breakthroughs and AI advancements. Four projects running on JUPITER demonstrate its capabilities, including mapping the human brain at a cellular scale and simulating the Earth's climate at 1-kilometer resolution.",
+    "details_he": "JUPITER, located at Germany's Forschungszentrum Jülich, utilizes NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking. The supercomputer has had a busy year, with four projects showcasing its capabilities. These projects include mapping the human brain at a cellular scale, simulating the Earth's climate at 1-kilometer resolution, building AI systems for the next generation of wireless networks, and simulating a universal 50-qubit quantum computer. The Jülich Brain Atlas project has produced CytoNet, a foundation model for brain microarchitecture analysis, which was trained on JUPITER in under five days using 6.5 petabytes of data from 21 post-mortem brains."
+  },
+  {
+    "id": "612afbdfdc0cb348",
+    "title_original": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+    "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
+    "description": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management.  NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-22T13:00:38+00:00",
+    "fetched_at": "2026-06-23T07:54:39.377542+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+    "summary_he": "התוכנית NAIRR של ה-National Science Foundation חידשה את המחקר המדעי, תוך שימוש במתקני AI של NVIDIA. התוכנית סייעה למחקרים מעל 700, כולל תחומים כגון חיזוי חלבונים וניהול התפרצויות מחלות.",
+    "details_he": "ה-NAIRR סייעה למחקרים חדשניים באמצעות מתקני AI של NVIDIA, כולל גישה ל-DGX nodes ותמיכה טכנית. המחקרים השתמשו במתקני AI כדי לקצר את זמני העבודה ולגלות טכנולוגיות חדשות. התוכנית NAIRR פותחה על ידי ה-National Science Foundation וסייעה למחקרים בתחומים רבים, כולל בריאות, חקלאות ואנרגיה."
+  },
+  {
+    "id": "447ffb56ad84f5c4",
+    "title_original": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+    "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+    "description": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.  The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-22T13:00:20+00:00",
+    "fetched_at": "2026-06-23T07:54:39.377542+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+    "summary_he": "NVIDIA השיקה תוכנה חדשה שמאפשרת גילויים מדעיים, כולל חיפוש אחר חומרה שחורה, על ידי הקלה על עבודה על משימות AI.",
+    "details_he": "NVIDIA DAQIRI, ספריית ה-DAGIRI, ו-NVIDIA ALCHEMI NIM, כמו גם NVIDIA cuPhoton, ספריית ה-cuPhoton, יעילים יותר מאשר תוכנות CPU ומאפשרים עבודה זמינה באופן אונליין. הספריות והתוכנות חלק מ-NVIDIA CUDA-X, קבוצת כלים וספריות שמספקות ביצועים גבוהים יותר בתחומים שונים, כולל AI וחישובי גבוה. הביצועים הגבוהים האלה ישימים ומשפיעים. מדענים משתמשים ב-AI ובחישובי גבוה כדי לייצר נתונים ואינסיגנטים עם כלי ומדידות מהירים יותר מאי פעם. לדוגמה, ה-cuPhoton מאפשר עבודה זמינה באופן אונליין של FITS נתונים, ספריית ה-FITS, על ידי NVIDIA GB200 NVL72, ומגדיל את עבודת הטעינה, קריאה, עיבוד וניתוח FITS נתונים, ספריית ה-FITS, של FITS נתונים, ספריית ה-FITS, על ידי 14,900x. ה-cuPhoton גם מאפשר עבודה זמינה באופן אונליין של FITS נתונים, ספריית ה-FITS, על ידי 8,400x יותר מהר, באמצעות 32 NVIDIA Grace Blackwell סופרצ'יפס."
+  },
+  {
+    "id": "8a24a8f873374749",
+    "title_original": "The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration",
+    "url": "https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/",
+    "description": "Unit 42 research details how attackers could exploit global name uniqueness in bucket hijacking to redirect cloud data streams across major CSPs.The postThe Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltrationappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-22T22:00:04+00:00",
+    "fetched_at": "2026-06-23T07:54:47.021605+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration",
+    "summary_he": "חברות הענק של הענקת שירותי ענן נתקלות בסיכון חדש של חטיפת תיקיות, שבאמצעותו תוקפים יכולים לגנוב נתונים רגישים. תקן זה נקרא 'Global Namespace Risk' והוא פועל על ידי הפעלת תקן חוקי על-גלובלי.",
+    "details_he": "במחקר שנערך על ידי תאגיד Palo Alto Networks, נתגלה טכניקה של חטיפת תיקיות, המאפשרת לתוקפים לגנוב נתונים רגישים מחברות שונות. הטכניקה, הנקראת 'Global Namespace Risk', נוצרת כאשר תוקף מחטיף תיקייה ואז רוכש את השם שלה, ובכך יכול לגנוב נתונים רגישים. חברות הענק של הענקת שירותי ענן, כגון Google Cloud, Amazon Web Services ו-Microsoft Azure, נתקלות בסיכון זה. על פי המחקר, ניתן להגן על עצמך מפני טכניקה זו על ידי הפעלת תקן חוקי על-גלובלי."
+  },
+  {
+    "id": "9b75b34e72923fc7",
+    "title_original": "Guarding AI memory",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
+    "description": "What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses.The postGuarding AI memoryappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-22T19:07:28+00:00",
+    "fetched_at": "2026-06-23T07:54:44.974726+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Guarding AI memory",
+    "summary_he": "חברת הביטחון הסייברית AutoJack חשפה חולשה במערכות AI, המאפשרת לדף אינטרנט פוגען לבצע ריצוף קוד רחוק על המחשב המרכזי.",
+    "details_he": "AutoJack היא זירה חדשה של חדירה, המראה כיצד דף אינטרנט פוגען אחד יכול להפוך את האגן AI לנקודת ריצוף קוד רחוק על המחשב. זהו תוצאה של רצף חדירה חדש, המאפשרת לאדם פוגען לגשת למערכות AI ולבצע פעולות שונות."
+  },
+  {
+    "id": "21ebc3daf904925c",
+    "title_original": "OpenAI Frontier AI Models Powering Check Point’s Leading Cyber Security Solutions",
+    "url": "https://blog.checkpoint.com/security/openai-frontier-ai-models-powering-check-points-leading-cyber-security-solutions/",
+    "description": "Check Point already leverages AI, machine learning and other advanced technologies in our security products that more than 100,000 customers rely on every day.   Through our strategic partnership with OpenAI, and participation in their Daybreak Cyber Partner Program, we are now able to embed the most advanced, powerful, and security-focused AI engines, OpenAI cyber models, into our defensive workflows, product features, and services to deliver the ultimate protection to our customers. This means sharper prevention, faster remediation, and stronger security operations for our customers.   Why This Is Substantial  What matters here is what this access actually unlocks for our customers: a safe way to put frontier-grade AI […]The postOpenAI Frontier AI Models Powering Check Point’s Leading Cyber Security Solutionsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-22T17:00:07+00:00",
+    "fetched_at": "2026-06-23T07:54:57.781577+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/openai-frontier-ai-models-powering-check-points-leading-cyber-security-solutions/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI Frontier AI Models Powering Check Point’s Leading Cyber Security Solutions",
+    "summary_he": "Check Point היא חברה של טכנולוגיות ביטחון, שהשיגה חברות עם OpenAI. זה יאפשר להם לשלב את המודלים החדשים של OpenAI במוצריהם, כדי להגביר את הביטחון.",
+    "details_he": "Check Point, חברה של טכנולוגיות ביטחון, השיגה חברות עם OpenAI. זה יאפשר להם לשלב את המודלים החדשים של OpenAI במוצריהם, כדי להגביר את הביטחון. החברה תכלול את המודלים החדשים במוצריה, כדי להגביר את הביטחון. זה יאפשר להם לשלב את המודלים החדשים של OpenAI במוצריהם, כדי להגביר את הביטחון. החברה תכלול את המודלים החדשים במוצריה, כדי להגביר את הביטחון."
+  },
+  {
+    "id": "447e6876cc2c036d",
+    "title_original": "22nd June – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 22nd June, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Texas Parks and Wildlife Department has been affected by a third-party data breach involving its license system vendor. The incident exposed driver’s license information, passport numbers, emails, phone numbers, and residential addresses for […]The post22nd June – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-22T16:00:02+00:00",
+    "fetched_at": "2026-06-23T07:54:48.797940+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "22nd June – Threat Intelligence Report",
+    "summary_he": "Check Point IPS נותן הגנה נגד תקלות בבטאת 2026, כולל CVE-2026-39813, CVE-2026-39808 ו-CVE-2026-20253.",
+    "details_he": "Check Point IPS נותן הגנה נגד תקלות בבטאת 2026, כולל CVE-2026-39813, CVE-2026-39808 ו-CVE-2026-20253. תקלות אלה כוללות נקיטת תקיפה ופגיעה בבטאת Fortinet FortiSandbox. Check Point Threat Emulation ו- Harmony Endpoint גם נותנים הגנה נגד תקלות אלה. תקלות אלה חשובות להגנה על מערכות ומידע."
+  },
+  {
+    "id": "848bb3398f353f66",
+    "title_original": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/",
+    "description": "Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks.The postOne intrusion, two cyberattackers: Uncovering parallel threat activityappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-22T16:00:00+00:00",
+    "fetched_at": "2026-06-23T07:54:44.974726+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
+    "summary_he": "Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks.The postOne intrusion, two cyberattackers: Uncovering parallel threat activityappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  }
+]
