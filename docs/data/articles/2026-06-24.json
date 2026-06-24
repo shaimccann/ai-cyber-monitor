@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ecd40e0b532b61fe",
+    "title_original": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+    "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+    "description": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-24T00:05:37+00:00",
+    "fetched_at": "2026-06-24T07:49:54.531687+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+    "summary_he": "NVIDIA ו-AWS עובדים יחד כדי להביא AI ליישום בסקאלה, כאשר NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs מאפשרים לקבל יישומים עם ביצועים גבוהים יותר.",
+    "details_he": "NVIDIA ו-AWS עובדים יחד כדי להביא AI ליישום בסקאלה, כאשר NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs מאפשרים לקבל יישומים עם ביצועים גבוהים יותר. ה-G7 instances של AWS, המונעים על ידי NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs, מאפשרים לקבל יישומים עם ביצועים גבוהים יותר, כולל AI inference, גרפיקה, מחשוב חללי ואנליטיקה נתונים מואצים. NVIDIA cuVS גם מאפשר GPU-אקסלרטד וקטור חיפוש כברירת מחדל ב-Amazon OpenSearch."
+  },
+  {
+    "id": "15a565e59df08032",
+    "title_original": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-23T17:00:00+00:00",
+    "fetched_at": "2026-06-24T07:49:52.155501+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-immunology-mystery"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "summary_he": "GPT-5 Pro helped immunologist Derya Unutmaz unravel a three-year-old mystery in immunology, shedding light on how glucose affects T cell development and specialization. This breakthrough has significant implications for understanding and treating diseases such as cancer, autoimmune disease, and infections. Unutmaz now relies heavily on AI in his research, considering it essential to his work.",
+    "details_he": "Derya Unutmaz, a professor at The Jackson Laboratory and the University of Connecticut, has been working on a puzzle since 2022 to understand the impact of glucose on T cell development. With the assistance of GPT-5 Pro, he and his team were able to revisit the experiment and uncover new insights. The results showed that T cells exposed to deoxyglucose, a glucose-like molecule, produced cells involved in the body's inflammatory response, while those exposed to low-glucose environments produced fewer inflammatory-response cells. This discovery could lead to a better understanding of diseases such as cancer, autoimmune disease, and infections, and may ultimately aid in the development of new treatments. Unutmaz's reliance on AI in his research has become so significant that he cannot imagine conducting science without it."
+  },
+  {
+    "id": "6360a0689260714f",
+    "title_original": "How Businesses Are Building Specialized AI They Can Trust",
+    "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+    "description": "Companies are asking how to build specialized AI that fits with the way their workflows actually run.  The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help.  Now, specialized agents — systems of models that can reason, use tools and […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-23T13:00:07+00:00",
+    "fetched_at": "2026-06-24T07:49:54.531687+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Businesses Are Building Specialized AI They Can Trust",
+    "summary_he": "חברות ניסו לבנות את ה-AI שלהן כך שיתאים לתהליכי העבודה שלהן, ועכשיו הן משתמשות באג'נטים מיוחדים שמסוגלים לפעול בעבודות מורכבות. האג'נטים כבר עוזרים לחוקרים בתחום הביולוגיה לגלות תרופות חדשות, לצוותי ביטחון לחקור חולשות בבטיחות ולצוותי תפעול לתכנן אספקה.",
+    "details_he": "חברות משתמשות ב-NVIDIA Agent Toolkit, הכולל דגמים, כלים, מיומנויות ותשתית אבטחה, כדי לבנות אג'נטים מיוחדים שמסוגלים לפעול בעבודות מורכבות. ה-NVIDIA Agent Toolkit נועד לספק יסוד פתוח ומודולרי לבניית אג'נטים מיוחדים שניתן להתאים, לבצע, לשלוט ולהמשיך. האג'נטים כבר עוזרים לחוקרים בתחום הביולוגיה לגלות תרופות חדשות, לצוותי ביטחון לחקור חולשות בבטיחות ולצוותי תפעול לתכנן אספקה. ה-NVIDIA Agent Toolkit כולל כל המרכיבים הדרושים לבניית אג'נטים מיוחדים, כולל דגמים, כלים, מיומנויות ותשתית אבטחה."
+  },
+  {
+    "id": "bc380e2743453737",
+    "title_original": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-23T13:00:00+00:00",
+    "fetched_at": "2026-06-24T07:49:52.155501+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Helping build shared standards for advanced AI",
+    "summary_he": "OpenAI, in collaboration with the Linux Foundation, has helped establish the Appia Foundation to develop shared standards for advanced AI systems. This effort aims to create a trust layer for third-party evaluations, enabling clearer and more reusable evidence across the AI value chain.",
+    "details_he": "The Appia Foundation will develop open, modular specifications to translate international standards and established frameworks into practical assessment criteria. This work is part of a broader effort to strengthen institutions, standards, and assessment practices for advanced AI systems. OpenAI's recent blueprint for democratic governance of frontier AI calls for a durable U.S. framework, a strengthened Center for AI Standards and Innovation (CAISI), and a broader resilience strategy across government. The foundation's work is expected to help create a shared technical language, allowing national and international institutions to trust each other's work."
+  },
+  {
+    "id": "05282a3faac24ec8",
+    "title_original": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-23T12:51:55+00:00",
+    "fetched_at": "2026-06-24T07:49:54.102546+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "summary_he": "IBM's CUGA harness simplifies building agentic apps by handling planning, execution, and state plumbing, leaving developers to focus on the agent's purpose and tool selection.",
+    "details_he": "CUGA, an open-source agent harness from IBM, automates the tedious tasks of building agentic apps, allowing developers to focus on the high-level logic and tool selection. By inverting the traditional approach, CUGA takes care of the planning, execution loop, tool calls, and state plumbing, freeing developers to write just a tool list and a prompt. This approach is demonstrated through two dozen working examples, each a single FastAPI file wrapping a CugaAgent, showcasing the harness's capabilities in various applications, from movie recommenders to IBM Cloud architecture advisors."
+  },
+  {
+    "id": "65cf98c5adf1ac0e",
+    "title_original": "OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat",
+    "url": "https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/",
+    "description": "Unit 42's analysis of ClawHub revealed evasive malicious skills bypassing automated scanners to deploy infostealers and execute agentic financial fraud.The postOpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threatappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "ai",
+    "published": "2026-06-23T22:00:51+00:00",
+    "fetched_at": "2026-06-24T07:50:01.025180+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat",
+    "summary_he": "בעקבות פרסום OpenClaw, רשת השקעה של כישורים, ראו את האקרים כאקופוריות על-קצב, כאשר חלק מהכישורים המזוינים נמנעו מהסרתם על ידי ClawHub, והתגלו כ-5 כישורים פגועים.",
+    "details_he": "לאחר פרסום OpenClaw, רשת השקעה של כישורים, ראו את האקרים כאקופוריות על-קצב. חלק מהכישורים המזוינים נמנעו מהסרתם על ידי ClawHub, והתגלו כ-5 כישורים פגועים. הכישורים הללו השתמשו בטכניקות חדשניות, כגון חדירה אגנטית וקדימה, והיוו איום על האקו-ספלייס של OpenClaw. כדי להתמודד עם האיום הזה, OpenClaw החלה לשתף פעולה עם NVIDIA כדי לספק תיעוד של מה שכל כישור עושה, ולרוץ את כלי הניתוח של NVIDIA על כל הכישורים. "
+  },
+  {
+    "id": "b499eb7ab2c39a9e",
+    "title_original": "Securing AI Agent Behavior with Amazon Bedrock AgentCore and CheckPoint AI Security",
+    "url": "https://blog.checkpoint.com/ai-security/securing-ai-agent-behavior-with-amazon-bedrock-agentcore-and-checkpoint-ai-security/",
+    "description": "AI agents are rapidly becoming a new operational layer inside the enterprise. Unlike traditional chatbots, modern agents do not simply generate responses. They retrieve information, invoke tools, access enterprise systems, make decisions, and take actions on behalf of users. As organizations move from experimentation to production deployments, they are increasingly looking for ways to connect agents to business applications, data sources, models, and services while maintaining visibility and control over how those agents behave. Today, we’re excited to share our upcoming integration with Amazon Bedrock AgentCore and our vision for helping organizations deploy trusted AI agents at enterprise scale. AgentCore […]The postSecuring AI Agent Behavior with Amazon Bedrock AgentCore and CheckPoint AI Securityappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-23T17:00:57+00:00",
+    "fetched_at": "2026-06-24T07:50:12.111222+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/securing-ai-agent-behavior-with-amazon-bedrock-agentcore-and-checkpoint-ai-security/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing AI Agent Behavior with Amazon Bedrock AgentCore and CheckPoint AI Security",
+    "summary_he": "Amazon Bedrock AgentCore ו-CheckPoint AI Security עובדים יחד כדי לאבטח את ההתנהגות של גורמי AI בארגונים. הם עובדים על פלטפורמה של AgentCore שבאמצעותה ניתן לבנות, לחבר ולאופטימיזר גורמי AI בקנה מידה עסקי.",
+    "details_he": "ארגונים רבים עוברים משלבי ניסוי לשלבי הפצה, והם זקוקים לדרכים לחבר את הגורמים לאפליקציות עסקיות, למקורות נתונים, לדגימות ולשירותים, תוך שמירה על ראות ושליטה על התנהגותם של הגורמים. AgentCore היא הפלטפורמה שארגונים משתמשים בה כדי לבנות, לחבר ולאופטימיזר גורמי AI בקנה מידתי. AgentCore מאגדת מאפיינים שונים במחזור החיים של הגורם, כולל AgentCore Gateway, AgentCore Registry, AgentCore Identity ו-AgentCore Policies. AgentCore Policies יכולות לפעול על סימנים מ-AWS Guardrails, ותוך כדי כך, הן יכולות לזהות סיכונים כגון ניסיונות הזרקה של פרומפט, תוכן מסוכן וחשיפה של נתונים רגישים. AgentCore Policies ו-Check Point AI Agent Security יכולים לסייע לארגונים להתקדם לכיוון של שליטה רב-גונית יותר על התנהגות הגורמים ועל התוצאות."
+  },
+  {
+    "id": "46f96ecc102cd519",
+    "title_original": "AI Threat Readiness Pillar 4: Detect and contain threats in real-time",
+    "url": "https://www.wiz.io/blog/ai-threat-readiness-pillar-4",
+    "description": "Your guide to operationalizing AI-powered threat detection and response with Wiz to stay ahead of AI-driven attackers.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-06-23T12:33:11+00:00",
+    "fetched_at": "2026-06-24T07:50:03.098025+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/ai-threat-readiness-pillar-4"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Threat Readiness Pillar 4: Detect and contain threats in real-time",
+    "summary_he": "בעידן ה-AI, חשיבותה של זיהוי והכוונת תקיפות בזמן אמת גדלה. כאשר נפגעים פועלים בעזרת AI, הזמן בין גישה ראשונית להתקדמות לצדדים שונה לדקות. כדי להתמודד עם זאת, חברות צריכות לשפר את תפיסת הזיהוי והכוונה.",
+    "details_he": "בעידן ה-AI, חשיבותה של זיהוי והכוונת תקיפות בזמן אמת גדלה. כאשר נפגעים פועלים בעזרת AI, הזמן בין גישה ראשונית להתקדמות לצדדים שונה לדקות. כדי להתמודד עם זאת, חברות צריכות לשפר את תפיסת הזיהוי והכוונה. זה כולל הקמת תפיסה מלאה של זיהוי והכוונה, ושימוש בכלים של זיהוי והכוונה שמשתמשים ב-AI. כך, חברות יכולות לזהות ולהכוון תקיפות בזמן אמת, ולהגן על סביבתן."
+  },
+  {
+    "id": "f64a4d9241ccf94a",
+    "title_original": "Linux Process Name Masquerading, (Wed, Jun 24th)",
+    "url": "https://isc.sans.edu/diary/rss/33102",
+    "description": "In a previous diary, I talked about stack strings&#;x26;#;x5b;1&#;x26;#;x5d; with a practical example of them. Since my SEC670 class, I&#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x99;m even more interested&#;x26;#;xc2;&#;x26;#;xa0;in malware obfuscation techniques. I had&#;x26;#;xc2;&#;x26;#;xa0;a look at process names. When you list running processes on a computer, can you trust what you see&#;x26;#;x3f; If you&#;x26;#;39;re facing a rootkit, malicious processes can be simply hidden (the API calls or commands to list processed have been tampered). But a malicious process&#;x26;#;xc2;&#;x26;#;xa0;can also mimic a non-suspicious name by masquerading their name. This technique (T1036 in the MITRE ATT&#;x26;CK framework&#;x26;#;x5b;2&#;x26;#;x5d;) has been used by attackers in many campaigns. A good example of the Velvet Ant Chinese group&#;x26;#;x5b;3&#;x26;#;x5d;. The goal is to hide the &#;x26;#;xe2;&#;x26;#;x80;œmalware&#;x26;#;xe2;&#;x26;#;x80; process name by replacing it with something&#;x",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-06-24T06:29:03+00:00",
+    "fetched_at": "2026-06-24T07:49:58.680203+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33102"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Linux Process Name Masquerading, (Wed, Jun 24th)",
+    "summary_he": "Linux Process Name Masquerading is a technique used by attackers to hide malicious processes by replacing their names with non-suspicious ones, making it difficult for security analysts to detect them. This technique has been used in various campaigns, including by the Velvet Ant Chinese group.",
+    "details_he": "The process name can be stored in different locations, including /proc/<pid>/comm and /proc/<pid>/cmdline. The 'prctl' command can be used to alter the process name in 'comm', but altering the process name in 'cmdline' is more complex due to a limitation in the kernel. A proof-of-concept code has been written to demonstrate this technique, which involves overwriting the argv memory region to report a new process name. This technique is classified as T1036 in the MITRE ATT&CK framework."
+  },
+  {
+    "id": "98297f245d7c3977",
+    "title_original": "Hackers Exploiting Cisco Unified CM Vulnerability",
+    "url": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
+    "description": "Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June.The postHackers Exploiting Cisco Unified CM Vulnerabilityappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-06-24T05:44:15+00:00",
+    "fetched_at": "2026-06-24T07:49:58.015382+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hackers Exploiting Cisco Unified CM Vulnerability",
+    "summary_he": "Cisco's Unified Communications Manager (Unified CM) vulnerability, tracked as CVE-2026-20230, is being exploited in attacks despite the company's patches. The vulnerability allows an unauthenticated, remote attacker to conduct SSRF attacks and escalate privileges to root. Exploitation requires enabling the WebDialer service, which is disabled by default.",
+    "details_he": "The vulnerability was patched by Cisco on June 3, but exploit intelligence firm Defused reported seeing evidence of exploitation over the weekend. Defused noted that the exploitation is being carried out from a single source using an unvetted proof-of-concept (PoC) exploit. This is the second Cisco Unified CM vulnerability exploited in 2026, following CVE-2026-20045, which was targeted as a zero-day. Given the product's use by large enterprises, the vulnerability can be highly valuable to both profit-driven cybercriminals and state-sponsored threat actors."
+  }
+]
