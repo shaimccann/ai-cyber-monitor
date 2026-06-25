@@ -1,0 +1,212 @@
+[
+  {
+    "id": "979f4fc5e19ec183",
+    "title_original": "The fuel of the future is already here: Why TRISO matters",
+    "url": "https://www.amazon.science/blog/the-fuel-of-the-future-is-already-here-why-triso-matters",
+    "description": "Millimeter-scale particles of nuclear-reactor fuel are encased in four layers of different materials that act as a “miniature containment system”.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-06-24T19:57:09+00:00",
+    "fetched_at": "2026-06-25T07:51:09.221906+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/the-fuel-of-the-future-is-already-here-why-triso-matters"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The fuel of the future is already here: Why TRISO matters",
+    "summary_he": "מאגרי האנרגיה העתידיים כבר כאן: מדוע TRISO חשוב",
+    "details_he": "TRISO הוא חומר דלק גרעיני חדשני, המורכב מחלקיקים קטנים של דלק גרעיני, המכילים שלושה מסגרות שונות של חומרים שמשמשות כמערכת ניטרוליזציה. החלקיקים אלה, המכונים TRISO, הם חלק מפרויקט של חברת Amazon לפיתוח טכנולוגיית גרעין עתידית. TRISO נחשב לחומר דלק גרעיני חדשני, המסוגל לשמור על ראקציית הפיצול הקונטרולית, ולהכיל את המוצרים הרדיואקטיביים שלה. TRISO נחשב לחומר דלק גרעיני חדשני, המסוגל לשמור על ראקציית הפיצול הקונטרולית, ולהכיל את המוצרים הרדיואקטיביים שלה. "
+  },
+  {
+    "id": "d3198075b11d6c4b",
+    "title_original": "Introducing computer use in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-06-24T16:30:01+00:00",
+    "fetched_at": "2026-06-25T07:51:06.948528+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing computer use in Gemini 3.5 Flash",
+    "summary_he": "Gemini 3.5 Flash מציגה כעת תוכנה לשימוש במחשב, מאפשרת לבנאי זירות חכמות שיכולות לשתף פעולה בין פלטפורמות שונות.",
+    "details_he": "Gemini 3.5 Flash, פלטפורמת חשיבה חכמה, מציגה כעת תוכנה לשימוש במחשב, שמאפשרת לבנאי זירות חכמות שיכולות לשתף פעולה בין פלטפורמות שונות. זאת באמצעות תוכנה של Google DeepMind, שמאפשרת לפלטפורמה לבצע פעולות של קריאה לפונקציות ושימוש בכלים בנויים. חברות ומפתחים יכולים להשתמש בתוכנה זו דרך API של Gemini ו-Enterprise Agent Platform. תוכנה זו תאפשר לבנאי זירות חכמות לבצע פעולות של ראיה, תזמור ופעולה במערכות שונות, כגון גוגל כרום, מחשבוני ניידים ועוד. זאת תאפשר לבנאי זירות חכמות לבצע פעולות של ניתוח, תזמור ופעולה במערכות שונות."
+  },
+  {
+    "id": "67d6ee006132298e",
+    "title_original": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-24T16:00:13+00:00",
+    "fetched_at": "2026-06-25T07:51:08.450678+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "summary_he": "NVIDIA NeMo AutoModel accelerates fine-tuning of Mixture-of-Experts (MoE) models by leveraging the recent Transformers v5 release, resulting in 3.4-3.7x higher training throughput and 29-32% less GPU memory usage.",
+    "details_he": "NVIDIA NeMo AutoModel, a part of the NVIDIA NeMo framework, builds on top of Transformers v5 to provide Expert Parallelism, DeepEP fused all-to-all dispatch, and TransformerEngine kernels, allowing for efficient training of MoE models. This combination enables users to fine-tune MoE models faster without changing their APIs, leveraging the same from_pretrained() API as native Transformers v5. The performance gains were measured across various models, including NVIDIA Nemotron 3 Ultra 550B A55B and Nemotron 3 Nano 30B A3B, demonstrating the effectiveness of NeMo AutoModel in accelerating MoE model training."
+  },
+  {
+    "id": "d5ca57e0b9a9f186",
+    "title_original": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+    "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "description": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review.The postTalos: Scaling rare disease diagnosis with automated, iterative genomic reanalysisappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-06-24T14:00:14+00:00",
+    "fetched_at": "2026-06-25T07:51:07.721339+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+    "summary_he": "Talos, a tool for rare disease diagnosis, uses automated genomic reanalysis to improve diagnosis rates. It efficiently re-examines stored sequencing data and flags variants with new evidence, reducing false positives and making reanalysis sustainable at scale.",
+    "details_he": "Talos, developed through a collaboration of leading institutions, has shown promising results in improving rare disease diagnosis rates. In a validation set of nearly 1,100 patients, it recovered 90% of in-scope diagnoses while flagging only 1.3 candidate variants per patient for expert review. Deployed across a prospective cohort of almost 5,000 undiagnosed patients, Talos delivered 241 new diagnoses, demonstrating the potential of frequent, systematic reanalysis. The tool's ability to reduce manual review time and improve diagnostic yield makes it a valuable asset in the fight against rare diseases."
+  },
+  {
+    "id": "ea9f20a3119f52ff",
+    "title_original": "מנכ\"ל מיקרון: \"שוק הזיכרונות עבר שינוי מבני בעקבות מהפכת ה-AI\"",
+    "url": "https://techtime.co.il/2026/06/25/micron-23/",
+    "description": "לאחר דוחות שיא, מנכ\"ל מיקרון טוען כי מהפכת הבינה המלאכותית שינתה את כללי המשחק: חוזים רב־שנתיים, מחסור מתמשך ועליית ה-HBM עשויים להפוך את שוק הזיכרונות ליציב יותר",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-06-25T07:28:35+00:00",
+    "fetched_at": "2026-06-25T07:51:34.314439+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/06/25/micron-23/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מנכ\"ל מיקרון: \"שוק הזיכרונות עבר שינוי מבני בעקבות מהפכת ה-AI\"",
+    "summary_he": "מנכ\"ל מיקרון, סנג'יי מהרוטרה, הצהיר כי שוק הזיכרונות עבר שינוי מבני בעקבות התפשטות ה-AI, וכי תנאי המחסור יימשכו מעבר ל-2027. החברה חתמה על 16 חוזי אספקה אסטרטגיים, שכוללים התחייבויות לרכישת נפחי זיכרון, וצפויה לקבל 22 מיליארד דולר בפיקדונות וערבויות.",
+    "details_he": "מיקרון פרסמה תוצאות שיא עבור הרבעון השלישי של שנת הכספים 2026, כשהיא מציגה הכנסות של 41.5 מיליארד דולר ורווח נקי של 28.9 מיליארד דולר. החברה גם ציגה תמונה אופטימית בתחום זיכרונות HBM, כאשר קצב האימוץ של שבבי HBM4 הוא מהיר פי שניים מזה של הדור הקודם, HBM3E. מהרוטרה גם טען כי רובוטים דמויי אדם יהפכו למנוע צמיחה משמעותי עבור תעשיית הזיכרונות בשנים הקרובות."
+  },
+  {
+    "id": "18754a217ebadce3",
+    "title_original": "Same Field, Same Players, But the Game Has Changed",
+    "url": "https://pentera.io/blog/ai-continuous-security-validation-defender-advantage/",
+    "description": "Frontier AI models are now a commodity, available to attackers and defenders alike. The real edge isn't the model. It's context, and only one side of this fight has it.The postSame Field, Same Players, But the Game Has Changedappeared first onPentera.",
+    "source_name": "Pentera Blog",
+    "source_url": "https://pentera.io/blog",
+    "category": "cyber",
+    "published": "2026-06-25T05:35:06+00:00",
+    "fetched_at": "2026-06-25T07:51:23.117962+00:00",
+    "sources": [
+      {
+        "name": "Pentera Blog",
+        "url": "https://pentera.io/blog/ai-continuous-security-validation-defender-advantage/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Same Field, Same Players, But the Game Has Changed",
+    "summary_he": "The cyber landscape is evolving rapidly, with AI models becoming increasingly accessible to both attackers and defenders. However, the real edge in this fight lies not in the models themselves, but in the context and knowledge that defenders possess.",
+    "details_he": "The use of AI models in attacks has made traditional security practices and penetration testing obsolete, as the time-to-exploit is shrinking and the ability to chain vulnerabilities is becoming more sophisticated. Attackers are also sharing knowledge and tools, making it easier for them to launch complex attacks. In contrast, defenders are struggling to keep up with the pace of attacks, burdened by alert fatigue and the inability to determine whether they are vulnerable to the latest threats. To level the playing field, Pentera is shifting the advantage to defenders through the use of frontier LLM models, continuous validation, and the importance of context and knowledge."
+  },
+  {
+    "id": "17a0c90293795f44",
+    "title_original": "From Prompt Testing to AI Red Teaming at Enterprise Scale",
+    "url": "https://blog.checkpoint.com/ai-security/from-prompt-testing-to-ai-red-teaming-at-enterprise-scale/",
+    "description": "Anyone can try to break a chatbot.  That is part of what makes AI red teaming feel accessible. Open a model, write a strange prompt, ask for something the system should refuse, reframe the request, and see what happens. Sometimes the result is funny. Sometimes it is useful. Sometimes it is a little alarming.  As a starting point, that kind of testing has value.  It is not enough for enterprise AI.  Enterprise AI systems are not chat windows sitting politely in isolation. They include policies, retrieval pipelines, APIs, tools, permissions, workflows, data sources, business logic, and changing models. They run inside customer-facing […]The postFrom Prompt Testing to AI Red Teaming at Enterprise Scaleappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-06-24T18:59:22+00:00",
+    "fetched_at": "2026-06-25T07:51:27.833166+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/from-prompt-testing-to-ai-red-teaming-at-enterprise-scale/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Prompt Testing to AI Red Teaming at Enterprise Scale",
+    "summary_he": "Enterprise AI systems require a more comprehensive approach to red teaming, moving beyond simple prompt testing to consider the entire system and its complexities.",
+    "details_he": "The shift in AI red teaming is from testing individual systems to testing the entire system as it runs, finding attack paths that create real risk and proving they are closed after every change. This is a significant challenge due to the scale and depth of enterprise AI systems, with hundreds of systems, model updates, and changes across the business. The 2026 Cloud Security Report found that 64% of organizations have AI agents in pilot or production, making AI risk a production problem spreading across teams and platforms. Human expertise remains essential, but human-only testing cannot keep up with the pace of AI development, requiring a more automated approach to red teaming."
+  },
+  {
+    "id": "a6e93dfd8da242d4",
+    "title_original": "CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/",
+    "description": "Learn how CNAPP platforms are helping organizations prioritize exploitable risks, reduce exposure, and operationalize security across the application lifecycle.The postCNAPP evolution: How Microsoft aligns with leading cloud risk management platformsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-24T18:00:00+00:00",
+    "fetched_at": "2026-06-25T07:51:14.426190+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms",
+    "summary_he": "Microsoft נוקטת צעדים להתאמה עם פלטפורמות ניהול סיכוני ענן מובילות, כדי לאפשר לארגונים להעדיף סיכונים ניתנים להתקפה, להפחית חשיפה ולהפעיל את הביטחון לאורך החיים של האפליקציה.",
+    "details_he": "CNAPP (Cloud-Native Application Protection Platform) פלטפורמות עוזרות לארגונים לדרג ולהעדיף סיכונים, להפחית חשיפה ולהפעיל את הביטחון. Microsoft נוקטת צעדים להתאמה עם פלטפורמות ניהול סיכוני ענן מובילות, כדי לאפשר לארגונים להעדיף סיכונים ניתנים להתקפה. זאת כדי לאפשיר את הביטחון ולהפחית חשיפה על ידי פעולה אפקטיבית."
+  },
+  {
+    "id": "a10f0ccb8cfd9e35",
+    "title_original": "AI Has Moved From Assistance to Action. Is Your Security Model Ready?",
+    "url": "https://blog.checkpoint.com/ai-security/ai-has-moved-from-assistance-to-action-is-your-security-model-ready/",
+    "description": "There is a quiet shift happening inside enterprise AI adoption.  AI is no longer just something employees ask for help. It is becoming something the business asks to do work. Employees use public AI tools. Developers build with model providers. Business units adopt copilots. Internal teams embed AI into customer-facing applications. Agents retrieve data, call APIs, invoke tools, and take steps across workflows.  That is a very different security problem.  For a while, AI security could be treated mostly as a data governance conversation. What can employees paste into a prompt? Which tools are approved? Which models are allowed? All […]The postAI Has Moved From Assistance to Action. Is Your Security Model Ready?appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-24T12:55:37+00:00",
+    "fetched_at": "2026-06-25T07:51:27.833166+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/ai-has-moved-from-assistance-to-action-is-your-security-model-ready/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Has Moved From Assistance to Action. Is Your Security Model Ready?",
+    "summary_he": "בעולם העסקי, AI כבר אינו רק כלי שטוען לעזרה, אלא גם כלי שמבצע פעולות. זה יוצר חידוש בבעיית הביטחון.",
+    "details_he": "בעולם העסקי, AI כבר אינו רק כלי שטוען לעזרה, אלא גם כלי שמבצע פעולות. זה יוצר חידוש בבעיית הביטחון. על פי דו\"ח Check Point 2026 Cloud Security Report, 77% מהארגונים שינו את סטרטגיית הביטחון שלהם בעקבות AI, אך רק 26% אמרו שהם ישנו את הארכיטקטור שלהם לקיים אותה. הפער הזה הוא הסיפור. AI כבר אינו נשאר בתוך קבוצת עובדים, פלטפורמה או מכשיר גבולי. הוא נפוץ בכלי עבודה, אפליקציות AI, שירותי SaaS, סביבות ענן, API של דגמים ואג'נטים עצמאיים. מנהלי ביטחון נשאלים להשגיח על דבר שמתפשט באופן זה, כמו מים הנמצאים בדרך הנמוכה. הם זורמים בתעלות המאושרות תחילה, ואז הם מוצאים את הפקקים."
+  },
+  {
+    "id": "767f7db0a584b215",
+    "title_original": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/",
+    "description": "On June 24, 2026, Microsoft’s Digital Crimes Unit (DCU) facilitated the takedown, suspension, and blocking of domains that formed the backbone of the StealC and Amadey infrastructure. This blog is a technical breakdown of StealC and Amadey.The postStealC and Amadey: Breaking down infostealers and the cybercrime services that deliver themappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-24T12:30:00+00:00",
+    "fetched_at": "2026-06-25T07:51:14.426190+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
+    "summary_he": "Microsoft Threat Intelligence חשף את תכונות ה-Gentlemen ransomware, תוכנת גניבה שלאחריות חברי Storm-2697, שמשתמשת בטכניקות תקיפה אגרסיביות כדי להתפשט על פני רשת.",
+    "details_he": "The Gentlemen ransomware, שבנויה על Go, נמצאה להיות תוכנת גניבה רב-תכליתית שמשתמשת באפשרויות גניבה שונות. היא משתמשת בטכניקות של תקיפה רב-עקבה, כדי להתפשט על פני רשת. ה-Gentlemen ransomware נחשבת לאחת התוכנות הגניבות האגרסיביות ביותר שנמצאו עד כה."
+  }
+]
