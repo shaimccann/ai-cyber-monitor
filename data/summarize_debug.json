@@ -1,10 +1,23 @@
 {
-  "timestamp": "2026-06-25T07:51:38.577764+00:00",
-  "errors": [],
+  "timestamp": "2026-06-26T07:59:12.412731+00:00",
+  "errors": [
+    {
+      "title": "Prevention Before the Inbox: Reading the Microsoft Defender Benchmark Report in ",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 1471)",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "ClickFix: The Attack That Turns Users Into Their Own Attackers",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 922)",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 10,
-  "fallback": 0,
-  "total_scanned": 104,
+  "success": 8,
+  "fallback": 2,
+  "total_scanned": 101,
   "selected": 10
 }

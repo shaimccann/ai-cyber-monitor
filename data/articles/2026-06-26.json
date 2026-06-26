@@ -1,0 +1,212 @@
+[
+  {
+    "id": "64d6a5d04d1e7fab",
+    "title_original": "Run a vLLM Server on HF Jobs in One Command",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-26T00:00:00+00:00",
+    "fetched_at": "2026-06-26T07:58:41.751674+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vllm-jobs"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Run a vLLM Server on HF Jobs in One Command",
+    "summary_he": "אפשר להפעיל שרת vLLM פרטי על ידי Hugging Face בפקודה אחת, ללא צורך בהקמת שרתים או Kubernetes, ולשלם רק על השעה.",
+    "details_he": "השרת יכול להיות הפעל באמצעות פקודה `hf jobs run` ומשתמשים בדיסק `vllm/vllm-openai` עם GPU. הפקודה תציג את ה-URL שבו השרת ניתן להגיע אליו. אפשר לבצע שאילתות על השרת באמצעות `curl` או `OpenAI` עם טוקן HF. השרת יכול לשמש לבדיקות, עריכה או יצירת תוכן בקנה מידה."
+  },
+  {
+    "id": "0a381408f01387aa",
+    "title_original": "Which tokens does a hybrid model predict better?",
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-25T16:11:42+00:00",
+    "fetched_at": "2026-06-26T07:58:41.751674+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Which tokens does a hybrid model predict better?",
+    "summary_he": "חקירה חדשה של Olmo Hybrid, חלק ממערכת הלמידה Olmo, חשף כי חלק מהטוקן (יחידות מידע) שהיא משגיחה, היא חזקה יותר ממודל ה-Transformer, בעוד אחרים הם חלשים יותר.",
+    "details_he": "במאמר חדש, Olmo Hybrid, חלק ממערכת הלמידה Olmo, הושוותה למודל ה-Transformer החזק Olmo 3. התוצאות הראו כי Olmo Hybrid חזקה יותר בעיקר על טוקנים שמשמרים משמעות, כגון שמות, פעלים ותווים, וטוקנים שקשה לזהותם ללא עקיבה, כגון כינויים. אולם, Olmo Hybrid חלשה יותר על טוקנים שמשמרים רק פרטים שכבר נמצאו בקלט. התוצאות מעלות כי המודל ה-Transformer חזק יותר בעיקר כאשר צריך לזכור טוקן מוקדם שהופיע רחוק מאחוריו. "
+  },
+  {
+    "id": "46f1e732fe2dfba1",
+    "title_original": "Our latest Google Finance upgrades, including a new app",
+    "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+    "description": "The Google Finance logo, surrounded by elements of the user interface",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-06-25T16:00:00+00:00",
+    "fetched_at": "2026-06-26T07:58:40.924927+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Our latest Google Finance upgrades, including a new app",
+    "summary_he": "Google Finance הציגה עדכונים חדשים, בהם אפליקציה חדשה, כדי לאפשר למשתמשים לעקוב אחר פורטפוליו ולהישאר מודעים למידע על השוק. העדכונים כוללים טרקינג של פורטפוליו, ניתוח פיננסי, ומערכת תרחישים.",
+    "details_he": "Google Finance הציגה עדכונים חדשים, כולל אפליקציה חדשה, לאפשר למשתמשים לעקוב אחר פורטפוליו ולהישאר מודעים למידע על השוק. העדכונים כוללים טרקינג של פורטפוליו, ניתוח פיננסי, ומערכת תרחישים. המשתמשים יכולים לעקוב אחר פורטפוליו שלהם בדפדפן, וגם להגדיר פורטפוליו חדש על ידי צילום סקרין שותף או על ידי עלייה לקבצים. המערכת תרחישים תאפשר למשתמשים לקבל תרחישים על פי תוכניותיהם, כגון תרחישים יומיים או שבועיים."
+  },
+  {
+    "id": "a584da926d53dac8",
+    "title_original": "Understanding the brain with AI-driven explanations and experiments",
+    "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "description": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.The postUnderstanding the brain with AI-driven explanations and experimentsappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-06-25T16:00:00+00:00",
+    "fetched_at": "2026-06-26T07:58:41.220160+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Understanding the brain with AI-driven explanations and experiments",
+    "summary_he": "חוקרים פיתחו תכונה חדשה שמאפשרת להסביר ולבדוק תאוריות על פעילות המוח, כאשר הם משתמשים בדגימות של סיפורים שנכתבו על ידי מודלי LLM.",
+    "details_he": "התכונה, הקרויה GCT, מסבירה את הפעילות של כל חלק של המוח, ואז מבדוקה את התאוריות שלה. החוקרים השתמשו ב-GCT כדי לאשש תאוריות ידועות ולגלות חלקים קטנים של המוח שמותאמים למושגים ספציפיים. GCT יכולה לסייע לחוקרים להבין טוב יותר את המוח ואת הדרכים שבהן הוא עושה חישובים."
+  },
+  {
+    "id": "99b17ff90ccfc9a8",
+    "title_original": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
+    "description": "Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Elliot: The Millennium Tales. They lead the […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-25T13:00:34+00:00",
+    "fetched_at": "2026-06-26T07:58:42.040632+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+    "summary_he": "GeForce NOW and Steam Summer Sale are teaming up to bring gamers double the deals and more flexibility to enjoy their favorite games. This week's GFN Thursday features discounts on GeForce NOW memberships and new games joining the GeForce NOW library.",
+    "details_he": "The Steam Summer Sale is offering discounts across thousands of PC games, while GeForce NOW is providing the flexibility to stream these games across various devices without the need for downloads or storage. The partnership between GeForce NOW and Steam allows gamers to enjoy their games on devices they already own, without the hassle of managing storage or needing pricey hardware upgrades. GeForce NOW members can also take advantage of discounts on their memberships, with $70 off a 12-month Ultimate membership or $35 off a 12-month Performance membership."
+  },
+  {
+    "id": "400f044b3c86bb7c",
+    "title_original": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/",
+    "description": "Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection.The postPhoto ZIP campaign targeting hospitality industry delivers Node.js implant for persistent accessappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-25T22:30:29+00:00",
+    "fetched_at": "2026-06-26T07:58:46.424683+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
+    "summary_he": "Microsoft Threat Intelligence זיהתה קמפיין פריצה רב-שלבי פעיל, המטרה על תאגידי הארוחה והלוג'יסטיקה באירופה ובאסיה. הקמפיין משתמש בארכיבי ZIP עם תמונות וקבצי קיצור תמונה כדי להעביר תוכנית Node.js קבועה ולהתחמק מדטקטור.",
+    "details_he": "הקמפיין, שזוהה על ידי Microsoft Threat Intelligence, משתמש בארכיבי ZIP עם תמונות וקבצי קיצור תמונה כדי להעביר תוכנית Node.js קבועה. התוכנית, המכונה Node.js implant, נועדה לאפשר גישה קבועה למערכות המטרה. הקמפיין מטרה על תאגידי הארוחה והלוג'יסטיקה באירופה ובאסיה."
+  },
+  {
+    "id": "518dc92cff4be280",
+    "title_original": "CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure",
+    "url": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/",
+    "description": "Government entities and critical infrastructure were targeted for espionage in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor.The postCL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructureappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-25T22:00:52+00:00",
+    "fetched_at": "2026-06-26T07:58:48.337305+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure",
+    "summary_he": "במהלך 2025, חברת חקירות הסכנות זיהתה פעילות של פורצי סייבר שמטרתם הייתה גופים ממשלתיים ובסיסי תשתית קריטיים בדרום-מזרח אסיה. הפורצים, שמכונים CL-STA-1062, היו פעילים לפחות מאז מרץ 2022.",
+    "details_he": "הפורצים CL-STA-1062 השתמשו בכלי תוכנה משולב, כולל כלי פתוח-מקור כמו SoftEther VPN, Mimikatz ו-VNT, וכן TinyRCT, דלתא-אחורי מותאם אישית שלא תועד מעולם. TinyRCT כולל יכולות של תקיפה של מפקדים, העברת קובצים, והקלטת מסך. הפורצים CL-STA-1062 היו פעילים במספר פעולות במזרח אסיה, וזיהוי זה עשוי להיות הפעילות האותה זיהתה Cisco Talos כ-UAT-7237. "
+  },
+  {
+    "id": "f266344d9767564e",
+    "title_original": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/",
+    "description": "Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.The postMicrosoft a Leader in The Forrester Wave™ for Endpoint Management Platformsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-25T16:00:00+00:00",
+    "fetched_at": "2026-06-26T07:58:46.424683+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
+    "summary_he": "Microsoft זכתה לתואר 'מנהיג' בדו\"ח Forrester Wave™ לתכנון פלטפורמות ניהול סיוע סיירת, עם ציונים הגבוהים ביותר בקטגוריות ההצעה הנוכחית והאסטרטגיה.",
+    "details_he": "Microsoft קיבלה את תואר 'מנהיג' בדו\"ח Forrester Wave™, עם ציונים הגבוהים ביותר בקטגוריות ההצעה הנוכחית והאסטרטגיה. זהו תואר כבוד שמוענק על ידי Forrester, חברה המציעה דו\"חות ומחקרים בתחומי הטכנולוגיה. Microsoft זכתה לתואר זה עקב יכולותיה החזקות בתכנון פלטפורמות ניהול סיוע סיירת."
+  },
+  {
+    "id": "c7f14b2961710194",
+    "title_original": "Prevention Before the Inbox: Reading the Microsoft Defender Benchmark Report in Context",
+    "url": "https://blog.checkpoint.com/securing-user-and-access/prevention-before-the-inbox-reading-the-microsoft-defender-benchmark-report-in-context/",
+    "description": "Check Point Email Security is built to stop threats before they reach the mailbox. It works inline and pre-delivery: it hooks into Microsoft 365 mail flow through transport rules and the API, holds and analyzes each message in real time, and quarantines malicious mail before it is delivered. The malicious message never lands. By design, Check Point Email Security calls the Microsoft Graph API sparingly. Because the goal of email protection should happen before delivery, ideally leaving little left to act on post delivery. Check Point Email Security deploys without an MX record change, so the MX records stays pointed […]The postPrevention Before the Inbox: Reading the Microsoft Defender Benchmark Report in Contextappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-25T13:01:54+00:00",
+    "fetched_at": "2026-06-26T07:59:01.469387+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/securing-user-and-access/prevention-before-the-inbox-reading-the-microsoft-defender-benchmark-report-in-context/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Prevention Before the Inbox: Reading the Microsoft Defender Benchmark Report in Context",
+    "summary_he": "Check Point Email Security is built to stop threats before they reach the mailbox. It works inline and pre-delivery: it hooks into Microsoft 365 mail flow through transport rules and the API, holds and analyzes each message in real time, and quarantines malicious mail before it is delivered. The malicious message never lands. By design, Check Point Email Security calls the Microsoft Graph API sparingly. Because the goal of email protection should happen before delivery, ideally leaving little left to act on post delivery. Check Point Email Security deploys without an MX record change, so the MX records stays pointed […]The postPrevention Before the Inbox: Reading the Microsoft Defender Benchmark Report in Contextappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "53b635dd555c2b35",
+    "title_original": "ClickFix: The Attack That Turns Users Into Their Own Attackers",
+    "url": "https://blog.checkpoint.com/securing-user-and-access/clickfix-the-attack-that-turns-users-into-their-own-attackers/",
+    "description": "ClickFix has quickly become one of the most prevalent social engineering techniques on the web. The attack flips a familiar security assumption on its head: instead of slipping a malicious file past endpoint defenses, the attacker convinces the victim to run the payload themselves. No exploit. No malicious attachment. Just a user, a clipboard, and a convincing prompt. To address this growing threat, the ThreatCloud AI team built a new detection engine, now integrated into Check Point’s Gateways (Zero-Phishing Blade), Email Security and Browse Security. The ClickFix Threat ClickFix attacks open with a familiar-looking prompt, a fake CAPTCHA, a Cloudflare […]The postClickFix: The Attack That Turns Users Into Their Own Attackersappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-25T13:00:22+00:00",
+    "fetched_at": "2026-06-26T07:59:01.469387+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/securing-user-and-access/clickfix-the-attack-that-turns-users-into-their-own-attackers/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ClickFix: The Attack That Turns Users Into Their Own Attackers",
+    "summary_he": "ClickFix has quickly become one of the most prevalent social engineering techniques on the web. The attack flips a familiar security assumption on its head: instead of slipping a malicious file past endpoint defenses, the attacker convinces the victim to run the payload themselves. No exploit. No malicious attachment. Just a user, a clipboard, and a convincing prompt. To address this growing threat, the ThreatCloud AI team built a new detection engine, now integrated into Check Point’s Gateways (Zero-Phishing Blade), Email Security and Browse Security. The ClickFix Threat ClickFix attacks open with a familiar-looking prompt, a fake CAPTCHA, a Cloudflare […]The postClickFix: The Attack That Turns Users Into Their Own Attackersappeared first onCheck Point Blog.",
+    "details_he": ""
+  }
+]
