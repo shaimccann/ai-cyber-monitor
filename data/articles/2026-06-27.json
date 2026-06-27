@@ -1,0 +1,212 @@
+[
+  {
+    "id": "2afcc9167390afd1",
+    "title_original": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-06-26T10:00:00+00:00",
+    "fetched_at": "2026-06-27T07:22:14.404949+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary_he": "A new AI model, GPT-5.6 Sol, is being previewed as a next-generation model, but the article's content is unclear due to the provided image.",
+    "details_he": "The article appears to be discussing a new AI model, but the text is represented by a series of numbers and symbols, making it difficult to understand the specifics of the model or its features. The image does not provide any clear information about the model's capabilities or what sets it apart from previous versions. Without more context or a clear description of the model, it is challenging to assess its potential impact or significance in the field of AI."
+  },
+  {
+    "id": "e637bf54d10c0102",
+    "title_original": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-06-27T01:01:37+00:00",
+    "fetched_at": "2026-06-27T07:22:18.032600+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "summary_he": "The Trump administration has partially lifted its ban on Anthropic's powerful cybersecurity models, Mythos 5 and Fable 5, allowing over 100 US companies and agencies to access them, including non-American employees.",
+    "details_he": "The ban was imposed two weeks ago, but the administration has now determined that appropriate safeguards are in place to permit certain trusted partners to access the Claude Mythos 5 Model. This decision was made after Anthropic worked closely with the US government to restore access to the models. The administration did not address the release of Fable 5 in this directive, leaving its status unclear. Anthropic has publicly acknowledged the progress and is continuing to work with the government to expand access to the models."
+  },
+  {
+    "id": "c986d770de794cf1",
+    "title_original": "South Korea plans to train entire military as \"drone warriors\"",
+    "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+    "description": "Half-million strong military will train on drones as “universal combat tool.”",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-06-26T22:19:05+00:00",
+    "fetched_at": "2026-06-27T07:22:17.801973+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "South Korea plans to train entire military as \"drone warriors\"",
+    "summary_he": "דרונים יהיו כלי הלחימה האוניברסלי של צבא קוריאה הדרומית, כך הודיע ראש המטה הכללי, ומטרתו היא להפוך אותם לנשק שני של כל חייל. יעד זה נועד לשפר את יכולת הצבא להתמודד עם צבא קוריאה הצפונית.",
+    "details_he": "צבא קוריאה הדרומית תכנן לאמן את כל 450,000 חייליו להפעיל דרונים, כדי לשפר את יכולת הצבא להתמודד עם צבא קוריאה הצפונית. המטרה היא להפוך דרונים לכלי הלחימה האוניברסלי של הצבא, כך שכל חייל יוכל להפעילם כמו נשק אישי. הצבא תכנן לאמן את כל החיילים להפעיל דרונים, כדי לשפר את יכולת הצבא להתמודד עם צבא קוריאה הצפונית. הצבא תכנן לאמן את כל החיילים להפעיל דרונים, כדי לשפר את יכולת הצבא להתמודד עם צבא קוריאה הצפונית."
+  },
+  {
+    "id": "0df35f8999fd9a2d",
+    "title_original": "v2.1.195",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195",
+    "description": "What's changedAddedCLAUDE_CODE_DISABLE_MOUSE_CLICKSto disable mouse click/drag/hover in fullscreen mode while keeping wheel scrollFixed hook matchers with hyphenated identifiers (e.g.code-reviewer,mcp__brave-search) accidentally substring-matching — they now exact-match. Usemcp__brave-search__.*to match all tools from a hyphenated MCP server.Fixed voice dictation on macOS capturing silence in long-running sessions after the default input device changesFixed voice dictation auto-submit never firing for languages written without spaces (Japanese, Chinese, Thai)Fixed external plugins enabled only by project.claude/settings.jsonnot requiring explicit install consent on every loader pathFixed/pluginEnable/Disable not working when a plugin'splugin.jsonnamediffers from its marketplace entry nameFixed background jobs disappearing fromclaude agentsor losing data when written by a newer Claude Code versionFixed reopening a crashed background task showing a blank screen for up to 5 seconds instea",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-06-26T21:29:42+00:00",
+    "fetched_at": "2026-06-27T07:22:37.091476+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.195",
+    "summary_he": "A recent update to the Claude Code, version v2.1.195, has addressed several issues and improved functionality. The update includes fixes for voice dictation, background jobs, and plugin management. Additionally, it enhances the user experience on Linux and improves the remote session startup process.",
+    "details_he": "The update, released by ashwin-ant on June 26, 2021, at 21:29, includes a total of 10 fixes and improvements. One of the notable changes is the addition of a new feature to disable mouse click/drag/hover in fullscreen mode while keeping wheel scroll. The update also addresses issues with hook matchers, voice dictation, and external plugins. Furthermore, it improves the voice mode on Linux, allowing it to distinguish between the absence of a microphone and the lack of SoX installation. The update also enhances the user interface, including the completed list in claude agents and the remote session startup process. Overall, the update aims to provide a more stable and user-friendly experience for users of the Claude Code."
+  },
+  {
+    "id": "1e0bdf3e513e9156",
+    "title_original": "Anthropic&#8217;s Mythos 5 is back",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+    "description": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-06-26T20:33:44-04:00",
+    "fetched_at": "2026-06-27T07:22:17.727322+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anthropic&#8217;s Mythos 5 is back",
+    "summary_he": "Anthropic's Mythos 5 model has been reinstated for a select group of users after a two-week negotiation process with the Trump administration. However, the public-facing Fable 5 model remains unavailable. The US government has made an exception for Mythos 5, allowing certain organizations and non-US national employees to access the model.",
+    "details_he": "The US government's letter to Anthropic states that the company has worked with the government to address risks associated with Mythos 5 and Fable 5. As a result, the government has revised the license requirements for Mythos 5, allowing a select group of organizations to access the model. Anthropic's spokesperson confirmed that the company is working to provision the approved organizations and restore their access to Mythos 5. The US government has not lifted the export control directive, but has made an exception for Mythos 5, similar to the exception made for OpenAI's GPT-5.6. Anthropic has committed to working with the US government on protocols and standards for Mythos-class models."
+  },
+  {
+    "id": "9772dc7cdd24193a",
+    "title_original": "Threat Brief: Mitigating Large-Scale Credential Attacks",
+    "url": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
+    "description": "We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices.The postThreat Brief: Mitigating Large-Scale Credential Attacksappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-06-26T19:05:33+00:00",
+    "fetched_at": "2026-06-27T07:22:22.965264+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Mitigating Large-Scale Credential Attacks",
+    "summary_he": "בעקבות חשש לפגיעה באבטחת רשתות, חברת Palo Alto Networks הוציאה הודעה לקהל הלקוחות שלה, על פעילות של פורצי סייבר שמנסים לגנוב זהויות וסיסמאות. הפורצים ניסו לגשת למכשירים של Fortinet, Sophos ו-MSSQL.",
+    "details_he": "הפורצים משתמשים בשיטת תקיפה רב-שלבית, שבה הם ניסו לגשת למכשירים של Fortinet, Sophos ו-MSSQL. הם עשו זאת על ידי סריקה רחבה של האינטרנט וניסיונות לספריית סיסמאות. הם גם ניסו להשיג גישה למכשירים על ידי פריצה לסיסמאות. הפורצים גם ניסו לגשת למכשירים של Sophos, והם גם ניסו לגשת למכשירים של MSSQL. הפורצים גם ניסו לגשת למכשירים של Palo Alto Networks, אך הם לא צלחו. הפורצים גם ניסו לגשת למכשירים של Unit 42, אך הם לא צלחו."
+  },
+  {
+    "id": "42f77807747f7722",
+    "title_original": "90% of the World’s Businesses are SMEs and MSMEs and AI Is Reshaping Both Their Future and Their Risk",
+    "url": "https://blog.checkpoint.com/security/90-of-the-worlds-businesses-are-smes-and-msmes-and-ai-is-reshaping-both-their-future-and-their-risk/",
+    "description": "Every year on June 27, the world marks the United Nations International Day for Micro, Small and Medium-sized Enterprises (MSME Day). This year’s theme — “The Future Generation of MSMEs: An AI-Driven Future” — could not be more timely, because what I’m seeing on the ground is a story very different from the one we usually tell ourselves about how technology spreads.  We tell ourselves a tidy story about how technology spreads. The big enterprise goes first. Pilot projects, a steering committee, a budget line. Everyone else catches up a few years later, once it’s safe. The internet spread roughly […]The post90% of the World’s Businesses are SMEs and MSMEs and AI Is Reshaping Both Their Future and Their Riskappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-06-26T13:00:34+00:00",
+    "fetched_at": "2026-06-27T07:22:33.275061+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/90-of-the-worlds-businesses-are-smes-and-msmes-and-ai-is-reshaping-both-their-future-and-their-risk/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "90% of the World’s Businesses are SMEs and MSMEs and AI Is Reshaping Both Their Future and Their Risk",
+    "summary_he": "ביום הבינלאומי למעבדות קטנות, חברות בינוניות וממוצעות, העולם חוגג את הפעם ה-10 של יום זה. נכון, 90% מהעסקים בעולם הם חברות קטנות, והן יוצרות 70% מהתעסוקה. עם זאת, הפעם הזאת, העולם חוגג את התפתחות האי, שמשנה את העולם שלהם.",
+    "details_he": "ביום הבינלאומי למעבדות קטנות, חברות בינוניות וממוצעות, העולם חוגג את הפעם ה-10 של יום זה. נכון, 90% מהעסקים בעולם הם חברות קטנות, והן יוצרות 70% מהתעסוקה. עם זאת, הפעם הזאת, העולם חוגג את התפתחות האי, שמשנה את העולם שלהם. נכון, 90% מהעסקים בעולם הם חברות קטנות, והן יוצרות 70% מהתעסוקה. האי, שמשנה את העולם שלהם. נכון, 90% מהעסקים בעולם הם חברות קטנות, והן יוצרות 70% מהתעסוקה. האי, שמשנה את העולם שלהם. נכון, 90% מהעסקים בעולם הם חברות קטנות, והן יוצרות 70% מהתעסוקה. האי, שמשנה את העולם שלהם."
+  },
+  {
+    "id": "d4980f74db7d56a9",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 26",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-26-7/",
+    "description": "Operation Endgame takes down Amadey and StealC servers, macOS.Gaslight floods AI triage with fake errors, and attackers exploit Cisco flaws for root access.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-06-26T13:00:00+00:00",
+    "fetched_at": "2026-06-27T07:22:24.473997+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-26-7/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 26",
+    "summary_he": "בשבוע האחרון, הרשויות הבינלאומיות הצליחו להשמיד רשתות מלוואר ולהשיג פלטפורמות של קמבודיה לפשיטת כיסוי. זהו חלק מהפעולה 'Endgame' של Europol, שבמסגרתה הושמדו 326 סרברים ו-142 תחומי-מחשב-מסוכן. נכבדה גם החזרת כ-27 מיליון תווי-זהות-מסוכן והזיהוי של כ-$47 מיליון בקריפטוגרפיה שהיו קשורים לפעילויות-בלתי-חוקי.",
+    "details_he": "הפעולה הבינלאומית, שבה השתתפו Europol ושותפים-פרטיים, הצליחה להשמיד רשתות-מלוואר של Amadey ו-StealC. זהו חלק מהפעולה 'Endgame' של Europol, שבמסגרתה הושמדו 326 סרברים ו-142 תחומי-מחשב-מסוכן. נכבדה גם החזרת כ-27 מיליון תווי-זהות-מסוכן והזיהוי של כ-$47 מיליון בקריפטוגרפיה שהיו קשורים לפעילויות-בלתי-חוקי. זהו חלק מהפעולה 'Endgame' של Europol, שבמסגרתה הושמדו 326 סרברים ו-142 תחומי-מחשב-מסוכן. נכבדה גם החזרת כ-27 מיליון תווי-זהות-מסוכן והזיהוי של כ-$47 מיליון בקריפטוגרפיה שהיו קשורים לפעילויות-בלתי-חוקי."
+  },
+  {
+    "id": "143a835033825abd",
+    "title_original": "MCP Auto-Execution: From Git Clone to Cloud Compromise in Amazon Q VS Code Extension",
+    "url": "https://www.wiz.io/blog/amazon-q-vulnerability",
+    "description": "By automatically loading MCP servers from workspace files, Amazon Q enabled attackers to execute code and access sensitive cloud environments.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-06-26T12:00:01+00:00",
+    "fetched_at": "2026-06-27T07:22:25.107822+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/amazon-q-vulnerability"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "MCP Auto-Execution: From Git Clone to Cloud Compromise in Amazon Q VS Code Extension",
+    "summary_he": "חברת Amazon חשפה פגם בבטיחות באפליקציית Amazon Q Developer Extension ל-Visual Studio Code, שאפשרה לפוצץ קוד זדוני ולגנוב זהויות לאינטרנט רק על ידי פתיחת רפוזיטוריום זדוני.",
+    "details_he": "הפגם, שנקרא CVE-2026-12957, התגלה על ידי Wiz Research ואפשר לפוצץ קוד זדוני ולגנוב זהויות לאינטרנט. הפגם נגרם כי האפליקציה Amazon Q טענה את ההגדרות של MCP (Model Context Protocol) מקובצי עבודה ללא רשות המשתמש. זה, בשילוב עם ירושה שלם של הסביבה, הציב את הפוצץ קוד זדוני בפני המשתמש. Amazon תיקנה את הבעיה בגירסה 1.65.0 של האפליקציה. הפגם הוא חלק של תופעה רחבה של כלי קוד זדוני, שגם חברות אחרות גילו."
+  },
+  {
+    "id": "6f92e064fce052dd",
+    "title_original": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+    "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+    "description": "The FBI and CISA have updated their March warning about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key.\n\nHand it over once, and the attacker can restore the account's backup, read the private and group message history, and take over the account. Worse, the key keeps working.",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-06-27T01:08:29+05:30",
+    "fetched_at": "2026-06-27T07:22:19.038248+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+    "summary_he": "ה-FBI הורידה התרעה חדשה נגד פעילות רוסית של חבלנים של הרשויות הביטחוניות של רוסיה, שמטרתם לגנוב סימני זיהוי חיצוניים של חברי Signal.",
+    "details_he": "ה-FBI ו-CISA עדכנו את התרעתם ממרץ, והפעילים הוסיפו צעד: הם כעת מגרים את הקורבנות להעביר את הסימן החיצוני של החידוש שלהם. כשהקורבן יעביר את הסימן, הפורץ יוכל להחזיר את החידוש, לקרוא את ההיסטוריה הפרטית והקבוצתית של הודעות, ולהשתלט על החשבון. עוד יותר, הסימן ימשיך לעבוד. כשהקורבן יפתח חשבון חדש על אותו הטלפון, הסימן הישן יכול עדיין להיות שימושי נגדו, כפי שמודיעה התרעה. הפתרון הוא פשוט: יצירת סימן חדש באתר ההגדרות, שיהרוג את הסימן הישן לצורך חידושי עתידיים, וקבלה על כך שכל מה שהפורץ כבר גנב, יאבד."
+  }
+]
