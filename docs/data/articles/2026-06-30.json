@@ -1,0 +1,212 @@
+[
+  {
+    "id": "d66e08c8fffa3ee6",
+    "title_original": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "description": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-06-30T06:00:00+00:00",
+    "fetched_at": "2026-06-30T07:58:07.818219+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "summary_he": "חברת Google פרסמה תוצאות מחקר שקבעו כי 15% מהעובדים בבריטניה הם 'טריילבלייזרים' של AI, שהם עובדים מתקדמים שמשתמשים ב- AI לצורך קידום קריירה והגדלת התפוקה.",
+    "details_he": "המחקר, שנעשה בשיתוף עם Public First, גילה כי 73% מהעובדים בבריטניה משתמשים ב-AI, כאשר 15% מהם הם 'טריילבלייזרים' של AI. הטריילבלייזרים נמצאו להיות 84% יותר עלולים לקבל הערכה חיובית, 88% יותר עלולים לקבל העלאה, ו-55% יותר עלולים לקבל העלאה בשכר. המחקר גם גילה כי 85% מהעובדים עדיין לא נמצאים בשלבי התחלה בשימוש ב-AI, וכי הטריילבלייזרים יכולים להיות כל עובד, ולא רק עובדים עם ידע טכני רב."
+  },
+  {
+    "id": "20474a406d7a8b8c",
+    "title_original": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+    "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "description": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.The postMemora: A Harmonic Memory Representation Balancing Abstraction and Specificityappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-06-29T21:14:22+00:00",
+    "fetched_at": "2026-06-30T07:58:08.361151+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+    "summary_he": "AI agents are struggling to retain and access information over time, hindering their productivity on long-horizon tasks. A new memory system called Memora addresses this issue by decoupling what is stored from how it is retrieved, allowing agents to scale their capabilities.",
+    "details_he": "Memora is a scalable memory system that increases agent productivity on long-horizon tasks by balancing abstraction and specificity. It sets new state-of-the-art on LoCoMo and LongMemEval benchmarks, outperforming existing systems while using fewer context tokens. Memora's design decouples rich memory content from lightweight retrieval mechanisms, enabling agents to retain fine-grained details and access them efficiently. The system is published in a paper at ICML 2026 and is available on GitHub."
+  },
+  {
+    "id": "60c521cc3dce82ce",
+    "title_original": "DiScoFormer: One transformer for density and score, across distributions",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-29T18:02:48+00:00",
+    "fetched_at": "2026-06-30T07:58:09.344156+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/discoformer"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "DiScoFormer: One transformer for density and score, across distributions",
+    "summary_he": "מדלדלים את הגבולות בין תפקידי הדחיסה והציון, ומציגים פתרון אחד לאחד לאתגר המשותף של חיזוי תפוצה.",
+    "details_he": "המחקר, שפורסם בארכיון arXiv, חושף פתרון חדש לאתגר המשותף של חיזוי תפוצה. DiScoFormer, המודל החדש, מסוגל לחזות תפוצה וציון של תפוצה בצורה יחידה, וללא צורך באימון מחדש. המודל, העושה שימוש בטכנולוגיית תרמופורמר, יכול לחזות תפוצה וציון של תפוצה בצורה יחידה, וללא צורך באימון מחדש. המחקר חושף גם את האתגרים של חיזוי תפוצה, ואת הצורך בפתרון שיכול להתאים לתפוצות שונות."
+  },
+  {
+    "id": "83e697c9096d6514",
+    "title_original": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+    "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+    "description": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise innovation and becomes more autonomous, organizations need access to computing […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-29T17:00:19+00:00",
+    "fetched_at": "2026-06-30T07:58:09.777834+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+    "summary_he": "Anthropic's Claude models are now available on Microsoft Azure, utilizing NVIDIA GB300 Blackwell Ultra GPUs, enabling enterprises to build and deploy powerful autonomous and domain-specific AI agents.",
+    "details_he": "The integration of NVIDIA tools into Anthropic's stack allows enterprises to give Claude agents domain-specific abilities, embedding them deeply into their business. This partnership aims to expand enterprise access to Claude and offer Anthropic models on NVIDIA accelerated computing. The NVIDIA Secure Agent Workspace Reference Design provides a blueprint for running autonomous agents in a governed environment, controlled at the infrastructure level."
+  },
+  {
+    "id": "78f930343f29767a",
+    "title_original": "Ask an AI expert: What exactly is the full stack?",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "description": "An illustration depicting a full-stack AI infrastructure against a dark background",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-06-29T16:00:00+00:00",
+    "fetched_at": "2026-06-30T07:58:07.818219+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Ask an AI expert: What exactly is the full stack?",
+    "summary_he": "Google's full-stack AI approach integrates various layers of technology, including hardware and user interfaces, to create a cohesive system, improving reliability, reducing costs, and simplifying development.",
+    "details_he": "Google expert Richard Seroter explains that the full-stack approach eliminates the need to stitch together disparate parts from multiple vendors, allowing for more efficient development and cost savings. This strategy is the foundation of Google's AI work and enables the company to deliver powerful, cost-efficient products to developers and users alike. Google Cloud offers various tools, such as Google AI Studio, the Gemini Enterprise Platform, and the Antigravity platform, to support full-stack development. By taking a full-stack approach, Google aims to bring helpful AI to billions of people worldwide."
+  },
+  {
+    "id": "48e1988f7212ba05",
+    "title_original": "Chromium extension uses AI‑related branding to redirect browser search",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
+    "description": "A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure.The postChromium extension uses AI‑related branding to redirect browser searchappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-29T16:27:46+00:00",
+    "fetched_at": "2026-06-30T07:58:16.508863+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Chromium extension uses AI‑related branding to redirect browser search",
+    "summary_he": "מתקן זהבראשי של כרומיום משתמש במותגי AI כדי לשלוח טרפיק של חיפוש בראשי של הדפדפן",
+    "details_he": "המתקן המזויף, המבוסס על כרומיום, משתמש ב-APIs של MV3 ובתשתית אמצעית כדי לשלוח את טרפיק החיפוש של הדפדפן. המתקן משתמש במותג Perplexity AI, מנוע העניינים המוביל AI. זהו דוגמה נוספת לסכנות הביטחון של תוספי דפדפן, שיכולים לשלוח טרפיק סודי לאתרים זרים."
+  },
+  {
+    "id": "ff929ae6ff4b8d3c",
+    "title_original": "29th June – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/29th-june-threat-intelligence-report-2/",
+    "description": "For the latest discoveries in cyber research for the week of 29th June, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Polymarket, a large cryptocurrency-based prediction market, has confirmed a supply chain attack after a third-party frontend vendor breach led to malicious JavaScript being injected into its website. Attackers tricked users into approving fraudulent […]The post29th June – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-29T14:06:59+00:00",
+    "fetched_at": "2026-06-30T07:58:20.416666+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/29th-june-threat-intelligence-report-2/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "29th June – Threat Intelligence Report",
+    "summary_he": "Check Point IPS מספקה הגנה נגד תקיפות סייבר, כולל חולשות ב- Ubiquiti UniFi OS ו-Langflow.",
+    "details_he": "ב-29 ביוני, Check Point IPS הכריזה על הגנה נגד חולשות ב- Ubiquiti UniFi OS ו-Langflow. החולשות כוללות תקיפת זכויות גבוהות (CVE-2026-34908), חדירה לתיקיות (CVE-2026-34909), והזרמת פקודות (CVE-2026-34910) ב- Ubiquiti UniFi OS, והזרמת קוד (CVE-2026-33017) ב-Langflow. Check Point IPS מספקת הגנה נגד אלו וחולשות נוספות."
+  },
+  {
+    "id": "4fe6a518dfbad1ee",
+    "title_original": "Bridging the Visibility Gap: A Unified Security Operating Model for Hybrid Cloud Teams",
+    "url": "https://www.wiz.io/blog/sensor-wls-for-on-prem",
+    "description": "Move beyond chasing vulnerabilities to a unified hybrid risk strategy. The Sensor Workload Scanner is now GA and extends our risk prioritization engine to on-premise environments to identify the critical attack paths across your hybrid cloud.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-06-29T13:39:33+00:00",
+    "fetched_at": "2026-06-30T07:58:20.720471+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/sensor-wls-for-on-prem"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bridging the Visibility Gap: A Unified Security Operating Model for Hybrid Cloud Teams",
+    "summary_he": "Wiz הוציאה תוכנה חדשה שמאפשרת לצוותי ביטחון לראות סיכונים בכל הסביבות, כולל אלה המופעלות בענן ואלה שמופעלות במקום",
+    "details_he": "Wiz פרסמה תוכנה חדשה שמאפשרת לצוותי ביטחון לראות סיכונים בכל הסביבות, כולל אלה המופעלות בענן ואלה שמופעלות במקום. התוכנה, Sensor Workload Scanner, מאפשרת לצוותי ביטחון לראות סיכונים בכל הסביבות, כולל אלה המופעלות בענן ואלה שמופעלות במקום. התוכנה מאפשרת לצוותי ביטחון לראות סיכונים בכל הסביבות, כולל אלה המופעלות בענן ואלה שמופעלות במקום. התוכנה גם מאפשרת לצוותי ביטחון לראות סיכונים בכל הסביבות, כולל אלה המופעלות בענן ואלה שמופעלות במקום. התוכנה מאפשרת לצוותי ביטחון לראות סיכונים בכל הסביבות, כולל אלה המופעלות בענן ואלה שמופעלות במקום. התוכנה גם מאפשרת לצוותי ביטחון לראות סיכונים בכל הסביבות, כולל אלה המופעלות בענן ואלה שמופעלות במקום"
+  },
+  {
+    "id": "5819a7db5b55086a",
+    "title_original": "AI Is Changing Cyber Careers. NICE 2026 Showed What Students Need Next",
+    "url": "https://blog.checkpoint.com/services/ai-is-changing-cyber-careers-nice-2026-showed-what-students-need-next/",
+    "description": "The 2026 NICE Conference & Expo in Philadelphia was an inspiring reminder of why cyber security education matters so deeply, and why the work we do through SecureAcademy is so important.  Bringing together educators, government leaders, industry experts, and nonprofit organizations, the conference focused on one of the most urgent challenges facing our industry: building the cyber security workforce of the future. Under the theme “From Foundations to the Future: Transforming the Cyber Security Workforce,” the event created a valuable space to discuss how we prepare students, educators, and institutions for a rapidly changing security landscape.  For me, the conversations at NICE […]The postAI Is Changing Cyber Careers. NICE 2026 Showed What Students Need Nextappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-06-29T12:53:54+00:00",
+    "fetched_at": "2026-06-30T07:58:29.714924+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/services/ai-is-changing-cyber-careers-nice-2026-showed-what-students-need-next/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Is Changing Cyber Careers. NICE 2026 Showed What Students Need Next",
+    "summary_he": "האינטליגנציה המלאכותית (AI) משנה את תפקידי הסייבר. הכנסת NICE 2026 הראתה את הדברים שסטודנטים צריכים ללמוד בעתיד",
+    "details_he": "הכנס NICE 2026, שהתקיים בפילדלפיה, היה הזדמנות חשובה לדון באתגר החשוב של התעשייה הסייבר: יצירת כוח העבודה הסייבר של העתיד. האירוע, שהתקיים תחת הכותרת 'מבסיסים לעתיד: המעבר של כוח העבודה הסייבר', הציע מרחב יקר ערך לדיון על איך להכין את הסטודנטים, המורים והמוסדות לקראת נוף הביטחון הסייבר המשתנה במהירות. האירוע דנה בצורך לחבר את הידע הבסיסי עם הטכנולוגיות המתפתחות, הלמידה הידנית והצורך האמיתי של המעסיקים. האירוע כלל נאומים וסדנאות שעסקו בכיצד להתמודד עם הפער המיימוני במיומנויות ועם האתגרים של העתיד. "
+  },
+  {
+    "id": "3fce6c0294efb042",
+    "title_original": "Did AI kill vulnerability management—or just expose its flaws?",
+    "url": "https://xmcyber.com/news/did-ai-kill-vulnerability-management-or-just-expose-its-flaws/",
+    "description": "The system was already under strain before Mythos arrived on the scene. But regardless of whether Claude Mythos lives up to the hype, our customers...The postDid AI kill vulnerability management—or just expose its flaws?appeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "ai",
+    "published": "2026-06-29T12:12:37+00:00",
+    "fetched_at": "2026-06-30T07:58:29.235564+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/news/did-ai-kill-vulnerability-management-or-just-expose-its-flaws/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Did AI kill vulnerability management—or just expose its flaws?",
+    "summary_he": "The traditional vulnerability management model is struggling to keep up with the increasing number of vulnerabilities discovered by AI-powered tools, leading to a growing blind spot in prioritization and a shrinking exploitation window.",
+    "details_he": "The National Vulnerability Database (NVD) has seen a 263% increase in CVE submissions between 2020 and 2025, with the first three months of 2026 already running nearly one-third higher than the same period last year. The NIST has shifted to a risk-based model, prioritizing only the highest-priority CVEs and moving over 29,000 backlogged CVEs to a 'Not Scheduled' category. Meanwhile, AI-driven vulnerability discovery is accelerating, with forecasts predicting over 50,000 CVEs could be reported in 2026 alone, and research indicating that 61% of exploited vulnerabilities are weaponized within 48 hours of disclosure."
+  }
+]
