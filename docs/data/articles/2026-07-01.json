@@ -1,0 +1,212 @@
+[
+  {
+    "id": "6bd457418ef639c9",
+    "title_original": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-06-30T18:32:50+00:00",
+    "fetched_at": "2026-07-01T08:18:19.180535+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "summary_he": "IBM researchers have developed ScarfBench, a benchmarking tool to evaluate AI agents' ability to migrate enterprise Java applications across different frameworks. The tool assesses not only code translation but also preservation of behavior and adaptation to build systems and runtime dependencies.",
+    "details_he": "ScarfBench focuses on migrations across three major Java ecosystems: Spring, Jakarta EE, and Quarkus. It evaluates whether migrated applications build successfully, deploy correctly, and preserve behavior. The benchmark includes 34 applications, 102 framework implementations, and 204 migration tasks, with a total of approximately 151,000 lines of code. This tool aims to provide a more realistic measure of modernization quality, addressing the challenges of framework migration that go beyond simple code replacement."
+  },
+  {
+    "id": "3a8eb93599fdc87e",
+    "title_original": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+    "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+    "description": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-30T17:00:38+00:00",
+    "fetched_at": "2026-07-01T08:18:19.540943+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+    "summary_he": "NVIDIA BioNeMo Agent Toolkit has been integrated with Claude Science, an AI workbench for life sciences research, allowing scientists to run complex workflows and iterate faster using natural language.",
+    "details_he": "The integration enables scientists to access NVIDIA-accelerated capabilities directly within their workflow, selecting the appropriate tool, preparing inputs and executing the workflow on NVIDIA compute resources. This collaboration brings together the world's largest pharmaceutical companies, 18 of which use NVIDIA BioNeMo, to advance AI-enabled research across various fields. The BioNeMo Agent Toolkit packages NVIDIA-accelerated capabilities as callable skills, allowing Claude Science to connect each step with an appropriate NVIDIA scientific capability, resulting in an iterative loop between scientific reasoning and accelerated computational work."
+  },
+  {
+    "id": "518c6187646e152c",
+    "title_original": "SkillOpt: Agent skills as trainable parameters",
+    "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "description": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights.The postSkillOpt: Agent skills as trainable parametersappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-06-30T16:50:02+00:00",
+    "fetched_at": "2026-07-01T08:18:18.519130+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SkillOpt: Agent skills as trainable parameters",
+    "summary_he": "SkillOpt מאפשרת לשפר את ההתנהגות של סוכני AI ללא שינוי משקלי המודל, על ידי טיפול בקובץ המיומנויות כפרמטר נראה, וכך ליצור תהליך השתלמות.",
+    "details_he": "SkillOpt עובדת על ידי טיפול בקובץ המיומנויות כפרמטר נראה, וכך ליצור תהליך השתלמות. התהליך כולל חמשה שלבים: קביעת רולאוט, קביעת גיליון העדכונים, עדכון הפרמטרים, וקביעת גיליון העדכונים. SkillOpt נבדקה ב-52 תאים של ביקורת, והיא הביצה הטובה ביותר או הטובה ביותר בכל 52 התאים. SkillOpt גם עובדת על ידי שימור קובץ המיומנויות המקוצר, וכך ליצור קובץ מיומנויות קצר וניתן לבדיקה."
+  },
+  {
+    "id": "bb48f06d5f21647a",
+    "title_original": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-06-30T16:02:40+00:00",
+    "fetched_at": "2026-07-01T08:18:17.703523+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "summary_he": "Google DeepMind הציגה שני מודלים חדשים לפיתוח: Nano Banana 2 Lite ו-Gemini Omni Flash. Nano Banana 2 Lite הוא המודל הכי מהיר וזול במשפחת Nano Banana, ו-Gemini Omni Flash הוא מודל לייצור ועריכת וידאו.",
+    "details_he": "Nano Banana 2 Lite הוא המודל החדש של Google DeepMind, המיועד לפיתוח ולהפקת תמונות. הוא ניתן להתקנה ב-Google AI Studio, Gemini API ו-Gemini Enterprise Agent Platform. המודל כולל תכונות כמו תפוקה גבוהה, מהירות וקצב עבודה. Gemini Omni Flash הוא מודל חדש של Google DeepMind, המיועד לייצור ועריכת וידאו. הוא ניתן להתקנה ב-Google AI Studio, Gemini API ו-Gemini Enterprise Agent Platform. המודל כולל תכונות כמו תפוקה גבוהה, מהירות וקצב עבודה. השניים יאפשרו למפתחים לבנות חוויות מדיה מלאות, שיכללו יצירת תמונות, יצירת וידאו ועריכתה."
+  },
+  {
+    "id": "c8711299e6a99f46",
+    "title_original": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+    "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+    "description": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-06-30T15:00:57+00:00",
+    "fetched_at": "2026-07-01T08:18:19.540943+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+    "summary_he": "NVIDIA's inference software stack has revolutionized the way organizations approach AI production, shifting focus from peak chip specifications to cost per token, which measures the number of useful tokens delivered per dollar, per watt, and within required latency targets.",
+    "details_he": "The software stack, codesigned with NVIDIA GPUs, CPUs, networking, and systems, has been strengthened by a broad open source ecosystem. On the NVIDIA Blackwell platform, it has already reduced token costs by up to 5x on the DeepSeek V4 model in just one month. Leading companies and inference providers are already seeing the compounding value of NVIDIA's inference software stack on Blackwell, with some achieving up to 50% more tokens per second. This is due to the software's ability to turn individual optimizations into system-level performance, making it an essential component in achieving lower cost per token."
+  },
+  {
+    "id": "5cefa3cdac9fe868",
+    "title_original": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
+    "url": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/",
+    "description": "Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more.The postPhantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vectorappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-07-01T01:00:11+00:00",
+    "fetched_at": "2026-07-01T08:18:25.706419+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
+    "summary_he": "חוקרי יחידת 42 גילו שדגמי שפה גדולים (LLMs) מתקנים תמיד תחומי אינטרנט למותגים חוקיים. האויבים משתמשים בזה באופן פעיל כדי לרשום את אלו הלא-קיימים, כדי לפצל תעבורה שנוצרה על ידי מערכות AI. תופעה זו, שאנו קראים 'Phantom Squatting', גורם סיכון חשוב למסלול הספקת התוכנה.",
+    "details_he": "חוקרי יחידת 42 חקרו 913 מותגים גלובליים וביצעו 685,339 שאילת URL במגוון ערכות של שני דגמי LLM שונים. זה יצר 2.1 מיליון URL וחשף כ-13,229 URLים מסוכנים. כמו כן, גילו כ-250,000 תחומי אינטרנט שהופיקו על ידי LLMs, אך עדיין לא רשומים. זה יוצר הזדמנות גדולה לאויבים להשתמש במסלול הספקת התוכנה. חברות Palo Alto Networks יכולות להיות מוגנות מ'Phantom Squatting' דרך תוצרים ושירותים הבאים: Advanced WildFire, Advanced URL Filtering, Advanced DNS Security, Prisma AIRS ו-Koi Agentic Endpoint Security."
+  },
+  {
+    "id": "8bcf699dbab08c32",
+    "title_original": "Accelerating the quantum-safe timeline",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/",
+    "description": "We’re accelerating quantum-safe readiness—and sharing what organizations can do now to transition earlier and with confidence.The postAccelerating the quantum-safe timelineappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-30T19:00:00+00:00",
+    "fetched_at": "2026-07-01T08:18:23.806563+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Accelerating the quantum-safe timeline",
+    "summary_he": "Microsoft recently released a series of updates aimed at enhancing security measures for its users, focusing on strengthening identity and multicloud foundations, as well as protecting data across various platforms.",
+    "details_he": "The updates, announced in June 2026, are designed to support security and IT teams in their efforts to safeguard against potential threats. By bolstering identity and multicloud foundations, Microsoft aims to provide a more robust and secure environment for its users. Additionally, the updates prioritize data protection, ensuring that sensitive information remains secure regardless of its location."
+  },
+  {
+    "id": "096c119940201113",
+    "title_original": "Start Secure in the AI Era: Accelerating AI Threat Readiness with WizOS",
+    "url": "https://www.wiz.io/blog/ai-threat-readiness-with-wizos",
+    "description": "As the time from vulnerability discovery to exploitation shrinks, building with minimal, secured components is more important than ever. Here is how WizOS helps.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-06-30T17:50:35+00:00",
+    "fetched_at": "2026-07-01T08:18:27.776186+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/ai-threat-readiness-with-wizos"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Start Secure in the AI Era: Accelerating AI Threat Readiness with WizOS",
+    "summary_he": "בעידן האי, חשיבותה של תגובה מהירה לבקרים גדלה. תגובה של שבועות אינה יעילה, וכך גם תגובה של ימים. חשיבותה של תגובה מהירה גדלה כאשר חברות נאלצות להתמודד עם חבילות קוד שאינן תואמות.",
+    "details_he": "בעידן האי, חברות נאלצות להתמודד עם חבילות קוד שאינן תואמות. חברות אלה נאלצות להתמודד עם חבילות קוד שאינן תואמות, וכך גם עם חבילות קוד שאינן תואמות. חברות אלה נאלצות להתמודד עם חבילות קוד שאינן תואמות, וכך גם עם חבילות קוד שאינן תואמות. חברות אלה נאלצות להתמודד עם חבילות קוד שאינן תואמות, וכך גם עם חבילות קוד שאינן תואמות. WizOS מספק תמונות קונטיינר שאינן תואמות, וכך גם עם חבילות קוד שאינן תואמות. WizOS מספק תמונות קונטיינר שאינן תואמות, וכך גם עם חבילות קוד שאינן תואמות."
+  },
+  {
+    "id": "68ec649d65f79928",
+    "title_original": "​​What’s new in Microsoft Security: June 2026",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
+    "description": "This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation.The post​​What’s new in Microsoft Security: June 2026appeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-30T16:00:00+00:00",
+    "fetched_at": "2026-07-01T08:18:23.806563+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "​​What’s new in Microsoft Security: June 2026",
+    "summary_he": "Microsoft Security released updates in June 2026 to enhance identity and multicloud security, protect data across various locations, and safeguard developer workflows that drive AI advancements.",
+    "details_he": "The updates aim to strengthen the foundations of security and IT teams, enabling them to better protect their organizations' sensitive information and infrastructure. This includes improving identity security and multicloud foundations, as well as securing data in various locations. The updates also focus on securing developer workflows that are crucial for AI innovation, allowing organizations to innovate while maintaining robust security measures."
+  },
+  {
+    "id": "03793b67eb219209",
+    "title_original": "Securing AI agents: When AI tools move from reading to acting",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/",
+    "description": "MCP tool poisoning turns trusted AI agents into a control plane for data loss. Learn how threat actors manipulate tool descriptions to trigger unauthorized actions, and how to detect, contain, and prevent it.The postSecuring AI agents: When AI tools move from reading to actingappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-06-30T15:57:11+00:00",
+    "fetched_at": "2026-07-01T08:18:23.806563+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing AI agents: When AI tools move from reading to acting",
+    "summary_he": "תקינה של סוכני AI: כאשר כלי AI עוברים מקריאה לפעולה, תקינה של סוכני AI: כאשר כלי AI עוברים מקריאה לפעולה",
+    "details_he": "בעזרת זיהום של כלי MCP, תוקפים יכולים להפוך את סוכני AI מאמינים למערכת שליטה לאבדן נתונים. תוקפים ממכרים תיאורי כלי כדי לגרום לפעולות שאינן מורשות, וכדאי לדעת כיצד לאתר, להגביל ולמנוע זאת. זה כדאי למקסים את יכולת ההגנה של הכלים האלה, כדי למנוע זיהום ולמנוע פעילות שאינה מורשת."
+  }
+]
