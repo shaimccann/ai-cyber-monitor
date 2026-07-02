@@ -1,0 +1,212 @@
+[
+  {
+    "id": "17e59367a5850001",
+    "title_original": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+    "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+    "description": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services.  Emerging AI companies historically have […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-02T03:34:48+00:00",
+    "fetched_at": "2026-07-02T07:38:05.309822+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+    "summary_he": "NVIDIA היא חברה שהחלה להציע תקשורת מחשבים מואצת לחברות AI, כדי לסייע להן לפתח תשתיות AI.",
+    "details_he": "NVIDIA הציגה חבילת עסקים חדשה שמאפשרת לחברות AI לקנות תשתיות מחשבים מואצת של NVIDIA, כדי לסייע להן לפתח תשתיות AI. החבילה כוללת תשתיות מחשבים של NVIDIA, כדי לסייע לחברות AI לפתח תשתיות AI. NVIDIA גם הציגה חבילת עסקים חדשה שמאפשרת לחברות AI לקנות תשתיות מחשבים מואצת של NVIDIA, כדי לסייע להן לפתח תשתיות AI. החבילה כוללת תשתיות מחשבים של NVIDIA, כדי לסייע לחברות AI לפתח תשתיות AI. NVIDIA גם ציינה שהחבילה תאפשר לחברות AI לקנות תשתיות מחשבים מואצת של NVIDIA, כדי לסייע להן לפתח תשתיות AI."
+  },
+  {
+    "id": "aa9d9a84cd87b1bd",
+    "title_original": "The latest AI news we announced in June 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "description": "June Pixel Drop hero",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-07-01T18:15:00+00:00",
+    "fetched_at": "2026-07-02T07:38:02.644509+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The latest AI news we announced in June 2026",
+    "summary_he": "Google הציגה עדכונים חדשים בתחום ה-AI, כולל שחרור Gemini 3.5 Live Translate, וכן תכונות חדשות ב-Android 17 וב-Google Home Speaker.",
+    "details_he": "Google הציגה עדכונים חדשים בתחום ה-AI, כולל שחרור Gemini 3.5 Live Translate, וכן תכונות חדשות ב-Android 17 וב-Google Home Speaker. העדכונים אלה נועדו להפכם לכלי יעיל יותר, ולאפשר לכם להתמקד במה שאתם אוהבים. Google פועלת על כך להפכה את הטכנולוגיה לשותפה טבעית בחיי היומיום. העדכונים כוללים גם את Gemma 4 12B, דגם חדש של Gemma, שהוא גרסה פתוחה של Gemma שמאפשרת לכם לבנות סוכנים חכמים שיכולים לראות, לסבול ולפעול בסביבות שונות."
+  },
+  {
+    "id": "bd0c8ff9d982b897",
+    "title_original": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "description": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-07-01T16:00:00+00:00",
+    "fetched_at": "2026-07-02T07:38:02.644509+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "summary_he": "Google, the New York Jobs CEO Council, and Urban Assembly co-hosted an AI summit in New York City to bridge the gap between educators and industry leaders, emphasizing the importance of human skills in the age of AI.",
+    "details_he": "The summit, which brought together 150 education and industry leaders, aimed to facilitate knowledge sharing and hands-on experience with AI tools such as Google AI mode and NotebookLM. Industry leaders stressed that while technology streamlines workflows, skills like adaptability, collaboration, and critical judgment become essential. The event's organizers emphasized the need for technological innovation to happen with schools, not around them, to prepare the next generation for the future."
+  },
+  {
+    "id": "821d2574b8e9c883",
+    "title_original": "How Amazon tracks carbon intensity across its operations",
+    "url": "https://www.amazon.science/news/how-amazon-tracks-carbon-intensity-across-its-operations",
+    "description": "Amazon is developing precise, sector-specific approaches to measuring decarbonization progress — starting with emissions per unit shipped.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-07-01T15:56:42+00:00",
+    "fetched_at": "2026-07-02T07:38:05.527934+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/news/how-amazon-tracks-carbon-intensity-across-its-operations"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Amazon tracks carbon intensity across its operations",
+    "summary_he": "Amazon היא חברה שמתמקדת בפיתוח גירויים על-פי פעילות ספציפית, כדי להעריך את הקטינת פליטת גזי חממה. החברה דיווחה על 39% קטינת פליטת גזי חממה ליחידת משלוח בין 2019 ל-2025.",
+    "details_he": "Amazon מפתחת גירויים ספציפיים לפי פעילות, כדי להעריך את הקטינת פליטת גזי חממה. החברה דיווחה על 39% קטינת פליטת גזי חממה ליחידת משלוח בין 2019 ל-2025. זה נובע מהשקעות באנרגיה חינמית, ניווט חכם, עטיפות קלות, דלקות נמוכות בפחמן, שיטות תחבורה חלופיות ורכבי חשמל. Amazon גם עוקבת אחר פליטת גזי חממה ברמה אזורית ולאומית, כדי להבין את השוני הגאוגרפי וליישם את הפעולות הנדרשות."
+  },
+  {
+    "id": "038b8a66bf370ea0",
+    "title_original": "NVIDIA and Partners Build in America, for America",
+    "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+    "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-01T13:00:47+00:00",
+    "fetched_at": "2026-07-02T07:38:05.309822+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and Partners Build in America, for America",
+    "summary_he": "NVIDIA, יחד עם שותפיה, פיתחה טכנולוגיה לאינטליגנציה מלאכותית שמאפשרת חישובים מהירים לחוקרים בתחום הביולוגיה, כחלק מפרויקט 'Claude Science'.",
+    "details_he": "NVIDIA BioNeMo Agent Toolkit, כלי עזר לאינטליגנציה מלאכותית, הוא פרי שיתוף פעולה של NVIDIA עם שותפיה, ומטרתו לאפשר חישובים מהירים ומדויקים לחוקרים בתחום הביולוגיה. הפרויקט 'Claude Science' הוא יוזמה של NVIDIA לפיתוח טכנולוגיות לאינטליגנציה מלאכותית, ו-NVIDIA BioNeMo Agent Toolkit הוא חלק ממאמציה להפוך את החישובים המהירים לזמינים לחוקרים בתחום. NVIDIA BioNeMo Agent Toolkit כולל תוכנה שמאפשרת חישובים מהירים ומדויקים, ומטרתו לסייע לחוקרים לפתח פתרונות חדשים ומשמעותיים לבעיות בתחום הביולוגיה."
+  },
+  {
+    "id": "a80fbc05d1488970",
+    "title_original": "Under Pressure: Insights from the 2026 Exposure Gap Report",
+    "url": "https://blog.checkpoint.com/exposure-management/under-pressure-insights-from-the-2026-exposure-gap-report/",
+    "description": "Risk is concentrating. The 2026 Exposure Gap Report shows vulnerabilities claiming a larger share of critical exposure, and that shift has real implications for how security teams prioritize their response. Two findings are central to this change. Vulnerabilities now represent a much larger share of critical exposure, and only a small percentage of vulnerability alerts are validated as exploitable. Together, these findings show why prioritization depends on context, validation, and a clear understanding of which exposures require action. Exposure Is Shifting Toward Vulnerabilities Vulnerabilities now account for 42.6% of critical exposure, up from 18.7% in 2025. This increase shows that […]The postUnder Pressure: Insights from the 2026 Exposure Gap Reportappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-07-02T07:01:57+00:00",
+    "fetched_at": "2026-07-02T07:38:22.920295+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/under-pressure-insights-from-the-2026-exposure-gap-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Under Pressure: Insights from the 2026 Exposure Gap Report",
+    "summary_he": "The 2026 Exposure Gap Report reveals a shift in critical exposure, with vulnerabilities now accounting for 42.6% of the total, up from 18.7% in 2025. This change highlights the importance of prioritization based on context, validation, and a clear understanding of which exposures require action.",
+    "details_he": "The report emphasizes that a higher volume of vulnerability findings does not necessarily translate to a higher volume of real risk. Security teams must focus on remediation where it counts, prioritizing exposures that are validated as exploitable and classified as Critical or High. Only 7.8% of vulnerability alerts meet this criteria, underscoring the need for a more accurate view of risk. By narrowing the focus to actionable exposures, teams can make faster decisions, plan remediation more effectively, and reduce operational noise."
+  },
+  {
+    "id": "20f678fd00c6f1af",
+    "title_original": "Breaking Down the White House’s Actions on Post-Quantum Cryptography Readiness",
+    "url": "https://www.wiz.io/blog/white-house-post-quantum-cryptography-executive-order",
+    "description": "The U.S. Federal Migration to PQC Just Got Real",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-02T01:48:01+00:00",
+    "fetched_at": "2026-07-02T07:38:14.302302+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/white-house-post-quantum-cryptography-executive-order"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Breaking Down the White House’s Actions on Post-Quantum Cryptography Readiness",
+    "summary_he": "הבית הלבן הגביר את המאמצים להכנה לקראת תקיפות קריפטוגרפיות מתקדמות, כולל תקציר של תאריכים חדשים להחלפת תקני קריפטוגרפיה",
+    "details_he": "הבית הלבן הגביר את המאמצים להכנה לקראת תקיפות קריפטוגרפיות מתקדמות, כולל תקציר של תאריכים חדשים להחלפת תקני קריפטוגרפיה. נשיא ארצות הברית חתם על צו נשיאותי 14409, והמשרד לניהול התקציב (OMB) הוציא צו 26-15, \"ביצוע ההגירה לקריפטוגרפיה פוסט-קוונטית\". תאריכים אלה קבעו את תקופת ההחלפה לקריפטוגרפיה פוסט-קוונטית, במיוחד למערכות מורכבות, ישנות או קשות להחלפה. הבית הלבן גם קבע תוכנית חדשה לאוטומציה של ראות, תקנון ותקיפות עבור כניסה לקריפטוגרפיה. תאריכים אלה גם שלחו שליחים לתעשייה, כולל תאריכים חדשים להחלפת מערכות לקריפטוגרפיה עמידה לקוונט."
+  },
+  {
+    "id": "e5a849724af7af63",
+    "title_original": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/",
+    "description": "Frost & Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction.The postMicrosoft named a leader in the Frost Radar for cloud and application runtime securityappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-01T16:00:00+00:00",
+    "fetched_at": "2026-07-02T07:38:10.619440+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
+    "summary_he": "Microsoft נקבע כמנהיג ב-Frost Radar לביטחון עורך-קוד ועורך-אפליקציה, כאשר ניטרול הסיכונים בעורך-אפליקציה ובעורך-קוד נשלבים לפתרון יחיד.",
+    "details_he": "Microsoft זכתה במעמד של מנהיג, לפי Frost & Sullivan, בעקבות התפתחות שבה עורך-קוד ועורך-אפליקציה נשלבים לפתרון יחיד לניטרול סיכונים. הפרס ניתן על ידי Frost & Sullivan, והוצג בבלוג Microsoft Security Blog."
+  },
+  {
+    "id": "5f3350d305d9df3e",
+    "title_original": "The Autonomous SOC, Revisited: What 18 Months on the Road Has Taught Us",
+    "url": "https://www.sentinelone.com/blog/the-autonomous-soc-revisited-what-18-months-on-the-road-has-taught-us/",
+    "description": "Explore SentinelOne's Autonomous SOC maturity model to map your journey toward AI autonomy through strict governance.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "ai",
+    "published": "2026-07-01T13:00:45+00:00",
+    "fetched_at": "2026-07-02T07:38:13.742094+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-autonomous-soc-revisited-what-18-months-on-the-road-has-taught-us/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Autonomous SOC, Revisited: What 18 Months on the Road Has Taught Us",
+    "summary_he": "SentinelOne's Autonomous SOC maturity model, first introduced in 2024, has proven to be a useful framework for understanding the transformation of security operations through AI. The model's accuracy has held up over 18 months of real-world deployments, and its 'journey not destination' framing has been crucial in helping organizations evaluate AI SOC claims critically.",
+    "details_he": "The model's success lies in its ability to reflect where organizations are, rather than where vendors wish they were. This structural honesty has been highlighted by Gartner's research, which found that while 40% of organizations are evaluating AI SOC capabilities, only 18% have actually deployed them. The gap between evaluation and deployment is often due to a lack of clear understanding of where organizations stand or what the next stage requires. As a result, security leaders who use the model as a reference point are able to shift the evaluation conversation from 'does your product make my SOC autonomous?' to 'what would it realistically take to advance, given where we are today?'"
+  },
+  {
+    "id": "97df68933f05d760",
+    "title_original": "DuneSlide: Two Critical RCE vulnerabilities via Zero-Click Prompt Injection in Cursor IDE",
+    "url": "https://www.catonetworks.com/blog/duneslide-two-critical-rce-vulnerabilities/",
+    "description": "TL;DR Cato AI Labs has discovered two critical remote code execution (RCE) vulnerabilities in Cursor IDE, the popular development environment which, according to Cursor, is used by over half of the Fortune 500. Both RCE vulnerabilities, which we refer to as “DuneSlide,” achieved a 9.8 CVSS score, and involve breaking out of the IDE’s sandbox...The postDuneSlide: Two Critical RCE vulnerabilities via Zero-Click Prompt Injection in Cursor IDEappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-07-01T12:28:14+00:00",
+    "fetched_at": "2026-07-02T07:38:18.658354+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/duneslide-two-critical-rce-vulnerabilities/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "DuneSlide: Two Critical RCE vulnerabilities via Zero-Click Prompt Injection in Cursor IDE",
+    "summary_he": "Cato AI Labs גילתה שני חולשות קריטיות ב-Cursor IDE, הסביבה לפיתוח שלה קראו כי היא נמצאת בשימוש על ידי יותר מחצי ה- Fortune 500. החולשות, שכונו 'DuneSlide', קיבלו ציון 9.8 בסולם CVSS ומאפשרות רצון-קוד-מבוצע (RCE) תוך כדי שהן חוצות את האזור הנושא של ה-IDE.",
+    "details_he": "Cato AI Labs גילתה שני חולשות קריטיות ב-Cursor IDE, שני החולשות הללו יכולים לאפשר רצון-קוד-מבוצע (RCE) תוך כדי שהם חוצות את האזור הנושא של ה-IDE. החולשות, שכונו 'DuneSlide', קיבלו ציון 9.8 בסולם CVSS. החולשות מאפשרות רצון-קוד-מבוצע (RCE) תוך כדי שהן חוצות את האזור הנושא של ה-IDE, וכן כוללות כתיבה-ארביטרית של קבצים. החולשות יכולות להתגלות כאשר המשתמש עושה פקודה פשוטה, ואינן דורשות זכויות-משתמש ספציפיות או התערבות-משתמש. החולשות יכולות להתגלות כאשר המשתמש עושה פקודה פשוטה, ואינן דורשות זכויות-משתמש ספציפיות או התערבות-משתמש."
+  }
+]
