@@ -1,0 +1,212 @@
+[
+  {
+    "id": "c97a3514d915f1fa",
+    "title_original": "Joyride Through July With 12 Games Coming to GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/",
+    "description": "Summer is heating up — and GeForce NOW is taking players along for the ride. Start the month with Monopoly: Star Wars Heroes vs. Villains, bringing a galaxy far, far away to the iconic board-game franchise, alongside 12 new games joining the cloud this month.  Plus, don’t let the sun set on the biggest GeForce […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-02T13:00:23+00:00",
+    "fetched_at": "2026-07-03T07:30:40.055125+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Joyride Through July With 12 Games Coming to GeForce NOW",
+    "summary_he": "GeForce NOW is adding 12 new games to its cloud gaming service in July, including Monopoly: Star Wars Heroes vs. Villains, and offering a limited-time sale on its memberships.",
+    "details_he": "The new games joining GeForce NOW in July include Assassin's Creed Black Flag Resynced, Denshattack!, and Heave Ho 2, among others. The service also added 10 new games in June, including DOOM Eternal and The Elder Scrolls Online. Meanwhile, GeForce NOW is offering a limited-time sale on its memberships, with discounts of up to $70 on a 12-month Ultimate membership. The sale is part of the service's Summer Sale, which is set to end soon. Gamers can save $35 on a 12-month Performance membership or $70 on a 12-month Ultimate membership, unlocking GeForce RTX-powered gaming in the cloud across devices they already own."
+  },
+  {
+    "id": "5e0de2713b80754d",
+    "title_original": "בעקבות הפרסום בגיקטיים: הפיצ'ר החדש של וואטסאפ ייבחן על ידי מערך הסייבר",
+    "url": "https://www.geektime.co.il/israels-national-cyber-directorate-will-check-whatsapp-new-feature/",
+    "description": "זמן רב אחרי אפליקציות מתחרות כמו טלגרם וסיגנל, השיקה השבוע לראשונה WhatsApp את פיצ'ר שמות המשתמש החדש שלה. על פניו, מדובר בבשורה מצוינת למשתמשי אפליקציית התקשורת הפופולרית, אבל בדיקת גיקטיים העלתה מספר בעיות במנגנון החדש שעלולות להפוך אותו לגן עדן להונאות. כעת מתברר כי גם מערך הסייבר הישראלי מודאג מהממצאים. מנגנוני האבטחה שלא עמדו ביצירתיות […]The postבעקבות הפרסום בגיקטיים: הפיצ'ר החדש של וואטסאפ ייבחן על ידי מערך הסייברappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-07-03T06:02:14+00:00",
+    "fetched_at": "2026-07-03T07:31:02.204061+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/israels-national-cyber-directorate-will-check-whatsapp-new-feature/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "בעקבות הפרסום בגיקטיים: הפיצ'ר החדש של וואטסאפ ייבחן על ידי מערך הסייבר",
+    "summary_he": "מערך הסייבר הישראלי ומטא נפנים לבחון את הפיצ'ר החדש של WhatsApp, שעלול לשמש להתחזות ופישינג. הפיצ'ר, שמאפשר למשתמשים לשמור את שמות המשתמש שלהם, נתגלה כבעייתי על ידי בדיקת גיקטיים.",
+    "details_he": "בדיקת גיקטיים העלתה כי הפיצ'ר החדש של WhatsApp, שמאפשר למשתמשים לשמור את שמות המשתמש שלהם, נתגלה כבעייתי. הבדיקה גילתה כי שמות בעייתיים כמו MisradHapnim ו-Leumi_Support היו זמינים לחלוטין, וכי WhatsApp לא שמעה בהכרח על Leetspeak, שמאפשר למשתמשים לשמור שמות כמו IDF_SPOKEPERS0N ו-KSP_SUPP0RT. מערך הסייבר הישראלי ומטא נפנים לבחון את הפיצ'ר החדש ולקבל תשובות לשאלות שהעלו. בהודו כבר עוצרים את הפיצ'ר, ומערך הסייבר מתכנן לפנות למטא כדי לבחון אילו מנגנוני הגנה ואמצעי מניעה ייושמו על מנת לצמצם את הסיכון ולהבטיח שימוש בטוח עבור הציבור."
+  },
+  {
+    "id": "f1bc04f9177aa72e",
+    "title_original": "TokenScope: Token-Level Explainability and Interpretability for Code-Oriented Tasks in Large Language Models",
+    "url": "https://arxiv.org/abs/2607.01235",
+    "description": "arXiv:2607.01235v1 Announce Type: new \nAbstract: Understanding how Large Language Models (LLMs) make token-level decisions during code generation remains a major challenge for both researchers and practitioners. While recent tools provide insights into model internals or generation outcomes, they often lack decoding-time signals, fine-grained uncertainty measures, and interactive mechanisms for exploring alternative generation paths. We present TokenScope, an interactive interpretability and analysis tool for decoder-based LLMs that exposes token-level metrics, attention patterns, and structural information during generation. TokenScope supports interactive token replacement, counterfactual branching, and code-aware aggregation via abstract syntax trees. By unifying decoding-time signals with structural program analysis, TokenScope enables systematic investigation of LLM behaviour during code generation.",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-07-03T00:00:00-04:00",
+    "fetched_at": "2026-07-03T07:30:42.029665+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2607.01235"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "TokenScope: Token-Level Explainability and Interpretability for Code-Oriented Tasks in Large Language Models",
+    "summary_he": "מחקר חדש, טוקן-סקופ, מציע תוכנית עזר להבנת התהליך הפנימי של דגימות-לשון גדולות בזמן ייצור קוד.",
+    "details_he": "המחקר, שפורסם בארכיווי arXiv, פותח כלי חדש, טוקן-סקופ, שמאפשר לחקור את התהליך הפנימי של דגימות-לשון גדולות בזמן ייצור קוד. הכלי, שפותח על ידי Amirreza Esmaeili ו-Fatemeh Fard, מציע תצוגה עזר של נתונים, כולל פטרנים של תשומת הלב, ומאפשר חקירה מערכתית של התנהגות הדגימות-לשון. הכלי יכול לשמש ככלי חשוב לחקר ופיתוח של דגימות-לשון גדולות."
+  },
+  {
+    "id": "04a176a909efe0f0",
+    "title_original": "Safeguarding LLM Agents from Misalignment through Provenance Analysis",
+    "url": "https://arxiv.org/abs/2607.01236",
+    "description": "arXiv:2607.01236v1 Announce Type: new \nAbstract: As LLM agents gain increasing access to powerful tools, ensuring that their actions are aligned with the user's intent becomes critical. When an agent's proposed tool invocation deviates from the user's intent -- a phenomenon called misalignment -- it may lead to harmful consequences that are difficult to undo. Existing runtime guardrails rely on an LLM-as-a-judge paradigm that lacks a systematic framework for reasoning about alignment, often producing judgments that are inconsistent or difficult to audit. Motivated by provenance analysis, we propose a provenance-based conceptual framework that formalizes misalignment detection as determining whether a proposed tool call is supported by traceable evidence in the agent's context. Building on this framework, we propose ProvenanceGuard, a multi-stage pipeline that analyzes the agent's action for three types of misalignment before the selected tool is executed and only allows the action to t",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-07-03T00:00:00-04:00",
+    "fetched_at": "2026-07-03T07:30:42.029665+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2607.01236"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Safeguarding LLM Agents from Misalignment through Provenance Analysis",
+    "summary_he": "חברי הצוות המחקרי הציעו פתרון חדש לבעיית ההתאמה של סוכני LLM, על ידי ניתוח תולדותי. הם פיתחו תשתית קונספטואלית המבוססת על ניתוח תולדותי, המסדירה את זיהוי ההתאמה כהכרעה האם קריאת כלי מוצעת תומכת בראיות ניתנות לעקיבה במצב הסוכן.",
+    "details_he": "המחברים, יינג שה, ייליאנג ליאנג ואונסוק קאנג, פיתחו פילוח רב-שלבי בשם ProvenanceGuard, המבקר את פעולת הסוכן בשלושה סוגי התאמה שונים. הם ניגשו לבדיקה של התפיסה שלהם על שני בנקאים שונים, Agent-SafetyBench ו-WorkBench, והשוו אותה לבסיס תצורה LLM. התוצאות הראו ירידה בקצב שגיאות בעקבות תיעודים שלא היו התאמה, מ-42.9% ל-1.8% ב-Agent-SafetyBench ומ-32.1% ל-17.3% ב-WorkBench. הם גם ציינו ירידה בעומס ההתערבות בתיעודים של הצלחה, מ-30.5% ל-12.8%. "
+  },
+  {
+    "id": "a2bb15d99c9c72a6",
+    "title_original": "Kara: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression",
+    "url": "https://arxiv.org/abs/2607.01237",
+    "description": "arXiv:2607.01237v1 Announce Type: new \nAbstract: Reasoning language models often generate long chain-of-thought (CoT), which accumulates a massive KV cache during the decoding phase and incurs high decoding latency and limited throughput. To address these issues, KV cache compression has emerged as a promising technique for reducing memory overhead by selectively removing unimportant KV pairs while preserving useful ones for subsequent decoding. Nevertheless, we identify two key limitations in existing KV cache compression methods: 1) their threshold-triggered compression policy may provide limited throughput improvement or even reduce throughput, and may fully eliminate KV pairs from certain blocks of the sequence, potentially worsening information loss. 2) they typically retain either isolated KV pairs or fixed-size chunks with rigid boundaries, failing to preserve important flexible-sized chunks at arbitrary token positions. To overcome these limitations, we propose Kara, a sliding-",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-07-03T00:00:00-04:00",
+    "fetched_at": "2026-07-03T07:30:42.029665+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2607.01237"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Kara: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression",
+    "summary_he": "מחקר חדש מציע פתרון לבעיות של זיכרון ותפוקה במודלי שפה, על ידי חיפוש ושימור זיכרון קיי-ואן באמצעות קיצור חלוני.",
+    "details_he": "המחקר, שנקרא Kara, מציע פתרון לבעיות של זיכרון ותפוקה במודלי שפה, על ידי חיפוש ושימור זיכרון קיי-ואן באמצעות קיצור חלוני. הפתרון, הנקרא Kara, משתמש במודל של תשומת לב בידורית כדי לסווג ולשמור זיכרון קיי-ואן חשוב. המחקר גם מציע פתרון לבעיות של זיכרון ותפוקה במודלי שפה, על ידי פיתוח פרקטיקה של הסתגלות. הפרקטיקה, הנקראת KvLLM, משתמשת במודל של תשומת לב בידורית כדי לסווג ולשמור זיכרון קיי-ואן חשוב. המחקר גם מציע פתרון לבעיות של זיכרון ותפוקה במודלי שפה, על ידי פיתוח פרקטיקה של הסתגלות. הפרקטיקה, הנקראת KvLLM, משתמשת במודל של תשומת לב בידורית כדי לסווג ולשמור זיכרון קיי-ואן חשוב."
+  },
+  {
+    "id": "c72a751041a0fa33",
+    "title_original": "How We Added WebAuthn to a Browser-Based RDP Client",
+    "url": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/",
+    "description": "A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection.The postHow We Added WebAuthn to a Browser-Based RDP Clientappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-07-02T22:00:39+00:00",
+    "fetched_at": "2026-07-03T07:30:51.862149+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How We Added WebAuthn to a Browser-Based RDP Client",
+    "summary_he": "במאמץ להגביר את הבטיחות של תקשורת רחוקה, צוות Prisma Browser הצליח להוסיף תמיכה ב-WebAuthn ללקוח RDP הבסיסי שלהם, ובכך להקדים את Microsoft במקומות שונים, כולל מערכות macOS, iOS ו-Linux.",
+    "details_he": "בניסיון להתגבר על הצורך לגישה רחוקה לאפליקציות ותקני רשת, Prisma Browser הפיתחה תמיכה ייחודית ב-WebAuthn, כך שלקוח RDP שלהם יכול לקבל רשומות ייחודיות. כדי להשיג זאת, צוות Prisma Browser נאלץ להפריד את תקשורת RDP מהבראוזר, ולהשתמש ב-WebAuthn Virtual Channel Extension של Microsoft. התהליך היה מסובך, וכלל פענוח של קוד והפעלת כלים כדי להבין את התקשורת. הצוות השתמש ב-IDA Pro כדי לפענח את הקוד ולבנות גשר MCP, ואז השתמש בו כדי לבנות כלי שיכול לשאול את הבראוזר את השאלות הנכונות ולקבל את התשובות."
+  },
+  {
+    "id": "1f74f89bb28641e4",
+    "title_original": "Improving security posture across the Microsoft partner ecosystem",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/",
+    "description": "Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices.The postImproving security posture across the Microsoft partner ecosystemappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-02T16:00:00+00:00",
+    "fetched_at": "2026-07-03T07:30:49.835364+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Improving security posture across the Microsoft partner ecosystem",
+    "summary_he": "Microsoft נוקטת בצעדים לשיפור העמדה הביטחונית של כלל המשתפים בסביבת השותפים שלה, כדי למנוע פגיעה בלקליטת הלקוחות. החברה נקטה בצעדים להגברת הביטחון ולמניעת פגיעה בלקליטת הלקוחות.",
+    "details_he": "Microsoft נקטה בצעדים לשיפור העמדה הביטחונית של כלל המשתפים בסביבת השותפים שלה, כדי למנוע פגיעה בלקליטת הלקוחות. החברה נקטה בצעדים להגברת הביטחון ולמניעת פגיעה בלקליטת הלקוחות. כדי להגביר את הביטחון, Microsoft נקטה בצעדים כגון: הגברת האבטחה של הסביבה של השותפים, הטמעת טכנולוגיות אבטחה חדישות והגברת המודעות של השותפים לחשיפות הביטחוניות. החברה גם נקטה בצעדים למניעת פגיעה בלקליטת הלקוחות, כגון: הגברת האבטחה של הסביבה של הלקוחות, הטמעת טכנולוגיות אבטחה חדישות והגברת המודעות של הלקוחות לחשיפות הביטחוניות."
+  },
+  {
+    "id": "b931571d330a41a1",
+    "title_original": "The 2026 Verizon DBIR Stopped Asking How Attackers Get in and Started Asking Where They Go",
+    "url": "https://xmcyber.com/blog/the-2026-verizon-dbir-stopped-asking-how-attackers-get-in-and-started-asking-where-they-go/",
+    "description": "For 19 years, every edition of the Verizon DBIR told the same story about initial access – credential theft was the number one entry...The postThe 2026 Verizon DBIR Stopped Asking How Attackers Get in and Started Asking Where They Goappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-07-02T12:12:14+00:00",
+    "fetched_at": "2026-07-03T07:31:01.610703+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/the-2026-verizon-dbir-stopped-asking-how-attackers-get-in-and-started-asking-where-they-go/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The 2026 Verizon DBIR Stopped Asking How Attackers Get in and Started Asking Where They Go",
+    "summary_he": "הדוח של Verizon DBIR 2026 הפסיק לתת תשובות לשאלה 'איך הפרוצים נכנסים' והתחיל לחקור 'איפה הם הולכים'. כ-31% מהפריצות נגרמו על ידי הפרעות בבטיחות, ולא על ידי גנבת זהויות.",
+    "details_he": "הדוח חשף כי 16% מהארגונים היו חשופים ל-80% מהפריצות. הדבר נבע מהעובדה שהארגונים הללו היו רגישים לגבי ההרשאות וההגדרות שלהם. כ-65% מהפריצות התרחשו עקב ניהול ההרשאות. הדוח גם חשף כי 83% מהפריצות להרשאות היו ללא פגיעה בבטיחות. הדוח חילק את המניעות להרשאות לארבעה קטגוריות: תיקוני פגמים, מדיניות סיסמאות, הגדרות והרשאות. 10% מהפריצות נגרמו על ידי תיקוני פגמים, 30% על ידי מדיניות סיסמאות, 33% על ידי הגדרות ו-65% על ידי הרשאות."
+  },
+  {
+    "id": "05b3daae8ecde4f4",
+    "title_original": "Build AI Security Agents with Wiz MCP",
+    "url": "https://www.wiz.io/blog/introducing-wiz-mcp",
+    "description": "Power AI-driven security with trusted security context, Wiz AI Agents, and Wiz AI Skills.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-07-02T11:00:00+00:00",
+    "fetched_at": "2026-07-03T07:30:53.854923+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-mcp"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Build AI Security Agents with Wiz MCP",
+    "summary_he": "Wiz MCP enables security teams to build agentic workflows by securely connecting AI assistants, custom agents, and AI-powered applications to the Wiz platform, providing trusted context, specialized security intelligence, and a secure way to interact with their environment.",
+    "details_he": "Wiz MCP allows security teams to leverage the Wiz Security Graph for contextual understanding of their environment, Wiz AI Agents for continuous analysis and recommendations, and Wiz AI Skills for predefined, agentic workflows that encapsulate Wiz security expertise and best practices. This enables teams to automate complex security tasks, from investigation through remediation, and accelerate development by reusing proven security workflows. With Wiz MCP, teams can build custom AI experiences that integrate with the Wiz platform, streamlining their security operations and improving incident response."
+  },
+  {
+    "id": "8175df7685919053",
+    "title_original": "Missed incidents, persistent threats, and response gaps: Insights from compromise assessment projects",
+    "url": "https://securelist.com/compromise-assessment-findings-2025/120542/",
+    "description": "Kaspersky Compromise Assessment specialists analyze trends from the service's 2025 projects and provide tips on how to enhance your organization's security.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-07-02T09:00:09+00:00",
+    "fetched_at": "2026-07-03T07:30:51.954424+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/compromise-assessment-findings-2025/120542/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Missed incidents, persistent threats, and response gaps: Insights from compromise assessment projects",
+    "summary_he": "Kaspersky Compromise Assessment engagements revealed that missed incidents, persistent threats, and response gaps are common issues in organizations. Proactive compromise assessment can help decrease the number of missed high-severity incidents, and regular audits can also reduce the likelihood of severe compromises.",
+    "details_he": "The analysis, which focused on 2025 engagements, found that nearly a third of discovered incidents took over three months to detect. The longer a threat persisted, the greater the likelihood that an incident would be severe. In many cases, organizations missed 60% of incidents due to the absence of high-confidence alerts from their tools. Regular audits and proactive compromise assessment can help mitigate these issues, as seen in organizations that conducted regular audits and those that requested compromise assessment services after containing a known incident."
+  }
+]
