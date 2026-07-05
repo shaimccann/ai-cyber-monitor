@@ -1,23 +1,10 @@
 {
-  "timestamp": "2026-07-04T06:54:05.456724+00:00",
-  "errors": [
-    {
-      "title": "Armored Likho digging a snake pit: inside the covert BusySnake Stealer campaign",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 999)",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Device",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1489)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-07-05T07:34:05.411505+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 8,
-  "fallback": 2,
-  "total_scanned": 31,
-  "selected": 10
+  "success": 7,
+  "fallback": 0,
+  "total_scanned": 8,
+  "selected": 7
 }

@@ -1,0 +1,149 @@
+[
+  {
+    "id": "be15c3016b2a0f90",
+    "title_original": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-04T20:55:25+00:00",
+    "fetched_at": "2026-07-05T07:33:42.109801+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "summary_he": "Google's latest commercial for Google Workspace envisions a collaboration between the Founding Fathers, utilizing AI tools to draft the Declaration of Independence. The ad showcases a humorous take on how AI could have aided the historical event, while avoiding any suggestion that AI would have improved the document's content.",
+    "details_he": "The commercial, titled 'Group project, but make it 1776,' depicts Thomas Jefferson and Ben Franklin working together using Google Workspace tools, including Google Docs, Google Calendar, and Google Meet. The ad also features the use of Google's 'help me visualize' AI tool and the Gemini chatbot, which takes notes during a meeting. Historian Angus Johnston criticized the commercial, stating that it is 'impossible to make the case that AI is a useful tool for political organizing, writing, or human collaboration.' The response to the commercial on social media platforms has been mixed, with some viewers praising its creativity and others finding it 'cringey' and 'tone deaf.'"
+  },
+  {
+    "id": "3df6c5c3947e2177",
+    "title_original": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-04T18:00:05+00:00",
+    "fetched_at": "2026-07-05T07:33:42.109801+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "summary_he": "Midjourney, a startup that develops AI image-generation models, is pushing back against a court ruling that limits the information Hollywood studios must disclose about their own AI usage. The startup argues that this limitation allows the studios to selectively reveal only information that supports their claims, while hiding evidence that could help Midjourney defend itself. This dispute is part of a larger legal battle between Midjourney and the studios over alleged copyright infringement.",
+    "details_he": "Midjourney is seeking to compel Disney, Universal, and Warner Bros. to reveal how they use AI in their own operations, including any image-generating models they may be developing. The startup argues that this information is crucial to its defense, as it could demonstrate that the studios are also using AI to create copyrighted content without permission. Midjourney claims that the studios are trying to hide this information, and that the current court ruling unfairly allows them to 'cherry-pick' only the documents that support their claims. The startup is also seeking to obtain the prompts used by the studios in Midjourney, as well as the resulting outputs, in order to better understand how the studios are using its technology."
+  },
+  {
+    "id": "8a0182463481ebfa",
+    "title_original": "Alibaba reportedly bans employees from using Claude Code",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-04T16:32:08+00:00",
+    "fetched_at": "2026-07-05T07:33:42.109801+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Alibaba reportedly bans employees from using Claude Code",
+    "summary_he": "Alibaba, חברת הטכנולוגיה הסינית, החליטה לאסור על עובדיה להשתמש בכלי התכנות Claude Code, כתוצאה מחשש לבטיחות.",
+    "details_he": "Alibaba פרסמה הוראה לעובדיה להשתמש בכלי Qoder של החברה, כדי למנוע שימוש ב-Claude Code, אשר נחשב כתוכנה סיכול-גבוה. Anthropic, חברת הפיתוח של Claude Code, כבר פרסמה הוראה לחברות סיניות לא להשתמש ב-Claude, וכי עובדיה ישתמשו בכלי Qoder. חברת Anthropic טענה כי השימוש ב-Claude Code יכול לסכן את הבטיחות, וכי הם עובדים על פתרון לסגירת חורים שבמערכת."
+  },
+  {
+    "id": "15cd5c8b857029ce",
+    "title_original": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-04T15:51:32+00:00",
+    "fetched_at": "2026-07-05T07:33:42.109801+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "summary_he": "Mistral AI, a French decacorn, is gaining attention for its approach to artificial intelligence, which focuses on deploying models and agent platforms on enterprise infrastructure, rather than developing its own large language models. This strategy allows the company to tailor AI for specific use cases and reduce reliance on centralized control. Mistral's revenue has increased significantly, reaching over $400 million in annual recurring revenue.",
+    "details_he": "Mistral AI has been gaining attention in recent times, particularly following the Trump directive that led Anthropic to pull its latest AI models offline. The company's approach to AI is centered around deploying its models and agent platforms on the infrastructure of its enterprise customers, allowing them to build custom models using their own data. This strategy is similar to the Palantir playbook, where forward-deployed engineers help governments and large corporations adopt AI. Mistral's CEO, Arthur Mensch, has become a public ambassador for a certain vision of AI, which emphasizes access to the best AI systems outside of centralized control. The company's revenue has increased significantly, with annual recurring revenue reaching over $400 million, and is on track to surpass $1 billion this year. Mistral is also making big investments in research to keep up with foundational AI rivals, and has announced plans to release an open-weight language model this summer."
+  },
+  {
+    "id": "7d2403116c9993ac",
+    "title_original": "\"מדינת חלל לכל דבר\": ההישגים של איראן מחוץ לאטמוספירה - והסיכונים לישראל",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001547474#utm_source=RSS",
+    "description": "שיחה עם אבי ברגר, ראש מנהלת החלל במפא\"ת • על כברת הדרך המרשימה שעשתה איראן בפיתוחי החלל, היתרונות של היעדר הגבולות הטריטוריאליים מחוץ לאטמוספירה והתוכנית של ישראל: להציב מאות לוויינים בחלל בשנים הקרובות",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-04T13:33:00+00:00",
+    "fetched_at": "2026-07-05T07:34:02.116987+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001547474#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"מדינת חלל לכל דבר\": ההישגים של איראן מחוץ לאטמוספירה - והסיכונים לישראל",
+    "summary_he": "איראן הצליחה להשיג הישגים מרשימים בפיתוחי החלל, אך ישראל מתכוונת להציב מאות לוויינים בחלל בשנים הקרובות, וזאת כדי להבטיח את עצמאותה הטכנולוגית.",
+    "details_he": "אבי ברגר, ראש מנהלת החלל במפא\"ת, ציין כי איראן השיגה הישגים מרשימים בפיתוחי החלל, וזאת כתוצאה מהיעדר הגבולות הטריטוריאליים מחוץ לאטמוספירה. עם זאת, ישראל מתכוונת להציב מאות לוויינים בחלל בשנים הקרובות, כדי להבטיח את עצמאותה הטכנולוגית. זאת, כדי להגן על עצמאותה ולהבטיח את יכולתה לבצע פעילויות חלליות."
+  },
+  {
+    "id": "9c03ecb9502d35fc",
+    "title_original": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+    "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+    "description": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left.\n\nThe odd part: the group that took the money calls itself Kairos, but it may not be a ransomware gang at all. Krishnan found no sign that it ever locked a single",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-07-04T18:17:53+05:30",
+    "fetched_at": "2026-07-05T07:33:43.676984+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+    "summary_he": "במקרה חדש, גוף ממשלתי אמריקאי שילם 1 מיליון דולר לקבוצת קאיוס (Kairos) במסגרת פרשה של גנבת נתונים ואיומי חבלה.",
+    "details_he": ""
+  },
+  {
+    "id": "33a05608d61a5606",
+    "title_original": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+    "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+    "description": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider.\n\n\"The campaign remains active, and new malicious packages are likely to continue appearing as threat actors compromise maintainer accounts,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-07-04T16:47:24+05:30",
+    "fetched_at": "2026-07-05T07:33:43.676984+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+    "summary_he": "North Korean hackers have been publishing malicious packages and extensions as part of their ongoing PolinRider campaign, compromising maintainer accounts and modifying legitimate repositories to deliver malware.",
+    "details_he": "The campaign, linked to the Contagious Interview campaign, has published 108 unique packages and extensions across various platforms, including npm, Packagist, Go, and Google Chrome. The threat actors, who have been active since at least 2023, use job recruitment to target software developers and individuals in the cryptocurrency sector. They compromise maintainer accounts, likely through expired domain takeover or another account recovery path, to publish infected package versions and deliver malware. The malware searches for specific files and appends malicious JavaScript code to them, making use of a Windows batch script to remain stealthy."
+  }
+]
