@@ -1,0 +1,149 @@
+[
+  {
+    "id": "b207c047fddee548",
+    "title_original": "🤗 Kernels: Major Updates",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-06T00:00:00+00:00",
+    "fetched_at": "2026-07-06T08:37:29.325737+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/revamped-kernels"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "🤗 Kernels: Major Updates",
+    "summary_he": "הפרויקט של Kernels הציג עדכונים משמעותיים, כולל סוג חדש של רפוזיטוריום, הגנה מוגברת ומערכת CLI מחודשת.",
+    "details_he": "הפרויקט של Kernels, שהוצג בעבר, עבר שינויים משמעותיים. הם יצרו סוג חדש של רפוזיטוריום ב-Hub, שמאפשר לספק תמיכה נרחבת יותר בפרוגרמים ובמאגרי נתונים. כמו כן, הם השלימו את הביצועים והבטיחו את הקוד. הם גם הציגו מערכת CLI מחודשת, שמאפשרת למשתמשים לבחור בקלות את הפרוגרמים והמאגרי נתונים שהם רוצים להשתמש בהם. הפרויקט גם כלל הגנה מוגברת, כולל סימניות ובדיקות קוד, כדי למנוע תקלות ולשפר את אמינות הקוד."
+  },
+  {
+    "id": "04904737332150e3",
+    "title_original": "מכירה עיוורת בראייה צלולה לחלוטין: המהלך של שויד שהשוק הצליח לפספס",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001547910#utm_source=RSS",
+    "description": "מייסד צ'ק פוינט גיל שויד קיבל במרץ 2025 החלטה אחת, שהתבררה בדיעבד כבעלת משמעות כלכלית של כ־100 מיליון דולר להונו האישי • מדובר בשינוי דפוס המכירה של מניות שהומרו מאופציות שקיבל, אבל רוב המשקיעים פספסו את הפואנטה שבהקדמת המימוש",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-06T07:57:00+00:00",
+    "fetched_at": "2026-07-06T08:37:53.892780+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001547910#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מכירה עיוורת בראייה צלולה לחלוטין: המהלך של שויד שהשוק הצליח לפספס",
+    "summary_he": "מייסד צ'ק פוינט, גיל שויד, קיבל החלטה כלכלית חשובה שהתבררה בדיעבד כבעלת ערך של 100 מיליון דולר. ההחלטה הייתה שינוי בדפוס המכירה של מניות שהומרו מאופציות. רוב המשקיעים פספסו את הפואנטה שבהקדמת המימוש.",
+    "details_he": "גיל שויד, מייסד צ'ק פוינט, קיבל במרץ 2025 החלטה לשנות את דפוס המכירה של מניות שהומרו מאופציות שקיבל. ההחלטה הייתה חשובה מאוד, והתבררה בדיעבד כבעלת ערך של 100 מיליון דולר. רוב המשקיעים פספסו את הפואנטה שבהקדמת המימוש, ולא הבינו את החשיבות של השינוי. הפספוס הזה היה חשוב, ויכול היה להשפיע על השוק."
+  },
+  {
+    "id": "c2825069d43de5de",
+    "title_original": "בעקבות המחאה: אנת'רופיק מעלימה את המלכודות שהחביאה ב-Claude Code",
+    "url": "https://www.geektime.co.il/anthropic-axes-eater-eggs-in-claude-code/",
+    "description": "ענקיות הטכנולוגיה חיות בפרנויה מתמדת, ודי בצדק. כשחברה משקיעה מיליארדי דולרים בפיתוח מודלים מתקדמים, הדבר האחרון שהיא רוצה הוא שהמתחרות יקצרו את הדרך ויאמנו את המודלים שלהן על חשבונה במה שנקרא זיקוק. עכשיו מתברר שבאנת'רופיק היו מוכנים ללכת רחוק כדי להגן על המודלים שלהם, מה שהוביל לסערה מול קהילת המפתחים וחזל\"ש מפואר. ההפתעה שהסתתרה הכל […]The postבעקבות המחאה: אנת'רופיק מעלימה את המלכודות שהחביאה ב-Claude Codeappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-07-06T07:49:45+00:00",
+    "fetched_at": "2026-07-06T08:37:48.844232+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/anthropic-axes-eater-eggs-in-claude-code/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "בעקבות המחאה: אנת'רופיק מעלימה את המלכודות שהחביאה ב-Claude Code",
+    "summary_he": "אנת'רופיק, חברת ה- AI, הסתירה קוד למעקב אחרי שימוש לרעה בכלי התכנות שלה, Claude Code. כשהביקורת התפשטה, החברה הסירה את הקוד והמלכודות.",
+    "details_he": "הכל התחיל כשמפתח המכונה Therealo חשף ש-Claude Code מסתיר בתוכו מנגנון שפועל בדומה לרוגלה, ומעביר מידע לשרתי החברה ללא ידיעת המשתמשים. המנגנון הנסתר בודק את כתובת ה-URL שבאמצעותה מנותבות הפניות ל-API של קלוד. במקרה שהכתובת שונתה, הקוד התחיל 'לרחרח': הוא בדק את אזור הזמן של המערכת ואת ה-hostname, כדי להבין אם מי שמריץ את הכלי קשור למעבדות AI בסין, לחברות מתחרות אחרות, או לגורמים שסוחרים בגישה לחשבונות קלוד. אנת'רופיק הסירה את הקוד המדובר והמלכודות, וטענה שהדבר היה ניסיון להגן על עצמה מפני זיקוק ושימוש לרעה בחשבונות שנוצרו ונמכרו לאחרים על ידי צד ג'."
+  },
+  {
+    "id": "5f3aa69e45e93003",
+    "title_original": "המשקיע הזה דורש מהסטארטאפים שלו לעבוד לפחות 6 ימים מהמשרד",
+    "url": "https://www.geektime.co.il/jason-lemkin-wants-you-to-work-more-than-6-days-a-week-from-the-office/",
+    "description": "אחרי תקופה קצרה שהוכיחה שההייטק יכול לעבוד ולדלבר גם בעבודה מהבית, המגמה התהפכה ועימה חזרו רוב הסטארטאפים והחברות לעבודה מהמשרדים. אם אתם עובדים באופן \"היברידי\" כנראה יצאתם בזול, כי לא מעט חברות כבר החזירו את העובדים ל-5 ימי עבודה מהמשרד ממש כמו פעם. אבל יש אנשים שבשבילם, גם זה לא מספיק. אתם רוצים שעון יוקרתי […]The postהמשקיע הזה דורש מהסטארטאפים שלו לעבוד לפחות 6 ימים מהמשרדappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-07-06T07:01:05+00:00",
+    "fetched_at": "2026-07-06T08:37:48.844232+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/jason-lemkin-wants-you-to-work-more-than-6-days-a-week-from-the-office/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "המשקיע הזה דורש מהסטארטאפים שלו לעבוד לפחות 6 ימים מהמשרד",
+    "summary_he": "המשקיע ג'ייסון למקין טען שחברות שאינן דורשות עבודה מ-6 ימים בשבוע מהמשרד, נוטות להיכשל. הוא מציין שהוא מעוניין להשקיע בחברות שמעבירות שכר גבוה לצוותים קטנים שעובדים במשרד. למקין טען שאם חברה רוצה להיות מנצחת, עובדיה צריכים לעבוד 60 שעות בשבוע.",
+    "details_he": "ג'ייסון למקין, משקיע ומייסד קהילת SaaStr, טען בפודקאסט 20VC שחברות שאינן דורשות עבודה מ-6 ימים בשבוע מהמשרד, נוטות להיכשל. הוא מציין שהוא מעוניין להשקיע בחברות שמעבירות שכר גבוה לצוותים קטנים שעובדים במשרד. למקין טען שאם חברה רוצה להיות מנצחת, עובדיה צריכים לעבוד 60 שעות בשבוע. הוא גם טען שאם חברה רוצה להיות מנצחת, עובדיה צריכים לעבוד 60 שעות בשבוע. הוא גם טען שאין לכם את הזכות לנשום יותר, כיוון שב-5 דקות של הפסקה, המתחרה שלכם יכול להוציא את המוצר שיחסל אתכם."
+  },
+  {
+    "id": "46a46098499f8d05",
+    "title_original": "200% בשלושה חודשים: נאבן זינקה לשווי של 6.5 מיליארד דולר",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001547886#utm_source=RSS",
+    "description": "מניית החברה שפיתחה פלטפורמה לניהול נסיעות עסקיות צללה לאחר הנפקתה בוול סטריט, אך לאחרונה הציגה קאמבק מרשים בעקבות דוחות חזקים והטמעת AI בעסקיה",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-06T02:53:00+00:00",
+    "fetched_at": "2026-07-06T08:37:53.892780+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001547886#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "200% בשלושה חודשים: נאבן זינקה לשווי של 6.5 מיליארד דולר",
+    "summary_he": "נאבן, חברה שפיתחה פלטפורמה לניהול נסיעות עסקיות, זינקה בשלושה חודשים לשווי של 6.5 מיליארד דולר. הצלחתה נבעה מדוחות חזקים והטמעת טכנולוגיית AI בעסקיה. הדבר הפך אותה לאחת החברות המצליחות ביותר בתחום ה-IT.",
+    "details_he": "נאבן, שנמצאת בראש פלטפורמת הניהול של נסיעות עסקיות, חוותה עלייה ניכרת בשווי החברה לאחר הצגת דוחות חזקים והטמעת טכנולוגיית AI בעסקיה. הדבר הפך אותה לאחת החברות המצליחות ביותר בתחום ה-IT. הצלחתה נבעה מהצלחתה לשפר את תהליכי הניהול שלה, ולספק פתרונות מותאמים לצרכים של חברות גדולות."
+  },
+  {
+    "id": "ef94bbd558f30082",
+    "title_original": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+    "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+    "description": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits.\n\nIn a proof of concept, they reconstructed a signed-in user's full Gmail address from a single visit, with no click. Opera has patched the flaw and says it found no evidence that",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-07-06T12:57:50+05:30",
+    "fetched_at": "2026-07-06T08:37:31.948560+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+    "summary_he": "חוקרים גילו חולשה בדפדפן Opera GX, שאפשרה לאתרים רעילים להתקין אתגרים חשאית ולגנוב נתונים מדפי האתרים שביקרו. החולשה נתקלה ואין ראיות שהיא נעשתה כדי לגנוב נתונים.",
+    "details_he": "החוקרים גילו שחולשה זו אפשרה לאתרים רעילים להתקין אתגרים חשאית, שאפשרו להם לגנוב נתונים מדפי האתרים שביקרו. החולשה נתקלה ואין ראיות שהיא נעשתה כדי לגנוב נתונים. החוקרים גילו שאתגרים אלה יכלו לגנוב נתונים כגון כתובת אימייל, כשהאתר רעיל מבקר את דף גוגל. החולשה נתקלה ואין ראיות שהיא נעשתה כדי לגנוב נתונים. החוקרים גילו שאתגרים אלה יכלו לגנוב נתונים כגון כתובת אימייל, כשהאתר רעיל מבקר את דף גוגל. "
+  },
+  {
+    "id": "3174546ae4a5f857",
+    "title_original": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+    "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+    "description": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology.\n\nTheir strongest trick slipped past every scanner tested more than 90% of the time, and the same team built a runtime checker that catches most of the",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-07-06T12:03:56+05:30",
+    "fetched_at": "2026-07-06T08:37:31.948560+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+    "summary_he": "חוקרים באוניברסיטת הונג קונג למדע וטכנולוגיה פיתחו כלי שמאפשר למי שרוצה להפיץ מל\"ט חדש, להפליל את הסקנרים שמורכבים כדי לזהותו. הכלי, שנקרא SkillCloak, עובד בשני אופנים: על ידי כתיבה מחדש של הבייטים המזהים, ועל ידי קידוד עצמאי של הפלטפורמה.",
+    "details_he": "החוקרים פיתחו כלי שמאפשר למי שרוצה להפיץ מל\"ט חדש, להפליל את הסקנרים שמורכבים כדי לזהותו. הכלי, שנקרא SkillCloak, עובד בשני אופנים: על ידי כתיבה מחדש של הבייטים המזהים, ועל ידי קידוד עצמאי של הפלטפורמה. הכלי נבדק על 1,613 סקילים מל\"ט שנלקחו מ-ClawHub, והוא הצליח להעביר את 90% מהם. החוקרים גם פיתחו כלי שמזהה את הסקילים המל\"ט, והוא קרוי SkillDetonate. הכלי עובד באופן זהה לסקילים שאינם מל\"ט, והוא יכול לזהות את הסקילים המל\"ט על ידי צפייה בהתנהגותם."
+  }
+]
