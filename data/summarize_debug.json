@@ -1,10 +1,17 @@
 {
-  "timestamp": "2026-07-06T08:37:55.815662+00:00",
-  "errors": [],
+  "timestamp": "2026-07-07T07:49:01.525894+00:00",
+  "errors": [
+    {
+      "title": "When checking the URL isn’t enough: a Device Code Phishing attack via a Microsof",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 1251)",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 7,
-  "fallback": 0,
-  "total_scanned": 18,
-  "selected": 7
+  "success": 9,
+  "fallback": 1,
+  "total_scanned": 84,
+  "selected": 10
 }

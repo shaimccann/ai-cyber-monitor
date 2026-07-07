@@ -1,0 +1,212 @@
+[
+  {
+    "id": "54163dd2759f9675",
+    "title_original": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+    "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+    "description": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-07T06:00:26+00:00",
+    "fetched_at": "2026-07-07T07:48:30.824049+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+    "summary_he": "NVIDIA ו-Hugging Face יצרו קשר עם LeRobot, ספריית פתוחה לרובוטיקה, כדי לשפר את תהליך הפיתוח של רובוטים. הם הציגו דגמים וספריות חדשים, כולל NVIDIA Isaac GR00T 1.7 ו-NVIDIA Isaac Teleop.",
+    "details_he": "NVIDIA ו-Hugging Face יצרו קשר עם LeRobot, ספריית פתוחה לרובוטיקה, כדי לשפר את תהליך הפיתוח של רובוטים. הם הציגו דגמים וספריות חדשים, כולל NVIDIA Isaac GR00T 1.7 ו-NVIDIA Isaac Teleop. NVIDIA Isaac GR00T 1.7 הוא דגם פתוח ומסחרי לדגם הבסיסי של הרובוט, ו-NVIDIA Isaac Teleop הוא ספריית פתוחה לאיסוף נתונים של רובוטים. השילוב של הדגמים והספריות יאפשר למפתחים לפתח רובוטים עם דרך פתוחה ותקינה. NVIDIA Cosmos 3, דגם חדש לרובוטיקה, צפוי להיות זמין בעתיד."
+  },
+  {
+    "id": "de6d0d2c250d0e07",
+    "title_original": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-07T00:00:00+00:00",
+    "fetched_at": "2026-07-07T07:48:30.424327+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lerobot-release-v060"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "summary_he": "LeRobot v0.6.0 הציגה תצוגה חדשה של פוליציות של עולם ומודלי פרסום שמאפשרות לרובוטים לחשוב וללמוד. זה כולל תמיכה בעומק, הסתברות ואנוטציות של שפה.",
+    "details_he": "LeRobot v0.6.0 כוללת פוליציות של עולם שלמדות לחשוב וללמוד, כולל VLA-JEPA, LingBot-VA ו-FastWAM. זה גם כולל מודלי פרסום שמאפשרים לרובוטים לדעת מתי הם צודקים. העדכון גם כולל תמיכה בעומק, הסתברות ואנוטציות של שפה. זה גם כולל תמיכה באופן עצמאי של רובוטים, FSDP והכשרה בענן. העדכון גם כולל קיצור של הקוד, והוספת תמיכה ל-6 תקן חדשים לבדיקה."
+  },
+  {
+    "id": "9966a930248aecc7",
+    "title_original": "How Open Models Are Driving AI Research",
+    "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+    "description": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work.  This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-06T16:00:00+00:00",
+    "fetched_at": "2026-07-07T07:48:30.824049+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Open Models Are Driving AI Research",
+    "summary_he": "The International Conference on Machine Learning (ICML) has revealed a clear direction in AI research, with open frontier models and open AI infrastructure becoming foundational to modern AI science. NVIDIA's open models, including Nemotron and Cosmos, have been widely cited in accepted papers, reflecting the importance of these tools in driving breakthroughs. Researchers are leveraging these open models to accelerate development in areas such as robotics, life sciences, and synthetic data generation.",
+    "details_he": "The ICML 2026 accepted papers demonstrate the significant impact of open models on AI research, with NVIDIA's contributions being particularly notable. The use of open frontier models and infrastructure has enabled researchers to accelerate breakthroughs in various fields, including robotics, life sciences, and synthetic data generation. For example, the DreamDojo paper has pushed the boundary of how AI systems learn to reason about and act in physical environments, while the FLIP2 paper has introduced public benchmarks for testing AI's ability to predict the effects of protein mutations. The open research stack, including Nemotron and Cosmos, has given researchers the tools to accelerate breakthroughs and has enabled the creation of high-quality training sets at a scale and speed that was previously impractical."
+  },
+  {
+    "id": "f7ab064ae0bb9447",
+    "title_original": "PRX Part 4: Our Data Strategy",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-06T15:30:55+00:00",
+    "fetched_at": "2026-07-07T07:48:30.424327+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Photoroom/prx-part4-data"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "PRX Part 4: Our Data Strategy",
+    "summary_he": "בחירת נתוני המודל PRX הייתה תהליך מסובך, שבו הצוות השתמש במגוון נתונים ציבוריים ופנימיים, ואף ניצל כלים קיימים לבניית הנתונים.",
+    "details_he": "הצוות של PRX השתמש בנתונים ציבוריים ופנימיים לבניית המודל, ואף ניצל כלים קיימים לבניית הנתונים. הם גם פיתחו תפיסה של תיאורים ארוכים, שמתארים את כל התמונה. הצוות הבין שהשימוש בנתונים ציבוריים ופנימיים, ואף ניצול כלים קיימים, היה דרך קלה ומהירה לבניית הנתונים, אך לאו דווקא הטובה ביותר. הם גם למדו שהשימוש בנתונים ציבוריים ופנימיים, ואף ניצול כלים קיימים, היה דרך קלה לבניית הנתונים, אך לאו דווקא הטובה ביותר."
+  },
+  {
+    "id": "395fe716ba23da57",
+    "title_original": "How Nations Are Deploying AI for Strategic Priorities",
+    "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+    "description": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turbocharging innovation across every facet of society. Countries are investing in AI capabilities so […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-06T15:00:25+00:00",
+    "fetched_at": "2026-07-07T07:48:30.824049+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Nations Are Deploying AI for Strategic Priorities",
+    "summary_he": "Nations are investing in AI capabilities to design, train and deploy models tailored to local citizens, services and regulations, leveraging domestic infrastructure and local expertise.",
+    "details_he": "Countries are developing foundation models, such as large language models, built by local teams and trained on local datasets, to reflect regional dialects, cultural context and specific domains. These models can be used for various applications, including speech AI, software code generation, drug discovery and cybersecurity. The emergence of AI factories, next-generation data centers hosting advanced computing platforms, is also crucial for national AI capabilities."
+  },
+  {
+    "id": "147a1a5e203f3d6e",
+    "title_original": "5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/",
+    "description": "Read five key learnings from the Frost & Sullivan 2025 Frost Radar™ for CSPM to learn how CSPM is evolving from point-in-time compliance to continuous risk management.The post5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Managementappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-07-06T16:00:00+00:00",
+    "fetched_at": "2026-07-07T07:48:37.734507+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management",
+    "summary_he": "Frost & Sullivan's 2025 Frost Radar™ for Cloud Security Posture Management highlights significant changes in the field, shifting focus from one-time compliance checks to ongoing risk assessment and mitigation.",
+    "details_he": "According to the report, Cloud Security Posture Management (CSPM) is evolving to prioritize continuous risk management over point-in-time compliance. This shift is expected to impact the way organizations approach cloud security, with a greater emphasis on proactive measures to prevent security breaches. The report provides valuable insights for businesses looking to improve their cloud security posture, with recommendations for implementing effective CSPM strategies."
+  },
+  {
+    "id": "122884a3f2dd197e",
+    "title_original": "Not All Attack Graphs Are Created Equal",
+    "url": "https://pentera.io/blog/why-active-validation/",
+    "description": "How active validation changes exposure managementThe postNot All Attack Graphs Are Created Equalappeared first onPentera.",
+    "source_name": "Pentera Blog",
+    "source_url": "https://pentera.io/blog",
+    "category": "cyber",
+    "published": "2026-07-06T13:01:25+00:00",
+    "fetched_at": "2026-07-07T07:48:47.526599+00:00",
+    "sources": [
+      {
+        "name": "Pentera Blog",
+        "url": "https://pentera.io/blog/why-active-validation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Not All Attack Graphs Are Created Equal",
+    "summary_he": "בעולם הביטחון, גרפים של תקיפה נחשבים כבסיס, אבל לא כולם שווים. גרפים פעילים, המבצעים תקיפות אמיתיות, יכולים לגלות חולשות שאין להן תגובה על-פי גרפים עקיפים.",
+    "details_he": "גרפים של תקיפה, המבוססים על נתונים עקיפים, מציגים תאוריות על חולשות ואפשרויות לתקיפה, אבל אלה אינן תקיפות אמיתיות. גרפים פעילים, המבצעים תקיפות אמיתיות, יכולים לגלות חולשות שאין להן תגובה על-פי גרפים עקיפים. זה נובע מכך שגרפים עקיפים אינם מבצעים תקיפות אמיתיות, ולכן אינם יכולים לגלות חולשות שאין להן תגובה. גרפים פעילים, המבצעים תקיפות אמיתיות, יכולים לגלות חולשות שאין להן תגובה על-פי גרפים עקיפים. זה נובע מכך שגרפים פעילים מבצעים תקיפות אמיתיות, ולכן יכולים לגלות חולשות שאין להן תגובה."
+  },
+  {
+    "id": "5a99b30ae72227e6",
+    "title_original": "Cavern Manticore: Exposing Iran-Linked Modular C2 Framework",
+    "url": "https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/",
+    "description": "Key Points Introduction Since early 2026, Check Point Research (CPR) has tracked a new modular command-and-control framework used by Cavern Manticore, an Iran-nexus APT group primarily targeting Israeli organizations, with a focus on IT providers, and government sectors. Cavern Manticore is an Iran MOIS (Ministry of Intelligence and Security)-linked actor, with links to the OilRig […]The postCavern Manticore: Exposing Iran-Linked Modular C2 Frameworkappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-06T12:25:02+00:00",
+    "fetched_at": "2026-07-07T07:48:42.481539+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cavern Manticore: Exposing Iran-Linked Modular C2 Framework",
+    "summary_he": "Check Point Research (CPR) חשף פרקטיקה חדשה של קבוצת APT מקשרת לאיראן, שמשתמשת בפרקטיקה חדשה של C2, כדי לפגוע בארגונים ישראלים, כולל ספקי טכנולוגיה וארגונים ממשלתיים.",
+    "details_he": "CPR חשף פרקטיקה חדשה של Cavern Manticore, קבוצת APT מקשרת לאיראן, שמשתמשת בפרקטיקה חדשה של C2, כדי לפגוע בארגונים ישראלים. הפרקטיקה כוללת שימוש במספר פורמטים של קוד, כולל .NET Framework, .NET Mixed-Mode C++/CLI ו-.NET Native AOT. הפרקטיקה נועדה למנוע את האפשרות לבדוק את הקוד, על ידי כך שהיא משתמשת בפורמטים שונים לכל חלק. CPR חשף גם כי הקבוצה משתמשת בפלטפורמה SysAid כדי להפציל את הקוד, וכי הקוד נועד לפגוע בארגונים ישראלים, כולל ספקי טכנולוגיה וארגונים ממשלתיים."
+  },
+  {
+    "id": "5a1f869165ee61b5",
+    "title_original": "6th July – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/",
+    "description": "For the latest discoveries in cyber research for the week of 6th July, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES River Bank & Trust, a US financial institution, has experienced a ransomware incident after an unauthorized actor accessed the network of parent company River Financial Corporation on June 16. The bank found […]The post6th July – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-06T12:01:54+00:00",
+    "fetched_at": "2026-07-07T07:48:42.481539+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "6th July – Threat Intelligence Report",
+    "summary_he": "Check Point מספקת הגנה נגד חדשות אבטחה חדשות, כולל Oracle E-Business Suite Authentication Bypass ו-Citrix NetScaler Out Of Bounds Read.",
+    "details_he": "Check Point Threat Emulation ו-Harmony Endpoint מספקות הגנה נגד Oracle E-Business Suite Authentication Bypass (CVE-2026-46817) ו-Citrix NetScaler Out Of Bounds Read (CVE-2026-8451). Progress Kemp LoadMaster Commad Injection (CVE-2024-1212, CVE-2026-8037) גם נכלל ברשימת החדשות. ה-BFSI משתמשת בקוביות על אתר זה, ואנו משתמשים בקוביות כדי לאפשר חוויה מהירה וקלה יותר עבורך."
+  },
+  {
+    "id": "38809ce21ebd235c",
+    "title_original": "When checking the URL isn’t enough: a Device Code Phishing attack via a Microsoft website",
+    "url": "https://securelist.com/microsoft-device-code-phishing-attack/120350/",
+    "description": "The OAuth 2.0 Device Authorization Grant specification was designed to streamline authentication for Smart TVs, IoT devices, and printers. Today, threat actors are weaponizing it.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-07-06T09:00:43+00:00",
+    "fetched_at": "2026-07-07T07:48:40.452760+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/microsoft-device-code-phishing-attack/120350/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When checking the URL isn’t enough: a Device Code Phishing attack via a Microsoft website",
+    "summary_he": "The OAuth 2.0 Device Authorization Grant specification was designed to streamline authentication for Smart TVs, IoT devices, and printers. Today, threat actors are weaponizing it.",
+    "details_he": ""
+  }
+]
