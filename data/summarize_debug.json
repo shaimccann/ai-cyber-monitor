@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-07T07:49:01.525894+00:00",
+  "timestamp": "2026-07-08T06:35:22.770572+00:00",
   "errors": [
     {
-      "title": "When checking the URL isn’t enough: a Device Code Phishing attack via a Microsof",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 1251)",
+      "title": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 858)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 84,
+  "total_scanned": 81,
   "selected": 10
 }

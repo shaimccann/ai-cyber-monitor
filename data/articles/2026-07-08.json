@@ -1,0 +1,212 @@
+[
+  {
+    "id": "e1f7d3ef1689812a",
+    "title_original": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-07T21:15:33+00:00",
+    "fetched_at": "2026-07-08T06:34:52.026727+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "summary_he": "Amazon SageMaker AI הציגה היום פעילות חדשה שמאפשרת למפתחים לעבור מגילוי דגם לניסוי ידני ב- SageMaker Studio באמצעות קליק אחד.",
+    "details_he": "פעילות זו, שבין Hugging Face ל-Amazon SageMaker AI, יוצרת דרך ישירה יותר מגילוי דגם להפעלה עסקית. כעת, כאשר מפתחים חופשיים דגם ב-Hugging Face, הם יכולים להיכנס ישירות ל-SageMaker Studio ולהתחיל לנסות את הדגם. פעילות זו יוצרת דרך ישירה יותר ומקלה על הפעלה עסקית. "
+  },
+  {
+    "id": "e17d71c253d45b32",
+    "title_original": "Hugging Face Models on Foundry Managed Compute",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-07T15:20:06+00:00",
+    "fetched_at": "2026-07-08T06:34:52.026727+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hugging Face Models on Foundry Managed Compute",
+    "summary_he": "Microsoft הציגה את Hugging Face models על Foundry Managed Compute, המאפשרת למפתחים להשתמש במודלים פתוחים מ-Hugging Face, שעודכנו שבועית, ולהתקין אותם באופן אחד-לצעד ב-Foundry Managed Compute.",
+    "details_he": "Foundry Managed Compute היא פלטפורמה של Microsoft שמאפשרת למפתחים לבנות ולהפעיל אפליקציות AI אגנטיות. הפלטפורמה מציעה אוסף רחב של מודלים, כולל מודלים מ-Microsoft, OpenAI, Anthropic, Meta, Mistral, DeepSeek, Hugging Face, ואחרים. Foundry Managed Compute היא אחת מהאפשרויות של הפלטפורמה, ומאפשרת למפתחים להשתמש במודלים פתוחים מ-Hugging Face, שעודכנו שבועית, ולהתקין אותם באופן אחד-לצעד. הפלטפורמה כוללת גם כלי ניהול ותצוגה, כמו ריצוף, ניטור, ובדיקה, וכן כלי לאימות ולהפעלה של המודלים."
+  },
+  {
+    "id": "69db34e069cf1a40",
+    "title_original": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+    "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+    "description": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-07T15:00:52+00:00",
+    "fetched_at": "2026-07-08T06:34:52.288708+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+    "summary_he": "AI innovators are adopting NVIDIA Vera, a new category of CPUs designed for the agentic AI era, which prioritizes single-threaded performance at scale to maximize AI factory revenue and agent performance.",
+    "details_he": "The adoption of NVIDIA Vera is significant because it addresses the need for CPUs that can handle the persistent and parallel nature of agentic work, which requires strong performance per core under load, enough memory bandwidth per core, and predictable latency. Traditional CPUs were not optimized for this type of work, which is characterized by swarms of agents running continuously and advancing through a chain of steps. By prioritizing single-threaded performance at scale, NVIDIA Vera is designed to keep each agent step fast while the system is fully loaded, delivering excellent throughput and the fastest possible single-core task performance."
+  },
+  {
+    "id": "9619ffe23d5f0fe9",
+    "title_original": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "description": "Managed agents feature bundle launch",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-07-07T08:54:00+00:00",
+    "fetched_at": "2026-07-08T06:34:50.903968+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "summary_he": "Google DeepMind מגדילה את יכולות האגנטים המנוהלים ב-API של Gemini, כולל תהליכים רקע, רישום רחוק ל-MCP ועוד.",
+    "details_he": "Google DeepMind הוסיפה תמיכה ביכולות חדשות, כגון תהליכים רקע לשיחות אסינכרוניות, קישור קל לרישום רחוק ל-MCP, תכונות נושאיות ועדכון זהויות. העדכונים מתגובה לדרישות המפתחים ולצורכי המוצר. עם אגנטים מנוהלים ב-API של Gemini Interactions, ניתן לקרוא למסד נתונים אחד ו-Gemini ידאג לתפקוד, ריצה, התקנה, ניהול קבצים וגישה למידע על האינטרנט בסביך ערפל. "
+  },
+  {
+    "id": "383a3e4d345e9431",
+    "title_original": "מהגדולות בהיסטוריה: יצרנית השבבים הדרום־קוריאנית מנפיקה בנאסד\"ק",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001548567#utm_source=RSS",
+    "description": "SK Hynix, יצרנית שבבי הזיכרון הדרום־קוריאנית, מתכוננת להנפקת ענק בנאסד\"ק: החברה מבקשת לגייס 28.1 מיליארד דולר לפי שווי של כ־1.2 טריליון דולר • המסחר במניה צפוי להתחיל ביום שישי הקרוב במה שעשוי להפוך לאחת מהנפקות הטכנולוגיה הגדולות בהיסטוריה",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-08T04:59:00+00:00",
+    "fetched_at": "2026-07-08T06:35:20.839416+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001548567#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מהגדולות בהיסטוריה: יצרנית השבבים הדרום־קוריאנית מנפיקה בנאסד\"ק",
+    "summary_he": "SK Hynix, יצרנית שבבי הזיכרון הדרום־קוריאנית, תגייס 28.1 מיליארד דולר בנפקה בנאסד\"ק, והמסחר במניה צפוי להתחיל ביום שישי הקרוב.",
+    "details_he": "SK Hynix, יצרנית שבבי הזיכרון הדרום־קוריאנית, מתכוננת להנפקה בנאסד\"ק, שיכולה להיות אחת מהנפקות הטכנולוגיה הגדולות בהיסטוריה. החברה מבקשת לגייס 28.1 מיליארד דולר, והמסחר במניה צפוי להתחיל ביום שישי הקרוב. על פי שווי של כ־1.2 טריליון דולר, זו תהיה אחת ההנפקות הגדולות ביותר בשנים האחרונות."
+  },
+  {
+    "id": "ceca0d7aab1a1768",
+    "title_original": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
+    "url": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/",
+    "description": "A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination.The postVidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflationappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-07-07T22:00:21+00:00",
+    "fetched_at": "2026-07-08T06:35:04.837210+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
+    "summary_he": "A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination.The postVidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflationappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "f14a9dbb69e51431",
+    "title_original": "How Unified Policies Close Security Gaps",
+    "url": "https://blog.checkpoint.com/hybrid-mesh/how-unified-policies-close-security-gaps/",
+    "description": "As organizations adopt both on-premises firewalls and cloud-delivered SASE, security becomes more distributed and complex. Users connect from headquarters, branch offices, and remote locations, expecting the same secure and seamless internet experience everywhere. When Internet Access policies across firewalls and SASE are managed separately, maintaining consistency becomes harder, increasing the risk of human error and misconfiguration.  The 2026 Verizon Data Breach Investigations Report found that misconfiguration is one of the top recurring error types in breaches year after year, noting that, “the fact that Misconfiguration remains among the top errors over time is rather concerning.” In environments with separate Internet Access policies, that risk is […]The postHow Unified Policies Close Security Gapsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-07T13:00:40+00:00",
+    "fetched_at": "2026-07-08T06:35:15.406315+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/hybrid-mesh/how-unified-policies-close-security-gaps/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Unified Policies Close Security Gaps",
+    "summary_he": "Organizations adopting both on-premises firewalls and cloud-delivered SASE face increased security complexity due to distributed user connections. This complexity can lead to human error and misconfiguration, as seen in the 2026 Verizon Data Breach Investigations Report, which highlights misconfiguration as a top recurring error type in breaches.",
+    "details_he": "The report notes that the persistence of misconfiguration as a top error type is concerning, and environments with separate Internet Access policies inherently increase this risk. Managing policies across multiple systems requires security teams to manually replicate updates and validate alignment, leading to errors, differences between environments, and a fragmented security posture. This results in inconsistent policy enforcement, increased risk of configuration errors, and higher operational complexity."
+  },
+  {
+    "id": "e9eabf845988cdbc",
+    "title_original": "Threat landscape for industrial automation systems. Q1 2026",
+    "url": "https://securelist.com/industrial-threat-report-q1-2026/120643/",
+    "description": "This report contains industrial threat statistics for Q1 2026, including industrial threat distribution by type, source, region and industry.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-07-07T10:00:11+00:00",
+    "fetched_at": "2026-07-08T06:35:04.950888+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/industrial-threat-report-q1-2026/120643/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat landscape for industrial automation systems. Q1 2026",
+    "summary_he": "בסביבה התעשייתית, רמת האיומים על מערכות האוטומציה התעשייתית נמשכת לרעה. על אף שהאחוז של מחשבי ICS שבהם נספרו חפצים מזיקים הוא 19.6%, הדבר נחשב לאחוז הנמוך ביותר בשלוש שנים.",
+    "details_he": "בסביבה התעשייתית, רמת האיומים על מערכות האוטומציה התעשייתית נמשכת לרעה. על אף שהאחוז של מחשבי ICS שבהם נספרו חפצים מזיקים הוא 19.6%, הדבר נחשב לאחוז הנמוך ביותר בשלוש שנים. זאת, על פי דוח של Kaspersky ICS CERT. האחוז הנמוך ביותר נרשם באירופה הצפונית, 9.1%, והגבוה ביותר באפריקה, 27.4%. בחמש רגיונים, האחוז של מחשבי ICS שבהם נספרו חפצים מזיקים עלה בשלושה רבעונים, כולל אירופה הדרומית, אירופה הצפונית ורוסיה."
+  },
+  {
+    "id": "e6727df2905add71",
+    "title_original": "Zero Trust for AI Agents Starts After Login",
+    "url": "https://www.catonetworks.com/blog/zero-trust-for-ai-agents-starts-after-login/",
+    "description": "Zero Trust was built to fix an older assumption: if you were inside the network, you were trusted. Then, Cloud, SaaS and remote work broke that, so security moved toward identity, device checks, MFA, least privilege, and continuous verification. But now, with agents, the messy bit starts after access. The agent reads a prompt, pulls...The postZero Trust for AI Agents Starts After Loginappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-07-07T09:52:04+00:00",
+    "fetched_at": "2026-07-08T06:35:11.115764+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/zero-trust-for-ai-agents-starts-after-login/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Zero Trust for AI Agents Starts After Login",
+    "summary_he": "תפקיד האג'נטים במערכות המידע נהפך לבעיה חדשה, שכן הם יכולים לבצע פעולות שונות, כמו קריאת פרטים, קריאת תצורות, קריאת API, ועוד. זה גורם לבעיה, שכן האג'נטים יכולים לבצע פעולות שונות, ולא ניתן לדעת האם הפעולה הבאה היא תקינה.",
+    "details_he": "בעיית האג'נטים היא המשך של הבעיה של הזהות של המכונה. כאשר האג'נטים יכולים לבצע פעולות שונות, ולא ניתן לדעת האם הפעולה הבאה היא תקינה. זה גורם לבעיה, שכן האג'נטים יכולים לבצע פעולות שונות, ולא ניתן לדעת האם הפעולה הבאה היא תקינה. הבעיה היא גדולה, שכן האג'נטים יכולים לבצע פעולות שונות, ולא ניתן לדעת האם הפעולה הבאה היא תקינה. זה גורם לבעיה, שכן האג'נטים יכולים לבצע פעולות שונות, ולא ניתן לדעת האם הפעולה הבאה היא תקינה."
+  },
+  {
+    "id": "42ba6f38a685afe8",
+    "title_original": "Capitalize on Mythos Hype to Fix Your Exposure and Vulnerability Management",
+    "url": "https://xmcyber.com/blog/capitalize-on-mythos-hype-to-fix-your-exposure-and-vulnerability-management/",
+    "description": "The cybersecurity market is reactively panicking about automated vulnerability identification and autonomous AI exploit builders. With the emergence of automated toolsets like Anthropic’s Claude...The postCapitalize on Mythos Hype to Fix Your Exposure and Vulnerability Managementappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-07-07T07:49:27+00:00",
+    "fetched_at": "2026-07-08T06:35:15.007875+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/capitalize-on-mythos-hype-to-fix-your-exposure-and-vulnerability-management/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Capitalize on Mythos Hype to Fix Your Exposure and Vulnerability Management",
+    "summary_he": "בעיצומת התקפות אי-אי חדשות, חברות תקינות צריכות להתאים את תפיסתן לסביבה החדשה. חברות רבות נזנחו את חולשות האופרציה שלהן, והצפיות הפורצות על חדשנות זו וזו, גורמות להם להתבונן בחולשות אלו כאשר הן נחשפות.",
+    "details_he": "הצפיות על חדשנות זו וזו, גורמות לחברות רבות להתבונן בחולשות האופרציה שלהן. על פי Gartner, 48% מהחברות נותנות עדיפות לחולשות על פי סבירות והשפעה עסקית, ואילו 52% נותנות עדיפות לפי חשיפה. חברות רבות נזנחו את חולשות האופרציה שלהן, והצפיות הפורצות על חדשנות זו וזו, גורמות להם להתבונן בחולשות אלו כאשר הן נחשפות. הצפיות הפורצות על חדשנות זו וזו, גורמות לחברות רבות להתבונן בחולשות האופרציה שלהן."
+  }
+]
