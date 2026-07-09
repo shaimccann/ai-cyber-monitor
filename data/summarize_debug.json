@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-08T06:35:22.770572+00:00",
+  "timestamp": "2026-07-09T07:46:19.491846+00:00",
   "errors": [
     {
-      "title": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 858)",
+      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Imag",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 1101)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 81,
+  "total_scanned": 90,
   "selected": 10
 }

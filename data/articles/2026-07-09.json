@@ -1,0 +1,212 @@
+[
+  {
+    "id": "c8776ba9c4b86338",
+    "title_original": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-08T17:16:05+00:00",
+    "fetched_at": "2026-07-09T07:45:54.632286+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Data for Agents",
+    "summary_he": "NVIDIA's Nemotron open data products are crucial for developing agentic AI, as they provide access to a wide range of data, including software engineering traces, tool-use failures, and multi-step reasoning. Synthetic data plays a key role in enhancing these datasets, enabling the creation of more robust and explainable AI agents.",
+    "details_he": "NVIDIA's Nemotron open data products are designed to help developers build more sophisticated AI agents that can interact with the physical world. The products include Nemotron-CC, Nemotron-CC-MATH, and Nemotron Pretraining, which leverage synthetic data to improve reasoning and pretraining. By releasing open datasets, NVIDIA aims to foster a collaborative AI ecosystem where multiple stakeholders can contribute and learn from each other. Synthetic data is a crucial component of this ecosystem, as it allows teams to preserve useful signals without exposing sensitive information."
+  },
+  {
+    "id": "cc5025207b59806b",
+    "title_original": "Flint: A visualization language for the AI era",
+    "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+    "description": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications.The postFlint: A visualization language for the AI eraappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-07-08T16:00:00+00:00",
+    "fetched_at": "2026-07-09T07:45:54.115898+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Flint: A visualization language for the AI era",
+    "summary_he": "Flint היא שפת תצוגה שנועדה לסייע לאגנטים AI ליצור תרשימים מעוצבים באופן תקין, על בסיס הפרטים הבסיסיים שלהם.",
+    "details_he": "Flint נועדה לפתור את הבעיה של יצירת תרשימים מעוצבים, כאשר חלקי התצוגה נמצאים בין פשוטות למדי, ובין פרטים נמוכים. השפה משתמשת בסוגי נתונים סמנטיים כדי לבחור את הפרמטרים המתאימים לתרשימים, ומאפשרת לאגנטים AI ליצור תרשימים מעוצבים באופן תקין, על בסיס הפרטים הבסיסיים שלהם. Flint גם מאפשרת לאגנטים AI ליצור תרשימים שונים, על בסיס אותו פרט."
+  },
+  {
+    "id": "f2f15a16b9c10968",
+    "title_original": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+    "description": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-08T15:00:27+00:00",
+    "fetched_at": "2026-07-09T07:45:54.942954+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+    "summary_he": "LangChain's Deep Agents harness has achieved benchmark-leading performance with NVIDIA Nemotron 3 Ultra, outperforming top closed models at a lower cost. This was achieved without retraining the model, but by tuning the environment around it. The result is a fully open stack that can be customized, owned, and run anywhere.",
+    "details_he": "LangChain's agent engineering platform, which has over 200 million monthly downloads, has successfully tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra. This has led to high-performing agents that complete more tasks, run faster, and give enterprises a fully open stack. The approach of tuning the environment around the model, rather than retraining it, has been hailed as a key factor in achieving this success. Enterprises such as Abridge, Amdocs, and Box are already embedding specialized agents into their platforms, while global systems integrator EY is expanding its NVIDIA implementation capabilities to help clients customize and govern these agents. This development has significant implications for the adoption of AI in enterprises, with NVIDIA founder and CEO Jensen Huang noting a recent leap in useful AI for businesses."
+  },
+  {
+    "id": "9acc90ee09a8cf1f",
+    "title_original": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "description": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-08T13:30:00+00:00",
+    "fetched_at": "2026-07-09T07:45:52.362941+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/government-national-security-partnerships"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Our approach to government and national security partnerships",
+    "summary_he": "OpenAI publishes principles for its national security partnerships, aiming to balance AI capabilities with democratic accountability and the rule of law.",
+    "details_he": "The company's National Security Principles reflect a cross-company effort to develop a comprehensive approach to its work in national security and law enforcement. OpenAI engaged a leading national security expert, David Kris, to facilitate the process and provide independent judgment. The principles will guide the company's current and future partnerships with governments and allied partners, including its work with the U.S. Department of War. OpenAI has established trusted access partnerships with several countries, including Australia, Canada, and the UK, for cyber defense and biosecurity. The company aims to be transparent about how its technology can and cannot be used in sensitive settings."
+  },
+  {
+    "id": "4d7f1dec14227b83",
+    "title_original": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "description": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-08T13:00:00+00:00",
+    "fetched_at": "2026-07-09T07:45:52.362941+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Separating signal from noise in coding evaluations",
+    "summary_he": "במסגרת חקירה נרחבת, נמצאו בעיות נרחבות ב-SWE-Bench Pro, ונאמד שכ-30% מהמשימות הן שבורות.",
+    "details_he": "החקירה המקיפה חשפה בעיות נרחבות ב-SWE-Bench Pro, ומעריכים שכ-30% מהמשימות הן שבורות. הבעיות נגרמו בעיקר ממבחנים קפדניים, פניות חסרות ספיציפיקציה, מבחנים שאינם כוללים תכונות חשובות, ופניות שמובילות להתנהגות שגויה. החקירה גם הדגישה את החשיבות של בדיקת איכות הנתונים, ואת היכולת של סוכני AI לבדוק את איכות הנתונים באופן סקאלבלי."
+  },
+  {
+    "id": "1c94ffe4e3d2e5a4",
+    "title_original": "Protecting Microsoft at AI speed: How SFI proactively hardens our cloud",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
+    "description": "At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed.The postProtecting Microsoft at AI speed: How SFI proactively hardens our cloudappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-08T17:00:00+00:00",
+    "fetched_at": "2026-07-09T07:45:59.894612+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Protecting Microsoft at AI speed: How SFI proactively hardens our cloud",
+    "summary_he": "Microsoft ניהלה פיתוח של מערכת AI שמספקת אבחון והתאמה קדימה של התשתיות הענן שלה, כדי להגביר את בטיחותן.",
+    "details_he": "בעקבות התקדמות ה- AI, כל ארגון שבנה או רץ תוכנה בקנה מידה גדול, צריך לבצע בדיקות מתמשכות ופרואקטיביות כדי לוודא שהבטיחות המערכתית נכונה, הבטיחות המערכתית מעוצבת ופועלת כראוי. Microsoft הקימה את יוזמת Secure Future, כדי לנהל את הדרישות הבטיחותיות, ידע ופרקטיקות עבודה. המערכת של Microsoft מספקת חוות דעת ומספקת ידע, וכן פועלת כדי להגביר את הבטיחות של התשתיות הענן שלה."
+  },
+  {
+    "id": "42d53c9018fd2baa",
+    "title_original": "HPC AI Workloads Need Runtime Security. The Architecture Already Exists.",
+    "url": "https://www.sentinelone.com/blog/hpc-ai-workloads-need-runtime-security-the-architecture-already-exists/",
+    "description": "Learn how to secure HPC AI infrastructure against runtime and supply chain threats via continuous behavioral monitoring.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-07-08T16:24:38+00:00",
+    "fetched_at": "2026-07-09T07:46:03.042664+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/hpc-ai-workloads-need-runtime-security-the-architecture-already-exists/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "HPC AI Workloads Need Runtime Security. The Architecture Already Exists.",
+    "summary_he": "בעוד הממשל הפדרלי של ארצות הברית משקיע 600 מיליון דולר במערכת AI המתקדמת ביותר, חברת SentinelOne טוענת שהפרדיגמה הקיימת לביטחון עבודות HPC אינה מתאימה לפרויקט זה.",
+    "details_he": "הפרדיגמה הקיימת לביטחון עבודות HPC, NIST SP 800-234, הותקנה לעבודות HPC המוגדרות, כגון סימולציות של תגובות גרעיניות, הגנה על ביוטק, ומודלים של רשת החשמל. אולם, עבודות AI חורגות מהאפיונים הללו, כיוון שהקוד שלהם אינו ניתן לחיזוי, ולא ניתן לסרוק אותו באופן סטטי. חברת SentinelOne הציגה הצעה רשמית ל-NIST HPC Security Working Group, ו-NIST הודיעה על כך שהם מכירים בפער זה."
+  },
+  {
+    "id": "021ded8af69a5feb",
+    "title_original": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
+    "url": "https://www.wiz.io/blog/ghostapproval-a-trust-boundary-gap-in-ai-coding-assistants",
+    "description": "Uncovering a category-level blind spot in modern AI coding assistants, and why the Human-in-the-Loop safety model fails against this classic threat",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-08T14:00:00+00:00",
+    "fetched_at": "2026-07-09T07:46:03.474217+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/ghostapproval-a-trust-boundary-gap-in-ai-coding-assistants"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
+    "summary_he": "חשיפת חולשה בתקני AI לעזרה בכתיבת קוד, שמאפשרת גישה לקבצים רגישים.",
+    "details_he": "בחינה של 6 מתקני AI לעזרה בכתיבת קוד, חשפה חולשה שמאפשרת למתקנים לגשת לקבצים רגישים. החולשה, שנקראת GhostApproval, נמצאה ב-6 מתקני AI, כולל Amazon Q Developer, Anthropic Claude Code, Augment, Cursor, Google Antigravity, ו-Windsurf. החולשה נבעה משימוש בקישורי סמלים (symlinks), שמאפשרים למתקנים לגשת לקבצים שאינם בתחום העבודה. החולשה נמצאה על ידי צוות של חוקרי ביטחון, שחקרו את האפשרות של שימוש בקישורי סמלים בתקני AI. החולשה נחשפה ב-6 מתקני AI, ו-3 מהם תיקנו את הבעיה במהירות."
+  },
+  {
+    "id": "c3a1592629cf98a0",
+    "title_original": "Wiz ASM for any environment, any risk, everywhere",
+    "url": "https://www.wiz.io/blog/wiz-asm-auto-recon",
+    "description": "Protect the modern attack surface with new auto-reconnaissance capabilities, deep internal context, and the Red Agent to find any risk, anywhere.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-08T12:19:24+00:00",
+    "fetched_at": "2026-07-09T07:46:03.474217+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-asm-auto-recon"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz ASM for any environment, any risk, everywhere",
+    "summary_he": "בעולם הבינאומי של האפליקציות האינטרנטיות, חברות הטכנולוגיה נאלצות להתמודד עם זרימה מהירה של פיתוח והפצת אפליקציות, כולל אלה שנבנו באמצעות AI. כתוצאה מכך, הסף התקיפה גדל במהירות, ובעלי הזכויות נאלצים לשמור על ראות רציפה ולגלות חשאיות חדשות.",
+    "details_he": "Wiz ASM, פלטפורמת האבטחה, פותחה כדי לספק ראות רציפה לחברות ולספק תמיכה בגילוי חשאיות. Wiz ASM מספקת שני עמודי תווך עיקריים: גילוי רציף וכיסוי סיכון מלא. Wiz ASM גם כוללת יכולת של חקירה אוטומטית, המאפשרת לארגונים לגלות כל התת-תחומים השייכים להם. הפלטפורמה תומכת בגילוי חשאיות ובסיכוי לספק תמיכה רציפה לארגונים."
+  },
+  {
+    "id": "eba1bce842be00a3",
+    "title_original": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+    "url": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
+    "description": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default.\n\n\"You can also @-mention Instagram accounts in the Meta AI app to bring specific Instagram profiles right into your images,\" the social media giant said in a post.\n\n\"Whether you want to design a custom event invitation",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-07-09T12:51:06+05:30",
+    "fetched_at": "2026-07-09T07:45:57.350655+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+    "summary_he": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default.\n\n\"You can also @-mention Instagram accounts in the Meta AI app to bring specific Instagram profiles right into your images,\" the social media giant said in a post.\n\n\"Whether you want to design a custom event invitation",
+    "details_he": ""
+  }
+]
