@@ -1,0 +1,212 @@
+[
+  {
+    "id": "659c0b9b305a600f",
+    "title_original": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+    "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "description": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.The postAurora 1.5: Extending open foundation models for weather and Earth-system applicationsappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-07-09T16:46:22+00:00",
+    "fetched_at": "2026-07-10T07:43:29.973655+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+    "summary_he": "Microsoft השיקה את Aurora 1.5, מודל תקצירי ארץ שמספק נתונים מעודכנים על מזג האוויר, כולל 22 נתונים חדשים והערכות סבירות.",
+    "details_he": "Aurora 1.5 היא גרסה משופרת של המודל התקצירי של Microsoft, Aurora Earth System, שמספקת 22 נתונים חדשים על מזג האוויר, כולל נתונים על תנאי אוויר, וכן הערכות סבירות. המודל פורסם בצורה פתוחה על GitHub וב-Hugging Face, ומאפשר לחוקרים ומפתחים להשתמש בו, לבדוק אותו ולבנות עליו. המודל נועד לספק נתונים מעודכנים על מזג האוויר ועל האקלים, ולהקל על קביעת החלטות ותכנון. המודל יכול לספק נתונים על 22 נושאים שונים, כולל טמפרטורה, לחות, וכן נתונים על תנאי אוויר. המודל נועד לספק נתונים מעודכנים על מזג האוויר, ולסייע לארגונים להקל על קביעת החלטות ותכנון."
+  },
+  {
+    "id": "b5c8dcb129192895",
+    "title_original": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+    "description": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also gets an update in the cloud, […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-09T13:00:55+00:00",
+    "fetched_at": "2026-07-10T07:43:31.161167+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+    "summary_he": "GeForce NOW, a cloud gaming service, is expanding its reach in Canada with a new server in Toronto, powered by the GeForce RTX 5080. This move brings high-performance cloud gaming closer to local members, offering improved gaming experiences on various devices. The service is also adding new games and features to its library.",
+    "details_he": "The new server in Toronto will provide GeForce RTX 5080-class power in the cloud, enabling users to stream games at up to 4K resolution and 120 frames per second on supported devices. The service is also introducing native touch controls to the game 'NTE: Neverness to Everness', allowing players to seamlessly jump between devices and continue their adventure without the need for downloads or additional storage space. Additionally, three new games are joining the GeForce NOW library this week, including 'Granblue Fantasy: Relink' with its Endless Ragnarok expansion."
+  },
+  {
+    "id": "27ff1808bf421a4f",
+    "title_original": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-09T13:00:00+00:00",
+    "fetched_at": "2026-07-10T07:43:28.465558+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "summary_he": "Microsoft 365 Copilot החלה להשתמש ב-GPT-5.6, מודל הלמידה עצמית החדיש של OpenAI, כדי לשפר את יכולות המערכת לסייע למשתמשים בפיתוח תוכן, בניתוח נתונים ובשיתוף פעולה.",
+    "details_he": "GPT-5.6, המודל החדיש של OpenAI, יכול לשפר את יכולות המערכת לסייע למשתמשים בפיתוח תוכן, בניתוח נתונים ובשיתוף פעולה. המודל יכול לסייע למשתמשים ליצור תוכן שלאורך כל תהליך הפיתוח, ולאפשר להם לבצע בינוני ניתוח נתונים. כמו כן, המודל יכול לסייע למשתמשים ליצור הצגות ויזואליות יותר, ולאפשר להם לשתף פעולה בצורה יעילה יותר. השינוי יאפשר למשתמשי Microsoft 365 Copilot ליצור תוכן שלאורך כל תהליך הפיתוח, ולאפשר להם לבצע בינוני ניתוח נתונים."
+  },
+  {
+    "id": "a9d25f01d0fe9f1f",
+    "title_original": "Capturing token IDs during agentic interactions for better reinforcement learning",
+    "url": "https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning",
+    "description": "A new Rust proxy called Turnstile sits between the model backend and the agent harness to capture information lost in mere text transcripts.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-07-09T12:46:00+00:00",
+    "fetched_at": "2026-07-10T07:43:31.315191+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Capturing token IDs during agentic interactions for better reinforcement learning",
+    "summary_he": "A new Rust proxy called Turnstile has been developed to improve reinforcement learning in language models by capturing token IDs during interactions. This allows for more accurate tracking of the model's actions and decisions, enabling better training and optimization. The proxy sits between the model backend and the agent harness, capturing information lost in text transcripts.",
+    "details_he": "Turnstile records the exact token-level history of every request as it happens, at the moment of generation, and exports a generic, framework-neutral trajectory that can feed into any RL training stack. This enables more accurate tracking of the model's actions and decisions, which is crucial for reinforcement learning. The proxy is open source and available now, allowing developers to easily integrate it into their existing agent harness and start capturing token-native rollout data for RL training."
+  },
+  {
+    "id": "4144c4d7b33f5aca",
+    "title_original": "ChatGPT is now a partner for your most ambitious work",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "description": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-09T10:00:00+00:00",
+    "fetched_at": "2026-07-10T07:43:28.465558+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ChatGPT is now a partner for your most ambitious work",
+    "summary_he": "ChatGPT Work, an agent within the ChatGPT platform, has been developed to assist users with complex tasks and projects. This new feature utilizes the GPT-5.6 model, allowing it to reason through multi-step tasks and create materials based on user templates and reference files.",
+    "details_he": "ChatGPT Work is designed to take action across various apps and files, enabling users to focus on high-level tasks while the agent handles the details. The feature is powered by the latest frontier model, GPT-5.6, which has been shown to be effective in managing complex projects and workflows. With Scheduled Tasks, ChatGPT Work can continue working on projects even when the user is away from their computer or phone. Early testing has demonstrated the potential of ChatGPT Work in automating repetitive tasks and streamlining workflows, with users reporting significant productivity gains and improved efficiency."
+  },
+  {
+    "id": "167d8945431e2559",
+    "title_original": "How ProdSec uses Wiz",
+    "url": "https://www.wiz.io/blog/how-prodsec-uses-wiz",
+    "description": "Automation, resilience, and security for the modern age",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-09T16:20:08+00:00",
+    "fetched_at": "2026-07-10T07:43:39.783560+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/how-prodsec-uses-wiz"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How ProdSec uses Wiz",
+    "summary_he": "ProdSec, the Product Security team at Wiz, has developed a comprehensive toolkit for cloud security by integrating Wiz into their developer workflow and infrastructure fabric. This approach enables them to automate security checks and proactive threat modeling, reducing the risk of misconfigurations and vulnerabilities.",
+    "details_he": "ProdSec uses Wiz CLI scanning in CI/CD pipelines to automate security checks on every pull request, and integrates with version control systems like Github to scan pull requests, secrets, and infrastructure-as-code. They also leverage Cloud Configuration Rules (CCRs) to evaluate cloud resources against secure baselines and raise findings when they drift. Additionally, ProdSec relies on the Wiz Blue Agent to automate threat detection and response, using dynamic detection rules informed by real-world incidents and continuous research."
+  },
+  {
+    "id": "3633004f1853d591",
+    "title_original": "Wiz in the Verizon DBIR: How AI Acceleration and Cloud Sprawl Impact Modern Defense",
+    "url": "https://www.wiz.io/blog/verizon-dbir-2026-ai-cloud-security",
+    "description": "Verizon's latest DBIR highlights how attackers are exploiting familiar weaknesses at increasing speed and scale. Here's what Wiz research reveals about vulnerabilities, trust relationships, and AI in modern cloud environments.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-09T16:18:49+00:00",
+    "fetched_at": "2026-07-10T07:43:39.783560+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/verizon-dbir-2026-ai-cloud-security"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz in the Verizon DBIR: How AI Acceleration and Cloud Sprawl Impact Modern Defense",
+    "summary_he": "בדו\"ח השנתי של Verizon DBIR, נראה כי פושעי סייבר המשיכו להצליח בפריצה לארגונים דרך חולשות ידועות, אך הם מצליחים לעשות זאת במהירות ובקנה מידה גדול יותר. חברת Wiz תרמה מחקר לדו\"ח, והממצאים מראים כי ארגונים קשים להפחתת סיכון במהירות דיו כדי לקפץ עם פני השטח הרחבים והמהירות הגוברת של הפריצה.",
+    "details_he": "בדו\"ח ה-DBIR, נראה כי פושעי סייבר משתמשים בחולשות, יחסי אמון וסביבות ענן מורכבות יותר כדי ליצור יותר אפשרויות מאשר המגנים. הדו\"ח מצא כי 31% מהפריצות התחילו עם פריצה של חולשה, ו-40% מהפריצות בסביבות ענן התחילו עם חולשה מוצגת. נראה כי ארגונים קשים להפחתת סיכון במהירות דיו, והם נאלצים להתמודד עם 50% יותר חולשות שצריכות להירמז, והזמן הממוצע לרמז עלה מ-32 ימים ל-43 ימים."
+  },
+  {
+    "id": "720bda76284a5051",
+    "title_original": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
+    "description": "GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats.The postGigaWiper: Anatomy of a destructive backdoor assembled from multiple malwareappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-09T15:00:00+00:00",
+    "fetched_at": "2026-07-10T07:43:35.638342+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
+    "summary_he": "חברת Microsoft גילתה תוכנת חסימה משולבת, GigaWiper, שמשלבת יכולות של פגיעה והחסימה. התוכנה, שנכתבה בשפת Go, כוללת מספר תכונות, כולל פגיעה בדיסקים, תכונת 'רansomware' כוזבת והחסימה של רמת המערכת.",
+    "details_he": "GigaWiper, התוכנה, היא תוכנת חסימה משולבת שכוללת יכולות של פגיעה והחסימה. התוכנה, שנכתבה בשפת Go, כוללת מספר תכונות, כולל פגיעה בדיסקים, תכונת 'ransomware' כוזבת והחסימה של רמת המערכת. התוכנה נכתבה כדי לאפשר לתוקפים לבחור בין מספר תכונות, כולל פגיעה בדיסקים, תכונת 'ransomware' כוזבת והחסימה של רמת המערכת. חברת Microsoft גילתה כי התוכנה נכתבה כדי לאפשר לתוקפים לבחור בין מספר תכונות, כולל פגיעה בדיסקים, תכונת 'ransomware' כוזבת והחסימה של רמת המערכת."
+  },
+  {
+    "id": "c85f95af25802d6b",
+    "title_original": "A New Ransomware Leader Emerges as June 2026 Attack Volumes Climb Worldwide",
+    "url": "https://blog.checkpoint.com/research/a-new-ransomware-leader-emerges-as-june-2026-attack-volumes-climb-worldwide/",
+    "description": "Key takeaways Weekly cyber-attacks per organization reached 2,270 in June 2026, up 10% from May and 17% higher than June 2025 Education, Government, and Telecommunications again sat at the top of the industry list, with Education and Telecommunications posting double-digit gains while Government rose 5% year over year Most regions grew year over year, led by Latin America at a 27% increase, while Africa was the exception with a 9% decline GenAI exposure held roughly steady, though Healthcare and Telecommunications emerged as the industries carrying the most risk from unsafe prompts Ransomware attacks reached 646 for the month, a 33% […]The postA New Ransomware Leader Emerges as June 2026 Attack Volumes Climb Worldwideappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-09T13:00:57+00:00",
+    "fetched_at": "2026-07-10T07:43:48.629619+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/a-new-ransomware-leader-emerges-as-june-2026-attack-volumes-climb-worldwide/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A New Ransomware Leader Emerges as June 2026 Attack Volumes Climb Worldwide",
+    "summary_he": "A new ransomware leader, The Gentlemen, has emerged as global ransomware attacks increased by 33% in June 2026, with most regions experiencing growth except Africa. Education, Government, and Telecommunications were the top-targeted sectors, with Education facing a 16% increase in attacks.",
+    "details_he": "The global average of weekly cyber-attacks per organization reached 2,270 in June 2026, a 10% rise from May and 17% higher than June 2025. The Gentlemen overtook Qilin as the most active ransomware group, with 646 ransomware attacks reported for the month. Education, Government, and Telecommunications were the top-targeted sectors, with Education facing a 16% increase in attacks and Telecommunications posting a 13% rise. Latin America saw the sharpest increase in attacks, with a 27% rise from June 2025. GenAI exposure remained steady, but Healthcare and Telecommunications emerged as the industries carrying the most risk from unsafe prompts."
+  },
+  {
+    "id": "79c82afb050de269",
+    "title_original": "ISC Stormcast For Friday, July 10th, 2026 https://isc.sans.edu/podcastdetail/10002, (Fri, Jul 10th)",
+    "url": "https://isc.sans.edu/diary/rss/33142",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-07-10T02:00:03+00:00",
+    "fetched_at": "2026-07-10T07:43:35.358621+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33142"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Friday, July 10th, 2026 https://isc.sans.edu/podcastdetail/10002, (Fri, Jul 10th)",
+    "summary_he": "ה-SANS Internet Storm Center הגיבה לעדכון חשוב בנוגע לאבטחת מערכות. הם הזהירו מפני פגיעות אפשריות ב-JSON, סוג של נתונים שנמצאים בשימוש נרחב באפליקציות ובמערכות.",
+    "details_he": "ה-ISC Stormcast הציגה תקציר של עדכון אבטחה שהתפרסם ב-7 ביולי 2026. העדכון עוסק בפגיעות אפשריות ב-JSON, שהן סוג של נתונים שנמצאים בשימוש נרחב באפליקציות ובמערכות. ה-ISC Stormcast קראה לצוותי אבטחה לבדוק את המערכות שלהם ולתקן כל פגיעות שייתקנו."
+  }
+]

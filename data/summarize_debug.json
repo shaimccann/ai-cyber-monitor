@@ -1,17 +1,10 @@
 {
-  "timestamp": "2026-07-09T07:46:19.491846+00:00",
-  "errors": [
-    {
-      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Imag",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 19 (char 1101)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-07-10T07:43:56.721178+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 9,
-  "fallback": 1,
-  "total_scanned": 90,
+  "success": 10,
+  "fallback": 0,
+  "total_scanned": 96,
   "selected": 10
 }
