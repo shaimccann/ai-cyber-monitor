@@ -1,0 +1,212 @@
+[
+  {
+    "id": "aa6898a1eed22118",
+    "title_original": "Amazon and University of Michigan give robots a sense of touch",
+    "url": "https://www.amazon.science/blog/amazon-and-university-of-michigan-give-robots-a-sense-of-touch",
+    "description": "HydroShear, a new physics-based simulator, teaches robots how to use their sense of touch to perform complex manipulation tasks, in a way that transfers seamlessly to the real world.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-07-10T17:13:31+00:00",
+    "fetched_at": "2026-07-11T06:21:47.669061+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/amazon-and-university-of-michigan-give-robots-a-sense-of-touch"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Amazon and University of Michigan give robots a sense of touch",
+    "summary_he": "Amazon ואוניברסיטת מישיגן פיתחו טכנולוגיה שמאפשרת לרובוטים לחוש, וזאת על ידי שימוש במצגים פיזיקליים. הטכנולוגיה, שנקראת HydroShear, מאפשרת לרובוטים ללמוד טכניקות של עיבוד חומרים רכים, ולבצע אותן בעולם האמיתי.",
+    "details_he": "HydroShear, הטכנולוגיה החדשה, משלבת דגם פיזיקלי של כוחות טקטיליים, ומאפשרת לרובוטים ללמוד טכניקות של עיבוד חומרים רכים. הטכנולוגיה החדשה נבדקה באמצעות רובוט פרנקה, והצליחה להשיג תוצאה של 93% בארבעה משימות קשות. זאת, בהשוואה ל-34% של טכנולוגיה קודמת, ו-58-61% של טכנולוגיה אחרת. הטכנולוגיה החדשה גם מאפשרת טיפול יעיל בגודל גדול של נתונים, ומצמצמת את הצורך באספקת נתונים מהעולם האמיתי."
+  },
+  {
+    "id": "cab102c21b4fc90e",
+    "title_original": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-10T07:00:00+00:00",
+    "fetched_at": "2026-07-11T06:21:44.788861+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/deutsche-telekom"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "summary_he": "Deutsche Telekom, one of the world's largest telecommunications companies, is undergoing a significant transformation by integrating AI into its operations. The company aims to become an AI-native telco, fundamentally changing how decisions are made and customer journeys are designed.",
+    "details_he": "Deutsche Telekom's transformation involves redesigning employee workflows, customer service, and network operations. The company has seen a 546% increase in AI tool usage since the beginning of 2026, with 50,000+ monthly active users of ChatGPT and API tooling. The company is working closely with OpenAI and other companies to bring AI directly into customer interactions, including live translation, in-call assistants, and post-call summaries. This integration is expected to improve customer service and ultimately outperform traditional support models in certain scenarios."
+  },
+  {
+    "id": "36f4b8cfe1dbe4c5",
+    "title_original": "ברייקינג: אפל תובעת את OpenAI",
+    "url": "https://www.geektime.co.il/apple-sues-openai-over-stealing-trade-secrets/",
+    "description": "דרמה בעמק הסיליקון: Apple הודיעה כי היא תובעת את חברת OpenAI ואת המעצב האגדי שלה לשעבר בטענה כי גנבו ממנה סודות מסחריים. 2 עובדים על הגריל בכתב התביעה אפל תובעת גם את OpenAI וגם את IO Products, חברת החומרה שהקים ג'וני אייב, המעצב האגדי של אפל. כזכור, OpenAI רכשה את החברה על פי שווי חריג […]The postברייקינג: אפל תובעת את OpenAIappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-07-11T05:01:48+00:00",
+    "fetched_at": "2026-07-11T06:22:04.060574+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/apple-sues-openai-over-stealing-trade-secrets/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ברייקינג: אפל תובעת את OpenAI",
+    "summary_he": "אפל תובעת את OpenAI ואת IO Products, חברת החומרה שהקים ג'וני אייב, בטענה כי גנבו ממנה סודות מסחריים. OpenAI טוענים כי הסודות של אפל לא מעניינים אותם.",
+    "details_he": "אפל טוענת כי OpenAI ו-IO Products גנבו ממנה סודות מסחריים, כולל מידע על מוצרים שטרם שוחררו. OpenAI טוענים כי הסודות של אפל לא מעניינים אותם, וכי הם רק רוצים לפתח טכנולוגיות חדשות. אפל טוענת כי OpenAI עודדה את עובדי אפל לשתף מידע סודי, וכי הדבר הוביל לכך ש'עסקי החומרה של OpenAI שנמצאים בחיתוליהם נשענים כעת על היסודות הרעועים ביותר'."
+  },
+  {
+    "id": "709ff6c303ec8428",
+    "title_original": "v2.1.207",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
+    "description": "What's changedAuto mode is now available withoutCLAUDE_CODE_ENABLE_AUTO_MODEopt-in on Bedrock, Vertex AI, and Foundry; disable viadisableAutoModein settingsFixed the terminal freezing and keystrokes lagging while streaming responses containing very long lists, tables, paragraphs, or code blocksFixed remote managed settings from a non-interactive run (claude -p, the SDK) being permanently recorded as consented without ever showing the security consent dialogFixed spurious prompt-injection warnings triggered by benign system-generated conversation updatesFixed the auto-updater overwriting a custom launcher script or symlink at~/.local/bin/claudeon every release;/doctornow reports an externally managed launcherFixed compound commands withcdprompting for permission when the only output redirect was to/dev/nullFixed the transcript jumping above the start of the answer when a response finishes streamingFixedextensions.worktreeConfigbeing left in the repo's.git/config(breaking go-git tools li",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-07-11T00:52:10+00:00",
+    "fetched_at": "2026-07-11T06:22:11.837276+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.207",
+    "summary_he": "הגרסה החדשה של CLAUDE, v2.1.207, כוללת שיפורים רבים, כולל תמיכה באוטו-מוד, תיקון בעיות של קצב הקלקות ופרומפט-אינג'קשן, ושיפורים במצבי עבודה רחוקים.",
+    "details_he": "הגרסה החדשה של CLAUDE, v2.1.207, כוללת תיקון בעיות רבות, כולל תמיכה באוטו-מוד, תיקון בעיות של קצב הקלקות ופרומפט-אינג'קשן, ושיפורים במצבי עבודה רחוקים. השיפורים כוללים גם תיקון בעיות של קצב הקלקות ופרומפט-אינג'קשן, ושיפורים במצבי עבודה רחוקים. כמו כן, הגרסה החדשה של CLAUDE כוללת שיפורים באבטחת המידע, כולל תיקון בעיות של קצב הקלקות ופרומפט-אינג'קשן."
+  },
+  {
+    "id": "530b6e73ddfbe927",
+    "title_original": "Meta removes controversial AI feature on Instagram after backlash",
+    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-10T23:55:07+00:00",
+    "fetched_at": "2026-07-11T06:21:48.741515+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Meta removes controversial AI feature on Instagram after backlash",
+    "summary_he": "Meta החליטה להסיר תכונה חדשה של AI שהייתה זמינה באינסטגרם, לאחר שגררה ביקורת. התכונה אפשרה למשתמשים לשנות תמונות מחשבונות ציבוריים של אינסטגרם באמצעות AI.",
+    "details_he": "Meta הכריזה על תכונה חדשה של AI לאינסטגרם, שנקראת Muse Image, שמאפשרת למשתמשים לייצר תמונות חדשות באמצעות AI. התכונה, שנכללה בקבוצת כלים AI חדשים שהוכרזו בשבוע שעבר, גררה ביקורת חריפה. חברת TechCrunch כתבה מדריך על איך לסגור את התכונה. Meta הכריזה על סילוק התכונה, ובלוג החברה כתב שמטרתה הייתה לספק כלי יצירתי ולתת למשתמשים שליטה באם תוכן ציבורי שלהם יכול להיות מופיע באופן זה. החברה הודיעה שהתכונה 'לא נכונה' ואינה זמינה יותר."
+  },
+  {
+    "id": "4e2f33a5d7be8a2e",
+    "title_original": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
+    "url": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
+    "description": "Unit 42 explores The Gentlemen ransomware operations, revealing the affiliate model driving its rapid growth. Learn more here.The postNo Manners Here: The Ruthless Rise of The Gentlemen Ransomwareappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-07-10T22:00:39+00:00",
+    "fetched_at": "2026-07-11T06:21:53.535185+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
+    "summary_he": "The Gentlemen ransomware, a RaaS program, has been active since at least July 2025, with its operators likely active months earlier as an affiliate of Qilin RaaS. The group's ransomware variants are written in C and Go programming languages, allowing them to spread across different operating systems and virtual infrastructure. They offer affiliates an unprecedented 90% payout.",
+    "details_he": "The Gentlemen's rise to prominence has been marked by their ruthless tactics, including the exploitation of vulnerabilities in edge devices, brute force attacks, and the use of custom backdoors and EDR killer frameworks. Their partnership with BreachForums has also allowed them to recruit affiliates and penetration testers, further expanding their reach. The group's sheer increase in victims claimed in 2026, with over 580 victims across 77 countries, is a concerning trend observed by security researchers."
+  },
+  {
+    "id": "aee0576f16a1d4df",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 28",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-28-8/",
+    "description": "Authorities launch Operation First Light 2026, attackers deploy Forg365 to hijack Microsoft accounts, and rival cyberspies breach Pakistani police networks.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-07-10T16:27:02+00:00",
+    "fetched_at": "2026-07-11T06:21:55.198840+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-28-8/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 28",
+    "summary_he": "Spanish authorities, in collaboration with the FBI, apprehended a key member of pro-Russian hacktivist groups, while international law enforcement agencies conducted a massive crackdown on social engineering and financial fraud, resulting in the arrest of thousands of suspects and seizure of millions in illicit assets.",
+    "details_he": "The operation, dubbed 'Operation First Light 2026', targeted business email compromise, investment scams, and money laundering syndicates, with law enforcement agencies collaborating across 97 countries to block over 31,000 fraudulent bank accounts and virtual wallets. Meanwhile, cyber researchers identified a new phishing-as-a-service operation, Forg365, which targets Microsoft 365 enterprise accounts using AI-generated phishing lures and adversary-in-the-middle techniques."
+  },
+  {
+    "id": "dfed91156d0b0185",
+    "title_original": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/",
+    "description": "Microsoft’s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity.The postSecuring our future: July 2026 progress report on Microsoft’s Secure Future Initiativeappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-10T16:00:00+00:00",
+    "fetched_at": "2026-07-11T06:21:51.611416+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
+    "summary_he": "Microsoft השיקה דוח עדכן על התקדמותה במגמת האבטחה Secure Future Initiative. הדוח מציג תקדימים בבסיסי אבטחה, הגנה בעזרת AI ואבטחה עבור העתיד.",
+    "details_he": "הדוח של Microsoft Secure Future Initiative כולל תקדימים בבסיסי אבטחה, הגנה בעזרת AI ואבטחה עבור העתיד. הדוח מציג תקדימים באבטחה של Microsoft, כולל פיתוח של טכנולוגיות חדשות ושיפור של תכונות האבטחה של Microsoft 365."
+  },
+  {
+    "id": "fd61ca675dcb295b",
+    "title_original": "How Check Point Email Security Stopped a Student Job Scam Before It Reached the Inbox",
+    "url": "https://blog.checkpoint.com/email-security/how-check-point-email-security-stopped-a-student-job-scam-before-it-reached-the-inbox/",
+    "description": "A student receives what looks like a routine summer job offer from a trusted school account. The link goes to Google Forms. The email passes authentication. There is no malware, no fake login page, and no strange-looking domain. To the student and to many security tools, it looks harmless.  But this is where modern phishing succeeds: it borrows trust instead of faking it. In this case, Check Point Research observed more than 3,200 copies of a phishing campaign targeting students with the promise of flexible summer work. The emails were sent from a compromised but legitimate school mailbox and directed […]The postHow Check Point Email Security Stopped a Student Job Scam Before It Reached the Inboxappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-10T13:00:27+00:00",
+    "fetched_at": "2026-07-11T06:22:03.998298+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/email-security/how-check-point-email-security-stopped-a-student-job-scam-before-it-reached-the-inbox/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Check Point Email Security Stopped a Student Job Scam Before It Reached the Inbox",
+    "summary_he": "Check Point Email Security הצליחה לעצור תקיפה של תעמולה עבור תפקידי קיץ, שהטרידה תלמידים ודרשה מהם למסור פרטים אישיים.",
+    "details_he": "Check Point Research צפתה ביותר מ-3,200 עותקים של תקיפה של תעמולה עבור תפקידי קיץ, שהטרידה תלמידים ודרשה מהם למסור פרטים אישיים. הדבר הצליח כי הוא נראה כתעמולה רגילה: חשבון תיכוני, קישור ל- Google Forms. Check Point Email Security הצליחה לעצור את התקיפה כי היא חוקרת את ההקשר הרחב של ההודעה, כולל המקור, התנהגות, המטרה והיעד. הסימנים החשובים הם: התנהגות המשלוח: האם החשבון התיכוני החדש היה שולח תעמולה לתפקידי קיץ בכמות חריגה? כבר אם החשבון עבר את האוטנטיפיקציה, הוא עדיין יכול להיות חריג. המטרה: התעמולה קראה לתלמידים להצטרף לתפקידי קיץ, אך הפניה לטופס הייתה חסרת פרטים. הטופס דרש מהתלמידים למסור פרטים אישיים שניתן להשתמש בהם לפנייה פישינג או חבלה בחשבון."
+  },
+  {
+    "id": "2e42290e4dd5d2d4",
+    "title_original": "Redefining the CISO Contract: From Securing the Business to Securely Doing Business",
+    "url": "https://blog.checkpoint.com/ai-security/redefining-the-ciso-contract-from-securing-the-business-to-securely-doing-business/",
+    "description": "Walk into almost any executive leadership meeting right now and you’ll find the same dynamic playing out. The CEO is asking how the company can do more with AI, faster. Engineering teams are already three sprints deep into building something new. And when the CISO walks into the room, the energy subtly shifts. The unspoken question is always the same: is this person here to help us move, or to slow us down? That dynamic is an issue, and I think it’s one the security community has to own. The CISO has long carried the label of the “Office of […]The postRedefining the CISO Contract: From Securing the Business to Securely Doing Businessappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-07-10T09:05:33+00:00",
+    "fetched_at": "2026-07-11T06:22:03.998298+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/redefining-the-ciso-contract-from-securing-the-business-to-securely-doing-business/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Redefining the CISO Contract: From Securing the Business to Securely Doing Business",
+    "summary_he": "בעיצומת האייסי, ה-CISO נדרש להפוך מ'משרד הלא' ל'שותף לעסקים', ולפעול באופן שיאפשר לחברה לעשות עסקים באופן בטוח.",
+    "details_he": "אחת הסיבות לכך שה-CISO נתפס כ'משרד הלא' היא העיקרון של 'אחריות' - כלומר, כשקורה פרצה, ה-CISO נתבע להסביר. אך כשה-CISO נדרש להבין את האייסי, הוא נאלץ לשאול שאלות שונות, כגון: מה זה האייסי נבנה לעשות? מי נבנה אותו? האם אנו מבינים את המטרה? ואם נוכל להגביל את תחום הפעולה שלו ולשלוט בהשפעתו? ה-CISO שהבין את ההבדל בין 'אחריות' ל'אטריביות' יהיה בעמדה הטובה ביותר להוביל את החברה דרך השינוי, וה-CISO שיהיה בעמדה הזו יהיה זה שיהיה בעמדה הטובה ביותר להגיע לעמדת ה-CIO או ה-CTO."
+  }
+]
