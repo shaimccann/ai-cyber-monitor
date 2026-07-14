@@ -1,0 +1,212 @@
+[
+  {
+    "id": "71add39fbd676cea",
+    "title_original": "Verifying Rust cryptography in SymCrypt, from standards to code",
+    "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "description": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.The postVerifying Rust cryptography in SymCrypt, from standards to codeappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-07-13T16:00:00+00:00",
+    "fetched_at": "2026-07-14T06:18:56.120633+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Verifying Rust cryptography in SymCrypt, from standards to code",
+    "summary_he": "Rust, Lean, Aeneas, and AI agents are collaborating to enhance formal verification for production cryptographic algorithms, ensuring higher security assurance through verified code and mathematical proofs.",
+    "details_he": "SymCrypt, a cryptographic provider used by Microsoft products and services, is leveraging Rust and Lean to develop new verified cryptography. The combination of Rust's memory-safety features and Lean's formal proof framework provides two layers of assurance, making the verification process scalable and efficient. This approach addresses the limitations of traditional testing and auditing methods, which are insufficient for cryptographic implementations that are often optimized and low-level."
+  },
+  {
+    "id": "572be37f8ec11d67",
+    "title_original": "Empowering India’s next generation of innovators with ATL Saathi",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-07-13T12:37:28+00:00",
+    "fetched_at": "2026-07-14T06:18:55.222007+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Empowering India’s next generation of innovators with ATL Saathi",
+    "summary_he": "Google DeepMind and Atal Innovation Mission are collaborating to empower Indian educators with AI-powered tools, specifically ATL Saathi, a Gemini-powered web application that assists teachers in planning and training.",
+    "details_he": "The initiative aims to provide 24/7 support to over 1.1 crore students across India, leveraging AI to drive meaningful outcomes like accelerated innovation and enhanced learning metrics. ATL Saathi is designed to transform Atal Tinkering Labs into AI-Augmented Discovery Labs, enabling educators to focus on nurturing the next generation of innovators and nation builders. This collaboration is part of Google's 20-year commitment to supporting the education ecosystem through technology, with a focus on teacher-led approaches and digital skills development."
+  },
+  {
+    "id": "a392e3da50fa4165",
+    "title_original": "וואטסאפ הולכת לחסוך למשתמשי אייפון כסף על iCloud",
+    "url": "https://www.geektime.co.il/whatsapp-cloud-backup-ios/",
+    "description": "משתמשי אייפון מכירים היטב את המלכודת: הדרך היחידה כיום לגבות את היסטוריית הוואטסאפ כדי לעבור למכשיר חדש עוברת דרך iCloud, כי בניגוד לאנדרואיד, באייפון פשוט אי אפשר להשתמש בגיבוי הענן של גוגל למשל למטרה הזו. כך שבזמן שמשתמשי אנדרואיד נהנים מ-15GB חינמיים ב-Google One, אפל הקמצנית נותנת רק 5GB, שמספיקים לכלום ולשום דבר. ואז, הפלא […]The postוואטסאפ הולכת לחסוך למשתמשי אייפון כסף על iCloudappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-07-14T06:09:57+00:00",
+    "fetched_at": "2026-07-14T06:19:15.564096+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/whatsapp-cloud-backup-ios/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "וואטסאפ הולכת לחסוך למשתמשי אייפון כסף על iCloud",
+    "summary_he": "ואטסאפ עובדת על פתרון לאייפון שיאפשר למשתמשים לחסוך כסף על iCloud, כאשר הם יכולים לאחסן את השיחות שלהם בגיבוי עצמאי של וואטסאפ. הפתרון כולל 2GB של אחסון בסיסי בחינם, ואפשרות לרכוש תוכניות נוספות כגון 50GB, 100GB, 200GB, 400GB ו-1TB.",
+    "details_he": "משתמשי אייפון יכולים לחסוך כסף על iCloud עקב הפתרון החדש של וואטסאפ. הפתרון כולל 2GB של אחסון בסיסי בחינם, ואפשרות לרכוש תוכניות נוספות. כמו כן, הגיבוי דרך שירות הענן של וואטסאפ יהיה מחויב להיות מוצפן מקצה לקצה, ותוכלו להשתמש ב-Passkey, בלי לזכור סיסמה או קוד גיבוי של 64-ספרות."
+  },
+  {
+    "id": "d7dc554dd84fa063",
+    "title_original": "אינטל משקיעה 5 מיליארד אירו בהרחבת מפעל הייצור באירלנד",
+    "url": "https://techtime.co.il/2026/07/14/intel-282/",
+    "description": "ההשקעה מיועדת להגדיל את כושר הייצור של מעבדי Xeon. תהליך אינטל 3 הופך ל\"סוס העבודה\" של החברה בשוק תשתיות ה-AI. בחודש אפריל השנה רכשה אינטל את מניות אפולו במפעל, תמורת כ-14.2 מיליארד אירו",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-07-14T05:58:28+00:00",
+    "fetched_at": "2026-07-14T06:19:18.945238+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/07/14/intel-282/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "אינטל משקיעה 5 מיליארד אירו בהרחבת מפעל הייצור באירלנד",
+    "summary_he": "חברת אינטל הודיעה על השקעה של 5 מיליארד אירו בקמפוס הייצור שלה בלייקסליפ שבאירלנד, כדי לעמוד בקצב הביקוש למעבדים עבור שוק ה-AI Factories. ההשקעה תאפשר שדרוג מתקני הייצור הקיימים והתקנת ציוד חדש.",
+    "details_he": "ההשקעה של 5 מיליארד אירו בקמפוס הייצור של אינטל בלייקסליפ שבאירלנד, תאפשר שדרוג מתקני הייצור הקיימים והתקנת ציוד חדש. הקמפוס, שנחשב לאחד מאתרי הייצור החשובים של החברה בעולם, יקבל ציוד חדש שיאפשר ייצור מעבדי Xeon 6 והדור הבא של מעבדי Xeon, המבוססים על תהליך הייצור Intel 3. ההשקעה תאפשר גם שיפור בכושר הייצור של המעבדים והגדלת היצור."
+  },
+  {
+    "id": "ee1c6b7f42094530",
+    "title_original": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-14T02:46:42+00:00",
+    "fetched_at": "2026-07-14T06:18:57.968659+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "summary_he": "אנשים שכבר הגיעו להצלחה ועשייתם כבר הייתה, חוזרים לעבוד על AI, כנראה בשל פחד מאובדן של ההזדמנות הגדולה ורצון להרוויח כסף רב יותר.",
+    "details_he": "אנשים כמו טום בלומפילד, שהקים את GoCardless ו-Monzo, ומייק קריגר, שהקים את Instagram, חוזרים לעבוד על AI, כפי שנראה מהצהרותיהם. טום בלומפילד, לדוגמה, הודיע כי הוא נוטל חופשה כדי להצטרף לצוות המחשוב של Anthropic, ומייק קריגר הצטרף ל- Anthropic כראש מוצר. גם אנדריי קרפתי, שהיה חבר ב-OpenAI, חזר לעבוד על AI, וכך גם צ'מת' פליהפיטיה, שהקים את 8090 Labs, ואריק וו, שהקים את NavigateAI."
+  },
+  {
+    "id": "3b1d35665d33a068",
+    "title_original": "AI Security Threats in 2026: Annual Insights from Check Point Research",
+    "url": "https://blog.checkpoint.com/ai-security/ai-security-threats-in-2026-insights-from-check-point-research/",
+    "description": "Key Takeaways Vulnerability response times have collapsed from days to hours. AI can reason about code well enough to generate working exploits at scale, so defenders now face patch windows of 12 to 72 hours instead of the traditional timeframe Your exposed AI infrastructure is being actively probed right now. Model servers, inference endpoints, and agent control panels are facing the internet, and most security teams don’t know they’re there Data leakage through approved AI use doubled in one year. Employees sharing context with generative AI to get useful answers are exposing credentials and source code in ordinary workflows, no […]The postAI Security Threats in 2026: Annual Insights from Check Point Researchappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-14T01:00:42+00:00",
+    "fetched_at": "2026-07-14T06:19:15.366393+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/ai-security-threats-in-2026-insights-from-check-point-research/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Security Threats in 2026: Annual Insights from Check Point Research",
+    "summary_he": "בשנת 2026, חקר Check Point Research חשף כי זמן התגובה לחולשות קרס מיומנות יומיות לשעות. זאת, כי ה-AI יכול לסבור על קוד ולייצר נגיעות עבודה בסקאלה, ולכן הגנת המערכות נאלצת לפעול בזמן זה של 12-72 שעות",
+    "details_he": "בשנה אחת, חשיפת נתונים דרך AI מורשה כפולה. עובדים שותפים עם AI גנרטיבי כדי לקבל תשובות מועילות, ובעצם חשפו זהות וקוד מקור. זאת, ללא צורך בהתקפה. פעולה אחת בשנה זו, נגד סוכנויות ממשלתיות מקסיקניות, הצליחה לחדור ל-9 סוכנויות ולחפש 400 מיליון רשומות. ה-AI פעל באופן עצמאי, עם ניהול מינימלי מאדם. ה-AI גם יצר כלי פשע עם זיהוי ומימוש של חולשות, וזאת, כפי שהוצג ב-9 סוכנויות. ה-AI גם יצר כלי פשע עם זיהוי ומימוש של חולשות, וזאת, כפי שהוצג ב-9 סוכנויות. ה-AI גם יצר כלי פשע עם זיהוי ומימוש של חולשות, וזאת, כפי שהוצג ב-9 סוכנויות. "
+  },
+  {
+    "id": "df1024a5ba11f5b6",
+    "title_original": "AI Security Report 2026",
+    "url": "https://research.checkpoint.com/2026/ai-security-report-2026/",
+    "description": "For years, the cyber security industry tracked AI as a force multiplier: something that made existing attack techniques faster, cheaper, and more accessible. That framing was accurate. But the Annual AI Security Report 2026 from Check Point Research documents a transition that goes further. AI has crossed from assistant to operator. Where it once helped attackers prepare, it now runs the […]The postAI Security Report 2026appeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-14T00:51:31+00:00",
+    "fetched_at": "2026-07-14T06:19:05.703958+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/ai-security-report-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Security Report 2026",
+    "summary_he": "בדו\"ח הביטחון של AI לשנת 2026, Check Point Research דיווח על תפנית חדשה בתחום הביטחון הסייבר. AI, שבעבר סייעה לתוקפים, כיום פוקחת על הפעולות.",
+    "details_he": "בדו\"ח הביטחון של AI לשנת 2026, Check Point Research דיווח על תפנית חדשה בתחום הביטחון הסייבר. AI, שבעבר סייעה לתוקפים, כיום פוקחת על הפעולות. זאת, על פי דיווחים, תוצאה של שנים של פיתוח ושיפור בטכנולוגיות ה-AI. הדו\"ח תומך במסקנה ש-AI כבר לא רק סוקרת ומזהה פעולות, אלא גם פוקחת על הפעולות. זאת, על פי דיווחים, יכולת חדשה של AI, שאפשרת לה להיות יותר יעילה ומשמעותית בהתקפות סייבר."
+  },
+  {
+    "id": "08fc2f482df9f661",
+    "title_original": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
+    "description": "Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications.The postDefending SaaS-based applications against ShinyHunters OAuth abuseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-13T22:02:41+00:00",
+    "fetched_at": "2026-07-14T06:19:01.986100+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
+    "summary_he": "Microsoft Threat Intelligence זיהתה פעילות של גורם פוגע שמשתמש באסטרטגיות תקיפה שמשותפות ל ShinyHunters, כולל קריאת טלפון שקולה, חבלה באספקה והגדרה לא נכונה של גישה אורחת לאפליקציות SaaS.",
+    "details_he": "Microsoft Threat Intelligence זיהתה פעילות של גורם פוגע שמשתמש באסטרטגיות תקיפה שמשותפות ל ShinyHunters, כולל קריאת טלפון שקולה, חבלה באספקה והגדרה לא נכונה של גישה אורחת לאפליקציות SaaS. זה יכול לפגוע בביטחון האפליקציות SaaS. Microsoft ממליצה לארגונים לבדוק את הגדרות האפליקציות שלהם."
+  },
+  {
+    "id": "1aa7328def3aa781",
+    "title_original": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/",
+    "description": "Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare.The postMicrosoft Entra ID security updates: Passkeys are the default authentication method in Entra IDappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-13T17:00:00+00:00",
+    "fetched_at": "2026-07-14T06:19:01.986100+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
+    "summary_he": "Microsoft Entra ID הפכה את passkeys לאופציה המועדפת לאימות, והוציאה לדרך דגם חדש לאימות באמצעות SMS וקול.",
+    "details_he": "Microsoft Entra ID הכריזה על passkeys כאופציה המועדפת לאימות, והוציאה לדרך דגם חדש לאימות באמצעות SMS וקול. השינוי יאפשר למשתמשים להשתמש בpasskeys כדי להתחבר לחשבונם. הדגם החדש יאפשר למשתמשים לבחור אם להשתמש בpasskeys, SMS או קול לאימות."
+  },
+  {
+    "id": "ba620fd5f54d242d",
+    "title_original": "13th July – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 13th July, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES U.S. auto insurer AssuranceAmerica has disclosed a data breach affecting approximately 7 million people. Attackers targeted an employee and used compromised credentials to access company systems, stealing names, contact information, driver’s license […]The post13th July – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-13T13:06:08+00:00",
+    "fetched_at": "2026-07-14T06:19:05.703958+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "13th July – Threat Intelligence Report",
+    "summary_he": "בשבוע שעבר, חברת הביטוח AssuranceAmerica, המספקת ביטוח לרכב, חשפה פריצה למערכותיה, שפגעה בכ-7 מיליון איש. הפריצה התבצעה על ידי פורצים שהשתמשו בזהויות חברי סגל שהוחקו, וגנבו פרטי מידע. ",
+    "details_he": "הפריצה, שהתבצעה בשבוע שעבר, גרמה לחשיפת פרטי מידע של כ-7 מיליון איש, כולל שמות, פרטי קשר, ורישוי רכב. חברת AssuranceAmerica דיווחה כי הפריצה התבצעה על ידי פורצים שהשתמשו בזהויות חברי סגל שהוחקו, וגנבו פרטי מידע. החברה קבעה כי הפריצה התבצעה כדי לגנוב פרטי מידע, ולא לפגוע במערכות המידע שלה."
+  }
+]
