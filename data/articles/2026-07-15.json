@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0187a8891bb6d7d1",
+    "title_original": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+    "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+    "description": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-14T16:45:13+00:00",
+    "fetched_at": "2026-07-15T06:22:40.781785+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+    "summary_he": "Nemotron Labs מציעה דרך לבניית מודלי AI פתוחים שאפשרים לארגונים לבנות AI שהיא תואמת לצורכיהם, נשלטת ואמינה.",
+    "details_he": "Nemotron Labs מציעה דרך לבניית מודלי AI פתוחים שאפשרים לארגונים לבנות AI שהיא תואמת לצורכיהם, נשלטת ואמינה. זאת על ידי שימוש במודלי AI פתוחים שניתן להתאים, לבדוק ולשפר. המודלים הפתוחים מאפשרים לארגונים לבנות AI שהיא תואמת לצורכיהם, נשלטת ואמינה. זאת בניגוד למודלי AI סגורים שאינם מאפשרים לארגונים לבדוק או לשפר את המודל. השימוש במודלי AI פתוחים מאפשר לארגונים לבנות AI שהיא תואמת לצורכיהם, נשלטת ואמינה. זאת על ידי שימוש במודלי AI פתוחים שניתן להתאים, לבדוק ולשפר."
+  },
+  {
+    "id": "f9fe28931b105a3e",
+    "title_original": "Celebrating 25 years of visual search innovation",
+    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "description": "Google Images logo surrounded by illustrations of people searching for different images",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-07-14T16:00:00+00:00",
+    "fetched_at": "2026-07-15T06:22:39.303526+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Celebrating 25 years of visual search innovation",
+    "summary_he": "Google Images marks its 25th anniversary with new features and a look back at its history of innovation in visual search.",
+    "details_he": "Google Images, launched in 2001, revolutionized the way people search for visual content, and over the years, it has introduced several features such as Similar Images, which allows users to find pictures without relying on text alone. To celebrate its 25th anniversary, Google is introducing two new features: a browseable home for Google Images, featuring a dynamic gallery of images, and image generation directly in Search, using its latest Nano Banana model. These updates aim to make the world's visual information instantly accessible and useful."
+  },
+  {
+    "id": "35f6a73ea0829342",
+    "title_original": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+    "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+    "description": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories.  As agentic AI drives token demand […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-14T15:00:20+00:00",
+    "fetched_at": "2026-07-15T06:22:40.781785+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+    "summary_he": "בעולם ה - AI, ה - performance per watt היא המדד החשוב ביותר לביצועי ה - infrastructure. ה - יכולת להפיק כמות גדולה של טוקנים בתקציב כוח האדם תורמת לרווחיות ולתפוקה של מפעלי AI.",
+    "details_he": "בעולם ה - AI, ה - performance per watt היא המדד החשוב ביותר לביצועי ה - infrastructure. ה - יכולת להפיק כמות גדולה של טוקנים בתקציב כוח האדם תורמת לרווחיות ולתפוקה של מפעלי AI. עם זאת, כדי להגיע לביצועים אלה, יש צורך במערכות שמותקנות ומעוצבות יחד, כמו ה - NVIDIA GB300 NVL72, שמסוגלת להגיע לביצועים של 25x performance per watt יותר מה - NVIDIA Hopper. ה - NVIDIA GB300 NVL72 מסוגלת להגיע לביצועים של 25x performance per watt יותר מה - NVIDIA Hopper, וזאת כתוצאה מה - קודסיין הקיצוני שלה, שכולל תכנון יחד של כל חלקי ה - system, מ - silicon ל - software. ה - NVIDIA GB300 NVL72 גם מסוגלת להגיע לביצועים של 20x performance per watt יותר מה - NVIDIA Hopper, וזאת כתוצאה מה - קודסיין הקיצוני שלה."
+  },
+  {
+    "id": "d47af8684aace888",
+    "title_original": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-14T10:00:00+00:00",
+    "fetched_at": "2026-07-15T06:22:38.003831+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to manage AI investments in the agentic era",
+    "summary_he": "בעוד OpenAI ממשיכה להפחית את מחיר הטוקן, חברות עסקיות צריכות לבקר את יעילות ההשקעות שלהן ב-AI. זאת כדי לוודא שההשקעות שלהן יוצרות ערך.",
+    "details_he": "OpenAI דואגת להפחית את מחיר הטוקן, ואכן, GPT-5.6 הצליחה להפחית את המחיר ב-97% בהשוואה ל-GPT-4. עם זאת, המחיר לבדו אינו משקף את הערך שה-AI יוצר. חברות עסקיות צריכות לבדוק את העבודה המועילה שה-AI מבצע, ולבדוק את היעילות של ההשקעות שלהן. זאת כדי לוודא שההשקעות שלהן יוצרות ערך. חברות עסקיות צריכות לבדוק את יעילות ההשקעות שלהן ב-AI, ולבדוק את הערך שה-AI יוצר. זאת כדי לוודא שההשקעות שלהן יוצרות ערך."
+  },
+  {
+    "id": "320c884815311fe2",
+    "title_original": "באג או פיצ'ר? המתחרה של אילון מאסק לקלוד קוד נתפס על חם",
+    "url": "https://www.geektime.co.il/musks-claude-code-competitor-just-took-peoples-data/",
+    "description": "אילון מאסק הגיע באיחור משמעותי לקרב מול קלוד קוד. בזמן של-OpenAI יש מתחרה משלה בדמות Codex וגוגל עדיין לא באמת מאתגרת את השחקניות הגדולות, מאסק ו-SpaceXAI (לשעבר xAI) מנסים לייצר תחרות. במקביל לרכישה של Cursor בסכום עתק, הם השיקו בינתיים את Grok Build כמתחרה ביניים. הבעיה? שבועות ספורים לאחר השחרור שלו, הוא כבר הצליח לייצר […]The postבאג או פיצ'ר? המתחרה של אילון מאסק לקלוד קוד נתפס על חםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-07-15T05:47:15+00:00",
+    "fetched_at": "2026-07-15T06:23:00.557995+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/musks-claude-code-competitor-just-took-peoples-data/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "באג או פיצ'ר? המתחרה של אילון מאסק לקלוד קוד נתפס על חם",
+    "summary_he": "חוקר אבטחה גילה כי המתחרה של אילון מאסק, Grok Build, עלה ריפוז שלמים של משתמשים לענן של SpaceXAI, וגם שחזר סודות שנמחקו. מאסק התנצל והבטיח למחוק הכל.",
+    "details_he": "החוקר, שהתחפש למשתמש, גילה כי Grok Build עלה ריפוז שלמים של משתמשים לענן של SpaceXAI, וגם שחזר סודות שנמחקו. החוקר הסתיר קובץ שסומן בתור never-read, וגם הוא עלה. מאסק התייחס למקרה והבטיח: 'כל מידע של משתמשים שהועלה ל-SpaceXAI עד עכשיו יימחק לחלוטין. לא יישאר דבר'."
+  },
+  {
+    "id": "5c48caf8747f7f30",
+    "title_original": "M-Red-Team: AsyncAPI Supply Chain Compromise via GitHub Actions",
+    "url": "https://www.wiz.io/blog/m-red-team-asyncapi-supply-chain-compromise-via-github-actions",
+    "description": "Detect and mitigate malicious @asyncapi npm packages linked to the latest npm supply chain attack.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-14T10:33:36+00:00",
+    "fetched_at": "2026-07-15T06:22:51.521463+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/m-red-team-asyncapi-supply-chain-compromise-via-github-actions"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "M-Red-Team: AsyncAPI Supply Chain Compromise via GitHub Actions",
+    "summary_he": "Attackers exploited a misconfigured GitHub Actions workflow to steal a highly privileged token and published four malicious npm packages under the @asyncapi namespace, affecting over three million users.",
+    "details_he": "The attack occurred on July 14, 2026, when an attacker opened 37 pull requests to the AsyncAPI generator repository, with one PR exploiting the vulnerability to steal a token. The stolen token, belonging to asyncapi-bot, was used to publish four malicious packages, with five total versions, containing a multi-stage payload that establishes persistence and connects to command and control infrastructure. The malicious packages were published under the @asyncapi namespace and have seen over three million downloads a week. The vulnerability was identified months prior to the attack, but the fix was not implemented, allowing the attacker to exploit it."
+  },
+  {
+    "id": "4390434ca5d54c1a",
+    "title_original": "The EU AI Act Is Here. Is Your AI Environment Ready?",
+    "url": "https://www.catonetworks.com/blog/the-eu-ai-act-is-here/",
+    "description": "AI has moved from experimentation to operational reality. Last year saw a 50% rise in access to AI for employees, with 88% of organizations using AI in at least one business function. Competitive pressure is accelerating AI adoption. While this creates opportunity, it also creates a new level of operational risk. For organizations operating in...The postThe EU AI Act Is Here. Is Your AI Environment Ready?appeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-07-14T08:58:33+00:00",
+    "fetched_at": "2026-07-15T06:22:55.986052+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/the-eu-ai-act-is-here/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The EU AI Act Is Here. Is Your AI Environment Ready?",
+    "summary_he": "עם התפשטות שימוש באיי אם, חברות באיחוד האירופי נדרשות להתאים לחוק האיי אם האירופי, שכבר נכנס לתוקף. חברות רבות עדיין נמצאות בשלבי תכנון והכנה, וזאת כדי להבטיח שהן יכולות להפעיל את השלבים הסופיים של החוק, הכוללים תקנות לשליטה ולניהול.",
+    "details_he": "החוק האירופי לאיי אם נועד לשפר את השליטה והבטיחות בשימוש באיי אם. החוק כולל תקנות לשליטה ולניהול, וכן תקנות להגנת הפרטיות. חברות רבות עדיין נמצאות בשלבי תכנון והכנה, וזאת כדי להבטיח שהן יכולות להפעיל את השלבים הסופיים של החוק. החוק כולל גם סעיפים הקובעים קנסות עבור חברות שלא יקיימו את התקנות. על פי סקר, רק 38% מהחברות מאמינות שהן ישמרו את התקנות לשליטה ולניהול. על פי החוק, חברות שלא יקיימו את התקנות יכולות לקבל קנסות של עד 35 מיליון אירו או 7% מהתוצר העולמי."
+  },
+  {
+    "id": "06d8986d187f6237",
+    "title_original": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
+    "url": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
+    "description": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution.The postSonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploitsappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-07-15T05:19:42+00:00",
+    "fetched_at": "2026-07-15T06:22:45.958437+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
+    "summary_he": "SonicWall הזהירה היום כי חברות המשתמשות במכשירי SMA1000 צריכות לעדכן את התוכנה שלהן כדי למנוע התקפות חדשות של חבורות פריצה. התקפות אלה נעשות באמצעות שני חולשות חדשות שלא ידועו עדיין.",
+    "details_he": "SonicWall הזהירה כי חברות המשתמשות במכשירי SMA1000 צריכות לעדכן את התוכנה שלהן כדי למנוע התקפות חדשות של חבורות פריצה. התקפות אלה נעשות באמצעות שני חולשות חדשות שלא ידועו עדיין, שכונו CVE-2026-15409 ו-CVE-2026-15410. חולשה זו נגרמת כאשר חברות המשתמשות במכשירי SMA1000 אינן מעדכנות את התוכנה שלהן. חבורות פריצה יכולות להשתמש בחולשה זו כדי לגנוב נתונים ולפגוע במערכות המידע של החברות. SonicWall עודדה את החברות לעדכן את התוכנה שלהן כדי למנוע התקפות חדשות של חבורות פריצה."
+  },
+  {
+    "id": "b35613348c206557",
+    "title_original": "ISC Stormcast For Wednesday, July 15th, 2026 https://isc.sans.edu/podcastdetail/10008, (Wed, Jul 15th)",
+    "url": "https://isc.sans.edu/diary/rss/33158",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-07-15T02:00:02+00:00",
+    "fetched_at": "2026-07-15T06:22:46.856483+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33158"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Wednesday, July 15th, 2026 https://isc.sans.edu/podcastdetail/10008, (Wed, Jul 15th)",
+    "summary_he": "SANS Internet Storm Center הפרסם את פודקאסטם השבועי, ISC Stormcast, ליום חמישי ה-15 ביולי 2026. הפודקאסט כולל תקצירים על חדשות אינטרנט וביטחון מידע.",
+    "details_he": "הפודקאסט, שהופץ תחת רישיון Creative Commons Attribution-Noncommercial 3.0 United States License, כולל תקצירים על חדשות אינטרנט וביטחון מידע. ה-ISC Stormcast For Wednesday, July 15th, 2026 זמין להורדה מאתר ה-ISC. הפודקאסט כולל תקצירים על חדשות אינטרנט וביטחון מידע, והוא נועד לעזור לאנשים להישאר מודעים לאיומים המודרניים."
+  },
+  {
+    "id": "96b2588d21495f11",
+    "title_original": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+    "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+    "description": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's previous high of around 200.\n\nThose two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-07-15T01:55:47+05:30",
+    "fetched_at": "2026-07-15T06:22:45.129249+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+    "summary_he": "Microsoft Patch Tuesday הציבה תיקונים ל-622 פגמים, כולל שני פגמים חד-פעמיים שבהם פוגעים התקיפים. התיקונים כוללים פגם ב-SharePoint Server וב-Active Directory Federation Services.",
+    "details_he": "Microsoft Patch Tuesday הציבה תיקונים ל-622 פגמים, כולל שני פגמים חד-פעמיים שבהם פוגעים התקיפים. התיקונים כוללים פגם ב-SharePoint Server וב-Active Directory Federation Services. Microsoft נתנה קרדיט למשיבי התקצורים על שני הפגמים. הפגם ב-SharePoint Server, CVE-2026-56164, מאפשר לתוקף לעלות בדרגות כוח ברשת ללא תמיכה במשתמש. הפגם ב-Active Directory Federation Services, CVE-2026-56155, מאפשר לתוקף לעלות בדרגות כוח מקומי דרך חסמי גישה חלשים. Microsoft רואה את שני הפגמים כפגמים חד-פעמיים, וכן כפגמים שבהם פוגעים התקיפים."
+  }
+]
