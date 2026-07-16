@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fc3ac5cbaf7e2e4f",
+    "title_original": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+    "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+    "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-15T23:00:54+00:00",
+    "fetched_at": "2026-07-16T06:26:11.995429+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+    "summary_he": "NVIDIA השיקה שני מודולים חדשים, T3000 ו-T2000, על בסיס הארכיטקטורה NVIDIA Thor, שמאפשרים יישומים של AI בקנה מידה גדול בתחומי הרובוטיקה וה-Edge AI.",
+    "details_he": "ה-T3000 וה-T2000, המודולים החדשים של NVIDIA, יכולים לבצע 865 FP4 teraflops של AI compute, והם קטנים ויותר קציני-אנרגיה מה-T5000. ה-T3000 כולל GPU NVIDIA Blackwell, CPU Neoverse Arm, 32GB של LPDDR5X זיכרון ו-273GB/s של זיכרון-זמינות, יחד עם 25 GbE חיבור. ה-T2000, לעומת זאת, כולל 400 FP4 teraflops של compute ו-16GB של זיכרון, והוא מספק כניסה למפתחים שבונים זירות AI חכמות, רובוטים ניידים, ומאניפולטורים תעשייתיים. NVIDIA כעת מציעה פלטפורמה AI בקנה מידה גדול, המכסה תצורות AI מ-70 TOPS ל-2,000 teraflops."
+  },
+  {
+    "id": "b52c0bff8bf77161",
+    "title_original": "What building Shippy taught us about building agents",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-15T17:29:41+00:00",
+    "fetched_at": "2026-07-16T06:26:11.684109+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What building Shippy taught us about building agents",
+    "summary_he": "בניית Shippy, סוכן AI למערכת הימית, חידדה את חשיבות העמידה במבחן של תוכנה, במיוחד בתחומים שבהם תשובה לא נכונה עלולה לגרום לנזק. כך, הצוות של Skylight עבד על Shippy, כדי ליצור סוכן AI שיהיה יציב ומסוגל להתמודד עם משימות שונות.",
+    "details_he": "Shippy, סוכן AI למערכת הימית, נבנה כדי להיות יציב ומסוגל להתמודד עם משימות שונות. הצוות של Skylight עבד על Shippy, כדי ליצור סוכן AI שיהיה יציב ומסוגל להתמודד עם משימות שונות. Shippy כולל כלים שונים, כגון: חיפוש EEZ ו MPA, פיענוח נתוני ניווט, וייצור קישורים למפות. Shippy נבנה כדי להיות יציב ומסוגל להתמודד עם משימות שונות, ולא רק להיות מומחה בתחום המערכת הימית."
+  },
+  {
+    "id": "99c1446d232bde0d",
+    "title_original": "Model Routing Is Simple. Until It Isn’t.",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-15T17:27:01+00:00",
+    "fetched_at": "2026-07-16T06:26:11.684109+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model Routing Is Simple. Until It Isn’t.",
+    "summary_he": "The simplicity of model routing is an illusion, as it quickly becomes a complex systems optimization problem due to various factors such as caching, task complexity, and governance requirements.",
+    "details_he": "Building a routing system for models seems straightforward, but it's not. Most routing systems assume model selection is a classification problem, but in reality, it's a systems optimization problem with multiple dimensions. One of these dimensions is cost, which is not just about model pricing. For example, GPT-4.1 was expected to be cheaper than Claude Sonnet 4.6, but it wasn't, due to caching effects that reduced Sonnet's effective input costs. Another dimension is complexity, which is not just about task difficulty. A task may look simple at routing time but may require multiple steps and specialized models, and even if difficulty could be estimated, it's only one signal among many that a router needs to balance. Governance requirements, compliance, data residency, and privacy constraints also play a significant role in model routing."
+  },
+  {
+    "id": "dfdbd22157f6734f",
+    "title_original": "The US is advancing AI safety through state and federal action",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-15T12:00:00+00:00",
+    "fetched_at": "2026-07-16T06:26:09.294843+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The US is advancing AI safety through state and federal action",
+    "summary_he": "מדינות ארצות הברית והממשלה הפדרלית פועלות יחד לשיפור ביטחון האי, כדי ליצור תקן לאומי שישפיע על תקן גלובלי.",
+    "details_he": "מדינות ארצות הברית, כמו קליפורניה, ניו יורק ואילינוי, מפעילות חקיקה לביטחון האי, כדי ליצור תקן משותף לאי החדש. הממשלה הפדרלית עובדת על תקן לאומי, והמדינות עובדות על תקן משותף, כדי ליצור תקן גלובלי. זה יכול להבטיח שהאי יהיה בטוח ויהיה בשימוש של הרבה אנשים, ולא רק של חברות גדולות. המדינות עובדות על תקן משותף, כדי ליצור תקן לאומי, ולאחר מכן, תקן גלובלי. זה יכול להבטיח שהאי יהיה בטוח ויהיה בשימוש של הרבה אנשים."
+  },
+  {
+    "id": "b92a30a1894d57fd",
+    "title_original": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+    "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+    "description": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest advancements. Check back here for updates.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-15T10:51:37+00:00",
+    "fetched_at": "2026-07-16T06:26:11.995429+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+    "summary_he": "NVIDIA ויפן מפתחות את האיי והרובוטיקה לכל התעשיות, כולל רפואה וביוטכנולוגיה.",
+    "details_he": "NVIDIA ושותפיה ביפן הציגו השבוע את הקדמוניות האחרונות באקוסיסטם של האיי. יפן, המושבה של יצרני מוצרי צריכה, רובוטיקה, מבני תשתית וחברות משחקים, היא אחת המרכזים העולמיים של האיי. יפן מפתחת את האיי על כל המשטח, עם טכנולוגיות NVIDIA. הקדמוניות האחרונות של NVIDIA ושותפיה ביפן כוללות רפואה וביוטכנולוגיה. יפן, המושבה של המובילים בתעשיית הרפואה והביוטכנולוגיה, היא כעת גם המושבה של המובילים בתעשיית האיי. המובילים בתעשיית הרפואה ביפן, כולל Astellas, Daiichi Sankyo ו-Ono Pharmaceuticals, הם כעת יוצרים את הקדמוניות האחרונות באיי, כולל רובוטים כירורגיים אוטונומיים, מערכות CT מאומנות על ידי איי, פלטפורמות גילוי תרופות אגנטיות ודגימות תאים וירטואליות."
+  },
+  {
+    "id": "661e12ef08fcfd37",
+    "title_original": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
+    "description": "Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses.The postUnpacking the AsyncAPI npm supply chain compromise and import-time payload deliveryappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-16T01:36:21+00:00",
+    "fetched_at": "2026-07-16T06:26:17.695567+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+    "summary_he": "Microsoft Threat Intelligence זיהתה פגיעה באספקה המספקת של npm של @asyncapi, ארגון ספריות נפוץ ל-AsyncAPI. חמש גרסאות של ספריות שונות, שפורסמו במשך כ-90 דקות, כללו טעינה מחסומית.",
+    "details_he": "הפגיעה, שהתרחשה ב-14 ביולי 2026, כללה חמש גרסאות של ספריות שונות, שפורסמו במשך כ-90 דקות. הספריות, שכללו טעינה מחסומית, היו @asyncapi/specs (בשתי גרסאות: 6.11.2-alpha.1 ו-6.11.2), @asyncapi/generator@3.3.1, @asyncapi/generator-components@0.7.1, ו-@asyncapi/generator-helpers@1.1.1. הפגיעה השפיעה על עבודותיו של מפתחים, על פייפליינס CI/CD, על בניית תיקיות, ועל שירותי ייצור. הפגיעה התרחשה בזמן הטעינה של הספריות, ולא בזמן ההתקנה. Microsoft Defender Antivirus זיהה ומנע את הפגיעה, ו-Microsoft Defender for Endpoint סיפק תמיכה בהתנהגותיות עבור הפעילות החשודה."
+  },
+  {
+    "id": "4baca642058889d6",
+    "title_original": "The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
+    "url": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
+    "description": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more.The postThe npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-07-15T23:00:33+00:00",
+    "fetched_at": "2026-07-16T06:26:19.987190+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
+    "summary_he": "במהלך שנת 2025, האקרים החלו להשתמש בנגזרות npm כדי להפצית מל\"ט, וב-2026, הם החלו להשתמש בהם כדי להפצית תוכנות זדוניות.",
+    "details_he": "בספטמבר 2025, האקרים פיתחו את ה-Shai-Hulud, תוכנת מל\"ט שהייתה יכולה להתרבות עצמאית ולהפצית תוכנות זדוניות. מאז, יחידת 42 תפסה תקיפות ספקים של npm שהתגברו. באפריל 2026, יחידת 42 תפסה שתי תקיפות, ובמאי 2026, התקיפות התגברו. ביוני 2026, האקרים פיתחו תוכנת מל\"ט שפיצה תוכנות זדוניות, וביולי 2026, הם פיתחו תוכנת מל\"ט נוספת שפיצה תוכנות זדוניות."
+  },
+  {
+    "id": "452870a3b10395dd",
+    "title_original": "Turning threat intelligence into decisive action with Defender Experts",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/",
+    "description": "Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools.The postTurning threat intelligence into decisive action with Defender Expertsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-15T16:00:35+00:00",
+    "fetched_at": "2026-07-16T06:26:17.695567+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Turning threat intelligence into decisive action with Defender Experts",
+    "summary_he": "בעוד צוותי הביטחון נהנים מראות חד-צדדיות חדשות, הם נראים פחות מסוגרים בעניינם. התקשורת הזורמת מהפקודות, זהותות, עבודות-ענן וכלי-שלישי רבים. כתבה זו פורסמה לראשונה בבלוג Microsoft Security.",
+    "details_he": "צוותי הביטחון נתקלים בבעיות נרחבות, וכתוצאה מכך, הם נדרשים לקבל החלטות קפדניות. על ידי שימוש ב-Defender Experts, צוותי הביטחון יכולים להפוך את האינטליגנציה על הסכנות לפעולה מכריעה. זה יאפשר להם לפעול באופן מקיף יותר ולהשיג תוצאות טובות יותר."
+  },
+  {
+    "id": "9f8f1f643b395346",
+    "title_original": "The Agentic Attacker: One Objective, One Prompt, Forty Minutes, Domain Admin – Game Over",
+    "url": "https://www.catonetworks.com/blog/the-agentic-attacker-one-objective-one-prompt-forty-minutes-domain-admin-game-over/",
+    "description": "Executive Summary  In a controlled enterprise lab, we tested how far an agentic attack stack could go by harnessing a frontier model with an agent platform, MCP-enabled tooling, operational context, and enough autonomy to execute a complete attack path. Key Findings The Experiment For years, discussions around offensive AI have focused on whether models can...The postThe Agentic Attacker: One Objective, One Prompt, Forty Minutes, Domain Admin – Game Overappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-07-15T15:54:09+00:00",
+    "fetched_at": "2026-07-16T06:26:26.457612+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/the-agentic-attacker-one-objective-one-prompt-forty-minutes-domain-admin-game-over/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Agentic Attacker: One Objective, One Prompt, Forty Minutes, Domain Admin – Game Over",
+    "summary_he": "חברת הביטחון הסייברית הצליחה לבצע פעולת פגיעה מלאה בת 40 דקות, כשהפצצה הסייברית הגיעה לרמת Domain Admin. הפעולה נעשתה בעזרת תבנית חדשנית של AI, שהצליחה לבצע כל השלבים של הפעולה, כולל חקירה, הפצצה, גילוי פנימי, העלאת זכויות, תנועה צדדית ופעולת נסיגה.",
+    "details_he": "במעבדה תחת חסות, חברת הביטחון הסייברית ביצעה ניסוי כדי לבדוק כמה רחוק תפצצה סייברית יכולה להגיע. הם השתמשו בתבנית חדשנית של AI, שהצליחה לבצע כל השלבים של הפעולה, כולל חקירה, הפצצה, גילוי פנימי, העלאת זכויות, תנועה צדדית ופעולת נסיגה. הניסוי הצליח לבצע פעולת פגיעה מלאה בת 40 דקות, כשהפצצה הסייברית הגיעה לרמת Domain Admin. התבנית החדשנית של AI, שהצליחה לבצע כל השלבים של הפעולה, הייתה OpenAI's GPT-5.5. הניסוי הצליח להדגים כי תבנית חדשנית של AI, שהופעלה בעזרת תוכנה והדרכה, יכולה לבצע פעולת פגיעה מלאה בת 40 דקות."
+  },
+  {
+    "id": "2d216468c8a43c65",
+    "title_original": "The Red Agent POV: The One Boolean That Broke a B2B Platform’s Credit System",
+    "url": "https://www.wiz.io/blog/red-agent-pov-business-logic",
+    "description": "Part 3: How the Red Agent bypassed a credit and paywall system by changing a single client-side value from false to true.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-15T13:33:42+00:00",
+    "fetched_at": "2026-07-16T06:26:22.291167+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/red-agent-pov-business-logic"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Red Agent POV: The One Boolean That Broke a B2B Platform’s Credit System",
+    "summary_he": "Red Agent הצליח לפרוץ את מערכת הקרדיטים של פלטפורמת B2B על ידי שימוש בתנאי-בוליאני אחד, מאפשר למשתמשים חינם לגשת לפרופילים של 600 מיליון עסקים.",
+    "details_he": "Red Agent, תוכנית אוטונומית, סרקה את הפלטפורמה וגילתה פער בין התנאים המותרים לבין התנאים שהפלטפורמה אכן מאפשרת. התגלית התקבלה כאשר ה-Red Agent השתמשה בתנאי-בוליאני אחד, שהיה נגיש רק כאשר נוסף לבקשה, וזאת ללא צורך בתשלום. התגלית הזו, שכונתה 'בעיית-הסקה', היא סוג של חולשה בלוגיקת העסקה. היא קיימת כאשר הבקשה היא תקינה, אך הפלטפורמה עונה עליה בצורה שאינה ראויה. ה-Red Agent הצליחה לגשת לפרופילים של 600 מיליון עסקים, כולל כתובות אימייל, מספרי טלפון וכתובות אימייל אישיות."
+  }
+]
