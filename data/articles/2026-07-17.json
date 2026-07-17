@@ -1,0 +1,212 @@
+[
+  {
+    "id": "f58dd8fe6ec4695c",
+    "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-16T16:01:21+00:00",
+    "fetched_at": "2026-07-17T06:23:14.220471+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "summary_he": "NVIDIA Nemotron 3 Embed, a collection of embedding models, has been released to improve retrieval quality in multi-step agentic workflows. The models, including an 8B model and two 1B variants, achieve state-of-the-art retrieval across the accuracy-efficiency curve. The 8B model ranks #1 on the RTEB leaderboard.",
+    "details_he": "The Nemotron 3 Embed models are designed to improve retrieval quality in agentic workflows, where poor retrieval can cause agents to fetch irrelevant context, re-query, waste token budget, and carry noise into later reasoning steps. The models are available for production-scale RAG, agentic retrieval, code retrieval, and agent memory. The collection includes three open models, with the 8B model being the flagship quality anchor, and two 1B variants that are high-efficiency and hardware-accelerated. The models support multilingual and code retrieval, and provide a production-ready feature set for enterprise retrieval deployments."
+  },
+  {
+    "id": "09afdef15734d9bc",
+    "title_original": "Why teens deserve access to safe AI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-16T16:00:00+00:00",
+    "fetched_at": "2026-07-17T06:23:11.923400+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why teens deserve access to safe AI",
+    "summary_he": "מנכ\"ל OpenAI טוען כי ניתן להגן על נוער מפני סכנות AI על ידי גישה מוגבלת ומניעול. הגישה ל- AI יכולה לסייע לנוער ללמוד ולהתפתח, אך חשוב להגן עליהם מפני סכנות כגון תוכן פוגעני.",
+    "details_he": "OpenAI עובדת על שיפור גישתה ל- AI לנוער, כולל הגדרת גבולות ומניעול. החברה גם פיתחה כלי ללימוד, כגון Study Mode, שמסייע לתלמידים לעבוד דרך בעיות באופן הדרגתי. נכון לעכשיו, כ- 90% מהנוער ב-ChatGPT משתמשים בו ללמוד, למידע, לבניית מיומנויות או לפעילות תוצרתיות בשבוע. OpenAI רואה בגישה ל- AI חשובה, אך חשוב להגן על הנוער מפני סכנות כגון תוכן פוגעני."
+  },
+  {
+    "id": "b782fbb86d4bc841",
+    "title_original": "Connect more of your apps to Search",
+    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "description": "Connected apps rendering",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-07-16T16:00:00+00:00",
+    "fetched_at": "2026-07-17T06:23:13.067012+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Connect more of your apps to Search",
+    "summary_he": "Google Search מאפשרת כיום לחבר אפליקציות נוספות לחיפוש, מאפשרת תכנון פרויקטים והכנה לאירועים. ניתן לחבר אפליקציות כגון Instacart, Canva, או YouTube Music, כדי לבנות רשימות, לעצב פרויקטים, או לבחור שירים.",
+    "details_he": "Google Search מאפשרת כיום לחבר אפליקציות נוספות לחיפוש, מאפשרת תכנון פרויקטים והכנה לאירועים. ניתן לחבר אפליקציות כגון Instacart, Canva, או YouTube Music, כדי לבנות רשימות, לעצב פרויקטים, או לבחור שירים. כך, ניתן לבצע פעולות שונות, כגון רכישת מוצרים, עיצוב פרויקטים, או יצירת רשימות שירים, תוך כדי שימוש בחיפוש. זה מאפשר תכנון פרויקטים והכנה לאירועים בצורה יעילה ומהירה."
+  },
+  {
+    "id": "f03cd65a9f0efcd6",
+    "title_original": "Create, edit and star in videos with two Google Vids updates",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "description": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-07-16T16:00:00+00:00",
+    "fetched_at": "2026-07-17T06:23:13.067012+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Create, edit and star in videos with two Google Vids updates",
+    "summary_he": "Google Vids recently introduced two new features to enhance video creation: Gemini Omni and personal avatars. Gemini Omni enables users to generate and edit high-quality videos using simple text prompts and image references, while personal avatars allow users to create a digital representation of themselves to star in videos.",
+    "details_he": "The Gemini Omni feature simplifies the editing process by allowing users to describe the changes they want to make, such as swapping backgrounds or fixing lighting. Personal avatars can be created by uploading a selfie and a voice recording, providing users with a convenient alternative to traditional video recording. These updates aim to make video creation more accessible and efficient for users, leveraging the capabilities of AI to streamline the process."
+  },
+  {
+    "id": "8af5626c2afe11f3",
+    "title_original": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
+    "description": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can sign up without a waitlist. […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-16T13:00:34+00:00",
+    "fetched_at": "2026-07-17T06:23:14.586263+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
+    "summary_he": "GeForce NOW is expanding its cloud gaming service in India, offering a range of membership options and adding new games to its library. Onimusha: Way of the Sword, a legendary action adventure, will be available on the platform at launch, along with a playable demo. The service now supports UPI payments, making it easier for gamers in India to access high-performance cloud gaming.",
+    "details_he": "GeForce NOW has officially exited beta in India, bringing its high-performance cloud gaming service to more gamers across the country. The platform now offers a range of membership options, including monthly Performance and Ultimate memberships, flexible day passes, and a basic, free offering. Onimusha: Way of the Sword, a new game from Capcom, will be available on GeForce NOW at launch, with a playable demo available to stream. The game features a dark fantasy vision of Edo Japan, where players can master precise swordplay and unleash powerful abilities. The service also supports UPI payments, making it easier for gamers in India to access high-performance cloud gaming."
+  },
+  {
+    "id": "97795107b011a275",
+    "title_original": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/",
+    "description": "From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments.The postACR Stealer: Two observed intrusion chains amid increased threat activityappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-16T23:12:02+00:00",
+    "fetched_at": "2026-07-17T06:23:18.986581+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
+    "summary_he": "Microsoft Defender Experts ראו עלייה בפעילות ACR Stealer במערכות לקוחות בין אפריל 2026 ליוני 2026. המערכות הצליחו לגנוב זהויות משתמש, טוקנים אוטנטיקציה ודוקומנטים רגישים.",
+    "details_he": "במשך חודשיים, Microsoft Defender Experts ראו עלייה בפעילות ACR Stealer. המערכות הצליחו לגנוב זהויות משתמש, טוקנים אוטנטיקציה ודוקומנטים רגישים. המערכות שימשו ClickFix lures, שהן תקלות שקריות, כדי לגנוב נתונים. הפעילות נראתה בעיקר בסביבות עסקיות."
+  },
+  {
+    "id": "0c7978138227eb58",
+    "title_original": "AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report",
+    "url": "https://unit42.paloaltonetworks.com/ai-incident-response-report/",
+    "description": "Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report.The postAI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Reportappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "ai",
+    "published": "2026-07-16T23:00:59+00:00",
+    "fetched_at": "2026-07-17T06:23:20.908004+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ai-incident-response-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report",
+    "summary_he": "The Unit 42 2026 Global Incident Response Report reveals that AI has become a significant factor in speeding up cyberattacks, but not changing their fundamental nature. Threat actors continue to rely on established techniques such as credential theft and phishing, despite the increased efficiency of AI.",
+    "details_he": "The report highlights four defining trends shaping the threat landscape, with AI acting as a force multiplier to increase the speed and efficiency of attacks. However, the attacks observed in recent investigations are largely consistent with historical patterns, indicating that AI is not significantly redefining methods of compromise. This suggests that defenders already have the knowledge and capabilities to prevent, detect and respond to AI-enhanced cyberattacks. Furthermore, the report emphasizes the importance of understanding AI for students and emerging cybersecurity professionals, as it is becoming increasingly essential in the field."
+  },
+  {
+    "id": "e5a490e0108a4c87",
+    "title_original": "Least privilege for AI agents: Identity, access, and tool binding",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/",
+    "description": "As AI agents become more autonomous, strong identity, access, and auditing controls are critical to keeping them secure.The postLeast privilege for AI agents: Identity, access, and tool bindingappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-07-16T16:00:00+00:00",
+    "fetched_at": "2026-07-17T06:23:18.986581+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Least privilege for AI agents: Identity, access, and tool binding",
+    "summary_he": "בעולם האיי אם, זה חשוב להגן על סוכני AI המתאוששים, על ידי ניהול זהויות, גישה ובדיקות אבטחה חזקות.",
+    "details_he": "סוכני AI המתאוששים זקוקים להגנה חזקה, כדי למנוע פגיעה באבטחת המערכת. זהויות, גישה ובדיקות אבטחה חזקות, יכולים להגן על סוכני AI, ולמנוע פגיעה באבטחת המערכת. הגנה זו, חשובה, כדי למנוע פגיעה באבטחת המערכת."
+  },
+  {
+    "id": "721365d077849af3",
+    "title_original": "AI Appreciation Day: Let’s Be Honest About What We’re Appreciating",
+    "url": "https://blog.checkpoint.com/ai-security/ai-appreciation-day-lets-be-honest-about-what-were-appreciating/",
+    "description": "Today is AI Appreciation Day, and honestly, we mean it. AI has changed how we write code, analyze threats, and get work done faster than anyone thought possible a few years ago. It deserves a moment of gratitude. But at Check Point, we spend most of our year studying the other side of that coin and our newly released AI Security Report 2026 makes one thing very clear: the same qualities we’re celebrating today are exactly what’s made AI such a powerful tool for attackers too. So in the spirit of appreciating AI honestly, not just enthusiastically, here’s what a […]The postAI Appreciation Day: Let’s Be Honest About What We’re Appreciatingappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-16T14:46:52+00:00",
+    "fetched_at": "2026-07-17T06:23:33.337799+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/ai-appreciation-day-lets-be-honest-about-what-were-appreciating/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Appreciation Day: Let’s Be Honest About What We’re Appreciating",
+    "summary_he": "ביום AI Appreciation, החברה Check Point הציגה דו\"ח חדש שמציג תמונה חדשה של כוח AI. הדו\"ח מציין ש-AI הפכה לכלי חזק לפורעים, ואף רצה פעולות פרוץ-דרך בעצמה.",
+    "details_he": "הדו\"ח של Check Point מציין ש-AI הפכה לכלי חזק לפורעים, ואף רצה פעולות פרוץ-דרך בעצמה. זאת, לאחר שבשנה שעברה, החברה תיארה AI ככוח מרבד לפורעים. הדו\"ח מציין גם ש-40% מ-10,000 סוגי MCP שנבדקו היו חלשים בביטחון, וכי קוד פומבי הופץ עם זהויות חיוניות. הדו\"ח קורא לארגונים לטפל בביטחון AI, ולא להתעלם מסכנותיו."
+  },
+  {
+    "id": "344c4a00ad2657d0",
+    "title_original": "HelloNet campaign — new malicious modules launched through the ViPNet update system",
+    "url": "https://securelist.com/tr/hellonet-vipnet/120700/",
+    "description": "We identified targeted infection attempts against large Russian organizations using the ViPNet update system (a software suite for creating secure networks).",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-07-16T13:05:56+00:00",
+    "fetched_at": "2026-07-17T06:23:20.989403+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/tr/hellonet-vipnet/120700/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "HelloNet campaign — new malicious modules launched through the ViPNet update system",
+    "summary_he": "במסגרת חקירה, חשפנו קמפיין חדש של תקיפה מלאכותית, שהחל במאי 2026 ועדיין פעיל. התקיפה נעשתה דרך מערכת העדכונים של ViPNet, והיא נמטית לארגונים גדולים ברוסיה, בתחומי הממשלה, האנרגיה, התחבורה, החינוך והלוגיסטיקה.",
+    "details_he": "במהלך החקירה, נמצאו ניסיונות להתקיפה מכוונת של מחשבים של חברות גדולות ברוסיה. התקיפה נעשתה דרך מערכת העדכונים של ViPNet, והיא השתמשה בטכניקת DLL Sideloading. התקיפה כללה גם תוכנת HelloInjector, שהיא טכנולוגיה של טעינת קוד מלאכותי לתהליך svchost.exe. התוכנה גם יכלה לטעון את עצמה לתהליכים אחרים שמכילים את המילה svchost בשם התהליך. התקיפה גם כללה תוכנת HelloProxy, שהיא כלי להפעלת תוכנת HelloBackdoor, שהיא תוכנת backdoor שבונה רשתות ומאפשרת גישה למערכות הקבצים."
+  }
+]
