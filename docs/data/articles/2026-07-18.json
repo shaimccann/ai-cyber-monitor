@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ebd73e42b5acdb19",
+    "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-17T15:57:54+00:00",
+    "fetched_at": "2026-07-18T06:11:17.437428+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "summary_he": "NVIDIA NeMo Automodel and Hugging Face Diffusers collaborate to provide a production-grade, distributed diffusion training solution for any Diffusers-format model on the Hugging Face Hub, without checkpoint conversion or model rewrites.",
+    "details_he": "This collaboration brings together the power of NVIDIA NeMo Automodel and Hugging Face Diffusers to offer a scalable and efficient solution for fine-tuning video and image models. The integration is fully open-source under Apache 2.0 and is documented in the Diffusers training guide. With NeMo Automodel, users can easily train and fine-tune diffusion models using memory-efficient sharding, latent caching, and multiresolution bucketing, making it an ideal choice for researchers and builders. The solution also supports flow-matching models only, using flow matching as the training objective with latent-space caching."
+  },
+  {
+    "id": "3e73f07f07653810",
+    "title_original": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+    "description": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-17T15:00:14+00:00",
+    "fetched_at": "2026-07-18T06:11:17.791690+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+    "summary_he": "NVIDIA Vera Rubin maximizes intelligence per dollar for post-training workloads, a key metric for agentic AI, by refining models after initial training to adapt to shifting environments and edge cases.",
+    "details_he": "Agentic AI models require continuous refinement and adaptation to new environments, edge cases, and tools, making post-training a crucial phase that refines models after initial training. This phase is no longer a one-time finishing step, but rather a continuous process that grows the compute footprint due to the never-ending loop of new problems surfacing in production. NVIDIA's Vera Rubin and NeMo open libraries, such as NeMo Gym and NeMo RL, help turn post-training into repeatable infrastructure, making it easier to maximize intelligence per dollar by improving cost per token."
+  },
+  {
+    "id": "5adb590e8e00b019",
+    "title_original": "A scorecard for the AI age",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-17T10:00:00+00:00",
+    "fetched_at": "2026-07-18T06:11:15.615841+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A scorecard for the AI age",
+    "summary_he": "אוצרות העבודה של AI הם יותר חשובים מאשר העלויות שלה. חברות צריכות לבדוק את הערך של AI על ידי התאמת עבודה, ולא רק על ידי כמות המשתמשים.",
+    "details_he": "בעולם העסקי, הצורך העיקרי הוא להבטיח שהעבודה שמבצעת ה-AI תגיע למידת ערך. כדי לעשות זאת, חברות צריכות לבדוק את העבודה שמבצעת ה-AI, ולא רק את העלויות שלה. הצורך העיקרי הוא לבדוק את העבודה שמבצעת ה-AI, ולא רק את העלויות שלה. חברות צריכות לבדוק את העבודה שמבצעת ה-AI, ולא רק את העלויות שלה."
+  },
+  {
+    "id": "9f0dcc4316c128e6",
+    "title_original": "Neil Rimer thinks the AI money is coming back out",
+    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-18T04:47:25+00:00",
+    "fetched_at": "2026-07-18T06:11:18.789321+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Neil Rimer thinks the AI money is coming back out",
+    "summary_he": "Neil Rimer, co-founder of Index Ventures, believes that the wealth generated by AI will eventually be redistributed, either voluntarily or involuntarily. He thinks tech leaders can play a leading role in this process. This statement comes at a time when philanthropy is becoming less popular among tech billionaires.",
+    "details_he": "Rimer's comment is striking given his background as a successful venture capitalist. He has found ways to give back to society through various philanthropic efforts, including sitting on the board of Endeavor Greece and chairing the board of Human Rights Watch. However, his statement about redistribution comes at a time when The Giving Pledge, a promise made by Warren Buffett and Bill Gates to commit half their fortunes to charity, is becoming increasingly irrelevant. Only four families signed the pledge in 2024, down from 113 in its first five years. Additionally, total American charitable giving hit a record $592.5 billion in 2024, but the number of Americans actually giving has fallen for five straight years, down 4.5% in 2024 alone."
+  },
+  {
+    "id": "63bd7a83570bd8ec",
+    "title_original": "v2.1.214",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214",
+    "description": "What's changedFixed single-segmentdir/**allow rules likeEdit(src/**)auto-approving writes to nesteddir/directories anywhere in the tree instead of only<cwd>/dirFixed a permission-check bypass affecting commands run in Windows PowerShell 5.1 sessionsFixed Bash permission checks to fail closed on file-descriptor redirect forms that bash parses differently than the permission analyzerFixed Bash permission checks misjudging very long commands — commands over 10,000 characters now always prompt instead of running automaticallyFixed Bash permission checks treating zsh variable subscripts and modifiers in[[ ]]comparisons as inert text — these commands now prompt for approvalFixed Bash permission checks to no longer auto-approve certainhelpandmancommands that could run unsafe options, command substitutions, or backslash pathsFixed permission prompts on remote sessions that could proceed before the local confirmation dialogAdded the EndConversation tool: Claude can end sessions with highly abus",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-07-18T01:20:30+00:00",
+    "fetched_at": "2026-07-18T06:11:39.817373+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.214",
+    "summary_he": "Anthropic's Claude AI model has received a significant update, addressing various issues and adding new features to enhance its performance and security.",
+    "details_he": "The update, version v2.1.214, includes fixes for permission-check bypasses, auto-approving writes to nested directories, and misjudging very long commands. It also adds a new tool called EndConversation, which allows Claude to end sessions with highly abusive users or jailbreak attempts. Additionally, the update includes improvements to permission prompts, OpenTelemetry log events, and the rendering of model and effort in custom agent rows. Furthermore, it addresses crashes and bugs related to GrowthBook features and flag payloads, as well as issues with streaming turns and stream-json output truncation."
+  },
+  {
+    "id": "9013959cb552835d",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 29",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/",
+    "description": "Authorities sanction Russian-based cybercriminals, attackers deploy Starland malware, and 300 imposter GitHub repos push BoryptGrab infostealer.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-07-17T16:40:44+00:00",
+    "fetched_at": "2026-07-18T06:11:25.052118+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 29",
+    "summary_he": "The US Treasury Department and the EU have imposed sanctions on several Russian individuals and entities for their involvement in cybercrimes. The sanctions target senior military intelligence officers, cybercriminals, and private companies that have enabled ransomware attacks and compromised critical infrastructure across Europe.",
+    "details_he": "The sanctions were imposed in response to the Russian government's systematic efforts to destabilize international partners and compromise key infrastructure across the continent. The US Treasury Department also sanctioned a virtual private network (VPN) provider and its administrator for supplying infrastructure that helped cybercriminals obscure their identities and manage stolen data. Additionally, three Russian nationals were indicted for operating bulletproof hosting services that facilitated over $62 million in global ransomware damages. The State Department is offering a $10 million reward for actionable information regarding foreign government links to these hosting providers."
+  },
+  {
+    "id": "c5dc2e9931046a49",
+    "title_original": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/",
+    "description": "Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.The postMicrosoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacksappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-17T16:00:00+00:00",
+    "fetched_at": "2026-07-18T06:11:21.842492+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
+    "summary_he": "Microsoft תקיים מפגש בשם Black Hat USA 2026, שבו יוצגו חידושים בתחום הביטחון, כולל חקירות בתשתיות ספקים וניסיונות בביטחון ידני.",
+    "details_he": "ב-Microsoft Security Blog פורסמה הודעה על חגיגות Black Hat USA 2026, שבה יוצגו חידושים בתחום הביטחון, כולל חקירות בתשתיות ספקים. נראה ש-Microsoft תקיים קבלת פנים, ומעריכים שיהיו דיונים רבי ערך. האירוע יערוך ב-2026."
+  },
+  {
+    "id": "4bf0277c35e1c6c4",
+    "title_original": "The State of Hybrid SASE: Built-In vs. Bolted-On",
+    "url": "https://blog.checkpoint.com/hybrid-mesh/the-state-of-hybrid-sase-built-in-vs-bolted-on/",
+    "description": "Hybrid SASE is not a label – it is an architectural commitment. Many enterprises pay twice for SASE: once for the platform, and again for the overhead of integrating and managing components never designed to work as one architecture. Check Point’s Hybrid SASE takes a different path: a single operating model that unifies access and policy. That distinction decides whether traffic is secured and routed predictably – or whether teams spend years working around architectural seams. Take a typical workday. A remote employee connects from a managed laptop, a branch office user accesses a private application, and a contractor opens […]The postThe State of Hybrid SASE: Built-In vs. Bolted-Onappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-17T13:00:51+00:00",
+    "fetched_at": "2026-07-18T06:11:34.393593+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/hybrid-mesh/the-state-of-hybrid-sase-built-in-vs-bolted-on/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The State of Hybrid SASE: Built-In vs. Bolted-On",
+    "summary_he": "Hybrid SASE, an architectural commitment, unifies access and policy through a single operating model, unlike vendors who treat it as a connectivity option.",
+    "details_he": "Many enterprises pay twice for SASE due to the overhead of integrating and managing components, but Check Point's Hybrid SASE takes a different path. This approach avoids the trap of multiple products, policy models, consoles, and tunnel architectures, which can lead to years of working around architectural seams. By applying one operating model across users, devices, branches, applications, gateways, and private connectivity, Hybrid SASE achieves a unified architecture that secures and routes traffic predictably."
+  },
+  {
+    "id": "4a742979de8fae30",
+    "title_original": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
+    "url": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
+    "description": "A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access.The postThree Steps to the Terminal: A Siemens ROX II Zero-Day Trilogyappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-07-17T10:00:24+00:00",
+    "fetched_at": "2026-07-18T06:11:23.773335+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
+    "summary_he": "חברת פלאלו אלטו נטוורקס חשפה פרצה בסיימנס ROX II, שמאפשרת לפוצץ רשת תעשייתית. הפרצה, שהתגלתה על ידי חברת פלאלטו, כוללת שלושה חולשות, שאפשרות לפוצץ רשת תעשייתית.",
+    "details_he": "חברת פלאלו אלטו נטוורקס חשפה פרצה בסיימנס ROX II, שמאפשרת לפוצץ רשת תעשייתית. הפרצה, שהתגלתה על ידי חברת פלאלטו, כוללת שלושה חולשות, שאפשרות לפוצץ רשת תעשייתית. החולשות, שהתגלו במערכות ROX II, מאפשרות לפוצץ רשת תעשייתית, ולכן, חברת סיימנס הוציאה תעודות אבטחה, שממליצות לעדכן את המערכות. החולשות, שהתגלו במערכות ROX II, מאפשרות לפוצץ רשת תעשייתית, ולכן, חברת סיימנס הוציאה תעודות אבטחה, שממליצות לעדכן את המערכות."
+  },
+  {
+    "id": "8cf6be08d29ccc71",
+    "title_original": "Exposure Management Used to Be Baggage Claim.",
+    "url": "https://pentera.io/blog/exposure-management-remediation-programs/",
+    "description": "It's Becoming Air Traffic Control.The postExposure Management Used to Be Baggage Claim.appeared first onPentera.",
+    "source_name": "Pentera Blog",
+    "source_url": "https://pentera.io/blog",
+    "category": "cyber",
+    "published": "2026-07-17T09:34:42+00:00",
+    "fetched_at": "2026-07-18T06:11:29.765021+00:00",
+    "sources": [
+      {
+        "name": "Pentera Blog",
+        "url": "https://pentera.io/blog/exposure-management-remediation-programs/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Exposure Management Used to Be Baggage Claim.",
+    "summary_he": "It's Becoming Air Traffic Control.The postExposure Management Used to Be Baggage Claim.appeared first onPentera.",
+    "details_he": ""
+  }
+]
