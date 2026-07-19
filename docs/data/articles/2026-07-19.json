@@ -1,0 +1,107 @@
+[
+  {
+    "id": "e06538de6cd19273",
+    "title_original": "v2.1.215",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
+    "description": "What's changedClaude no longer runs the/verifyand/code-reviewskills on its own; invoke them with/verifyor/code-reviewwhen you want them",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-07-19T02:56:01+00:00",
+    "fetched_at": "2026-07-19T06:38:14.165440+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.215",
+    "summary_he": "A recent update to the Claude AI model, version 2.1.215, has introduced a change in how certain skills are invoked. The /verify and /code-review skills are no longer automatically run by Claude, and users must now explicitly call these skills using the /verify or /code-review commands.",
+    "details_he": "This change affects users who relied on Claude's automatic execution of the /verify and /code-review skills. The update is part of the Claude model's continuous development and improvement. Users who need to use these skills will need to adapt their workflows to invoke them manually. The update's impact on users who do not rely on these skills is minimal."
+  },
+  {
+    "id": "0db67f5313842970",
+    "title_original": "Kimi: Threat or menace?",
+    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-18T18:51:07+00:00",
+    "fetched_at": "2026-07-19T06:37:46.838852+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Kimi: Threat or menace?",
+    "summary_he": "הוצאת גרסה חדשה של מודל ה-Kimi על ידי חברת Moonshot AI, גררה דיון רחב על סיבות הפתיחה של המודל. על אף שהמודל עדיין נחשב כפחות חזק ממודלים פרטיים, הוא הציג ביצועים גבוהים באופן קבוע.",
+    "details_he": "הפרסום של Moonshot AI, שהתקיים במקביל לנאום של נשיא סין, ג'ינפינג, בכנס AI בשאנגחאי, גרר תגובות חריפות בשוק ההון, עם ירידה של כ-1% ב-Nasdaq. חלק מהדעות שהוצגו על ידי מנהיגי התעשייה הטכנולוגית נראות כחזרה של הדיון שהתקיים לאחר שחברת DeepSeek הציגה את מודל R1 שלה בינואר 2025. הפעם, הדיון הוא גורף יותר, בעקבות מלחמת המכס של הממשלה האמריקאית עם סין, והפעולות הממשלתיות האמריקאיות להגבלת הפיתוח של מודלי AI."
+  },
+  {
+    "id": "7bcae151dfc26efe",
+    "title_original": "Kimi K3 הסיני פיתח שבב בתוך 48 שעות",
+    "url": "https://techtime.co.il/2026/07/18/kimi-k3/",
+    "description": "Moonshot AI חשפה שתי הדגמות יוצאות דופן: סוכן AI שתכנן שבב מקצה לקצה בתוך יומיים, וסוכן נוסף שפיתח קומפיילר ל־GPU. האם סוכני AI עומדים לשנות גם את עולם הנדסת השבבים?",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-07-18T17:07:06+00:00",
+    "fetched_at": "2026-07-19T06:38:11.992910+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/07/18/kimi-k3/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Kimi K3 הסיני פיתח שבב בתוך 48 שעות",
+    "summary_he": "Moonshot AI חשפה שתי הדגמות יוצאות דופן: סוכן AI שתכנן שבב מקצה לקצה בתוך יומיים, וסוכן נוסף שפיתח קומפיילר ל־GPU. האם סוכני AI עומדים לשנות גם את עולם הנדסת השבבים?",
+    "details_he": ""
+  },
+  {
+    "id": "5cee0ba3836e0866",
+    "title_original": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "description": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-07-18T16:54:42-04:00",
+    "fetched_at": "2026-07-19T06:37:46.529007+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+    "summary_he": "Author Dave Eggers recently criticized OpenAI's ChatGPT at a talk to the company's staff, stating that it is making teachers' lives more difficult and silencing an entire generation of writers.",
+    "details_he": "Dave Eggers, a well-known author and founder of McSweeney's, spoke to around 200 OpenAI staff members, using the opportunity to express his disapproval of ChatGPT. According to the Financial Times, Eggers claimed that the AI tool has made educators' lives 'infinitely more difficult' and is causing students to rely on it for writing, which he believes will lead to a loss of their ability to express themselves. Eggers has been a vocal critic of the tech industry and AI-generated writing, calling it 'pastiche nonsense'. His comments come as a surprise to some, given his invitation to speak by OpenAI's CEO Sam Altman, who likely knew of Eggers' critical views on the industry."
+  },
+  {
+    "id": "be5793ced9e28774",
+    "title_original": "כנס הפיתוח הגדול של גיקטיים ועוד אירועים מומלצים",
+    "url": "https://www.geektime.co.il/geek-events-190726/",
+    "description": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. Frontendistim Community July Meetup at GONG מתי? 21 ביולי (18:00-21:00) […]The postכנס הפיתוח הגדול של גיקטיים ועוד אירועים מומלציםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-07-18T16:52:52+00:00",
+    "fetched_at": "2026-07-19T06:38:08.718261+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/geek-events-190726/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "כנס הפיתוח הגדול של גיקטיים ועוד אירועים מומלצים",
+    "summary_he": "בעתיד הקרוב, ישנם מספר אירועי טכנולוגיה שעומדים להתקיים, כולל כנס הפיתוח הגדול של גיקטיים, המיטאפ של Frontendistim Community, והוובינר The Engineering Leadership Quest.",
+    "details_he": "כנס הפיתוח הגדול של גיקטיים, שנערך ב-20 ביולי באקספו תל אביב, יתמקד בשילוב בין תשתיות ופיתוח מסורתיים לבין המהפכה האג'נטית שמשנה את חוקי המשחק. המיטאפ של Frontendistim Community, שנערך ב-21 ביולי במגדל Icon, רמת גן, יסקור שלושה מרחבים מרכזיים שמובילים טכנולוגיים נדרשים להתמודד איתם: אסטרטגיה, תהליכי עבודה ואנשים. הוובינר The Engineering Leadership Quest, שנערך ב-3 באוגוסט אונליין, יסקור את האתגרים ההנדסיים החדשים שנוצרו עקב המהפכה האג'נטית."
+  }
+]

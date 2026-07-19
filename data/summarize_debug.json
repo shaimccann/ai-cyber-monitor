@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-18T06:11:40.606678+00:00",
+  "timestamp": "2026-07-19T06:38:14.660595+00:00",
   "errors": [
     {
-      "title": "Exposure Management Used to Be Baggage Claim.",
-      "error": "JSON parse error: Expecting ',' delimiter: line 3 column 588 (char 724)",
+      "title": "Kimi K3 הסיני פיתח שבב בתוך 48 שעות",
+      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 303)",
       "summary_preview": "",
       "has_details": false
     }
   ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 9,
+  "success": 4,
   "fallback": 1,
-  "total_scanned": 58,
-  "selected": 10
+  "total_scanned": 10,
+  "selected": 5
 }
