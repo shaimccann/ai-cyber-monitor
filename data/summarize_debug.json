@@ -1,17 +1,10 @@
 {
-  "timestamp": "2026-07-19T06:38:14.660595+00:00",
-  "errors": [
-    {
-      "title": "Kimi K3 הסיני פיתח שבב בתוך 48 שעות",
-      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 303)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-07-20T06:55:44.103991+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 4,
-  "fallback": 1,
-  "total_scanned": 10,
-  "selected": 5
+  "success": 10,
+  "fallback": 0,
+  "total_scanned": 32,
+  "selected": 10
 }

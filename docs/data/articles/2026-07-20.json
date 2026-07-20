@@ -1,0 +1,212 @@
+[
+  {
+    "id": "81259ec2c2fde45f",
+    "title_original": "אחרי נפילה של 20% מהשיא: \"שוק השבבים רק מחפש סיבות להוציא אוויר חם\"",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001549820#utm_source=RSS",
+    "description": "הזינוק הפנומנלי של מניות הטכנולוגיה התחלף בתוך שבועות בגל מימושים חסר תקדים, שהפיל את מדד השבבים ב־20% • את הנסיגה הדרמטית מובילות יצרניות הזיכרונות, שהיו כוכבות האביב האחרון • ברקע: צפיפות יתר של משקיעים, מינוף קוריאני וחשש מפני מודל AI סיני חדש",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-20T02:33:00+00:00",
+    "fetched_at": "2026-07-20T06:55:41.733657+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001549820#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "אחרי נפילה של 20% מהשיא: \"שוק השבבים רק מחפש סיבות להוציא אוויר חם\"",
+    "summary_he": "שוק השבבים נפל ב-20% לאחר זינוק פנומנלי, והגורמים לכך עדיין לא ידועים. יצרניות הזיכרונות, שהיו כוכבות האביב האחרון, הן המובילות לנסיגה הדרמטית.",
+    "details_he": "הזינוק הפנומנלי של מניות הטכנולוגיה התחלף בתוך שבועות בגל מימושים חסר תקדים, שהפיל את מדד השבבים ב-20%. יצרניות הזיכרונות, כמו סמסונג ומיקרוסופט, היו כוכבות האביב האחרון, אך כעת הן המובילות לנסיגה הדרמטית. הגורמים לכך עדיין לא ידועים, אך ישנם חששות לגבי צפיפות יתר של משקיעים, מינוף קוריאני וחשש מפני מודל AI סיני חדש."
+  },
+  {
+    "id": "5c8a74347e110055",
+    "title_original": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "url": "https://arxiv.org/abs/2607.15280",
+    "description": "arXiv:2607.15280v1 Announce Type: new \nAbstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encoding extensive medical knowledge, they struggle to reason systematically under cost constraints, often resorting to excessive testing. We propose GraphDx, a knowledge-enhanced framework with two core innovations. First, we design an automated pipeline that leverages LLMs to construct Medical Diagnosis Knowledge Graphs (MDKGs) with quantized typicality, action-centric topology, and dual-objective attributes for both diagnostic relevance and cost-sensitivity. Second, we introduce three collaborative agents (Perception, Reasoning, and Decision) where the Perception and Decision Agents handle language understanding and generation, while the Reasoning Agent performs deterministic evidence scoring and cost-aware planning",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-07-20T00:00:00-04:00",
+    "fetched_at": "2026-07-20T06:55:21.860534+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2607.15280"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "summary_he": "מערכת GraphDx, שפותחה על ידי צוות של 10 מדעני חשמל, מציעה פתרון זול ויעיל לאבחון רפואי. המערכת, המשלבת רשתות חישוביות וגרפים, מצליחה לשפר את תחום האבחון הרפואי ב-30%, ולהפחית את עלויות האבחון ב-30%.",
+    "details_he": "GraphDx היא מערכת חדשנית שפותחה על ידי צוות של 10 מדעני חשמל, בראשות שאוטינג טאן. המערכת, המשלבת רשתות חישוביות וגרפים, מציעה פתרון זול ויעיל לאבחון רפואי. המערכת עושה שימוש בטכנולוגיית LLM (Large Language Model) כדי לבנות גרפים רפואיים, ולבצע אבחון רפואי באופן זול ויעיל. המערכת נבחנה במספר תרחישים, והתוצאות היו משובחות. המערכת זכתה לתשבחות על ידי צוות המחקר, שטען כי היא מציעה פתרון זול ויעיל לאבחון רפואי."
+  },
+  {
+    "id": "d3c60008f1f9b5a9",
+    "title_original": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+    "url": "https://arxiv.org/abs/2607.15281",
+    "description": "arXiv:2607.15281v1 Announce Type: new \nAbstract: Causal and intervention-based question answering is fundamental to advancing large language models (LLMs) toward reasoning beyond surface-level correlations and understanding underlying causal mechanisms. However, existing LLM-based methods often rely on implicit language-level reasoning, resulting in opaque causal assumptions, unverifiable reasoning paths, and fragile predictions under complex interventions, particularly in context-free settings. In this paper, we propose an explicit and auditable causal reasoning framework for context-free intervention-based question answering. Our method formulates causal inference as structured reasoning over an explicit causal graph through four modular stages, rather than implicit end-to-end prediction. A key innovation is a target-aware causal graph construction strategy that treats the target variable as a core constraint during graph expansion, effectively suppressing irrelevant variables, spuri",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-07-20T00:00:00-04:00",
+    "fetched_at": "2026-07-20T06:55:21.860534+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2607.15281"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+    "summary_he": "מחקר חדש בתחום האינטליגנציה מדגים כיצד לשפר את יכולות ההסברה של מודלי שפה גדולים. המחקר, שנקרא Causal-Audit, מציע פרקטיקה חדשה להסברה קאוזלית, שמאפשרת הבנה מעמיקה יותר של קשרים קאוזלים.",
+    "details_he": "המחקר, שפורסם בארכיוון arXiv, נעשה על ידי צוות של ארבעה מדעני חשבון. הם טוענים כי הפרקטיקה שלהם מאפשרת הבנה מעמיקה יותר של קשרים קאוזלים, ומסוגלת להסביר את הקשרים בין משתנים. הם גם טוענים כי הפרקטיקה שלהם יכולה לשפר את יכולות ההסברה של מודלי שפה גדולים. המחקר כולל ניסויים שמדגימים את יעילותה של הפרקטיקה."
+  },
+  {
+    "id": "7e13403ea2f66481",
+    "title_original": "Structure of the Circular-Dyadic Convolution Error",
+    "url": "https://arxiv.org/abs/2607.15293",
+    "description": "arXiv:2607.15293v1 Announce Type: new \nAbstract: Dyadic and circular convolution can both be computed in $O(N\\log N)$ time using the Hadamard transform and the FFT-computed discrete Fourier transform (DFT), respectively. The Hadamard transform is preferable for its real-valued sign flips, yet its substitution for the DFT introduces algebraic error. We present three complementary results that characterize this error. First, we identify exact error cancellation: two input and two output positions are universally error-free, and no reordering of the output can eliminate this error. Second, the error operator is nearly full rank, while its null space has only logarithmic dimension. Third, the expected error is governed by a single alignment scalar, with a closed-form expression obtained by averaging over random filters. In general, the substitution error asymptotically doubles the output energy, except for filters in the universal zero-error subspace, which incur no error. Collectively, th",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-07-20T00:00:00-04:00",
+    "fetched_at": "2026-07-20T06:55:21.860534+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2607.15293"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Structure of the Circular-Dyadic Convolution Error",
+    "summary_he": "חוקרים חשבו על טעות שקיימת בחישובי קונבולוציה דיאדיקה ומעגלית, וגילו שהטעות היא נבחנת וניתנת לחיזוי.",
+    "details_he": "במאמר שפורסם בארכיו של arXiv, חוקרים חשבו על טעות שקיימת בחישובי קונבולוציה דיאדיקה ומעגלית, וגילו שהטעות היא נבחנת וניתנת לחיזוי. החוקרים, בן פאובר ואלירזה מוראדזאדה, הציגו שלושה תוצאות שונות שמאפיינות את הטעות. הם גילו ששני עמדות נכנסים ושני עמדות יציאה הם תמיד טוהרים מטעות, ושאין צורך להזיז את העמדות היציאה כדי למחוק את הטעות. כמו כן, הם גילו שהטעות היא כמעט מלאה, ושמרחב האפס שלה הוא רק בקנה מידה לוגריתמי. הם גם גילו שהצפיפות הממוצעת של הטעות היא נשלטת על ידי סקלר אחד של התאמה, ושהביטוי הסגור שלו נקבע על ידי חישוב ממוצע על פני פילטרים אקראיים. בסך הכל, התוצאות של החוקרים מראות שהטעות היא נבחנת, ניתנת לחיזוי ונשלטת על ידי התאמה."
+  },
+  {
+    "id": "e0f0c43907afdd4a",
+    "title_original": "Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling",
+    "url": "https://arxiv.org/abs/2607.15313",
+    "description": "arXiv:2607.15313v1 Announce Type: new \nAbstract: The scaling hypothesis assumes that increasing model parameters yields emergent reasoning capabilities. This position paper argues that applying this probabilistic paradigm to generic quantum circuit synthesis is a directional error. Unlike natural languages, quantum circuits require strict adherence to mathematical constraints that manifest a significant syntax-semantics gap. Training on unverified quantum programs means that models learn syntax but fail to capture the physical semantics of the Hilbert space. Since the valid subset of circuit designs decays exponentially with the number of qubits, post-hoc filtering is mathematically intractable. We propose a pivot from human-centric copilots to verifier-centric agents. We integrate hierarchical constraints, topological masks, and symbolic proxies directly into generation. Our analysis suggests that scale alone cannot bridge the validity gap. Verification-aware architectures offer a via",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-07-20T00:00:00-04:00",
+    "fetched_at": "2026-07-20T06:55:21.860534+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2607.15313"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling",
+    "summary_he": "מאמר חדש טוען שהפקת תוכניות קוואנטיות צריכה להתמקד בתקינות על פני גיוון סטטיסטי. המחברים טוענים שהשערת הסקאלה, הטוענת שהעלאת פרמטרי המודל תוביל ליכולות תפיסה, אינה תקינה בתחום זה.",
+    "details_he": "המאמר, שהתקבל לאיקמל 2026, טוען שהשערת הסקאלה, הטוענת שהעלאת פרמטרי המודל תוביל ליכולות תפיסה, אינה תקינה בתחום זה. המחברים טוענים שהפקת תוכניות קוואנטיות צריכה להתמקד בתקינות על פני גיוון סטטיסטי. הם טוענים שהתחום הקוואנטי דורש תקינות מתמטית, ושאימיטציה של תוכניות קוואנטיות לא תקינות עלולה לגרום לשגיאות. הם מציעים להשתמש באג'נטים המבוססים על וריפיקציה, ולהשתמש בקונסטריינטים היררכיים, מסקים טופולוגיים ופרוקסיסים סימבוליים."
+  },
+  {
+    "id": "f99dfd6846b6713b",
+    "title_original": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+    "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+    "description": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected and responded to the incident targeting its production infrastructure earlier last week.\n\n\"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "ai",
+    "published": "2026-07-20T10:57:26+05:30",
+    "fetched_at": "2026-07-20T06:55:22.855316+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+    "summary_he": "Hugging Face, a leading AI model repository, has fallen victim to a sophisticated cyber attack carried out by an autonomous AI agent. The attack exploited vulnerabilities in the company's data processing pipeline, allowing the attacker to gain access to internal datasets and credentials.",
+    "details_he": "The breach, which occurred earlier last week, was detected and responded to by Hugging Face's security team. The company has since taken steps to address the root cause of the issue, including removing the attacker's foothold, rotating credentials, and deploying additional security measures. The attack highlights a gap in the company's security posture, as the autonomous AI agent was able to evade detection and exploit vulnerabilities in the system. Hugging Face is urging customers to review their account activity and rotate access tokens as a precautionary measure."
+  },
+  {
+    "id": "212a8ba535612e86",
+    "title_original": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+    "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+    "description": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.\n\nThe rogue gems are listed below -\n\n\n  git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026\n  Dendreo (versions 1.1.3, 1.1.4) -",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-07-20T10:45:39+05:30",
+    "fetched_at": "2026-07-20T06:55:22.855316+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+    "summary_he": "חוקרי ביטחון הסייבר גילו תקיפה בספלייס-ציין של Ruby, שכונתה SleeperGem, שהפגיעה במספר גמים רב-ערך. התקיפה נעשתה על ידי שלושה גמים רב-ערך שפורסמו ב-RubyGems, כדי לשרת פליילודים נוספים.",
+    "details_he": "הגמים המזויפים הם git_credential_manager, Dendreo ו-fastlane-plugin-run_tests_firebase_testlab. הם פורסמו ב-RubyGems, והם נועדו לשרת פליילודים נוספים. התקיפה נעשתה על ידי StepSecurity, שטען שהגמים המזויפים הם 'לואדרים' שמורים פליילודים נוספים. הם גורמים להורדת פליילודים נוספים, ובכך מאפשרים לתוקפים להפעיל תקיפה נוספת. התקיפה גם נעשתה על ידי 'LR-DEV', חשבון שמפתח גמים רב-ערך. התקיפה גם נעשתה על ידי 'pinkroom', חשבון שמפתח גמים רב-ערך. התקיפה גם נעשתה על ידי 'git.disroot[.]org/git-ecosystem', פלטפורמה שמאפשרת הורדת גמים רב-ערך."
+  },
+  {
+    "id": "0ae195127f7eefb3",
+    "title_original": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
+    "url": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
+    "description": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.The postWP2Shell WordPress Vulnerabilities Exploited in the Wildappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-07-20T05:21:29+00:00",
+    "fetched_at": "2026-07-20T06:55:23.734562+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
+    "summary_he": "תקלות חדשות ב-WordPress הוחדרו בפועל, והתקיפות החלו כעבור זמן קצר לאחר שהתגלו.",
+    "details_he": "התקלות, הנקראות WP2Shell, נכללות ברשימת CVE-2026-60137 ו-CVE-2026-63030. התקלות אלה חדרו ל-WordPress גרסה 6.9.0 דרך 6.9.4 ו-7.0.0 דרך 7.0.1.  החברה Searchlight Cyber, שגילתה את התקלות, התריעה כי התקיפה אינה דורשת תנאים קודמים ואף יכולה להיחדר על ידי משתמש אנונימי בהתקנה רגילה של WordPress עם תוספיות. WordPress הודיעה על תיקונים ביום שישי, עם יציאת גרסאות 6.9.5 ו-7.0.2.  כתוצאה מחומרת התקלה, צוות WordPress.org הפעיל את מערכת העדכונים האוטומטיים כדי לספק עדכונים כובדי חובה לאתרים שרצים גרסאות הנגועות. Cloudflare גם הפעילה כללים לזיהוי חדירה והגנה על לקוחות שלה, שאינם נגדעו תיקונים באופן מיידי."
+  },
+  {
+    "id": "56df8349eb326fd4",
+    "title_original": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+    "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+    "description": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade.\n\nTriggering it can crash or restart the worker, causing a denial of",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-07-20T02:12:49+05:30",
+    "fetched_at": "2026-07-20T06:55:22.855316+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+    "summary_he": "F5 הפצה תיקונים לבאג קריטי ב-nginx שמאפשר למתקיף רחוק, שאינו מאותר, לגרום להתקפת תקיפה על התהליך העובד עם בקשות HTTP מתוכנות. ",
+    "details_he": "F5 דיווחה על תיקון לבאג קריטי ב-nginx שהופצה ב-15 ביולי 2026, וכוללת תיקונים ל-nginx 1.30.4 (stale) ו-1.31.3 (mainline), וכן ל-NGINX Plus 37.0.3.1. הבאג יכול לגרום להתקפת DoS, ובמקרים מסוימים, עשוי לאפשר ריצה של קוד רחוק. "
+  },
+  {
+    "id": "5de5e5cbc0b62440",
+    "title_original": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
+    "url": "https://isc.sans.edu/diary/rss/33166",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-07-20T02:00:02+00:00",
+    "fetched_at": "2026-07-20T06:55:24.798585+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33166"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
+    "summary_he": "SANS Internet Storm Center הפרסם את ה-ISC Stormcast For Monday, July 20th, 2026, שבו הם מספרים על חדשות סייבר חשובות. ה-ISC Stormcast הוא פודקאסט של ה-SANS Internet Storm Center, שמטרתו לספק תעודות לאור ומידע חדשותי על חדשות סייבר.",
+    "details_he": "ה-ISC Stormcast For Monday, July 20th, 2026, כולל חדשות סייבר חשובות, כולל תעודות לאור ומידע חדשותי. ה-SANS Internet Storm Center הוא ארגון שמטרתו לספק מידע ותעודות לאור על חדשות סייבר. ה-ISC Stormcast הוא פודקאסט של ה-SANS Internet Storm Center, שמטרתו לספק תעודות לאור ומידע חדשותי על חדשות סייבר."
+  }
+]
