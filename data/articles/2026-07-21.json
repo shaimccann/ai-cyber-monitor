@@ -1,0 +1,212 @@
+[
+  {
+    "id": "34fbc417184ff83c",
+    "title_original": "Introducing Cosmos 3 Edge",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-20T15:58:51+00:00",
+    "fetched_at": "2026-07-21T06:35:50.995568+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Cosmos 3 Edge",
+    "summary_he": "NVIDIA Cosmos 3 Edge היא דגם עולמי פתוח של 4 מיליארד תיבות, המאפשרת לרובוטים ולאגנטים AI להבין את סביבתם, לסבול בזמן אמת ולייצר פעולות של רובוטים על מכשירי גבול. הדגם נוצר על ידי NVIDIA והועלה לארכיון Cosmos 3 של Hugging Face.",
+    "details_he": "NVIDIA Cosmos 3 Edge היא דגם עולמי פתוח שמספק תכונות זיכרון-מועט, עם תעבורה גבוהה של הנחיה, על מכשירי NVIDIA edge, כולל NVIDIA RTX PRO GPUs, NVIDIA DGX, NVIDIA GeForce RTX™ GPUs, NVIDIA Jetson, כולל המודולים החדשים Jetson T2000 ו-T3000. הדגם נועד לשמש כדגם קטן של תכונות שפה עם תעבורה גבוהה ודיוק מוביל, עם הנחיה בזמן אמת. Cosmos 3 Edge נחשב לדגם הטוב ביותר בגודל דומה (4B תיבות) ב-VANTAGE-Bench לניתוח ויזואלי ובשיעור המדעניות הטוב ביותר ללמידת מדלים של רובוט, והוא קבע את הסטטוס קוו של הטכנולוגיה לבניית תשתיות חכמות ורובוטיקה."
+  },
+  {
+    "id": "f7adebd9275b736c",
+    "title_original": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+    "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+    "description": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-20T15:00:53+00:00",
+    "fetched_at": "2026-07-21T06:35:51.443282+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+    "summary_he": "NVIDIA הציגה היום ב-SIGGRAPH טכנולוגיות חדשות בתחום הרנדרינג העצבי והסימולציה, שיכולות לשנות את הדרך שבה עולמות דיגיטליים נוצרים ומשופצים. החברה הציגה כלי חדשים ליצירת תוכן, כולל ספריית חיפוש ומערכת ניטור.",
+    "details_he": "NVIDIA הציגה היום ב-SIGGRAPH טכנולוגיות חדשות בתחום הרנדרינג העצבי והסימולציה, שיכולות לשנות את הדרך שבה עולמות דיגיטליים נוצרים ומשופצים. החברה הציגה כלי חדשים ליצירת תוכן, כולל ספריית חיפוש ומערכת ניטור. הטכנולוגיות החדשות, שפותחו על ידי NVIDIA, יכולות לשנות את דרך יצירת תוכן ושיפוצו, ויכולות להיות יעילות יותר ויעילות יותר. NVIDIA גם הציגה כלי חדשים לפיתוח תוכן, כולל ספריית חיפוש ומערכת ניטור. הטכנולוגיות החדשות, שפותחו על ידי NVIDIA, יכולות לשנות את דרך יצירת תוכן ושיפוצו, ויכולות להיות יעילות יותר ויעילות יותר."
+  },
+  {
+    "id": "dbf688f6caf834ef",
+    "title_original": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+    "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+    "description": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA DGX SuperPOD, this one built on […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-20T10:59:23+00:00",
+    "fetched_at": "2026-07-21T06:35:51.443282+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+    "summary_he": "Bristol Myers Squibb הכריזה על השקת מפעל AI המתקדם ביותר בתעשיית החיים המדעיים, הבנוי על NVIDIA Vera Rubin, ובו ישתמשו מדענים בכל העולם במערכת AI יחודית.",
+    "details_he": "Bristol Myers Squibb הכריזה על השקת מפעל AI המתקדם ביותר בתעשיית החיים המדעיים, הבנוי על NVIDIA Vera Rubin, ובו ישתמשו מדענים בכל העולם במערכת AI יחודית. המפעל, הנקרא \"SuperDuperPOD"
+  },
+  {
+    "id": "6598a0309e09a929",
+    "title_original": "Safety and alignment in an era of long-horizon models",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-20T10:00:00+00:00",
+    "fetched_at": "2026-07-21T06:35:48.660108+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Safety and alignment in an era of long-horizon models",
+    "summary_he": "בעידן של דגימות ארוכות-הראות, חשיבותה של התאמה ובטיחות גדלה. השימוש הפנימי בדגימה ארוכה-הראות הציג כיצד ניתן לפתח דגימות יותר מובטחות.",
+    "details_he": "בעידן של דגימות ארוכות-הראות, חשיבותה של התאמה ובטיחות גדלה. השימוש הפנימי בדגימה ארוכה-הראות הציג כיצד ניתן לפתח דגימות יותר מובטחות. דגימה ארוכה-הראות יכולה לפתור בעיות קשות, אך התמשכותה גם נותנת לה יותר הזדמנויות לבצע פעולות שאינן רצויות. החוויה הזו הדגישה את חשיבות השימוש ההתקדם בדגימות. כל סדרת בדיקות קודם-הפצה לא יכולה לצפות לכל התנהגות, ולכן יש צורך במשמרת של הפעלה קרובה, בספקי ביטחון שיכולים להתערב, וביכולת לעצור או לחזור כאשר צריך."
+  },
+  {
+    "id": "8fb43f39be4cb37a",
+    "title_original": "סמסונג או אייפון? איזה מותג הישראלים מעדיפים יותר",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001549913#utm_source=RSS",
+    "description": "הענקית הקוריאנית שומרת על הבכורה • באפל אומנם מבטיחים מהפכות ושדרוגים עתידיים, אך במותגי אנדרואיד כבר מיישמים בשטח • וגם: המהפך הקטן בשוק המחשבים האישיים",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-21T03:07:00+00:00",
+    "fetched_at": "2026-07-21T06:36:18.291944+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001549913#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "סמסונג או אייפון? איזה מותג הישראלים מעדיפים יותר",
+    "summary_he": "במפקד האוכלוסין האחרון, 54% מהישראלים ניהלו טלפונים סלולרים של סמסונג, 29% של אייפון, ו-17% של מותגים אחרים. הישראלים נוטים להעדיף את סמסונג, אך הפער ביניהם ובין אייפון קטן יותר מאשר בעבר.",
+    "details_he": "במפקד האוכלוסין האחרון, 54% מהישראלים ניהלו טלפונים סלולרים של סמסונג, 29% של אייפון, ו-17% של מותגים אחרים. הישראלים נוטים להעדיף את סמסונג, אך הפער ביניהם ובין אייפון קטן יותר מאשר בעבר. סמסונג נותרת המותג המוביל בשוק הטלפונים הסלולריים בישראל, אך אייפון נמצא בצמרת השוק."
+  },
+  {
+    "id": "cb93ffb51cd11723",
+    "title_original": "Exploitation in the Wild of wp2shell",
+    "url": "https://www.wiz.io/blog/wp2shell-cve-2026-63030-cve-2026-60137",
+    "description": "Wiz Research has identified exploitation of \"wp2shell\", a critical pre-auth RCE vulnerability chain impacting WordPress Core (CVE-2026-63030 & CVE-2026-60137). Attackers are deploying persistent webshells on vulnerable servers. Organizations should prioritize patching or applying WAF mitigations.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-20T18:00:08+00:00",
+    "fetched_at": "2026-07-21T06:36:02.426051+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wp2shell-cve-2026-63030-cve-2026-60137"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Exploitation in the Wild of wp2shell",
+    "summary_he": "תקיפה פסיבית של wp2shell התגלתה בסביבה הרב-עוצמה, עם 60% מהארגונים שהיו חשופים לתקיפה רחבה, ו-25% שהציגו סרבר חשוף לאינטרנט. החשיפה הזו יורדת ככל שארגונים פותחים תיקונים.",
+    "details_he": "תקיפה פסיבית של wp2shell התגלתה בסביבה הרב-עוצמה, עם 60% מהארגונים שהיו חשופים לתקיפה רחבה, ו-25% שהציגו סרבר חשוף לאינטרנט. החשיפה הזו יורדת ככל שארגונים פותחים תיקונים. תקיפה זו נוצרה על ידי Searchlight Cyber, ופורסמה ב-17 ביולי 2026. תקיפה זו מאפשרת לתוקפים לבצע תקיפה רחבה, כולל תקיפה רחבה, על גרסאות WordPress שיצאו מאז דצמבר 2025. התקיפה כוללת שני CVEs: CVE-2026-63030 ו-CVE-2026-60137. תקיפה זו נחשפה כבר ב-24 שעות מהפרסום המקורי."
+  },
+  {
+    "id": "e503131db3f12de6",
+    "title_original": "The Agentic SOC: Transforming Data into Defensive Velocity",
+    "url": "https://www.sentinelone.com/blog/the-agentic-soc-transforming-data-into-defensive-velocity/",
+    "description": "Transform SOC data chaos into autonomous intelligence with modern AI pipelines and agentic AI to empower human analysts.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "ai",
+    "published": "2026-07-20T13:00:54+00:00",
+    "fetched_at": "2026-07-21T06:36:01.784479+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-agentic-soc-transforming-data-into-defensive-velocity/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Agentic SOC: Transforming Data into Defensive Velocity",
+    "summary_he": "Security Operations Centers (SOCs) face scalability challenges due to inefficient data processing, causing analysts to spend most of their time aggregating data instead of investigating threats. This leads to exhaustion and operational hours lost before mitigation attempts are initiated.",
+    "details_he": "SOCs struggle with a highly fragmented data ecosystem, with telemetry from various sources arriving in different formats and levels of fidelity. Analysts manually normalize data points, wasting valuable time and human intelligence. To achieve defensive velocity, organizations must address the upstream data problem by implementing advanced data pipelines that resolve data chaos before it impacts detection engines."
+  },
+  {
+    "id": "fb5a7f583b8d6788",
+    "title_original": "20th July – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 20th July, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Ernst & Young, a global accounting and professional services company, has disclosed a data breach involving a compromised third-party IT support platform. The exposed support tickets may have contained client documents, tax information, […]The post20th July – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-20T12:18:41+00:00",
+    "fetched_at": "2026-07-21T06:36:01.909925+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "20th July – Threat Intelligence Report",
+    "summary_he": "Check Point IPS הציעה הגנה נגד חבלנים ב-20th July, כולל Microsoft SharePoint Authentication Bypass, WordPress Authentication Bypass, WordPress SQL Injection, SonicWall SMA1000 Series Server-Side Request Forgery, ו-SonicWall SMA1000 Series Path Traversal.",
+    "details_he": "Check Point IPS הציעה הגנה נגד חבלנים ב-20th July, כולל Microsoft SharePoint Authentication Bypass (CVE-2026-56164), WordPress Authentication Bypass (CVE-2026-63030), WordPress SQL Injection (CVE-2026-60137), SonicWall SMA1000 Series Server-Side Request Forgery (CVE-2026-15409), ו-SonicWall SMA1000 Series Path Traversal (CVE-2026-15410). חברות בתעשיית BFSI משתמשות בפלאש, וכדי להקל על הניסיון שלכם, הן משתמשות בקוביות. כאשר אתם ממשיכים לבקר באתר, אתם מסכימים לשימוש שלנו בקוביות."
+  },
+  {
+    "id": "388cf9c64371079d",
+    "title_original": "Cato CTRL™ Threat Brief: AsyncAPI Supply Chain Attack Delivers Miasma Malware Through Trusted npm Packages",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-asyncapi-supply-chain-attack/",
+    "description": "Executive Summary On July 14, 2026, attackers compromised release processes connected to the AsyncAPI open- source project and published malicious versions of four widely used npm packages with a combined reach of approximately 2.9 million weekly downloads. The affected releases delivered a Miasma-associated Node.js payload designed to establish persistence and communicate with attacker-controlled infrastructure, creating...The postCato CTRL™ Threat Brief: AsyncAPI Supply Chain Attack Delivers Miasma Malware Through Trusted npm Packagesappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-07-20T09:27:53+00:00",
+    "fetched_at": "2026-07-21T06:36:07.497544+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-asyncapi-supply-chain-attack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL™ Threat Brief: AsyncAPI Supply Chain Attack Delivers Miasma Malware Through Trusted npm Packages",
+    "summary_he": "Attackers compromised the AsyncAPI open-source project, releasing malicious npm packages that delivered Miasma malware, affecting approximately 2.9 million weekly downloads across various developer environments.",
+    "details_he": "The compromised packages, including @asyncapi/generator, @asyncapi/generator-helpers, @asyncapi/generator-components, and @asyncapi/specs, were used in developer workstations, CI/CD runners, documentation systems, and automated build environments. The Miasma-associated Node.js payload was designed to establish persistence and communicate with attacker-controlled infrastructure. Cato CTRL's supply chain intelligence agent identified the incident and enabled researchers to validate the command-and-control IP address, add it to Cato's global blocklist, and initiate network-level enforcement within a couple of hours."
+  },
+  {
+    "id": "125f2ce9cfb1b6dc",
+    "title_original": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
+    "url": "https://isc.sans.edu/diary/rss/33170",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-07-21T02:00:02+00:00",
+    "fetched_at": "2026-07-21T06:35:57.198869+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33170"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
+    "summary_he": "SANS Internet Storm Center הוציאה פודקאסט חדש, ISC Stormcast For Tuesday, July 21st, 2026, שבו הם דנים בענייני אבטחת האינטרנט.",
+    "details_he": "הפודקאסט, שיצא לאור ב-21 ביולי 2026, כולל דיווחים ומאמרים על אבטחת האינטרנט. ה-SANS Internet Storm Center היא ארגון שמטרתו לספק מידע והמלצות לאנשי אבטחת האינטרנט. הפודקאסט זמין להורדה וצפייה באתר האינטרנט של ה-SANS Internet Storm Center."
+  }
+]
