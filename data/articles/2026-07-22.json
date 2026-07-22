@@ -1,0 +1,212 @@
+[
+  {
+    "id": "92e31ae7410df5ea",
+    "title_original": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+    "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+    "description": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-21T22:35:45+00:00",
+    "fetched_at": "2026-07-22T06:36:59.575622+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+    "summary_he": "Wistron's new manufacturing facility in Fort Worth, Texas, marks a significant milestone in the development of AI infrastructure in the United States. The 324,000-square-foot plant, which produces superchips for NVIDIA AI systems, is expected to create thousands of jobs and contribute to the country's reindustrialization.",
+    "details_he": "The facility, which represents a $700 million commitment to advanced manufacturing in the U.S., currently produces tens of thousands of boards per month of the most advanced technology in the industry. NVIDIA has committed to manufacturing up to $500 billion in advanced AI platforms in the United States, and the Wistron Fort Worth factory is one of the projects making that number real. The facility was designed and fully simulated before construction began, using NVIDIA's open platform and digital twin technology, which enabled engineers to validate assembly line layouts and optimize production processes virtually."
+  },
+  {
+    "id": "26c3e504261fbf72",
+    "title_original": "The State of Simulation for Physical AI: An Overview",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-21T20:00:27+00:00",
+    "fetched_at": "2026-07-22T06:36:59.270120+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The State of Simulation for Physical AI: An Overview",
+    "summary_he": "Simulation is becoming a crucial component in the development of physical AI systems, enabling the generation of large amounts of photorealistic data at a fraction of the cost of real-world collection. This shift has led to the development of new simulation engines that can meet the requirements of modern robotics and AI research. As a result, simulation is now an integral part of the model development loop.",
+    "details_he": "The primary challenge in building physical AI systems is the lack of available data, which can be addressed through simulation. By teleoperating robots in simulation and scaling data collection through GPU parallelism, developers can generate thousands of hours of robot experience at a lower cost. This enables the training of reinforcement learning policies, collection of demonstrations, and augmentation of real-world data. The three-computer paradigm, consisting of a training computer, simulation computer, and on-robot computer, plays a crucial role in this process. The simulation computer uses GPU-accelerated physics and RTX rendering to generate robot experience, sensor data, and simulated interactions, while the on-robot computer runs the trained policy or model during deployment."
+  },
+  {
+    "id": "2206a8ff8c11a403",
+    "title_original": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-21T17:00:00+00:00",
+    "fetched_at": "2026-07-22T06:36:57.265711+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing the ChatGPT for small business program",
+    "summary_he": "התוכנית החדשה של ChatGPT תעזור לעסקים קטנים להשתמש בטכנולוגיית AI כדי להפוך את רעיונותיהם המוצלחים לעסקים הגדלים. התוכנית כוללת הדרכה וטכנולוגיות חדשות.",
+    "details_he": "התוכנית החדשה של ChatGPT, ChatGPT for small business, נועדה לעזור לעסקים קטנים להשתמש בטכנולוגיית AI כדי להפוך את רעיונותיהם המוצלחים לעסקים הגדלים. התוכנית כוללת הדרכה וטכנולוגיות חדשות, כולל סדנאות וירטואליות, אקדמיות לעסקים קטנים, מדריכים חדשים וסקילים ושותפים חדשים. התוכנית נועדה לעזור לעסקים קטנים להגדיל את יעילותם ולהפוך את רעיונותיהם המוצלחים לעסקים הגדלים."
+  },
+  {
+    "id": "d2a5f7ed3c37843d",
+    "title_original": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+    "description": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-21T15:36:43+00:00",
+    "fetched_at": "2026-07-22T06:36:59.575622+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-rubin/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+    "summary_he": "NVIDIA Vera Rubin הציגה את יכולותיה החדשות, כולל ריכוזי עבודה גבוהים ועלויות נמוכות, בעזרת רשת ספקים גדולה ומבוססת-סקאלה.",
+    "details_he": "NVIDIA Vera Rubin NVL72 היא פלטפורמה שנבנתה משכבה לגוף, כדי להגיע לביצועים הגבוהים ביותר לפי וואט ולעלויות הנמוכות ביותר. הפלטפורמה כוללת יכולות חדשות של NVIDIA, כגון NVLink, Spectrum-6 ו-NVLink Fusion, שמאפשרות לשרתים להגיע לביצועים גבוהים יותר ולעלויות נמוכות יותר. NVIDIA Vera Rubin NVL72 כבר נמצאת בשימוש במספר חברות, כולל CoreWeave, Google Cloud, Microsoft Azure ו-Oracle Cloud Infrastructure."
+  },
+  {
+    "id": "b165f700ee5ea2b4",
+    "title_original": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-07-21T15:16:30+00:00",
+    "fetched_at": "2026-07-22T06:36:58.044339+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "summary_he": "Google AI השיקה דגמים חדשים של Gemini, שמציעים יעילות, זמן תגובה נמוך ואמינות. הדגמים יאפשרו לבנות זוגות AI בסקאלה.",
+    "details_he": "הדגמים החדשים, Gemini 3.6 Flash, 3.5 Flash-Lite ו-3.5 Flash Cyber, תוכננו לספק יעילות גבוהה, זמן תגובה נמוך ואמינות. הדגם 3.6 Flash, לדוגמה, מציע יעילות גבוהה יותר ואיכות טובה יותר מ-3.5 Flash, ומציע יעילות של 17% יותר בעבודות API. הדגם 3.5 Flash-Lite, הוא הדגם המהיר ביותר והזול ביותר, והדגם 3.5 Flash Cyber, תוכנן להיות דגם מיוחד לצורכי ביטחון סייבר. Google AI גם פועלת על פיתוח דגם חדש, Gemini 4, שתוכנן להיות הדגם הבא בסדרת Gemini."
+  },
+  {
+    "id": "96434e862f8aef0e",
+    "title_original": "Inline Email Security and Microsoft 365: A Practical View of Mail Routing, Risk, and Prevention",
+    "url": "https://blog.checkpoint.com/email-security/inline-email-security-and-microsoft-365-a-practical-view-of-mail-routing-risk-and-prevention/",
+    "description": "Microsoft’s guidance on inbound and outbound mail routing for third-party email security has prompted a fair question from customers: how should organizations evaluate inline email security for Microsoft 365?  The answer depends less on whether a solution is inline and more on how that inline architecture is implemented. Microsoft is right to call attention to mail flow designs that can introduce unnecessary complexity, create authentication challenges, duplicate processing, or disrupt the expected Microsoft 365 experience. Those risks are real when a third-party service is bolted onto the environment without careful integration.  That is also why architecture matters. A modern enterprise […]The postInline Email Security and Microsoft 365: A Practical View of Mail Routing, Risk, and Preventionappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-21T20:30:09+00:00",
+    "fetched_at": "2026-07-22T06:37:16.947779+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/email-security/inline-email-security-and-microsoft-365-a-practical-view-of-mail-routing-risk-and-prevention/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inline Email Security and Microsoft 365: A Practical View of Mail Routing, Risk, and Prevention",
+    "summary_he": "Microsoft's guidance on email routing for third-party security has sparked debate on the effectiveness of inline email security for Microsoft 365. The answer lies not in whether a solution is inline, but in how it's implemented, with a focus on preserving authentication and respecting Microsoft 365's mail flow.",
+    "details_he": "Microsoft's documentation aims to prevent poor mail routing implementations, rather than dismissing inline security outright. A well-designed inline email security solution can complement Microsoft 365, adding a specialized prevention layer without disrupting native controls. Check Point Email Security, a Microsoft Partner with decades of integrations, has a architecture built to work alongside Microsoft's native email security, providing an additional prevention point for advanced threats."
+  },
+  {
+    "id": "ab7eb307966d8d40",
+    "title_original": "Bringing Claude Enterprise Activity into Cato AI Security",
+    "url": "https://www.catonetworks.com/blog/cato-integration-claude-compliance-api/",
+    "description": "Claude is now a part of many employees’ everyday work. But even as a sanctioned application, it creates a visibility problem for security teams. Sensitive data can move into prompts, files, projects, and conversations, and teams need a practical way to see what happened and whether it violates policy. Today, we’re announcing that Cato AI...The postBringing Claude Enterprise Activity into Cato AI Securityappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-07-21T16:39:59+00:00",
+    "fetched_at": "2026-07-22T06:37:12.627953+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-integration-claude-compliance-api/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bringing Claude Enterprise Activity into Cato AI Security",
+    "summary_he": "Cato AI Security היא פתרון שמציעה תצפית, תקינה ותיעוד של פעילות Claude Enterprise, כדי למנוע חשיפת נתונים רגולטוריים או עסקיים.",
+    "details_he": "Cato AI Security היא פתרון שמציעה תצפית, תקינה ותיעוד של פעילות Claude Enterprise, כדי למנוע חשיפת נתונים רגולטוריים או עסקיים. הפתרון נועד לספק תצפית, תקינה ותיעוד של פעילות Claude Enterprise, כדי למנוע חשיפת נתונים רגולטוריים או עסקיים. הפתרון נועד לספק תצפית, תקינה ותיעוד של פעילות Claude Enterprise, כדי למנוע חשיפת נתונים רגולטוריים או עסקיים. הפתרון נועד לספק תצפית, תקינה ותיעוד של פעילות Claude Enterprise, כדי למנוע חשיפת נתונים רגולטוריים או עסקיים."
+  },
+  {
+    "id": "b4b7dcea2c9d9ab8",
+    "title_original": "Bringing Back Defender Home Advantage –  How XM Cyber Uses AI Agents to Optimize Exposure Management",
+    "url": "https://xmcyber.com/blog/bringing-back-defender-home-advantage-how-xm-cyber-uses-ai-agents-to-optimize-exposure-management/",
+    "description": "Much has been said of threat actors leveraging AI tools to exploit exposures across organizations’ attack surfaces even faster and why a focus on...The postBringing Back Defender Home Advantage –  How XM Cyber Uses AI Agents to Optimize Exposure Managementappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "ai",
+    "published": "2026-07-21T15:18:36+00:00",
+    "fetched_at": "2026-07-22T06:37:16.770288+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/bringing-back-defender-home-advantage-how-xm-cyber-uses-ai-agents-to-optimize-exposure-management/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bringing Back Defender Home Advantage –  How XM Cyber Uses AI Agents to Optimize Exposure Management",
+    "summary_he": "XM Cyber's AI-powered agents are designed to optimize exposure management and improve security for its customers. The agents, including XM Researcher and XM Detector, leverage AI to streamline critical aspects of preemptive security, such as identifying vulnerabilities and misconfigurations, and accelerating the time between announcing a new CVE and analyzing it.",
+    "details_he": "The XM Cyber Continuous Exposure Management platform uses AI agents internally and externally to minimize the window of exploitability for attackers. The XM Researcher agent consolidates cutting-edge threat research into a single automated pipeline, adding new vulnerabilities with full research data to the platform. This allows for simultaneous research, testing, and validation of new exposures at a massive volume and at machine speed, reducing the time between announcing a new CVE and analyzing it from 24-48 hours to 1-2 hours on average. The XM Detector agent focuses remediation efforts on exposures that compromise business-critical assets, enabling customers to secure their assets from the latest threats."
+  },
+  {
+    "id": "430dcbee134d84d4",
+    "title_original": "Agentless Threat Detection: Illuminating Cloud Blind Spots",
+    "url": "https://www.wiz.io/blog/agentless-visibility-uncovering-cloud-blind-spots",
+    "description": "How Agentless Workload Detection exposes hidden threats in virtual appliances and modern cloud networks.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-21T13:26:13+00:00",
+    "fetched_at": "2026-07-22T06:37:08.110910+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/agentless-visibility-uncovering-cloud-blind-spots"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Agentless Threat Detection: Illuminating Cloud Blind Spots",
+    "summary_he": "Wiz's Agentless Workload Detection has filled the visibility gap in cloud networks by providing critical visibility into virtual appliances without the need for agents, enabling the detection and analysis of sophisticated attacks.",
+    "details_he": "Wiz's Agentless Workload Detection has revolutionized cloud security by providing visibility into virtual appliances, which were previously a massive visibility gap for security teams. This capability has allowed Wiz's research and IR teams to investigate activity associated with high-profile threat actors and detect a wide array of sophisticated attacks. The agentless approach has been particularly effective in detecting threats such as the FortiGate Campaign Trail, which involved exploitation of zero-day vulnerabilities, credential stuffing, and configuration theft. Additionally, Wiz has successfully detected real-world attackers abusing Redis instances in the wild, including cases of replication abuse. The agentless capability is not limited to threat hunting, as Wiz has also built threat detection rules for detecting specific attacks, such as suspicious replication targets and malicious npm packages."
+  },
+  {
+    "id": "c4d84fbb4208950d",
+    "title_original": "A new extortion cocktail: office printers, small ransoms, and BitLocker",
+    "url": "https://securelist.com/new-extortion-scheme-printers-bitlocker/120718/",
+    "description": "We cover two recent cases of BitLocker extortion using RDP, MSSQL, RMM tools, web shells, and printers. The story includes TTPs and recommendations.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-07-21T13:00:29+00:00",
+    "fetched_at": "2026-07-22T06:37:06.420415+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/new-extortion-scheme-printers-bitlocker/120718/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A new extortion cocktail: office printers, small ransoms, and BitLocker",
+    "summary_he": "במקרים שונים, פורצי דרך ניצלו מכשירי דפסה ושירותי RDP כדי לגנוב נתונים ולדרוש כופר. הם גם ניצלו תכונה של Windows כדי להציג סמלי פקק כדי להציג למשתמשים שהנתונים שלהם נגנבו.",
+    "details_he": "במקרים שונים, פורצי דרך ניצלו מכשירי דפסה ושירותי RDP כדי לגנוב נתונים ולדרוש כופר. הם גם ניצלו תכונה של Windows כדי להציג סמלי פקק כדי להציג למשתמשים שהנתונים שלהם נגנבו. זה כלל הצגת סמלי פקק כדי להציג למשתמשים שהנתונים שלהם נגנבו. הפורצים גם דרשו כופר נמוך, 3,000 דולר, ואף הציעו למשתמשים לשלם את הכופר. המקרים הללו מציגים כיצד פורצי דרך ניצלו תכונות של Windows כדי להציג סמלי פקק ולדרוש כופר. זה גם מציג כיצד הפורצים ניצלו שירותי RDP כדי לגנוב נתונים."
+  }
+]
