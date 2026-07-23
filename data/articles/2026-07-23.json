@@ -1,0 +1,212 @@
+[
+  {
+    "id": "e06d53910a5d9ab8",
+    "title_original": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+    "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+    "description": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-23T02:00:46+00:00",
+    "fetched_at": "2026-07-23T06:35:42.123945+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+    "summary_he": "NVIDIA AI Supercomputer הגיע לבית הספר הצבאי הגבוה, ומספק גישה למחשבי AI גדולי-ממד, כולל אימון והערכה של מודלים, לסטודנטים, מחקרנים וסגל האקדמי.",
+    "details_he": "ה-DGX GB300, המחשב העל-גדול של NVIDIA, כולל תוכנת NVIDIA Mission Control, ומספק ליותר מ-1,500 סטודנטים ו-600 סגל אקדמי גישה למחשבי AI גדולי-ממד, כולל אימון והערכה של מודלים, ליישומים כגון תחזית מזג האוויר, ביטחון סייבר ותכנון ותגובה לאסונות. ה-DGX GB300 נבנה על בסיס NVIDIA AI Technology Center, מרכז AI למחקר ולהוראה, שנמצא על הקמפוס במונטריי. ה-DGX GB300 יכול לאמן מודלים בבית, לרוץ סימולציות באיכות גבוהה ולפתח כלים AI עם תכונות מיידיות."
+  },
+  {
+    "id": "08f10db1e2425bc0",
+    "title_original": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-07-22T13:38:54+00:00",
+    "fetched_at": "2026-07-23T06:35:40.523126+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "summary_he": "Google Cloud הצטרפה למשימת גנזיס של הבית הלבן, ועכשיו היא מוסיפה 40 מיליון דולר למימון המשימה. Google Cloud תספק כלים AI למדענים, כולל AlphaEvolve, AlphaFold 3 ו-AlphaGenome.",
+    "details_he": "Google Cloud הצטרפה למשימת גנזיס של הבית הלבן, שמטרתה להכפיל את קצב הגילויים המדעיים בארצות הברית בעשר שנים. כחלק מהמשימה, Google Cloud תספק 40 מיליון דולר של כרטיסי AI וזכויות על ענן לחוקרים. Google Cloud תספק כלים AI למדענים, כולל AlphaEvolve, AlphaFold 3 ו-AlphaGenome. AlphaEvolve הוא כלי קודים וגילוי, AlphaFold 3 הוא כלי לחיזוי התנהגות של חלבונים, ו-AlphaGenome הוא כלי להבנת השפעת השינויים ב-DNA על הביולוגיה והמחלות."
+  },
+  {
+    "id": "29b9aa2afc4ea1e8",
+    "title_original": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+    "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+    "description": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on schedule. That creates one of […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-22T13:00:11+00:00",
+    "fetched_at": "2026-07-23T06:35:42.123945+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+    "summary_he": "NVIDIA הפכה את פרויקט המדע הרפואי שלה לפתוח, וכך מאפשרת למפתחי רובוטיקה רפואית לפתח סביבות הדמיה מחדש, ולהקדים את פיתוח המוצרים.",
+    "details_he": "פרויקט NVIDIA Medical Physics Simulation הוא פרויקט פתוח, GPU-מאומן, שמספק סביבות הדמיה לרובוטיקה רפואית. הפרויקט מאפשר למפתחי רובוטיקה רפואית לדמות את האנטומיה, את ההתנהגות של כלי רפואי, ואת הסימולציה של תצלומי X-ray. הפרויקט נבנה על טכנולוגיות CUDA של NVIDIA, והוא חלק מ-Isaac for Healthcare. הפרויקט מאפשר למפתחי רובוטיקה רפואית לפתח סביבות הדמיה מחדש, ולהקדים את פיתוח המוצרים. הפרויקט גם מאפשר למפתחי רובוטיקה רפואית לבחון את הפעולה של הרובוטים במגוון סיטואציות, ולזהות את האזורים שבהם הרובוטים עשויים לכשל."
+  },
+  {
+    "id": "c6eab2c498c2f38d",
+    "title_original": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-22T13:00:00+00:00",
+    "fetched_at": "2026-07-23T06:35:39.841690+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Building AI infrastructure with the Effingham County community",
+    "summary_he": "OpenAI's Project Camellia, a long-term datacenter project in Effingham County, Georgia, aims to build AI infrastructure while prioritizing community benefits and minimizing environmental impact.",
+    "details_he": "The project will utilize 3.2 gigawatts of power from Georgia Power Company, delivered in phases between 2028 and 2032, and will not increase electricity rates for residents. OpenAI has committed to using a closed-loop water system, minimizing water use, and providing $80 million in community benefits over the project's life. Additionally, the company will offer up to $71 million in Codex credits to eligible Georgia students, enabling them to gain hands-on experience with agentic AI through ChatGPT. The project is expected to create thousands of construction and permanent jobs, with a focus on local contractors and businesses."
+  },
+  {
+    "id": "8af07ff05432c1a8",
+    "title_original": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-22T13:00:00+00:00",
+    "fetched_at": "2026-07-23T06:35:39.841690+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-news-organizations-are-using-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How news organizations are using AI to advance their vital missions",
+    "summary_he": "News organizations are leveraging AI to enhance their reporting capabilities, making it easier for journalists to cover more ground and produce high-quality content. This collaboration has led to the development of various tools that aid in research, verification, and storytelling. As a result, journalists can focus on original reporting and build stronger relationships with their audience.",
+    "details_he": "The integration of AI in news organizations has been a significant development over the past year. By automating repetitive tasks and providing journalists with advanced tools, newsrooms can now search through decades of reporting, reach new audiences, and turn complex information into actionable insights. This shift has also enabled news organizations to build stronger, more sustainable businesses, as seen in the renewed support for the American Journalism Project and the continued collaboration with the Lenfest Institute for Journalism and WAN-IFRA."
+  },
+  {
+    "id": "38786c7c24f93522",
+    "title_original": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
+    "description": "Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions.The postReal world incident response: Microsoft and AXA XL strengthen cyber resilienceappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-22T16:00:00+00:00",
+    "fetched_at": "2026-07-23T06:35:46.596244+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
+    "summary_he": "Microsoft ו-AXA XL חזקו את התגובה לאסונות סייבר בעולם האמיתי, על ידי שיתוף פעולה שמביא את שירותי התגובה לאסונות של Microsoft ישירות לבעלי תוכניות ביטוח סייבר של AXA XL.",
+    "details_he": "השיתוף פעולה הזה מאפשר לארגונים לקוארדינט את ההחלטות הטכניות, העסקיות והביטוחיות שלהם, כדי להתמודד עם אסונות סייבר. השירותים של Microsoft יכולים לסייע לארגונים לטפל באסונות סייבר, להגן על נתונים ולשמור על תפקודם. זה חשוב, כיוון שאסונות סייבר יכולים להיות פגיעים ולהשפיע על עסקים וארגונים."
+  },
+  {
+    "id": "c43322b543e3215a",
+    "title_original": "From Triage Grind to Strategic Operator: The New AI SOC Career Path",
+    "url": "https://www.sentinelone.com/blog/from-triage-grind-to-strategic-operator-the-new-ai-soc-career-path/",
+    "description": "Learn how AI is reshaping SOC careers, elevating analysts from manual triage to strategic threat hunting and AI governance.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-07-22T15:00:55+00:00",
+    "fetched_at": "2026-07-23T06:35:49.998724+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/from-triage-grind-to-strategic-operator-the-new-ai-soc-career-path/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Triage Grind to Strategic Operator: The New AI SOC Career Path",
+    "summary_he": "בעידן החדש של תפקידי SOC, AI משתלטת על עבודת הטריאז' והתאמת האזהרות, מאפשרת לאנליסטים להתמקד בעבודה העמוקה והאסטרטגית.",
+    "details_he": "התפקידים ב-SOC משתנים, כאשר AI משתלטת על עבודת הטריאז' והתאמת האזהרות. זוהי הזדמנות לאנליסטים להתמקד בעבודה העמוקה והאסטרטגית. האנליסטים עוברים מעבודה של טריאז' ותאמת אזהרות, לעבודה של ניתוח מעמיק ואסטרטגיה. זוהי שינוי חשוב בעידן החדש של תפקידי SOC."
+  },
+  {
+    "id": "f4c12a169d44910e",
+    "title_original": "Opening the Black Box: Agentless Threat Detection for Virtual Appliances",
+    "url": "https://www.wiz.io/blog/agentless-threat-hunting-fortigate",
+    "description": "Mapping appliances event logs to real-world campaigns: A step-by-step researcher’s guide to continuous agentless monitoring.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-22T14:24:50+00:00",
+    "fetched_at": "2026-07-23T06:35:50.797764+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/agentless-threat-hunting-fortigate"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Opening the Black Box: Agentless Threat Detection for Virtual Appliances",
+    "summary_he": "חברות רבות משתמשות באפליקציות וירטואליות, 51.9% מהסביבות הענן כוללות לפחות אחת, ו-46.4% מהן חשופות לאינטרנט. אלה פעילות כמערכות רשת ובטחון, כמו חומות אש, גייטווייז, WAFs, פרוקסיז ו-SSL VPNs. אפליקציות אלה פעילות בזכות סמכויות גבוהות, כ-65% מהארגונים המשתמשים ב-Aviatrix, ולמרות חשיבותן, הן פעילות כ'שחורים' ואינן תומכות בכלי בטחון רגילים.",
+    "details_he": "אפליקציות וירטואליות חשופות לאינטרנט ופעילות בזכות סמכויות גבוהות, ולמרות חשיבותן, הן פעילות כ'שחורים' ואינן תומכות בכלי בטחון רגילים. Wiz Agentless Workload Detection מאפשרת ראיית-עין תקינה לאפליקציות אלה, ומאפשרת זיהוי של פעילות פולשנית. Wiz Agentless Workload Detection תומכת בציוד FortiGate, ומאפשרת ראיית-עין תקינה לאפליקציות אלה. Wiz Agentless Workload Detection גם מאפשרת זיהוי של פעילות פולשנית, ומאפשרת זיהוי של פעילות פולשנית."
+  },
+  {
+    "id": "3b1892da53b01963",
+    "title_original": "Security Advisory – Action Required – July 2026 Security Update",
+    "url": "https://blog.checkpoint.com/security/security-advisory-action-required-active-exploitation-of-check-point-smartconsole-authentication-bypass-cve-2026-16232/",
+    "description": "As part of Check Point’s Frontier AI Readiness Program, we are releasing a jumbo hotfix with security and hardening fixes for our firewall and management products. This update includes a number of security hardening improvements and fixes, the most significant of which are outlined below. During a routine BLAST review, we discovered a few vulnerabilities. Following a thorough analysis, we identified one of those in the wild, affecting a handful of customers. This only affects a very specific configuration — when Management is exposed directly to the internet without IP restrictions. All affected customers have been notified. All Smart-1 Cloud […]The postSecurity Advisory – Action Required – July 2026 Security Updateappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-22T14:01:58+00:00",
+    "fetched_at": "2026-07-23T06:35:59.007082+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/security-advisory-action-required-active-exploitation-of-check-point-smartconsole-authentication-bypass-cve-2026-16232/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Security Advisory – Action Required – July 2026 Security Update",
+    "summary_he": "Check Point היא חברה המפתחת תוכנות אבטחה, והיא הוציאה עדכון ביטחוני חשוב. העדכון כולל תיקונים לחולשות באבטחת הפלאש והמנהלים. חלק מהלקוחות נפגעו, אך כל הלקוחות שנפגעו כבר קיבלו התראה.",
+    "details_he": "העדכון כולל תיקונים לחולשות באבטחת הפלאש והמנהלים. חברת Check Point הגיעה למסקנה שחלק מהלקוחות נפגעו, אך כל הלקוחות שנפגעו כבר קיבלו התראה. העדכון כולל גם תיקונים לחולשות באבטחת הגייה OS. חברת Check Point ממליצה לכל הלקוחות להתקין את העדכון החדש."
+  },
+  {
+    "id": "d2fcbdfa2b8d7f4f",
+    "title_original": "What the 2026 Exposure Gap Report Reveals About Remediation",
+    "url": "https://blog.checkpoint.com/exposure-management/what-the-2026-exposure-gap-report-reveals-about-remediation/",
+    "description": "Some security teams are reducing critical exposure within hours, while others are leaving similar issues open for days. The 2026 Exposure Gap Report shows that many organizations can identify, validate, and prioritize exposure, but the real challenge begins when teams need to turn those insights into remediation.  Across environments, organizations are often working with similar types of exposure, yet their outcomes vary significantly. The difference depends on how quickly validated findings move into remediation and how consistently teams can repeat that process at scale.  Remediation Speed Varies Significantly  According to the report, Utilities organizations resolve exposure in about 12.6 hours […]The postWhat the 2026 Exposure Gap Report Reveals About Remediationappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-22T12:45:55+00:00",
+    "fetched_at": "2026-07-23T06:35:59.007082+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/what-the-2026-exposure-gap-report-reveals-about-remediation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What the 2026 Exposure Gap Report Reveals About Remediation",
+    "summary_he": "Report מציג תוצאות שונות בין צוותי ביטחון, המצליחים לסגור חשיפות בשעות ואחרים שותקים חשיפות דומות למשך ימים. זאת על פי דו\"ח Exposure Gap Report של 2026.",
+    "details_he": "הדו\\\"ח מציג תוצאות שונות בין צוותי ביטחון, המצליחים לסגור חשיפות בשעות ואחרים שותקים חשיפות דומות למשך ימים. זאת על פי דו\\\"ח Exposure Gap Report של 2026. הדו\\\"ח גילה כי צוותי Utilities סגרו חשיפות בממוצע של 12.6 שעות, בעוד צוותי Healthcare סגרו חשיפות בממוצע של 158 שעות. הדו\\\"ח גם גילה כי צוותי Financial Services הצליחו לבצע 91.7% מהתיקונים המומלצים, וכי צוותי Utilities סגרו חשיפות בממוצע של 12.6 שעות."
+  }
+]
