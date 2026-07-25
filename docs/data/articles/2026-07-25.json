@@ -1,0 +1,212 @@
+[
+  {
+    "id": "cee2c84037828938",
+    "title_original": "v2.1.220",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.220",
+    "description": "What's changedBug fixes and reliability improvements",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-07-25T01:35:55+00:00",
+    "fetched_at": "2026-07-25T06:25:09.461964+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.220"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.220",
+    "summary_he": "A recent update to the Claude code, version v2.1.220, appears to be experiencing technical difficulties, resulting in an error message when users attempt to access its features.",
+    "details_he": "The update, released by ashwin-ant, includes bug fixes and reliability improvements, but it seems that these changes are not yet fully functional. The error message 'Uh oh! There was an error while loading. Please reload this page' is displayed when users try to access the update's features, such as viewing assets or comparing tags. This issue may be affecting users who have forked the Claude code or are trying to access its latest version."
+  },
+  {
+    "id": "30b1303ecb862dfb",
+    "title_original": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-25T00:23:11+00:00",
+    "fetched_at": "2026-07-25T06:24:47.267614+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "summary_he": "OpenAI's Micro keypad, designed for coders, has received mixed reviews, with some tech enthusiasts praising its unique features and others finding it overpriced and confusing.",
+    "details_he": "The Micro keypad, developed in collaboration with Work Louder, is a custom-built device that pairs with ChatGPT and Codex, allowing users to customize keys for specific tasks. Despite its sturdy build and sleek packaging, the keypad has been met with criticism from hard-core coders, who find it difficult to justify the $230 price tag. Reviews have been largely negative, with some users calling it a 'prank' and others criticizing its lack of practicality. OpenAI's foray into the hardware market has been marked by controversy, including a lawsuit from Apple and reports of a smart home product in development, raising eyebrows about the company's broader ambitions."
+  },
+  {
+    "id": "86d438cabcc6a62c",
+    "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-24T22:25:58+00:00",
+    "fetched_at": "2026-07-25T06:24:47.267614+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "summary_he": "Prentis, a new AI research lab, is in talks to raise $100 million at a $1 billion valuation, as it aims to develop AI agents that can automate office tasks. The lab, co-founded by Reid Hoffman and Mark Pincus, has already signed contracts worth up to $50 million with several customers. Its models have reportedly outperformed rivals on certain benchmarks.",
+    "details_he": "Prentis is focused on training models to learn how office workers navigate routine workflows, with the goal of building AI agents that can control computers to automate tasks. The startup has already achieved significant traction, with estimated annualized revenue of $75 million by the third quarter of this year. Prentis' edge comes from running a smaller, cheaper model, which it claims is more economical to deploy across everyday workflows. The lab is part of a crowded market, with other companies such as Anthropic and Open AI also working on developing AI agents for computer use."
+  },
+  {
+    "id": "7ba3a1d013fe161b",
+    "title_original": "Canadian legislator reads out apparent LLM response in floor speech",
+    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+    "description": "\"Here’s a more natural, flowing version of that section...\"",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-07-24T21:25:15+00:00",
+    "fetched_at": "2026-07-25T06:24:47.040311+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Canadian legislator reads out apparent LLM response in floor speech",
+    "summary_he": "A Canadian legislator, Bill Oliver, sparked controversy after reading an apparent LLM response aloud in a floor speech, highlighting the growing trend of professionals relying on AI for assistance.",
+    "details_he": "The incident occurred during a speech in the New Brunswick legislative assembly, where Oliver mentioned a 'more natural, flowing version of that section' that sounded like an LLM response. The video of the remarks went viral on social media, with some commentators criticizing the use of AI in professional settings. This is not the first time a professional has been caught relying on LLMs, with lawyers, authors, journalists, and academics facing similar issues in the past. A study by Duke University found that workers tend to hide their AI use due to concerns about being perceived as 'lazy' or 'replaceable'."
+  },
+  {
+    "id": "34e38ed7ae38189d",
+    "title_original": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+    "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+    "description": "Models are improving quickly, but the cheaper options are often good enough.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-07-24T21:05:51+00:00",
+    "fetched_at": "2026-07-25T06:24:47.040311+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+    "summary_he": "Anthropic's Opus 5, העדכון החדש של המודל, מציג קידום קל בביצועים, אך לא קפיצה דרמטית, ובעיקר, זהו עדכון שמתמקד בעלות, ולא בביצועים.",
+    "details_he": "Opus 5, העדכון החדש של Anthropic, מציג קידום קל בביצועים, אך לא קפיצה דרמטית, כפי שצפו. המודל, שהפך לבחירה פופולרית לפיתוח תוכנה ועבודות אחרות, מציג ביצועים שכמעט זהים לאלה של Fable, המודל המתחרה של Anthropic, ובמקרים מסוימים, אף מעליהם. עם זאת, Opus 5 נחשב למודל שקטן יותר, ובעלות שנמוכה יותר, ולכן, יש לו פחות יכולות מ-Fable. כמו כן, Opus 5 לא קיבל את האימון המתקדם של Fable, ולכן, הוא נחשב ל\"חלש\" יותר בתחום הביטחון."
+  },
+  {
+    "id": "19b6b818ae07118b",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 30",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-30-8/",
+    "description": "Authorities arrest Kratos's developer, HollowGraph hides C2 in 2050 calendar events, and OpenAI's models breach Hugging Face to steal benchmark answers.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-07-24T13:00:12+00:00",
+    "fetched_at": "2026-07-25T06:24:55.097187+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-30-8/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 30",
+    "summary_he": "בעקבות פעולת משטרה, פלטפורמת הפישינג Kratos נפגעה קשות. חברות הביטחון הגרמניות והאמריקאיות השיגו 200 סרברים ועצרו את המפתח הצפוי של הפלטפורמה.",
+    "details_he": "לפי חברות הביטחון, יותר מ-1800 פורטלים פישינג השתמשו בפלטפורמה, ובחודשיים האחרונים, הם יצאו לפחות 15,000 קמפיינים פישינג. הפלטפורמה, שפעלה כמותג, סיפקה כלי עזר לפורטלים פישינג, שאפשרו להם ליצור דפי אימות מיקרוסופט נועזים. הפלטפורמה נפגעה, אך המפתח הצפוי יכול לשחזר אותה תחת שם אחר."
+  },
+  {
+    "id": "029c3fd9578175c5",
+    "title_original": "Your Best Analyst Shouldn’t Be a Person. It Should Be a Capability Everyone Can Summon.",
+    "url": "https://www.sentinelone.com/blog/your-best-analyst-shouldnt-be-a-person-it-should-be-a-capability-everyone-can-summon/",
+    "description": "Transform expert SOC analysis into an on-demand AI capability to empower all analysts and accelerate threat resolution.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-07-24T12:00:53+00:00",
+    "fetched_at": "2026-07-25T06:24:55.097187+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/your-best-analyst-shouldnt-be-a-person-it-should-be-a-capability-everyone-can-summon/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Your Best Analyst Shouldn’t Be a Person. It Should Be a Capability Everyone Can Summon.",
+    "summary_he": "בעוד שבעבר הקביעת רמת הביטחון הייתה תלויה בכלי המוצרים שנרכשו, העשור הבא יקבע אותה על פי התוצאות שנוצרות. זהו שינוי רדיקלי שמתבצע על ידי ספריית AI 'skills' שמספקת יכולת לכל צוות.",
+    "details_he": "הספרייה של AI 'skills' יכולה לספק פתרון לבעיית המחסור במומחים בביטחון המידע. כיום, כל סוג של נתונים דורש מומחה ייעודי שיכול לקרוא אותם. הספרייה של AI 'skills' יכולה לספק פתרון לכך, כיוון שהיא מאפשרת לכל צוות להפעיל יכולת של AI 'skills' כאשר הם צריכים. זה יכול לספק פתרון לבעיית המחסור במומחים בביטחון המידע."
+  },
+  {
+    "id": "23976b7dc6ead8a8",
+    "title_original": "CISOs vs. Boards: Myth or Misunderstanding?",
+    "url": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
+    "description": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-07-24T21:31:53+00:00",
+    "fetched_at": "2026-07-25T06:24:49.124563+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISOs vs. Boards: Myth or Misunderstanding?",
+    "summary_he": "תקיפות צבאיות חדישות ומשבשות כובדות על ההנהלה להעניק עדיפות לביטחון, אך חוסר התקשורת בין הצוותים לבין ההנהלה נמשך. כל צד טוען שהוא זקוק לתמיכה נוספת.",
+    "details_he": "תקיפות צבאיות חדישות ומשבשות כובדות על ההנהלה להעניק עדיפות לביטחון, אך חוסר התקשורת בין הצוותים לבין ההנהלה נמשך. חוקרים צבאיים טוענים שהתקיפות הצבאיות החדשות והמשבשות כובדות על ההנהלה להעניק עדיפות לביטחון, אך חוסר התקשורת בין הצוותים לבין ההנהלה נמשך. כל צד טוען שהוא זקוק לתמיכה נוספת. על פי דברי Edna Conway, סגנית ראש החברה וקצינת רישוי וביטחון ב-TPO group ובעבר סגנית ראש החברה וקצינת רישוי וביטחון ב-Microsoft, 'אין תפיסה זו נכונה. חברי הדירקטוריון החזקים חושבים על סיכוני הביטחון, ולא רק על סיכוני הביטחון, אלא גם על העסק, על אנשי העסק, על המשימה ועל הסיכונים שבחוץ. הם חושבים על כל הגורמים הללו, ולא רק על סיכוני הביטחון."
+  },
+  {
+    "id": "b07f8f52e5b0c0fa",
+    "title_original": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
+    "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html",
+    "description": "Lower catchthis year.As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.Blog moderation policy.",
+    "source_name": "Bruce Schneier",
+    "source_url": "https://www.schneier.com",
+    "category": "ai",
+    "published": "2026-07-24T21:06:00+00:00",
+    "fetched_at": "2026-07-25T06:24:50.837075+00:00",
+    "sources": [
+      {
+        "name": "Bruce Schneier",
+        "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
+    "summary_he": "In recent years, the squid fishing industry has experienced fluctuations in catch numbers. The Falkland Islands, a major hub for squid fishing, reported a lower catch this year. This trend may be attributed to various factors affecting the squid population.",
+    "details_he": "The Illex squid catch in the Falklands has been a topic of interest for the fishing industry. A lower catch this year may have significant economic implications for the region. The squid fishing industry is also subject to environmental and conservation concerns, which could impact future catch numbers. The Falkland Islands' squid fishing regulations and management practices may also play a role in the fluctuations in catch numbers."
+  },
+  {
+    "id": "1d40a0ec1e27c578",
+    "title_original": "Industry’s message on CIRCIA: Please ask us fewer questions about cyberattacks",
+    "url": "https://cyberscoop.com/cisa-circia-cyber-incident-reporting-rule-feedback/",
+    "description": "The administration set a target date of September for CISA to finalize the rule, but where the agency is headed remains a mystery to some.The postIndustry’s message on CIRCIA: Please ask us fewer questions about cyberattacksappeared first onCyberScoop.",
+    "source_name": "CyberScoop",
+    "source_url": "https://cyberscoop.com",
+    "category": "cyber",
+    "published": "2026-07-24T20:58:35+00:00",
+    "fetched_at": "2026-07-25T06:24:50.532196+00:00",
+    "sources": [
+      {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/cisa-circia-cyber-incident-reporting-rule-feedback/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Industry’s message on CIRCIA: Please ask us fewer questions about cyberattacks",
+    "summary_he": "Industry groups expressed concerns about the proposed cyber incident notification regulation, citing an excessive number of companies that would be affected and the potential for overburdening small businesses.",
+    "details_he": "Industry groups who participated in town halls hosted by the Cybersecurity and Infrastructure Security Agency (CISA) expressed concerns about the proposed regulation for the Cyber Incident Reporting for Critical Infrastructure Act. They argued that the regulation would apply to too many companies, with CISA estimating that over 300,000 entities would be subject to its requirements. Some industries, such as the insurance sector, advocated for their removal entirely from the regulation, while others, like the Nuclear Energy Institute, sought to reduce the number of affected companies within their sector. Industry groups also expressed concerns about the type of data that organizations would be required to report in the event of a major incident, with some arguing that CISA should collect the least amount of information possible in the easiest to report fashion to facilitate information accuracy and reporting speed."
+  }
+]
