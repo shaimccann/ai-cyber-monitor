@@ -1,0 +1,191 @@
+[
+  {
+    "id": "65c2d0527dd82425",
+    "title_original": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+    "description": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-27T00:45:42+00:00",
+    "fetched_at": "2026-07-27T07:40:46.941236+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+    "summary_he": "NVIDIA נותנת תוקף ל-CPU Vera כדי לצמצם את זמן פיתוח של יחידות עבודה חדשות של מעבדים ו- GPU. ה-CPU Vera נבחרה כדי להגדיל את קצב העבודה של תהליכי תכנון חשבוני.",
+    "details_he": "NVIDIA נערכה להציג את CPU Vera לתהליכי תכנון חשבוני כדי לצמצם את זמן פיתוח של יחידות עבודה חדשות של מעבדים ו-GPU. ה-CPU Vera נבחרה כדי להגדיל את קצב העבודה של תהליכי תכנון חשבוני. NVIDIA עבדה עם חברות Cadence ו-Synopsys כדי לאופטימיזץ תהליכי תכנון חשבוני. תהליכי תכנון חשבוני כוללים תהליכי תכנון, וריפיקציה והפעלה. NVIDIA נערכה להציג את CPU Vera לתהליכי תכנון חשבוני כדי לצמצם את זמן פיתוח של יחידות עבודה חדשות של מעבדים ו-GPU."
+  },
+  {
+    "id": "0d67ea5462e02f19",
+    "title_original": "Amazon is investing in the Lean Focused Research Organization",
+    "url": "https://www.amazon.science/news/amazon-is-investing-in-the-lean-focused-research-organization",
+    "description": "As AI agents take on higher-stakes decisions, Lean programming language makes it possible to mathematically prove they will behave safely.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-07-26T08:00:00+00:00",
+    "fetched_at": "2026-07-27T07:40:47.194119+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/news/amazon-is-investing-in-the-lean-focused-research-organization"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Amazon is investing in the Lean Focused Research Organization",
+    "summary_he": "Amazon נותנת תמיכה כספית ארוכת טווח לארגון Lean Focused Research Organization, המפתחת שפת תכנות Lean, שמאפשרת הוכחה מתמטית של תקינות תוכנה.",
+    "details_he": "Amazon תומכת בפיתוח שפת התכנות Lean, שמאפשרת הוכחה מתמטית של תקינות תוכנה, כדי לאפשר תוכנות AI נאמנות וממוסרות. הארגון Lean Focused Research Organization (FRO) מפתחת את הכלים שמאפשרים הוכחה מתמטית פרקטית בקנה מידה של תוכנה מודרנית. Amazon תומכת בפיתוח שפת התכנות Lean דרך הארגון FRO העצמאי, כדי לאפשר עקביות ואמינות. התמיכה הכספית של Amazon היא התרומה הגדולה ביותר בתולדות FRO."
+  },
+  {
+    "id": "ee75dd086f7b6e5e",
+    "title_original": "קניתם מסך של LG? קיבלתם פרסומות קופצות של McAfee",
+    "url": "https://www.geektime.co.il/lg-monitors-adware-practice/",
+    "description": "עם כל הכבוד ל-PC Master Race ולמיקרוסופט, החוויה של משתמשי Windows גם בשנת 2026 שנויה במחלוקת. גם משתמשים שרוכשים במיטב כספם רישיונות למערכת ההפעלה ולפטופים באלפי ועשרות אלפי שקלים יקבלו כמויות של Bloatware, פרסומות ופופאפים שהם מעולם לא ביקשו. אבל ב-LG החליטו לקחת את זה צעד אחד קדימה, ומשתמשים שרכשו את המסכים שלהם פשוט גילו […]The postקניתם מסך של LG? קיבלתם פרסומות קופצות של McAfeeappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-07-27T06:59:05+00:00",
+    "fetched_at": "2026-07-27T07:41:06.213152+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/lg-monitors-adware-practice/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "קניתם מסך של LG? קיבלתם פרסומות קופצות של McAfee",
+    "summary_he": "משתמשים שרכשו מסכי LG דיווחו על פופאפים של McAfee שקופצים לפני המסך, ומיקרוסופט התערבה והגיעה להסכמה עם LG לנטרל את הפופאפים. אולם, LG עדיין מאפשרת למסכים שלה להתקין תוכנה שמסוגלת לעקוב אחרי המשתמש.",
+    "details_he": "הבעיה החלה לצוץ בשבועות האחרונים, כאשר משתמשים החלו לדיווח על פופאפים של McAfee שקופצים לפני המסך שלהם. גם Gamers Nexus, ערוץ יוטיוב, פרסם סרטון שבו הוא מזהיר מפני רכישת מסכי LG, בטענה שהם מכילים תנאי שימוש שמאפשרים ל-LG לעקוב אחרי המשתמש. הטענות הללו אינן חדשות, וב-2025 הוגשו תביעות נגד 5 יצרניות מסכים, כולל LG, בטענה שהן אוספות מידע על המשתמשים באופן שמפר לכאורה את חוקי המדינה. מיקרוסופט התערבה והגיעה להסכמה עם LG לנטרל את הפופאפים, אולם LG עדיין מאפשרת למסכים שלה להתקין תוכנה שמסוגלת לעקוב אחרי המשתמש."
+  },
+  {
+    "id": "85bfea4b1b16ce31",
+    "title_original": "\"סיכון מיותר\": ההמלצה המפתיעה לחברות הייטק ששוקלות הנפקה",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001550477#utm_source=RSS",
+    "description": "בשל עליית השווי וההכנסות הנדרשים ממנפיקות בוול סטריט, בג'פריס ממליצים לחברות טכנולוגיה ישראליות להתחיל את החיים הציבוריים בת\"א, ובהמשך להירשם מעבר לים",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-27T03:05:00+00:00",
+    "fetched_at": "2026-07-27T07:41:11.282389+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550477#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"סיכון מיותר\": ההמלצה המפתיעה לחברות הייטק ששוקלות הנפקה",
+    "summary_he": "בעקבות עליית השווי וההכנסות, חברות טכנולוגיה ישראליות נוטות להתחיל את החיים הציבוריים בת\"א, ולאחר מכן להירשם בבורסת נאסד\"ק. זאת, על פי חברת הייעוץ ג'פריס.",
+    "details_he": "חברת הייעוץ ג'פריס ממליצה לחברות הייטק ישראליות להתחיל את החיים הציבוריים בת\"א, ובהמשך להירשם בבורסת נאסד\"ק. זאת, בעקבות עליית השווי וההכנסות הנדרשים ממנפיקות בוול סטריט. ג'פריס מציינת שההנפקה בבורסת נאסד\"ק דורשת הכנסות גבוהות, ולכן חברות טכנולוגיה ישראליות נוטות להתחיל את החיים הציבוריים בת\"א."
+  },
+  {
+    "id": "176d8722040e67aa",
+    "title_original": "מיקרוסופט איבדה יותר מטריליון דולר מהשווי. למה כולם עדיין אופטימיים?",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001550174#utm_source=RSS",
+    "description": "בתי השקעות מסמנים את ענקית התוכנה בתור המניה המועדפת עליהם, אבל בינתיים היא בעיקר יורדת • בדוחות הכספיים שיפורסמו השבוע ייתכן שנגלה מי צודק: האנליסטים או המניה?",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-27T03:01:00+00:00",
+    "fetched_at": "2026-07-27T07:41:11.282389+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550174#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מיקרוסופט איבדה יותר מטריליון דולר מהשווי. למה כולם עדיין אופטימיים?",
+    "summary_he": "בעקבות דוחות הכספיים של מיקרוסופט, נכון להיום, רבים עדיין מאמינים בעתיד האופטימי של החברה, אף על פי שהיא איבדה יותר מטריליון דולר משווי השוק. עם זאת, עדיין ישנם סימנים של ירידה. ",
+    "details_he": "בתי השקעות רבים מסמנים את מיקרוסופט כחברה המועדפת עליהם, אך דוחות הכספיים האחרונים מראים ירידה בשווי השוק. האנליסטים והמניה נמצאים בעיצומה של ספקולציה, והדוחות הכספיים הקרובים יוכלו להבהיר מי צודק. "
+  },
+  {
+    "id": "8b4d9bf39b83fd70",
+    "title_original": "Cato CTRL™ Threat Research: SilverFox Evolves: Abuse of New Drivers and Trusted Software Hijacking Enable Remote Access with ValleyRAT in Japan",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-silverfox-evolves/",
+    "description": "Executive Summary SilverFox is expanding its toolkit. In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate applications for DLL sideloading, defense evasion, and layered recovery mechanisms to keep ValleyRAT running. We investigated an active campaign targeting a Japanese organization in the industrial manufacturing sector. The attack begins with an invoice-themed...The postCato CTRL™ Threat Research: SilverFox Evolves: Abuse of New Drivers and Trusted Software Hijacking Enable Remote Access with ValleyRAT in Japanappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-07-27T07:33:37+00:00",
+    "fetched_at": "2026-07-27T07:41:00.481937+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-silverfox-evolves/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL™ Threat Research: SilverFox Evolves: Abuse of New Drivers and Trusted Software Hijacking Enable Remote Access with ValleyRAT in Japan",
+    "summary_he": "Executive Summary SilverFox is expanding its toolkit. In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate applications for DLL sideloading, defense evasion, and layered recovery mechanisms to keep ValleyRAT running. We investigated an active campaign targeting a Japanese organization in the industrial manufacturing sector. The attack begins with an invoice-themed...The postCato CTRL™ Threat Research: SilverFox Evolves: Abuse of New Drivers and Trusted Software Hijacking Enable Remote Access with ValleyRAT in Japanappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "411bcd3dfe8324a5",
+    "title_original": "MCBS Data Breach Affects 1.2 Million Individuals",
+    "url": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
+    "description": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company.The postMCBS Data Breach Affects 1.2 Million Individualsappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-07-27T04:51:32+00:00",
+    "fetched_at": "2026-07-27T07:40:50.536136+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "MCBS Data Breach Affects 1.2 Million Individuals",
+    "summary_he": "הפרצת מידע של MCBS, חברת שירותי מנהלת עסקים רפואיים, פגעה ביותר מ-1.2 מיליון אינדיבידואלים. הפרצה, שהתרחשה בספטמבר 2025, כללה גישה למערכות החברה בין 22 ל-26 בספטמבר.",
+    "details_he": "החברה דיווחה על פרצת מידע, שבמהלכה התגלו כי הפורצים היו בשליטה על מערכות החברה במשך 4 ימים. הפרצה כללה גם גישה לקובצי קובצי מידע אישי, כולל שם, כתובת, מספר זהות, תאריך לידה, פרטי ביטוח בריאות ומידע רפואי. החברה דיווחה גם כי הפורצים פרסמו את המידע הנלקח, כולל פרטי פיננסים, תיעודי HR ועוד."
+  },
+  {
+    "id": "d0687ba357f2e3d1",
+    "title_original": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
+    "url": "https://isc.sans.edu/diary/rss/33186",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-07-27T02:00:02+00:00",
+    "fetched_at": "2026-07-27T07:40:51.332446+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33186"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
+    "summary_he": "SANS Internet Storm Center הפרסם פודקאסט חדש ל-27 ביולי 2026, הכולל תקצירים של חדשות סייבר. הפודקאסט זמין באתר האינטרנט של SANS Internet Storm Center.",
+    "details_he": "הפודקאסט, הנקרא ISC Stormcast For Monday, July 27th, 2026, כולל תקצירים של חדשות סייבר, כולל תקלות, זיהוי ותגובות. הפודקאסט זמין באתר האינטרנט של SANS Internet Storm Center, וניתן להורדה תחת רישיון Creative Commons Attribution-Noncommercial 3.0 United States License."
+  },
+  {
+    "id": "44df1235bbd3fbc8",
+    "title_original": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
+    "url": "https://isc.sans.edu/diary/rss/33184",
+    "description": "ESAFENET&#;x26;#;39;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be mostly targeting the Chinese market [1]. Sadly, like so many security products, it suffers from basic security vulnerabilities like SQL Injection, XSS, and default passwords. We have seen scanning for ESAFENET CDG before, in particular after the cross-site scripting vulnerability was made public.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-07-26T15:26:14+00:00",
+    "fetched_at": "2026-07-27T07:40:51.332446+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33184"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
+    "summary_he": "תגליות חדשות במערכת ESAFENET CDG 3, חברה המתמקדת בניהול תיעודים ומניעת ניצול נתונים, חשפו חולשות בסיסיות, כולל SQL Injection, XSS וסיסמאות רשמיות.",
+    "details_he": "תגליות אלה נובעות מסרים שנשלחו למערכת ESAFENET CDG 3, ומצביעות על חולשות בסיסיות של המערכת. החברה ESAFENET, המתמקדת בפתרונות ניהול תיעודים ומניעת ניצול נתונים, סבלה מחולשות שונות, כולל SQL Injection, XSS וסיסמאות רשמיות. תגליות אלה נובעות מסרים שנשלחו למערכת ESAFENET CDG 3, ומצביעות על חולשות בסיסיות של המערכת."
+  }
+]
