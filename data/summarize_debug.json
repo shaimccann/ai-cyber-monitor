@@ -1,17 +1,10 @@
 {
-  "timestamp": "2026-07-27T07:41:13.034912+00:00",
-  "errors": [
-    {
-      "title": "Cato CTRL™ Threat Research: SilverFox Evolves: Abuse of New Drivers and Trusted ",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 1253)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-07-28T06:34:40.346442+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 8,
-  "fallback": 1,
-  "total_scanned": 36,
-  "selected": 9
+  "success": 10,
+  "fallback": 0,
+  "total_scanned": 95,
+  "selected": 10
 }

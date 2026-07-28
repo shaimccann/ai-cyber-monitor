@@ -1,0 +1,212 @@
+[
+  {
+    "id": "334e98fda8a2f263",
+    "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-27T09:32:20+00:00",
+    "fetched_at": "2026-07-28T06:34:15.557371+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "summary_he": "NVIDIA הציגה תוכנה חדשה לאימון רובוטים כירורגיים, Cosmos-H-Dreams, שמאפשרת סימולציה זמינה באורך זמן ובאופן אוטומטי. התוכנה עובדת בזמן אמת ומאפשרת ניתוח ואימון של רובוטים כירורגיים.",
+    "details_he": "NVIDIA Cosmos-H-Dreams היא תוכנה של NVIDIA שמאפשרת סימולציה זמינה באורך זמן ובאופן אוטומטי של רובוטים כירורגיים. התוכנה עובדת בזמן אמת ומאפשרת ניתוח ואימון של רובוטים כירורגיים. התוכנה נבנתה על בסיס Cosmos-H-Surgical-Simulator, שהוצגה קודם לכן, ומאפשרת סימולציה של סצנות כירורגיות. Cosmos-H-Dreams מאפשרת סימולציה של סצנות כירורגיות באופן אוטומטי ובזמן אמת, ומאפשרת ניתוח ואימון של רובוטים כירורגיים. התוכנה נבנתה על ידי NVIDIA ומאפשרת סימולציה של סצנות כירורגיות באופן אוטומטי ובזמן אמת."
+  },
+  {
+    "id": "e1aa6e0ea977160b",
+    "title_original": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+    "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+    "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts.  Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-27T09:00:07+00:00",
+    "fetched_at": "2026-07-28T06:34:15.878780+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+    "summary_he": "Industry leaders are teaming up to create the Open Secure AI Alliance, aiming to promote AI safety and security through open-source technologies. This alliance will focus on remedying and disclosing vulnerabilities using open technologies, ensuring that defenders have access to open, frontier tools they can trust and control.",
+    "details_he": "The Open Secure AI Alliance is building on the leadership of the Linux Foundation's Akrites initiative and OpenSSF community work. This move is crucial as it will enable massively distributed community-driven and self-controlled defense – with no single point of failure. The alliance's mission is to ensure that defenders everywhere have open, frontier tools they can trust and control, which is essential for cybersecurity. The recent Hugging Face security incident highlighted the importance of open, frontier agentic systems for self-defense, and the alliance aims to address this need."
+  },
+  {
+    "id": "e871764e82384ab6",
+    "title_original": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-28T04:30:00+00:00",
+    "fetched_at": "2026-07-28T06:34:17.196979+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "summary_he": "Cursor, a startup that specializes in AI coding, is expanding its presence in India by launching a country-specific subscription plan, Cursor Start, priced at ₹649-a-month, which is significantly lower than its standard Pro subscription. This move reflects India's growing importance to the company's business, with the country being its third-largest market globally and home to its highest concentration of power users. The plan aims to broaden access to AI-assisted coding capacity for developers who need more than the free tier offers but do not require the full Pro subscription.",
+    "details_he": "The launch of Cursor Start is part of the company's efforts to drive its next stage of growth, particularly in one of the world's largest developer markets. India has emerged as a significant hub for software development, with more than 27 million developers on GitHub, second only to the U.S. The startup has chosen to localize pricing in India due to the country's deep pool of software engineering talent and its technical competency. The plan includes access to Cursor's Composer 2.5 model and Grok 4.5, with higher usage limits than the free tier, alongside cloud agents, its iOS app, plugins, Model Context Protocol support, hooks, and skills. The company will use multiple checks to ensure the India-only subscription is available only to individual users in the country, including measures to deter people from accessing the plan through virtual private networks (VPNs)."
+  },
+  {
+    "id": "d8e374ce4a594a57",
+    "title_original": "אנבידיה איבדה את התואר הנחשק; ירידות שערים מסביב לעולם",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001550607#utm_source=RSS",
+    "description": "ירידות בסקטור השבבים מטלטלות את השווקים: אנבידיה ירדה אמש ב-5% ואיבדה לאפל את תואר החברה עם השווי הגבוה בעולם • ירידות שערים הבוקר באסיה וצפי לירידות קלות בוול סטריט • מה צפוי בשבוע המסחר המטלטל שלפנינו?",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-28T03:23:00+00:00",
+    "fetched_at": "2026-07-28T06:34:38.180735+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550607#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "אנבידיה איבדה את התואר הנחשק; ירידות שערים מסביב לעולם",
+    "summary_he": "אנבידיה, חברת האלקטרוניקה הגדולה, איבדה את תוארה כחברה עם השווי הגבוה בעולם, לאחר ירידה ב-5% בשווקים. ירידות שערים בסקטור השבבים ובשווקים העולמיים גורמות לביזבוזיות וחששות. הצפי הוא לירידות קלות בוול סטריט.",
+    "details_he": "אנבידיה, חברת האלקטרוניקה הגדולה, איבדה את תוארה כחברה עם השווי הגבוה בעולם, לאחר ירידה ב-5% בשווקים. ירידות שערים בסקטור השבבים ובשווקים העולמיים גורמות לביזבוזיות וחששות. ירידות שערים הבוקר באסיה, וצפי לירידות קלות בוול סטריט, גורמים לחששות וביזבוזיות. השבוע המסחר המטלטל שלפנינו צפוי להיות עקוב מדם."
+  },
+  {
+    "id": "2a0ed59a9ac5a983",
+    "title_original": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-07-28T00:13:33+00:00",
+    "fetched_at": "2026-07-28T06:34:17.196979+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "summary_he": "Dario Amodei, founder and CEO of Anthropic, clarified the company's stance on open-weight models, stating they do not support banning them, but expressed concerns about the potential misuse of AI by authoritarian governments, particularly China.",
+    "details_he": "Amodei emphasized that Anthropic has never advocated for a ban on open-weight models, but rather views them as a public good that provides value to businesses, developers, and researchers. However, he expressed fears about the potential for authoritarian governments to build powerful AI models to achieve military superiority or repress their own people. Amodei specifically mentioned China as the most capable authoritarian government, but also noted that other governments pose a threat. He also highlighted the difficulty in applying guardrails to open-weight models, making them more vulnerable to misuse, and called for actions such as restricting China's access to powerful chips and cracking down on distillation."
+  },
+  {
+    "id": "5e4ee4d930957cbc",
+    "title_original": "Rethinking security for the age of AI",
+    "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+    "description": "The physics of cybersecurity are changing. Introducing security's new cyber stack: Project Perception.The postRethinking security for the age of AIappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-27T16:40:00+00:00",
+    "fetched_at": "2026-07-28T06:34:20.912036+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Rethinking security for the age of AI",
+    "summary_he": "בעולם שבו המחשוב העצמאי נהייה נפוץ, יש לבקר את תפיסת הביטחון הנוכחית. הפיזיקה של הביטחון משתנה, והצורך בביטחון חדש, המתאים לעידן ה-AI, הולך וגדל.",
+    "details_he": "הפיזיקה של הביטחון משתנה, והצורך בביטחון חדש, המתאים לעידן ה-AI, הולך וגדל. הטכנולוגיות הנוכחיות, שנועדו להתמודד עם תוקפים אנושיים, לא יכולות להתמודד עם תוקפים AI. הצורך בביטחון חדש, המתאים לעידן ה-AI, הולך וגדל. הטכנולוגיות החדשות, כמו Project Perception, יכולות לשנות את המשחק ולהציע תפיסה חדשה של ביטחון."
+  },
+  {
+    "id": "7fba26e19e6ad2ae",
+    "title_original": "Enhancing AI security through global AI red teaming",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/",
+    "description": "Microsoft's External Red Team Alliance (EXTRA) is a global AI security initiative designed to advance AI safety research and red teaming. By partnering with universities, researchers, and regional experts, EXTRA helps identify emerging AI risks, improve security testing, and strengthen the resilience of frontier AI systems.The postEnhancing AI security through global AI red teamingappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-07-27T16:25:00+00:00",
+    "fetched_at": "2026-07-28T06:34:20.912036+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Enhancing AI security through global AI red teaming",
+    "summary_he": "Microsoft's global initiative, EXTRA, is working to improve AI security by collaborating with experts and researchers to identify emerging risks and strengthen frontier AI systems.",
+    "details_he": "EXTRA, the External Red Team Alliance, aims to advance AI safety research and red teaming through partnerships with universities, researchers, and regional experts. This collaboration helps to improve security testing and enhance the resilience of AI systems. By addressing emerging AI risks, EXTRA contributes to the development of more secure and reliable AI technologies."
+  },
+  {
+    "id": "6bd7a1d60ea78510",
+    "title_original": "27th July – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 27th July, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Nichirei, a Japan-based frozen-food supplier and logistics company, has experienced a ransomware attack that disrupted shipping operations and affected approximately 5,000 customers. KFC Japan warned of possible shortages. Nichirei confirmed personal data theft, […]The post27th July – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-27T16:00:39+00:00",
+    "fetched_at": "2026-07-28T06:34:24.348702+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "27th July – Threat Intelligence Report",
+    "summary_he": "Check Point IPS הציעה הגנה נגד פגיעות בבטאתיים חדשות בקטגוריית תקיפה סייבר, כולל Microsoft SharePoint Remote Code Execution ו-Zimbra Collaboration Suite Cross-Site Scripting.",
+    "details_he": "Check Point IPS הציעה הגנה נגד Microsoft SharePoint Remote Code Execution (CVE-2026-50522) ו-Zimbra Collaboration Suite Cross-Site Scripting (CVE-2025-66376) באמצעות תקיפה סייבר. פגיעות אלה יכולות לגרום לפגיעה בבטיחות המערכת. Check Point IPS מספקת הגנה נגד פגיעות אלה."
+  },
+  {
+    "id": "16334090118c2778",
+    "title_original": "The Branding and Attribution Behind Cybercrime",
+    "url": "https://blog.checkpoint.com/exposure-management/the-branding-and-attribution-behind-cybercrime/",
+    "description": "Threat actor names can sound simple. LockBit. Fancy Bear. BlackCat. Scattered Spider. Anonymous Sudan. Each name gives the impression of a clear group with a defined identity.  In threat intelligence, however, the name is rarely the whole story.  Some names are chosen by attackers. Others are assigned by researchers, security vendors, governments, or public databases. One name may represent a ransomware brand, a hacktivist identity, a research label, a campaign, a malware family, or an activity cluster observed across different incidents.  For security professionals, this distinction is important. Confusing attacker created identities with researcher assigned labels can lead teams to […]The postThe Branding and Attribution Behind Cybercrimeappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-27T13:00:12+00:00",
+    "fetched_at": "2026-07-28T06:34:34.124248+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/the-branding-and-attribution-behind-cybercrime/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Branding and Attribution Behind Cybercrime",
+    "summary_he": "תגיות וזיהוי של אקטורי צבאי: חשיבות בהבחנה בין תגיות שנבחרו על ידי התוקפים לבין תגיות שנוספו על ידי מומחים.",
+    "details_he": "תגיות שנבחרו על ידי התוקפים ואלה שנוספו על ידי מומחים, יכולים להיות שונים. התגיות שנבחרו על ידי התוקפים, יכולות להיות חלק משיטת התקשורת שלהם, ולשמש כדי לקדם את מטרותיהם. בעוד שתגיות שנוספו על ידי מומחים, יכולות לשמש כדי לעקוב אחר פעילות תוקפים, ולאפשר השוואה בין תקריות שונות. הבחנה בין תגיות שנבחרו על ידי התוקפים לבין תגיות שנוספו על ידי מומחים, חשובה עבור מקצועיי ביטחון, כדי למנוע הטיות בזיהוי התוקפים, ולהתמקד בהתנהגותם."
+  },
+  {
+    "id": "9243c4d9dc97ba21",
+    "title_original": "The Hidden Cost of “Free”: When Platform Incentives Become Lock-In",
+    "url": "https://www.catonetworks.com/blog/the-hidden-cost-of-free/",
+    "description": "In enterprise software, “free” is rarely free. A free year can be a smart commercial incentive. It can also become a financial trap if the real cost, payment terms, and renewal baseline are unclear. When a platform deal looks almost too good to question, CFOs should question it first. Large multi-year incentives can look like...The postThe Hidden Cost of “Free”: When Platform Incentives Become Lock-Inappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "ai",
+    "published": "2026-07-27T09:38:57+00:00",
+    "fetched_at": "2026-07-28T06:34:29.244565+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/the-hidden-cost-of-free/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Hidden Cost of “Free”: When Platform Incentives Become Lock-In",
+    "summary_he": "In enterprise software, 'free' years can be a financial trap if the real cost, payment terms, and renewal baseline are unclear. CFOs should question large multi-year incentives to understand what lies behind them.",
+    "details_he": "When a platform deal looks too good to question, CFOs should investigate the real annual cost, upfront payment, renewal terms, and flexibility given up. A common mistake is to divide the total contract value by the full contract term, which can lead to a higher paid run-rate at renewal. Payment terms can also change the economics of the deal, affecting cash flow and budget-phasing. CFOs should consider these factors to make informed decisions."
+  }
+]
