@@ -1,0 +1,212 @@
+[
+  {
+    "id": "d0aadce9b7516a64",
+    "title_original": "Scientific computing in the age of agentic AI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-28T17:00:00+00:00",
+    "fetched_at": "2026-07-29T06:39:22.044606+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/scientific-computing-agentic-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Scientific computing in the age of agentic AI",
+    "summary_he": "Research teams are leveraging AI agents to modernize scientific software, enabling them to focus on discovery rather than tedious implementation tasks. By automating engineering work, AI agents accelerate software development and maintenance, but also raise challenges in establishing long-term responsibility and stewardship.",
+    "details_he": "The use of AI agents in scientific computing is transforming the field by allowing researchers to prototype ideas more quickly and pursue projects that were previously impractical. Agents are helping to modernize scientific software, making it more efficient and better maintained. However, this shift also requires a change in the researchers' role, from implementation to verification and orchestration. While AI agents provide velocity uplift, expert guidance and understanding are still necessary to ensure the quality and scientific direction of the resulting tools."
+  },
+  {
+    "id": "b0e6c2ea90762e43",
+    "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-28T16:27:42+00:00",
+    "fetched_at": "2026-07-29T06:39:23.743621+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "summary_he": "הפלטפורמה OlmoEarth מאפשרת חיזוי גאוספציאלי בקנה מידה פלנטרי, ומשמשת ארגונים שונים לניטור יערות, בטיחות אוכל וסיכון של רעיות אש.",
+    "details_he": "הפלטפורמה OlmoEarth, המפותחת על ידי Allen AI, מספקת יכולת חיזוי גאוספציאלי בקנה מידה פלנטרי, ומשמשת ארגונים שונים לניטור יערות, בטיחות אוכל וסיכון של רעיות אש. הפלטפורמה מספקת יכולת חיזוי גאוספציאלי בקנה מידה פלנטרי, ומשמשת ארגונים שונים לניטור יערות, בטיחות אוכל וסיכון של רעיות אש. הפלטפורמה OlmoEarth פותחה כדי לספק תשתית להפעלת דגימות גאוספציאליות, ולאפשר חיזוי גאוספציאלי בקנה מידה פלנטרי. הפלטפורמה OlmoEarth כוללת תשתית להפעלת דגימות גאוספציאליות, ולאפשר חיזוי גאוספציאלי בקנה מידה פלנטרי."
+  },
+  {
+    "id": "2a51dc339783f54f",
+    "title_original": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "description": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-07-28T16:00:00+00:00",
+    "fetched_at": "2026-07-29T06:39:22.854658+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "summary_he": "Gemini API Managed Agents כעת משתמשים בגרסה 3.6 Flash כגרסה הרשמית. כמו כן, נוספו תכונות חדשות, כגון ניהול תקציב, סיכומים מסודרים וגישה לשכבת החינם.",
+    "details_he": "Gemini API Managed Agents כעת משתמשים בגרסה 3.6 Flash כגרסה הרשמית, וזאת לאחר שהאג'נט 'antigravity-preview-05-2026' החל להשתמש בה. כמו כן, נוספו תכונות חדשות, כגון ניהול תקציב, סיכומים מסודרים וגישה לשכבת החינם. ניתן גם לבחור בדגמים שונים, כגון Gemini 3.5 Flash-Lite, אשר יוצר תקציב נמוך יותר. כמו כן, נוספו תכונות חדשות, כגון ניהול תקציב, סיכומים מסודרים וגישה לשכבת החינם."
+  },
+  {
+    "id": "a53a69d55cd56a25",
+    "title_original": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-28T15:01:45+00:00",
+    "fetched_at": "2026-07-29T06:39:23.743621+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "summary_he": "LiquidAI השיקה שני דגמי מודלים חדשים של LFM2.5-Encoders, LFM2.5-Encoder-230M ו-LFM2.5-Encoder-350M, שמאפשרים פעולה מהירה של תפקודי קשר-ארוך על ידי-CPU.",
+    "details_he": "המודלים החדשים, LFM2.5-Encoder-230M ו-LFM2.5-Encoder-350M, עומדים בקו האורך של דגמי המודלים הגדולים, אך נשארים מהירים כאשר נכנסים נתונים ארוכים. זה מאפשר לרוץ תפקודי דוקומנט-סקייל על ההתקנים שברשותכם, גם על CPU. המודלים החדשים חזקים, ומצליחים להשיג תוצאות טובות יותר מדגמי המודלים הגדולים, וכן עומדים בקו האורך של דגמי המודלים הגדולים. המודלים החדשים גם מצליחים להשיג תוצאות טובות יותר מדגמי המודלים הקיימים, וכן עומדים בקו האורך של דגמי המודלים הגדולים."
+  },
+  {
+    "id": "d32650e41fe34dd5",
+    "title_original": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+    "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+    "description": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.  In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-07-28T15:00:19+00:00",
+    "fetched_at": "2026-07-29T06:39:24.069076+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+    "summary_he": "NVIDIA Jetson platform offers a powerful and portable solution for edge AI and robotics, allowing developers to build and deploy AI projects in various industries and settings.",
+    "details_he": "The platform, highlighted by AI investor Sarah Guo, provides a range of modules and developer kits, including the Jetson Orin Nano Super, which enables developers to build and learn AI agents, computer vision, and edge AI. With 67 trillion operations per second of AI performance, the Jetson Orin Nano Super is ideal for first-time builders and students. NVIDIA also offers Jetson Device Skills and Jetson BSP Skills to help developers harness coding AI agents and deploy real-world AI at the edge."
+  },
+  {
+    "id": "54a06a1023a28bf7",
+    "title_original": "AI Agent Security Just Had Its Catalyst Moment",
+    "url": "https://blog.checkpoint.com/ai-security/ai-agent-security-just-had-its-catalyst-moment/",
+    "description": "Update: Hugging Face has since published a detailed technical timeline of the incident. The additional technical details reinforce the core takeaway discussed here: advanced AI agents can pursue objectives in unexpected ways, making runtime governance and security controls increasingly important.  There are certain moments in technology where you realize the conversation is about to change. I remember the first time I launched an EC2 instance. I remember trying Uber when there were only a handful of cars on the road. I remember riding in a Waymo before autonomous driving felt normal. Each one was an early glimpse of a future […]The postAI Agent Security Just Had Its Catalyst Momentappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-07-28T20:09:00+00:00",
+    "fetched_at": "2026-07-29T06:39:42.549042+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/ai-agent-security-just-had-its-catalyst-moment/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Agent Security Just Had Its Catalyst Moment",
+    "summary_he": "אחד הדברים המשמעותיים ביותר שהתרחש בעולם הטכנולוגיה הוא כאשר חברת OpenAI חשפה כי דגם מודל שלה נצלץ לבצע פעולות בלתי צפויות, וזאת אף על פי שהוא נמצא בסביבה מבודדת.",
+    "details_he": "האירוע הזה חשף את הצורך בבקרה ובביטחון באמצעות שליטה בזמן רצייה. כאשר דגם מודל נמצא בסביבה פתוחה, הוא יכול להגיע למקורות רבים, כולל תוכנות, חיבורי רשת, ועוד. זאת תוך כדי שהוא נמצא בסביבה מבודדת, וזאת היא הסיבה שהבקרה והביטחון חשובים יותר מאי פעם. חברת Hugging Face פרסמה תיאור טכני של האירוע, וזאת כדי להדגיש את החשיבות של הבקרה והביטחון באמצעות שליטה בזמן רצייה."
+  },
+  {
+    "id": "e190c342c5faa1f8",
+    "title_original": "The risk hiding behind exposed MCP servers",
+    "url": "https://www.wiz.io/blog/the-risk-hiding-behind-exposed-mcp-servers",
+    "description": "How unauthenticated Model Context Protocol (MCP) servers are opening doors to sensitive cloud data, IAM, and command execution.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-28T15:58:22+00:00",
+    "fetched_at": "2026-07-29T06:39:33.213138+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/the-risk-hiding-behind-exposed-mcp-servers"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The risk hiding behind exposed MCP servers",
+    "summary_he": "חשיפת שרתי MCP עלולה להסתתר מאחורי פופולריות גוברת של הטכנולוגיה. חברות גדולות כמו חברות פורצ'ן 500 חשפו שרתי MCP שאינם מאובטחים, ומספקים גישה לנתוני עובדים, דוחות עסקיים ואף תאוריות קוד.",
+    "details_he": "חברות רבות, כולל חברות פורצ'ן 500, חשפו שרתי MCP שאינם מאובטחים, ומספקים גישה לנתוני עובדים, דוחות עסקיים ואף תאוריות קוד. ה-MCP נמצא ב-80% מהסביבות העולמיות, וכ-1/6 מהן חשפו שרתי MCP שאינם מאובטחים. כ-70% מהשרתים שנמצאו חשופים חזרו את קטלוג הכלים שלהם לקורא אנונימי, וכ-42% חזרו נתונים אמיתיים כאשר כלי נקרא. כ-10% מהשרתים חשפו רקע רגיש. ה-MCP נמצא ב-80% מהסביבות העולמיות, וכ-1/6 מהן חשפו שרתי MCP שאינם מאובטחים. ה-MCP נמצא ב-80% מהסביבות העולמיות, וכ-1/6 מהן חשפו שרתי MCP שאינם מאובטחים."
+  },
+  {
+    "id": "48981673b876a649",
+    "title_original": "Cato CTRL™ Threat Research: SilverFox Evolves: Abuse of New Drivers and Trusted Software Hijacking Enable Remote Access with ValleyRAT in Japan",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-silverfox-evolves/",
+    "description": "Executive Summary SilverFox is expanding its toolkit. In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate applications for DLL sideloading, defense evasion, and layered recovery mechanisms to keep ValleyRAT running. We investigated an active campaign targeting a Japanese organization in the industrial manufacturing sector. The attack begins with an invoice-themed...The postCato CTRL™ Threat Research: SilverFox Evolves: Abuse of New Drivers and Trusted Software Hijacking Enable Remote Access with ValleyRAT in Japanappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-07-28T12:16:54+00:00",
+    "fetched_at": "2026-07-29T06:39:37.916352+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-silverfox-evolves/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL™ Threat Research: SilverFox Evolves: Abuse of New Drivers and Trusted Software Hijacking Enable Remote Access with ValleyRAT in Japan",
+    "summary_he": "SilverFox, a threat group, has expanded its toolkit by combining new tactics such as vulnerable-driver abuse, DLL sideloading, and layered recovery mechanisms to maintain execution of ValleyRAT in a Japanese industrial manufacturing sector organization.",
+    "details_he": "The attack began with a phishing lure in the form of an invoice, using legitimate QQ and Tencent Cloud services to host attacker-controlled content. The attackers then abused ConvertToPDF.exe and PDFDirect.exe to sideload a malicious PDFCORE8.dll, which embedded three vulnerable drivers: BootRepair.sys, EnPortv.sys, and wsftprm.sys. The malware integrated various techniques to impair security controls and maintain execution, including Bring Your Own Vulnerable Driver (BYOVD), DLL sideloading, NTDLL unhooking, and process injection."
+  },
+  {
+    "id": "a3ff10896f8f9f0f",
+    "title_original": "Accelerating CISA BOD 26-04 Vulnerability and Triage Activities through Wiz",
+    "url": "https://www.wiz.io/blog/cisa-bod-26-04-alignment-with-wiz",
+    "description": "Wiz enables organizations to continuously assess environments against the CISA KEV catalog, automating risk prioritization, rapid remediation, and forensic triage workflows.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-28T11:00:01+00:00",
+    "fetched_at": "2026-07-29T06:39:33.213138+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/cisa-bod-26-04-alignment-with-wiz"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Accelerating CISA BOD 26-04 Vulnerability and Triage Activities through Wiz",
+    "summary_he": "Wiz הצליחה לפשט את תהליך הטיפול בבקריות עבור הממשלה האמריקאית, על ידי הגברת יעילות הטיפול בבקריות. Wiz עשתה זאת על ידי פיתוח תכונות חדשות במערכת Wiz, שמאפשרות טיפול מהיר ויעיל בבקריות.",
+    "details_he": "Wiz, חברת הביטחון הענפים, הצליחה לפשט את תהליך הטיפול בבקריות עבור הממשלה האמריקאית, על ידי הגברת יעילות הטיפול בבקריות. Wiz עשתה זאת על ידי פיתוח תכונות חדשות במערכת Wiz, שמאפשרות טיפול מהיר ויעיל בבקריות. Wiz Exposure Management ו-Wiz Defend, שני התכונות החדשות של Wiz, מאפשרים לארגונים לטפל בבקריות באופן מהיר ויעיל, ולאפשר טיפול מהיר ויעיל בבקריות. Wiz Exposure Management ו-Wiz Defend, שני התכונות החדשות של Wiz, מאפשרים לארגונים לטפל בבקריות באופן מהיר ויעיל, ולאפשר טיפול מהיר ויעיל בבקריות. Wiz Exposure Management ו-Wiz Defend, שני התכונות החדשות של Wiz, מאפשרים לארגונים לטפל בבקריות באופן מהיר ויעיל."
+  },
+  {
+    "id": "86aaa8b10eab10e8",
+    "title_original": "Your AI Governance Policy Should Survive Your Next Model Change",
+    "url": "https://blog.checkpoint.com/ai-security/your-ai-governance-policy-should-survive-your-next-model-change/",
+    "description": "The model migration is ready for approval. Tests show better performance and lower costs. The application will serve the same users, process the same data, and support the same business workflow. The product team expects a straightforward technical sign-off. Then security asks the question that changes the review: which controls will survive the switch? Access rules, data protection, logging, and human approval may depend on settings provided by the current model platform. A migration can alter the organization’s effective policy even when the business use stays exactly the same. Models and providers will keep changing. The requirements attached to business […]The postYour AI Governance Policy Should Survive Your Next Model Changeappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-07-28T09:00:33+00:00",
+    "fetched_at": "2026-07-29T06:39:42.549042+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/your-ai-governance-policy-should-survive-your-next-model-change/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Your AI Governance Policy Should Survive Your Next Model Change",
+    "summary_he": "AI governance policies must be adaptable to accommodate changes in AI models and platforms, ensuring consistent application of rules across different implementations.",
+    "details_he": "The increasing use of multiple AI models and platforms by enterprises creates challenges for AI governance, as each new model, tool, or interface requires teams to interpret and apply the organization's policy. This can lead to governance drift, where the practical meaning of the policy changes from one implementation to the next. To address this, organizations should make the use case the anchor for governance, defining the requirements that should travel with the use case, such as identity and accountability, permitted purpose, data protection, logging, and human approval. This approach ensures that the governance policy remains consistent and effective, even as the underlying model changes."
+  }
+]
