@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ab357e77eab25f0c",
+    "title_original": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-07-29T16:02:10+00:00",
+    "fetched_at": "2026-07-30T06:34:35.897748+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "summary_he": "Google Flow Music is now offering an updated version of its music generation model, Lyria 3.5, which includes enhancements in musicality, lyrics, and vocal quality.",
+    "details_he": "The new version of Lyria, Lyria 3.5, brings significant improvements to the model's ability to create complex and natural-sounding melodies, generate high-quality lyrics, and produce vocals with more expression and emotion. These advancements are designed to give users more creative control over their music, including the ability to easily adjust tempo and duration. The updated model is now available in Google Flow Music, allowing users to try out its new features and capabilities."
+  },
+  {
+    "id": "a3f332ad30beeba3",
+    "title_original": "A new benchmark for evaluating patient-facing health AI agents",
+    "url": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
+    "description": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has to do.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-07-29T15:16:52+00:00",
+    "fetched_at": "2026-07-30T06:34:38.178254+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A new benchmark for evaluating patient-facing health AI agents",
+    "summary_he": "בעקבות התפתחות של טכנולוגיות AI בתחום הבריאות, נדרשו תקנים לבדיקת יכולות של גורמי AI המתקשרים עם המטופל. PatientAgentBench הוא תקן חדש לבדיקת יכולות של גורמי AI המתקשרים עם המטופל.",
+    "details_he": "PatientAgentBench הוא תקן רב-שלבי שמכיל שלושה שלבים: יצירת סצנריות, דיון זוגי בין הגורם הAI לבין המטופל, ובדיקה על ידי חברי קבוע. התקן נועד לבדוק את יכולות הגורם הAI להגיב על תסמינים, לבצע פעולות ולהציג תגובות חשבניות. התקן נבדק על ידי חברי קבוע ונמצא כי גורמי AI המתקשרים עם המטופל חסרים ביכולותיהם, וכי יש צורך בשיפור בתכנון ובפיתוח של גורמי AI אלה."
+  },
+  {
+    "id": "91b727426f5a82f7",
+    "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-29T15:00:00+00:00",
+    "fetched_at": "2026-07-30T06:34:35.335187+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "summary_he": "חברת AI הצליחה לשפר באופן דרמטי את ביצועיה במבחן ARC-AGI-3, כאשר הפעלת שני תפריטי ניהול פשוטה גרמה להכפלת הציונים. המבחן, המכונה ARC-AGI-3, מטרתו לבדוק את יכולות הלמידה וההסתברות של גורמי AI.",
+    "details_he": "במבחן ARC-AGI-3, המבחן נועד לבדוק את יכולות הלמידה וההסתברות של גורמי AI, החברה הצליחה לשפר את ביצועיה באופן דרמטי. הפעלת שני תפריטי ניהול, רטיינד ריזונינג וקומפקט, גרמה להכפלת הציונים. המבחן כולל 25 משחקים דמו, שבהם ה-AI חייב ללמוד ולהסתבר. המבחן נועד לבדוק את יכולות הלמידה וההסתברות של גורמי AI, והחברה הצליחה לשפר את ביצועיה באופן דרמטי. הפעלת שני תפריטי ניהול, רטיינד ריזונינג וקומפקט, גרמה להכפלת הציונים. המבחן כולל 25 משחקים דמו, שבהם ה-AI חייב ללמוד ולהסתבר. החברה הצליחה לשפר את ביצועיה, והפעלת שני תפריטי ניהול גרמה להכפלת הציונים."
+  },
+  {
+    "id": "a720ed75832314c7",
+    "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-07-29T10:00:00+00:00",
+    "fetched_at": "2026-07-30T06:34:35.335187+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "summary_he": "OpenAI החלה בתוכנית חדשה שמספקת גישה חינם ל-100,000 מחקרים אקדמיים, כולל חוקרים במתמטיקה, מדע, והנדסה. התוכנית, ChatGPT for Academic Researchers, תאפשר לחוקרים להשתמש במודלי AI מובילים, כולל GPT-5.6 ו-Sol Pro, ולפתח עבודות מחקר חדשות.",
+    "details_he": "OpenAI הכריזה על תוכנית חדשה, ChatGPT for Academic Researchers, שמספקת גישה חינם ל-100,000 מחקרים אקדמיים. התוכנית כוללת גישה למודלי AI מובילים, כולל GPT-5.6 ו-Sol Pro, ומאפשרת לחוקרים לפתח עבודות מחקר חדשות. OpenAI תשתף פעולה עם 10,000 חוקרים בקיץ 2026, ותרחב ל-100,000 חוקרים עד 2027. התוכנית כוללת גם הדרכה, תמיכה יד-יד, והזדמנויות ללמוד מחוקרים אחרים ולשתף פעולה עם OpenAI. OpenAI תשקיעה יותר מ-250 מיליון דולר עד 2027 בתמיכה במחקרים אקדמיים ובהתקדמות מדעית."
+  },
+  {
+    "id": "bcfdf5e3f71c52b0",
+    "title_original": "מטא פספסה את תחזית הרווח - נופלת בכ-7% במסחר המאוחר",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001550822#utm_source=RSS",
+    "description": "הכנסות החברה עמדו בציפיות, אך הרווח - 6.18 דולר למניה, הרבה מתחת לצפי • חטיבת Reality Labs של מטא המשיכה לרשום הפסדים כבדים",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-07-30T02:54:00+00:00",
+    "fetched_at": "2026-07-30T06:35:00.604979+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550822#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מטא פספסה את תחזית הרווח - נופלת בכ-7% במסחר המאוחר",
+    "summary_he": "מטא נכנסה למסחר המאוחר עם רווח נמוך, 6.18 דולר למניה, והפסדים כבדים בחטיבת Reality Labs. על אף שהכנסות החברה עמדו בציפיות.",
+    "details_he": "מטא נכנסה למסחר המאוחר עם רווח נמוך, 6.18 דולר למניה, שהוא רבעון שני נמוך מהצפי. החברה דיווחה על הפסדים כבדים בחטיבת Reality Labs, שהיא חלק מהחברה. על אף שהכנסות החברה עמדו בציפיות, הרווח הנמוך גרם לירידה של כ-7% במסחר המאוחר. הפסדים כבדים בחטיבת Reality Labs המשיכו להיות בעיה לחברה."
+  },
+  {
+    "id": "e24089b1d142f83b",
+    "title_original": "​​Better security starts with better questions",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
+    "description": "Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.The post​​Better security starts with better questionsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-29T16:00:00+00:00",
+    "fetched_at": "2026-07-30T06:34:43.508123+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "​​Better security starts with better questions",
+    "summary_he": "Microsoft הציגה את פלטפורמתה לביטחון באירוע Black Hat USA 2026, כדי להגן על אמון בעידן של AI והתקפות ספקים.",
+    "details_he": "באירוע Black Hat USA 2026, Microsoft הציגה את פלטפורמתה לביטחון, המתמקדת בהגנה על אמון בעידן של AI והתקפות ספקים. הפלטפורמה כוללת מחקרי ספקים, חוויות ביטחון ידניות, שיחות עם מומחים ואירועי קבלה. האירוע נועד לספק ללקוחות ולשותפים של Microsoft תובנות וכלים חדשים להגנה על אמון בעידן של AI והתקפות ספקים."
+  },
+  {
+    "id": "e817cdd198b88103",
+    "title_original": "Wiz’s First 6 Months as Part of Google",
+    "url": "https://www.wiz.io/blog/6-months-google",
+    "description": "Fast gets even faster: redefining security for the AI era and doubling down on our multicloud commit",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-29T14:00:01+00:00",
+    "fetched_at": "2026-07-30T06:34:47.701607+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/6-months-google"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz’s First 6 Months as Part of Google",
+    "summary_he": "Wiz, החברה שהצטרפה לגוגל, הצליחה להשיג הישגים יוצאי דופן ב-6 החודשים האחרונים. כ-90% מלקליינטיה של Wiz משתמשים במאפייני ביטחון AI של החברה, וגוגל ראתה עלייה של כ-45% במספר עבודות AI שנבדקו ונגנזו על ידי פלטפורמת הביטחון שלה.",
+    "details_he": "Wiz, החברה שהצטרפה לגוגל, הצליחה להשיג הישגים יוצאי דופן ב-6 החודשים האחרונים. כ-90% מלקליינטיה של Wiz משתמשים במאפייני ביטחון AI של החברה, וגוגל ראתה עלייה של כ-45% במספר עבודות AI שנבדקו ונגנזו על ידי פלטפורמת הביטחון שלה. Wiz גם השיגה 300 חברות ברשת השילוב שלה, כולל חברות כמו Anthropic, Cloudflare, Databricks, Lovable, OpenAI ו-Vercel. החברה הצליחה להשיג גם תמיכה חזקה מצד גוגל, שהצליחה לחזק את יכולות Wiz להגן על עבודות AI."
+  },
+  {
+    "id": "03f22a81cf0e7309",
+    "title_original": "Attackers Are Turning Microsoft’s Trusted Login System Into Their Latest Phishing Weapon",
+    "url": "https://blog.checkpoint.com/email-security/attackers-are-turning-microsofts-trusted-login-system-into-their-latest-phishing-weapon/",
+    "description": "Attackers are increasingly abandoning fake Microsoft login pages in favor of abusing Microsoft’s legitimate authentication infrastructure, allowing phishing campaigns to bypass many of the warning signs employees have been trained to recognize. Starting on June 25th through the second week of July, we identified more than 200 phishing emails targeting users across approximately 120 organizations, spanning a wide range of industries and countries worldwide. The messages impersonated Microsoft Teams task notifications from HR and directed recipients to a legitimate Microsoft sign-in page. Victims were then prompted to grant permissions to an attacker-controlled application, allowing the campaign to abuse Microsoft’s trusted […]The postAttackers Are Turning Microsoft’s Trusted Login System Into Their Latest Phishing Weaponappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-07-29T13:00:25+00:00",
+    "fetched_at": "2026-07-30T06:34:57.808970+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/email-security/attackers-are-turning-microsofts-trusted-login-system-into-their-latest-phishing-weapon/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Attackers Are Turning Microsoft’s Trusted Login System Into Their Latest Phishing Weapon",
+    "summary_he": "בעקבות עליית שימוש בטכניקה זו, פורצי דלפים מתקיפים את Microsoft's Trusted Login System, ומשתמשים במערכת האימות הלגיטימית של Microsoft כדי לבצע פישינג. הפישינג מתחקה אחר כ-200 תקיפות, שהתרחשו במהלך חודשי יוני ויולי.",
+    "details_he": "הפישינג משתמשת באימות הלגיטימי של Microsoft, כדי לבצע פישינג. הפישינג מתחקה אחר כ-200 תקיפות, שהתרחשו במהלך חודשי יוני ויולי. הפישינג נעשה כדי לבצע פישינג, על ידי שליחת תקיפות, שמתחקות אחר Microsoft Teams. הפישינג נעשה כדי לבצע פישינג, על ידי שליחת תקיפות, שמתחקות אחר Microsoft Teams, ומבקשים מהמשתמש להתחבר למערכת האימות של Microsoft. הפישינג נעשה כדי לבצע פישינג, על ידי שליחת תקיפות, שמתחקות אחר Microsoft Teams, ומבקשים מהמשתמש להתחבר למערכת האימות של Microsoft, כדי לבצע פישינג."
+  },
+  {
+    "id": "4ae1c098be8c1128",
+    "title_original": "The Wiz Red Agent is Now Generally Available",
+    "url": "https://www.wiz.io/blog/wiz-red-agent-is-ga",
+    "description": "Continuously uncover complex, exploitable risks to stay ahead in the AI Threat Era with the Red Agent",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-07-29T12:50:56+00:00",
+    "fetched_at": "2026-07-30T06:34:47.701607+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-red-agent-is-ga"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Wiz Red Agent is Now Generally Available",
+    "summary_he": "Red Agent, AI attacker, is now widely available for customers to use, helping close the gap between traditional security scanners and AI-powered attacks.",
+    "details_he": "Red Agent has been adopted by customers at a rapid pace, discovering over 10,000 critical exploitable risks, including 70% of organizations finding a High or Critical vulnerability they were unaware of. The tool's impact was evident during its preview phase, with 35% of organizations finding their first verified Critical vulnerability within an hour of activating scans. At its peak, Red Agent scanned 350,000 assets and processed 480 billion tokens in a single day, demonstrating its proven scale. Customers praise Red Agent for its value in attack surface management and automated penetration testing, catching critical authorization flaws that traditional testing and bug bounty programs missed."
+  },
+  {
+    "id": "11541295aa1cba39",
+    "title_original": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+    "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.\n\nThe vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-07-30T10:38:39+05:30",
+    "fetched_at": "2026-07-30T06:34:41.083070+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+    "summary_he": "Cisco Secure Firewall Management Center (FMC) Software has been compromised due to a zero-day vulnerability, allowing attackers to access sensitive data. The flaw, assigned CVE-2026-20316, has a CVSS score of 5.3 and was added to the Known Exploited Vulnerabilities catalog by the U.S. Cybersecurity and Infrastructure Security Agency. The vulnerability can be exploited by an unauthenticated, remote attacker using a low-privilege account.",
+    "details_he": "The vulnerability, discovered by security researcher Jimi Sebree of Horizon3.ai, allows an attacker to log in to an affected device using a low-privilege account and access sensitive data within susceptible systems. Cisco noted that the attack surface is reduced if the FMC management interface does not have public internet access. The company has released hot fix versions of Cisco Secure FMC Software to address the issue, and customers are urged to use indicators of compromise (IoCs) to identify potential exploitation. The vulnerability can be chained with other Cisco Secure FMC Software vulnerabilities to elevate privileges, which is why Cisco assigned it a Security Impact Rating (SIR) of High."
+  }
+]
