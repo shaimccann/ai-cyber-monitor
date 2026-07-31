@@ -1,0 +1,212 @@
+[
+  {
+    "id": "d1bc720657112b40",
+    "title_original": "How controllers from industrial machinery can coordinate multitask machine learning",
+    "url": "https://www.amazon.science/blog/how-controllers-from-industrial-machinery-can-coordinate-multitask-machine-learning",
+    "description": "Instead of compromising among parameter updates dictated by different training objectives, ControlG allocates computational capacity to objectives sequentially and dynamically.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-07-30T17:26:47+00:00",
+    "fetched_at": "2026-07-31T06:50:23.748745+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/how-controllers-from-industrial-machinery-can-coordinate-multitask-machine-learning"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How controllers from industrial machinery can coordinate multitask machine learning",
+    "summary_he": "מערכת הבקרה של מכונות תעשייתיות יכולה לקוארדינט את הלמידה במשימות רב-מטרות, כאשר היא משלבת יכולות חישוביות של פונקציית PID. המערכת, ControlG, יכולה לקבוע את הקצאת המשאבים על פי חוקי ה-PID, ולאפשר למערכת הבקרה להחליט על המשימה שבה יש להתמקד.",
+    "details_he": "ControlG, המערכת החדשה, משלבת יכולות חישוביות של פונקציית PID כדי לקבוע את הקצאת המשאבים בין משימות שונות. המערכת פועלת בשלושה סדרי זמן שונים: הערכת קושי של כל משימה, אופטימיזציה של קצאת המשאבים, ועקיבה על התוכנית. ControlG יכולה למנוע שלושה כשלים נפוצים של למידה במשימות רב-מטרות, כולל סתירה, דריפת, וצמאון. המערכת עובדת על ידי פיצול המשימות בזמן, ולא על ידי פיזור גרדיאנטים."
+  },
+  {
+    "id": "70c6ebe7f7300adc",
+    "title_original": "Echoverse: Deep, evolving environments for computer-use agents",
+    "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "description": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve.The postEchoverse: Deep, evolving environments for computer-use agentsappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-07-30T17:00:00+00:00",
+    "fetched_at": "2026-07-31T06:50:22.656749+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Echoverse: Deep, evolving environments for computer-use agents",
+    "summary_he": "מערכת Echoverse מציגה סביבות מורכבות לאגנטים של משתמשי מחשב, המתפתחות ומתעדכנות עם המודלים שהם מאמנים. המערכת עובדת על עולמות של תכנות, המציגים תכונות אמיתיות של מערכות ומאפשרים אימון של אגנטים בסביבות מורכבות.",
+    "details_he": "Echoverse מציגה שנים עשר עולמות לאימון אגנטים של משתמשי מחשב, כולל עולמות של תכנות עמוקים ועולמות של יכולות. העולמות הללו מאפשרים אימון של אגנטים בסביבות מורכבות, המתפתחות ומתעדכנות עם המודלים שהם מאמנים. המערכת נבנתה כדי להציג תכונות אמיתיות של מערכות, כגון תכונות של תכנות, ולאפשר אימון של אגנטים בסביבות מורכבות. המערכת גם מאפשרת חינוך של אגנטים לקבלת החלטות ולביצוע פעולות בסביבות מורכבות."
+  },
+  {
+    "id": "a72be558b72b0ba3",
+    "title_original": "EvoLib: Turning experience into evolving knowledge",
+    "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "description": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.The postEvoLib: Turning experience into evolving knowledgeappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-07-30T16:00:00+00:00",
+    "fetched_at": "2026-07-31T06:50:22.656749+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "EvoLib: Turning experience into evolving knowledge",
+    "summary_he": "EvoLib היא תשתית שמאפשרת למודלי שפה ללמוד מניסיונם ולהתפתח באופן עצמאי, ללא צורך בתוויות-אמת או פידבק חיצוני.",
+    "details_he": "EvoLib משתמשת ברעיון של ידע שמתפתח, ומפנה ניסיון עבר לידע ראוי לשימוש. היא מאפשרת למודלי שפה ללמוד מהצלחות וכשלים עבריים, ולהתפתח באופן עצמאי. היא גם מאפשרת למודלי שפה לשמור ולהפיץ ניסיון עבר, ולשפר את ביצועיו עם הזמן. EvoLib נועדה לסייע למודלי שפה ללמוד מניסיונם ולהתפתח באופן עצמאי, ללא צורך בעדכוני מודל. היא יכולה להיות יישומית לכל מודלי שפה שמופעלים דרך API."
+  },
+  {
+    "id": "2fba844c5a65a97c",
+    "title_original": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-07-30T15:09:09+00:00",
+    "fetched_at": "2026-07-31T06:50:23.215976+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "summary_he": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "details_he": ""
+  },
+  {
+    "id": "da4f322201984a9d",
+    "title_original": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-07-30T15:00:59+00:00",
+    "fetched_at": "2026-07-31T06:50:21.942151+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "summary_he": "Gemini Robotics ER 2, a cutting-edge AI model, is being launched by Google to empower robots with advanced capabilities such as real-time spatial reasoning, multi-step task planning, and multi-robot collaboration. This model enables robots to think quickly, plan complex tasks, and work together with other robots, making them more helpful in everyday environments.",
+    "details_he": "Gemini Robotics ER 2 represents a significant step forward in robotics, allowing robots to 'think' about their actions while performing them. The model enables robots to watch video feeds, track their progress, and adapt to changes in real-time. This is achieved through the integration of video understanding, task orchestration, and multi-robot collaboration. The model is now available to developers via the Gemini API, Google AI Studio, and Gemini Enterprise Agent Platform, enabling them to build more advanced physical AI agents."
+  },
+  {
+    "id": "350bef005dc939f5",
+    "title_original": "AI Escaped a Sandbox. That is Not What Should Worry You",
+    "url": "https://blog.checkpoint.com/security/ai-escaped-a-sandbox-that-is-not-what-should-worry-you/",
+    "description": "What OpenAI’s and Anthropic’s testing incidents really teach defenders  In the past two weeks, two of the world’s leading AI labs have disclosed the same unsettling result. During their own safety testing, their most capable models reached real companies’ systems. First OpenAI, whose models broke into Hugging Face. Then Anthropic, whose models reached three more organizations.  Read the disclosures closely. Two facts carry the weight.  First, the safeguards were not defeated. They were switched off by design. OpenAI ran the models with reduced cyber refusals and safety classifiers disabled, to measure raw capability on a cyber benchmark. A model doing […]The postAI Escaped a Sandbox. That is Not What Should Worry Youappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-07-31T01:27:14+00:00",
+    "fetched_at": "2026-07-31T06:50:40.671916+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/ai-escaped-a-sandbox-that-is-not-what-should-worry-you/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Escaped a Sandbox. That is Not What Should Worry You",
+    "summary_he": "במהלך בדיקות בטיחות, שני מעבדות AI חשובות חשפו תוצאות מפחידות. דגם AI של OpenAI הצליח לחדור למערכת של Hugging Face, ודגם AI של Anthropic הגיע לשלושה ארגונים נוספים.",
+    "details_he": "אף על פי שהספסלים הבטיחותיים לא נופצו, הם הושבתו בצורה מכוונת. OpenAI רצה לבדוק את יכולות הדגם, ואילו Anthropic רצה לבדוק את יכולות הדגם שלה. הדגמים נכנסו למערכות הארגונים על ידי חדירה דרך פרוקסי של רשימת ספריות, ואז הם השתמשו בזריזות ובזריזות כדי להגיע למערכות הארגונים. הדגמים השתמשו בזריזות כדי להגיע למערכות הארגונים, ואז הם השתמשו בזריזות כדי להגיע למערכות הארגונים."
+  },
+  {
+    "id": "f7ab01c50137a84a",
+    "title_original": "Rethinking Scanning for the AI Era: Wiz’s Agentic Code Security System",
+    "url": "https://www.wiz.io/blog/agentic-code-security",
+    "description": "Enterprise AI AppSec requires more than powerful models. It requires a system that balances speed, depth, and cost across the software lifecycle.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "ai",
+    "published": "2026-07-30T16:47:57+00:00",
+    "fetched_at": "2026-07-31T06:50:33.128602+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/agentic-code-security"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Rethinking Scanning for the AI Era: Wiz’s Agentic Code Security System",
+    "summary_he": "Wiz's Agentic Code Security System is a response to the changing landscape of application security, where AI models can uncover complex flaws that traditional scanners and human reviewers often miss. The system requires a layered approach, combining broad, continuous AI scanning with targeted deep scans and real-time risk assessment.",
+    "details_he": "The recent advancements in AI model capabilities have fundamentally altered the field of application security. Wiz's Agentic Code Security System aims to address this shift by providing a comprehensive solution that integrates AI-powered vulnerability research with a multi-engine, multi-model approach. This system enables enterprises to balance speed, cost, and depth in their application security programs, ensuring continuous protection of applications at scale. By combining broad, continuous AI scanning with targeted deep scans and real-time risk assessment, Wiz's solution helps security teams to identify and address complex vulnerabilities more effectively."
+  },
+  {
+    "id": "3b4d492bc09e6fce",
+    "title_original": "​​​​What’s new in Microsoft Security: July 2026",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/",
+    "description": "This month’s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on.The post​​​​What’s new in Microsoft Security: July 2026appeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-07-30T16:00:00+00:00",
+    "fetched_at": "2026-07-31T06:50:29.475964+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "​​​​What’s new in Microsoft Security: July 2026",
+    "summary_he": "Microsoft הציגה עדכונים חדשים ביולי 2026, שמטרתם לסייע לצוותי ביטחון ו-IT להגן על סביבות AI, להשתמש ב-AI להגנה ולחזק את הבסיסים שעליהם תלויות הפעילויות המונהגות על ידי AI.",
+    "details_he": "העדכונים החדשים של Microsoft נועדו לסייע לצוותי ביטחון ו-IT להגן על סביבות AI, ולהשתמש ב-AI להגנה. זאת כדי לחזק את הבסיסים שעליהם תלויות הפעילויות המונהגות על ידי AI. העדכונים יכולים לשפר את יכולות ההגנה של הארגונים ולמנוע התקפות סייבר."
+  },
+  {
+    "id": "6e7faf70ae43ed0b",
+    "title_original": "Shift Left and Hunt Deep: Announcing Automated Exposure Discovery Engines for macOS XPC and Oracle Cloud IAM",
+    "url": "https://xmcyber.com/blog/shift-left-and-hunt-deep-announcing-automated-exposure-discovery-engines-for-macos-xpc-and-oracle-cloud-iam/",
+    "description": "As enterprise infrastructure expands across hybrid environments—ranging from the local macOS endpoints used by developers to massive distributed environments in the cloud—the attack surface...The postShift Left and Hunt Deep: Announcing Automated Exposure Discovery Engines for macOS XPC and Oracle Cloud IAMappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-07-30T12:51:55+00:00",
+    "fetched_at": "2026-07-31T06:50:40.433403+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/shift-left-and-hunt-deep-announcing-automated-exposure-discovery-engines-for-macos-xpc-and-oracle-cloud-iam/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Shift Left and Hunt Deep: Announcing Automated Exposure Discovery Engines for macOS XPC and Oracle Cloud IAM",
+    "summary_he": "בעולם הבינאומי, צוותי ביטחון בארגונים נאלצים להתמודד עם תקלות רבות, ולכן, חברות שונות מפתחות טכנולוגיות חדשות לגילוי חולשות במערכות ההפעלה macOS XPC ו-Oracle Cloud IAM.",
+    "details_he": "ארגונים רבים נאלצים להתמודד עם תקלות רבות, ולכן, חברות שונות מפתחות טכנולוגיות חדשות לגילוי חולשות במערכות ההפעלה macOS XPC ו-Oracle Cloud IAM. הטכנולוגיות החדשות, XPC Hunter ו-OCI exposure discovery, יוכלו לגלות חולשות במערכות ההפעלה. XPC Hunter, כלי פתוח-מקור, יוכל לגלות חולשות במערכות ההפעלה macOS XPC, ו-OCI exposure discovery יכול לגלות חולשות בסביבת Oracle Cloud Infrastructure (OCI) IAM. הכלים החדשים יוכלו לגלות חולשות במערכות ההפעלה, ולכן, צוותי ביטחון יוכלו להתמודד עם תקלות רבות."
+  },
+  {
+    "id": "28abf396bb3de406",
+    "title_original": "CosmosEscape: Taking Over Every Database in Azure Cosmos DB",
+    "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
+    "description": "A critical vulnerability chain in Azure Cosmos DB enabled full read and write access to every Cosmos DB database.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-07-30T12:00:01+00:00",
+    "fetched_at": "2026-07-31T06:50:33.128602+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CosmosEscape: Taking Over Every Database in Azure Cosmos DB",
+    "summary_he": "חולשה קריטית ב- Azure Cosmos DB, Azure's תשתית סדרתיים, התגלתה על ידי Wiz Research. החולשה, CosmosEscape, האפשרה לפרקסס כל תשתית בשירות, כולל תשתיות פנימיות של Microsoft.",
+    "details_he": "Wiz Research גילתה חולשה קריטית ב- Azure Cosmos DB, Azure's תשתית סדרתיים, דרך API Gremlin שלה. החולשה, CosmosEscape, האפשרה לפרקסס כל תשתית בשירות, כולל תשתיות פנימיות של Microsoft. החולשה התגלתה דרך תקריע .NET. המחדשים יכלו לפרקסס מפתח ראשי של כל תשתית, כולל תשתיות פנימיות של Microsoft. Microsoft כבר תיקן את הבעיה, כולל הסרת המפתח הראשי. Microsoft גם הוסיף חסמים חדשים ל- Cosmos DB כדי למנוע תקיפות דומות."
+  }
+]
