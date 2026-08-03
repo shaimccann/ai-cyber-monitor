@@ -1,17 +1,10 @@
 {
-  "timestamp": "2026-08-02T06:40:03.779203+00:00",
-  "errors": [
-    {
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sit",
-      "error": "JSON parse error: Unterminated string starting at: line 3 column 14 (char 164)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-08-03T07:36:06.456811+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 9,
-  "fallback": 1,
-  "total_scanned": 22,
+  "success": 10,
+  "fallback": 0,
+  "total_scanned": 33,
   "selected": 10
 }
