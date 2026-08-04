@@ -1,0 +1,212 @@
+[
+  {
+    "id": "2ef764abb24ff02f",
+    "title_original": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "description": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-03T22:00:00+00:00",
+    "fetched_at": "2026-08-04T06:34:34.727657+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Apple is getting this wrong",
+    "summary_he": "Apple's lawsuit against OpenAI has raised questions about the company's handling of sensitive information and its treatment of former employees. The lawsuit claims that two former employees accessed confidential information, but Apple's own emails reveal a different story, with employees asking for help from the former employees in question.",
+    "details_he": "Apple's lawsuit against OpenAI has sparked controversy, with the company accusing two former employees of accessing confidential information. However, a closer look at the emails exchanged between Apple employees and the former employees reveals a more complex situation. Apple employees reached out to Chang Liu, a former employee, and asked for his help in locating files and information, which contradicts the company's claims. Additionally, Apple's own system access management has been criticized for causing 'residual access' issues, which allow former employees to access company files despite not wanting to. The lawsuit has also been criticized for its aggressive and personal tone, which is not in line with Apple's reputation for attention to detail."
+  },
+  {
+    "id": "94f8443735e79b4e",
+    "title_original": "Orchard: An open framework for scalable agentic AI",
+    "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "description": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.The postOrchard: An open framework for scalable agentic AIappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-08-03T16:00:00+00:00",
+    "fetched_at": "2026-08-04T06:34:36.043754+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Orchard: An open framework for scalable agentic AI",
+    "summary_he": "Orchard היא פלטפורמה פתוחה למחקר AI שקשורה לאגנטים, המאפשרת פיתוח AI זמין וזול. הפלטפורמה תומכת בפיתוח של סופטוורה, ניווט גרפי ועוזרים אישיים.",
+    "details_he": "Orchard תומכת בפיתוח של סופטוורה, ניווט גרפי ועוזרים אישיים, ומאפשרת פיתוח AI זמין וזול. הפלטפורמה תומכת בפיתוח של אגנטים זמינים וזולים, שיכולים לבצע תפקידים שונים, כגון ניווט גרפי ועוזרים אישיים. הפלטפורמה תומכת גם בפיתוח של סופטוורה, ומאפשרת פיתוח AI זמין וזול. הפלטפורמה תומכת בפיתוח של אגנטים זמינים וזולים, שיכולים לבצע תפקידים שונים, כגון ניווט גרפי ועוזרים אישיים."
+  },
+  {
+    "id": "20e0633b2ecc49e3",
+    "title_original": "How we built a realtime system for responsive voice AI in six months",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-03T07:00:00+00:00",
+    "fetched_at": "2026-08-04T06:34:34.727657+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How we built a realtime system for responsive voice AI in six months",
+    "summary_he": "בנינו מערכת אינטראקטיבית ל-AI קולית שמגיבה באופן אינטראקטיבי בתוך 6 חודשים, והיא עובדת באופן מיידי וטבעי.",
+    "details_he": "המערכת החדשה, GPT-Live, מסוגלת לשמוע ולדבר בו-זמנית, וזאת בעזרת דגם קולי מלא-דו-כיווני. כך, נמחקה הצורך במפצח-טורים, שהיה אחד הבעיות העיקריות של מערכות AI קוליות קודמות. כאשר יש צורך במחשוב עמוק יותר, GPT-Live יכולה לפנות לדגמים מתקדמים, כגון GPT-5.5, תוך שמירת זרימת השיחה. המערכת החדשה גם יכולה לשמור על זרימה חסרת עוינות, ולאפשר לאדם לשוחח עם ה-AI באופן טבעי."
+  },
+  {
+    "id": "6ff2b6f14ca75cc4",
+    "title_original": "מהיום, Gett מציעה הרבה יותר ממוניות, אבל האם זה משתלם?",
+    "url": "https://www.geektime.co.il/gett-launches-group-transportation-service/",
+    "description": "תאהבו את זה או לא, Gett נתפסת היום כשחקנית הגדולה הכמעט בלעדית בשוק המוניות המקומי. אחרי שהחליפה את התחנות המקומיות, ואת השיחה עם הסדרן הטלפוני באלגוריתם וזכתה במכרז הבלעדי בנתב\"ג, החברה מנסה למצוא כיווני צמיחה חדשים. הבוקר (ג') משיקה Gett עדכון משמעותי לאפליקציה שמוציא אותה מנישת המוניות ומאפשר להזמין בה כמעט כל כלי תחבורה גדול […]The postמהיום, Gett מציעה הרבה יותר ממוניות, אבל האם זה משתלם?appeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-08-04T05:55:58+00:00",
+    "fetched_at": "2026-08-04T06:34:51.261469+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/gett-launches-group-transportation-service/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מהיום, Gett מציעה הרבה יותר ממוניות, אבל האם זה משתלם?",
+    "summary_he": "Gett החלה להציע הזמנת מיניבוסים ואוטובוסים באפליקציה שלה, בנוסף למוניות. השירות החדש מחייב הזמנה של 12 שעות מראש לפחות, ומציג מחיר סופי וידוע מראש למשתמש.",
+    "details_he": "Gett החלה להרחיב את פעילותה מעבר למוניות, ומאפשרת הזמנת מיניבוסים ואוטובוסים באפליקציה שלה. השירות החדש, שמופעל באמצעות אינטגרציה לפלטפורמת Rideeazy של אלקטרה אפיקים, מאפשר למשתמשים להזמין כלי רכב גדולים, כולל מיניוואנים, וואנים, מיניבוסים ואוטובוסים. השירות מחייב הזמנה של 12 שעות מראש לפחות, ומציג מחיר סופי וידוע מראש למשתמש. Gett טוענת כי המחירים יישארו תחרותיים ונמוכים בכ-10% ממחירי השוק המקובלים."
+  },
+  {
+    "id": "597a97c13fbfa599",
+    "title_original": "\"פצצת זמן\": מניית SpaceX בדרך לשבוע דרמטי, ויש מי שצופה מפולת",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001551199#utm_source=RSS",
+    "description": "השבוע תפרסם חברת החלל של אילון מאסק את הדוחות הראשונים שלה בתור חברה ציבורית • יומיים לאחר מכן יתבצע השחרור הראשון של מניות חסומות של בעלי מניות ותיקים מה שעלול ליצור לחץ שלילי על המניה • אך עם סיום המהלך, בסוף השנה, האנליסטים צופים זינוק מטאורי",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-08-04T03:05:00+00:00",
+    "fetched_at": "2026-08-04T06:34:55.177351+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001551199#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "\"פצצת זמן\": מניית SpaceX בדרך לשבוע דרמטי, ויש מי שצופה מפולת",
+    "summary_he": "בעקבות פרסום דוחות ראשונים של SpaceX, צפויים להיווצר לחצים על המניה, אך עם סיום המהלך, צופים אנליסטים זינוק מטאורי.",
+    "details_he": "חברת החלל של אילון מאסק, SpaceX, תפרסם דוחות ראשונים שלה בתור חברה ציבורית בשבוע הקרוב. יומיים לאחר מכן, תתבצע השחרור הראשון של מניות חסומות של בעלי מניות ותיקים, אשר עלול ליצור לחץ שלילי על המניה. אך עם סיום המהלך, בסוף השנה, צופים אנליסטים זינוק מטאורי בערך המניה."
+  },
+  {
+    "id": "28b01254439c94ea",
+    "title_original": "Your VLAN Isn’t an Air Gap: Six Hard Truths From the New CI Fortify Guidance",
+    "url": "https://blog.checkpoint.com/usa/your-vlan-isnt-an-air-gap-six-hard-truths-from-the-new-ci-fortify-guidance/",
+    "description": "More than 30 Minnesota water systems were hit in one coordinated cyber attack. Within days, the Five Eyes told critical infrastructure operators to be ready to pull the plug.  Thirty water systems in two days  Over two days in late July, a coordinated cyber attack hit more than 30 community water systems across Minnesota. The treatment plant in Braham went offline. Plymouth lost cellular communications to two water towers and its wastewater lift stations. Maple Plain declared a local state of emergency. Early reporting points to internet-exposed programmable logic controllers (PLCs) as the way in, and investigators are examining links to Iranian affiliated activity. […]The postYour VLAN Isn’t an Air Gap: Six Hard Truths From the New CI Fortify Guidanceappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-03T23:36:06+00:00",
+    "fetched_at": "2026-08-04T06:34:51.162879+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/usa/your-vlan-isnt-an-air-gap-six-hard-truths-from-the-new-ci-fortify-guidance/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Your VLAN Isn’t an Air Gap: Six Hard Truths From the New CI Fortify Guidance",
+    "summary_he": "More than 30 Minnesota water systems were hit in one coordinated cyber attack. Within days, the Five Eyes told critical infrastructure operators to be ready to pull the plug.  Thirty water systems in two days  Over two days in late July, a coordinated cyber attack hit more than 30 community water systems across Minnesota. The treatment plant in Braham went offline. Plymouth lost cellular communications to two water towers and its wastewater lift stations. Maple Plain declared a local state of emergency. Early reporting points to internet-exposed programmable logic controllers (PLCs) as the way in, and investigators are examining links to Iranian affiliated activity. […]The postYour VLAN Isn’t an Air Gap: Six Hard Truths From the New CI Fortify Guidanceappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "63b086fd548557ef",
+    "title_original": "Introducing the Wiz Sensor for Developer Workstations to Protect Endpoints in the AI Era",
+    "url": "https://www.wiz.io/blog/introducing-the-wiz-sensor-for-developer-workstations",
+    "description": "As AI expands who builds software, the developer workstation is becoming a new security perimeter. AI and third-party software increasingly operate with access to your most sensitive credentials and cloud environments.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-03T14:02:36+00:00",
+    "fetched_at": "2026-08-04T06:34:46.203349+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-the-wiz-sensor-for-developer-workstations"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing the Wiz Sensor for Developer Workstations to Protect Endpoints in the AI Era",
+    "summary_he": "Wiz מכרזה תצפית Wiz Sensor לעבודותן של מפתחים, כדי להגן על סוגיות סיוע בסיירס. ה-Sensor נותן לצוותי ביטחון תצפית רציפה לכל פקטור, רכיב IDE, וכלי AI המרוץ על צי המפתחים שלהם, והגשת תגובה אוטומטית להתקפות ספליין.",
+    "details_he": "Wiz Research תיעדה קמפיינים של התקפות, כולל Shai-Hulud, Axios, ו-s1ngularity, שכל אחד שלהם החל בעבודת המפתח, והשתמש בפקטורים נפצים ורכיבי IDE שנשברו, כדי לגזוז תאריכים ולהגיע לסביבות הענן ולמערכות הייצור. Wiz Research דיווח כי 71% מהארגונים יש להם לפחות סייר AI אחד, ו-80% מהם משתמשים ברכיבי IDE AI, כל אחד כותב קוד, קורא API, ומגיע לתאריכים באופן אוטונומי. ה-Sensor נותן לצוותי ביטחון תצפית רציפה לכל פקטור, רכיב IDE, וכלי AI המרוץ על צי המפתחים שלהם, והגשת תגובה אוטומטית להתקפות ספליין."
+  },
+  {
+    "id": "bc49ae8f5893a8a1",
+    "title_original": "3rd August – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 27th July, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Minnesota IT Services has confirmed coordinated cyberattacks affecting more than 30 community water utilities across the state. The incidents briefly disrupted a treatment plant in Braham and affected industrial control systems. Officials reported […]The post3rd August – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-03T13:15:55+00:00",
+    "fetched_at": "2026-08-04T06:34:45.921946+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "3rd August – Threat Intelligence Report",
+    "summary_he": "Minneapolis IT Services reported a series of coordinated cyberattacks targeting over 30 community water utilities in Minnesota, resulting in brief disruptions to a treatment plant and industrial control systems.",
+    "details_he": "The cyberattacks, which began affecting the water utilities, caused a brief disruption to a treatment plant in Braham and impacted industrial control systems. Officials reported that the incidents were part of a larger coordinated effort. The affected water utilities are located across the state of Minnesota, highlighting the potential for widespread disruption in critical infrastructure. Check Point Research has published a Threat Intelligence Bulletin detailing the latest discoveries in cyber research for the week of 27th July."
+  },
+  {
+    "id": "7f3a0a29d63e2e20",
+    "title_original": "Check Point Named a Visionary Leader in the 2026 Frost Radar™ for Enterprise Risk Mitigation and Management Platforms",
+    "url": "https://blog.checkpoint.com/exposure-management/check-point-named-a-visionary-leader-in-the-2026-frost-radar-for-enterprise-risk-mitigation-and-management-platforms/",
+    "description": "Frost & Sullivan evaluated more than 30 vendors that identified themselves as enterprise risk mitigation and management (ERMM) platforms. Only 15 met the bar for inclusion. Just five earned Visionary Leader status. Check Point Exposure Management is one of them. What Frost & Sullivan Was Actually Measuring The Frost Radar™: Enterprise Risk Mitigation and Management Platforms, 2026 set a high bar for qualification. Vendors had to natively offer attack surface management, cyber threat intelligence, and digital risk protection in a unified platform. Point solutions requiring integration with external remediation tools were excluded. Platforms had to deliver both an outside-in view […]The postCheck Point Named a Visionary Leader in the 2026 Frost Radar™ for Enterprise Risk Mitigation and Management Platformsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-03T13:00:38+00:00",
+    "fetched_at": "2026-08-04T06:34:51.162879+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/check-point-named-a-visionary-leader-in-the-2026-frost-radar-for-enterprise-risk-mitigation-and-management-platforms/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point Named a Visionary Leader in the 2026 Frost Radar™ for Enterprise Risk Mitigation and Management Platforms",
+    "summary_he": "Check Point נכללה ברשימת המנהיגים המובילים ב-Frost Radar™ לתפעולי סיכון וניהול, ובכך היא רושמת ניצחון גדול בתחום. החברה קיבלה תואר 'Visionary Leader' על ידי Frost & Sullivan, וזאת על רקע הישגיה בתחום הסיכון והניהול. Check Point Exposure Management, פלטפורמה של החברה, נכללה ברשימה הקצרה של 15 פלטפורמות.",
+    "details_he": "Frost & Sullivan ניהלה מחקר שכלל את כל הספקים שהזדהו כפלטפורמות ERMM (Enterprise Risk Mitigation and Management). רק 15 פלטפורמות עמדו בתנאי הכניסה. Check Point Exposure Management, פלטפורמה של Check Point, זכתה בתואר 'Visionary Leader' על ידי Frost & Sullivan. הפלטפורמה זכתה בתואר זה על רקע הישגיה בתחום הסיכון והניהול, ובכך היא רושמת ניצחון גדול בתחום. הפלטפורמה ניצלה את יכולותיה בתחום כדי להציע תפעולי סיכון וניהול שיכולים להתמודד עם איומים סייבר. הפלטפורמה זכתה בתואר 'Visionary Leader' על ידי Frost & Sullivan, ובכך היא רושמת ניצחון גדול בתחום. "
+  },
+  {
+    "id": "ac49c3d95420bcfd",
+    "title_original": "An analysis of incidents at Brazilian educational institutions",
+    "url": "https://securelist.com/incidents-at-brazilian-educational-institutions/120803/",
+    "description": "Kaspersky expert provides statistics and details on several incident response cases at educational institutions in Brazil, as well as tips for schools and universities on how to stay safe.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-08-03T13:00:17+00:00",
+    "fetched_at": "2026-08-04T06:34:44.402227+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/incidents-at-brazilian-educational-institutions/120803/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "An analysis of incidents at Brazilian educational institutions",
+    "summary_he": "במסגרת חקירות של צוות התגובה החירום הגלובלי (GERT) שלנו, נמצא כי ב-2025-2026, 60% מהמוסדות החינוכיים שביקשו עזרה, היו מוסדות פרטיים, ו-40% היו מוסדות ציבוריים.",
+    "details_he": "הדיווחים שלנו מראים כי רוב המתקפות נגד מוסדות חינוכיים בברזיל, התרחשו במדינת סאו פאולו, שהיא המדינה המאוכלסת ביותר בברזיל. נכון ל-2026, 40% מהמקרים של פריצת דרך חדשה, היו קשורים להתקפות ראנסום. כמו כן, נמצא כי רוב המקרים של פריצת דרך, נבחנו כתוצאה של פעילות חשודה בסוגיות סיוע, קבצים צפויים וקבצים חשודים."
+  }
+]

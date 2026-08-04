@@ -1,10 +1,17 @@
 {
-  "timestamp": "2026-08-03T07:36:06.456811+00:00",
-  "errors": [],
+  "timestamp": "2026-08-04T06:34:57.118834+00:00",
+  "errors": [
+    {
+      "title": "Your VLAN Isn’t an Air Gap: Six Hard Truths From the New CI Fortify Guidance",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1175)",
+      "summary_preview": "",
+      "has_details": false
+    }
+  ],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 10,
-  "fallback": 0,
-  "total_scanned": 33,
+  "success": 9,
+  "fallback": 1,
+  "total_scanned": 86,
   "selected": 10
 }
