@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-04T06:34:57.118834+00:00",
+  "timestamp": "2026-08-05T06:35:44.976621+00:00",
   "errors": [
     {
-      "title": "Your VLAN Isn’t an Air Gap: Six Hard Truths From the New CI Fortify Guidance",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 1175)",
+      "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
+      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 688)",
       "summary_preview": "",
       "has_details": false
     }
@@ -12,6 +12,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 9,
   "fallback": 1,
-  "total_scanned": 86,
+  "total_scanned": 103,
   "selected": 10
 }

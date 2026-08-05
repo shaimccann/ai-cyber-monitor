@@ -1,0 +1,212 @@
+[
+  {
+    "id": "d6baa49d29806e69",
+    "title_original": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-04T19:00:00+00:00",
+    "fetched_at": "2026-08-05T06:35:21.622656+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Third-party cyber evaluations involving OpenAI models",
+    "summary_he": "Independent testing of OpenAI models has revealed incidents where testing configurations and controls allowed the models to access the public internet, highlighting the need for evolving testing standards as models become more capable.",
+    "details_he": "Two external testing partners, UK AISI and Irregular, identified incidents where OpenAI models accessed the public internet during third-party cyber evaluations. The incidents occurred under specific conditions and reduced-safeguard configurations that did not reflect ordinary deployment. UK AISI intentionally enabled internet access to simulate real-world conditions, while Irregular's testing-environment misconfiguration allowed models to access the public internet. OpenAI is reviewing its approach to third-party testing, including how to identify higher-risk evaluations and establish clearer incident-notification and escalation processes."
+  },
+  {
+    "id": "5a46ee4b295bf336",
+    "title_original": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+    "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+    "description": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-04T16:00:56+00:00",
+    "fetched_at": "2026-08-05T06:35:23.656841+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+    "summary_he": "NVIDIA נכנסה לתוכנית NSF State and Regional AI Hubs כדי להרחיב את המחקר וההשכלה הקשורים ל-AI ברחבי ארצות הברית.",
+    "details_he": "NVIDIA יחד עם NSF, תקדם את המחקר וההשכלה הקשורים ל-AI דרך תוכנית State and Regional AI Infrastructure Hubs. התוכנית תספק גישה למשאבי מחשוב מתקדמים, נתונים, תוכנות ומומחיות הדרושים למחקר והשכלה AI. NVIDIA תשתף פעולה עם קמפיינים פרטיים, ארגוני צדקה וממשלות מדינתיות ומקומיות. התוכנית תסייע לקמפיינים לשתף משאבי מחשוב, להאיץ את המחקר המדעי והחדשנות, ולהכין את הסטודנטים להשתתף בכלכלת AI."
+  },
+  {
+    "id": "d93948c12ec115ff",
+    "title_original": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+    "description": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-04T15:00:49+00:00",
+    "fetched_at": "2026-08-05T06:35:23.656841+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+    "summary_he": "NVIDIA Alpamayo 2 Super, a cutting-edge model for autonomous vehicles, has been released for commercial use. This model can handle complex and rare situations that are difficult to anticipate and train for, enabling safer and more transparent autonomous driving.",
+    "details_he": "NVIDIA Alpamayo 2 Super is part of the Alpamayo family, the most-adopted open reasoning models for autonomous driving on Hugging Face. It is built on NVIDIA Cosmos 3 Super Reasoner and post-trained with reinforcement learning, advancing the AV ecosystem with open commercial licensing and leading multitask capabilities. The model is available on Hugging Face under OpenMDW-1.1, a permissive license that allows developers to adapt Alpamayo to their own data and infrastructure. This openness enables developers to keep control of their own data and infrastructure, as well as own the value they create through specialized models and accumulated know-how."
+  },
+  {
+    "id": "b78c070fe118fc82",
+    "title_original": "As AI Increases Demands on Memory, Storage Steps Up",
+    "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+    "description": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.  But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights.  At this week’s Future of […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-04T15:00:47+00:00",
+    "fetched_at": "2026-08-05T06:35:23.656841+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ai-storage-fms/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "As AI Increases Demands on Memory, Storage Steps Up",
+    "summary_he": "AI's insatiable appetite for data is pushing storage systems to their limits, but simply adding more capacity is not enough. New storage advancements and architectures are needed to efficiently and securely handle the massive amounts of data generated by AI agents.",
+    "details_he": "The pressure on storage infrastructure is intensifying as AI agents consume massive amounts of data, and GPUs can now initiate storage requests directly, generating thousands of concurrent operations. To serve these requests, storage systems must continuously encrypt, compress, verify and reconstruct data, which can become bottlenecks when thousands of agents access storage simultaneously. NVIDIA's new storage advancements and open sourcing of cuFile APIs aim to address these challenges by enabling efficient, secure and fast access to data from storage, and unifying a security-first storage stack based on Linux best practices."
+  },
+  {
+    "id": "a0bc12e829a0656f",
+    "title_original": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-04T13:58:29+00:00",
+    "fetched_at": "2026-08-05T06:35:23.355324+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "summary_he": "LiquidAI's LFM2.5-2.6B model is designed for on-device deployment, allowing developers to create capable agents that can run on everyday hardware without relying on cloud inference. This model is built to be efficient, supporting tool calling and multi-step workflows while keeping data private on the device.",
+    "details_he": "LFM2.5-2.6B is a cutting-edge model that has been trained on a massive dataset of ~34T tokens and has shown impressive results in various benchmark tests. It is capable of competing with models up to 4x its size in tasks such as STEM, instruction following, tool use, and agentic tasks. The model's architecture is designed to be flexible and adaptable, with a four-stage training process that includes supervised fine-tuning, teacher specialization, multi-domain on-policy distillation, and agentic reinforcement learning. This approach allows the model to learn from a wide range of tasks and environments, making it a valuable tool for developers looking to create capable agents that can run on a variety of devices."
+  },
+  {
+    "id": "8dfe399ce3adb415",
+    "title_original": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
+    "description": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.The postChainDrop supply chain compromise: Anatomy of a self-propagating wormappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-08-04T23:46:41+00:00",
+    "fetched_at": "2026-08-05T06:35:29.078685+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
+    "summary_he": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.The postChainDrop supply chain compromise: Anatomy of a self-propagating wormappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "5ed94f8f029c0283",
+    "title_original": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/",
+    "description": "Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance.The postAdvance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOpsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "ai",
+    "published": "2026-08-04T18:30:00+00:00",
+    "fetched_at": "2026-08-05T06:35:29.078685+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
+    "summary_he": "Microsoft היא חברה שהוסיפה כלי חדשים והדרכה להגנה על סביבות AI ו DevSecOps.",
+    "details_he": "Microsoft הוסיפה כלי חדשים והדרכה להגנה על סביבות AI ו DevSecOps, כדי לשפר את הביטחון בסביבות אלה. זה חלק מסטרטגיית Zero Trust for AI של Microsoft. הכלי וההדרכה החדשים יעזרו להגן על סביבות AI ו DevSecOps מפני פגיעות ואסונות."
+  },
+  {
+    "id": "847772cf35f8adc0",
+    "title_original": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
+    "description": "Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread.The post128 Seconds to disruption: Microsoft Defender stops ransomware at QNETappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-08-04T17:54:04+00:00",
+    "fetched_at": "2026-08-05T06:35:29.078685+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
+    "summary_he": "Microsoft Defender הצליח לעצור תקיפת ראנסומאר על רכזת QNET ב-128 שניות, קודם שהתקיפה הצליחה להתפשט.",
+    "details_he": "Microsoft Defender הפעיל את תכונת הבודק האוטומטי שלו, שהצליח לזהות ולבודד את הרכזה הקרועה של QNET ב-128 שניות. תקיפה זו הייתה תקיפה משורטטת, והייתה צפויה לגרום לפגיעה רבה. Microsoft Defender עצר את התקיפה קודם שהיא הצליחה להפיץ את הפגיעה."
+  },
+  {
+    "id": "285d13f4f48d9bd4",
+    "title_original": "From Input to Impact: Secure AI Where It Runs",
+    "url": "https://www.sentinelone.com/blog/from-input-to-impact-secure-ai-where-it-runs/",
+    "description": "Defend the entire AI agentic stack across endpoints, identities, cloud, and apps with SentinelOne's unified platform.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-08-04T13:30:47+00:00",
+    "fetched_at": "2026-08-05T06:35:32.598957+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/from-input-to-impact-secure-ai-where-it-runs/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Input to Impact: Secure AI Where It Runs",
+    "summary_he": "SentinelOne מגן על סביבות העבודה שלכם מפני פגיעות AI על ידי חיפוש ומניעת פגיעות בכל שלב, כולל כרטיסי API, כרטיסי IDE, וכרטיסי עבודה באופן אוטומטי.",
+    "details_he": "SentinelOne מספקת פתרון זהב עבור חברות שרוצות להגן על סביבות העבודה שלהן מפני פגיעות AI. הם חוקרים כל שלב, כולל כרטיסי API, כרטיסי IDE, וכרטיסי עבודה, כדי לזהות ולמנוע פגיעות. הם גם חוקרים את כל הצדדים השונים של AI, כולל כרטיסי API, כרטיסי IDE, וכרטיסי עבודה, כדי להבטיח שהם יכולים להגן על סביבות העבודה שלכם. זה כולל גם חיפוש ומניעת פגיעות בכל שלב, כולל כרטיסי API, כרטיסי IDE, וכרטיסי עבודה."
+  },
+  {
+    "id": "31abf7f009703d92",
+    "title_original": "Wiz at Black Hat 2026: Driving AI Threat Readiness",
+    "url": "https://www.wiz.io/blog/wiz-at-black-hat-2026",
+    "description": "Announcing new capabilities that help organizations prepare for the AI era by expanding visibility and accelerating response, so security teams can defend at machine speed.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-04T13:06:10+00:00",
+    "fetched_at": "2026-08-05T06:35:33.188078+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-at-black-hat-2026"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz at Black Hat 2026: Driving AI Threat Readiness",
+    "summary_he": "בעידן שבו דגמי חדשנות יכולים לגלות חולשות חדשות ולקשר פעולות במהירות של מכונה, חולשות יתגלו ויוצגו במהירות שאף אחד לא ראה. ארגונים נאלצים להתמודד עם תפנית שבה הפעולה קורה במהירות של מכונה, אך ההגנה לא. יש פער בין המהירות שבה התקיפה קורה לבין המהירות שבה ההגנה קורה.",
+    "details_he": "בעידן שבו דגמי חדשנות יכולים לגלות חולשות חדשות ולקשר פעולות במהירות של מכונה, חולשות יתגלו ויוצגו במהירות שאף אחד לא ראה. כדי להתמודד עם זה, Wiz פיתחה תוכנית חדשה להכנת הגנה שתפעל במהירות של מכונה. תוכנית זו כוללת שני גורמים: רוחב השקפה ומהירות פעולה. רוחב השקפה מתייחס ליכולת לגלות ולהפוך את פגמים ואיומים בכל האזורים שבהם הם קיימים. מהירות פעולה מתייחסת ליכולת לפעול במהירות שבה הפגמים והאיומים קורים."
+  }
+]
