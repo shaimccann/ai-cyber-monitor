@@ -1,17 +1,10 @@
 {
-  "timestamp": "2026-08-05T06:35:44.976621+00:00",
-  "errors": [
-    {
-      "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 22 (char 688)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-08-06T06:39:08.716824+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 9,
-  "fallback": 1,
-  "total_scanned": 103,
+  "success": 10,
+  "fallback": 0,
+  "total_scanned": 101,
   "selected": 10
 }
