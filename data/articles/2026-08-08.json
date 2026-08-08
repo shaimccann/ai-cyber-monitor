@@ -1,0 +1,216 @@
+[
+  {
+    "id": "bbe65cf6afdee2be",
+    "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-07T17:53:32+00:00",
+    "fetched_at": "2026-08-08T05:04:54.233091+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/tutormoments"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "summary_he": "מעבדי AllenAI פיתחו תוכנה לבדיקת יכולות של מודלי LLM בהכוונת תלמידים. התוכנה, TutorMoments, נועדה לבדוק את יכולתם של מודלי LLM להכריע בין סיוע לתלמידים ובין לאפשר להם לעשות עבודה עצמאית.",
+    "details_he": "TutorMoments היא תוכנה של AllenAI שנועדה לבדוק את יכולתם של מודלי LLM להכריע בין סיוע לתלמידים ובין לאפשר להם לעשות עבודה עצמאית. התוכנה נבנתה על בסיס טקסטים מאזורי עבודה של מורים ותלמידים, ומטרתה היא לבדוק את יכולתם של מודלי LLM להכריע בין סיוע לתלמידים ובין לאפשר להם לעשות עבודה עצמאית. התוכנה נועדה לעזור למורים ולחוקרים לבדוק את יכולתם של מודלי LLM להכריע בין סיוע לתלמידים ובין לאפשר להם לעשות עבודה עצמאית."
+  },
+  {
+    "id": "002f0a221f91da49",
+    "title_original": "Responding to the next frontier of critical cyber capabilities",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-07T15:20:00+00:00",
+    "fetched_at": "2026-08-08T05:04:52.083551+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Responding to the next frontier of critical cyber capabilities",
+    "summary_he": "בעקבות התקדמות קריטית ביכולות צבאיות סייבר, חברה חשאית הודיעה על תגובתה לפני הפנייה. הם חששו שהדגם Astra, שעדיין בפיתוח, יכול לפתח יכולות סייבר קריטיות.",
+    "details_he": "החברה, שהצהירה על כוונתה להיות רגועה, הצהירה כי היא תגביר את תוכניות הבטיחות שלה. הם יציבו תוכניות בטיחות חדשות, כולל ניטור ודטקציה חדשים, והם יעצרו את הפעילות הפנימית של Astra. החברה גם תעביר תוכניות חדשות למוניטורינג ריסקי, כדי למנוע פעולות סייבר קריטיות. הם צופים שהדגם Astra יכול לפתח יכולות סייבר קריטיות, והם רוצים להיות רגועים."
+  },
+  {
+    "id": "2e548a54b0c24ac7",
+    "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "url": "https://openai.com/index/hsp-gruppe",
+    "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-07T09:00:00+00:00",
+    "fetched_at": "2026-08-08T05:04:52.083551+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/hsp-gruppe"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "summary_he": "HSP GRUPPE, a network of tax advisory and auditing firms, is leveraging ChatGPT Enterprise to revolutionize its tax advisory services, enabling professionals to process information faster, improve work quality, and free up capacity for advisory work and client service.",
+    "details_he": "HSP GRUPPE has successfully integrated ChatGPT Enterprise into its operations, achieving high adoption rates and significant productivity gains. With 98.6% of employees reporting higher productivity and 500,000+ conversations in six months, the firm has created an estimated 40,000+ hours of additional capacity annually. The organization's approach to AI adoption focuses on organizational transformation, governance, and continuous learning, allowing professionals to apply AI in innovative ways and scale its use across the firm network."
+  },
+  {
+    "id": "f95ba8d3dec7d26b",
+    "title_original": "v2.1.225",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.225",
+    "description": "What's changedAdded gateway spend-limit support to Claude Code's usage warning; the limit-reached message now names the cap, its reset time, and the operator's message (requires the gateway on 2.1.225)Added a workspace trust prompt toclaude agentsfor untrusted directories, matching the behavior ofclaudeFixed a transient 401 replacing a long-livedCLAUDE_CODE_OAUTH_TOKENwith a stored login's short-lived token, breaking headless sessions until restartFixed MCP OAuth servers on macOS intermittently failing with a burst of 401 errors, as if never authenticated, after a keychain read timed outFixed auto mode counting a safety-filter refusal of its own permission check toward the consecutive-block limit; the action is still denied, but the model is now told to move on rather than retryFixed cross-session messages staying parked without a notice or expiry in headless sessions and during startupFixed conversation history breaking on Remote Control session resume after very large conversations w",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-08-08T01:09:26+00:00",
+    "fetched_at": "2026-08-08T05:05:18.423547+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.226"
+      },
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.225"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "v2.1.225",
+    "summary_he": "A new version of Claude Code, v2.1.225, has been released with several bug fixes and improvements. The update addresses issues with gateway spend-limit support, workspace trust prompts, and Remote Control sessions. It also includes fixes for various other problems and enhances the functionality of SendMessage.",
+    "details_he": "The update adds gateway spend-limit support to Claude Code's usage warning, which now includes the cap, reset time, and operator's message. It also introduces a workspace trust prompt for untrusted directories in Claude agents, matching the behavior of Claude. Additionally, the update fixes issues with MCP OAuth servers on macOS, auto mode counting, cross-session messages, conversation history, and hovering over sessions in the agents list. Furthermore, it improves Remote Control by showing photos attached from the Claude app directly to Claude, and enhances the SendMessage feature to start conversations with Remote Control sessions on other machines by name."
+  },
+  {
+    "id": "6e9f0f07ddffda30",
+    "title_original": "OpenAI says it slowed Astra model development over security concerns",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-08-07T22:48:24+00:00",
+    "fetched_at": "2026-08-08T05:04:55.555174+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI says it slowed Astra model development over security concerns",
+    "summary_he": "OpenAI נתנה עדכון על פיתוח המודל Astra, לאחר שהמודל הגיע ל\"שיא סף חברתי\" בנושאי ביטחון סייבר. החברה הפסיקה את פיתוח המודל, ומתכננת לבדוק את יכולותיו בשיתוף עם מוסדות ביטחון.",
+    "details_he": "OpenAI דיווחה על פיתוח המודל Astra, שהגיע ל\"שיא סף חברתי\" בנושאי ביטחון סייבר. על פי דו\\\"ח, המודל הגיע ליכולות שאפשרו לו לזהות ולבצע פגיעה במערכות סייבר מוגנות. OpenAI הפסיקה את פיתוח המודל, ומתכננת לבדוק את יכולותיו בשיתוף עם מוסדות ביטחון. החברה גם ציינה כי היא עובדת עם סוכנויות ממשלתיות וארגוני ביטחון סייבר, כדי לבדוק את הסכנות הפוטנציאליות של המודל."
+  },
+  {
+    "id": "57fde889b23bc352",
+    "title_original": "Inside the Modern SOC: The Identity Front Door",
+    "url": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
+    "description": "Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond.The postInside the Modern SOC: The Identity Front Doorappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-08-07T23:00:01+00:00",
+    "fetched_at": "2026-08-08T05:05:00.594890+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/soc-identity-front-door/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inside the Modern SOC: The Identity Front Door",
+    "summary_he": "הזהירו: הזהות הפכה לדלת הכניסה החדשה ל-SOC. על פי דו\"ח Unit 42, חלשות באופן זהותי היו קשורות לכ-90% מהאירועים שנחקרו, כאשר 65% מפעילות הגישה היו טכניקות זהותיות.",
+    "details_he": "בדו\"ח Unit 42 Global Incident Response Report 2026, נמצא כי חלשות באופן זהותי היו קשורות לכ-90% מהאירועים שנחקרו. 65% מפעילות הגישה היו טכניקות זהותיות, כולל גנבת זהויות, התמזערות של האשראי הרב-גורמי (MFA), גנבת ישירה של ישירות (session hijacking) והתמזערות חברתית. חלשות זהותיות הפכו לכלי יעיל ביותר לכניסה לסביבות העסקי. התוקפים נוהגים לזכות בגישה תחילית דרך קמפיינים של דואר זבל, קריאות חברתיות, התמזערות של MFA, חשבונות של שלישיים שנגנבו ושימוש לרעה בתהליכי עזרה."
+  },
+  {
+    "id": "add868963b0bfad7",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 32",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-32-8/",
+    "description": "Snowflake hacker's guilty plea covers a 100M-record breach, Mythos 5 spends 34 hours trying to backdoor real code, and ChainDrop's worm spreads via npm.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-08-07T13:00:57+00:00",
+    "fetched_at": "2026-08-08T05:05:01.764868+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-32-8/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 32",
+    "summary_he": "בשבוע האחרון, התגלו מקרי פשע סייבר שונים, כולל פשע של פריצה לחשבונות Snowflake והפעילות של רשת הרansomware Ransom Cartel.",
+    "details_he": "האיש האחראי לפריצה לחשבונות Snowflake, Connor Riley Moucka, הודה באשמה בבית המשפט הפדרלי בסיאטל, והוא עומד להישפט ב-27 באוקטובר. הפריצה פגעה בכ-165 ארגונים וחשפה רשומות של לפחות 100 מיליון אנשים. הפעילים הפריצה על ידי חולשות באבטחת זהויות, ולא נדרשו למצוא חולשה בפלטפורמת Snowflake. הפעילים גם ניצלו חולשות באבטחת זהויות שהיו קיימות בכ-75% מהחשבונות שהם פרצו. בנוסף, הפעילים הפריצה ל-18 ארגונים, והם ניסו לגבות כ-6.7 מיליון דולר. האיש האחראי לרשת הרansomware Ransom Cartel, Maksim Silnikau, נשפט ל-16 שנות מאסר על פשעי קונספירציה וגנבת זהויות."
+  },
+  {
+    "id": "497d4e526bc80137",
+    "title_original": "The Top Exposure Management Questions Security Leaders Ask (Part 1)",
+    "url": "https://blog.checkpoint.com/exposure-management/the-top-exposure-management-questions-security-leaders-ask-part-1/",
+    "description": "Security leaders evaluating Check Point Exposure Management tend to ask the same questions: how the solution discovers assets, what intelligence it provides, and how well it fits their existing tools and workflows.  Below, we answer the questions that come up most often in product evaluations, offering a practical look at how organizations discover, understand, and reduce cyber risk.  1. How does the platform discover my assets?  Every exposure management program starts with knowing what you own. Security teams cannot assess, prioritize, or remediate exposures tied to systems they do not know exist.  Check Point Exposure Management begins by continuously discovering […]The postThe Top Exposure Management Questions Security Leaders Ask (Part 1)appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-07T13:00:28+00:00",
+    "fetched_at": "2026-08-08T05:05:11.798628+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/the-top-exposure-management-questions-security-leaders-ask-part-1/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Top Exposure Management Questions Security Leaders Ask (Part 1)",
+    "summary_he": "במהלך הבדיקה של Check Point Exposure Management, המנהלים הביטחוניים נוטים לשאול שאלות רבות, כולל כיצד הפלטפורמה גילה את האסטרטגיות, מה התפוקה שלה, ואם היא תאמה את הכלים והתהליכים הקיימים. הפלטפורמה גילה את האסטרטגיות של הארגון, גילה את האסטרטגיות, וסיפקה תפוקה.",
+    "details_he": "במהלך הבדיקה של Check Point Exposure Management, המנהלים הביטחוניים נוטים לשאול שאלות רבות, כולל כיצד הפלטפורמה גילה את האסטרטגיות, מה התפוקה שלה, ואם היא תאמה את הכלים והתהליכים הקיימים. הפלטפורמה גילה את האסטרטגיות של הארגון, גילה את האסטרטגיות, וסיפקה תפוקה. הפלטפורמה גם גילתה את האסטרטגיות של הארגון, וסיפקה תפוקה. הפלטפורמה גילתה את האסטרטגיות של הארגון, וסיפקה תפוקה. הפלטפורמה גילתה את האסטרטגיות של הארגון, וסיפקה תפוקה. "
+  },
+  {
+    "id": "3ebf4703cd878f60",
+    "title_original": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+    "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+    "description": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.\n\n\"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-08-08T00:18:17+05:30",
+    "fetched_at": "2026-08-08T05:04:56.430991+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+    "summary_he": "במהלך חודש אוגוסט 2026, נכנסו לשוק כ-800 כלים מזויפים למערכת npm, אשר נועדו להפצת ראט ומאגרי מידע. הכלים הללו יכולים לפעול על מערכות Windows, macOS ו-Linux.",
+    "details_he": "הכלים המזויפים נכנסו לשוק כחלק ממבצע חדש, אשר נועד להפצת ראט ומאגרי מידע. הכלים הללו נועדו להפעיל תכנית ראט ומאגרי מידע, אשר תיכנס למערכת המחשב דרך פונקציית require(), אשר נועדה לאפשר ייבוא של כלים וקבצים. התכנית תגרום להורדת קובץ יצירה (WEL1DROPPER) אשר יזהה את מערכת ההפעלה ואת הארכיטקטורה של המחשב ויהוריד קובץ תוסף מתאים מאחד משלושה עבדי Cloudflare. אם ההורדה תכשל, התכנית תעבור לעבד פלטפורמה-אופקי ותשתמש בשם DNS TXT כדי להוריד את הקובץ הבא. התכנית תכנס למערכת המחשב ותפעל כאשר תגיע לשלב האחרון."
+  },
+  {
+    "id": "8ffbe8bc058c4091",
+    "title_original": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+    "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+    "description": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.\n\nThe macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture.\n\n\"",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-08-07T23:59:08+05:30",
+    "fetched_at": "2026-08-08T05:04:56.430991+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+    "summary_he": "מערכת ClickFix נמצאה להפעיל תוכנה זדונית על macOS, שמטרתה לגנוב כספים מחווילות קריפטוגרפיות.",
+    "details_he": "התוכנה, המבוססת על Go, יכולה לגנוב סיסמאות, נתוני Apple iCloud Keychain וזיכרונות נתונים. היא גם יכולה לגנוב כספים מחווילות קריפטוגרפיות, כולל Bitcoin, Litecoin, Dogecoin, Monero, Ethereum ו-Ripple's XRP. התוכנה נשלחת דרך פקודה ClickFix, שמבצעת פרופיל של המחשב ואז מוצאת את התוכנה הזדונית המתאימה לארכיטקטורת CPU של המחשב. התוכנה גם ניסתה לעלות בדרגת הרשאות על ידי פקודה זויפה של 'שגיאה במערכת' ובקשה להכנסת סיסמאות של המשתמש."
+  }
+]
