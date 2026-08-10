@@ -1,0 +1,149 @@
+[
+  {
+    "id": "9728d62554443347",
+    "title_original": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+    "url": "https://arxiv.org/abs/2608.06394",
+    "description": "arXiv:2608.06394v1 Announce Type: new \nAbstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple labels, while only considering in-domain scenarios where the model needs to be trained and tested within the same graph domain, resulting in limited cross-domain generalization. Recently, Graph Foundation Models (GFMs) have emerged as a promising paradigm for learning transferable graph representations across diverse graph domains and downstream tasks. However, existing GFMs are built upon single-label assumption, where all nodes are arbitrarily regarded as containing only one class of semantic and embedded into a single representation. For multi-label nodes, such a representation essentially approximates multiple semantics with a single point in the representation space, inevitably leading to semantic entanglement",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-10T00:00:00-04:00",
+    "fetched_at": "2026-08-10T05:39:05.939357+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.06394"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+    "summary_he": "מחקר חדש בתחום הלמידה מבוססת גרפים הציע פרדיגמה חדשה ללמידת ייצוגי גרפים תעשייתיים, המאפשרת ייצוג של ציוני חריגה רב-תוויים. המחקר, שפורסם בארכיון arXiv, מציע פרדיגמה חדשה של למידת ייצוגי גרפים, המאפשרת ייצוג של ציוני חריגה רב-תוויים.",
+    "details_he": "המחקר, שנכתב על ידי צוות של חוקרים, נועד לפתור את הבעיות הקיימות בלמידת ייצוגי גרפים, שמגבילות את היכולת ללמוד ציוני חריגה רב-תוויים. הפרדיגמה החדשה, שנקראת MSB-GFM, מאפשרת ייצוג של ציוני חריגה רב-תוויים על ידי רפרנטציות של יסודות שונים, ומאפשרת ייצוג של ציוני חריגה רב-תוויים באופן יעיל. המחקר כולל ניסויים שונים, שמדגימים את היעילות של הפרדיגמה החדשה."
+  },
+  {
+    "id": "a972f320614f33a2",
+    "title_original": "TEXAS: Task-Expert-Aware Supervision for Downstream Mixture-of-Experts LLM Adaptation",
+    "url": "https://arxiv.org/abs/2608.06396",
+    "description": "arXiv:2608.06396v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) language models route each token through a small subset of experts, making routing patterns useful for identifying task-relevant experts during downstream adaptation. Yet current approaches have two limitations: task experts are typically identified from aggregate routing statistics that reflect usage rather than association with successful task completion, and task-expert activations remain underexplored as signals for supervision allocation. We introduce Task-Expert-Aware Supervision (TEXAS), which combines correctness-conditioned task expert discovery with token-level supervision allocation. TEXAS compares expert activations on instances that the base model solves successfully and those it fails to solve, and retains experts more strongly activated on successful instances. During fine-tuning, it upweights answer tokens in failed instances when they activate these experts. TEXAS therefore leverages existing rou",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-10T00:00:00-04:00",
+    "fetched_at": "2026-08-10T05:39:05.939357+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.06396"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "TEXAS: Task-Expert-Aware Supervision for Downstream Mixture-of-Experts LLM Adaptation",
+    "summary_he": "חוקרים מצאו דרך לשפר את יכולות השפה של מודלי LLM על ידי ניתוח פעילות המומחים שלהם. השיטה, שנקראת TEXAS, משלבת גילוי מומחים מותאם למשימה עם הטלת סופרוויזיה ברמת המילים.",
+    "details_he": "מחקר חדש, שפורסם בארכיון arXiv, מציג שיטה חדשה לשפר את יכולות השפה של מודלי LLM. השיטה, שנקראת TEXAS, משלבת גילוי מומחים מותאם למשימה עם הטלת סופרוויזיה ברמת המילים. TEXAS חוקרת את פעילות המומחים של המודל ומזהה את המומחים המותאמים ביותר למשימה. השיטה נבדקה על שלושה מודלי MoE ושישה בסיסי נתונים, והיא הציגה את התוצאות הטובות ביותר ב-17 מ-18 הקבוצות. המחקר גם חשף את המומחים המותאמים ביותר למשימה ואת הסופרוויזיה המותאמת ביותר."
+  },
+  {
+    "id": "d78b9fba1dd5a538",
+    "title_original": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+    "url": "https://arxiv.org/abs/2608.06398",
+    "description": "arXiv:2608.06398v1 Announce Type: new \nAbstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patches. However, existing byte-patch architectures still apply the same dense feed-forward computation to every patch. This uniform computation cannot adapt model capacity to variations in patch semantics and granularity. We address this limitation with EntropyMoE, a Mixture-of-Experts (MoE) architecture designed for dynamic byte patches. EntropyMoE replaces the dense feed-forward modules in the global patch Transformer with Top-K expert layers. Each dynamic patch serves as the basic unit of expert routing, and its byte coverage determines its contribution to workload accounting. The router selects experts directly from patch entropy, using the same granularity signal that underlies dynamic patch construction to organize sparse computation. Patch entropy and length jointly define the feature ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-10T00:00:00-04:00",
+    "fetched_at": "2026-08-10T05:39:05.939357+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.06398"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+    "summary_he": "מחקר חדש פיתח תכנית חדשה למודלי שפה גדולים, המאפשרת חישוב זרימה דקה יותר של נתונים. התכנית, EntropyMoE, משתמשת באנטרופיה של נתוני התקן כדי לבחור את המומחים הנכונים לחישוב.",
+    "details_he": "המחקר, שפורסם בארכיון arXiv, פיתח תכנית חדשה למודלי שפה גדולים, המכונה EntropyMoE. התכנית משתמשת באנטרופיה של נתוני התקן כדי לבחור את המומחים הנכונים לחישוב. התכנית נועדה לטפל בבעיה של חישוב זרימה דקה של נתונים במודלי שפה גדולים. התכנית נבחנה במספר ניסויים והוכיחה את יעילותה. התכנית עשויה להיות חשובה לפיתוח מודלי שפה גדולים יותר ויעילים."
+  },
+  {
+    "id": "ec4c4f6a5061d5f1",
+    "title_original": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+    "url": "https://arxiv.org/abs/2608.06400",
+    "description": "arXiv:2608.06400v1 Announce Type: new \nAbstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-of-Experts (MoE) reward models seek to improve interpretability by routing prompts to specialized experts and characterizing experts through examples with high routing weights. However, routing weights only reveal which prompts an expert $\\textit{receives}$, not how it $\\textit{judges}$ responses, providing only a partial account of expert behavior. We therefore propose $\\textbf{Co}$ntribution-$\\textbf{Co}$ntrast ($\\textbf{CoCo}$) response-level interpretation, which faithfully characterizes experts' roles using chosen-rejected response pairs with the largest contribution contrasts, jointly capturing routing and preference behavior. Across automatic and human evaluations, CoCo yields more coherent, faithful, and specialized interpretations than router-based, score-based, and sparse autoenc",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-10T00:00:00-04:00",
+    "fetched_at": "2026-08-10T05:39:05.939357+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.06400"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+    "summary_he": "מחקר חדש פותח תיאור נאמן של דגם תגמול של מומחים-מורכבים, שמאפשר להבין איך המומחים חוקרים תגובות. המחקר, שפורסם בארכיו, מציג תיאור נאמן של דגם תגמול של מומחים-מורכבים, ומראה כי הוא יעיל יותר מדגמים אחרים.",
+    "details_he": "המחקר, שנעשה על ידי צוות של שבעה מדעני חשבון, פותח תיאור נאמן של דגם תגמול של מומחים-מורכבים. הדגם, הנקרא CoCo, מאפשר להבין איך המומחים חוקרים תגובות, ולזהות את המומחים המשמעותיים ביותר. המחקר מראה כי CoCo יעיל יותר מדגמים אחרים, ומספק תיאור נאמן של המומחים ותגובותיהם. המחקר גם מראה כי CoCo מספק תיאור יותר נאמן של המומחים ותגובותיהם, והוא יעיל יותר מדגמים אחרים."
+  },
+  {
+    "id": "fe7d0ebf937f1bf7",
+    "title_original": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+    "url": "https://arxiv.org/abs/2608.06402",
+    "description": "arXiv:2608.06402v1 Announce Type: new \nAbstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven methods struggle with complex graph structures, while deep-learning approaches improve performance at the expense of interpretability and rely on labeled data and training. Large language models (LLMs), with strong reasoning capabilities and world knowledge, are promising for interpretable, label-free community detection. To leverage these strengths, we propose LUCID, an LLM-guided, interpretable, training-free, and unsupervised community detection method. Inspired by phase-transition kinetics in natural systems, where complex structures emerge through initialization, merging, refinement, and selection, LUCID is designed as a four-stage pipeline. Within this pipeline, the LLM induces formal rules that translate implicit knowledge into explicit and interpretable logica",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-10T00:00:00-04:00",
+    "fetched_at": "2026-08-10T05:39:05.939357+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.06402"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+    "summary_he": "מחקר חדש פיתח שיטה לזיהוי קבוצות קוהזיביות ברשתות, שנקראת LUCID, המשתמשת בדגימות נרחבות של טקסט כדי לזהות קבוצות עם תכונות דומות.",
+    "details_he": "LUCID, שפותחה על ידי צוות של חוקרים, משתמשת בדגימות נרחבות של טקסט כדי לזהות קבוצות עם תכונות דומות. השיטה כוללת ארבעה שלבים: הגדרת קהילות מקומיות, התאמה של קהילות, תיקון של גבולות ובחירת קהילות. LUCID הוכיחה את עצמה כשיטה יעילה ומוצלחת, והציגה תוצאות טובות יותר משיטות אחרות שהוצגו בעבר."
+  },
+  {
+    "id": "cb6640e371cf73e6",
+    "title_original": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+    "url": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+    "description": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies.The postCritical Flaws Discovered in Belgian eID Software Used by 2 Million Peopleappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-08-10T04:44:32+00:00",
+    "fetched_at": "2026-08-10T05:39:07.420695+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+    "summary_he": "בעקבות חשיפת חולשות בקוד של תוכנת הזהות הדיגיטלית Connective, חברת Nitro Software Belgium פרסמה תיקונים לבעיות הביטחוניות. תוכנת הזהות, המשמשת 2 מיליון איש, נחשפה כפגיעה לפגיעה חסרת קושי.",
+    "details_he": "החולשות, שנגלו בידי חוקר הביטחון James Arnott, אפשרו לאתרים ולפרסומות אונליין להתקשר ישירות עם התוכנה, שהייתה מותקנת על המחשב. כך, אתרים פוטנציאלית פושעים יכלו לקרוא את הפרטים האישיים של המשתמש, כולל פרטי כרטיסי אשראי ופרטי תעודת הזהות הדיגיטלית. כמו כן, התוכנה אפשרה לאתרים פושעים לגרום למשתמשים לחשוף את קוד הPIN שלהם, ולאחר מכן, להפיץ חתימות אלקטרוניות מזויפות. החברה Nitro Software Belgium פרסמה תיקונים לבעיות הביטחוניות, והם כבר נמצאים בשימוש."
+  },
+  {
+    "id": "059238c9307fd7a8",
+    "title_original": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
+    "url": "https://isc.sans.edu/diary/rss/33228",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-08-10T02:00:03+00:00",
+    "fetched_at": "2026-08-10T05:39:08.435610+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33228"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
+    "summary_he": "SANS Internet Storm Center released its weekly podcast for Monday, August 10th, 2026, providing insights and analysis on the latest cybersecurity threats and trends.",
+    "details_he": "The ISC Stormcast is a weekly podcast that offers a comprehensive overview of the current cybersecurity landscape, featuring expert analysis and commentary from the SANS Internet Storm Center team. This week's episode covers various topics, including emerging threats, vulnerabilities, and security best practices. The podcast aims to educate listeners on the latest cybersecurity threats and provide actionable advice to help them stay safe online."
+  }
+]
