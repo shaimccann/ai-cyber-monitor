@@ -1,0 +1,212 @@
+[
+  {
+    "id": "b4c2397a41cd76be",
+    "title_original": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
+    "url": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
+    "description": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-08-10T20:23:04+00:00",
+    "fetched_at": "2026-08-11T05:15:28.856031+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
+    "summary_he": "בתחרות AWS Trainium Frontier, מדענים מחפשים את הארכיטקטורה האופטימלית של דגמי לשון, כשהם משתמשים במעבדי AI ייעודיים.",
+    "details_he": "התחרות, שהתקיימה במסגרת NeurIPS 2026, כללה שתי שלבים: שלב ראשון של 30 דקות על מעבד Trainium2, ושלב שני של 4 שעות על שרת מלא, עם דגימות נבחרות. המנצחים קיבלו הכרה במסגרת NeurIPS, הזדמנויות לפרסום משותף עם מדענים מ-AWS, ופרסי כסף. התחרות הייתה חלק מניסיון להבין את הארכיטקטורה האופטימלית של דגמי לשון, כשהם משתמשים במעבדי AI ייעודיים. המעבדים הייעודיים, כמו AWS Trainium, מציעים פני שטח תכנותיים שונים, עם זיכרון SRAM, שליטה ישירה בתנועת הנתונים, ומעבדים סיסטוליים. התחרות נועדה לחקור את הארכיטקטורה האופטימלית של דגמי לשון, כשהם משתמשים במעבדי AI ייעודיים."
+  },
+  {
+    "id": "e2133f1b937290ca",
+    "title_original": "What building an AI-native finance function taught me",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-10T17:00:00+00:00",
+    "fetched_at": "2026-08-11T05:15:26.599851+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What building an AI-native finance function taught me",
+    "summary_he": "בניית תפקיד תקציבי AI-נative חידדה בפניי את החשיבות של ראיה מיידית לעסקים. זה לא רק סגירת ספרי החשבון במהירות, אלא גם כדי לעזור למנהלים לפעול במהירות ולתת לצוותי התקציב יותר זמן ליצור את העתיד.",
+    "details_he": "בעת שהצטרפתי ל-OpenAI שנתיים לפני כן, הייתה צוות תקציבי קטן התומך בחברה הגדלה במהירות יוצאת דופן. היינו צריכים לבנות את התפקיד מהרקע ולהפוך את AI לבסיסי לאופן שבו אנחנו עובדים, מחליטים ותומכים בעסק. היינו צריכים לבנות את התפקיד מהרקע, מאחר שסגירת הספרים ועדכון הצפיות עדיין כללו עבודה ידנית וחוזרת: חיפוש מידע, הסברת מה שהשתנה, ואיסוף הנתונים להחלטה. היינו צריכים לבנות את התפקיד מהרקע, מאחר שהיינו צריכים לבנות את התפקיד מהרקע. "
+  },
+  {
+    "id": "702b1552916374bb",
+    "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-10T16:25:36+00:00",
+    "fetched_at": "2026-08-11T05:15:28.241908+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "summary_he": "NVIDIA Magpie TTS הציגה גרסה חדשה של טקסט-לדבר, שמאפשרת תקשורת קולית ב-12 שפות, כולל ערבית, קוריאנית ופורטוגזית. זה מאפשר לפיתוחי תקשורת קולית להגביר את הביצועים ולאפשר תקשורת קולית טבעית בשפות שונות.",
+    "details_he": "NVIDIA Magpie TTS היא טקסט-לדבר שנבנתה עם גרפים פתוחים, ומאפשרת לפיתוחי תקשורת קולית לשלוט באופן מלא בהפעלתה. זה מאפשר להגביר את הביצועים, לאפשר תקשורת קולית טבעית בשפות שונות ולהפעיל את המודל על תשתיות שבבעלותם. הגרסה החדשה של Magpie TTS כוללת 12 שפות, כולל ערבית, קוריאנית ופורטוגזית, ומאפשרת לפיתוחי תקשורת קולית להגביר את הביצועים ולאפשר תקשורת קולית טבעית בשפות שונות."
+  },
+  {
+    "id": "7bd78a94a5a9ed0e",
+    "title_original": "Evolve your marketing with new AI tools",
+    "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+    "description": "Advisor UI in Google Ads and Google Analytics",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-08-10T14:30:00+00:00",
+    "fetched_at": "2026-08-11T05:15:27.453819+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Evolve your marketing with new AI tools",
+    "summary_he": "Google is expanding its marketing platforms with new AI tools to simplify workflow and accelerate business growth. The tools include AI-powered summaries, visual reports, and performance benchmarking. These features aim to help marketers make better decisions and stay ahead of the competition.",
+    "details_he": "Google is introducing new artificial intelligence capabilities across Google Ads and Google Analytics to enhance marketing expertise and speed up decision-making. The new features include AI-powered summaries on homepages, visual reports generated with simple text prompts, and performance benchmarking against similar businesses. This is part of Google's effort to provide marketers with the tools they need to stay competitive and drive growth. The new AI tools are designed to help marketers turn complex data into actionable insights and make informed decisions without getting lost in the numbers."
+  },
+  {
+    "id": "395d46dd66956d99",
+    "title_original": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "description": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-10T14:00:00+00:00",
+    "fetched_at": "2026-08-11T05:15:26.599851+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "summary_he": "OpenAI הגישה מכתב למושל טקסס, גרג אבוט, ובו הביעה את נכונותה לפתח תשתיות AI אחראיות במדינה. OpenAI רוצה לעבוד עם מנהיגים, עסקים וקהילות כדי להבטיח שהתשתיות AI יספקו תועלות משמעותיות לתושבי טקסס.",
+    "details_he": "OpenAI פרסמה מכתב למושל טקסס, גרג אבוט, ובו הביעה את נכונותה לפתח תשתיות AI אחראיות במדינה. OpenAI רוצה לעבוד עם מנהיגים, עסקים וקהילות כדי להבטיח שהתשתיות AI יספקו תועלות משמעותיות לתושבי טקסס. זה חלק ממאמציה של OpenAI לפתח תשתיות AI אחראיות ובטוחות. OpenAI רוצה להבטיח שהתשתיות AI יספקו תועלות לתושבי טקסס ולא יגרמו נזק."
+  },
+  {
+    "id": "41dc3137c8bb14b0",
+    "title_original": "The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications",
+    "url": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/",
+    "description": "Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution.The postThe Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communicationsappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-08-10T22:00:02+00:00",
+    "fetched_at": "2026-08-11T05:15:36.311996+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications",
+    "summary_he": "Aeternum, a C++ botnet loader, has been discovered to use the Polygon blockchain for command-and-control operations, making it a highly resilient and low-cost threat. This shift to blockchain-based operations complicates existing law enforcement takedown methods. The Aeternum botnet uses various evasion techniques to operate effectively.",
+    "details_he": "Aeternum's use of the Polygon blockchain for C2 operations allows threat actors to write encrypted and plaintext instructions directly using smart contracts. Infected devices continuously query public RPC endpoints to retrieve and execute these on-chain commands. The Aeternum botnet also employs decentralized networks and evasion techniques, such as virtual machine detection and antivirus scanning, to evade detection. This combination of factors makes Aeternum a highly resilient and low-cost threat that complicates existing law enforcement takedown methods. Palo Alto Networks customers are better protected from the threats discussed in this article through various products and services, including Advanced WildFire, Advanced URL Filtering, and Advanced DNS Security."
+  },
+  {
+    "id": "bdc2018472c56973",
+    "title_original": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
+    "description": "Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise.The postMicrosoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterpriseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-08-10T16:00:00+00:00",
+    "fetched_at": "2026-08-11T05:15:34.253351+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
+    "summary_he": "Microsoft נכללה ברשימת המובילים ב-2026 IDC MarketScape לשירותי MDR, והיא משלבת חוכמה אנושית, תגובות אי ומומחיות ב-Microsoft Defender Experts MDR.",
+    "details_he": "Microsoft קיבלה את התואר 'מוביל' ב-2026 IDC MarketScape לשירותי MDR/MXDR לעסקים. שירות Microsoft Defender Experts MDR משלב חוכמה אנושית, תגובות אי ומומחיות. השירות מסייע לארגונים להגן על עצמם מפני פגיעות סייבר. הזכייה ב-IDC MarketScape מעידה על יכולתה של Microsoft להציע שירותי MDR/MXDR יעילים."
+  },
+  {
+    "id": "fbf045be88ac3955",
+    "title_original": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
+    "description": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims.The postDeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructureappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-08-10T15:00:00+00:00",
+    "fetched_at": "2026-08-11T05:15:34.253351+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+    "summary_he": "Microsoft Threat Intelligence חקרה את DeadLock ransomware, פעילות כלכלית שנועדה להשתלט על נתונים, שהבחינה בשימוש במבנה רב-משתתפים לתמיכה בשיחות עם קורבנות, משא ומתן והפצת נתונים, יחד עם טקטיקות של כפייה כפולה.",
+    "details_he": "DeadLock ransomware, פעילות כלכלית, נבדקה על ידי Microsoft Threat Intelligence. היא מסתמכת על מבנה רב-משתתפים לתמיכה בשיחות עם קורבנות, משא ומתן והפצת נתונים. DeadLock ransomware גם משתמשת בטקטיקות של כפייה כפולה, כדי ללחוץ על קורבנות."
+  },
+  {
+    "id": "28d760ff533b2cf3",
+    "title_original": "10th August – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 10th August, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES North Carolina Ports, the US authority operating the ports of Wilmington, Morehead City and others, has suffered a cyberattack that forced some operations onto manual processes. The authority claims it has contained […]The post10th August – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-10T13:53:22+00:00",
+    "fetched_at": "2026-08-11T05:15:41.729420+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "10th August – Threat Intelligence Report",
+    "summary_he": "בעקבות התקפת סייבר, רשות הנמלים של צפון קרוליינה, האחראית על הנמלים של וילמינגטון, מורהד סיטי ואחרים, נאלצה לעבור לתהליכים ידניים. הרשות טוענת כי היא עצרה את ההתקפה.",
+    "details_he": "התקפת הסייבר גרמה לרשות הנמלים של צפון קרוליינה לעבור לתהליכים ידניים, והיא טוענת כי היא עצרה את ההתקפה. רשות זו אחראית על נמלים רבים באזור. התקפה זו היא רק אחת מהתקפות הסייבר הרבות שהתרחשו בשבוע שעבר."
+  },
+  {
+    "id": "3ae6f965f6d95d8b",
+    "title_original": "Native AI Security Comes to Claude: Why Anthropic’s Inference Hooks Matter",
+    "url": "https://blog.checkpoint.com/ai-security/native-ai-security-comes-to-claude-why-anthropics-inference-hooks-matter/",
+    "description": "Anthropic’s new inference hooks give enterprises a native enforcement point before prompts ever reach the model. Combined with Check Point Workforce AI Security, organizations get a real-time allow-or-deny decision on every prompt, with no proxy in the path. Why This Matters Enterprise AI adoption has moved well past experimentation. Employees draft documents, write code, summarize meetings, and query enterprise knowledge through large language models every day. The challenge was never understanding that AI introduces risk. It was finding a practical enforcement point. Web gateways and Data Loss Prevention (DLP) tools were designed for websites and SaaS applications, not conversations with […]The postNative AI Security Comes to Claude: Why Anthropic’s Inference Hooks Matterappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-08-10T13:00:10+00:00",
+    "fetched_at": "2026-08-11T05:15:47.502026+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/native-ai-security-comes-to-claude-why-anthropics-inference-hooks-matter/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Native AI Security Comes to Claude: Why Anthropic’s Inference Hooks Matter",
+    "summary_he": "Anthropic's new inference hooks for Claude Enterprise allow organizations to enforce security decisions in real-time, without the need for proxies or additional infrastructure. This integration with Check Point Workforce AI Security provides a unified policy set for all AI tools, ensuring that every prompt and tool call is evaluated against existing DLP and attack protection rules.",
+    "details_he": "The challenge of securing AI adoption in enterprises has been finding a practical enforcement point. Traditional security tools, such as web gateways and Data Loss Prevention (DLP) tools, were designed for websites and SaaS applications, not conversations with AI models. Anthropic's inference hooks change this by providing a native enforcement point before prompts ever reach the model. This allows organizations to evaluate every prompt and tool call in real-time, making it easier to enforce security decisions and prevent potential risks. The integration with Check Point Workforce AI Security provides a seamless and efficient way to implement this security feature, with no need for additional infrastructure or proxies."
+  }
+]
