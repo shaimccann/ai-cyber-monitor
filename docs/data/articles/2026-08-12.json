@@ -1,0 +1,212 @@
+[
+  {
+    "id": "bd34c35683fd5359",
+    "title_original": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+    "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-12T00:38:21+00:00",
+    "fetched_at": "2026-08-12T05:41:53.335104+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "summary_he": "NVIDIA AI Factory Compute is shifting the way companies approach AI infrastructure, moving from project-by-project purchases to financing AI factories as productive infrastructure. This marks a significant milestone for NVIDIA and the AI industry, with the potential to mobilize over $500 billion in third-party capital.",
+    "details_he": "This new approach is made possible by partnerships with major financial institutions, including Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR, which will establish independent financing platforms for AI infrastructure. The NVIDIA AI factory platform is a complete solution, including accelerated computing, networking, systems software, AI frameworks, and a global developer ecosystem. This platform allows for the deployment of a wide range of AI models, modalities, and algorithms, making it a valuable asset for companies looking to create revenue through AI."
+  },
+  {
+    "id": "94220df5d5e6309c",
+    "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "description": "AMIE promotional video",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-08-11T17:00:00+00:00",
+    "fetched_at": "2026-08-12T05:41:51.720717+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "summary_he": "Google Research and Google DeepMind have advanced their medical AI system, AMIE, to conduct real-time clinical video consultations, showcasing expert-level AI capabilities in a first-of-its-kind study.",
+    "details_he": "The system, built on Gemini and Project Astra using a multi-agent architecture, interprets visual and auditory cues, guides virtual physical exams, and reasons diagnostically in real time. In a randomized study, clinical evaluators assessed AMIE favorably across core clinical competencies, including history-taking thoroughness, diagnostic accuracy, and communication quality. While AMIE remains a research system, this demonstration offers an exciting glimpse into the future of health AI, with potential for improved patient care and experiences."
+  },
+  {
+    "id": "5d59f421fed97af0",
+    "title_original": "A decade of mathematical certainty: Reflections on the Automated Reasoning Group",
+    "url": "https://www.amazon.science/blog/a-decade-of-mathematical-certainty-reflections-on-the-automated-reasoning-group",
+    "description": "Ten years after we founded the Automated Reasoning Group, mathematical logic has moved from academic research into production services that secure millions of customer workloads — demonstrating that systems can be provably correct, not just probably correct.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-08-11T16:22:19+00:00",
+    "fetched_at": "2026-08-12T05:41:53.562929+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/a-decade-of-mathematical-certainty-reflections-on-the-automated-reasoning-group"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A decade of mathematical certainty: Reflections on the Automated Reasoning Group",
+    "summary_he": "בעשור האחרון, קבוצת Automated Reasoning Group של אמזון הצליחה להפוך את המתמטיקה לבסיס לביטחון ואמינות של AWS, כאשר מערכות הפכו מחקר אקדמי לשירותי ייצור.",
+    "details_he": "בשנת 2016, קבוצת Automated Reasoning Group של אמזון הוקמה, והצליחה להפוך את המתמטיקה לבסיס לביטחון ואמינות של AWS. הקבוצה פיתחה כלים יסודיים כמו Tiros ו-Zelkova, שהתפתחו לשירותים קולינטיים, כולל IAM Access Analyzer, Amazon Inspector ו-Reachability Analyzer, שמשתמשים מיליונים רבים. הקבוצה הוכיחה את הנכונות של תשתיות AWS המקריטיות, כולל מנוע Nitro Isolation Engine, היצוגים קריפטוגרפיים ומנגנון האישור, שעובדים באמצעות וריפיקציה פורמלית ו-SMT solvers. הקבוצה גם פיתחה שירותים קולינטיים שעובדים בסקאלה של מיליארדי חיפושים יומיות."
+  },
+  {
+    "id": "15f53a35928c242e",
+    "title_original": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+    "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "description": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.The postIntroducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurementappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-08-11T16:00:00+00:00",
+    "fetched_at": "2026-08-12T05:41:52.237289+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+    "summary_he": "מודל CARE-X, המכונה CARE-X, הוא מודל מחקרי שמטרתו לפתח רכיבי ראייה-לשון (VLM) לפינוי רנטגן-שדרה (Chest X-ray) שיכולים לספק תיאורים טקסטואליים וסקירות מדעיות מדויקות.",
+    "details_he": "מודל CARE-X פותח כדי לחקור איך גישה מאוחדת יכולה להתמודד עם דרישות שונות. המודל משלב יכולות יצירה וניבוי מבוסס-מבנה, אופטימיזציה מאולתרת-רפואית והסבר-כלי. המודל נבדק על נתוני רפואה ריאל-עולם מ-India, כולל תסמינים נדירים ב-ICU ותסמינים שנאשרו על ידי CT. המודל תוכנן לתמוך במגוון רחב של תפקודי רפואה-רנטגן, כולל יצירת תיאורים פרטיים וסקירות קצרות, תשובות לשאלות על נוכחות, היעדרות או מיקום של תסמין, זיהוי של כלי-רפואה ובדיקת מיקום של תסמין."
+  },
+  {
+    "id": "91618f36a69031e4",
+    "title_original": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+    "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+    "description": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU.  In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-11T15:00:06+00:00",
+    "fetched_at": "2026-08-12T05:41:53.335104+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+    "summary_he": "הגברת ביצועי המחשוב המואץ של AI דורשת תקבולי חשמלי חדש, שיאפשר תפוקה גבוהה יותר, צפיפות גבוהה יותר והפצה יעילה יותר של כוח. ",
+    "details_he": "הבעיה אינה רק בכוח, אלא בדרך בה הכוח נשלח מהרשת ל- GPU. 800VDC מפשטת את הדרך.  על ידי הפצת כוח בזרם ישיר (DC) בזרם גבוה, פחות צינורות הסוואה עומדים בדרך בין הרשת למאיץ, כלומר, יותר מהכוח הזמין מגיע למחשוב.  NVIDIA DSX מעצבי תקבולי מדריך את תעשיות ה-AI דרך המעבר מהתשתית ה-AC המסורתית דרך ארכיטקטורות חיברידיות לתשתיות יצירתיות 800VDC.  NVIDIA, Google ו-Microsoft פיתחו את הארכיטקטורה 800VDC יחד דרך פרויקט OCP, ופרסמו נייר עקרונות משותף במרץ 2026 והספירציפיקציה LVDC Solid-State Transformer v0.3 ביולי 2026.  יותר מ-80 יצרני ציוד וחברות תשתית כבר בונים מוצרים לפי הספירציפיקציה הזאת."
+  },
+  {
+    "id": "3e57b362baca84cc",
+    "title_original": "Shattering the Dream – When a Job Offer Becomes a Zero-Day Attack",
+    "url": "https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/",
+    "description": "Key Points Introduction Since early 2026, Check Point Research has tracked a wave of the Operation Dream Job campaign. This wave primarily targeted the defense sector worldwide, with a particular emphasis on companies operating in the aerospace and aviation industries. We observed the threat actor distributing modified PDF viewers designed to execute malicious payloads embedded within specially […]The postShattering the Dream – When a Job Offer Becomes a Zero-Day Attackappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-11T17:30:00+00:00",
+    "fetched_at": "2026-08-12T05:42:02.910402+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Shattering the Dream – When a Job Offer Becomes a Zero-Day Attack",
+    "summary_he": "Check Point Research חשף קמפיין חדש של Operation Dream Job, המטרה העיקרית שלו היא חברות בתעשיית ההגנה, התעופה והחלל. הקמפיין כולל תקיפה דיגיטלית של PDF והפצת תוכנת זיהוי פולימורפי.",
+    "details_he": "Check Point Research חשף קמפיין חדש של Operation Dream Job, המטרה העיקרית שלו היא חברות בתעשיית ההגנה, התעופה והחלל. הקמפיין כולל תקיפה דיגיטלית של PDF והפצת תוכנת זיהוי פולימורפי. התקיפה כוללת שימוש באתרי אימפרסיה ואופטימיזציה של מנועי חיפוש כדי להפיץ את התוכנה. הקמפיין החדש כולל טכניקות חדשות, כולל שימוש ב-Roundcube ו-WordPress כדי להפיץ את התוכנה. התקיפה כוללת גם שימוש ב-RelayShell, תוכנת webshell חדשה שמשמשת כנקודת ריליי. הקמפיין נמשך כבר מאז 2026 וכלל תקיפה של חברות בתעשיית ההגנה, התעופה והחלל."
+  },
+  {
+    "id": "022fb089fd3862c0",
+    "title_original": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+    "url": "https://blog.checkpoint.com/research/state-sponsored-hackers-use-fake-job-offers-to-deliver-new-zero-day-exploit/",
+    "description": "It typically begins the same way it has for years, with an approach from a recruiter offering a role at a company the target would recognize, accompanied by a PDF describing the position in convincing detail. That approach remains one of the most effective entry points used by state sponsored threat actors today, and Check Point Research has spent recent months tracking a new wave of it. Operation Dream Job, the long running campaign attributed to the North Korea affiliated Lazarus group, has resurfaced with a previously undisclosed Windows vulnerability (CVE-2026-68820), a newly identified backdoor, and a command and control […]The postState Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploitappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-11T17:20:29+00:00",
+    "fetched_at": "2026-08-12T05:42:08.324572+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/state-sponsored-hackers-use-fake-job-offers-to-deliver-new-zero-day-exploit/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+    "summary_he": "חברות רב-לאומיות נתקלות בהתקפות סייבר של סוכני ריגול, שמשתמשים באפשרות להציע עבודה כדי להגיע למערכות המחשב של הארגונים. ההתקפות נעשות על ידי קבוצת Lazarus, שנחשדה בקשר לקוריאה הצפונית.",
+    "details_he": "במהלך שנת 2026, חברת Check Point Research גילתה קמפיין סייבר חדש של קבוצת Lazarus, שמשתמשים באפשרות להציע עבודה כדי להגיע למערכות המחשב של הארגונים. הקמפיין, הנקרא Operation Dream Job, כולל שימוש בחולשה חדשה במערכת Windows (CVE-2026-68820) ובפתח חדש, שמאפשר לתוקפים להשיג שליטה מלאה במחשבים הנגועים. התוקפים גם משתמשים באתרי אינטרנט ובשרתי אימייל חברתיים קומפרומיזד, כדי לשלוח פישינג לקורבנות חדשים. הקמפיין נמשך כבר שנים רבות, והוא נחשב לאחד המוצלחים ביותר של קבוצת Lazarus."
+  },
+  {
+    "id": "a6369660f153c674",
+    "title_original": "Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to deliver PhantomCore and PhantomGraph to video conference participants",
+    "url": "https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/",
+    "description": "Kaspersky experts have discovered malicious TrueConf software installers. The Head Mare APT group uses them to deliver the PhantomCore and PhantomGraph backdoors to target systems by exploiting vulnerabilities in an unpatched TrueConf server.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-08-11T12:00:55+00:00",
+    "fetched_at": "2026-08-12T05:42:01.175654+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to deliver PhantomCore and PhantomGraph to video conference participants",
+    "summary_he": "Kaspersky experts have discovered malicious TrueConf software installers. The Head Mare APT group uses them to deliver the PhantomCore and PhantomGraph backdoors to target systems by exploiting vulnerabilities in an unpatched TrueConf server.",
+    "details_he": ""
+  },
+  {
+    "id": "164fb50b2bc740db",
+    "title_original": "Project CAV3RN continues: Google Apps Script as C2 relay and DNS-based C2 channel selection",
+    "url": "https://securelist.com/project-cav3rn-continues/120991/",
+    "description": "Project CAV3RN targets Israel with Google Apps Script C2 relays and DNS-based routing. Modular .NET NativeAOT framework blends C2 traffic with legitimate Google services to evade detection.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-08-11T10:00:19+00:00",
+    "fetched_at": "2026-08-12T05:42:01.175654+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/project-cav3rn-continues/120991/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Project CAV3RN continues: Google Apps Script as C2 relay and DNS-based C2 channel selection",
+    "summary_he": "חברת Google Apps Script הושם לשימוש כקנל C2 והסלקטור C2 DNS מבוסס DNS A-record נמצאו כחלק ממסגרת הפרדוקס CAV3RN, שהיא פלטפורמת ספיון מודולרי שנעשה בה שימוש נגד מטרות בישראל.",
+    "details_he": "במסגרת הפרדוקס CAV3RN, שהושם לשימוש נגד מטרות בישראל, נמצאו שני חלקים חדשים: קנל C2 Google Apps Script וסלקטור C2 DNS. הסלקטור C2 DNS משתמש ב-DNS A-record כדי לבחור בין קנל HTTPS ישיר לבין קנל Google Apps Script. נמצא גם פרוטוקול קומוניקציה C2 מורכב שמשתמש ב-DLL 64-ביטי שנקרא GoogleService.dll. ה-DLL משתמש ב- Microsoft .NET 8 NativeAOT ומכיל פונקציות כגון GroupByCategory, CheckAvailability, IsPrimeNumber ו-OrderByDate. ה-DLL גם נמצא קשור ל-8 קובצי מקור, כולל Direct.cs, FindMode.cs ו-Google.cs."
+  },
+  {
+    "id": "1c1bb9c7f5921a3a",
+    "title_original": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
+    "url": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
+    "description": "Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing.The postKimwolf v7: An Evolution of the Kimwolf Botnetappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-08-11T10:00:16+00:00",
+    "fetched_at": "2026-08-12T05:42:01.015511+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
+    "summary_he": "אנחנו חשפים גרסה חדשה של הבוטנט Kimwolf, שמסוגלת לבצע התקפות DDoS ולשפר את יכולת ההתגובה שלה. הבוטנט פוגע במכשירי Android TV ובקורת-טלוויזיה.",
+    "details_he": "הגרסה החדשה של Kimwolf, v7, כוללת תכונות חדשות של DDoS ושל יכולת התגובה שלה. היא יכולה לבצע התקפות DDoS על ידי שימוש ב-HTTP/2 ולבנות תווי זהות של דפדפן. זה עוזר להתקפה להיראות כמו תעבורה רגילה. הבוטנט גם כולל נקודות גישה Ethereum ו-Tor, שמאפשרות לו לשפר את יכולת ההתגובה שלו. הבוטנט נכתב כדי לפגוע במכשירי Android TV ובקורת-טלוויזיה."
+  }
+]
