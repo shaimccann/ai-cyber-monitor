@@ -1,17 +1,10 @@
 {
-  "timestamp": "2026-08-12T05:42:15.774960+00:00",
-  "errors": [
-    {
-      "title": "Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to d",
-      "error": "JSON parse error: Expecting ',' delimiter: line 4 column 28 (char 1115)",
-      "summary_preview": "",
-      "has_details": false
-    }
-  ],
+  "timestamp": "2026-08-13T05:45:19.067518+00:00",
+  "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
-  "success": 9,
-  "fallback": 1,
-  "total_scanned": 103,
+  "success": 10,
+  "fallback": 0,
+  "total_scanned": 87,
   "selected": 10
 }

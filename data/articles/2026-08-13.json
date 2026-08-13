@@ -1,0 +1,212 @@
+[
+  {
+    "id": "290a4b784cb716e4",
+    "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-12T16:14:36+00:00",
+    "fetched_at": "2026-08-13T05:44:41.695194+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "summary_he": "OlmoEarth Studio, a platform for building Earth observation models, has introduced custom embedding exports for downstream analysis. These embeddings are compact numerical representations of Earth-observation data that can be used for various tasks such as similarity search, segmentation, and unsupervised exploration.",
+    "details_he": "The custom embedding exports are generated using the open-source OlmoEarth foundation models, and the source code and model weights are publicly available. This allows the community to inspect exactly how these embeddings are generated. The exported Cloud-Optimized GeoTIFFs (COGs) are lightweight and easy to share, and can be used for various applications. Users can choose their area of interest, time range, encoder variant, resolution, and imagery sources via the Studio UI or API, and get back a COG that can be used however they like. Additionally, Studio supports supervised fine-tuning (SFT) for applications that require higher performance."
+  },
+  {
+    "id": "7ffbdd5f0e667d3f",
+    "title_original": "MindTopo reveals VLMs’ spatial reasoning abilities",
+    "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "description": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.The postMindTopo reveals VLMs’ spatial reasoning abilitiesappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-08-12T16:00:00+00:00",
+    "fetched_at": "2026-08-13T05:44:39.667766+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "MindTopo reveals VLMs’ spatial reasoning abilities",
+    "summary_he": "MindTopo, a new benchmark, reveals that current multimodal models struggle to maintain a consistent understanding of topology over time, particularly when it comes to interactive tasks.",
+    "details_he": "MindTopo evaluates topological reasoning in AI by testing concepts such as connectivity, enclosure, order, separation, and knots. The benchmark measures both reasoning and planning, and current models perform much better on static recognition than interactive tasks. Failures often emerge during planning rather than perception, with models losing track of structural relationships as scenes change or proposing actions that violate physical constraints. The findings highlight an important opportunity to advance AI systems for robotics and interactive environments, where understanding topological properties is essential for reliable decision-making."
+  },
+  {
+    "id": "6d4ad8aaae05ef00",
+    "title_original": "Putting sign language AI into users’ hands",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-08-12T14:01:59+00:00",
+    "fetched_at": "2026-08-13T05:44:38.674636+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Putting sign language AI into users’ hands",
+    "summary_he": "Google DeepMind השיקה דגם חדש של SL2T, שמאפשר תרגום שפות חתומות לטקסט. זה יאפשר למשתמשים חתומים לשלוח הודעות, לחפש באינטרנט ולבצע משימות נוספות.",
+    "details_he": "הדגם החדש של SL2T, שפותח על ידי Google DeepMind, מאפשר תרגום שפות חתומות לטקסט באיכות גבוהה ובאופן כללי. זה יאפשר למשתמשים חתומים לשלוח הודעות, לחפש באינטרנט, לבצע משימות נוספות ולתקשר עם חבריהם בצורה יעילה. הדגם יפועל בעוד כמה חודשים, ויכלול תמיכה בשפות חתומות נוספות."
+  },
+  {
+    "id": "7134a6686f10e3bf",
+    "title_original": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-12T14:00:51+00:00",
+    "fetched_at": "2026-08-13T05:44:41.695194+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "summary_he": "LiquidAI הכריזה על LFM2.5-VL-3B, מודל יישומי לשפה וראייה שמסוגל לבצע תפקודים חזקים ומהירים. המודל יכול להבין תמונות, טקסט וסקרינס, ומסוגל לבצע פעולות כגון זיהוי עצמים, וקריאת תוכן.",
+    "details_he": "LFM2.5-VL-3B הוכשר באמצעות תהליך של שיקול דעת סופרוויזד, עם חיקוי של רב-מודל גדול יותר ואימון על ידי Antidoom. המודל גם עבר תהליך של למידה עצמית תחת פרסומים מרובים. LFM2.5-VL-3B נבחן על ידי LiquidAI על ידי שלושה קבוצות ניסוי: תפקודי ראייה, תפקודי טקסט, ותפקודי מודל. המודל הציג תוצאות טובות בכל שלוש הקבוצות, והפגין יכולת של 63.3% בתפקודי MMStar, 73.1% בתפקודי MME, ו-77.7% בתפקודי SEED-Bench."
+  },
+  {
+    "id": "700847296a1f07ac",
+    "title_original": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+    "description": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-12T14:00:00+00:00",
+    "fetched_at": "2026-08-13T05:44:42.115243+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+    "summary_he": "NVIDIA's CEO, Jensen Huang, הוגדר כאחד המנהלים הטובים ביותר בעולם, על פי דירוג של Glassdoor, עם 99% מהעובדים שמאשרים את תפקידו.",
+    "details_he": "Glassdoor, חברה המציעה שירותי חיפוש עבודה, חזרה לדירוג המנהלים הטובים ביותר, לאחר הפסקה של חמש שנים. הדירוג נערך על סמך דירוגי עובדים, ומטרתו היא להעניק כבוד למנהלים שמצליחים ליצור תרבות תומכת ואותנטית בחברות. NVIDIA, חברה העוסקת בטכנולוגיית AI, דורגה כחברה הטובה ביותר לעבודה בתחום הטכנולוגיה, ו-28 מהמנהלים שדורגו כמנהלים הטובים ביותר, גם דורגו כחברות הטובות ביותר לעבודה."
+  },
+  {
+    "id": "06528d87d3e43d33",
+    "title_original": "July 2026 Cyber Threats Surge: Ransomware Attacks Double Year over Year as GenAI Data Exposure Widens",
+    "url": "https://blog.checkpoint.com/security/july-2026-cyber-threats-surge-ransomware-attacks-double-year-over-year-as-genai-data-exposure-widens/",
+    "description": "Key takeaways Weekly cyber attacks reached 2,336 per organization in July 2026, up 3% from June and 16% year over year Education remained the most attacked industry, averaging 4,848 weekly attacks per organization Latin America recorded the highest regional attack volume, while Europe saw one of the sharpest increases at 18% year over year GenAI adoption continued to expand, with organizations using an average of 8 tools and 1 in 36 prompts carrying a high risk of sensitive data exposure Email remained a key entry point, with 1 in every 128 emails classified as phishing and another 20% falling into […]The postJuly 2026 Cyber Threats Surge: Ransomware Attacks Double Year over Year as GenAI Data Exposure Widensappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "ai",
+    "published": "2026-08-12T13:00:52+00:00",
+    "fetched_at": "2026-08-13T05:45:11.065813+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/july-2026-cyber-threats-surge-ransomware-attacks-double-year-over-year-as-genai-data-exposure-widens/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "July 2026 Cyber Threats Surge: Ransomware Attacks Double Year over Year as GenAI Data Exposure Widens",
+    "summary_he": "Ransomware attacks surged in July 2026, with 964 reported victims, a 49% increase from June and 87% year over year, as global cyber attacks continued to rise and GenAI adoption expanded, exposing sensitive data.",
+    "details_he": "The global attack curve continued upward in July, with organizations facing an average of 2,336 weekly cyber attacks, up 3% from June and 16% from July 2025. Education remained the most targeted sector, averaging 4,848 weekly attacks per organization, up 14% year over year. GenAI risk is becoming a daily business issue, with 1 in every 36 prompts from enterprise networks carrying a high risk of sensitive data leakage and 88% of regular GenAI-using organizations affected by high-risk prompt activity."
+  },
+  {
+    "id": "166282c28590ec85",
+    "title_original": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+    "url": "https://isc.sans.edu/diary/rss/33244",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-08-13T02:00:03+00:00",
+    "fetched_at": "2026-08-13T05:44:49.006125+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33244"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+    "summary_he": "SANS Internet Storm Center released its weekly podcast for Thursday, August 13th, 2026, providing insights and updates on the latest cybersecurity threats and trends.",
+    "details_he": "The podcast, ISC Stormcast, is a weekly series that covers various cybersecurity topics, including vulnerabilities, malware, and emerging threats. The series is available on the SANS Internet Storm Center website and is released every Thursday. The podcast is a valuable resource for cybersecurity professionals and enthusiasts looking to stay up-to-date on the latest developments in the field."
+  },
+  {
+    "id": "5c77a34207c346c9",
+    "title_original": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
+    "url": "https://isc.sans.edu/diary/rss/33242",
+    "description": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be considered useful about the activity my DShield sensor is collecting and tracking. The model I use for this testing is gemma4:e4b [2] using two sites to compare the data againstVirusTotalandCyberGordon.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-08-13T01:26:53+00:00",
+    "fetched_at": "2026-08-13T05:44:49.006125+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33242"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
+    "summary_he": "A cybersecurity analyst used Gemma4, a Large Language Model, to analyze malware hashes uploaded to a DShield sensor over 30 days. The analysis aimed to determine the usefulness of Gemma4's recommendations in preventing actors from compromising the sensor. The results highlighted a high volume of suspicious hashes and potential indicators of compromise.",
+    "details_he": "The analyst used Gemma4 to analyze 126,110 malware hashes uploaded to the DShield sensor over 30 days. The analysis compared the data against VirusTotal and CyberGordon, two external websites. The results showed that the sheer volume of hashes is a major concern, indicating successful actor persistence and data exfiltration attempts. The analysis also identified potential indicators of compromise, including persistence, command and control communication, and lateral movement/exfiltration. The results suggested that VirusTotal is superior for immediate threat context, while CyberGordon offers supporting research."
+  },
+  {
+    "id": "5c6c0bc17e442a78",
+    "title_original": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+    "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+    "description": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.\n\nThe activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-08-12T23:09:27+05:30",
+    "fetched_at": "2026-08-13T05:44:47.199417+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+    "summary_he": "Lazarus Group, a North Korean threat actor, has been linked to a zero-day exploitation of a Windows vulnerability to gain SYSTEM access and deploy a backdoor. This attack is part of Operation Dream Job, a long-running cyber espionage campaign targeting defense and aerospace companies worldwide. The group uses fake job offers on platforms like LinkedIn to trick victims into installing malware.",
+    "details_he": "The vulnerability exploited by Lazarus Group is CVE-2026-68820, a privilege escalation flaw affecting Windows Ancillary Function Driver for WinSock. This flaw was patched by Microsoft as part of its August 2026 Patch Tuesday updates. The group's tactics include using trojanized PDF viewers and DLL side-loading to deliver malware and gain remote access to compromised machines. The backdoor, called Troy, supports 17 operator commands for file enumeration, upload, and exfiltration."
+  },
+  {
+    "id": "5218535b227a063e",
+    "title_original": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
+    "description": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-08-12T21:08:54+00:00",
+    "fetched_at": "2026-08-13T05:44:47.491034+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+    "summary_he": "תוקפי סייבר חסרי זהות פעלו למעלה משנה, תוך שהם משתמשים בכלי נושאי גוסט חדשים כדי לגנוב נתונים מאתרי Salesforce ו-ServiceNow.",
+    "details_he": "התוקפים, שהם חסרי זהות, פעלו תחת השם \"City-Forum\" והם נראים כמי שביצעו מחקר נרחב על שני הפלטפורמות. הם חקרו את Salesforce ו-ServiceNow, והם פיתחו כלי נושאי גוסט חדשים שאפשרו להם לגנוב נתונים. הם פעלו נגד ארגונים שונים, כולל חברות טלקומוניקציה, שירותי כספים, תוכנה לעסקים, חברות ביטחון ונתונים, ואתרי פורטלים של הרשויות. הם גנבו נתונים, כולל נתוני חשבון, מידע על קשרים, ראשי פרויקטים, משתמשים, וקבצי תיעוד. הם גם גנבו ידע וקטלוגים מ-ServiceNow."
+  }
+]
