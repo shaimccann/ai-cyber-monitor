@@ -1,0 +1,212 @@
+[
+  {
+    "id": "bee3429271775ba1",
+    "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-13T17:16:04+00:00",
+    "fetched_at": "2026-08-14T05:41:51.306054+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "summary_he": "Strands Agents, LeRobot, ו-Hugging Face Storage Buckets מאפשרים תיעוד, אימון, והפצה ממקום אחד. הפתרון נועד לקבץ סדרות, אימון, והפצה של פוליסיות על ידי רובוטים.",
+    "details_he": "Strands Agents, LeRobot, ו-Hugging Face Storage Buckets הם פתרון שמאפשר תיעוד, אימון, והפצה של פוליסיות על ידי רובוטים. הפתרון משתמש ב-Hugging Face Storage Buckets, סימולציות, ו- LeRobot, כדי לאפשר תיעוד, אימון, והפצה של פוליסיות. הפתרון נועד לקבץ סדרות, אימון, והפצה של פוליסיות על ידי רובוטים. הפתרון כולל תיעוד, אימון, והפצה של פוליסיות על ידי רובוטים, ומשתמש ב-Hugging Face Storage Buckets, סימולציות, ו- LeRobot. הפתרון נועד להקל על תהליך הפיתוח של פוליסיות על ידי רובוטים."
+  },
+  {
+    "id": "7cb9f820035c3387",
+    "title_original": "Introducing Gemini 3.7 Flash",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-08-13T17:04:18+00:00",
+    "fetched_at": "2026-08-14T05:41:50.044515+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Gemini 3.7 Flash",
+    "summary_he": "Gemini 3.7 Flash הוא גרסה חדשה של Gemini שמציעה יכולות מתקדמות בתחומי תכנות, עבודה ידעית ופיתוח וברירת מחדל. הגרסה החדשה כוללת שיפורים ניכרים בעבודות תכנות, ידע ופיתוח וברירת מחדל.",
+    "details_he": "Gemini 3.7 Flash היא גרסה חדשה של Gemini שמציעה יכולות מתקדמות בתחומי תכנות, עבודה ידעית ופיתוח. הגרסה החדשה כוללת שיפורים ניכרים בעבודות תכנות, ידע ופיתוח. כך, גרסה זו מציעה תכונות חדשות, כמו יכולות תכנות, ידע ופיתוח. כן, גרסה זו כוללת שיפורים ניכרים בעבודות תכנות, ידע ופיתוח. הגרסה החדשה גם כוללת שיפורים בתכונות כמו יכולות תכנות, ידע ופיתוח."
+  },
+  {
+    "id": "fad19bc775353b56",
+    "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "description": "The video shows Sheets canvas in action.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-08-13T16:45:00+00:00",
+    "fetched_at": "2026-08-14T05:41:50.313161+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bring your spreadsheet data to life with Sheets canvas",
+    "summary_he": "Google Sheets הציגה תכונה חדשה בשם Sheets canvas, המאפשרת להפוך נתונים מספריים לאפליקציות אינטראקטיביות ונושאי תמונה, ללא צורך בתכנות.",
+    "details_he": "Sheets canvas, המבוססת על טכנולוגיית AI, מאפשרת למשתמשים ליצור דפי תצוגה נושאי-תמונה, כגון עקבות לימוד, תוכניות כיתה, ועוד, על ידי פקודה טבעית. התכונה תאפשר למשתמשים להפוך את הנתונים שלהם לאפליקציות אינטראקטיביות, כמו עקבות לימוד, תוכניות כיתה, ועוד, ללא צורך בתכנות. Sheets canvas תאפשר גם למשתמשים לשתף את הדפים שלהם עם אחרים, כמו שהם עושים עם דפים רגולריים."
+  },
+  {
+    "id": "c757d42ba6cb3d5e",
+    "title_original": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+    "description": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-13T13:00:33+00:00",
+    "fetched_at": "2026-08-14T05:41:51.614554+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+    "summary_he": "GeForce NOW, שירות המשחקים בענן, חוגג עלייה לדרגה חדשה, כשהוא משפר את התמיכה בלינוקס ובכרומובוקס, ומציע תכונות חדשות לחברי Performance.",
+    "details_he": "GeForce NOW, שירות המשחקים בענן, חוגג עלייה לדרגה חדשה, כשהוא משפר את התמיכה בלינוקס ובכרומובוקס. השירות הוסיף תכונות חדשות, כולל גרסה נטיבית של האפליקציה ללינוקס, שהופצה מחוץ לבטאה. GeForce NOW גם אופטימיזר את טכנולוגיית Frame Generation, כדי להפחית את העיכוב ולהפגין משחקים עם תגובה טובה יותר. חברי Performance יכולים לצפות לשיפורים בקצב הקפיצות במשחקים קשים, כדי להפגין חוויה משחקים טובה יותר. GeForce NOW גם מציע תכונות חדשות למשתמשי Chromebook, כולל גישה ליותר מ-2,000 משחקי PC, וגם חברי Performance יכולים לצפות לשיפורים בקצב הקפיצות במשחקים קשים."
+  },
+  {
+    "id": "99066bc4bf3c2588",
+    "title_original": "The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-13T11:00:00+00:00",
+    "fetched_at": "2026-08-14T05:41:49.456742+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The builder’s guide to GPT‑5.6",
+    "summary_he": "GPT-5.6 model family has improved price-performance ratio, allowing startups to build more capable agents at a lower cost. This is achieved through smarter model selection and new API controls, enabling faster and more efficient reasoning. Startups have reported significant cost improvements and better results in production testing.",
+    "details_he": "GPT-5.6 sets a new standard for price-performance by making frontier-level agent performance more affordable. The model family advances the frontier of what is possible by enabling startups to build faster and more capable agents at a fraction of the cost. Smarter model selection and new API controls, such as reasoning continuity, multi-agent orchestration, and programmatic tool calling, have contributed to this improvement. Startups like Hex, Hypha, Browser Use, and PlayerZero have reported significant cost improvements and better results in production testing, with some achieving up to 64% lower inference costs and 90% faster response times. The GPT-5.6 model family continues the trajectory of previous model generations, tackling longer-horizon tasks with fewer tokens and improving accuracy at lower reasoning efforts."
+  },
+  {
+    "id": "58d2e4bba39535b6",
+    "title_original": "How Cato AI Security Keeps Up With Claude",
+    "url": "https://www.catonetworks.com/blog/how-cato-ai-security-keeps-up-with-claude/",
+    "description": "Claude is moving quickly. Cato is innovating alongside it. With inference hooks, skills posture, and seamless deployment, teams can adopt new AI capabilities with security controls that are ready from day one. Claude’s rapid innovation is reshaping what everyday employees can do with AI. It is no longer just helping people write faster or summarize...The postHow Cato AI Security Keeps Up With Claudeappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-08-13T17:14:22+00:00",
+    "fetched_at": "2026-08-14T05:42:01.137226+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/how-cato-ai-security-keeps-up-with-claude/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Cato AI Security Keeps Up With Claude",
+    "summary_he": "Cato AI Security מספקת פתרון לבעיית הבטיחות של Claude, על ידי פיתוח תכונות של ניפוח סטטיסטי, כדי לספק תצפית ובקרה ישירה על הפעילות של Claude.",
+    "details_he": "Cato AI Security פיתחה תכונות של ניפוח סטטיסטי, המאפשרות להשגחה ובקרה ישירה על הפעילות של Claude, כולל ניפוח, תצפית ובקרה. תכונות אלה מאפשרות לצוותי בטיחות לספק תצפית, ליישם מדיניות ולשמור על תיעוד, תוך שמירת חוויה חסרת עיוות. תכונות אלה גם מאפשרות לצוותי בטיחות לשלוט ביכולות, ב-MCPs ובכלים שמעניקים לאג'נטים את היכולת לפעול."
+  },
+  {
+    "id": "d7cf701ddcfd0d45",
+    "title_original": "How to Investigate GitHub PAT Compromise: Lessons From a Multi-Organization Campaign",
+    "url": "https://www.wiz.io/blog/investigating-github-pat-compromise",
+    "description": "A practical playbook for investigating GitHub token compromise, drawn from Wiz CIRT's response to a coordinated multi-organization campaign.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-13T15:04:28+00:00",
+    "fetched_at": "2026-08-14T05:42:00.004680+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/investigating-github-pat-compromise"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to Investigate GitHub PAT Compromise: Lessons From a Multi-Organization Campaign",
+    "summary_he": "בעקבות קמפיין פשיסטי של פריצה ל-GitHub, חברות רבות נאלצו לחקור ולשפר את רמת הביטחון של PATs שלהן.",
+    "details_he": "הקמפיין, שהתרחש במהלך חודשי מאי ויוני 2026, היה פשיסטי וכלל פריצה למאות רפוזיטוריום, חקירה והעתקת קוד. הפריצה השתמשה ב-PATs תקינים של עובדים בחברות הנפגעות, ובעקבות זאת, חברות אלה נאלצו לחקור ולשפר את רמת הביטחון של PATs שלהן. חברות אלה יכולות לשפר את רמת הביטחון של PATs שלהן על ידי ניטור ופינוי PATs לא תקינים, וכן על ידי הגברת האבטחה של PATs על ידי הגבלת גישה ל-PATs."
+  },
+  {
+    "id": "12e38aecf7b209fe",
+    "title_original": "Closing the Blind Spot: Securing Personal Repositories in the Software Supply Chain",
+    "url": "https://www.wiz.io/blog/securing-personal-repositories",
+    "description": "Personal repositories are where corporate secrets quietly escape. Wiz correlates them to your developers, validates the real risk, and drives the fix.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-13T13:48:56+00:00",
+    "fetched_at": "2026-08-14T05:42:00.004680+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/securing-personal-repositories"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Closing the Blind Spot: Securing Personal Repositories in the Software Supply Chain",
+    "summary_he": "תפנית חדשה בביטחון ספלייסצ'יין: כיצד להגן על רפזיטוריות אישיות",
+    "details_he": "בעולם הפיתוח, עובדי טכנולוגיה לא עובדים על פי גבולות נקיים. הם עובדים על פרויקטים אישיים, פורקים וניסיונות, ולעיתים קרובות, הם עובדים תחת חשבון אישי. כאשר קוד או תוויות זהות נשלחים לרפזיטוריות אישיות, הם יוצרים חור שחור לסיכון, שהוא גדול יותר מאשר רוב הצוותים חושבים. חברת Wiz Research גילתה סודות חשאיים נשלחו ל-65% מהחברות ברשימת Forbes AI 50, ו-56% מהסודות החשאיים הקשורים לחברות חיו ברפזיטוריות אישיות של עובדים, שם רוב התוכניות לביטחון לא יכלו לגלות. Wiz עובד על סגירת זה החור השחור, על ידי קישור עובדים עם הרפזיטוריות האישיות שלהם, ועל ידי קביעת האם הסודות החשאיים שנשלחו הם חשופים לסיכון. במאמר זה, אנחנו נסביר את הסיבות לכך שזה הבעיה נמשכת, ואת הסיבות לכך שהסריקה המסורתית לא יכלה לסגור את החור השחור."
+  },
+  {
+    "id": "0959e5bfe18f22b4",
+    "title_original": "Ransomware Didn’t Slow Down in Q2 2026. It Just Spread Out.",
+    "url": "https://blog.checkpoint.com/security/ransomware-didnt-slow-down-in-q2-2026-it-just-spread-out/",
+    "description": "Ransomware kept its grip on organizations through the second quarter of 2026, and the headline number barely moved. What changed underneath that number is more interesting: new research gave us a rare look inside a top tier operation as it was being built, and it revealed just how little it now takes for a small and skilled group to reach the top of the field. Here’s what the quarter actually showed, and what it means for how you defend against it.  Key takeaways  Data leak sites recorded 2,139 ransomware victims in Q2 2026, essentially flat versus Q1 and up 33% […]The postRansomware Didn’t Slow Down in Q2 2026. It Just Spread Out.appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-13T13:00:42+00:00",
+    "fetched_at": "2026-08-14T05:42:05.222321+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/ransomware-didnt-slow-down-in-q2-2026-it-just-spread-out/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Ransomware Didn’t Slow Down in Q2 2026. It Just Spread Out.",
+    "summary_he": "Ransomware continued to plague organizations in Q2 2026, with a slight increase in victims compared to the previous year. However, the number of active groups surged, and the top 10 groups' control over victims decreased. This shift highlights the growing complexity of the ransomware landscape.",
+    "details_he": "The second quarter of 2026 saw a total of 2,139 ransomware victims, a 33% increase from the same period last year. Despite the top 10 groups controlling 57.6% of victims, the number of active groups jumped from 71 to 93, a new high. Leaked chat logs from The Gentlemen ransomware operation revealed a core team of nine people, aided by AI coding tools, built a top three global operation in a matter of months. This demonstrates the ease with which a small and skilled group can reach the top of the field. The use of AI coding tools has accelerated the development of ransomware tooling, making it more accessible to smaller groups. As a result, defending against ransomware requires a more comprehensive approach, treating initial access, exfiltration, and exposure reduction as equally urgent."
+  },
+  {
+    "id": "0e665457a77115b0",
+    "title_original": "The State of Ransomware Q2 2026",
+    "url": "https://research.checkpoint.com/2026/the-state-of-ransomware-q2-2026/",
+    "description": "For the past year, the ransomware conversation has centered on concentration: a handful of dominant RaaS operations controlling most of the damage, and a shrinking pool of active groups fighting over the same territory. The State of Ransomware Q2 2026 report from Check Point Research shows that picture starting to shift. The leaders are still winning, but […]The postThe State of Ransomware Q2 2026appeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-13T12:54:35+00:00",
+    "fetched_at": "2026-08-14T05:41:59.728484+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/the-state-of-ransomware-q2-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The State of Ransomware Q2 2026",
+    "summary_he": "Report from Check Point Research reveals a shift in the ransomware landscape, as dominant RaaS operations continue to lead but new groups are emerging with increased ease.",
+    "details_he": "The State of Ransomware Q2 2026 report highlights a change in the dynamics of the ransomware market, where a few dominant groups still hold the majority of the damage, but the barrier to entry for new groups has decreased. This development may indicate a more competitive and potentially unstable market. The report from Check Point Research provides a comprehensive analysis of the current state of ransomware, offering insights into the trends and patterns of the past quarter."
+  }
+]
