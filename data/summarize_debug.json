@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-14T05:42:10.910638+00:00",
+  "timestamp": "2026-08-15T04:38:49.128063+00:00",
   "errors": [],
   "api_test": "OK",
   "api_test_detail": "model=llama-3.1-8b-instant, response=OK",
   "success": 10,
   "fallback": 0,
-  "total_scanned": 88,
+  "total_scanned": 41,
   "selected": 10
 }

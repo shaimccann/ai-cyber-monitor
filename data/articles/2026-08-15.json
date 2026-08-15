@@ -1,0 +1,212 @@
+[
+  {
+    "id": "daefc321aa2d3a86",
+    "title_original": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+    "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+    "description": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-14T17:13:05+00:00",
+    "fetched_at": "2026-08-15T04:38:27.630382+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+    "summary_he": "Indonesia is taking a significant step towards developing its AI capabilities with the launch of the UGM Indosat NVIDIA AI Technology Center, a university-based AI center that aims to address the country's most pressing national priorities.",
+    "details_he": "The center, established under Indonesia's AI Center of Excellence initiative, brings together government, industry, and academia to develop AI solutions that benefit the country. Powered by NVIDIA's full-stack AI platform and Indosat's sovereign GPU-as-a-service platform, the center provides researchers and students with access to enterprise-grade accelerated computing, AI software, and technical mentorship. This initiative is part of Indonesia's long-term vision to position itself as a nation that develops and contributes AI innovations to the world, rather than just adopting them."
+  },
+  {
+    "id": "8d2947a1519e9035",
+    "title_original": "v2.1.233",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233",
+    "description": "What's changedAdded GitLab merge request URL support to the--worktreeflag and theclaude agentsview (where MRs display as!N)Added an opt-inforward_user_identityapps gateway setting on Anthropic upstreams that sends the signed-in user's identity as headers, so a proxy behind the gateway can attribute spend per userAdded opt-in memory cgroup support for Bash tool commands on Linux (CLAUDE_CODE_TOOL_MEMORY_LIMIT) so a runaway build can't stall the sessionAddedCLAUDE_CODE_WEBFETCH_CACHE_TTL_MSenvironment variable to configure the WebFetch session URL cache TTL (default unchanged: 15 minutes)Fixed cloud sessions occasionally being marked as lost when the environment shut down while Claude was waiting on a permission promptFixed MCP v2 connections endlessly reopening the subscriptions/listen stream against servers that terminate long-held streams on a fixed timeout (e.g. serverless hosts)Fixed Notification hooks not firing for permission prompts when running under Claude Desktop or VS CodeFix",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-08-14T22:20:57+00:00",
+    "fetched_at": "2026-08-15T04:38:48.152361+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.233",
+    "summary_he": "Anthropic's Claude AI platform has released a new update, v2.1.233, which includes several bug fixes and improvements to its functionality. The update addresses issues such as lost cloud sessions, notification hooks, and Windows path validation. It also adds new features like GitLab merge request URL support and opt-in memory cgroup support.",
+    "details_he": "The update includes a total of 14 fixes and improvements, with a focus on enhancing the stability and performance of the Claude platform. One of the notable changes is the addition of GitLab merge request URL support, which allows users to display merge requests as !N in the claude agents view. Additionally, the update includes opt-in memory cgroup support for Bash tool commands on Linux, which prevents runaway builds from stalling sessions. Other fixes include improvements to cloud sessions, notification hooks, and Windows path validation, as well as enhancements to the claude self-hosted-runner session start time and apps gateway error forwarding."
+  },
+  {
+    "id": "996ae8864fe7e02d",
+    "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+    "source_name": "Ars Technica (AI)",
+    "source_url": "https://arstechnica.com/ai/",
+    "category": "ai",
+    "published": "2026-08-14T17:26:53+00:00",
+    "fetched_at": "2026-08-15T04:38:28.560702+00:00",
+    "sources": [
+      {
+        "name": "Ars Technica (AI)",
+        "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "summary_he": "במסגרת תיק חוקי, אדם ניסה להשתמש בטכניקה של 'הזרקת פרמטרים' כדי לשכנע את בית המשפט, אך השיטה לא עבדה והוא נענש.",
+    "details_he": "בפסק דין שפורסם בשבוע שעבר, שופט במדינת קונטיקט, וולטר ספאדר ג'ר., אישר שהאדם, מתיו אליוט, ניסה להסתיר טקסט בתיקיו שרק מערכת חישובי אינטליגנציה יכולה לקרוא. השיטה, המכונה 'הזרקת פרמטרים', נועדה לשכנע את המערכת להציג תוצאות טקסטואליות שיתלו את טענותיו. השיטה לא עבדה, אך האדם נענש על כך שהמשיך להסתיר טקסט בתיקיו גם אחרי שהשופט הוריד עליו הוראה לכך."
+  },
+  {
+    "id": "d1479f2a0512702c",
+    "title_original": "Google will now allow users to remove visible watermark from its AI generations",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-08-14T16:13:40+00:00",
+    "fetched_at": "2026-08-15T04:38:28.847785+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google will now allow users to remove visible watermark from its AI generations",
+    "summary_he": "Google נותנת למשתמשים אפשרות להסיר את המים-די ויזואלי מהדורות ה- AI שלה, כולל תמונות, וידאו ושירים. החברה הצהירה שזה לא ישפיע על ה- SynthID הבלתי נראה והמטה-מדע C2PA.",
+    "details_he": "החברה הצהירה שהאפשרות תהיה זמינה עבור דגמי Nano Banana, Omni ו- Lyria. ישופר את ההגדרה בג'ימיני ובעורך הווידאו של Google, Flow, ותומך בחיפוש עד מהרה. Google גם פתחה את הספרייה Credentio, כדי לאפשר למפתחים להקים את המנגנון האתיקה המקומי באפליקציות שלהם."
+  },
+  {
+    "id": "24087e07f7856b2f",
+    "title_original": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-08-14T15:43:28+00:00",
+    "fetched_at": "2026-08-15T04:38:28.847785+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "summary_he": "Mark Zuckerberg recently released an open-weight AI model called Glimmer, which can be downloaded and run on personal hardware. However, this move raises questions about the sincerity of his claim that AI should be accessible to everyone, as it may be limited by technical and financial constraints.",
+    "details_he": "The release of Glimmer is seen as a contrast to Meta's more powerful AI model, Muse Spark, which remains locked behind the company's APIs. Zuckerberg's 6,500-word manifesto arguing for AI accessibility has been met with skepticism, with some questioning the feasibility of his vision. The true cost of the AI industry's energy needs and a recent $250M acquisition gone wrong are also discussed in the latest episode of TechCrunch's Equity podcast."
+  },
+  {
+    "id": "83ccdadce3303eb2",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 33",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-33-8/",
+    "description": "Courts sentence Com member for sextorting 117 minors, joint advisory warns of Gunra ransomware, and ShieldBreak bypasses MS Defender for SYSTEM access.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-08-14T15:21:37+00:00",
+    "fetched_at": "2026-08-15T04:38:35.782786+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-33-8/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 33",
+    "summary_he": "A member of the decentralized cybercrime collective 'The Com' was sentenced to two years in prison for blackmail and child abuse after an investigation by the National Crime Agency in the UK. The perpetrator, Justin Swaddle, targeted vulnerable victims globally using popular chat platforms and coerced them into performing severe acts of self-harm. He was also placed on the National Sex Offenders Register and received a ten-year Sexual Harm Prevention Order.",
+    "details_he": "The investigation, which began in January 2024, involved extensive cross-border coordination between British and international law enforcement agencies. Swaddle, who operated under various digital aliases, pleaded guilty to multiple charges and was found to have systematically targeted and groomed young victims. The court's decision highlights the dangers posed by 'The Com', a highly decentralized and loose-knit global network with specialized factions involved in various forms of cybercrime. The group's activities include physical violence, sexual coercion, financial extortion, and high-profile corporate ransomware operations."
+  },
+  {
+    "id": "461c5f546d1f5bbf",
+    "title_original": "Wiz on Wiz: How the Wiz FinOps Team Uses Wiz Cloud Cost",
+    "url": "https://www.wiz.io/blog/how-wiz-finops-uses-wiz-cloud-cost",
+    "description": "Powering cost investigation and optimization with deep cloud context",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-14T14:14:50+00:00",
+    "fetched_at": "2026-08-15T04:38:36.312697+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/how-wiz-finops-uses-wiz-cloud-cost"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz on Wiz: How the Wiz FinOps Team Uses Wiz Cloud Cost",
+    "summary_he": "Wiz FinOps team uses Wiz Cloud Cost to manage cloud spend effectively, leveraging the platform's deep cloud visibility to bridge the context gap between FinOps and engineering teams.",
+    "details_he": "The Wiz FinOps team, who were the original design partners for Wiz Cloud Cost, recognized the potential for the platform to provide unique value for FinOps by bringing together infrastructure context, operational context, and cost data. This integration enables the team to rapidly diagnose cost spikes, separate productive investment from waste, and continuously optimize spend without slowing innovation. By using Wiz Cloud Cost, the team has been able to reduce both cost and security risk through 'win-win' initiatives, and is approaching the challenges of cost management in the AI era with a pragmatic, hybrid stack for cloud financial management."
+  },
+  {
+    "id": "e913c7c0f707d657",
+    "title_original": "Securing Data in the AI era",
+    "url": "https://www.wiz.io/blog/securing-data-in-the-ai-era",
+    "description": "AI is changing the context around data risk, making it critical to understand what’s connected, what’s exposed, and why.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-14T12:19:18+00:00",
+    "fetched_at": "2026-08-15T04:38:36.312697+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/securing-data-in-the-ai-era"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing Data in the AI era",
+    "summary_he": "בעידן ה-AI, הנתונים הם הבסיס לפעילות של המערכות, וכך גם סכנותיהן. האפליקציות ה-AI משתמשות בנתונים כרקע, וכך גם פותחות דרכים חדשות לגישה להם.",
+    "details_he": "בעידן ה-AI, הסכנות לנתונים נגרמות על ידי רשתות גדולות ומגוונות של זהויות, תשתיות, מערכות AI ויכולות. האפליקציות ה-AI משתמשות בנתונים כרקע, וכך גם פותחות דרכים חדשות לגישה להם. כדי להגן על הנתונים, צריכים להבין את הזהויות, התשתיות, המערכות AI והיכולות שיכולות להגיע אליהם. כדי להגן על הנתונים, צריכים לפתח תשתיות וטכנולוגיות חדשות שיכולות לתת תמונה מלאה של הסכנות ולאפשר פעולה מהירה."
+  },
+  {
+    "id": "d844b7ed6b06818c",
+    "title_original": "APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit",
+    "url": "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/",
+    "description": "Our experts discovered a new CoolClient backdoor variant with a kernel-mode rootkit driver that hides malicious processes, files, and network connections from security tools and threat analysts.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-08-14T09:00:14+00:00",
+    "fetched_at": "2026-08-15T04:38:34.507081+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit",
+    "summary_he": "HoneyMyte APT group has upgraded their CoolClient backdoor with a kernel-level Windows rootkit, enhancing its stealth capabilities and allowing it to hide processes, files, and registry entries from being inspected or modified.",
+    "details_he": "The updated CoolClient variant can deploy a signed kernel-mode driver as a Windows service, communicating with it through IOCTL requests. This driver provides dedicated IOCTL handlers for the user-mode backdoor to interact with the kernel-mode driver. The malware's stealth capabilities have been significantly improved, making it more difficult to detect and analyze. The HoneyMyte group has been observed using this updated CoolClient variant in intrusions across multiple countries in Asia, including Pakistan, Mongolia, and Myanmar."
+  },
+  {
+    "id": "d33f4f7dbcd24a2f",
+    "title_original": "Friday Squid Blogging: Searching for the Colossal Squid",
+    "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
+    "description": "Fascinatingvideoabout searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down there. Lots of footage of giant squid, and speculation about the colossal squid. Worth watching.As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.Blog moderation policy.",
+    "source_name": "Bruce Schneier",
+    "source_url": "https://www.schneier.com",
+    "category": "ai",
+    "published": "2026-08-14T21:01:49+00:00",
+    "fetched_at": "2026-08-15T04:38:32.357036+00:00",
+    "sources": [
+      {
+        "name": "Bruce Schneier",
+        "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Friday Squid Blogging: Searching for the Colossal Squid",
+    "summary_he": "A recent video documenting an underwater expedition has shed light on the challenges of searching for marine life, particularly in the deep sea. The use of bright white searchlights is found to be detrimental to the search, prompting the use of red light and bait to attract sea creatures. The footage captures various species, including giant squid, with speculation surrounding the elusive colossal squid.",
+    "details_he": "The video, which has garnered attention for its unique perspective on underwater exploration, highlights the importance of adapting search methods to avoid scaring away the very creatures being sought. By employing red light and bait, researchers are able to gather valuable insights into the behavior and habitats of deep-sea species. The footage of giant squid and speculation about the colossal squid have sparked interest among marine biologists and enthusiasts alike."
+  }
+]
