@@ -1,0 +1,107 @@
+[
+  {
+    "id": "4e44d0e56819c9bb",
+    "title_original": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-08-15T21:29:19+00:00",
+    "fetched_at": "2026-08-16T04:42:23.673739+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "summary_he": "אישה טוענת שבן-דודה שלה השתמש בגרוק לשינוי תמונה מילדותה לתמונות מגונות",
+    "details_he": "האישה, שנקראת ג'יין דו 4, הצטרפה לתביעה שהוגשה על ידי שלושה נערים מטנסי נגד xAI, חברה של אלון מוסק, על תפקיד הבוט שלה, גרוק, ביצירת חומרי תעמולה להטרדה מינית של ילדים. לפי דיווח ב-The Washington Post, האישה טענה שבן-דודה שלה השתמש בגרוק לשינוי תמונה שלה, שנלקחה כשהייתה בת 11, לתמונות מעל 7,000 מגונות שלה. האישה גם אמרה שבן-דודה שלה נמצא מת בעקבות תאונת דרכים שנערכה שני ימים לאחר שהתמונות נמצאו בראיית משטרה. \"הגישה הבלתי מוגבלת לאלו הכלים מתפשטת במהירות\", אמרה האישה. \"היא משנה את חיי היומיום שלנו להטרדה מינית של ילדים\". הנערים שהגישו את התביעה טענו ש-xAI לא נקטה באמצעים יסודיים למנוע שימוש בגרוק ליצירת תמונות מגונות של אנשים אמיתיים, כולל ילדים. הם דורשים סטטוס של תביעה כפולה."
+  },
+  {
+    "id": "e3e64cd146e15cc7",
+    "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-08-15T18:58:39+00:00",
+    "fetched_at": "2026-08-16T04:42:23.673739+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "summary_he": "Anthropic's chatbot Claude will have a watermark that can identify AI-generated content, but it won't affect the quality of the output. The watermark can be detected with a key, but it's not foolproof and can be removed with significant editing.",
+    "details_he": "Anthropic's new watermarking system for Claude is designed to comply with the EU AI Act's Transparency Code. The system uses the SynthID-Text approach, which was outlined by the Google DeepMind team in 2024. Anthropic plans to release a watermark detection API, and the watermark will be detectable in text that has been heavily edited by Claude. However, if the text has only been lightly edited, the watermark may not be detectable. In code, the watermark will be less prominent, but it can still be used in areas where there is an arbitrary choice between words or terms."
+  },
+  {
+    "id": "1a7aa67f4389e60b",
+    "title_original": "3 אירועי טכנולוגיה חינמיים שבאמת תלמדו מהם משהו חדש",
+    "url": "https://www.geektime.co.il/geek-events-1682026/",
+    "description": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. Beyond the Hype: Gemini Enterprise in Action – Live Demos, […]The post3 אירועי טכנולוגיה חינמיים שבאמת תלמדו מהם משהו חדשappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-08-15T17:05:15+00:00",
+    "fetched_at": "2026-08-16T04:42:37.115940+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/geek-events-1682026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "3 אירועי טכנולוגיה חינמיים שבאמת תלמדו מהם משהו חדש",
+    "summary_he": "אם אתם חופשיים ב-6 בספטמבר, תוכלו ללמוד על טכנולוגיות חדשות באירוע 'Beyond the Hype: Gemini Enterprise in Action – Live Demos, Real Architecture, Real Deployment' שיתקיים באונליין. האירוע יכלול הדגמות חיות של Gemini Enterprise ו-Google Workspace, ויחסוך 5 אסטרטגיות לאופטימיזציה של הוצאות הענן.",
+    "details_he": "ב-6 בספטמבר, אירוע 'Beyond the Hype: Gemini Enterprise in Action – Live Demos, Real Architecture, Real Deployment' יתקיים באונליין. האירוע יכלול הדגמות חיות של Gemini Enterprise ו-Google Workspace, ויחסוך 5 אסטרטגיות לאופטימיזציה של הוצאות הענן. האירוע יכלול גם דיון בחלק שאף אחד לא מציג בדמואים: איך נראית הטמעה אמיתית בסביבה שלכם – חיבורים, Governance, רישוי ואימוץ בארגון – ואיך מגיעים לשם תוך שבועות, ולא רבעונים. האירוע יהיה חינם ויתקיים בין השעות 11:00-12:00."
+  },
+  {
+    "id": "35f702df2c4116ea",
+    "title_original": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "description": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-08-15T16:45:00-04:00",
+    "fetched_at": "2026-08-16T04:42:23.070033+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "summary_he": "אתם יכולים להעלות את החיוך על הפנים על ידי לשחק בתפקיד של צ'אטבוט, ולהעלות חיוך על פניו של כל מי ששותף במשחק. זה יכול להיות כל דבר, כולל כתיבת נושאים חסרי תועלה, הצעת שירים עץ, או אפילו עריכת בקשות של אדם אחר המשחק כאילו הוא צ'אטבוט.",
+    "details_he": "אתר האינטרנט 'Your AI Slop Bores Me' מאפשר למשתמשים לשחק בתפקיד של צ'אטבוט, ולהעלות חיוך על פניו של כל מי ששותף במשחק. האתר מציע שני תפקידים: 'אדם' ו'LARP כאילו הוא צ'אטבוט'. בצד ה'אדם', המשתמש יכול להכניס בקשה, ובצד ה'LARP', הוא יכול להגיב. האתר עובד על בסיס מערכת כרטיסים, והמשתמשים יכולים לקבל כרטיסים חינם כל 2 דקות. לצד ה'LARP', המשתמשים יכולים להגיב כאילו הם צ'אטבוט, ולהעלות חיוך על פניו של כל מי ששותף במשחק."
+  },
+  {
+    "id": "1d6ad195f02e0f77",
+    "title_original": "SpaceX officially closes its Cursor acquisition",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-08-15T16:30:00+00:00",
+    "fetched_at": "2026-08-16T04:42:23.673739+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SpaceX officially closes its Cursor acquisition",
+    "summary_he": "SpaceX נחתם רכישת Cursor, והחברה תקבל גישה למערכת המחשבים הגדולה ביותר בעולם. זאת לאחר שהחברה חתמה על חוזה רכישה באפריל, והחברה נהיית חברה ציבורית.",
+    "details_he": "SpaceX הסתיימה בהצלחה את רכישת Cursor, והחברה תקבל גישה למערכת המחשבים הגדולה ביותר בעולם. Cursor תקבל גישה זו כחלק מהרכישה, והחברה תוכל לפתח טכנולוגיה יחד עם SpaceX. הרכישה נחתמה לאחר שחברת Cursor חתמה על חוזה רכישה באפריל, והחברה נהיית חברה ציבורית. Cursor תוכל לפתח טכנולוגיה יחד עם SpaceX, ולהשתמש במערכת המחשבים הגדולה ביותר בעולם."
+  }
+]
