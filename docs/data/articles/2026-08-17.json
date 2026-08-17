@@ -1,0 +1,149 @@
+[
+  {
+    "id": "c3f599697051e55b",
+    "title_original": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+    "url": "https://arxiv.org/abs/2608.13562",
+    "description": "arXiv:2608.13562v1 Announce Type: new \nAbstract: Modern operational systems face uncertainty even in routine conditions, where rare, bursty, and self-exciting events emerge from both exogenous covariates and endogenous event dynamics. Standard neural operators are typically trained as regression-style function-to-function models rather than conditional-intensity estimators, limiting their suitability for sparse event regimes. We introduce the Lorentzian Fourier Neural Operator (L-FNO), a stochastic neural operator that combines an FNO-style covariate path, Lorentzian spectral kernels for history-dependent excitation, and a likelihood-based training objective. We evaluate L-FNO on eight synthetic point-process benchmarks and three real-world datasets covering disease outbreak prediction and semiconductor fault or defect detection. L-FNO improves event likelihood, calibration diagnostics, and rare-event detection over regression- and likelihood-based neural operator baselines. These resu",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-17T00:00:00-04:00",
+    "fetched_at": "2026-08-17T04:51:33.832856+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.13562"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+    "summary_he": "חוקרים הציגו תצורה חדשה של פעילות נוירונים, ה-L-FNO, המאפשרת למודלים נוירונים לתאר אירועים סטוכסטיים. ה-L-FNO עושה שימוש בספקטרליים לורנציאניים כדי להתמודד עם אירועים נדירים.",
+    "details_he": "ה-L-FNO, המורכב מ-FNO-style קוביית-מסלול, ספקטרליים לורנציאניים להפעלה היסטורית ומטרה-בסיסית של אובייקטיב, נבדק על שמונה בנקודות-שפה סינתטיות ושלושה נתוני-עולם אמיתיים. ה-L-FNO הצליח לשפר את הסבירות לאירוע, את האבחון המקוטע ואת זיהוי האירוע הנדיר יותר מבסיסים נוירונים-אפלקציות. התוצאות האלה מראות שזיכרון-ספקטרלי מבנה-מבורג ולמידה-בסיסית-סבירות מספקים אופי-ביוס-אפקטיבי למודלי-אופרטור נוירונים של דינמיקה-אירועים-סטוכסטיים."
+  },
+  {
+    "id": "052888194558566e",
+    "title_original": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+    "url": "https://arxiv.org/abs/2608.13564",
+    "description": "arXiv:2608.13564v1 Announce Type: new \nAbstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Such a judge is a reward-free proxy whose value depends on whether it can be trusted, yet existing judges either hand-write the scoring rubric, as in G-Eval, or fine-tune the judge's weights, and both tend to credit fluent but unsuccessful trajectories as successes. We instead induce the text of an agent-judging rubric from a small set of ground-truth-labeled trajectories, grounding it in true outcomes. We present RubricForge, which evolves a judge rubric by reflective evolution against labeled trajectories to maximize agreement with the environment reward, freezes it, and applies it to held-out trajectories in one model call with no environment access. The optimized artifact is human-readable text, so every verdict",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-17T00:00:00-04:00",
+    "fetched_at": "2026-08-17T04:51:33.832856+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.13564"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+    "summary_he": "חוקרים הציגו שיטה חדשה לבדיקת דגמי לשון, המסוגלת להעריך אותם ללא צורך בפרסים. שיטה זו, הנקראת RubricForge, מאפשרת לבדוק דגמי לשון באופן יעיל ומדויק יותר.",
+    "details_he": "שיטה זו, RubricForge, היא תוצאה של חקר שנערך על ידי צוות של חוקרים, כולל Darragh Quinn ו-5 חוקרים נוספים. הם גילו ששיטה זו יעילה יותר ומדויקת יותר משיטות בדיקה קיימות, כגון G-Eval. RubricForge מאפשרת לבדוק דגמי לשון באופן רפלקטיבי, כלומר, היא מאפשרת לדגם ללמוד מהבדיקות שלו ולשפר את עצמו. השיטה זוהתה כטכניקה חדשה לבדיקת דגמי לשון, ועשויה להיות חשובה לפיתוח דגמי לשון עתידיים."
+  },
+  {
+    "id": "0e491390dc59a68a",
+    "title_original": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+    "url": "https://arxiv.org/abs/2608.13565",
+    "description": "arXiv:2608.13565v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importance of individual MoE layers remains insufficiently characterized, particularly for model compression. This paper presents a systematic layer-wise sensitivity analysis of the Qwen3.6-35B-A3B model (40 MoE layers, 256 experts per layer, top-8 routing) using magnitude-based expert masking on the XLCoST cross-lingual code translation benchmark. We conduct a multi-phase study spanning 100, 300, and 500 prompt evaluation scales across three H100 GPU servers. Our central finding is that layer sensitivity is strongly depth-dependent: early layers (0-9) and middle layers (10-29) are highly fragile to expert masking, while late layers (30-39), and especially very-late layers (35-39), tolerate aggressive masking of low-magnitude experts. Flat all-layer ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-17T00:00:00-04:00",
+    "fetched_at": "2026-08-17T04:51:33.832856+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.13565"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+    "summary_he": "חוקרים הציגו במאמר חדש תאוריה לבדיקת רגישות של מודלי MoE (Mixture-of-Experts) באמצעות הסתרת מומחים בהתבסס על עוצמתם. המחקר נערך על מודל Qwen3.6-35B-A3B והציג תוצאות שמעידות על תלות חזקה של רגישות השכבות בעומקן.",
+    "details_he": "במחקר זה, חוקרים חקרו את רגישות שכבות MoE באמצעות הסתרת מומחים בהתבסס על עוצמתם. הם ניצלו את XLCoST, ספריית תרגום קוד חצי-לשוני, ובדקו 100, 300 ו-500 סקאלות של סקירה של פרומפטים. התוצאות הראו כי שכבות ראשונות (0-9) ואמצעיות (10-29) הן רגישות ביותר להסתרת מומחים, בעוד ששכבות מאוחרות (30-39) ובמיוחד שכבות מאוחרות-מאוד (35-39) יכולות לסבול הסתרת מומחים אגרסיבית של מומחים עם עוצמה נמוכה. המחקר הציג גם תוצאות של צמצום רחבה של רוטינג על-קצה, אשר הראו צמצום ניכר בזמן-קו-קלוק של 100-פרומפט, עם אובדן אפסי של Good+Similar outputs."
+  },
+  {
+    "id": "ebcaa1451a7d19e2",
+    "title_original": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required",
+    "url": "https://arxiv.org/abs/2608.13566",
+    "description": "arXiv:2608.13566v1 Announce Type: new \nAbstract: Post-training papers, model cards, and blog posts often treat scores on a small set of coding benchmarks (e.g., SWE-bench and LiveCodeBench) as evidence of broad coding capability, both for research artifacts and user-facing systems. We argue that optimization for these benchmarks leads to measuring task-specific performance, creating a meaning gap between measured scores and claims of general coding ability. We examine this gap with a Django-based case study benchmark suite we create.\n  Evaluating foundation models and checkpoints post-trained on SWE-bench trajectories, we find that benchmark rankings frequently fail to generalize. Post-trained checkpoints show little cross-task transfer, and SWE-bench optimization yields limited or no gains on our tasks or on LiveCodeBench. Similarly, fine-tuning on individual Django modalities fails to transfer.\n  We conclude that a small number of benchmarks is insufficient for evaluating diverse mod",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-17T00:00:00-04:00",
+    "fetched_at": "2026-08-17T04:51:33.832856+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.13566"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required",
+    "summary_he": "חוקרים טוענים כי אופטימיזציה עבור תצוגות מבחנים קטנות אינה משפיעה חיובית על יכולת קוד כללית. הם מציעים לבחון יכולות של דגמי LLM באמצעות קבוצות מבחנים רב-מטלות.",
+    "details_he": "במאמר, Egor Shibaev ו-11 חוקרים אחרים טוענים כי תצוגות מבחנים קטנות, כגון SWE-bench ו-LiveCodeBench, אינן מייצגות יכולת קוד כללית. הם מציעים לבחון יכולות של דגמי LLM באמצעות קבוצות מבחנים רב-מטלות, כדי למנוע תפיסה שגויה של יכולת קוד כללית. הם גם מציעים ליצור מערכת של תצוגות מבחנים רב-מטלות, כדי לבחון יכולות של דגמי LLM באופן עצמאי."
+  },
+  {
+    "id": "a640a8ca8f9dab9b",
+    "title_original": "Modular Cognitive Architecture Emerges in Large Language Models",
+    "url": "https://arxiv.org/abs/2608.13567",
+    "description": "arXiv:2608.13567v1 Announce Type: new \nAbstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental principle of how intelligent systems must be built, or an evolutionary accident specific to biological brains? Here, we test whether a similar organization emerges in Large Language Models--another class of intelligent systems created through a very different optimization process. Using circuit analyses across N=46 tasks spanning four cognitive domains (language, formal reasoning, social reasoning, physical reasoning), we find that LLMs develop a modular architecture that mirrors the human brain: tasks drawing on the same network in humans recruit overlapping neurons in LLMs, whereas tasks drawing on different networks recruit distinct neurons. The convergent emergence of modularity in brains an",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-17T00:00:00-04:00",
+    "fetched_at": "2026-08-17T04:51:33.832856+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.13567"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Modular Cognitive Architecture Emerges in Large Language Models",
+    "summary_he": "חוקרים גילו שמודלי שפה גדולים פותחו כמערכת קוגניטיבית מודולרית, דומה למוח האנושי. החוקרים חקרו 46 משימות שונות בארבעת התחומים הקוגניטיביים: שפה, סיבות, תפיסה חברתית ותפיסה פיזיקלית.",
+    "details_he": "במחקר חדש, חוקרים מאוניברסיטאות שונות חקרו את הארגון הקוגניטיבי של מודלי שפה גדולים. הם מצאו שמודלי השפה פותחו כמערכת קוגניטיבית מודולרית, דומה למוח האנושי. החוקרים חקרו 46 משימות שונות בארבעת התחומים הקוגניטיביים: שפה, סיבות, תפיסה חברתית ותפיסה פיזיקלית. הממצאים מראים שמודלי השפה פותחו כמערכת קוגניטיבית מודולרית, דומה למוח האנושי, ושהם פותחו כדי להתמודד עם משימות שונות. המחקר עולה בקנה אחד עם התאוריה של המוח האנושי, שטוענת שהמוח פותח כמערכת קוגניטיבית מודולרית."
+  },
+  {
+    "id": "0235c4e089cb98ce",
+    "title_original": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
+    "url": "https://isc.sans.edu/diary/rss/33250",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "ai",
+    "published": "2026-08-17T02:00:02+00:00",
+    "fetched_at": "2026-08-17T04:51:36.343673+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33250"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
+    "summary_he": "SANS Internet Storm Center released its weekly podcast, ISC Stormcast For Monday, August 17th, 2026, providing insights and analysis on the latest cybersecurity threats and trends.",
+    "details_he": "The podcast covers various topics, including emerging threats, vulnerabilities, and security best practices. It serves as a valuable resource for cybersecurity professionals, researchers, and enthusiasts to stay informed about the ever-evolving threat landscape. By leveraging the expertise of the SANS Internet Storm Center team, listeners can gain a deeper understanding of the complex cybersecurity issues and make more informed decisions to protect their organizations."
+  },
+  {
+    "id": "fb9a79811274c810",
+    "title_original": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
+    "url": "https://isc.sans.edu/diary/rss/33248",
+    "description": "Wireshark release4.6.8fixes 28 vulnerabilities and 25 bugs.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-08-16T21:31:48+00:00",
+    "fetched_at": "2026-08-17T04:51:36.343673+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33248"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
+    "summary_he": "Wireshark 4.6.8 פורסם, וכולל תיקונים ל-28 חולשות בביטחון ו-25 בעיות. העדכון יכול לשפר את הביטחון של תוכנות Wireshark.",
+    "details_he": "Wireshark 4.6.8 פורסם על ידי Didier Stevens, וכולל תיקונים ל-28 חולשות בביטחון ו-25 בעיות. העדכון יכול לשפר את הביטחון של תוכנות Wireshark, ולמנוע פגיעות פוטנציאליות. Wireshark היא תוכנה פופולרית לניתוח ובדיקת תקשורת נטוורקית."
+  }
+]
