@@ -1,0 +1,212 @@
+[
+  {
+    "id": "3835ba00a1b16f61",
+    "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-17T19:46:21+00:00",
+    "fetched_at": "2026-08-18T04:42:40.891595+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "summary_he": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "details_he": ""
+  },
+  {
+    "id": "25fdf7367b055363",
+    "title_original": "Securing the Infrastructure of Intelligence",
+    "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+    "description": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking — as well as land, power and […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-17T12:34:51+00:00",
+    "fetched_at": "2026-08-18T04:42:41.267427+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing the Infrastructure of Intelligence",
+    "summary_he": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking — as well as land, power and […]",
+    "details_he": ""
+  },
+  {
+    "id": "3d8cd9551353662b",
+    "title_original": "Get closer to the game with Gemini and Pixel",
+    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "description": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-08-17T08:00:00+00:00",
+    "fetched_at": "2026-08-18T04:42:40.060326+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Get closer to the game with Gemini and Pixel",
+    "summary_he": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+    "details_he": ""
+  },
+  {
+    "id": "60c1ecc7e2a237ea",
+    "title_original": "The Defender’s Window",
+    "url": "https://openai.com/index/the-defenders-window",
+    "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-17T05:30:00+00:00",
+    "fetched_at": "2026-08-18T04:42:39.179492+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-defenders-window"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Defender’s Window",
+    "summary_he": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "details_he": ""
+  },
+  {
+    "id": "920e710c0af980d4",
+    "title_original": "OpenAI joins PORTS-Pike project",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-17T05:00:00+00:00",
+    "fetched_at": "2026-08-18T04:42:39.179492+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-joins-ports-pike-project"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI joins PORTS-Pike project",
+    "summary_he": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "details_he": ""
+  },
+  {
+    "id": "49964013de1e3508",
+    "title_original": "Reading the Signals in the OWASP LLM Top 10 2026",
+    "url": "https://blog.checkpoint.com/ai-security/reading-the-signals-in-the-owasp-llm-top-10-2026/",
+    "description": "In this article OWASP has released the GenAI LLM Top 10 for 2026. The movement between rankings signals where AI security priorities are heading: toward agency, context and the consequences of AI actions. →prompt injection and sensitive information disclosure hold the top two positions →excessive agency jumps from LLM06 to LLM03, the biggest move in the ranking →hidden context exposure replaces system prompt leakage, widening what needs protecting →misinformation rises as AI output feeds workflows, code and automated actions OWASP has released the GenAI LLM Top 10 for 2026, updating one of the security community’s key reference points for understanding risk […]The postReading the Signals in the OWASP LLM Top 10 2026appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-17T15:01:25+00:00",
+    "fetched_at": "2026-08-18T04:42:57.355712+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/reading-the-signals-in-the-owasp-llm-top-10-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Reading the Signals in the OWASP LLM Top 10 2026",
+    "summary_he": "In this article OWASP has released the GenAI LLM Top 10 for 2026. The movement between rankings signals where AI security priorities are heading: toward agency, context and the consequences of AI actions. →prompt injection and sensitive information disclosure hold the top two positions →excessive agency jumps from LLM06 to LLM03, the biggest move in the ranking →hidden context exposure replaces system prompt leakage, widening what needs protecting →misinformation rises as AI output feeds workflows, code and automated actions OWASP has released the GenAI LLM Top 10 for 2026, updating one of the security community’s key reference points for understanding risk […]The postReading the Signals in the OWASP LLM Top 10 2026appeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "c0c7603f96003e3f",
+    "title_original": "Wiz Red Agent Finds Its Way Into Snowflake’s Internal Jira Through a Flaw in a GitHub Copilot–Assisted PR",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "description": "Wiz Red Agent independently discovered and exploited a GitHub Actions injection missed by GitHub’s AI review, validated access to sensitive data in Snowflake’s internal Jira, and assessed the blast radius—all without human intervention, five days after the flaw became live.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-17T14:00:00+00:00",
+    "fetched_at": "2026-08-18T04:42:51.204468+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz Red Agent Finds Its Way Into Snowflake’s Internal Jira Through a Flaw in a GitHub Copilot–Assisted PR",
+    "summary_he": "Wiz Red Agent independently discovered and exploited a GitHub Actions injection missed by GitHub’s AI review, validated access to sensitive data in Snowflake’s internal Jira, and assessed the blast radius—all without human intervention, five days after the flaw became live.",
+    "details_he": ""
+  },
+  {
+    "id": "f85f5b4376506373",
+    "title_original": "17th August – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 17th August, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Colombia’s Ministry of Justice has experienced a ransomware attack that affected part of its technology infrastructure and disrupted public services related to illicit-drug monitoring and legal processes. Officials confirmed that some files were […]The post17th August – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-17T13:37:34+00:00",
+    "fetched_at": "2026-08-18T04:42:50.945072+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "17th August – Threat Intelligence Report",
+    "summary_he": "For the latest discoveries in cyber research for the week of 17th August, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Colombia’s Ministry of Justice has experienced a ransomware attack that affected part of its technology infrastructure and disrupted public services related to illicit-drug monitoring and legal processes. Officials confirmed that some files were […]The post17th August – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "4358c68be598f324",
+    "title_original": "The Closed Loop Remediation Playbook with Wiz",
+    "url": "https://www.wiz.io/blog/wiz-remediation-playbook",
+    "description": "Start your path to a self-healing cloud today, with Wiz Workflows now GA and Remediation and Response in public preview.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-17T12:23:13+00:00",
+    "fetched_at": "2026-08-18T04:42:51.204468+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-remediation-playbook"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Closed Loop Remediation Playbook with Wiz",
+    "summary_he": "Start your path to a self-healing cloud today, with Wiz Workflows now GA and Remediation and Response in public preview.",
+    "details_he": ""
+  },
+  {
+    "id": "a2f998d41d11093e",
+    "title_original": "The Brain Behind the Muscle: Why AI Automation Fails Without Unified Exposure Context",
+    "url": "https://xmcyber.com/blog/the-brain-behind-the-muscle-why-ai-automation-fails-without-unified-exposure-context/",
+    "description": "The problem with traditional vulnerability and risk management programs hasn’t been discovery, and that’s to take nothing away from the groundbreaking frontier models that...The postThe Brain Behind the Muscle: Why AI Automation Fails Without Unified Exposure Contextappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-08-17T11:34:31+00:00",
+    "fetched_at": "2026-08-18T04:42:57.068105+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/blog/the-brain-behind-the-muscle-why-ai-automation-fails-without-unified-exposure-context/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Brain Behind the Muscle: Why AI Automation Fails Without Unified Exposure Context",
+    "summary_he": "The problem with traditional vulnerability and risk management programs hasn’t been discovery, and that’s to take nothing away from the groundbreaking frontier models that...The postThe Brain Behind the Muscle: Why AI Automation Fails Without Unified Exposure Contextappeared first onXM Cyber.",
+    "details_he": ""
+  }
+]
