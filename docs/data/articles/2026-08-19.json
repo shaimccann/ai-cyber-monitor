@@ -1,0 +1,212 @@
+[
+  {
+    "id": "473261cc5fffc239",
+    "title_original": "Strengthening democratic oversight in national security",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-18T19:00:00+00:00",
+    "fetched_at": "2026-08-19T04:43:41.813744+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Strengthening democratic oversight in national security",
+    "summary_he": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "details_he": ""
+  },
+  {
+    "id": "219d120d86dddf96",
+    "title_original": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-18T18:09:38+00:00",
+    "fetched_at": "2026-08-19T04:43:49.006664+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Much Memory Does Your Agent Actually Need?",
+    "summary_he": "How Much Memory Does Your Agent Actually Need?",
+    "details_he": ""
+  },
+  {
+    "id": "44cb8358d4e6324b",
+    "title_original": "Partnering with CodeAI to prepare the first AI generation",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-18T11:00:00+00:00",
+    "fetched_at": "2026-08-19T04:43:41.813744+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/partnering-with-codeai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Partnering with CodeAI to prepare the first AI generation",
+    "summary_he": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "details_he": ""
+  },
+  {
+    "id": "7efa1669745ff95d",
+    "title_original": "Pacing model development in an era of cyber-critical capabilities",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "description": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-18T11:00:00+00:00",
+    "fetched_at": "2026-08-19T04:43:41.813744+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Pacing model development in an era of cyber-critical capabilities",
+    "summary_he": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "details_he": ""
+  },
+  {
+    "id": "662dc4584b9037f8",
+    "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-18T11:00:00+00:00",
+    "fetched_at": "2026-08-19T04:43:41.813744+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-for-teens"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "summary_he": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "details_he": ""
+  },
+  {
+    "id": "abc54ee1df6e1d57",
+    "title_original": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
+    "url": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
+    "description": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks.The postThreat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-08-18T19:05:33+00:00",
+    "fetched_at": "2026-08-19T04:43:59.039481+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
+    "summary_he": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks.The postThreat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)appeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "8ac4f015e4503d3f",
+    "title_original": "Hunting MacSync Stealer infrastructure through behavioral pivots",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
+    "description": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.The postHunting MacSync Stealer infrastructure through behavioral pivotsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-08-18T17:08:28+00:00",
+    "fetched_at": "2026-08-19T04:43:56.702633+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hunting MacSync Stealer infrastructure through behavioral pivots",
+    "summary_he": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.The postHunting MacSync Stealer infrastructure through behavioral pivotsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "fb93f3b0adb77cf6",
+    "title_original": "How to Spot and Stop Rogue Device Joins",
+    "url": "https://www.wiz.io/blog/detecting-entra-device-registration-abuse",
+    "description": "Instead of leaving behind recognizable fingerprints from public tooling, adversaries can now generate realistic device names that blend naturally into enterprise environments. This blog explores how that changes Entra ID detection and what are the behavioral signals that still expose these attacks.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-18T16:24:13+00:00",
+    "fetched_at": "2026-08-19T04:44:01.737165+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/detecting-entra-device-registration-abuse"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to Spot and Stop Rogue Device Joins",
+    "summary_he": "Instead of leaving behind recognizable fingerprints from public tooling, adversaries can now generate realistic device names that blend naturally into enterprise environments. This blog explores how that changes Entra ID detection and what are the behavioral signals that still expose these attacks.",
+    "details_he": ""
+  },
+  {
+    "id": "8985034b116677b3",
+    "title_original": "Thousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtect",
+    "url": "https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/",
+    "description": "Research by: Jaromír Hořejší (@JaromirHorejsi) Key points Introduction We first noticed a ransomware family called StopAndProtect in the middle of May 2026. Further analysis of the infrastructure reveals that the infection chain starts with a ClickFix social-engineering technique, which prompts victims to execute a PowerShell command. This leads to two stages of additional downloaders and […]The postThousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtectappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-18T13:05:44+00:00",
+    "fetched_at": "2026-08-19T04:44:01.335870+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Thousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtect",
+    "summary_he": "Research by: Jaromír Hořejší (@JaromirHorejsi) Key points Introduction We first noticed a ransomware family called StopAndProtect in the middle of May 2026. Further analysis of the infrastructure reveals that the infection chain starts with a ClickFix social-engineering technique, which prompts victims to execute a PowerShell command. This leads to two stages of additional downloaders and […]The postThousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtectappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "e1a0b8cd56b24938",
+    "title_original": "The Mistake That Exposed a Global Cyber Crime Operation",
+    "url": "https://blog.checkpoint.com/research/the-mistake-that-exposed-a-global-cyber-crime-operation/",
+    "description": "Most cyber crime investigations reveal the aftermath of an attack. Few reveal the attackers themselves. That’s what makes Check Point Research‘s latest investigation into StopAndProtect so unusual. While analyzing a newly identified cyber crime operation, researchers uncovered a series of operational security (OPSEC) mistakes that exposed the attackers’ own infrastructure including: victim logs, screenshots, source code, internal management tools, and evidence of a campaign impacting more than 5,000 infected computers worldwide. The investigation also uncovered files referencing close to 2,000 compromised WordPress domains, providing a rare look inside how a modern cyber criminal operation is built and managed. According to […]The postThe Mistake That Exposed a Global Cyber Crime Operationappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-18T13:00:03+00:00",
+    "fetched_at": "2026-08-19T04:44:08.596937+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/the-mistake-that-exposed-a-global-cyber-crime-operation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Mistake That Exposed a Global Cyber Crime Operation",
+    "summary_he": "Most cyber crime investigations reveal the aftermath of an attack. Few reveal the attackers themselves. That’s what makes Check Point Research‘s latest investigation into StopAndProtect so unusual. While analyzing a newly identified cyber crime operation, researchers uncovered a series of operational security (OPSEC) mistakes that exposed the attackers’ own infrastructure including: victim logs, screenshots, source code, internal management tools, and evidence of a campaign impacting more than 5,000 infected computers worldwide. The investigation also uncovered files referencing close to 2,000 compromised WordPress domains, providing a rare look inside how a modern cyber criminal operation is built and managed. According to […]The postThe Mistake That Exposed a Global Cyber Crime Operationappeared first onCheck Point Blog.",
+    "details_he": ""
+  }
+]

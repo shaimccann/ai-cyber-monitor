@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-08-18T04:43:04.174729+00:00",
+  "timestamp": "2026-08-19T04:44:16.227425+00:00",
   "errors": [
     {
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "title": "Strengthening democratic oversight in national security",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Securing the Infrastructure of Intelligence",
+      "title": "How Much Memory Does Your Agent Actually Need?",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Get closer to the game with Gemini and Pixel",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Defender’s Window",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "OpenAI joins PORTS-Pike project",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Reading the Signals in the OWASP LLM Top 10 2026",
+      "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Wiz Red Agent Finds Its Way Into Snowflake’s Internal Jira Through a Flaw in a G",
+      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "17th August – Threat Intelligence Report",
+      "title": "How to Spot and Stop Rogue Device Joins",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Closed Loop Remediation Playbook with Wiz",
+      "title": "Thousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtect",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Brain Behind the Muscle: Why AI Automation Fails Without Unified Exposure Co",
+      "title": "The Mistake That Exposed a Global Cyber Crime Operation",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 81,
+  "total_scanned": 90,
   "selected": 10
 }
