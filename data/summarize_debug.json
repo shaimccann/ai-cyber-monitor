@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-08-19T04:44:16.227425+00:00",
+  "timestamp": "2026-08-20T04:44:49.905775+00:00",
   "errors": [
     {
-      "title": "Strengthening democratic oversight in national security",
+      "title": "Offering Zero Data Retention for frontier models",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How Much Memory Does Your Agent Actually Need?",
+      "title": "5 new ways to level up your learning with Search",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requir",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
+      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platform",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
+      "title": "Wiz Penetration Test Findings is now GA",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How to Spot and Stop Rogue Device Joins",
+      "title": "Back-to-School Cyber Risks Surge as Education Remains the World’s Most Attacked ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Thousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtect",
+      "title": "Benchmaxxing: When the Benchmark Becomes the Target",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Mistake That Exposed a Global Cyber Crime Operation",
+      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 90,
+  "total_scanned": 76,
   "selected": 10
 }

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "08eabdda5f2e1b94",
+    "title_original": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-19T19:00:00+00:00",
+    "fetched_at": "2026-08-20T04:44:27.803482+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Offering Zero Data Retention for frontier models",
+    "summary_he": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "details_he": ""
+  },
+  {
+    "id": "9e081f3a690b0f4b",
+    "title_original": "5 new ways to level up your learning with Search",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "description": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-08-19T19:00:00+00:00",
+    "fetched_at": "2026-08-20T04:44:28.641665+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "5 new ways to level up your learning with Search",
+    "summary_he": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+    "details_he": ""
+  },
+  {
+    "id": "a663edad5d7d38b6",
+    "title_original": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-19T13:48:49+00:00",
+    "fetched_at": "2026-08-20T04:44:29.552292+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/LiquidAI/qad"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "summary_he": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "details_he": ""
+  },
+  {
+    "id": "64a3804637e10146",
+    "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-19T07:00:00+00:00",
+    "fetched_at": "2026-08-20T04:44:27.803482+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/replit"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Replit expands access to software creation with GPT-5.6 Luna",
+    "summary_he": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "details_he": ""
+  },
+  {
+    "id": "082ee6495870a70d",
+    "title_original": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "url": "https://arxiv.org/abs/2608.18078",
+    "description": "arXiv:2608.18078v1 Announce Type: new \nAbstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and collusion among independent firms without eroding the economic harm distinction. Experiments with DeepSeek-R1 agents in the Bertrand oligopoly pricing domain reveal a tendency towards tacit collusion that persists even when humans prompt the agents not to collude. We further show that the chain-of-thought of these agents can be steered toward either extremely collusive or highly competitive behavior in a way that is not semantically detectable by another LLM analyzing the reasoning traces. As a result, deploying reasoning agents for market decisions leads to collusive econ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-08-20T00:00:00-04:00",
+    "fetched_at": "2026-08-20T04:44:31.845072+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2608.18078"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "summary_he": "arXiv:2608.18078v1 Announce Type: new \nAbstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and collusion among independent firms without eroding the economic harm distinction. Experiments with DeepSeek-R1 agents in the Bertrand oligopoly pricing domain reveal a tendency towards tacit collusion that persists even when humans prompt the agents not to collude. We further show that the chain-of-thought of these agents can be steered toward either extremely collusive or highly competitive behavior in a way that is not semantically detectable by another LLM analyzing the reasoning traces. As a result, deploying reasoning agents for market decisions leads to collusive econ",
+    "details_he": ""
+  },
+  {
+    "id": "80db89026c7dbe71",
+    "title_original": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
+    "description": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud.The postMicrosoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026appeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-08-19T17:30:00+00:00",
+    "fetched_at": "2026-08-20T04:44:34.342001+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
+    "summary_he": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud.The postMicrosoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026appeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "ab78508196974bbc",
+    "title_original": "Wiz Penetration Test Findings is now GA",
+    "url": "https://www.wiz.io/blog/wiz-pen-test-findings-is-now-ga",
+    "description": "Transform point-in-time pen-tests into continuous exposure management with unified platform combining pen-test findings and real-time cloud context",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-19T15:36:58+00:00",
+    "fetched_at": "2026-08-20T04:44:38.125109+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-pen-test-findings-is-now-ga"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz Penetration Test Findings is now GA",
+    "summary_he": "Transform point-in-time pen-tests into continuous exposure management with unified platform combining pen-test findings and real-time cloud context",
+    "details_he": ""
+  },
+  {
+    "id": "f6367be72a72df64",
+    "title_original": "Back-to-School Cyber Risks Surge as Education Remains the World’s Most Attacked Sector",
+    "url": "https://blog.checkpoint.com/research/back-to-school-cyber-risks-surge-as-education-remains-the-worlds-most-attacked-sector/",
+    "description": "From record attack volumes to phishing campaigns targeting students and educators, threat actors are exploiting one of the busiest periods of the academic year. As students, teachers and families return to classrooms, campuses and online learning platforms at the end of summer, cyber-criminals are preparing for the new school year as well. According to Check Point Research, the education sector remains the world’s most targeted industry, facing significantly more cyberattacks than any other sector. Between January and July 2026, educational organizations such as colleges and universities, research institutes, and K-12 school systems alike, faced an average of 4,696 weekly cyberattacks […]The postBack-to-School Cyber Risks Surge as Education Remains the World’s Most Attacked Sectorappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-19T13:00:52+00:00",
+    "fetched_at": "2026-08-20T04:44:42.950231+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/back-to-school-cyber-risks-surge-as-education-remains-the-worlds-most-attacked-sector/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Back-to-School Cyber Risks Surge as Education Remains the World’s Most Attacked Sector",
+    "summary_he": "From record attack volumes to phishing campaigns targeting students and educators, threat actors are exploiting one of the busiest periods of the academic year. As students, teachers and families return to classrooms, campuses and online learning platforms at the end of summer, cyber-criminals are preparing for the new school year as well. According to Check Point Research, the education sector remains the world’s most targeted industry, facing significantly more cyberattacks than any other sector. Between January and July 2026, educational organizations such as colleges and universities, research institutes, and K-12 school systems alike, faced an average of 4,696 weekly cyberattacks […]The postBack-to-School Cyber Risks Surge as Education Remains the World’s Most Attacked Sectorappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "5d8b97491805a018",
+    "title_original": "Benchmaxxing: When the Benchmark Becomes the Target",
+    "url": "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "cyber",
+    "published": "2026-08-19T00:00:00-05:00",
+    "fetched_at": "2026-08-20T04:44:36.271933+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Benchmaxxing: When the Benchmark Becomes the Target",
+    "summary_he": "Benchmaxxing: When the Benchmark Becomes the Target",
+    "details_he": ""
+  },
+  {
+    "id": "562ed6c8067a1453",
+    "title_original": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
+    "url": "https://isc.sans.edu/diary/rss/33262",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-08-20T02:00:03+00:00",
+    "fetched_at": "2026-08-20T04:44:34.007855+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33262"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
+    "summary_he": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "details_he": ""
+  }
+]
