@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-08-20T04:44:49.905775+00:00",
+  "timestamp": "2026-08-21T04:47:18.118239+00:00",
   "errors": [
     {
-      "title": "Offering Zero Data Retention for frontier models",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "5 new ways to level up your learning with Search",
+      "title": "Broadening access to Skala creates a faster path to predictive DFT",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "title": "Introducing AI Futures",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requir",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platform",
+      "title": "Three Years as a Leader. Built for Where the Market Is Going.",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Wiz Penetration Test Findings is now GA",
+      "title": "Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Back-to-School Cyber Risks Surge as Education Remains the World’s Most Attacked ",
+      "title": "BTR Reforged: Weaponizing Defender’s Remediation Driver as a Kernel Operation Pr",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Benchmaxxing: When the Benchmark Becomes the Target",
+      "title": "Identity Abuse Through Trusted Communication Channels",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail",
+      "title": "The Approved-App Blind Spot: When Sanctioned AI Becomes Shadow AI",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 76,
+  "total_scanned": 94,
   "selected": 10
 }
