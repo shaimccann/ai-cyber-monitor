@@ -1,0 +1,212 @@
+[
+  {
+    "id": "47b7822d4055e0e8",
+    "title_original": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
+    "url": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
+    "description": "Extendable framework enables testing agents on the full set of capabilities required to successfully complete a procedure, not isolated proxy tasks.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-08-21T15:57:17+00:00",
+    "fetched_at": "2026-08-22T04:40:16.166164+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
+    "summary_he": "Extendable framework enables testing agents on the full set of capabilities required to successfully complete a procedure, not isolated proxy tasks.",
+    "details_he": ""
+  },
+  {
+    "id": "a7523d3dfd43fc1a",
+    "title_original": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-08-21T11:59:48+00:00",
+    "fetched_at": "2026-08-22T04:40:14.042529+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "summary_he": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "details_he": ""
+  },
+  {
+    "id": "fbb06507843ca1d6",
+    "title_original": "Anthropic’s Opus 4.6 is a smut-machine",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-08-21T23:07:25+00:00",
+    "fetched_at": "2026-08-22T04:40:17.199386+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anthropic’s Opus 4.6 is a smut-machine",
+    "summary_he": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "details_he": ""
+  },
+  {
+    "id": "07224664b1195f90",
+    "title_original": "Nvidia partners with data center developer Cloverleaf",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-08-21T22:37:38+00:00",
+    "fetched_at": "2026-08-22T04:40:17.199386+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Nvidia partners with data center developer Cloverleaf",
+    "summary_he": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "details_he": ""
+  },
+  {
+    "id": "1e854c38d4315fa3",
+    "title_original": "v2.1.239",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.239",
+    "description": "What's changedCost estimates (/cost, status line,--max-budget-usd) now include the 1.1× US-only-inference premium for data-residency workspacesAdded the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and other previously excluded setups; new installs there now start in fullscreenAdded/claude-api upgradeto migrate Python projects fromanthropic0.x to 1.x, and updated the skill's Python reference for 1.x (timeouts useanthropic.Timeout, nothttpx.Timeout)Cloud sessions: plugins synced from claude.ai now show asname@synced, work withclaude plugin enable/disable <name>@synced, and never override a same-named plugin you installedAlpine/musl builds: native image paste, clipboard, and audio-capture add-ons now load (musl-built binaries instead of glibc ones refused by the runtime)The usage-limit message shown when your monthly spend limit is already used up now also says when your session or weekly limit resetsFixed Bedrock streaming behind proxies that strip the response Content",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-08-21T19:54:23+00:00",
+    "fetched_at": "2026-08-22T04:40:36.826244+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.239"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.239",
+    "summary_he": "What's changedCost estimates (/cost, status line,--max-budget-usd) now include the 1.1× US-only-inference premium for data-residency workspacesAdded the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and other previously excluded setups; new installs there now start in fullscreenAdded/claude-api upgradeto migrate Python projects fromanthropic0.x to 1.x, and updated the skill's Python reference for 1.x (timeouts useanthropic.Timeout, nothttpx.Timeout)Cloud sessions: plugins synced from claude.ai now show asname@synced, work withclaude plugin enable/disable <name>@synced, and never override a same-named plugin you installedAlpine/musl builds: native image paste, clipboard, and audio-capture add-ons now load (musl-built binaries instead of glibc ones refused by the runtime)The usage-limit message shown when your monthly spend limit is already used up now also says when your session or weekly limit resetsFixed Bedrock streaming behind proxies that strip the response Content",
+    "details_he": ""
+  },
+  {
+    "id": "5c56a5c6a447a145",
+    "title_original": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
+    "url": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/",
+    "description": "Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controlsThe postConnecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chainappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-08-21T23:00:21+00:00",
+    "fetched_at": "2026-08-22T04:40:22.394179+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
+    "summary_he": "Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controlsThe postConnecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chainappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "552f0a0ecbc39950",
+    "title_original": "The Good, the Bad and the Ugly in Cybersecurity – Week 34",
+    "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-8/",
+    "description": "U.S. indicts Iranian cyber espionage operations, Medusa ransomware breaches 500 organizations, and attackers exploit a critical Windows protocol flaw.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-08-21T13:00:56+00:00",
+    "fetched_at": "2026-08-22T04:40:24.113165+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-8/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Good, the Bad and the Ugly in Cybersecurity – Week 34",
+    "summary_he": "U.S. indicts Iranian cyber espionage operations, Medusa ransomware breaches 500 organizations, and attackers exploit a critical Windows protocol flaw.",
+    "details_he": ""
+  },
+  {
+    "id": "686497a772045244",
+    "title_original": "The invisible passenger in your car",
+    "url": "https://securelist.com/android-head-unit-malware/121106/",
+    "description": "Kaspersky expert has discovered new Android malware designed to serve ads and build a proxy botnet. It's delivered through legitimate software for DoFun head units.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-08-21T08:00:29+00:00",
+    "fetched_at": "2026-08-22T04:40:22.531166+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/android-head-unit-malware/121106/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The invisible passenger in your car",
+    "summary_he": "Kaspersky expert has discovered new Android malware designed to serve ads and build a proxy botnet. It's delivered through legitimate software for DoFun head units.",
+    "details_he": ""
+  },
+  {
+    "id": "b566da2692fe8524",
+    "title_original": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+    "description": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0.\n\n\"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-08-22T00:23:00+05:30",
+    "fetched_at": "2026-08-22T04:40:18.252905+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    "summary_he": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0.\n\n\"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
+    "details_he": ""
+  },
+  {
+    "id": "c8b464d6bd774730",
+    "title_original": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+    "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+    "description": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine.\n\nThe driver, BTR.sys (Boot Time Removal Tool), is a",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-08-21T21:22:10+05:30",
+    "fetched_at": "2026-08-22T04:40:18.252905+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+    "summary_he": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine.\n\nThe driver, BTR.sys (Boot Time Removal Tool), is a",
+    "details_he": ""
+  }
+]

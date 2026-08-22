@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-08-21T04:47:18.118239+00:00",
+  "timestamp": "2026-08-22T04:40:37.702956+00:00",
   "errors": [
     {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Broadening access to Skala creates a faster path to predictive DFT",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Introducing AI Futures",
+      "title": "Nvidia partners with data center developer Cloverleaf",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "title": "v2.1.239",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Three Years as a Leader. Built for Where the Market Is Going.",
+      "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+      "title": "The Good, the Bad and the Ugly in Cybersecurity – Week 34",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "BTR Reforged: Weaponizing Defender’s Remediation Driver as a Kernel Operation Pr",
+      "title": "The invisible passenger in your car",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Identity Abuse Through Trusted Communication Channels",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Approved-App Blind Spot: When Sanctioned AI Becomes Shadow AI",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 94,
+  "total_scanned": 48,
   "selected": 10
 }
