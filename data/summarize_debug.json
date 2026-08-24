@@ -1,50 +1,38 @@
 {
-  "timestamp": "2026-08-23T04:44:55.707487+00:00",
+  "timestamp": "2026-08-24T04:53:46.133180+00:00",
   "errors": [
     {
-      "title": "v2.1.241",
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastruct",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed A",
+      "title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques wit",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "3 אירועי טכנולוגיה שמבטיחים: בלי מצגות וחפירות, רק תכלס",
+      "title": "Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twin",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "OpenAI says California should strengthen its AI safety bill",
+      "title": "When Vocabulary Comprehension Fails Clinical Reasoning: Evaluating Therapy Bots'",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Postal Service moves to finalize mail ballot regs before SCOTUS ruling",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/1",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -53,7 +41,7 @@
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
-  "fallback": 8,
-  "total_scanned": 12,
-  "selected": 8
+  "fallback": 6,
+  "total_scanned": 25,
+  "selected": 6
 }
