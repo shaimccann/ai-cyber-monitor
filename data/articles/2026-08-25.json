@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a118627c693cbd84",
+    "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-25T00:00:00+00:00",
+    "fetched_at": "2026-08-25T04:46:33.831498+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-workflow-guide"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "summary_he": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "details_he": ""
+  },
+  {
+    "id": "9b35f60b671f8453",
+    "title_original": "How XPUs Meet a World-Class AI Factory",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+    "description": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-24T15:00:54+00:00",
+    "fetched_at": "2026-08-25T04:46:34.189975+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How XPUs Meet a World-Class AI Factory",
+    "summary_he": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider […]",
+    "details_he": ""
+  },
+  {
+    "id": "65526f3d1ac89ecb",
+    "title_original": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+    "description": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-24T15:00:41+00:00",
+    "fetched_at": "2026-08-25T04:46:34.189975+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+    "summary_he": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq […]",
+    "details_he": ""
+  },
+  {
+    "id": "eb4d53ac349b4700",
+    "title_original": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+    "description": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?  Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-24T15:00:19+00:00",
+    "fetched_at": "2026-08-25T04:46:34.189975+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+    "summary_he": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?  Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a […]",
+    "details_he": ""
+  },
+  {
+    "id": "fc8eebeb6b846342",
+    "title_original": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "description": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-24T12:00:00+00:00",
+    "fetched_at": "2026-08-25T04:46:31.713570+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "summary_he": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "details_he": ""
+  },
+  {
+    "id": "7530f6a714bd3f70",
+    "title_original": "24th August – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 24th August, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Latvia’s Road Traffic Safety Directorate (CSDD) has confirmed a breach affecting payment records of more than 1.2 million people – roughly two-thirds of the country’s population – as well as 200,000 organizations. The […]The post24th August – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-24T14:07:53+00:00",
+    "fetched_at": "2026-08-25T04:46:43.553026+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "24th August – Threat Intelligence Report",
+    "summary_he": "For the latest discoveries in cyber research for the week of 24th August, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Latvia’s Road Traffic Safety Directorate (CSDD) has confirmed a breach affecting payment records of more than 1.2 million people – roughly two-thirds of the country’s population – as well as 200,000 organizations. The […]The post24th August – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "8508aa7e974dc9cb",
+    "title_original": "Cato CTRL Insights: When Trust Becomes the Payload in a Fake Codex ClickFix Campaign",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-when-trust-becomes-payload-in-fake-codex-clickfix-campaign/",
+    "description": "Executive Summary Attackers are using a fake Codex download experience to trick macOS users into pasting a malicious command into Terminal. This technique, known as ClickFix, relies on social engineering rather than a conventional malware download: the victim is persuaded to perform the execution step themselves. We analyzed sponsored search results leading to convincing Google...The postCato CTRL Insights: When Trust Becomes the Payload in a Fake Codex ClickFix Campaignappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-08-24T12:26:08+00:00",
+    "fetched_at": "2026-08-25T04:46:45.007479+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-when-trust-becomes-payload-in-fake-codex-clickfix-campaign/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL Insights: When Trust Becomes the Payload in a Fake Codex ClickFix Campaign",
+    "summary_he": "Executive Summary Attackers are using a fake Codex download experience to trick macOS users into pasting a malicious command into Terminal. This technique, known as ClickFix, relies on social engineering rather than a conventional malware download: the victim is persuaded to perform the execution step themselves. We analyzed sponsored search results leading to convincing Google...The postCato CTRL Insights: When Trust Becomes the Payload in a Fake Codex ClickFix Campaignappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "2b9a7c5ad90d268e",
+    "title_original": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
+    "url": "https://isc.sans.edu/diary/rss/33278",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-08-25T02:00:03+00:00",
+    "fetched_at": "2026-08-25T04:46:38.810264+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33278"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
+    "summary_he": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "details_he": ""
+  },
+  {
+    "id": "35c8e49696ae9c4d",
+    "title_original": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+    "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+    "description": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-08-24T23:11:30+05:30",
+    "fetched_at": "2026-08-25T04:46:37.426307+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+    "summary_he": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+    "details_he": ""
+  },
+  {
+    "id": "8384481839cbacfa",
+    "title_original": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+    "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+    "description": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.\n\nMcAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-08-24T23:11:11+05:30",
+    "fetched_at": "2026-08-25T04:46:37.426307+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+    "summary_he": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.\n\nMcAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
+    "details_he": ""
+  }
+]
