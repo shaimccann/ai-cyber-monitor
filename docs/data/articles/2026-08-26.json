@@ -1,0 +1,212 @@
+[
+  {
+    "id": "09425e2b6db0635f",
+    "title_original": "5 ways to upgrade your home decor with Google Search",
+    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "description": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-08-25T16:00:00+00:00",
+    "fetched_at": "2026-08-26T04:48:03.085058+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "5 ways to upgrade your home decor with Google Search",
+    "summary_he": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+    "details_he": ""
+  },
+  {
+    "id": "36c6500c4113f848",
+    "title_original": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+    "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+    "description": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.  Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-25T15:30:48+00:00",
+    "fetched_at": "2026-08-26T04:48:04.720809+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+    "summary_he": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.  Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch […]",
+    "details_he": ""
+  },
+  {
+    "id": "b82609c8ab4fe220",
+    "title_original": "Granite 4.2 LLMs: How They're Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-25T15:14:14+00:00",
+    "fetched_at": "2026-08-26T04:48:04.326614+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Granite 4.2 LLMs: How They're Built",
+    "summary_he": "Granite 4.2 LLMs: How They're Built",
+    "details_he": ""
+  },
+  {
+    "id": "cbd423e8ad76d752",
+    "title_original": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-08-25T11:39:24+00:00",
+    "fetched_at": "2026-08-26T04:48:04.326614+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "summary_he": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "details_he": ""
+  },
+  {
+    "id": "43b681d2079d360d",
+    "title_original": "The full stack behind abundant intelligence",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "description": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-25T07:05:00+00:00",
+    "fetched_at": "2026-08-26T04:48:02.002421+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The full stack behind abundant intelligence",
+    "summary_he": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "details_he": ""
+  },
+  {
+    "id": "50289c85a9c8bf96",
+    "title_original": "The patch window is collapsing: Why security needs a new control plane",
+    "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+    "description": "Organizations need protection that operates in the gap between discovery and remediation.The postThe patch window is collapsing: Why security needs a new control planeappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-08-25T16:00:00+00:00",
+    "fetched_at": "2026-08-26T04:48:45.313158+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The patch window is collapsing: Why security needs a new control plane",
+    "summary_he": "Organizations need protection that operates in the gap between discovery and remediation.The postThe patch window is collapsing: Why security needs a new control planeappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "418f4ece754265cf",
+    "title_original": "The Path to the Autonomous SOC: The Early Returns of AI & What It Means for Cybersecurity",
+    "url": "https://www.sentinelone.com/blog/the-early-returns-of-ai-what-it-means-for-cybersecurity/",
+    "description": "Discover how early-stage AI yields rapid SOC returns, driving platform consolidation and reducing analyst burnout in this blog post.",
+    "source_name": "SentinelOne Labs",
+    "source_url": "https://www.sentinelone.com",
+    "category": "cyber",
+    "published": "2026-08-25T15:12:35+00:00",
+    "fetched_at": "2026-08-26T04:48:49.234919+00:00",
+    "sources": [
+      {
+        "name": "SentinelOne Labs",
+        "url": "https://www.sentinelone.com/blog/the-early-returns-of-ai-what-it-means-for-cybersecurity/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Path to the Autonomous SOC: The Early Returns of AI & What It Means for Cybersecurity",
+    "summary_he": "Discover how early-stage AI yields rapid SOC returns, driving platform consolidation and reducing analyst burnout in this blog post.",
+    "details_he": ""
+  },
+  {
+    "id": "e71bc287ef15b879",
+    "title_original": "Check Point Blocks Large-Scale Debt-Relief Email Phishing Campaign Targeting More Than 9,000 Organizations",
+    "url": "https://blog.checkpoint.com/securing-user-and-access/check-point-blocks-large-scale-debt-relief-email-phishing-campaign-targeting-more-than-9000-organizations/",
+    "description": "Check Point has identified and blocked a large-scale email phishing campaign using fraudulent financial hardship and debt-relief offers to manipulate recipients into calling attacker-controlled phone numbers. Over the past 14 days, Check Point observed approximately 24,700 emails associated with the campaign targeting users across more than 9,000 organizations, demonstrating both the scale of the operation and the continued evolution of phishing beyond malicious links and attachments.  The campaign underscores a growing enterprise risk: phishing no longer needs an obvious malicious link, attachment, or spoofed sender to be effective. Attackers are turning routine-looking email into the entry point for trusted conversations that take users beyond traditional controls.  The Attack: […]The postCheck Point Blocks Large-Scale Debt-Relief Email Phishing Campaign Targeting More Than 9,000 Organizationsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-08-25T13:00:19+00:00",
+    "fetched_at": "2026-08-26T04:48:55.465031+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/securing-user-and-access/check-point-blocks-large-scale-debt-relief-email-phishing-campaign-targeting-more-than-9000-organizations/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point Blocks Large-Scale Debt-Relief Email Phishing Campaign Targeting More Than 9,000 Organizations",
+    "summary_he": "Check Point has identified and blocked a large-scale email phishing campaign using fraudulent financial hardship and debt-relief offers to manipulate recipients into calling attacker-controlled phone numbers. Over the past 14 days, Check Point observed approximately 24,700 emails associated with the campaign targeting users across more than 9,000 organizations, demonstrating both the scale of the operation and the continued evolution of phishing beyond malicious links and attachments.  The campaign underscores a growing enterprise risk: phishing no longer needs an obvious malicious link, attachment, or spoofed sender to be effective. Attackers are turning routine-looking email into the entry point for trusted conversations that take users beyond traditional controls.  The Attack: […]The postCheck Point Blocks Large-Scale Debt-Relief Email Phishing Campaign Targeting More Than 9,000 Organizationsappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "09d74ff45cf1fade",
+    "title_original": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
+    "url": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
+    "description": "Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution.The postThe State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Executionappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-08-25T10:00:57+00:00",
+    "fetched_at": "2026-08-26T04:48:47.651809+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
+    "summary_he": "Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution.The postThe State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Executionappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "f03d65db4ac8385a",
+    "title_original": "No Title",
+    "url": "https://www.wiz.io/blog/japan-business-leaders-survey-2026",
+    "description": "",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-25T06:00:00+00:00",
+    "fetched_at": "2026-08-26T04:48:49.850641+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/japan-business-leaders-survey-2026"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "No Title",
+    "summary_he": "No Title",
+    "details_he": ""
+  }
+]

@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-08-25T04:46:56.985922+00:00",
+  "timestamp": "2026-08-26T04:49:02.711492+00:00",
   "errors": [
     {
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "title": "5 ways to upgrade your home decor with Google Search",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How XPUs Meet a World-Class AI Factory",
+      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agen",
+      "title": "Granite 4.2 LLMs: How They're Built",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Stan",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "title": "The full stack behind abundant intelligence",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "24th August – Threat Intelligence Report",
+      "title": "The patch window is collapsing: Why security needs a new control plane",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Cato CTRL Insights: When Trust Becomes the Payload in a Fake Codex ClickFix Camp",
+      "title": "The Path to the Autonomous SOC: The Early Returns of AI & What It Means for Cybe",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/",
+      "title": "Check Point Blocks Large-Scale Debt-Relief Email Phishing Campaign Targeting Mor",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Executi",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "title": "No Title",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 78,
+  "total_scanned": 90,
   "selected": 10
 }
