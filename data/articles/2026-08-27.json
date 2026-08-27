@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a3fc11395820fce3",
+    "title_original": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+    "description": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-27T13:00:33+00:00",
+    "fetched_at": "2026-08-27T15:06:51.778535+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+    "summary_he": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser […]",
+    "details_he": ""
+  },
+  {
+    "id": "10df14d78caa16bc",
+    "title_original": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "description": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-27T13:00:17+00:00",
+    "fetched_at": "2026-08-27T15:06:51.778535+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+    "summary_he": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
+    "details_he": ""
+  },
+  {
+    "id": "cb1f7918272097ad",
+    "title_original": "Piloting the world's first double-blind AI evaluations",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "description": "Piloting the world's first double-blind AI evaluations",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-08-27T12:59:16+00:00",
+    "fetched_at": "2026-08-27T15:06:49.827674+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Piloting the world's first double-blind AI evaluations",
+    "summary_he": "Piloting the world's first double-blind AI evaluations",
+    "details_he": ""
+  },
+  {
+    "id": "b984287f44098247",
+    "title_original": "Expanding OpenAI’s presence in Brazil",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-08-27T03:00:00+00:00",
+    "fetched_at": "2026-08-27T15:06:49.358851+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/expanding-our-presence-in-brazil"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Expanding OpenAI’s presence in Brazil",
+    "summary_he": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "details_he": ""
+  },
+  {
+    "id": "e27c89ef3311ab6f",
+    "title_original": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+    "description": "The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-08-26T21:05:30+00:00",
+    "fetched_at": "2026-08-27T15:06:51.778535+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+    "summary_he": "The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
+    "details_he": ""
+  },
+  {
+    "id": "826bd34784440298",
+    "title_original": "Version Control DFIR: a Cheatsheet to GitHub, GitLab, Bitbucket, and Azure DevOps",
+    "url": "https://www.wiz.io/blog/vcs-dfir-threat-hunting-github-gitlab-azure-devops",
+    "description": "A practitioner’s guide to log visibility, incident readiness, and threat hunting across the major version control services.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-27T12:00:00+00:00",
+    "fetched_at": "2026-08-27T15:07:00.404085+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/vcs-dfir-threat-hunting-github-gitlab-azure-devops"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Version Control DFIR: a Cheatsheet to GitHub, GitLab, Bitbucket, and Azure DevOps",
+    "summary_he": "A practitioner’s guide to log visibility, incident readiness, and threat hunting across the major version control services.",
+    "details_he": ""
+  },
+  {
+    "id": "7b5de1bd199f339d",
+    "title_original": "Threat landscape for industrial automation systems. Q2 2026",
+    "url": "https://securelist.com/industrial-threat-report-q2-2026/121159/",
+    "description": "The report contains statistics on industrial threats for Q2 2026, including ransomware, miners, spyware and other threats that were detected and blocked on industrial control systems.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-08-27T10:05:43+00:00",
+    "fetched_at": "2026-08-27T15:06:58.621592+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/industrial-threat-report-q2-2026/121159/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat landscape for industrial automation systems. Q2 2026",
+    "summary_he": "The report contains statistics on industrial threats for Q2 2026, including ransomware, miners, spyware and other threats that were detected and blocked on industrial control systems.",
+    "details_he": ""
+  },
+  {
+    "id": "5ceba8356688ecc0",
+    "title_original": "The Vulnerability Tax: What CVE Response Costs at the Network Edge",
+    "url": "https://www.catonetworks.com/blog/what-cve-response-costs-at-the-network-edge/",
+    "description": "Network edge vulnerabilities are accelerating. Cato’s cloud-native architecture reduces customers’ attack surface and shortens exposure to emerging vulnerabilities. The Cato CVE Exposure Calculator shows what that difference could mean for your organization. Another Known Exploited Vulnerability (KEV). Another emergency CAB. Another weekend spent upgrading firmware. You have to respond. The question is how much each...The postThe Vulnerability Tax: What CVE Response Costs at the Network Edgeappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-08-27T07:50:36+00:00",
+    "fetched_at": "2026-08-27T15:07:01.425444+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/what-cve-response-costs-at-the-network-edge/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Vulnerability Tax: What CVE Response Costs at the Network Edge",
+    "summary_he": "Network edge vulnerabilities are accelerating. Cato’s cloud-native architecture reduces customers’ attack surface and shortens exposure to emerging vulnerabilities. The Cato CVE Exposure Calculator shows what that difference could mean for your organization. Another Known Exploited Vulnerability (KEV). Another emergency CAB. Another weekend spent upgrading firmware. You have to respond. The question is how much each...The postThe Vulnerability Tax: What CVE Response Costs at the Network Edgeappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "7e471ad756fc0f78",
+    "title_original": "When AI infrastructure becomes the target: Securing gateways and control points",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
+    "description": "Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity.The postWhen AI infrastructure becomes the target: Securing gateways and control pointsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-08-26T16:43:53+00:00",
+    "fetched_at": "2026-08-27T15:06:56.355915+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When AI infrastructure becomes the target: Securing gateways and control points",
+    "summary_he": "Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity.The postWhen AI infrastructure becomes the target: Securing gateways and control pointsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "e1e3c094c7a256cd",
+    "title_original": "Democratizing FinOps with Wiz: Driving Cost Attribution with the Wiz Service Catalog",
+    "url": "https://www.wiz.io/blog/cost-attribution-with-the-wiz-service-catalog",
+    "description": "How the Wiz Cloud Cost automates cost allocation to power developer-led cost optimization and connect cost to business value.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-08-26T16:15:18+00:00",
+    "fetched_at": "2026-08-27T15:07:00.404085+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/cost-attribution-with-the-wiz-service-catalog"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Democratizing FinOps with Wiz: Driving Cost Attribution with the Wiz Service Catalog",
+    "summary_he": "How the Wiz Cloud Cost automates cost allocation to power developer-led cost optimization and connect cost to business value.",
+    "details_he": ""
+  }
+]
