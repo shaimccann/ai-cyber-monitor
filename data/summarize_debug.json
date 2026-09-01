@@ -1,32 +1,56 @@
 {
-  "timestamp": "2026-08-31T10:45:34.727181+00:00",
+  "timestamp": "2026-09-01T09:20:17.860632+00:00",
   "errors": [
     {
-      "title": "מאסיבית ממנה את תא\"ל (מיל') גבי שחור ליו\"ר הדירקטוריון",
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with effici",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "title": "Developing provably correct Rust code with Verus",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "אין תקציב לקמפיין הבחירות? יש בינה מלאכותית",
+      "title": "\"Z-Library אהובתי\": תביעה חושפת איך קלוד אומן על טורנטים פיראטיים",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "אירופה הפכה לשוק העיקרי של בגירה",
+      "title": "מנכ\"ל אפל החדש נכנס היום לתפקידו, ואחד הבכירים והמוכרים בחברה פורש מתפקידו",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "אנת'רופיק טוענת שצ'יפרה את המשתמשים בקלוד קוד, הם טוענים לפגיעה, ואיכשהו כולם צו",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing com",
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Mirage Kitten targeting aviation and FinTech sectors across the Middle East and ",
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Breaking the Seal: Static Deobfuscation of JSCeal’s Compiled V8 Bytecode",
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Security Hardening Assessment: Prepare for AI Transformation Without Increasing ",
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "31th August – Threat Intelligence Report",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -36,36 +60,12 @@
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
-    },
-    {
-      "title": "ValleyRAT masquerading as adware",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Has security taken a back seat to productivity?",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
     }
   ],
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 43,
+  "total_scanned": 75,
   "selected": 10
 }
