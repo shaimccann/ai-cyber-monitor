@@ -1,0 +1,212 @@
+[
+  {
+    "id": "003f3643990dd7db",
+    "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-01T21:39:07+00:00",
+    "fetched_at": "2026-09-02T08:41:42.021950+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/benchmirt"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "summary_he": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "details_he": ""
+  },
+  {
+    "id": "93a82601eb2f8855",
+    "title_original": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+    "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+    "description": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too.  The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-01T21:19:20+00:00",
+    "fetched_at": "2026-09-02T08:41:42.458441+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+    "summary_he": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too.  The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
+    "details_he": ""
+  },
+  {
+    "id": "2f2000e0e4814499",
+    "title_original": "The latest AI news we announced in August 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "description": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-09-01T20:45:00+00:00",
+    "fetched_at": "2026-09-02T08:41:39.659554+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The latest AI news we announced in August 2026",
+    "summary_he": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+    "details_he": ""
+  },
+  {
+    "id": "63903dae6eccb4be",
+    "title_original": "Introducing agentic video understanding with Gemini",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-09-01T17:08:51+00:00",
+    "fetched_at": "2026-09-02T08:41:39.135749+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing agentic video understanding with Gemini",
+    "summary_he": "Introducing agentic video understanding with Gemini",
+    "details_he": ""
+  },
+  {
+    "id": "af0974df247335f3",
+    "title_original": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-01T17:00:00+00:00",
+    "fetched_at": "2026-09-02T08:41:38.478953+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ai-native-company-workflows"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How AI-native companies turn workflows into operating capability",
+    "summary_he": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "details_he": ""
+  },
+  {
+    "id": "de4202a057a93cbd",
+    "title_original": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
+    "description": "An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help organizations identify, block, and respond to this threat.The postCounterfeit installers to system compromise: Tracking a deceptive software download campaignappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-01T22:48:28+00:00",
+    "fetched_at": "2026-09-02T08:41:49.630697+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
+    "summary_he": "An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help organizations identify, block, and respond to this threat.The postCounterfeit installers to system compromise: Tracking a deceptive software download campaignappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "64b7aa85171d81d0",
+    "title_original": "Cybersecurity IR Workshop: The workshop you shouldn’t miss",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
+    "description": "Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response.The postCybersecurity IR Workshop: The workshop you shouldn’t missappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-01T18:55:35+00:00",
+    "fetched_at": "2026-09-02T08:41:49.630697+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cybersecurity IR Workshop: The workshop you shouldn’t miss",
+    "summary_he": "Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response.The postCybersecurity IR Workshop: The workshop you shouldn’t missappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "7d1a8e129a640af9",
+    "title_original": "The Inbox Is Disappearing. Why Security Must Follow the Workspace",
+    "url": "https://blog.checkpoint.com/securing-user-and-access/the-inbox-is-disappearing-why-security-must-follow-the-workspace/",
+    "description": "Enterprise work no longer fits neatly inside a defined perimeter. The modern workspace spans inboxes, browsers, SaaS applications, collaboration platforms, identities, endpoints, data stores and, increasingly, AI agents that can act across several of these environments at once.  Attackers have adapted to this reality faster than many enterprise security programs have. Rather than staying within a single product category, they follow the natural flow of work, moving from email to chat, from a browser session into a SaaS application, and from an identity prompt toward the data behind it.  That progression is exposing a structural gap in traditional security architecture. Many organizations still protect […]The postThe Inbox Is Disappearing. Why Security Must Follow the Workspaceappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-01T16:45:58+00:00",
+    "fetched_at": "2026-09-02T08:42:02.456250+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/securing-user-and-access/the-inbox-is-disappearing-why-security-must-follow-the-workspace/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Inbox Is Disappearing. Why Security Must Follow the Workspace",
+    "summary_he": "Enterprise work no longer fits neatly inside a defined perimeter. The modern workspace spans inboxes, browsers, SaaS applications, collaboration platforms, identities, endpoints, data stores and, increasingly, AI agents that can act across several of these environments at once.  Attackers have adapted to this reality faster than many enterprise security programs have. Rather than staying within a single product category, they follow the natural flow of work, moving from email to chat, from a browser session into a SaaS application, and from an identity prompt toward the data behind it.  That progression is exposing a structural gap in traditional security architecture. Many organizations still protect […]The postThe Inbox Is Disappearing. Why Security Must Follow the Workspaceappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "bad29df10a6a44ea",
+    "title_original": "Cato Managed SASE for SMB: Flexible Capacity, Faster Onboarding",
+    "url": "https://www.catonetworks.com/blog/cato-managed-sase-for-smb/",
+    "description": "For MSPs and service providers, a managed SASE offering needs to be repeatable across a small and midsize business (SMB) customer base, from selling and licensing, through provisioning and support. But traditional per-customer licensing can introduce friction every time a partner adds or expands a customer. That process can slow onboarding, add administrative work, and...The postCato Managed SASE for SMB: Flexible Capacity, Faster Onboardingappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-09-01T12:21:39+00:00",
+    "fetched_at": "2026-09-02T08:41:56.920684+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-managed-sase-for-smb/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato Managed SASE for SMB: Flexible Capacity, Faster Onboarding",
+    "summary_he": "For MSPs and service providers, a managed SASE offering needs to be repeatable across a small and midsize business (SMB) customer base, from selling and licensing, through provisioning and support. But traditional per-customer licensing can introduce friction every time a partner adds or expands a customer. That process can slow onboarding, add administrative work, and...The postCato Managed SASE for SMB: Flexible Capacity, Faster Onboardingappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "0482e89147286286",
+    "title_original": "Introducing Continuous Vulnerability Assessment: Real-Time Defense for the AI Threat Era",
+    "url": "https://www.wiz.io/blog/introducing-cva",
+    "description": "Detect exposure to new vulnerabilities the moment they are published with Wiz CVA",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-09-01T10:54:43+00:00",
+    "fetched_at": "2026-09-02T08:41:55.066248+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-cva"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Continuous Vulnerability Assessment: Real-Time Defense for the AI Threat Era",
+    "summary_he": "Detect exposure to new vulnerabilities the moment they are published with Wiz CVA",
+    "details_he": ""
+  }
+]
