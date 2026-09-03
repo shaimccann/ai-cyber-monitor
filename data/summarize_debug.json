@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-02T08:42:10.379518+00:00",
+  "timestamp": "2026-09-03T08:51:01.053737+00:00",
   "errors": [
     {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The latest AI news we announced in August 2026",
+      "title": "Proactive cyber defense for governments and enterprises",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Introducing agentic video understanding with Gemini",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How AI-native companies turn workflows into operating capability",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Counterfeit installers to system compromise: Tracking a deceptive software downl",
+      "title": "How Developers Prevent Production Risk at the Source",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Cybersecurity IR Workshop: The workshop you shouldn’t miss",
+      "title": "Impersonating IT support: how threat actors turn a remote session into enterpris",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Inbox Is Disappearing. Why Security Must Follow the Workspace",
+      "title": "AI Observability Must Evolve for the Agentic Era",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Cato Managed SASE for SMB: Flexible Capacity, Faster Onboarding",
+      "title": "Gaming the system: how a Chinese-speaking actor turned Brazilian government site",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Introducing Continuous Vulnerability Assessment: Real-Time Defense for the AI Th",
+      "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 91,
+  "total_scanned": 90,
   "selected": 10
 }

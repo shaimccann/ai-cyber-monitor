@@ -1,0 +1,216 @@
+[
+  {
+    "id": "b56c7b888ef09a64",
+    "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "url": "https://huggingface.co/blog/train-to-paint-with-code",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-03T00:00:00+00:00",
+    "fetched_at": "2026-09-03T08:50:34.128381+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-to-paint-with-code"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "summary_he": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "details_he": ""
+  },
+  {
+    "id": "9b60aff93d087b46",
+    "title_original": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-09-02T16:18:31+00:00",
+    "fetched_at": "2026-09-03T08:50:30.458234+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "summary_he": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "details_he": ""
+  },
+  {
+    "id": "2d5f224f0305f925",
+    "title_original": "Proactive cyber defense for governments and enterprises",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "description": "Introducing Fairwind Program",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-09-02T15:40:00+00:00",
+    "fetched_at": "2026-09-03T08:50:30.941424+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Proactive cyber defense for governments and enterprises",
+    "summary_he": "Introducing Fairwind Program",
+    "details_he": ""
+  },
+  {
+    "id": "94c3110c5cd9cba2",
+    "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-02T13:49:14+00:00",
+    "fetched_at": "2026-09-03T08:50:34.128381+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "summary_he": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "details_he": ""
+  },
+  {
+    "id": "65fa976163a18470",
+    "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-02T12:00:00+00:00",
+    "fetched_at": "2026-09-03T08:50:29.864812+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/atv-big-air-tour"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "summary_he": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "details_he": ""
+  },
+  {
+    "id": "54909399585299dd",
+    "title_original": "How Developers Prevent Production Risk at the Source",
+    "url": "https://www.wiz.io/blog/prevent-production-risk-at-code-stage",
+    "description": "Fixing security vulnerabilities in code takes seconds, while patching in production creates high operational costs and risk. Discover how empowering developers as your first line of defense eliminates exposure across every phase of your software pipeline.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-09-03T00:31:46+00:00",
+    "fetched_at": "2026-09-03T08:50:47.015717+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/prevent-production-risk-at-code-stage"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Developers Prevent Production Risk at the Source",
+    "summary_he": "Fixing security vulnerabilities in code takes seconds, while patching in production creates high operational costs and risk. Discover how empowering developers as your first line of defense eliminates exposure across every phase of your software pipeline.",
+    "details_he": ""
+  },
+  {
+    "id": "3b272f3551b6822a",
+    "title_original": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
+    "description": "Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools, and how Microsoft Defender helps detect and disrupt the activity.The postImpersonating IT support: how threat actors turn a remote session into enterprise-wide accessappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-02T22:51:18+00:00",
+    "fetched_at": "2026-09-03T08:50:40.577071+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
+    "summary_he": "Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools, and how Microsoft Defender helps detect and disrupt the activity.The postImpersonating IT support: how threat actors turn a remote session into enterprise-wide accessappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "fb7106319cdde403",
+    "title_original": "AI Observability Must Evolve for the Agentic Era",
+    "url": "https://blog.checkpoint.com/ai-security/ai-observability-must-evolve-for-the-agentic-era/",
+    "description": "In this article Traditional observability tells you whether software worked. For AI agents, the harder question is whether the system made the right decision, and the telemetry that answers it must also be able to stop unsafe actions before they execute. →agents need a decision trace: goal, context, plan, tools, credentials, actions, and outcomes in one connected record →the OpenAI incident report shows the gap: the signal existed more than a day before the Hugging Face breach, but nothing was watching it →shared infrastructure that two agents can both reach is a communication channel and an attack surface, whether anyone […]The postAI Observability Must Evolve for the Agentic Eraappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-02T13:00:48+00:00",
+    "fetched_at": "2026-09-03T08:50:52.285931+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/ai-observability-must-evolve-for-the-agentic-era/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Observability Must Evolve for the Agentic Era",
+    "summary_he": "In this article Traditional observability tells you whether software worked. For AI agents, the harder question is whether the system made the right decision, and the telemetry that answers it must also be able to stop unsafe actions before they execute. →agents need a decision trace: goal, context, plan, tools, credentials, actions, and outcomes in one connected record →the OpenAI incident report shows the gap: the signal existed more than a day before the Hugging Face breach, but nothing was watching it →shared infrastructure that two agents can both reach is a communication channel and an attack surface, whether anyone […]The postAI Observability Must Evolve for the Agentic Eraappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "83ee2f19933de087",
+    "title_original": "Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon",
+    "url": "https://research.checkpoint.com/2026/gaming-the-system-how-a-chinese-speaking-actor-turned-brazilian-government-sites-into-an-seo-weapon/",
+    "description": "Research by: Amit Yardeni Key Points Introduction Since mid-2025, Check Point Research has tracked a sustained campaign against Brazilian organizations. The tradecraft points to a Chinese-speaking cybercrime group connected to Earth Berberoka, an actor first documented targeting gambling sites across Asia. Once inside a victim, the group deploys a broad Linux toolkit: a custom downloader, several backdoors, […]The postGaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weaponappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-02T10:16:16+00:00",
+    "fetched_at": "2026-09-03T08:50:46.599778+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/gaming-the-system-how-a-chinese-speaking-actor-turned-brazilian-government-sites-into-an-seo-weapon/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon",
+    "summary_he": "Research by: Amit Yardeni Key Points Introduction Since mid-2025, Check Point Research has tracked a sustained campaign against Brazilian organizations. The tradecraft points to a Chinese-speaking cybercrime group connected to Earth Berberoka, an actor first documented targeting gambling sites across Asia. Once inside a victim, the group deploys a broad Linux toolkit: a custom downloader, several backdoors, […]The postGaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weaponappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "978ce6d4e4617126",
+    "title_original": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
+    "url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
+    "description": "Using autonomous AI agents, an attacker breached an enterprise network in a matter of hours. Understand how to address and defend against agentic attacks.The postAn AI-Assisted Cyber Attack: Inside a Unit 42 Investigationappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-09-02T10:00:46+00:00",
+    "fetched_at": "2026-09-03T08:50:44.714868+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
+    "summary_he": "Using autonomous AI agents, an attacker breached an enterprise network in a matter of hours. Understand how to address and defend against agentic attacks.The postAn AI-Assisted Cyber Attack: Inside a Unit 42 Investigationappeared first onUnit 42.",
+    "details_he": ""
+  }
+]
