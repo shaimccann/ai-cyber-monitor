@@ -1,0 +1,212 @@
+[
+  {
+    "id": "3189c73c76ca9141",
+    "title_original": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+    "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+    "description": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-03T16:00:59+00:00",
+    "fetched_at": "2026-09-04T08:45:56.518305+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+    "summary_he": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
+    "details_he": ""
+  },
+  {
+    "id": "f07a7e58f91c2f66",
+    "title_original": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-09-03T15:02:08+00:00",
+    "fetched_at": "2026-09-04T08:45:52.642485+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "summary_he": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "details_he": ""
+  },
+  {
+    "id": "8a8f3052b1229a56",
+    "title_original": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-03T13:15:00+00:00",
+    "fetched_at": "2026-09-04T08:45:52.017645+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/daybreak-for-frontline-defenders"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "summary_he": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "details_he": ""
+  },
+  {
+    "id": "aa95180ec5ed40cd",
+    "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-03T13:13:48+00:00",
+    "fetched_at": "2026-09-04T08:45:56.130067+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Hcompany/neomme"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "summary_he": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "details_he": ""
+  },
+  {
+    "id": "a6ba3c8660f5f73e",
+    "title_original": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+    "description": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-03T13:00:35+00:00",
+    "fetched_at": "2026-09-04T08:45:56.518305+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+    "summary_he": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
+    "details_he": ""
+  },
+  {
+    "id": "d3a993d91802cd34",
+    "title_original": "Check Point Brings OpenAI Daybreak Models Across Its Security Platform to Help Defenders Find, Validate, and Remediate Risk",
+    "url": "https://blog.checkpoint.com/ai-security/check-point-brings-openai-daybreak-models-across-its-security-platform-to-help-defenders-find-validate-and-remediate-risk/",
+    "description": "Three months ago, Check Point and OpenAI began expanding our work together through Daybreak, OpenAI’s cyber defense initiative. Since then, we have taken the partnership further, bringing OpenAI’s frontier cyber models into Check Point products and security workflows through the Daybreak Defense Network. And last week, we joined more than a hundred technology and security companies in backing OpenAI’s call for a collective, global surge in cyber defense. Each moved us forward, but the work doesn’t stop there. Security must continuously adapt as new threats and attacker capabilities emerge, the software and technology stacks we protect evolve, and organizations find […]The postCheck Point Brings OpenAI Daybreak Models Across Its Security Platform to Help Defenders Find, Validate, and Remediate Riskappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-03T21:00:10+00:00",
+    "fetched_at": "2026-09-04T08:46:08.906748+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/check-point-brings-openai-daybreak-models-across-its-security-platform-to-help-defenders-find-validate-and-remediate-risk/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point Brings OpenAI Daybreak Models Across Its Security Platform to Help Defenders Find, Validate, and Remediate Risk",
+    "summary_he": "Three months ago, Check Point and OpenAI began expanding our work together through Daybreak, OpenAI’s cyber defense initiative. Since then, we have taken the partnership further, bringing OpenAI’s frontier cyber models into Check Point products and security workflows through the Daybreak Defense Network. And last week, we joined more than a hundred technology and security companies in backing OpenAI’s call for a collective, global surge in cyber defense. Each moved us forward, but the work doesn’t stop there. Security must continuously adapt as new threats and attacker capabilities emerge, the software and technology stacks we protect evolve, and organizations find […]The postCheck Point Brings OpenAI Daybreak Models Across Its Security Platform to Help Defenders Find, Validate, and Remediate Riskappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "24485fc4434d1b21",
+    "title_original": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+    "description": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.The postASCII smuggling crosses over from AI prompt injection to phishing evasionappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-03T16:00:00+00:00",
+    "fetched_at": "2026-09-04T08:46:01.685544+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+    "summary_he": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.The postASCII smuggling crosses over from AI prompt injection to phishing evasionappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "a1219959f45aed9e",
+    "title_original": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
+    "url": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
+    "description": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations.The postAttackers Expose Ongoing AI Tool Use Targeting Organizations in Latin Americaappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-09-03T10:00:58+00:00",
+    "fetched_at": "2026-09-04T08:46:04.838643+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
+    "summary_he": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations.The postAttackers Expose Ongoing AI Tool Use Targeting Organizations in Latin Americaappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "a128c46d94b7c914",
+    "title_original": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+    "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+    "description": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers have been requested for them.\n\n\"We recommend all server owners and Desktop users",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-04T13:05:14+05:30",
+    "fetched_at": "2026-09-04T08:45:59.476365+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+    "summary_he": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers have been requested for them.\n\n\"We recommend all server owners and Desktop users",
+    "details_he": ""
+  },
+  {
+    "id": "77ac8f28b5683556",
+    "title_original": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+    "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+    "description": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAssembly engine.\n\n\"Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-04T12:48:47+05:30",
+    "fetched_at": "2026-09-04T08:45:59.476365+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+    "summary_he": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAssembly engine.\n\n\"Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote",
+    "details_he": ""
+  }
+]
