@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-04T08:46:16.618344+00:00",
+  "timestamp": "2026-09-05T08:16:42.051432+00:00",
   "errors": [
     {
-      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "title": "בדקתי את הדייסון שעולה פחות מ-200 שקלים",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI mode",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B va",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Check Point Brings OpenAI Daybreak Models Across Its Security Platform to Help D",
+      "title": "How to secure edge AI in customer-owned environments",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+      "title": "Angry Birds: Toy Ghouls’ new toys",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universit",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "title": "numbat - AI agent observability, (Fri, Sep 4th)",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filt",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 74,
+  "total_scanned": 51,
   "selected": 10
 }
