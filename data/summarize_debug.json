@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-05T08:16:42.051432+00:00",
+  "timestamp": "2026-09-06T08:35:13.264781+00:00",
   "errors": [
     {
-      "title": "בדקתי את הדייסון שעולה פחות מ-200 שקלים",
+      "title": "משתמשים ב-Google Photos? סוכן ה-AI של גוגל מגיע לעשות לכם סדר",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B va",
+      "title": "ושוב, סוכנים של OpenAI ברחו מסביבת בדיקות, השתלטו על אתר ותיאמו מהלכים",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "title": "אקו ווייב פאואר מאמצת טכנולוגיית תאומים דיגיטליים",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "title": "v2.1.263",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsof",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How to secure edge AI in customer-owned environments",
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Store",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Angry Birds: Toy Ghouls’ new toys",
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Cred",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universit",
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "numbat - AI agent observability, (Fri, Sep 4th)",
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Dele",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filt",
+      "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 51,
+  "total_scanned": 14,
   "selected": 10
 }
