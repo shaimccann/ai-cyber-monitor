@@ -1,62 +1,50 @@
 {
-  "timestamp": "2026-09-06T08:35:13.264781+00:00",
+  "timestamp": "2026-09-07T09:14:09.476484+00:00",
   "errors": [
     {
-      "title": "משתמשים ב-Google Photos? סוכן ה-AI של גוגל מגיע לעשות לכם סדר",
+      "title": "Supporting independent journalism in Ukraine",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ושוב, סוכנים של OpenAI ברחו מסביבת בדיקות, השתלטו על אתר ותיאמו מהלכים",
+      "title": "אנבידיה, גוגל ו-AWS כבר עוברות ל-AI הטרוגני, אבל מה זה אומר בכלל?",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "אקו ווייב פאואר מאמצת טכנולוגיית תאומים דיגיטליים",
+      "title": "גוף ביטחוני ישראלי ראשון מצטייד במערכת ה-ForceField של אקסון",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "v2.1.263",
+      "title": "לוואטסאפ יש \"מצב אורח\" חדש",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsof",
+      "title": "How Much Does Corpus Choice Change Dependency-Distance Estimates?",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Store",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Cred",
+      "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Dele",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentic",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -65,7 +53,7 @@
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
-  "fallback": 10,
-  "total_scanned": 14,
-  "selected": 10
+  "fallback": 8,
+  "total_scanned": 25,
+  "selected": 8
 }
