@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-08T08:47:55.473540+00:00",
+  "timestamp": "2026-09-09T08:53:57.422072+00:00",
   "errors": [
     {
-      "title": "רגע לפני שהאייג'נטים מוחקים לכם את הפרודקשן: כך תנהלו אותם כמו עובדים רגילים",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "אודיסי תבצע פיילוט אבטחה בנמל המבורג",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "פרסום ראשון: האייפון המתקפל יגיע לישראל במקביל לארה\"ב",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the h",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "אנת'רופיק מוותרת על רכישת דקארט הישראלית",
+      "title": "The Work Now Within Reach",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "title": "Introducing ChatGPT Images 2.5",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "7th September – Threat Intelligence Report",
+      "title": "ChatGPT Let Attackers Read Victims’ Gmail Through a Hidden Channel Between Accou",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NoName057(16) Renews #OpJapan",
+      "title": "The Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPT",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ISC Stormcast For Tuesday, September 8th, 2026 https://isc.sans.edu/podcastdetai",
+      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execu",
+      "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdet",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 29,
+  "total_scanned": 88,
   "selected": 10
 }

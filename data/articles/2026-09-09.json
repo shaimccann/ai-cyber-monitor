@@ -1,0 +1,216 @@
+[
+  {
+    "id": "d20857cadc854a07",
+    "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "description": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-08T17:00:00+00:00",
+    "fetched_at": "2026-09-09T08:53:27.639899+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "summary_he": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "details_he": ""
+  },
+  {
+    "id": "77e4f098971777da",
+    "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-08T14:23:07+00:00",
+    "fetched_at": "2026-09-09T08:53:31.787306+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "summary_he": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "details_he": ""
+  },
+  {
+    "id": "32f0158df378712b",
+    "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "description": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-09-08T14:00:15+00:00",
+    "fetched_at": "2026-09-09T08:53:28.111083+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "summary_he": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "details_he": ""
+  },
+  {
+    "id": "1479f2cc0d82f2bf",
+    "title_original": "The Work Now Within Reach",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "description": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-08T13:00:00+00:00",
+    "fetched_at": "2026-09-09T08:53:27.639899+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-work-now-within-reach"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Work Now Within Reach",
+    "summary_he": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "details_he": ""
+  },
+  {
+    "id": "6e0c500e4e845fe0",
+    "title_original": "Introducing ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-08T11:30:00+00:00",
+    "fetched_at": "2026-09-09T08:53:27.639899+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing ChatGPT Images 2.5",
+    "summary_he": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "details_he": ""
+  },
+  {
+    "id": "47f1142b7c2123d2",
+    "title_original": "ChatGPT Let Attackers Read Victims’ Gmail Through a Hidden Channel Between Accounts",
+    "url": "https://blog.checkpoint.com/research/chatgpt-let-attackers-read-victims-gmail-through-a-hidden-channel-between-accounts/",
+    "description": "Enterprises are connecting AI assistants to more of their real infrastructure every month, from inboxes to file drives to internal tools, on the assumption that the isolation between users and accounts holds. Check Point Research just tested that assumption against ChatGPT and found a way to break it. Using an internal service that was never meant to carry user data at all, CPR opened a working channel between two completely separate ChatGPT accounts and used it to hand one victim’s session a task from a total stranger, all while the victim’s own conversation looked entirely normal.  Key Takeaways  Check Point […]The postChatGPT Let Attackers Read Victims’ Gmail Through a Hidden Channel Between Accountsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-08T13:00:50+00:00",
+    "fetched_at": "2026-09-09T08:53:48.409619+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/chatgpt-let-attackers-read-victims-gmail-through-a-hidden-channel-between-accounts/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ChatGPT Let Attackers Read Victims’ Gmail Through a Hidden Channel Between Accounts",
+    "summary_he": "Enterprises are connecting AI assistants to more of their real infrastructure every month, from inboxes to file drives to internal tools, on the assumption that the isolation between users and accounts holds. Check Point Research just tested that assumption against ChatGPT and found a way to break it. Using an internal service that was never meant to carry user data at all, CPR opened a working channel between two completely separate ChatGPT accounts and used it to hand one victim’s session a task from a total stranger, all while the victim’s own conversation looked entirely normal.  Key Takeaways  Check Point […]The postChatGPT Let Attackers Read Victims’ Gmail Through a Hidden Channel Between Accountsappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "b9fe016428d0fea3",
+    "title_original": "The Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPT",
+    "url": "https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/",
+    "description": "Research by: Alexey Bukhteyev Key Takeaways Introduction Over the past several years, AI assistants have moved far beyond text generation. Modern systems can execute code, install additional dependencies, analyze user files, and access data through connected services. These capabilities significantly increase the practical value of LLMs, but they also change the security model: protecting user […]The postThe Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPTappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-08T13:00:18+00:00",
+    "fetched_at": "2026-09-09T08:53:42.460587+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPT",
+    "summary_he": "Research by: Alexey Bukhteyev Key Takeaways Introduction Over the past several years, AI assistants have moved far beyond text generation. Modern systems can execute code, install additional dependencies, analyze user files, and access data through connected services. These capabilities significantly increase the practical value of LLMs, but they also change the security model: protecting user […]The postThe Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPTappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "59297da3fbae7859",
+    "title_original": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+    "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+    "description": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.\n\nThese include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in Developer Tools. Of these, over 110 shortcomings have been assigned a critical severity rating.",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-09T10:11:29+05:30",
+    "fetched_at": "2026-09-09T08:53:35.555380+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html"
+      },
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+    "summary_he": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.\n\nThese include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in Developer Tools. Of these, over 110 shortcomings have been assigned a critical severity rating.",
+    "details_he": ""
+  },
+  {
+    "id": "1f24d26a1fd5603d",
+    "title_original": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+    "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.\n\nThe vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-09T09:57:51+05:30",
+    "fetched_at": "2026-09-09T08:53:35.555380+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+    "summary_he": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.\n\nThe vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a",
+    "details_he": ""
+  },
+  {
+    "id": "0a7ee483017299e9",
+    "title_original": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
+    "url": "https://isc.sans.edu/diary/rss/33322",
+    "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "source_name": "SANS ISC",
+    "source_url": "https://isc.sans.edu",
+    "category": "cyber",
+    "published": "2026-09-09T02:00:02+00:00",
+    "fetched_at": "2026-09-09T08:53:37.186937+00:00",
+    "sources": [
+      {
+        "name": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33322"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
+    "summary_he": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+    "details_he": ""
+  }
+]
