@@ -1,0 +1,212 @@
+[
+  {
+    "id": "22e4085b9ab80022",
+    "title_original": "Paul Christiano joins OpenAI Foundation Board",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "description": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-09T17:00:00+00:00",
+    "fetched_at": "2026-09-10T08:52:23.528608+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Paul Christiano joins OpenAI Foundation Board",
+    "summary_he": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "details_he": ""
+  },
+  {
+    "id": "4cc0babd41c29b13",
+    "title_original": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+    "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+    "description": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-09T16:00:42+00:00",
+    "fetched_at": "2026-09-10T08:52:27.562466+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ibc-news-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+    "summary_he": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers […]",
+    "details_he": ""
+  },
+  {
+    "id": "af4d92ff926f5230",
+    "title_original": "Get ready for the game with new football features in Search",
+    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "description": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-09-09T16:00:00+00:00",
+    "fetched_at": "2026-09-10T08:52:24.286889+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Get ready for the game with new football features in Search",
+    "summary_he": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
+    "details_he": ""
+  },
+  {
+    "id": "406957d2111c465d",
+    "title_original": "Recreating a 70-year love story frame by frame",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "description": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-09-09T16:00:00+00:00",
+    "fetched_at": "2026-09-10T08:52:24.286889+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Recreating a 70-year love story frame by frame",
+    "summary_he": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+    "details_he": ""
+  },
+  {
+    "id": "232363e7c87cafd5",
+    "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-09T15:36:24+00:00",
+    "fetched_at": "2026-09-10T08:52:27.303173+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "summary_he": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "details_he": ""
+  },
+  {
+    "id": "01e07c71b97b33ad",
+    "title_original": "Threat matrix: Mapping threats across cloud web applications",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+    "description": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.The postThreat matrix: Mapping threats across cloud web applicationsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-09T21:30:00+00:00",
+    "fetched_at": "2026-09-10T08:52:32.370786+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat matrix: Mapping threats across cloud web applications",
+    "summary_he": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.The postThreat matrix: Mapping threats across cloud web applicationsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "96757f199a16e626",
+    "title_original": "August 2026 Cyber Threat Landscape: GenAI Data Exposure Emerges as a New Enterprise Risk as Attacks, Phishing, and Ransomware Accelerate",
+    "url": "https://blog.checkpoint.com/security/august-2026-cyber-threat-landscape-genai-data-exposure-emerges-as-a-new-enterprise-risk-as-attacks-phishing-and-ransomware-accelerate/",
+    "description": "Key takeaways GenAI usage continued to grow, with the average user generating 106 prompts in August, up from 95 in July and around 78 in June, while high-risk prompts remained present at 1 in every 43 prompts. Although August recorded the lowest high-risk GenAI prompt rate in several months, 86% of regular GenAI-using organizations were still affected by high-risk prompt activity, showing that data exposure remains a persistent governance challenge. By industry, Healthcare & Medical recorded the highest GenAI prompt exposure rate at 4% (1 in 25 prompts), followed by Software and Business Services at 1 in every 28 prompts. […]The postAugust 2026 Cyber Threat Landscape: GenAI Data Exposure Emerges as a New Enterprise Risk as Attacks, Phishing, and Ransomware Accelerateappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-09T18:09:36+00:00",
+    "fetched_at": "2026-09-10T08:52:43.617965+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/august-2026-cyber-threat-landscape-genai-data-exposure-emerges-as-a-new-enterprise-risk-as-attacks-phishing-and-ransomware-accelerate/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "August 2026 Cyber Threat Landscape: GenAI Data Exposure Emerges as a New Enterprise Risk as Attacks, Phishing, and Ransomware Accelerate",
+    "summary_he": "Key takeaways GenAI usage continued to grow, with the average user generating 106 prompts in August, up from 95 in July and around 78 in June, while high-risk prompts remained present at 1 in every 43 prompts. Although August recorded the lowest high-risk GenAI prompt rate in several months, 86% of regular GenAI-using organizations were still affected by high-risk prompt activity, showing that data exposure remains a persistent governance challenge. By industry, Healthcare & Medical recorded the highest GenAI prompt exposure rate at 4% (1 in 25 prompts), followed by Software and Business Services at 1 in every 28 prompts. […]The postAugust 2026 Cyber Threat Landscape: GenAI Data Exposure Emerges as a New Enterprise Risk as Attacks, Phishing, and Ransomware Accelerateappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "d67780864c4315f5",
+    "title_original": "Passkey-themed social engineering leads to identity and cloud compromise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
+    "description": "Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.The postPasskey-themed social engineering leads to identity and cloud compromiseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-09T17:41:18+00:00",
+    "fetched_at": "2026-09-10T08:52:32.370786+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Passkey-themed social engineering leads to identity and cloud compromise",
+    "summary_he": "Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.The postPasskey-themed social engineering leads to identity and cloud compromiseappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "192e3ae182ae03e1",
+    "title_original": "Off Guard: Breaking LiteLLM from authentication bypass to cloud compromise",
+    "url": "https://www.wiz.io/blog/off-guard-breaking-litellm-from-authentication-bypass-to-cloud-compromise",
+    "description": "How default keys, unauthenticated MCP sessions, and custom code guardrails expose cloud AI infrastructure to root-level remote code execution and IAM theft.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-09-09T16:06:00+00:00",
+    "fetched_at": "2026-09-10T08:52:38.732345+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/off-guard-breaking-litellm-from-authentication-bypass-to-cloud-compromise"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Off Guard: Breaking LiteLLM from authentication bypass to cloud compromise",
+    "summary_he": "How default keys, unauthenticated MCP sessions, and custom code guardrails expose cloud AI infrastructure to root-level remote code execution and IAM theft.",
+    "details_he": ""
+  },
+  {
+    "id": "30c96ced88630017",
+    "title_original": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
+    "url": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
+    "description": "An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks.The postUntracked Nightmares: The Threats Hiding Behind Commodity Infrastructureappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-09-09T10:00:55+00:00",
+    "fetched_at": "2026-09-10T08:52:36.579043+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
+    "summary_he": "An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks.The postUntracked Nightmares: The Threats Hiding Behind Commodity Infrastructureappeared first onUnit 42.",
+    "details_he": ""
+  }
+]
