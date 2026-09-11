@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-10T08:52:50.003546+00:00",
+  "timestamp": "2026-09-11T08:50:23.605523+00:00",
   "errors": [
     {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Get ready for the game with new football features in Search",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecule",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Recreating a 70-year love story frame by frame",
+      "title": "3 ways to prep for your next big race with Search",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-frien",
+      "title": "Why don&#8217;t machine learning research agents overfit?",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Threat matrix: Mapping threats across cloud web applications",
+      "title": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-4",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "August 2026 Cyber Threat Landscape: GenAI Data Exposure Emerges as a New Enterpr",
+      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fr",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+      "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Off Guard: Breaking LiteLLM from authentication bypass to cloud compromise",
+      "title": "PuzzleMask: The Prompt Injection Hiding in Plain Sight",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
+      "title": "Check Point is a Leader in the 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Fir",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 99,
+  "total_scanned": 84,
   "selected": 10
 }

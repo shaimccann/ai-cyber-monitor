@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a81698fac3263f08",
+    "title_original": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+    "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+    "description": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-10T16:30:35+00:00",
+    "fetched_at": "2026-09-11T08:49:58.016549+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+    "summary_he": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
+    "details_he": ""
+  },
+  {
+    "id": "596d91e1d8b18d13",
+    "title_original": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+    "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+    "description": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-10T16:00:04+00:00",
+    "fetched_at": "2026-09-11T08:49:58.016549+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+    "summary_he": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is […]",
+    "details_he": ""
+  },
+  {
+    "id": "3aed887f3b65cc0c",
+    "title_original": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-10T16:00:00+00:00",
+    "fetched_at": "2026-09-11T08:49:53.725209+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "summary_he": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "details_he": ""
+  },
+  {
+    "id": "917c6b108892eb9b",
+    "title_original": "3 ways to prep for your next big race with Search",
+    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "description": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-09-10T16:00:00+00:00",
+    "fetched_at": "2026-09-11T08:49:54.617582+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "3 ways to prep for your next big race with Search",
+    "summary_he": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+    "details_he": ""
+  },
+  {
+    "id": "ac261501bbb5eb68",
+    "title_original": "Why don&#8217;t machine learning research agents overfit?",
+    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "description": "New research indicates that AI agents learn compressible models of data, which don’t have enough space to enable memorization.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-09-10T15:03:39+00:00",
+    "fetched_at": "2026-09-11T08:49:58.279860+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why don&#8217;t machine learning research agents overfit?",
+    "summary_he": "New research indicates that AI agents learn compressible models of data, which don’t have enough space to enable memorization.",
+    "details_he": ""
+  },
+  {
+    "id": "98f3630a01ad59bc",
+    "title_original": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
+    "url": "https://www.wiz.io/blog/artifactory-under-attack-in-the-wild-exploitation-of-cve-2026-42016-cve-2026-4201",
+    "description": "Wiz Research has identified active, in-the-wild exploitation of three critical and high-severity vulnerabilities impacting JFrog Artifactory (CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329). Attackers are chaining these vulnerabilities to bypass authentication and gain administrative control.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-09-10T19:04:00+00:00",
+    "fetched_at": "2026-09-11T08:50:11.294262+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/artifactory-under-attack-in-the-wild-exploitation-of-cve-2026-42016-cve-2026-4201"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
+    "summary_he": "Wiz Research has identified active, in-the-wild exploitation of three critical and high-severity vulnerabilities impacting JFrog Artifactory (CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329). Attackers are chaining these vulnerabilities to bypass authentication and gain administrative control.",
+    "details_he": ""
+  },
+  {
+    "id": "a99ecd3d26635514",
+    "title_original": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
+    "description": "Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud.The postProtecting organizations from AI-assisted executive impersonation and invoice fraudappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-10T17:23:05+00:00",
+    "fetched_at": "2026-09-11T08:50:03.885351+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+    "summary_he": "Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud.The postProtecting organizations from AI-assisted executive impersonation and invoice fraudappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "fd4547cc3979646c",
+    "title_original": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
+    "description": "See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain.The postDetect and disrupt AI-themed attacks with Microsoft Defenderappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-10T16:00:00+00:00",
+    "fetched_at": "2026-09-11T08:50:03.885351+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+    "summary_he": "See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain.The postDetect and disrupt AI-themed attacks with Microsoft Defenderappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "6049858621ca4e5d",
+    "title_original": "PuzzleMask: The Prompt Injection Hiding in Plain Sight",
+    "url": "https://blog.checkpoint.com/security/puzzlemask-the-prompt-injection-hiding-in-plain-sight/",
+    "description": "Introduction Most prompt injection detection is built to catch the obvious. Encoding anomalies, invisible unicode, emoji smuggling, the signatures a classifier can pattern match against. PuzzleMask, a newly disclosed technique, sidesteps all of it. It embeds a policy-violating payload inside fluent, properly punctuated prose, and gets that payload past an LLM-based gatekeeper without tripping any heuristics naively looking for obfuscation on the input side. The technique targets a specific architecture that’s become standard in production LLM pipelines: a fast, low-cost model screens incoming input against a policy before a more capable target model, often running with high reasoning effort and […]The postPuzzleMask: The Prompt Injection Hiding in Plain Sightappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-10T15:59:34+00:00",
+    "fetched_at": "2026-09-11T08:50:15.940112+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/puzzlemask-the-prompt-injection-hiding-in-plain-sight/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "PuzzleMask: The Prompt Injection Hiding in Plain Sight",
+    "summary_he": "Introduction Most prompt injection detection is built to catch the obvious. Encoding anomalies, invisible unicode, emoji smuggling, the signatures a classifier can pattern match against. PuzzleMask, a newly disclosed technique, sidesteps all of it. It embeds a policy-violating payload inside fluent, properly punctuated prose, and gets that payload past an LLM-based gatekeeper without tripping any heuristics naively looking for obfuscation on the input side. The technique targets a specific architecture that’s become standard in production LLM pipelines: a fast, low-cost model screens incoming input against a policy before a more capable target model, often running with high reasoning effort and […]The postPuzzleMask: The Prompt Injection Hiding in Plain Sightappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "a339fe0b0013cfdb",
+    "title_original": "Check Point is a Leader in the 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Firewall",
+    "url": "https://blog.checkpoint.com/security/check-point-is-a-leader-in-the-2026-gartner-magic-quadrant-for-hybrid-mesh-firewall/",
+    "description": "The AI era is rewriting the rules of network security. We believe our recognition as a Leader in the 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Firewall reflects how we help enterprises secure the AI transformation — end to end. Download your complimentary copy of the report: 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Firewall Why AI Changes the Security Equation AI adoption has outpaced the ability to govern it. Only 5% of organizations have full visibility into AI tool usage on their network1. The other 95% are working blind. That gap has consequences: 54% of organizations have already reported […]The postCheck Point is a Leader in the 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Firewallappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-10T15:18:54+00:00",
+    "fetched_at": "2026-09-11T08:50:15.940112+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/check-point-is-a-leader-in-the-2026-gartner-magic-quadrant-for-hybrid-mesh-firewall/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point is a Leader in the 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Firewall",
+    "summary_he": "The AI era is rewriting the rules of network security. We believe our recognition as a Leader in the 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Firewall reflects how we help enterprises secure the AI transformation — end to end. Download your complimentary copy of the report: 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Firewall Why AI Changes the Security Equation AI adoption has outpaced the ability to govern it. Only 5% of organizations have full visibility into AI tool usage on their network1. The other 95% are working blind. That gap has consequences: 54% of organizations have already reported […]The postCheck Point is a Leader in the 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Firewallappeared first onCheck Point Blog.",
+    "details_he": ""
+  }
+]
