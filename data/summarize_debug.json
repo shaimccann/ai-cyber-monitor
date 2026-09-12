@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-11T08:50:23.605523+00:00",
+  "timestamp": "2026-09-12T08:34:00.245758+00:00",
   "errors": [
     {
-      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With ",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecule",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "3 ways to prep for your next big race with Search",
+      "title": "פיתוח של מהנדס בן 78 שם סוף לתשלומי החניה המיותרים שלנו",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Why don&#8217;t machine learning research agents overfit?",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-4",
+      "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fr",
+      "title": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGem",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "PuzzleMask: The Prompt Injection Hiding in Plain Sight",
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillatio",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Check Point is a Leader in the 2026 Gartner® Magic Quadrant™ for Hybrid Mesh Fir",
+      "title": "Cyberattack causes a flight delay? Airlines won’t owe you a hotel or meal",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 84,
+  "total_scanned": 48,
   "selected": 10
 }
