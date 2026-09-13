@@ -1,0 +1,170 @@
+[
+  {
+    "id": "5d1024dd23e8ddb6",
+    "title_original": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-14T00:00:00+00:00",
+    "fetched_at": "2026-09-13T09:25:01.296974+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "summary_he": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "details_he": ""
+  },
+  {
+    "id": "3beb6314a814f5d9",
+    "title_original": "האיסטר אגז המוסיקליים שמדענים מחביאים בתוך מחקרים אקדמיים",
+    "url": "https://www.geektime.co.il/the-beatles-are-fan-favorites-in-the-scientific-community/",
+    "description": "\"אני קורא מאמרים אקדמיים להנאתי\" הוא כנראה משפט שנאמר על ידי אף אחד, בטח בעידן של מודלי שפה, שמאפשרים לנו פשוט לזרוק מאמר ולקבל גרסת אמ;לק לעוסה ומתומצתת. אבל מי שכן בוחר לצלול לטקסטים המדעיים, יגלה שלפעמים מסתתרות שם הפתעות משעשעות בין הנוסחאות. אלפי רפרנסים לביטלס מחקר שפורסם לאחרונה בכתב העת PLoS ONE בדק מי […]The postהאיסטר אגז המוסיקליים שמדענים מחביאים בתוך מחקרים אקדמייםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-09-13T07:35:42+00:00",
+    "fetched_at": "2026-09-13T09:25:18.983168+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/the-beatles-are-fan-favorites-in-the-scientific-community/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "האיסטר אגז המוסיקליים שמדענים מחביאים בתוך מחקרים אקדמיים",
+    "summary_he": "\"אני קורא מאמרים אקדמיים להנאתי\" הוא כנראה משפט שנאמר על ידי אף אחד, בטח בעידן של מודלי שפה, שמאפשרים לנו פשוט לזרוק מאמר ולקבל גרסת אמ;לק לעוסה ומתומצתת. אבל מי שכן בוחר לצלול לטקסטים המדעיים, יגלה שלפעמים מסתתרות שם הפתעות משעשעות בין הנוסחאות. אלפי רפרנסים לביטלס מחקר שפורסם לאחרונה בכתב העת PLoS ONE בדק מי […]The postהאיסטר אגז המוסיקליים שמדענים מחביאים בתוך מחקרים אקדמייםappeared first onגיקטיים.",
+    "details_he": ""
+  },
+  {
+    "id": "d7ab36eef7e4170b",
+    "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-09-12T20:19:16+00:00",
+    "fetched_at": "2026-09-13T09:25:05.554217+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "summary_he": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "details_he": ""
+  },
+  {
+    "id": "05f2808faf8a44c2",
+    "title_original": "v2.1.270",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.270",
+    "description": "What's changedFixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)",
+    "source_name": "Claude Code Releases",
+    "source_url": "https://github.com/anthropics/claude-code/releases",
+    "category": "ai",
+    "published": "2026-09-12T19:45:44+00:00",
+    "fetched_at": "2026-09-13T09:25:23.895445+00:00",
+    "sources": [
+      {
+        "name": "Claude Code Releases",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.270"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "v2.1.270",
+    "summary_he": "What's changedFixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)",
+    "details_he": ""
+  },
+  {
+    "id": "40d905d1f67a8b61",
+    "title_original": "Anthropic CEO outlines plan to slow AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "source_name": "TechCrunch (AI)",
+    "source_url": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "ai",
+    "published": "2026-09-12T19:34:44+00:00",
+    "fetched_at": "2026-09-13T09:25:05.554217+00:00",
+    "sources": [
+      {
+        "name": "TechCrunch (AI)",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anthropic CEO outlines plan to slow AI development",
+    "summary_he": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "details_he": ""
+  },
+  {
+    "id": "89f6cff58247996d",
+    "title_original": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+    "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+    "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nDetails of the vulnerabilities are as follows -\n\n\n  CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-12T21:24:45+05:30",
+    "fetched_at": "2026-09-13T09:25:06.813347+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+    "summary_he": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nDetails of the vulnerabilities are as follows -\n\n\n  CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
+    "details_he": ""
+  },
+  {
+    "id": "ce99ae19a105a8c8",
+    "title_original": "When the Whole Company Adopts AI: What It Does to Your SOC",
+    "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+    "description": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-12T15:54:44+05:30",
+    "fetched_at": "2026-09-13T09:25:06.813347+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When the Whole Company Adopts AI: What It Does to Your SOC",
+    "summary_he": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate",
+    "details_he": ""
+  },
+  {
+    "id": "eeacaaec3c5d242b",
+    "title_original": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+    "url": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
+    "description": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments.The postBlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Daysappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-09-12T11:10:00+00:00",
+    "fetched_at": "2026-09-13T09:25:07.421458+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+    "summary_he": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments.The postBlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Daysappeared first onSecurityWeek.",
+    "details_he": ""
+  }
+]

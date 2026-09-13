@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T08:34:00.245758+00:00",
+  "timestamp": "2026-09-13T09:25:24.371395+00:00",
   "errors": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -8,55 +8,43 @@
       "has_details": false
     },
     {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "title": "האיסטר אגז המוסיקליים שמדענים מחביאים בתוך מחקרים אקדמיים",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "פיתוח של מהנדס בן 78 שם סוף לתשלומי החניה המיותרים שלנו",
+      "title": "v2.1.270",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training ",
+      "title": "Anthropic CEO outlines plan to slow AI development",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic ",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGem",
+      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillatio",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Cyberattack causes a flight delay? Airlines won’t owe you a hotel or meal",
+      "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -65,7 +53,7 @@
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
-  "fallback": 10,
-  "total_scanned": 48,
-  "selected": 10
+  "fallback": 8,
+  "total_scanned": 15,
+  "selected": 8
 }
