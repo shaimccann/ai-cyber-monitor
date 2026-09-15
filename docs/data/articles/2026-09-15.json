@@ -1,0 +1,212 @@
+[
+  {
+    "id": "190c57743e3c50aa",
+    "title_original": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+    "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+    "description": "",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-15T09:00:42+00:00",
+    "fetched_at": "2026-09-15T09:20:19.619730+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+    "summary_he": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+    "details_he": ""
+  },
+  {
+    "id": "289c9773fbaf4975",
+    "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "description": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-09-14T19:00:00+00:00",
+    "fetched_at": "2026-09-15T09:20:15.161599+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "summary_he": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+    "details_he": ""
+  },
+  {
+    "id": "20efc0b7f6ecc4e7",
+    "title_original": "DevFest is back",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "description": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-09-14T16:00:00+00:00",
+    "fetched_at": "2026-09-15T09:20:15.161599+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "DevFest is back",
+    "summary_he": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
+    "details_he": ""
+  },
+  {
+    "id": "0597e7b6b419aaf7",
+    "title_original": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+    "description": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-14T15:00:52+00:00",
+    "fetched_at": "2026-09-15T09:20:19.619730+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "summary_he": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
+    "details_he": ""
+  },
+  {
+    "id": "2482d3ce9c2175f8",
+    "title_original": "How Fyxer built an AI executive assistant people trust",
+    "url": "https://openai.com/index/fyxer",
+    "description": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-14T12:00:00+00:00",
+    "fetched_at": "2026-09-15T09:20:14.252013+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/fyxer"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Fyxer built an AI executive assistant people trust",
+    "summary_he": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "details_he": ""
+  },
+  {
+    "id": "476160f3628646d9",
+    "title_original": "Fake Voicemail Transcript Emails Target 7,800+ Organizations in Large-Scale Credential Phishing",
+    "url": "https://blog.checkpoint.com/security/fake-voicemail-transcript-emails-target-7800-organizations-in-large-scale-credential-phishing/",
+    "description": "Automated voicemail transcripts have become part of the daily rhythm of enterprise communication. They arrive with familiar subject lines, system-generated formatting, and little human context, exactly the qualities that make them easy to trust and easy to overlook. Attackers are now exploiting that familiarity, turning routine call-transcription notifications into a vehicle for credential phishing. Check Point researchers identified a large-scale phishing campaign that exploits this shift in enterprise behavior. The emails impersonate automated voicemail-transcript notifications and deliver malicious Scalable Vector Graphics (SVG) attachments that redirect users to credential-harvesting pages, converting a familiar collaboration workflow into a potential path for account […]The postFake Voicemail Transcript Emails Target 7,800+ Organizations in Large-Scale Credential Phishingappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-14T13:00:00+00:00",
+    "fetched_at": "2026-09-15T09:20:37.171796+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/fake-voicemail-transcript-emails-target-7800-organizations-in-large-scale-credential-phishing/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Fake Voicemail Transcript Emails Target 7,800+ Organizations in Large-Scale Credential Phishing",
+    "summary_he": "Automated voicemail transcripts have become part of the daily rhythm of enterprise communication. They arrive with familiar subject lines, system-generated formatting, and little human context, exactly the qualities that make them easy to trust and easy to overlook. Attackers are now exploiting that familiarity, turning routine call-transcription notifications into a vehicle for credential phishing. Check Point researchers identified a large-scale phishing campaign that exploits this shift in enterprise behavior. The emails impersonate automated voicemail-transcript notifications and deliver malicious Scalable Vector Graphics (SVG) attachments that redirect users to credential-harvesting pages, converting a familiar collaboration workflow into a potential path for account […]The postFake Voicemail Transcript Emails Target 7,800+ Organizations in Large-Scale Credential Phishingappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "eceb7452cac485d5",
+    "title_original": "The Top Exposure Management Questions Security Leaders Ask: Insights from Customer Conversations (Part 2)",
+    "url": "https://blog.checkpoint.com/security/the-top-exposure-management-questions-security-leaders-ask-insights-from-customer-conversations-part-2/",
+    "description": "We analyzed ongoing conversations with prospective customers to find out what buyers ask most. Below are those questions, covering how Check Point Exposure Management helps teams validate risk, cut noise, coordinate remediation, and report progress. Part 1 covered how security leaders think about asset discovery, cloud visibility, threat intelligence, credential exposure, and integrations. Once teams know what’s exposed, the conversation shifts to prioritization and response. 1. How do you prioritize which exposures matter? Security teams often manage thousands of vulnerabilities across applications, endpoints, cloud resources, and internet facing infrastructure. A severity score alone does not provide enough context to determine […]The postThe Top Exposure Management Questions Security Leaders Ask: Insights from Customer Conversations (Part 2)appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-14T12:55:43+00:00",
+    "fetched_at": "2026-09-15T09:20:37.171796+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/the-top-exposure-management-questions-security-leaders-ask-insights-from-customer-conversations-part-2/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Top Exposure Management Questions Security Leaders Ask: Insights from Customer Conversations (Part 2)",
+    "summary_he": "We analyzed ongoing conversations with prospective customers to find out what buyers ask most. Below are those questions, covering how Check Point Exposure Management helps teams validate risk, cut noise, coordinate remediation, and report progress. Part 1 covered how security leaders think about asset discovery, cloud visibility, threat intelligence, credential exposure, and integrations. Once teams know what’s exposed, the conversation shifts to prioritization and response. 1. How do you prioritize which exposures matter? Security teams often manage thousands of vulnerabilities across applications, endpoints, cloud resources, and internet facing infrastructure. A severity score alone does not provide enough context to determine […]The postThe Top Exposure Management Questions Security Leaders Ask: Insights from Customer Conversations (Part 2)appeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "c8d15cd8030fabc8",
+    "title_original": "14th September – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/14th-september-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 14th Setpember, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES IDScan.net, a US identity verification provider, has disclosed a data breach after detecting unauthorized access on September 1. Exposed data included names and government identification numbers, while a criminal marketplace advertised a […]The post14th September – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-14T12:22:06+00:00",
+    "fetched_at": "2026-09-15T09:20:31.407459+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/14th-september-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "14th September – Threat Intelligence Report",
+    "summary_he": "For the latest discoveries in cyber research for the week of 14th Setpember, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES IDScan.net, a US identity verification provider, has disclosed a data breach after detecting unauthorized access on September 1. Exposed data included names and government identification numbers, while a criminal marketplace advertised a […]The post14th September – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "e4e7813c8389a345",
+    "title_original": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection",
+    "url": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/",
+    "description": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries.The postUnmasking Cloud Identities: From Behavioral Clustering to Automated Detectionappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-09-14T10:00:01+00:00",
+    "fetched_at": "2026-09-15T09:20:28.879800+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection",
+    "summary_he": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries.The postUnmasking Cloud Identities: From Behavioral Clustering to Automated Detectionappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "351609fcc0ef9b2a",
+    "title_original": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+    "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+    "description": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14.\n\nOn such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts could exploit the flaw to access or alter other sites and the server itself,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-15T12:22:16+05:30",
+    "fetched_at": "2026-09-15T09:20:23.058755+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+    "summary_he": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14.\n\nOn such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts could exploit the flaw to access or alter other sites and the server itself,",
+    "details_he": ""
+  }
+]

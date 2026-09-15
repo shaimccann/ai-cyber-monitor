@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-14T09:46:07.881870+00:00",
+  "timestamp": "2026-09-15T09:20:47.136868+00:00",
   "errors": [
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "לא נוגעים בפרודקשן? זאת התשובה למשפט שתוקפים הכי אוהבים לשמוע",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technol",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "המונית האוטונומית של גוגל זיהתה נוסעים עם נשק והסגירה אותם למשטרה",
+      "title": "DevFest is back",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Aitech מרחיבה את משפחת המחשוב המוקשח למערכות צבאיות",
+      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "אחרי עשור: טסלה עומדת לחשוף את אחד הרכבים המסקרנים שלה",
+      "title": "How Fyxer built an AI executive assistant people trust",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "title": "Fake Voicemail Transcript Emails Target 7,800+ Organizations in Large-Scale Cred",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
+      "title": "The Top Exposure Management Questions Security Leaders Ask: Insights from Custom",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
+      "title": "14th September – Threat Intelligence Report",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetai",
+      "title": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Thorough reorganization at NSA will create five 'mission centers,' including cyb",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Sh",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 27,
+  "total_scanned": 91,
   "selected": 10
 }
