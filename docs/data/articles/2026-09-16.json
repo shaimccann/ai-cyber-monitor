@@ -1,0 +1,212 @@
+[
+  {
+    "id": "55e91231b5ea73ba",
+    "title_original": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+    "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+    "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run.  David Topping, a professor in the […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-16T05:00:42+00:00",
+    "fetched_at": "2026-09-16T09:13:18.285147+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+    "summary_he": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run.  David Topping, a professor in the […]",
+    "details_he": ""
+  },
+  {
+    "id": "c62a74c678cd8648",
+    "title_original": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+    "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+    "description": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-15T22:24:34+00:00",
+    "fetched_at": "2026-09-16T09:13:18.285147+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+    "summary_he": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+    "details_he": ""
+  },
+  {
+    "id": "eaff9986e794fbe6",
+    "title_original": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-09-15T17:05:57+00:00",
+    "fetched_at": "2026-09-16T09:13:15.788276+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "summary_he": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "details_he": ""
+  },
+  {
+    "id": "7cf8bd1ce6c66e5d",
+    "title_original": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+    "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+    "description": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-15T16:55:59+00:00",
+    "fetched_at": "2026-09-16T09:13:18.285147+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+    "summary_he": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
+    "details_he": ""
+  },
+  {
+    "id": "95fedbfd13390784",
+    "title_original": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+    "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+    "description": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-15T16:55:40+00:00",
+    "fetched_at": "2026-09-16T09:13:18.285147+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+    "summary_he": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
+    "details_he": ""
+  },
+  {
+    "id": "487ac67fa28cffd4",
+    "title_original": "Synchronous Control Monitoring: Preventing Harmful Agent Actions in Real Time",
+    "url": "https://blog.checkpoint.com/ai-security/synchronous-control-monitoring-preventing-harmful-agent-actions-in-real-time/",
+    "description": "We ensure alignment and control in agents using synchronous control monitoring. Our model oversees agent execution, continuously ingests the trace as context, and prevents harmful actions before they execute in real time at sub-100ms latency. Agent trace at 30 tok/s, streamed to the control monitor model on the right. Prevents harmful actions before they are executed. Background Control Monitoring is a powerful tool for ensuring the runtime alignment and safety of autonomous agents. Since the Hugging Face Incident, the need for control monitoring on top of existing safety mechanisms was reinforced: OpenAI started investing more heavily into monitoring safety tools. […]The postSynchronous Control Monitoring: Preventing Harmful Agent Actions in Real Timeappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-15T13:00:59+00:00",
+    "fetched_at": "2026-09-16T09:13:36.436837+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/synchronous-control-monitoring-preventing-harmful-agent-actions-in-real-time/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Synchronous Control Monitoring: Preventing Harmful Agent Actions in Real Time",
+    "summary_he": "We ensure alignment and control in agents using synchronous control monitoring. Our model oversees agent execution, continuously ingests the trace as context, and prevents harmful actions before they execute in real time at sub-100ms latency. Agent trace at 30 tok/s, streamed to the control monitor model on the right. Prevents harmful actions before they are executed. Background Control Monitoring is a powerful tool for ensuring the runtime alignment and safety of autonomous agents. Since the Hugging Face Incident, the need for control monitoring on top of existing safety mechanisms was reinforced: OpenAI started investing more heavily into monitoring safety tools. […]The postSynchronous Control Monitoring: Preventing Harmful Agent Actions in Real Timeappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "314a704cc7c034a9",
+    "title_original": "Investing Together: Wiz Defend and Google Security Operations",
+    "url": "https://www.wiz.io/blog/wiz-defend-and-google-security-operations",
+    "description": "Continuing to deepen the integration between Wiz Defend and Google Security Operations, helping teams work faster wherever they choose to investigate",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-09-15T12:49:17+00:00",
+    "fetched_at": "2026-09-16T09:13:30.058312+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-defend-and-google-security-operations"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Investing Together: Wiz Defend and Google Security Operations",
+    "summary_he": "Continuing to deepen the integration between Wiz Defend and Google Security Operations, helping teams work faster wherever they choose to investigate",
+    "details_he": ""
+  },
+  {
+    "id": "27f7b03aa5f3370b",
+    "title_original": "Closing the AI Exposure Management Gap",
+    "url": "https://xmcyber.com/uncategorized/closing-the-ai-exposure-management-gap/",
+    "description": "Master the art of operationalizing AI defense strategiesThe postClosing the AI Exposure Management Gapappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-09-15T10:14:57+00:00",
+    "fetched_at": "2026-09-16T09:13:36.146082+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/uncategorized/closing-the-ai-exposure-management-gap/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Closing the AI Exposure Management Gap",
+    "summary_he": "Master the art of operationalizing AI defense strategiesThe postClosing the AI Exposure Management Gapappeared first onXM Cyber.",
+    "details_he": ""
+  },
+  {
+    "id": "479623024dc1cdd8",
+    "title_original": "Cybersecurity Exposure Management Course",
+    "url": "https://xmcyber.com/course/cybersecurity-exposure-management-course/",
+    "description": "Take this exclusive course and become a Cybersecurity Exposure Management certified expert.The postCybersecurity Exposure Management Courseappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-09-15T10:14:55+00:00",
+    "fetched_at": "2026-09-16T09:13:36.146082+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/course/cybersecurity-exposure-management-course/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cybersecurity Exposure Management Course",
+    "summary_he": "Take this exclusive course and become a Cybersecurity Exposure Management certified expert.The postCybersecurity Exposure Management Courseappeared first onXM Cyber.",
+    "details_he": ""
+  },
+  {
+    "id": "32034949b0916ad4",
+    "title_original": "Board-Level Cybersecurity Risk Communication Certification for CISOs",
+    "url": "https://xmcyber.com/uncategorized/board-level-cybersecurity-risk-communication-certification-for-cisos/",
+    "description": "Master the Art of Translating Cyber Risk for the BoardroomThe postBoard-Level Cybersecurity Risk Communication Certification for CISOsappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-09-15T10:14:44+00:00",
+    "fetched_at": "2026-09-16T09:13:36.146082+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/uncategorized/board-level-cybersecurity-risk-communication-certification-for-cisos/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Board-Level Cybersecurity Risk Communication Certification for CISOs",
+    "summary_he": "Master the Art of Translating Cyber Risk for the BoardroomThe postBoard-Level Cybersecurity Risk Communication Certification for CISOsappeared first onXM Cyber.",
+    "details_he": ""
+  }
+]
