@@ -1,0 +1,212 @@
+[
+  {
+    "id": "868a3f807bae17d8",
+    "title_original": "Our framework for reporting model misalignment",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-16T17:00:00+00:00",
+    "fetched_at": "2026-09-17T09:21:29.172848+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Our framework for reporting model misalignment",
+    "summary_he": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "details_he": ""
+  },
+  {
+    "id": "1ca1a57b4bc9a5f8",
+    "title_original": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-16T16:00:00+00:00",
+    "fetched_at": "2026-09-17T09:21:29.172848+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Helping older adults use AI in everyday life",
+    "summary_he": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "details_he": ""
+  },
+  {
+    "id": "7f7c9d23edf2a9fe",
+    "title_original": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+    "description": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments.  […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-16T15:00:48+00:00",
+    "fetched_at": "2026-09-17T09:21:33.739542+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+    "summary_he": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments.  […]",
+    "details_he": ""
+  },
+  {
+    "id": "783e3291f8c95881",
+    "title_original": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+    "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+    "description": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center.  Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-16T13:00:33+00:00",
+    "fetched_at": "2026-09-17T09:21:33.739542+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+    "summary_he": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center.  Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
+    "details_he": ""
+  },
+  {
+    "id": "99d6a4983d437b07",
+    "title_original": "Reimagining advertising with AI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-16T13:00:00+00:00",
+    "fetched_at": "2026-09-17T09:21:29.172848+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/reimagining-advertising-with-ai"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Reimagining advertising with AI",
+    "summary_he": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "details_he": ""
+  },
+  {
+    "id": "3b39b52b969a01f0",
+    "title_original": "When the Enterprise Edge Is Everywhere, Security Must Be Too",
+    "url": "https://www.catonetworks.com/blog/when-the-enterprise-edge-is-everywhere-security-must-be-too/",
+    "description": "With hybrid work as the new standard, consistently enforcing security across every edge is a challenge for teams. Working from any location or device creates a persistent challenge: how to enforce consistent, risk-based access controls across users, devices, and applications without introducing policy gaps or operational complexity. To understand the impact, let’s consider the user...The postWhen the Enterprise Edge Is Everywhere, Security Must Be Tooappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-09-17T07:48:18+00:00",
+    "fetched_at": "2026-09-17T09:21:47.684080+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/when-the-enterprise-edge-is-everywhere-security-must-be-too/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "When the Enterprise Edge Is Everywhere, Security Must Be Too",
+    "summary_he": "With hybrid work as the new standard, consistently enforcing security across every edge is a challenge for teams. Working from any location or device creates a persistent challenge: how to enforce consistent, risk-based access controls across users, devices, and applications without introducing policy gaps or operational complexity. To understand the impact, let’s consider the user...The postWhen the Enterprise Edge Is Everywhere, Security Must Be Tooappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "f4cfd9c606c4af42",
+    "title_original": "Scammers Are Watching Airline Complaints and Posing as Customer Support",
+    "url": "https://blog.checkpoint.com/exposure-management/scammers-are-watching-airline-complaints-and-posing-as-customer-support/",
+    "description": "Check Point uncovers thousands of fake support accounts, with hundreds more appearing every day A delayed flight. Missing luggage. A refund that never arrived.  For frustrated customers, social media has become a direct route to customer support. They tag the company, explain the problem, and wait for a response.  However, threat actors are watching those same conversations.  A Check Point Exposure Management investigation uncovered a coordinated social engineering campaign in which scammers monitor public complaints, impersonate customer support accounts, and approach customers seeking help. Researchers engaged directly with the scammers and followed the attack from the first social media interaction […]The postScammers Are Watching Airline Complaints and Posing as Customer Supportappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-16T13:00:51+00:00",
+    "fetched_at": "2026-09-17T09:21:52.690412+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/scammers-are-watching-airline-complaints-and-posing-as-customer-support/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Scammers Are Watching Airline Complaints and Posing as Customer Support",
+    "summary_he": "Check Point uncovers thousands of fake support accounts, with hundreds more appearing every day A delayed flight. Missing luggage. A refund that never arrived.  For frustrated customers, social media has become a direct route to customer support. They tag the company, explain the problem, and wait for a response.  However, threat actors are watching those same conversations.  A Check Point Exposure Management investigation uncovered a coordinated social engineering campaign in which scammers monitor public complaints, impersonate customer support accounts, and approach customers seeking help. Researchers engaged directly with the scammers and followed the attack from the first social media interaction […]The postScammers Are Watching Airline Complaints and Posing as Customer Supportappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "632d98243a4d16ab",
+    "title_original": "NightEagle targets Russian companies",
+    "url": "https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/",
+    "description": "Kaspersky GERT experts have uncovered a new campaign by the NightEagle APT, featuring the GhostContainer backdoor and tools hosted on GitHub. The group is also exploiting vulnerabilities in Active Directory and RDP.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-09-16T10:00:11+00:00",
+    "fetched_at": "2026-09-17T09:21:43.889640+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NightEagle targets Russian companies",
+    "summary_he": "Kaspersky GERT experts have uncovered a new campaign by the NightEagle APT, featuring the GhostContainer backdoor and tools hosted on GitHub. The group is also exploiting vulnerabilities in Active Directory and RDP.",
+    "details_he": ""
+  },
+  {
+    "id": "1aeb3abac3c35420",
+    "title_original": "Atomic macOS (AMOS) Stealer Activity",
+    "url": "https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/",
+    "description": "Modern macOS malware uses deceptive setup guides to steal credentials and sensitive user data. Learn how to identify and block these threats.The postAtomic macOS (AMOS) Stealer Activityappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-09-16T10:00:06+00:00",
+    "fetched_at": "2026-09-17T09:21:43.777393+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Atomic macOS (AMOS) Stealer Activity",
+    "summary_he": "Modern macOS malware uses deceptive setup guides to steal credentials and sensitive user data. Learn how to identify and block these threats.The postAtomic macOS (AMOS) Stealer Activityappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "9bd34d22bc4a4be9",
+    "title_original": "CISA Releases Guidance on Deploying Cyber Decoys",
+    "url": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
+    "description": "Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments.The postCISA Releases Guidance on Deploying Cyber Decoysappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-09-17T07:53:43+00:00",
+    "fetched_at": "2026-09-17T09:21:38.226992+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISA Releases Guidance on Deploying Cyber Decoys",
+    "summary_he": "Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments.The postCISA Releases Guidance on Deploying Cyber Decoysappeared first onSecurityWeek.",
+    "details_he": ""
+  }
+]
