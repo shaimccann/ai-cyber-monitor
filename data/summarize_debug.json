@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-17T09:22:00.152241+00:00",
+  "timestamp": "2026-09-18T08:56:43.539884+00:00",
   "errors": [
     {
-      "title": "Our framework for reporting model misalignment",
+      "title": "Making global data easier to explore",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Helping older adults use AI in everyday life",
+      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 De",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Center",
+      "title": "שמתם לב שה-AirPods שלכם הפכו לטובות יותר השבוע?",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Reimagining advertising with AI",
+      "title": "הקרן הסודית מדובאי שהשקיעה במאסק בזמנים הקשים - והתעשרה מהנפקת SpaceX",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "When the Enterprise Edge Is Everywhere, Security Must Be Too",
+      "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Scammers Are Watching Airline Complaints and Posing as Customer Support",
+      "title": "From guidance to action: Security fundamentals that materially reduce risk",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NightEagle targets Russian companies",
+      "title": "Improving email security outcomes with real-world Microsoft Defender insights",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Atomic macOS (AMOS) Stealer Activity",
+      "title": "AI Threat Landscape Digest: July–August 2026",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "CISA Releases Guidance on Deploying Cyber Decoys",
+      "title": "Exploring the new AWS Sign Up experience",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 94,
+  "total_scanned": 86,
   "selected": 10
 }
