@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-18T08:56:43.539884+00:00",
+  "timestamp": "2026-09-19T08:44:05.671182+00:00",
   "errors": [
     {
-      "title": "Making global data easier to explore",
+      "title": "New experts join Google’s AI & Economy team",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+      "title": "Co-creating the future of fashion with Google",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "title": "Introducing the Australian Youth Safety Blueprint",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "שמתם לב שה-AirPods שלכם הפכו לטובות יותר השבוע?",
+      "title": "היוצר של \"כוכב כחול\" חוזר עם סימולטור טיסה חינמי חדש",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "הקרן הסודית מדובאי שהשקיעה במאסק בזמנים הקשים - והתעשרה מהנפקת SpaceX",
+      "title": "XTEND נבחרה למצטיינות בתוכנית הרחפנים של הפנטגון",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot",
+      "title": "When Security Operations Can’t Keep Up:  4 Ways Agentic Network Security Managem",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "From guidance to action: Security fundamentals that materially reduce risk",
+      "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Improving email security outcomes with real-world Microsoft Defender insights",
+      "title": "[Virtual Event] Cybersecurity Outlook 2027",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "AI Threat Landscape Digest: July–August 2026",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Exploring the new AWS Sign Up experience",
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 86,
+  "total_scanned": 62,
   "selected": 10
 }
