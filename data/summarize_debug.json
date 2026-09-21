@@ -1,32 +1,32 @@
 {
-  "timestamp": "2026-09-20T09:13:07.459459+00:00",
+  "timestamp": "2026-09-21T09:50:16.973646+00:00",
   "errors": [
     {
-      "title": "הנה כל מה שאתם צריכים לדעת על Muse, הסוכן שכולם מדברים עליו",
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ג'מיני פרץ ל-3 חברות בבדיקה של חברה ישראלית, וגוגל ניסתה להסתיר את זה",
+      "title": "Do small language models know what they don't know?",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ה-Ai ברח מהמעבדה של חברה ישראלית. מי אשם?",
+      "title": "HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "סירי המשופרת כבר פה. האם אפל עומדת בציפיות?",
+      "title": "TALON: A Temporally Aware Longitudinal Framework for Radiology Report Generation",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "לא הבנתי עד כמה הייתי מכור לטלפון שלי, עד שנכנסתי לכלא",
+      "title": "From Discharge Notes to Patient Understanding: Persona-Grounded, Open-Ended Simu",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -38,25 +38,25 @@
       "has_details": false
     },
     {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Fla",
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This We",
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdo",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "title": "Google Confirms Gemini AI Breached Three Firms",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 24,
+  "total_scanned": 25,
   "selected": 10
 }

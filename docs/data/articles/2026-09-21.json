@@ -1,0 +1,212 @@
+[
+  {
+    "id": "e1ba906edabdd780",
+    "title_original": "Amazon doesn’t trust Meta’s Muse AI agent",
+    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "description": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that […]",
+    "source_name": "The Verge (AI)",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "ai",
+    "published": "2026-09-21T05:21:47-04:00",
+    "fetched_at": "2026-09-21T09:49:52.910063+00:00",
+    "sources": [
+      {
+        "name": "The Verge (AI)",
+        "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Amazon doesn’t trust Meta’s Muse AI agent",
+    "summary_he": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that […]",
+    "details_he": ""
+  },
+  {
+    "id": "b8aeadac44ae2d92",
+    "title_original": "Do small language models know what they don't know?",
+    "url": "https://arxiv.org/abs/2609.20824",
+    "description": "arXiv:2609.20824v1 Announce Type: new \nAbstract: We explore whether entropy-based confidence signals can be leveraged to improve the accuracy of Small Language Models (SLMs) with fewer than 3 billion parameters, running entirely on consumer hardware. We evaluate seven distinct approaches, including token-level entropy early stopping, semantic entropy estimation, and uncertainty-aware routing to larger expert models, across 7 model pairs and 5 standard NLU benchmarks. Our key finding is that token-level entropy is effectively blind in SLMs: in 91% of dataset-model combinations, mean token entropy is near zero regardless of answer correctness, rendering token-based confidence signals unusable at this scale. We demonstrate that semantic entropy, computed by generating multiple samples, clustering answers by meaning, and measuring distributional uncertainty, recovers a viable confidence signal. Using semantic entropy to selectively route uncertain queries to a larger expert model yields ac",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-09-21T00:00:00-04:00",
+    "fetched_at": "2026-09-21T09:49:54.903151+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2609.20824"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Do small language models know what they don't know?",
+    "summary_he": "arXiv:2609.20824v1 Announce Type: new \nAbstract: We explore whether entropy-based confidence signals can be leveraged to improve the accuracy of Small Language Models (SLMs) with fewer than 3 billion parameters, running entirely on consumer hardware. We evaluate seven distinct approaches, including token-level entropy early stopping, semantic entropy estimation, and uncertainty-aware routing to larger expert models, across 7 model pairs and 5 standard NLU benchmarks. Our key finding is that token-level entropy is effectively blind in SLMs: in 91% of dataset-model combinations, mean token entropy is near zero regardless of answer correctness, rendering token-based confidence signals unusable at this scale. We demonstrate that semantic entropy, computed by generating multiple samples, clustering answers by meaning, and measuring distributional uncertainty, recovers a viable confidence signal. Using semantic entropy to selectively route uncertain queries to a larger expert model yields ac",
+    "details_he": ""
+  },
+  {
+    "id": "1be24f14c0a861e1",
+    "title_original": "HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction",
+    "url": "https://arxiv.org/abs/2609.20825",
+    "description": "arXiv:2609.20825v1 Announce Type: new \nAbstract: Clinical predictive models often rely on structured Electronic Health Record data, such as time-series and procedure codes. While recent approaches have begun leveraging unstructured clinical notes, they typically encode them as flat sequences, which may lose explicit relational and temporal structure present in clinical narratives. In response, we propose HERMES, a graph-based framework that operates exclusively on clinical text while preserving clinical relationships. This approach builds on two key ideas. First, personalized Knowledge Graphs (KGs) are constructed through Large-Language-Model-guided extraction from clinical notes with Contrastive Logic Modeling that explicitly captures temporal dynamics and treatment failures and changes in outcomes. Second, a Graph Attention Network synthesizes patient representations through graph-based learning over the KGs. Experiments on MIMIC-III and MIMIC-IV for in-hospital mortality and 30-day ",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-09-21T00:00:00-04:00",
+    "fetched_at": "2026-09-21T09:49:54.903151+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2609.20825"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction",
+    "summary_he": "arXiv:2609.20825v1 Announce Type: new \nAbstract: Clinical predictive models often rely on structured Electronic Health Record data, such as time-series and procedure codes. While recent approaches have begun leveraging unstructured clinical notes, they typically encode them as flat sequences, which may lose explicit relational and temporal structure present in clinical narratives. In response, we propose HERMES, a graph-based framework that operates exclusively on clinical text while preserving clinical relationships. This approach builds on two key ideas. First, personalized Knowledge Graphs (KGs) are constructed through Large-Language-Model-guided extraction from clinical notes with Contrastive Logic Modeling that explicitly captures temporal dynamics and treatment failures and changes in outcomes. Second, a Graph Attention Network synthesizes patient representations through graph-based learning over the KGs. Experiments on MIMIC-III and MIMIC-IV for in-hospital mortality and 30-day ",
+    "details_he": ""
+  },
+  {
+    "id": "048fdfd918e47eaa",
+    "title_original": "TALON: A Temporally Aware Longitudinal Framework for Radiology Report Generation",
+    "url": "https://arxiv.org/abs/2609.20826",
+    "description": "arXiv:2609.20826v1 Announce Type: new \nAbstract: Current radiology report generation (RRG) models usually produce descriptive reports based on a single examination or only the most recent prior examination, limiting their ability to perform accurate and meaningful longitudinal comparisons and detect subtle interval changes. Although recent approaches have begun to incorporate multiple prior examinations, they usually aggregate a fixed-length history without explicitly modeling the role-dependent relevance of each prior examination before fusion. To address this, we propose TALON, a Temporally Aware LONgitudinal RRG framework that adaptively integrates variable-length patient histories. The underlying Dual-Channel Temporal Fusion Module (DCTFM) compares the current examination with each prior examination through complementary similarity and change channels to capture persistent findings and interval changes, respectively. The specially designed channel-specific attention estimates the r",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-09-21T00:00:00-04:00",
+    "fetched_at": "2026-09-21T09:49:54.903151+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2609.20826"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "TALON: A Temporally Aware Longitudinal Framework for Radiology Report Generation",
+    "summary_he": "arXiv:2609.20826v1 Announce Type: new \nAbstract: Current radiology report generation (RRG) models usually produce descriptive reports based on a single examination or only the most recent prior examination, limiting their ability to perform accurate and meaningful longitudinal comparisons and detect subtle interval changes. Although recent approaches have begun to incorporate multiple prior examinations, they usually aggregate a fixed-length history without explicitly modeling the role-dependent relevance of each prior examination before fusion. To address this, we propose TALON, a Temporally Aware LONgitudinal RRG framework that adaptively integrates variable-length patient histories. The underlying Dual-Channel Temporal Fusion Module (DCTFM) compares the current examination with each prior examination through complementary similarity and change channels to capture persistent findings and interval changes, respectively. The specially designed channel-specific attention estimates the r",
+    "details_he": ""
+  },
+  {
+    "id": "89894e7903f1df8a",
+    "title_original": "From Discharge Notes to Patient Understanding: Persona-Grounded, Open-Ended Simulation of LLMs as Discharge Educators",
+    "url": "https://arxiv.org/abs/2609.20827",
+    "description": "arXiv:2609.20827v1 Announce Type: new \nAbstract: Hospital discharge education is an interactive teaching task: a clinician adapts a discharge plan to a patient's literacy, recall, and personality. Existing LLM evaluations target static or artifact-generation tasks and do not measure patient understanding under open-ended dialogue. We introduce DischargeBench, a persona-grounded simulation in which a candidate LLM educator conducts a multi-turn session with a Virtual Patient, while an Education Monitor Agent regulates patient realism without modifying the educator, protecting the evaluation signal. We curate MIMIC-IV-Ext-DischargeBench, 477 cases over 24 ICD chapters with persona axes (personality, education level, health literacy, past-medical-history recall) for stratified analysis. Each simulation is scored on four axes -- Conversation Quality, Topic Checklist, Comprehension, and Factual Consistency -- by an LLM-as-a-Judge aligned against physician annotations. Across closed- and ope",
+    "source_name": "arXiv (AI/CL/LG)",
+    "source_url": "https://arxiv.org",
+    "category": "ai",
+    "published": "2026-09-21T00:00:00-04:00",
+    "fetched_at": "2026-09-21T09:49:54.903151+00:00",
+    "sources": [
+      {
+        "name": "arXiv (AI/CL/LG)",
+        "url": "https://arxiv.org/abs/2609.20827"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Discharge Notes to Patient Understanding: Persona-Grounded, Open-Ended Simulation of LLMs as Discharge Educators",
+    "summary_he": "arXiv:2609.20827v1 Announce Type: new \nAbstract: Hospital discharge education is an interactive teaching task: a clinician adapts a discharge plan to a patient's literacy, recall, and personality. Existing LLM evaluations target static or artifact-generation tasks and do not measure patient understanding under open-ended dialogue. We introduce DischargeBench, a persona-grounded simulation in which a candidate LLM educator conducts a multi-turn session with a Virtual Patient, while an Education Monitor Agent regulates patient realism without modifying the educator, protecting the evaluation signal. We curate MIMIC-IV-Ext-DischargeBench, 477 cases over 24 ICD chapters with persona axes (personality, education level, health literacy, past-medical-history recall) for stratified analysis. Each simulation is scored on four axes -- Conversation Quality, Topic Checklist, Comprehension, and Factual Consistency -- by an LLM-as-a-Judge aligned against physician annotations. Across closed- and ope",
+    "details_he": ""
+  },
+  {
+    "id": "15f66c473ec439db",
+    "title_original": "[Virtual Event] Cybersecurity Outlook 2027",
+    "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+    "description": "",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-12-03T16:00:00+00:00",
+    "fetched_at": "2026-09-21T09:49:56.126297+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "[Virtual Event] Cybersecurity Outlook 2027",
+    "summary_he": "[Virtual Event] Cybersecurity Outlook 2027",
+    "details_he": ""
+  },
+  {
+    "id": "f19ef4928faa34a1",
+    "title_original": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+    "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+    "description": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-21T14:09:38+05:30",
+    "fetched_at": "2026-09-21T09:49:55.829058+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+    "summary_he": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)",
+    "details_he": ""
+  },
+  {
+    "id": "9cf4ca463c468702",
+    "title_original": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+    "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+    "description": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks.\n\nCybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-21T11:36:44+05:30",
+    "fetched_at": "2026-09-21T09:49:55.829058+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+    "summary_he": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks.\n\nCybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
+    "details_he": ""
+  },
+  {
+    "id": "57654bdbe2b3a4a5",
+    "title_original": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
+    "url": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
+    "description": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory.The postOrganizations Warned of 3 Exploited Linux Kernel Vulnerabilitiesappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-09-21T09:31:12+00:00",
+    "fetched_at": "2026-09-21T09:49:56.694641+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
+    "summary_he": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory.The postOrganizations Warned of 3 Exploited Linux Kernel Vulnerabilitiesappeared first onSecurityWeek.",
+    "details_he": ""
+  },
+  {
+    "id": "269f17910ee981e1",
+    "title_original": "Google Confirms Gemini AI Breached Three Firms",
+    "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+    "description": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies.The postGoogle Confirms Gemini AI Breached Three Firmsappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-09-21T07:20:46+00:00",
+    "fetched_at": "2026-09-21T09:49:56.694641+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google Confirms Gemini AI Breached Three Firms",
+    "summary_he": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies.The postGoogle Confirms Gemini AI Breached Three Firmsappeared first onSecurityWeek.",
+    "details_he": ""
+  }
+]
