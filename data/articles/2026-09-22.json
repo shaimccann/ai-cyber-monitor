@@ -1,0 +1,212 @@
+[
+  {
+    "id": "22f758216a3fa22b",
+    "title_original": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "url": "https://huggingface.co/blog/omlx",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-22T00:00:00+00:00",
+    "fetched_at": "2026-09-22T09:13:26.433663+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/omlx"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "summary_he": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "details_he": ""
+  },
+  {
+    "id": "65bbfb6078ac0a45",
+    "title_original": "Amazon launches research initiative with Stanford University to advance AI and science",
+    "url": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
+    "description": "The collaboration aims to advance research while broadening participation and translating discovery into real-world solutions.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-09-21T19:31:59+00:00",
+    "fetched_at": "2026-09-22T09:13:26.848442+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Amazon launches research initiative with Stanford University to advance AI and science",
+    "summary_he": "The collaboration aims to advance research while broadening participation and translating discovery into real-world solutions.",
+    "details_he": ""
+  },
+  {
+    "id": "395191112ad8d93c",
+    "title_original": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+    "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+    "description": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-21T18:00:07+00:00",
+    "fetched_at": "2026-09-22T09:13:26.649453+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+    "summary_he": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
+    "details_he": ""
+  },
+  {
+    "id": "2e4ae80b845551d6",
+    "title_original": "Advancing AI for biology: Teaching models to design and characterize antibodies",
+    "url": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
+    "description": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-09-21T17:51:00+00:00",
+    "fetched_at": "2026-09-22T09:13:26.848442+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Advancing AI for biology: Teaching models to design and characterize antibodies",
+    "summary_he": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.",
+    "details_he": ""
+  },
+  {
+    "id": "32c7b60d530845c9",
+    "title_original": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+    "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+    "description": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-21T16:00:46+00:00",
+    "fetched_at": "2026-09-22T09:13:26.649453+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+    "summary_he": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+    "details_he": ""
+  },
+  {
+    "id": "b54125b308f67d38",
+    "title_original": "21st September – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/21st-september-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 21st Setpember, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Japan’s Digital Agency, which operates the Government Solution Service used by multiple ministries, has confirmed a data breach after attackers exploited a vulnerability in a VPN appliance. Approximately 246,000 records were exposed, […]The post21st September – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-21T23:13:07+00:00",
+    "fetched_at": "2026-09-22T09:13:36.756091+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/21st-september-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "21st September – Threat Intelligence Report",
+    "summary_he": "For the latest discoveries in cyber research for the week of 21st Setpember, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Japan’s Digital Agency, which operates the Government Solution Service used by multiple ministries, has confirmed a data breach after attackers exploited a vulnerability in a VPN appliance. Approximately 246,000 records were exposed, […]The post21st September – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "eba3129ccf8ae3a5",
+    "title_original": "Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO",
+    "url": "https://securelist.com/tr/payload-ransomware-via-group-policy/121335/",
+    "description": "Kaspersky GERT experts dive into the technical incident analysis of PAYLOAD ransomware: an encryptionless, binary-less operation that abused Active Directory mechanisms for managing Group Policy Objects.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-09-21T10:00:40+00:00",
+    "fetched_at": "2026-09-22T09:13:35.082143+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/tr/payload-ransomware-via-group-policy/121335/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO",
+    "summary_he": "Kaspersky GERT experts dive into the technical incident analysis of PAYLOAD ransomware: an encryptionless, binary-less operation that abused Active Directory mechanisms for managing Group Policy Objects.",
+    "details_he": ""
+  },
+  {
+    "id": "d32b656f13645b18",
+    "title_original": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies",
+    "url": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
+    "description": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies.The postFrom Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policiesappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-09-21T10:00:13+00:00",
+    "fetched_at": "2026-09-22T09:13:35.006240+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies",
+    "summary_he": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies.The postFrom Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policiesappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "d40634c00af94fb2",
+    "title_original": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+    "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+    "description": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21.\n\nIt works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta.\n\nThe flaw is in",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-22T12:03:57+05:30",
+    "fetched_at": "2026-09-22T09:13:29.693390+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+    "summary_he": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21.\n\nIt works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta.\n\nThe flaw is in",
+    "details_he": ""
+  },
+  {
+    "id": "5877b3b58f58d652",
+    "title_original": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+    "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+    "description": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server.\n\nWordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-22T11:33:14+05:30",
+    "fetched_at": "2026-09-22T09:13:29.693390+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+    "summary_he": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server.\n\nWordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
+    "details_he": ""
+  }
+]
