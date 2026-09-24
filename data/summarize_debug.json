@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-23T09:14:21.606617+00:00",
+  "timestamp": "2026-09-24T09:12:53.886933+00:00",
   "errors": [
     {
-      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southea",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Better prompt caching for GPT-6",
+      "title": "Google Beam expands with new regions, partners, and customers",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna",
+      "title": "Offloaded inference for real-world physical AI robotics",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "title": "Two years of OpenAI Academy",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
+      "title": "Securing what your Bedrock AgentCore agents actually do",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and ",
+      "title": "Reimagining the SOC for the agentic era in Microsoft Defender",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Growing the WIN AI Ecosystem with Agent Integrations",
+      "title": "Workforce AI Security Policy Management Is Now Conversational",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAu",
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public F",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malwar",
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default P",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 105,
+  "total_scanned": 106,
   "selected": 10
 }

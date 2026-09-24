@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1002f913aaeaf1d8",
+    "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-23T18:41:40+00:00",
+    "fetched_at": "2026-09-24T09:12:30.244649+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "summary_he": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "details_he": ""
+  },
+  {
+    "id": "978c237da818e4b3",
+    "title_original": "Google Beam expands with new regions, partners, and customers",
+    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "description": "Google Beam promotional animation",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-09-23T18:00:00+00:00",
+    "fetched_at": "2026-09-24T09:12:26.217768+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google Beam expands with new regions, partners, and customers",
+    "summary_he": "Google Beam promotional animation",
+    "details_he": ""
+  },
+  {
+    "id": "1d9bc4d142180633",
+    "title_original": "Offloaded inference for real-world physical AI robotics",
+    "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+    "description": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.The postOffloaded inference for real-world physical AI roboticsappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-09-23T16:01:36+00:00",
+    "fetched_at": "2026-09-24T09:12:26.697583+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Offloaded inference for real-world physical AI robotics",
+    "summary_he": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.The postOffloaded inference for real-world physical AI roboticsappeared first onMicrosoft Research.",
+    "details_he": ""
+  },
+  {
+    "id": "b819bd73867a3c20",
+    "title_original": "Advancing Private AI Compute with secure, server-side memory",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-09-23T16:00:57+00:00",
+    "fetched_at": "2026-09-24T09:12:25.611441+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Advancing Private AI Compute with secure, server-side memory",
+    "summary_he": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "details_he": ""
+  },
+  {
+    "id": "2edd7648a21c2d3d",
+    "title_original": "Two years of OpenAI Academy",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-09-23T16:00:00+00:00",
+    "fetched_at": "2026-09-24T09:12:25.143662+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/two-years-of-openai-academy"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Two years of OpenAI Academy",
+    "summary_he": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "details_he": ""
+  },
+  {
+    "id": "945e4f1f28a4d4cd",
+    "title_original": "Securing what your Bedrock AgentCore agents actually do",
+    "url": "https://www.catonetworks.com/blog/securing-what-your-bedrock-agentcore-agents-actually-do/",
+    "description": "An AI agent is software that can act on your behalf. It may read documents, emails, and web pages, then use the systems you connected to complete a task. Amazon Bedrock AgentCore makes these agents faster to build and deploy. But securing them requires more than limiting which systems an agent can access. You also...The postSecuring what your Bedrock AgentCore agents actually doappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-09-24T08:12:52+00:00",
+    "fetched_at": "2026-09-24T09:12:42.819335+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/securing-what-your-bedrock-agentcore-agents-actually-do/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing what your Bedrock AgentCore agents actually do",
+    "summary_he": "An AI agent is software that can act on your behalf. It may read documents, emails, and web pages, then use the systems you connected to complete a task. Amazon Bedrock AgentCore makes these agents faster to build and deploy. But securing them requires more than limiting which systems an agent can access. You also...The postSecuring what your Bedrock AgentCore agents actually doappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "a881a2d2d8070bc6",
+    "title_original": "Reimagining the SOC for the agentic era in Microsoft Defender",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
+    "description": "We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together.The postReimagining the SOC for the agentic era in Microsoft Defenderappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-23T16:00:00+00:00",
+    "fetched_at": "2026-09-24T09:12:35.377020+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Reimagining the SOC for the agentic era in Microsoft Defender",
+    "summary_he": "We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together.The postReimagining the SOC for the agentic era in Microsoft Defenderappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "3ae12c75c46ccd3b",
+    "title_original": "Workforce AI Security Policy Management Is Now Conversational",
+    "url": "https://blog.checkpoint.com/ai-security/workforce-ai-security-policy-management-is-now-conversational/",
+    "description": "In this article The new Workforce AI MCP is Check Point’s own Model Context Protocol server for Workforce AI Security. Connect a compatible AI client and you can query, analyze, and manage your employee AI usage policy in natural language instead of working through filters, screens, and individual rule checks. →ask plain questions such as which rule applies to a given user and application, or whether a rule is shadowed by a higher-priority one →work across users, managed assets, GenAI application usage, DLP data types, and agent and MCP activity in a single conversation →create and update rules by request […]The postWorkforce AI Security Policy Management Is Now Conversationalappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-09-23T13:00:59+00:00",
+    "fetched_at": "2026-09-24T09:12:46.457670+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/workforce-ai-security-policy-management-is-now-conversational/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Workforce AI Security Policy Management Is Now Conversational",
+    "summary_he": "In this article The new Workforce AI MCP is Check Point’s own Model Context Protocol server for Workforce AI Security. Connect a compatible AI client and you can query, analyze, and manage your employee AI usage policy in natural language instead of working through filters, screens, and individual rule checks. →ask plain questions such as which rule applies to a given user and application, or whether a rule is shadowed by a higher-priority one →work across users, managed assets, GenAI application usage, DLP data types, and agent and MCP activity in a single conversation →create and update rules by request […]The postWorkforce AI Security Policy Management Is Now Conversationalappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "906fcfbd68dd41ec",
+    "title_original": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+    "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+    "description": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said.\n\nThe portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-24T12:37:25+05:30",
+    "fetched_at": "2026-09-24T09:12:33.262300+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+    "summary_he": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said.\n\nThe portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal",
+    "details_he": ""
+  },
+  {
+    "id": "babb789879c52d5b",
+    "title_original": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+    "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+    "description": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.\n\nAccording to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses.\n\n\"The campaign compromised 7 accounts –",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-24T12:02:03+05:30",
+    "fetched_at": "2026-09-24T09:12:33.262300+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+    "summary_he": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.\n\nAccording to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses.\n\n\"The campaign compromised 7 accounts –",
+    "details_he": ""
+  }
+]
