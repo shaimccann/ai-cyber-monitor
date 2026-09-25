@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-24T09:12:53.886933+00:00",
+  "timestamp": "2026-09-25T09:32:12.249382+00:00",
   "errors": [
     {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Google Beam expands with new regions, partners, and customers",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Offloaded inference for real-world physical AI robotics",
+      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Two years of OpenAI Academy",
+      "title": "״בלי להתגבר על חסמי המסחור, הדיפנס-טק הישראלי יישאר אוסף של חברות טובות״",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Securing what your Bedrock AgentCore agents actually do",
+      "title": "Wiz Named a Leader in The Forrester Wave™: Proactive Security Platforms, Q3 2026",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Reimagining the SOC for the agentic era in Microsoft Defender",
+      "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deploy",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Workforce AI Security Policy Management Is Now Conversational",
+      "title": "​​​​​​​​What’s new in Microsoft Security: September 2026​​",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public F",
+      "title": "A Decision Model Breaks Like Any Other Language Model: A First Look at Jev",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default P",
+      "title": "Can We Control Every AI Agent Before It Becomes Our Next Privileged Insider?",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 106,
+  "total_scanned": 96,
   "selected": 10
 }
