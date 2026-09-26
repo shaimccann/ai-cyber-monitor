@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-25T09:32:12.249382+00:00",
+  "timestamp": "2026-09-26T09:17:05.723500+00:00",
   "errors": [
     {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "title": "A kernel-centric path to real-time video generation on Trainium",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "title": "מגה רבעון: הסטארטאפים הישראליים כבר גייסו יותר מבשנה שעברה",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+      "title": "לראשונה: ה-SEC הותקף בידי הבינה המלאכותית של OpenAI",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "״בלי להתגבר על חסמי המסחור, הדיפנס-טק הישראלי יישאר אוסף של חברות טובות״",
+      "title": "למה לקנות כשאפשר להדפיס? לאומת \"עשה זאת בעצמך\" יש פתרון לכל דבר",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Wiz Named a Leader in The Forrester Wave™: Proactive Security Platforms, Q3 2026",
+      "title": "3 Consulting Myths Debunked by Unit 42 Experts",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deploy",
+      "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "​​​​​​​​What’s new in Microsoft Security: September 2026​​",
+      "title": "Two Things Every Cyber Asset Attack Surface Management (CAASM) Tool Needs to Get",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "A Decision Model Breaks Like Any Other Language Model: A First Look at Jev",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Can We Control Every AI Agent Before It Becomes Our Next Privileged Insider?",
+      "title": "Army soldier sentenced for spree of attacks on AT&T, Snowflake and other major c",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 96,
+  "total_scanned": 55,
   "selected": 10
 }
