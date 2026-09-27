@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-26T09:17:05.723500+00:00",
+  "timestamp": "2026-09-27T09:56:45.710391+00:00",
   "errors": [
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "title": "בגלל המנגנון ההפטי: אפל תשלם 5.7 מיליארד דולר",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "A kernel-centric path to real-time video generation on Trainium",
+      "title": "קרן BIRD מציעה עד 1.5 מיליון דולר לפרויקטים משותפים של חברות ישראליות ואמריקאיות",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "מגה רבעון: הסטארטאפים הישראליים כבר גייסו יותר מבשנה שעברה",
+      "title": "ב-OpenAI מודים: אנחנו עוצרים את פיתוח מודלי הענק שלנו אחרי שורת תקריות חמורות",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "לראשונה: ה-SEC הותקף בידי הבינה המלאכותית של OpenAI",
+      "title": "דברו עם הסוכן שלי: 3 אירועים שיעזרו לכם לעבוד חכם יותר עם מודלי AI",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "למה לקנות כשאפשר להדפיס? לאומת \"עשה זאת בעצמך\" יש פתרון לכל דבר",
+      "title": "אחרי שפרצו לאתרים ממשלתיים - OpenAI מקפיאה את אימון המודלים החדשים",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "3 Consulting Myths Debunked by Unit 42 Experts",
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
+      "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Two Things Every Cyber Asset Attack Surface Management (CAASM) Tool Needs to Get",
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Militar",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Army soldier sentenced for spree of attacks on AT&T, Snowflake and other major c",
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 55,
+  "total_scanned": 25,
   "selected": 10
 }
