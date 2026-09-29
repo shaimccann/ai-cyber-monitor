@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-28T10:47:04.272210+00:00",
+  "timestamp": "2026-09-29T10:35:09.245948+00:00",
   "errors": [
     {
-      "title": "Holo4: powering generalist computer-use agents",
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, part",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "האזהרה החריגה של ביל גייטס: ה-AI עלול להוביל ל”מיליארד מתים”",
+      "title": "How we will do better for Australia",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "מנכ\"ל אנבידיה סימן את התחום הלוהט הבא: עכשיו הוא נכנס אליו",
+      "title": "Towards safety cases for frontier AI training",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "הפלונטר הפוליטי שמשאיר את ענקיות ההייטק בערפל רגולטורי",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Who’s liable when AI agents go rogue?",
+      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Goal Tells an Agent What to Do. Security Has to Govern How.",
+      "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure ",
+      "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operati",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protecti",
+      "title": "28th September – Threat Intelligence Report",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
+      "title": "Introducing the Wiz Partner Alliance Managed Service Provider Program",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 37,
+  "total_scanned": 98,
   "selected": 10
 }
