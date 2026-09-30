@@ -1,0 +1,212 @@
+[
+  {
+    "id": "cf4283af967ec44a",
+    "title_original": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-29T15:30:38+00:00",
+    "fetched_at": "2026-09-30T10:24:26.542827+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "summary_he": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "details_he": ""
+  },
+  {
+    "id": "9fd39a6161a6c56c",
+    "title_original": "Introducing Quine: An AI research system designed for the complexity of biology",
+    "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "description": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.The postIntroducing Quine: An AI research system designed for the complexity of biologyappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-09-29T14:00:02+00:00",
+    "fetched_at": "2026-09-30T10:24:24.716963+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Quine: An AI research system designed for the complexity of biology",
+    "summary_he": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.The postIntroducing Quine: An AI research system designed for the complexity of biologyappeared first onMicrosoft Research.",
+    "details_he": ""
+  },
+  {
+    "id": "b74a5a158211aadc",
+    "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-09-29T13:07:00+00:00",
+    "fetched_at": "2026-09-30T10:24:26.542827+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "summary_he": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "details_he": ""
+  },
+  {
+    "id": "1a357089e88e17c3",
+    "title_original": "מהאירוע הזה תצאו עם סוכן AI עובד שכבר מוטמע בחברה שלכם",
+    "url": "https://www.geektime.co.il/ai-agents-in-action-meetup-21102026/",
+    "description": "כל חברה שרוצה להישאר תחרותית יודעת שעידן הצ'אטבוטים נגמר: הלקוחות מאסו בתפריט התשובות המוכנות שבמקרים רבים פשוט לא מתאימות לסיטואציה, מסבכות את השירות ויוצרות בעיקר תסכול. השלב הבא הוא סוכני AI שפועלים כמו נציג חכם: הם מזהים את צורכי המשתמש, מבינים הקשרים, שואלים שאלות, מספקים מידע מותאם אישית ומניעים לפעולה. בניגוד לפתרונות מסורתיים, סוכנים יודעים […]The postמהאירוע הזה תצאו עם סוכן AI עובד שכבר מוטמע בחברה שלכםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-09-30T09:00:30+00:00",
+    "fetched_at": "2026-09-30T10:25:02.494867+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/ai-agents-in-action-meetup-21102026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מהאירוע הזה תצאו עם סוכן AI עובד שכבר מוטמע בחברה שלכם",
+    "summary_he": "כל חברה שרוצה להישאר תחרותית יודעת שעידן הצ'אטבוטים נגמר: הלקוחות מאסו בתפריט התשובות המוכנות שבמקרים רבים פשוט לא מתאימות לסיטואציה, מסבכות את השירות ויוצרות בעיקר תסכול. השלב הבא הוא סוכני AI שפועלים כמו נציג חכם: הם מזהים את צורכי המשתמש, מבינים הקשרים, שואלים שאלות, מספקים מידע מותאם אישית ומניעים לפעולה. בניגוד לפתרונות מסורתיים, סוכנים יודעים […]The postמהאירוע הזה תצאו עם סוכן AI עובד שכבר מוטמע בחברה שלכםappeared first onגיקטיים.",
+    "details_he": ""
+  },
+  {
+    "id": "93ab96ef0cc67c8f",
+    "title_original": "יזם ישראלי לא יוכל להשתתף בהאקתון. הסיבה? חשש שיפעיל מתקפת ביפרים",
+    "url": "https://www.geektime.co.il/israeli-got-rejected-from-this-hackathon/",
+    "description": "למרות ההישגים והמעמד של ההייטק הישראלי בעולם, יש עדיין גורמים בקהילת ההייטק העולמית שמנסים לפעול כנגד גורמים ישראלים. רק תשאלו את אדם לוי, יזם צעיר שרק ניסה להירשם להאקתון בארצות הברית, כדי לגלות שהבקשה שלו נדחתה \"מסיבות בטחוניות\", ולא כדי להגן עליו. \"שונאי ישראל ואנטישמים ממשיכים להגיע אליי\" לוי העלה לחשבון ה-X שלו פוסט ובו […]The postיזם ישראלי לא יוכל להשתתף בהאקתון. הסיבה? חשש שיפעיל מתקפת ביפריםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-09-30T08:26:10+00:00",
+    "fetched_at": "2026-09-30T10:25:02.494867+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/israeli-got-rejected-from-this-hackathon/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "יזם ישראלי לא יוכל להשתתף בהאקתון. הסיבה? חשש שיפעיל מתקפת ביפרים",
+    "summary_he": "למרות ההישגים והמעמד של ההייטק הישראלי בעולם, יש עדיין גורמים בקהילת ההייטק העולמית שמנסים לפעול כנגד גורמים ישראלים. רק תשאלו את אדם לוי, יזם צעיר שרק ניסה להירשם להאקתון בארצות הברית, כדי לגלות שהבקשה שלו נדחתה \"מסיבות בטחוניות\", ולא כדי להגן עליו. \"שונאי ישראל ואנטישמים ממשיכים להגיע אליי\" לוי העלה לחשבון ה-X שלו פוסט ובו […]The postיזם ישראלי לא יוכל להשתתף בהאקתון. הסיבה? חשש שיפעיל מתקפת ביפריםappeared first onגיקטיים.",
+    "details_he": ""
+  },
+  {
+    "id": "a440d5ab3c73ab0b",
+    "title_original": "Phishing Abuses RMM Tools for Persistent Access",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
+    "description": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activityThe postPhishing Abuses RMM Tools for Persistent Accessappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-29T21:39:27+00:00",
+    "fetched_at": "2026-09-30T10:24:33.300354+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Phishing Abuses RMM Tools for Persistent Access",
+    "summary_he": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activityThe postPhishing Abuses RMM Tools for Persistent Accessappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "1c052d028eed61b2",
+    "title_original": "​​Beyond source code: A path to the keys to the kingdom",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+    "description": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.The post​​Beyond source code: A path to the keys to the kingdomappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-29T16:00:00+00:00",
+    "fetched_at": "2026-09-30T10:24:33.300354+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "​​Beyond source code: A path to the keys to the kingdom",
+    "summary_he": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.The post​​Beyond source code: A path to the keys to the kingdomappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "cf73df995145a20d",
+    "title_original": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
+    "description": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”.The postStar Blizzard refines phishing and malware delivery with the RedFlick techniqueappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-29T15:00:00+00:00",
+    "fetched_at": "2026-09-30T10:24:33.300354+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+    "summary_he": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”.The postStar Blizzard refines phishing and malware delivery with the RedFlick techniqueappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "d38a182d21d1d739",
+    "title_original": "The Blue Agent POV: Investigating Multi-Platform Data Exfiltration Across AWS and GitHub",
+    "url": "https://www.wiz.io/blog/blue-agent-data-exfiltration-investigation",
+    "description": "See how the Blue Agent investigated a multi-platform attack in minutes, following evidence across AWS and GitHub to uncover compromised credentials, stolen source code, and custom data exfiltration tooling",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-09-29T12:42:40+00:00",
+    "fetched_at": "2026-09-30T10:24:42.293449+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/blue-agent-data-exfiltration-investigation"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Blue Agent POV: Investigating Multi-Platform Data Exfiltration Across AWS and GitHub",
+    "summary_he": "See how the Blue Agent investigated a multi-platform attack in minutes, following evidence across AWS and GitHub to uncover compromised credentials, stolen source code, and custom data exfiltration tooling",
+    "details_he": ""
+  },
+  {
+    "id": "bd5b4c0fd8f7544b",
+    "title_original": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+    "description": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.\n\nThe activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-09-30T13:54:35+05:30",
+    "fetched_at": "2026-09-30T10:24:30.502808+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+    "summary_he": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.\n\nThe activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional",
+    "details_he": ""
+  }
+]

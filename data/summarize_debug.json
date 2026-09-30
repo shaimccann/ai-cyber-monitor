@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-09-29T10:35:09.245948+00:00",
+  "timestamp": "2026-09-30T10:25:12.201115+00:00",
   "errors": [
     {
-      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, part",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Predicti",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How we will do better for Australia",
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Towards safety cases for frontier AI training",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP A",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "title": "מהאירוע הזה תצאו עם סוכן AI עובד שכבר מוטמע בחברה שלכם",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+      "title": "יזם ישראלי לא יוכל להשתתף בהאקתון. הסיבה? חשש שיפעיל מתקפת ביפרים",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
+      "title": "Phishing Abuses RMM Tools for Persistent Access",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in",
+      "title": "​​Beyond source code: A path to the keys to the kingdom",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operati",
+      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "28th September – Threat Intelligence Report",
+      "title": "The Blue Agent POV: Investigating Multi-Platform Data Exfiltration Across AWS an",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Introducing the Wiz Partner Alliance Managed Service Provider Program",
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
