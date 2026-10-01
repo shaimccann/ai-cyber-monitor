@@ -1,0 +1,212 @@
+[
+  {
+    "id": "01eb6609810bb181",
+    "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-09-30T20:01:45+00:00",
+    "fetched_at": "2026-10-01T10:51:28.985292+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Gemini 4 Argon: our next era of frontier intelligence",
+    "summary_he": "Gemini 4 Argon: our next era of frontier intelligence",
+    "details_he": ""
+  },
+  {
+    "id": "23ff735cc566de0b",
+    "title_original": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+    "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+    "description": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-30T17:00:21+00:00",
+    "fetched_at": "2026-10-01T10:51:33.374105+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+    "summary_he": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th […]",
+    "details_he": ""
+  },
+  {
+    "id": "c37c6568f252c285",
+    "title_original": "Forecasting space weather risks on power grids",
+    "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "description": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives.The postForecasting space weather risks on power gridsappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-09-30T16:00:00+00:00",
+    "fetched_at": "2026-10-01T10:51:29.528409+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Forecasting space weather risks on power grids",
+    "summary_he": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives.The postForecasting space weather risks on power gridsappeared first onMicrosoft Research.",
+    "details_he": ""
+  },
+  {
+    "id": "20f40d226f906c1c",
+    "title_original": "Introducing SynthID Bio",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-09-30T15:03:07+00:00",
+    "fetched_at": "2026-10-01T10:51:28.985292+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-synthid-bio/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing SynthID Bio",
+    "summary_he": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "details_he": ""
+  },
+  {
+    "id": "c48019566e3bff34",
+    "title_original": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+    "description": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-09-30T15:00:00+00:00",
+    "fetched_at": "2026-10-01T10:51:33.374105+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+    "summary_he": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
+    "details_he": ""
+  },
+  {
+    "id": "18ae54ec8084dbb3",
+    "title_original": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+    "url": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
+    "description": "Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild.The postThreat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-09-30T20:00:04+00:00",
+    "fetched_at": "2026-10-01T10:51:45.390081+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+    "summary_he": "Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild.The postThreat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)appeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "c8630882ef0914be",
+    "title_original": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
+    "description": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams.The post​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026appeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-30T19:31:00+00:00",
+    "fetched_at": "2026-10-01T10:51:39.918197+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
+    "summary_he": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams.The post​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026appeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "d1e91aed2e68e9ed",
+    "title_original": "Securing the Kubernetes Supply Chain: Introducing WizOS Helm Charts",
+    "url": "https://www.wiz.io/blog/wizos-helm-charts",
+    "description": "Secure your Kubernetes supply chain with WizOS Helm Charts. Eliminate hidden CI/CD risks and unmaintained dependencies with hardened, signed, and CVE-scanned charts for seamless Kubernetes deployment.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-09-30T15:52:31+00:00",
+    "fetched_at": "2026-10-01T10:51:47.290265+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wizos-helm-charts"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Securing the Kubernetes Supply Chain: Introducing WizOS Helm Charts",
+    "summary_he": "Secure your Kubernetes supply chain with WizOS Helm Charts. Eliminate hidden CI/CD risks and unmaintained dependencies with hardened, signed, and CVE-scanned charts for seamless Kubernetes deployment.",
+    "details_he": ""
+  },
+  {
+    "id": "6a7cbe793f5ff5d3",
+    "title_original": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
+    "description": "Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance.The postUnauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570appeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-09-30T14:00:00+00:00",
+    "fetched_at": "2026-10-01T10:51:39.918197+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+    "summary_he": "Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance.The postUnauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570appeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "07690e8cd3da6b4c",
+    "title_original": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+    "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+    "description": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.\n\n\"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" Koray Kavukcuoglu,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-01T13:19:36+05:30",
+    "fetched_at": "2026-10-01T10:51:36.801647+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+    "summary_he": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.\n\n\"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" Koray Kavukcuoglu,",
+    "details_he": ""
+  }
+]
