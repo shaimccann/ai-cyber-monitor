@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ef2ece6e0e9f66f0",
+    "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-10-02T04:01:31+00:00",
+    "fetched_at": "2026-10-02T10:25:27.390031+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "summary_he": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "details_he": ""
+  },
+  {
+    "id": "515b6134f27ef81e",
+    "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+    "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+    "description": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users.  Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-10-01T23:44:13+00:00",
+    "fetched_at": "2026-10-02T10:25:27.815494+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+    "summary_he": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users.  Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […]",
+    "details_he": ""
+  },
+  {
+    "id": "448f9e0407444b9a",
+    "title_original": "The eternal complement",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-10-01T17:00:00+00:00",
+    "fetched_at": "2026-10-02T10:25:22.388270+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-eternal-complement"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The eternal complement",
+    "summary_he": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "details_he": ""
+  },
+  {
+    "id": "60482ea1c3fb8103",
+    "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-10-01T16:00:00+00:00",
+    "fetched_at": "2026-10-02T10:25:22.388270+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/albertsons-reimagining-retail"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Albertsons Companies is reimagining retail from the inside out",
+    "summary_he": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "details_he": ""
+  },
+  {
+    "id": "2c9401f623f9e23a",
+    "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "url": "https://huggingface.co/blog/allenai/olmocore3",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-10-01T15:01:43+00:00",
+    "fetched_at": "2026-10-02T10:25:27.390031+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/olmocore3"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "summary_he": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "details_he": ""
+  },
+  {
+    "id": "7e5f0231e3f9e337",
+    "title_original": "Amazon Prime Big Deal Days 2026: As Shopping Activity Surges, So Do Cyber Threats",
+    "url": "https://blog.checkpoint.com/research/amazon-prime-big-deal-days-2026-as-shopping-activity-surges-so-do-cyber-threats/",
+    "description": "As Amazon prepares for Prime Big Deal Days, its Fall Prime Day event on October 6-7, cybercriminals are already exploiting the anticipation surrounding one of the year’s largest online shopping events. New findings from Check Point Research reveal a significant increase in Amazon-related domains, alongside ongoing phishing campaigns and malicious websites designed to target online shoppers. Amazon-Related Domain Registrations Continue to Rise Check Point Research observed a steady increase in newly registered Amazon- and Prime Day-related domains in the months leading up to the event. New Amazon- and Prime Day-related domain registrations have risen for three straight months, climbing from […]The postAmazon Prime Big Deal Days 2026: As Shopping Activity Surges, So Do Cyber Threatsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-01T22:23:34+00:00",
+    "fetched_at": "2026-10-02T10:25:45.193988+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/amazon-prime-big-deal-days-2026-as-shopping-activity-surges-so-do-cyber-threats/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Amazon Prime Big Deal Days 2026: As Shopping Activity Surges, So Do Cyber Threats",
+    "summary_he": "As Amazon prepares for Prime Big Deal Days, its Fall Prime Day event on October 6-7, cybercriminals are already exploiting the anticipation surrounding one of the year’s largest online shopping events. New findings from Check Point Research reveal a significant increase in Amazon-related domains, alongside ongoing phishing campaigns and malicious websites designed to target online shoppers. Amazon-Related Domain Registrations Continue to Rise Check Point Research observed a steady increase in newly registered Amazon- and Prime Day-related domains in the months leading up to the event. New Amazon- and Prime Day-related domain registrations have risen for three straight months, climbing from […]The postAmazon Prime Big Deal Days 2026: As Shopping Activity Surges, So Do Cyber Threatsappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "98a980b92df711db",
+    "title_original": "Preparing governments for an era of interconnected cyber risk",
+    "url": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
+    "description": "According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025.The postPreparing governments for an era of interconnected cyber riskappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-10-01T14:00:00+00:00",
+    "fetched_at": "2026-10-02T10:25:32.627971+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Preparing governments for an era of interconnected cyber risk",
+    "summary_he": "According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025.The postPreparing governments for an era of interconnected cyber riskappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "26eb6021e002b347",
+    "title_original": "Insights from the 2026 Microsoft Digital Defense Report",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
+    "description": "Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected.The postInsights from the 2026 Microsoft Digital Defense Reportappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-10-01T14:00:00+00:00",
+    "fetched_at": "2026-10-02T10:25:32.627971+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Insights from the 2026 Microsoft Digital Defense Report",
+    "summary_he": "Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected.The postInsights from the 2026 Microsoft Digital Defense Reportappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "43600c626dbaa8fc",
+    "title_original": "SASE in the AI Era: Why Secure Global Connectivity Matters More Than Ever",
+    "url": "https://blog.checkpoint.com/harmony-sase/sase-in-the-ai-era-why-secure-global-connectivity-matters-more-than-ever/",
+    "description": "Where global enterprises lose ground Ask any global IT leader what slows their enterprise down, and they’ll rarely identify the network itself as the issue. The friction often shows up at the borders, where one country’s infrastructure meets another’s regulations and coherence quietly falls apart. Every new region a company enters brings its own regulatory regime, infrastructure boundaries, and performance challenges. Stitch enough of these together, and the result is a patchwork architecture, held up by exceptions rather than one unified design. AI adoption is stretching that patchwork to its limits. It’s compounding growing demands from distributed SaaS, always-on collaboration […]The postSASE in the AI Era: Why Secure Global Connectivity Matters More Than Everappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-01T13:02:57+00:00",
+    "fetched_at": "2026-10-02T10:25:45.193988+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/harmony-sase/sase-in-the-ai-era-why-secure-global-connectivity-matters-more-than-ever/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SASE in the AI Era: Why Secure Global Connectivity Matters More Than Ever",
+    "summary_he": "Where global enterprises lose ground Ask any global IT leader what slows their enterprise down, and they’ll rarely identify the network itself as the issue. The friction often shows up at the borders, where one country’s infrastructure meets another’s regulations and coherence quietly falls apart. Every new region a company enters brings its own regulatory regime, infrastructure boundaries, and performance challenges. Stitch enough of these together, and the result is a patchwork architecture, held up by exceptions rather than one unified design. AI adoption is stretching that patchwork to its limits. It’s compounding growing demands from distributed SaaS, always-on collaboration […]The postSASE in the AI Era: Why Secure Global Connectivity Matters More Than Everappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "8e8863eb36114a2d",
+    "title_original": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+    "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+    "description": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Advanced Protection is a",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-02T13:31:30+05:30",
+    "fetched_at": "2026-10-02T10:25:30.564740+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+    "summary_he": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Advanced Protection is a",
+    "details_he": ""
+  }
+]
