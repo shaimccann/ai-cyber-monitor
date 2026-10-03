@@ -1,0 +1,212 @@
+[
+  {
+    "id": "944f74af5aedddc1",
+    "title_original": "A model guide for the GPT-6 family",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-10-02T16:15:00+00:00",
+    "fetched_at": "2026-10-03T09:47:11.355800+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A model guide for the GPT-6 family",
+    "summary_he": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "details_he": ""
+  },
+  {
+    "id": "2404a3098e2fad9b",
+    "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-10-02T15:19:50+00:00",
+    "fetched_at": "2026-10-03T09:47:14.289542+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/astabrief"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "summary_he": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "details_he": ""
+  },
+  {
+    "id": "a49629e844f10c31",
+    "title_original": "The latest AI news we announced in September 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "description": "A video showing the September AI updates",
+    "source_name": "Google AI Blog",
+    "source_url": "https://blog.google/technology/ai/",
+    "category": "ai",
+    "published": "2026-10-02T15:00:00+00:00",
+    "fetched_at": "2026-10-03T09:47:12.310709+00:00",
+    "sources": [
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The latest AI news we announced in September 2026",
+    "summary_he": "A video showing the September AI updates",
+    "details_he": ""
+  },
+  {
+    "id": "aa68d247e6a77f9f",
+    "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+    "description": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.  Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners — Acer, […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-10-02T13:00:39+00:00",
+    "fetched_at": "2026-10-03T09:47:14.606133+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "summary_he": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.  Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners — Acer, […]",
+    "details_he": ""
+  },
+  {
+    "id": "73ca39210e3d107d",
+    "title_original": "מגייסת טוענת: מועמדים לא מתקבלים לעבודה בגלל האייס קפה שלהם",
+    "url": "https://www.geektime.co.il/ice-coffee-job-interview-debate/",
+    "description": "זה לא זמן פשוט לחפש בו משרה חדשה כמעט בכל תחום, ועל אחת כמה וכמה בתחום ההייטק. בשוק המעסיקים של היום, לא נדיר למצוא עשרות ומאות מתחרים על משרה, יש משרות רפאים משונות ומנגנוני AI, שדואגים לסנן אתכם עוד לפני שאתם מגיעים למגייסים האנושיים. אבל גם כשאתם מגיעים לפגישות, יש טעות קריטית אחת שגורמת למגייסים […]The postמגייסת טוענת: מועמדים לא מתקבלים לעבודה בגלל האייס קפה שלהםappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-10-03T08:29:40+00:00",
+    "fetched_at": "2026-10-03T09:47:31.256101+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/ice-coffee-job-interview-debate/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "מגייסת טוענת: מועמדים לא מתקבלים לעבודה בגלל האייס קפה שלהם",
+    "summary_he": "זה לא זמן פשוט לחפש בו משרה חדשה כמעט בכל תחום, ועל אחת כמה וכמה בתחום ההייטק. בשוק המעסיקים של היום, לא נדיר למצוא עשרות ומאות מתחרים על משרה, יש משרות רפאים משונות ומנגנוני AI, שדואגים לסנן אתכם עוד לפני שאתם מגיעים למגייסים האנושיים. אבל גם כשאתם מגיעים לפגישות, יש טעות קריטית אחת שגורמת למגייסים […]The postמגייסת טוענת: מועמדים לא מתקבלים לעבודה בגלל האייס קפה שלהםappeared first onגיקטיים.",
+    "details_he": ""
+  },
+  {
+    "id": "5312caa96a18cc34",
+    "title_original": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+    "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+    "description": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory.\n\nThe gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The flaw is fixed in gateway versions 19.2.4, 19.3.2, and 19.4.1.\n\nThe flaw",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-02T23:03:31+05:30",
+    "fetched_at": "2026-10-03T09:47:17.115132+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+    "summary_he": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory.\n\nThe gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The flaw is fixed in gateway versions 19.2.4, 19.3.2, and 19.4.1.\n\nThe flaw",
+    "details_he": ""
+  },
+  {
+    "id": "e1f2fa6aa01b883e",
+    "title_original": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+    "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+    "description": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously undocumented backdoor codenamed Antino. Cisco Talos is tracking the cluster",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-02T23:03:16+05:30",
+    "fetched_at": "2026-10-03T09:47:17.115132+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+    "summary_he": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously undocumented backdoor codenamed Antino. Cisco Talos is tracking the cluster",
+    "details_he": ""
+  },
+  {
+    "id": "30231690fa0f8dd4",
+    "title_original": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+    "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+    "description": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical function vulnerability in the csm-authorization-storage gRPC server that an",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-02T22:32:12+05:30",
+    "fetched_at": "2026-10-03T09:47:17.115132+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+    "summary_he": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical function vulnerability in the csm-authorization-storage gRPC server that an",
+    "details_he": ""
+  },
+  {
+    "id": "7483712c9d80e86e",
+    "title_original": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
+    "url": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
+    "description": "The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-10-02T20:30:00+00:00",
+    "fetched_at": "2026-10-03T09:47:18.035441+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
+    "summary_he": "The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order.",
+    "details_he": ""
+  },
+  {
+    "id": "0b6ae48f485fd89d",
+    "title_original": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+    "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+    "description": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
+    "source_name": "Dark Reading",
+    "source_url": "https://www.darkreading.com",
+    "category": "cyber",
+    "published": "2026-10-02T20:18:37+00:00",
+    "fetched_at": "2026-10-03T09:47:17.301060+00:00",
+    "sources": [
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+    "summary_he": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
+    "details_he": ""
+  }
+]
