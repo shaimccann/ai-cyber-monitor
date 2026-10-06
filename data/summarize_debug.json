@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-10-05T11:21:39.999051+00:00",
+  "timestamp": "2026-10-06T11:10:57.520667+00:00",
   "errors": [
     {
-      "title": "Building advertising for the way people use AI",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "\"בוקר אחד קמנו וגילינו שדרקון סיני משתמש בשם שלנו\"",
+      "title": "Our approach to EU text provenance rules",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "הונדה נכנסת לכביש החשמלי, ומציבה תחרות ישירה לאלקטריאון",
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "אלה הזוכים בפרס נובל ברפואה לשנת 2026",
+      "title": "הודעה חריגה באפליקציית ASOS: האקרים טוענים כי פרצו למאגרי החברה",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "עצרתם לחשוב מה קורה עם כל המידע שהרכב שלכם מצלם ואוסף?",
+      "title": "עובדי חברת השבבים שנמכרה לאנבידיה במיליארדים טוענים: העסקה לא חוקית - ויש גם זוו",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "title": "What’s New in Wiz Service Catalog: Smarter Discovery, Governance, and Service-Le",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments ",
+      "title": "5th October – Threat Intelligence Report",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Re",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 44,
+  "total_scanned": 83,
   "selected": 10
 }
