@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-10-06T11:10:57.520667+00:00",
+  "timestamp": "2026-10-07T10:59:11.194611+00:00",
   "errors": [
     {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Our approach to EU text provenance rules",
+      "title": "What AI gets wrong and what failure teaches us",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "הודעה חריגה באפליקציית ASOS: האקרים טוענים כי פרצו למאגרי החברה",
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "עובדי חברת השבבים שנמכרה לאנבידיה במיליארדים טוענים: העסקה לא חוקית - ויש גם זוו",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+      "title": "CISO perspectives on managing vulnerability risks in the age of AI",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "What’s New in Wiz Service Catalog: Smarter Discovery, Governance, and Service-Le",
+      "title": "Introducing Wiz AI SAST: Application Security that Understands Your Code and You",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "5th October – Threat Intelligence Report",
+      "title": "Check Point PromptGuardX: Securing the Files AI Agents Trust",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Re",
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,00",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8",
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 83,
+  "total_scanned": 82,
   "selected": 10
 }

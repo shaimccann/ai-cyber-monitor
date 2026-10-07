@@ -1,0 +1,212 @@
+[
+  {
+    "id": "897b21acb2b662da",
+    "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "description": "",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-10-06T19:57:04+00:00",
+    "fetched_at": "2026-10-07T10:58:39.876820+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "summary_he": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "details_he": ""
+  },
+  {
+    "id": "4abddbf95501b3a8",
+    "title_original": "What AI gets wrong and what failure teaches us",
+    "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+    "description": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity.The postWhat AI gets wrong and what failure teaches usappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-10-06T16:19:06+00:00",
+    "fetched_at": "2026-10-07T10:58:40.471452+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What AI gets wrong and what failure teaches us",
+    "summary_he": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity.The postWhat AI gets wrong and what failure teaches usappeared first onMicrosoft Research.",
+    "details_he": ""
+  },
+  {
+    "id": "bff7c79fa64e3521",
+    "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-10-06T16:00:00+00:00",
+    "fetched_at": "2026-10-07T10:58:39.254103+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/atlassian-partnership"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "summary_he": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "details_he": ""
+  },
+  {
+    "id": "a2ac71ed1fc898c1",
+    "title_original": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+    "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+    "description": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost.  Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care.  NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-10-06T13:00:19+00:00",
+    "fetched_at": "2026-10-07T10:58:42.567731+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+    "summary_he": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost.  Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care.  NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
+    "details_he": ""
+  },
+  {
+    "id": "c513eb31a9bf3f2a",
+    "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-10-06T12:00:00+00:00",
+    "fetched_at": "2026-10-07T10:58:39.254103+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/jump-trading"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How Jump Trading is scaling quant research with ChatGPT",
+    "summary_he": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "details_he": ""
+  },
+  {
+    "id": "61d602b27270782e",
+    "title_original": "CISO perspectives on managing vulnerability risks in the age of AI",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
+    "description": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.The postCISO perspectives on managing vulnerability risks in the age of AIappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-10-06T16:00:00+00:00",
+    "fetched_at": "2026-10-07T10:58:47.550677+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CISO perspectives on managing vulnerability risks in the age of AI",
+    "summary_he": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.The postCISO perspectives on managing vulnerability risks in the age of AIappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "542bf4e9d8315555",
+    "title_original": "Introducing Wiz AI SAST: Application Security that Understands Your Code and Your Infrastructure",
+    "url": "https://www.wiz.io/blog/introducing-wiz-ai-sast",
+    "description": "Find, validate, and fix complex business logic flaws with an AI code scanner backed by Wiz Research, operationalized within your existing security program.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-10-06T13:47:28+00:00",
+    "fetched_at": "2026-10-07T10:58:54.556315+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-ai-sast"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Wiz AI SAST: Application Security that Understands Your Code and Your Infrastructure",
+    "summary_he": "Find, validate, and fix complex business logic flaws with an AI code scanner backed by Wiz Research, operationalized within your existing security program.",
+    "details_he": ""
+  },
+  {
+    "id": "8ef1701799ebce20",
+    "title_original": "Check Point PromptGuardX: Securing the Files AI Agents Trust",
+    "url": "https://blog.checkpoint.com/ai-security/check-point-promptguardx-securing-the-files-ai-agents-trust/",
+    "description": "Key Highlights Prompt injection is becoming an execution risk. Instructions hidden in external content can attempt to activate an AI agent’s tools, APIs and permissions. PromptGuardX moves detection into the file layer. Integrated into Check Point Threat Emulation, it analyzes PDF files before their content reaches an LLM or AI agent. PromptGuardX extends Check Point’s AI Defense Plane into the file layer. It adds an upstream layer of protection alongside prompt inspection, runtime monitoring, access controls and action-level enforcement. When Content Becomes a Command AI agents increasingly read invoices, contracts, emails and enterprise data, then use tools and APIs to […]The postCheck Point PromptGuardX: Securing the Files AI Agents Trustappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-06T13:02:09+00:00",
+    "fetched_at": "2026-10-07T10:59:00.068785+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/check-point-promptguardx-securing-the-files-ai-agents-trust/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point PromptGuardX: Securing the Files AI Agents Trust",
+    "summary_he": "Key Highlights Prompt injection is becoming an execution risk. Instructions hidden in external content can attempt to activate an AI agent’s tools, APIs and permissions. PromptGuardX moves detection into the file layer. Integrated into Check Point Threat Emulation, it analyzes PDF files before their content reaches an LLM or AI agent. PromptGuardX extends Check Point’s AI Defense Plane into the file layer. It adds an upstream layer of protection alongside prompt inspection, runtime monitoring, access controls and action-level enforcement. When Content Becomes a Command AI agents increasingly read invoices, contracts, emails and enterprise data, then use tools and APIs to […]The postCheck Point PromptGuardX: Securing the Files AI Agents Trustappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "c8e73de58f539e82",
+    "title_original": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+    "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+    "description": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026.\n\nThe company said it also found an additional",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-07T13:37:38+05:30",
+    "fetched_at": "2026-10-07T10:58:45.515123+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+    "summary_he": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026.\n\nThe company said it also found an additional",
+    "details_he": ""
+  },
+  {
+    "id": "173f5bf6a90f1422",
+    "title_original": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+    "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+    "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer).\n\nThe activity, which was observed by the agency in September 2026, has been attributed to a threat cluster dubbed UAC-0277. It did not disclose who the",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-07T12:27:54+05:30",
+    "fetched_at": "2026-10-07T10:58:45.515123+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+    "summary_he": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer).\n\nThe activity, which was observed by the agency in September 2026, has been attributed to a threat cluster dubbed UAC-0277. It did not disclose who the",
+    "details_he": ""
+  }
+]
