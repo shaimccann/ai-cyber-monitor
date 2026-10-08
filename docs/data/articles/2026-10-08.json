@@ -1,0 +1,212 @@
+[
+  {
+    "id": "293705d335a8cad7",
+    "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+    "description": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-10-07T18:45:28+00:00",
+    "fetched_at": "2026-10-08T11:15:58.989975+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+    "summary_he": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you […]",
+    "details_he": ""
+  },
+  {
+    "id": "725843ec63c92254",
+    "title_original": "Multimodal open d1 decision models for the edge",
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-10-07T16:54:33+00:00",
+    "fetched_at": "2026-10-08T11:15:58.564973+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/LiquidAI/open-d1"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Multimodal open d1 decision models for the edge",
+    "summary_he": "Multimodal open d1 decision models for the edge",
+    "details_he": ""
+  },
+  {
+    "id": "55df870856d454e4",
+    "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+    "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "description": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them.The postAgent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnessesappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-10-07T16:00:00+00:00",
+    "fetched_at": "2026-10-08T11:15:54.575566+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+    "summary_he": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them.The postAgent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnessesappeared first onMicrosoft Research.",
+    "details_he": ""
+  },
+  {
+    "id": "3372221843336043",
+    "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-10-07T12:45:31+00:00",
+    "fetched_at": "2026-10-08T11:15:58.564973+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "summary_he": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "details_he": ""
+  },
+  {
+    "id": "bcc3aac34e1b137b",
+    "title_original": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-10-07T12:00:00+00:00",
+    "fetched_at": "2026-10-08T11:15:53.237801+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/teens-learn-and-plan"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Helping teens learn, plan, and shape the future of AI",
+    "summary_he": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "details_he": ""
+  },
+  {
+    "id": "4d6bfa8c735e51d2",
+    "title_original": "Wait, Did We Just Invent Classifiers Again? Introducing Jev, a new way to do AI.",
+    "url": "https://www.catonetworks.com/blog/introducing-jev-a-new-way-to-do-ai/",
+    "description": "For the last few years, when somebody says “AI,” what they are usually referring to is a Large Language Model, or LLM for short. You chuck some text in, it has a think, and it gives you some more text back. This is brilliant if you want code written, documents summarised, or quantum physics explained...The postWait, Did We Just Invent Classifiers Again? Introducing Jev, a new way to do AI.appeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-10-08T10:51:40+00:00",
+    "fetched_at": "2026-10-08T11:16:14.053299+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/introducing-jev-a-new-way-to-do-ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wait, Did We Just Invent Classifiers Again? Introducing Jev, a new way to do AI.",
+    "summary_he": "For the last few years, when somebody says “AI,” what they are usually referring to is a Large Language Model, or LLM for short. You chuck some text in, it has a think, and it gives you some more text back. This is brilliant if you want code written, documents summarised, or quantum physics explained...The postWait, Did We Just Invent Classifiers Again? Introducing Jev, a new way to do AI.appeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "50039aec1a81f0e6",
+    "title_original": "Evolution of Web3 in Cloud Supply Chain Attacks",
+    "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
+    "description": "Unit 42 details how threat actors leverage Web3 infrastructure and open-source supply chain attacks to breach enterprise cloud environmentsThe postEvolution of Web3 in Cloud Supply Chain Attacksappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-10-07T22:00:16+00:00",
+    "fetched_at": "2026-10-08T11:16:10.031457+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Evolution of Web3 in Cloud Supply Chain Attacks",
+    "summary_he": "Unit 42 details how threat actors leverage Web3 infrastructure and open-source supply chain attacks to breach enterprise cloud environmentsThe postEvolution of Web3 in Cloud Supply Chain Attacksappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "929a0d9a56bd5e50",
+    "title_original": "3 lessons from frontier AI vulnerability research",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
+    "description": "Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.The post3 lessons from frontier AI vulnerability researchappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-10-07T16:00:00+00:00",
+    "fetched_at": "2026-10-08T11:16:05.159867+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "3 lessons from frontier AI vulnerability research",
+    "summary_he": "Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.The post3 lessons from frontier AI vulnerability researchappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "7e34ded3a6ebeae6",
+    "title_original": "How the Wiz Red Agent caught a Fortune 500 firm’s data exposure (that other tools missed)",
+    "url": "https://www.wiz.io/blog/red-agent-financial-services-data-exposure",
+    "description": "Traditional DSPM and classification tools scan from the inside out. Thinking like an attacker, the Red Agent found a public page exposing sensitive data in minutes.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-10-07T14:53:27+00:00",
+    "fetched_at": "2026-10-08T11:16:12.649343+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/red-agent-financial-services-data-exposure"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How the Wiz Red Agent caught a Fortune 500 firm’s data exposure (that other tools missed)",
+    "summary_he": "Traditional DSPM and classification tools scan from the inside out. Thinking like an attacker, the Red Agent found a public page exposing sensitive data in minutes.",
+    "details_he": ""
+  },
+  {
+    "id": "a41b5783fa9a914f",
+    "title_original": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+    "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+    "description": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself.\n\nANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-08T16:00:00+05:30",
+    "fetched_at": "2026-10-08T11:16:02.947784+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+    "summary_he": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself.\n\nANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe",
+    "details_he": ""
+  }
+]
