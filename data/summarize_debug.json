@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-10-08T11:16:29.463552+00:00",
+  "timestamp": "2026-10-09T11:15:24.113569+00:00",
   "errors": [
     {
-      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Multimodal open d1 decision models for the edge",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Helping teens learn, plan, and shape the future of AI",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Wait, Did We Just Invent Classifiers Again? Introducing Jev, a new way to do AI.",
+      "title": "How Luna Moth Runs Data Extortion Like a Business",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
+      "title": "Post-quantum authentication: Why organizations should start testing certificate ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "3 lessons from frontier AI vulnerability research",
+      "title": "Beyond Model Access: Frontier AI Defense Needs Runtime Prevention",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How the Wiz Red Agent caught a Fortune 500 firm’s data exposure (that other tool",
+      "title": "September 2026 Cyber Threat Landscape: Global Attacks Jump 48% as Phishing and G",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU,",
+      "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 95,
+  "total_scanned": 89,
   "selected": 10
 }
