@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-10-09T11:15:24.113569+00:00",
+  "timestamp": "2026-10-10T10:32:03.900630+00:00",
   "errors": [
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "title": "Impactful scheduling for GPU clusters",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI ",
+      "title": "האנליסט הבכיר שמסביר איך מזהים חברת לונג'ביטי מוצלחת להשקעה",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "title": "נתקעתם עם כרטיס להופעה? האתר הישראלי הזה הוא בשבילכם",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+      "title": "ב-7 באוקטובר הוא פגש את הגיהנום. אחרי שנתיים כבר הקים סטארט-אפ שמכניס מיליוני דו",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal ev",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "How Luna Moth Runs Data Extortion Like a Business",
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Post-quantum authentication: Why organizations should start testing certificate ",
+      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 1",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Beyond Model Access: Frontier AI Defense Needs Runtime Prevention",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Rep",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "September 2026 Cyber Threat Landscape: Global Attacks Jump 48% as Phishing and G",
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 89,
+  "total_scanned": 51,
   "selected": 10
 }
