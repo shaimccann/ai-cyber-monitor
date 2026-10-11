@@ -1,62 +1,56 @@
 {
-  "timestamp": "2026-10-10T10:32:03.900630+00:00",
+  "timestamp": "2026-10-11T10:44:42.265163+00:00",
   "errors": [
     {
-      "title": "Impactful scheduling for GPU clusters",
+      "title": "לראשונה בישראל: קניתם רכב חשמלי? קבלו 3 שנים של טעינה ביתית בחינם",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "האנליסט הבכיר שמסביר איך מזהים חברת לונג'ביטי מוצלחת להשקעה",
+      "title": "מהפכת ה-AI השאירה מאחור דווקא את התעשיות החשובות בעולם",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "נתקעתם עם כרטיס להופעה? האתר הישראלי הזה הוא בשבילכם",
+      "title": "בנק One Zero מפטר כ-10% מהעובדים שלו בעקבות \"ההתפתחות המהירה של ה-AI\"",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ב-7 באוקטובר הוא פגש את הגיהנום. אחרי שנתיים כבר הקים סטארט-אפ שמכניס מיליוני דו",
+      "title": "מהמיטאפ הזה תצאו עם פתרון אמיתי לאתגר הזהויות של סוכני AI",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal ev",
+      "title": "כשהמומחים פורשים והבינה המלאכותית נכנסת להאנגר",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits ",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 1",
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Ag",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Rep",
+      "title": "Canadian cybersecurity executive arrested in federal extortion case",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal ",
+      "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -65,7 +59,7 @@
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
-  "fallback": 10,
-  "total_scanned": 51,
-  "selected": 10
+  "fallback": 9,
+  "total_scanned": 28,
+  "selected": 9
 }
