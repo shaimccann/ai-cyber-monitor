@@ -1,0 +1,212 @@
+[
+  {
+    "id": "a3cb8b637db70af5",
+    "title_original": "כנס Evolve to AI של גיקטיים חוזר עם כל מה שצריך לדעת על Agentic SDLC",
+    "url": "https://www.geektime.co.il/evolve-to-ai-2026-is-coming-to-tlv/",
+    "description": "נדמה שעבר נצח מאז שלמדנו איך בונים סוכן AI – גמגמנו שורות קוד, ניסינו להבין איך גורמים לו לחשוב ולתכנן, והכי מתקדם שלנו היה לחבר אותו ל-API כדי שיבצע משימה. היום אנחנו כבר במקום אחר לגמרי: סוכנים הפכו לחלק בלתי נפרד מהעבודה היומיומית, הם מחוברים לכלים ולמערכות, ומשנים את תהליכי העבודה מקצה לקצה. כנס Evolve […]The postכנס Evolve to AI של גיקטיים חוזר עם כל מה שצריך לדעת על Agentic SDLCappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-10-12T11:15:01+00:00",
+    "fetched_at": "2026-10-12T11:50:17.538644+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/evolve-to-ai-2026-is-coming-to-tlv/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "כנס Evolve to AI של גיקטיים חוזר עם כל מה שצריך לדעת על Agentic SDLC",
+    "summary_he": "נדמה שעבר נצח מאז שלמדנו איך בונים סוכן AI – גמגמנו שורות קוד, ניסינו להבין איך גורמים לו לחשוב ולתכנן, והכי מתקדם שלנו היה לחבר אותו ל-API כדי שיבצע משימה. היום אנחנו כבר במקום אחר לגמרי: סוכנים הפכו לחלק בלתי נפרד מהעבודה היומיומית, הם מחוברים לכלים ולמערכות, ומשנים את תהליכי העבודה מקצה לקצה. כנס Evolve […]The postכנס Evolve to AI של גיקטיים חוזר עם כל מה שצריך לדעת על Agentic SDLCappeared first onגיקטיים.",
+    "details_he": ""
+  },
+  {
+    "id": "f7ecb8c00fb66fe1",
+    "title_original": "פינרג׳י חשפה בארה״ב מודול לגנרטור אלומיניום לחוות שרתים",
+    "url": "https://techtime.co.il/2026/10/12/phinergy-19/",
+    "description": "המודול הוצג בפני נציגי מיקרוסופט וחברות תשתיות במסגרת קונסורציום בהובלת גוגל ומיקרוסופט. החברה מכוונת להשלמת בדיקות המערכת המלאה לקראת סוף השנה",
+    "source_name": "Techtime (טקטיים)",
+    "source_url": "https://techtime.co.il",
+    "category": "ai",
+    "published": "2026-10-12T10:58:14+00:00",
+    "fetched_at": "2026-10-12T11:50:20.723347+00:00",
+    "sources": [
+      {
+        "name": "Techtime (טקטיים)",
+        "url": "https://techtime.co.il/2026/10/12/phinergy-19/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "פינרג׳י חשפה בארה״ב מודול לגנרטור אלומיניום לחוות שרתים",
+    "summary_he": "המודול הוצג בפני נציגי מיקרוסופט וחברות תשתיות במסגרת קונסורציום בהובלת גוגל ומיקרוסופט. החברה מכוונת להשלמת בדיקות המערכת המלאה לקראת סוף השנה",
+    "details_he": ""
+  },
+  {
+    "id": "3e94d1cfe5684fb5",
+    "title_original": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+    "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+    "description": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation and real-world deployment.What you will learn about:Why combining a professional athlete’s motion style with reliable task performance remains an open challenge in humanoid ball-sports robotics, and how separating a high-level planner from a low-level tracker addresses this trade-off.How motion data extracted from broadcast video and motion-capture recordings can be reconstructed, retargeted, and physically corrected into reference motions a humanoid robot can safely track.Why the sim-to-real transition introduces compounding tracking errors, and how training a tracker on randomized execution speeds, paired with a learned motion-speed adapter in the planner, improves robustness on physical h",
+    "source_name": "IEEE Spectrum",
+    "source_url": "https://spectrum.ieee.org",
+    "category": "ai",
+    "published": "2026-10-12T10:00:03+00:00",
+    "fetched_at": "2026-10-12T11:50:03.416241+00:00",
+    "sources": [
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+    "summary_he": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation and real-world deployment.What you will learn about:Why combining a professional athlete’s motion style with reliable task performance remains an open challenge in humanoid ball-sports robotics, and how separating a high-level planner from a low-level tracker addresses this trade-off.How motion data extracted from broadcast video and motion-capture recordings can be reconstructed, retargeted, and physically corrected into reference motions a humanoid robot can safely track.Why the sim-to-real transition introduces compounding tracking errors, and how training a tracker on randomized execution speeds, paired with a learned motion-speed adapter in the planner, improves robustness on physical h",
+    "details_he": ""
+  },
+  {
+    "id": "91cf5348a8c67f69",
+    "title_original": "רגע לפני החשיפה: דלפו הפרטים על HomeView, המוצר החדש של אפל",
+    "url": "https://www.geektime.co.il/apple-homeview-is-coming/",
+    "description": "בשבועות האחרונים אנחנו שומעים שוב ושוב על הכניסה הצפויה של אפל לקטגוריית הבית החכם. מחר (ג') היא צפויה לערוך אירוע תחת הכותרת Welcome Home, אבל אם אין לכם סבלנות, חלק גדול מהפרטים כבר דלף. לא HomePad מארק גורמן מבלומברג חשף בניוזלטר שלו שורת ספוילרים מעניינים לאירוע אפל שייערך מחר, כולל השם של המסך החכם שתציג […]The postרגע לפני החשיפה: דלפו הפרטים על HomeView, המוצר החדש של אפלappeared first onגיקטיים.",
+    "source_name": "Geektime (גיקטיים)",
+    "source_url": "https://www.geektime.co.il",
+    "category": "ai",
+    "published": "2026-10-12T09:43:30+00:00",
+    "fetched_at": "2026-10-12T11:50:17.538644+00:00",
+    "sources": [
+      {
+        "name": "Geektime (גיקטיים)",
+        "url": "https://www.geektime.co.il/apple-homeview-is-coming/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "רגע לפני החשיפה: דלפו הפרטים על HomeView, המוצר החדש של אפל",
+    "summary_he": "בשבועות האחרונים אנחנו שומעים שוב ושוב על הכניסה הצפויה של אפל לקטגוריית הבית החכם. מחר (ג') היא צפויה לערוך אירוע תחת הכותרת Welcome Home, אבל אם אין לכם סבלנות, חלק גדול מהפרטים כבר דלף. לא HomePad מארק גורמן מבלומברג חשף בניוזלטר שלו שורת ספוילרים מעניינים לאירוע אפל שייערך מחר, כולל השם של המסך החכם שתציג […]The postרגע לפני החשיפה: דלפו הפרטים על HomeView, המוצר החדש של אפלappeared first onגיקטיים.",
+    "details_he": ""
+  },
+  {
+    "id": "2a7b7ebe259ae847",
+    "title_original": "העסקה שהלחיצה את אמזון וגרמה לה להאיץ את המשא ומתן עם החברה הישראלית",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001559164#utm_source=RSS",
+    "description": "לאחר כישלון העסקה עם אנתרופיק, סטארט-אפ הבינה המלאכותית דקארט, שהוקם לפני שלוש שנים, מנהל מגעים לרכישה על ידי אמזון ב-7 מיליארד דולר • שתי החברות משתפות פעולה כבר מעל לשנה, והמשא ומתן תפס תאוצה לאחר עסקת ענק של המתחרה אנבידיה עם AMD • אם תצא לפועל, העסקה עשויה לתת לאמזון את הקפיצה קדימה לה היא זקוקה",
+    "source_name": "Globes Tech (גלובס טכנולוגיה)",
+    "source_url": "https://www.globes.co.il",
+    "category": "ai",
+    "published": "2026-10-12T08:10:00+00:00",
+    "fetched_at": "2026-10-12T11:50:21.318616+00:00",
+    "sources": [
+      {
+        "name": "Globes Tech (גלובס טכנולוגיה)",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001559164#utm_source=RSS"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "העסקה שהלחיצה את אמזון וגרמה לה להאיץ את המשא ומתן עם החברה הישראלית",
+    "summary_he": "לאחר כישלון העסקה עם אנתרופיק, סטארט-אפ הבינה המלאכותית דקארט, שהוקם לפני שלוש שנים, מנהל מגעים לרכישה על ידי אמזון ב-7 מיליארד דולר • שתי החברות משתפות פעולה כבר מעל לשנה, והמשא ומתן תפס תאוצה לאחר עסקת ענק של המתחרה אנבידיה עם AMD • אם תצא לפועל, העסקה עשויה לתת לאמזון את הקפיצה קדימה לה היא זקוקה",
+    "details_he": ""
+  },
+  {
+    "id": "4f1dd6ea246235c4",
+    "title_original": "Stopping destructive commands in AI agents",
+    "url": "https://www.catonetworks.com/blog/stopping-destructive-commands-in-ai-agents/",
+    "description": "An engineer gives a coding agent a routine task: clean up an old test deployment. The request sounds harmless, and the environment is cluttered with unused cloud resources, stale branches, and temporary credentials that should have been removed weeks ago. The agent gets to work. It lists resources, identifies old infrastructure, and finds a deployment...The postStopping destructive commands in AI agentsappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-10-12T08:31:30+00:00",
+    "fetched_at": "2026-10-12T11:50:13.633227+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/stopping-destructive-commands-in-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Stopping destructive commands in AI agents",
+    "summary_he": "An engineer gives a coding agent a routine task: clean up an old test deployment. The request sounds harmless, and the environment is cluttered with unused cloud resources, stale branches, and temporary credentials that should have been removed weeks ago. The agent gets to work. It lists resources, identifies old infrastructure, and finds a deployment...The postStopping destructive commands in AI agentsappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "e6aff38eacb506f3",
+    "title_original": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+    "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+    "description": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.\n\nThe vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated server-side request forgery (SSRF) that could allow a remote attacker \"to direct the appliance to issue requests on their",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-12T16:06:56+05:30",
+    "fetched_at": "2026-10-12T11:50:05.254646+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+    "summary_he": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.\n\nThe vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated server-side request forgery (SSRF) that could allow a remote attacker \"to direct the appliance to issue requests on their",
+    "details_he": ""
+  },
+  {
+    "id": "95bbb91dad6563ed",
+    "title_original": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+    "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+    "description": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary PHP code on vulnerable WordPress websites, resulting in remote code execution (RCE). The",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-12T14:32:14+05:30",
+    "fetched_at": "2026-10-12T11:50:05.254646+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+    "summary_he": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary PHP code on vulnerable WordPress websites, resulting in remote code execution (RCE). The",
+    "details_he": ""
+  },
+  {
+    "id": "cb40ffbeb9b68d37",
+    "title_original": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+    "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+    "description": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine.\n\nThe activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-12T12:56:12+05:30",
+    "fetched_at": "2026-10-12T11:50:05.254646+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+    "summary_he": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine.\n\nThe activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed",
+    "details_he": ""
+  },
+  {
+    "id": "90d9253f68c92efe",
+    "title_original": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
+    "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
+    "description": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US.The postMastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in USappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-10-12T11:24:50+00:00",
+    "fetched_at": "2026-10-12T11:50:06.404381+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
+    "summary_he": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US.The postMastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in USappeared first onSecurityWeek.",
+    "details_he": ""
+  }
+]

@@ -1,56 +1,62 @@
 {
-  "timestamp": "2026-10-11T10:44:42.265163+00:00",
+  "timestamp": "2026-10-12T11:50:23.343523+00:00",
   "errors": [
     {
-      "title": "לראשונה בישראל: קניתם רכב חשמלי? קבלו 3 שנים של טעינה ביתית בחינם",
+      "title": "כנס Evolve to AI של גיקטיים חוזר עם כל מה שצריך לדעת על Agentic SDLC",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "מהפכת ה-AI השאירה מאחור דווקא את התעשיות החשובות בעולם",
+      "title": "פינרג׳י חשפה בארה״ב מודול לגנרטור אלומיניום לחוות שרתים",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "בנק One Zero מפטר כ-10% מהעובדים שלו בעקבות \"ההתפתחות המהירה של ה-AI\"",
+      "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "מהמיטאפ הזה תצאו עם פתרון אמיתי לאתגר הזהויות של סוכני AI",
+      "title": "רגע לפני החשיפה: דלפו הפרטים על HomeView, המוצר החדש של אפל",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "כשהמומחים פורשים והבינה המלאכותית נכנסת להאנגר",
+      "title": "העסקה שהלחיצה את אמזון וגרמה לה להאיץ את המשא ומתן עם החברה הישראלית",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "title": "Stopping destructive commands in AI agents",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Ag",
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Pat",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Canadian cybersecurity executive arrested in federal extortion case",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -59,7 +65,7 @@
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
-  "fallback": 9,
-  "total_scanned": 28,
-  "selected": 9
+  "fallback": 10,
+  "total_scanned": 48,
+  "selected": 10
 }
