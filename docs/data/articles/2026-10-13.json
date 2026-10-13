@@ -1,0 +1,212 @@
+[
+  {
+    "id": "9f45799590e03cf1",
+    "title_original": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+    "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+    "description": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.  France’s progress sits on deliberate groundwork.  The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-10-13T05:00:31+00:00",
+    "fetched_at": "2026-10-13T11:38:11.131541+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+    "summary_he": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.  France’s progress sits on deliberate groundwork.  The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]",
+    "details_he": ""
+  },
+  {
+    "id": "55abe19cc14bd5d3",
+    "title_original": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
+    "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+    "description": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.",
+    "source_name": "Amazon Science",
+    "source_url": "https://www.amazon.science",
+    "category": "ai",
+    "published": "2026-10-12T17:36:18+00:00",
+    "fetched_at": "2026-10-13T11:38:11.329359+00:00",
+    "sources": [
+      {
+        "name": "Amazon Science",
+        "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
+    "summary_he": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.",
+    "details_he": ""
+  },
+  {
+    "id": "ef1f8bb4e94405a7",
+    "title_original": "Simulating student learning for better AI tutoring",
+    "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "description": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics.The postSimulating student learning for better AI tutoringappeared first onMicrosoft Research.",
+    "source_name": "Microsoft Research",
+    "source_url": "https://www.microsoft.com/en-us/research/",
+    "category": "ai",
+    "published": "2026-10-12T16:00:00+00:00",
+    "fetched_at": "2026-10-13T11:38:06.863747+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Simulating student learning for better AI tutoring",
+    "summary_he": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics.The postSimulating student learning for better AI tutoringappeared first onMicrosoft Research.",
+    "details_he": ""
+  },
+  {
+    "id": "d5135a3fb0f5ddb1",
+    "title_original": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+    "description": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-10-12T15:00:25+00:00",
+    "fetched_at": "2026-10-13T11:38:11.131541+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+    "summary_he": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
+    "details_he": ""
+  },
+  {
+    "id": "29b138c362fad29a",
+    "title_original": "Open models have real benefits. Do they outweigh the risks?",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
+    "source_name": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com",
+    "category": "ai",
+    "published": "2026-10-13T10:00:00+00:00",
+    "fetched_at": "2026-10-13T11:38:11.859236+00:00",
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Open models have real benefits. Do they outweigh the risks?",
+    "summary_he": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
+    "details_he": ""
+  },
+  {
+    "id": "817d313f0428637c",
+    "title_original": "Why AI Red Teaming Belongs at the Core of Your AI Security Program",
+    "url": "https://www.catonetworks.com/blog/ai-red-teaming-belongs-at-core-of-ai-security-program/",
+    "description": "Enterprises are putting AI applications and agents to work on sensitive data and business workflows, while attackers look for new ways to manipulate the models and exploit the tools connected to them. Security leaders need to know whether those systems will hold up against a real attack, and AI red teaming gives them that answer...The postWhy AI Red Teaming Belongs at the Core of Your AI Security Programappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-10-13T09:39:59+00:00",
+    "fetched_at": "2026-10-13T11:38:24.078868+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/ai-red-teaming-belongs-at-core-of-ai-security-program/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Why AI Red Teaming Belongs at the Core of Your AI Security Program",
+    "summary_he": "Enterprises are putting AI applications and agents to work on sensitive data and business workflows, while attackers look for new ways to manipulate the models and exploit the tools connected to them. Security leaders need to know whether those systems will hold up against a real attack, and AI red teaming gives them that answer...The postWhy AI Red Teaming Belongs at the Core of Your AI Security Programappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "a58c181687ae67bb",
+    "title_original": "12th October – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 12th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Denmark’s government has disclosed a breach involving its Central Register of Persons after unauthorized individuals exploited access provided to a private supplier. The incident reportedly exposed personal information, including names, addresses, and […]The post12th October – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-12T14:51:31+00:00",
+    "fetched_at": "2026-10-13T11:38:22.329640+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "12th October – Threat Intelligence Report",
+    "summary_he": "For the latest discoveries in cyber research for the week of 12th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Denmark’s government has disclosed a breach involving its Central Register of Persons after unauthorized individuals exploited access provided to a private supplier. The incident reportedly exposed personal information, including names, addresses, and […]The post12th October – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "7692f8f1d69dde87",
+    "title_original": "Peer Pressure Works on AI Agents: How One Change of Mind Can Tip the Whole Team",
+    "url": "https://blog.checkpoint.com/security/peer-pressure-ai-agents/",
+    "description": "Key takeaways In our tests, an AI agent that watched eight teammates break a rule broke it too 98 percent of the time, and never once named them as the reason. →Observed reversals increased violations. The rate rose from 44 percent with no teammate reversals to 98 percent with eight →The agent did not report peer influence. Across more than 400 violations, it never cited a teammate as a reason →Direct arguments reduced violations. Teammates who encouraged a rule violation reduced the rule-violation rate from 33 percent to between 9 and 17 percent That is why access rules for AI […]The postPeer Pressure Works on AI Agents: How One Change of Mind Can Tip the Whole Teamappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-12T13:00:07+00:00",
+    "fetched_at": "2026-10-13T11:38:28.213433+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/peer-pressure-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Peer Pressure Works on AI Agents: How One Change of Mind Can Tip the Whole Team",
+    "summary_he": "Key takeaways In our tests, an AI agent that watched eight teammates break a rule broke it too 98 percent of the time, and never once named them as the reason. →Observed reversals increased violations. The rate rose from 44 percent with no teammate reversals to 98 percent with eight →The agent did not report peer influence. Across more than 400 violations, it never cited a teammate as a reason →Direct arguments reduced violations. Teammates who encouraged a rule violation reduced the rule-violation rate from 33 percent to between 9 and 17 percent That is why access rules for AI […]The postPeer Pressure Works on AI Agents: How One Change of Mind Can Tip the Whole Teamappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "739237d1f7c56dde",
+    "title_original": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+    "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+    "description": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix, according to an advisory published by SSD Secure Disclosure on October 12.\n\nThe chain was tested on two TV models, the 32LQ636BPSA and the 27TQ600SW, running webOS 7.5.7-25 on firmware",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-13T16:39:10+05:30",
+    "fetched_at": "2026-10-13T11:38:13.615829+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+    "summary_he": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix, according to an advisory published by SSD Secure Disclosure on October 12.\n\nThe chain was tested on two TV models, the 32LQ636BPSA and the 27TQ600SW, running webOS 7.5.7-25 on firmware",
+    "details_he": ""
+  },
+  {
+    "id": "697558b9d1e86256",
+    "title_original": "Product Walkthrough: Bitdefender AI Visibility and Control",
+    "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+    "description": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list.\n\nSomeone downloads a local model runtime, a program that runs models directly on the machine instead of sending data to an external service, because they were told not to send company data",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-13T16:00:00+05:30",
+    "fetched_at": "2026-10-13T11:38:13.615829+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Product Walkthrough: Bitdefender AI Visibility and Control",
+    "summary_he": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list.\n\nSomeone downloads a local model runtime, a program that runs models directly on the machine instead of sending data to an external service, because they were told not to send company data",
+    "details_he": ""
+  }
+]
