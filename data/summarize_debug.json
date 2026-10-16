@@ -1,62 +1,62 @@
 {
-  "timestamp": "2026-10-15T09:03:43.220354+00:00",
+  "timestamp": "2026-10-16T08:56:06.877403+00:00",
   "errors": [
     {
-      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Co",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipel",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the ",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "title": "Bringing GPT-Rosalind to academic research labs",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "XTEND קיבלה מהפנטגון הזמנה של 40.5 מיליון ד'",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+      "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "ASPM in the AI Era Part 1: Unified Visibility Across Your Stack",
+      "title": "Fake Calendar Invites Target Thousands of Organizations in Microsoft Credential-",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global",
+      "title": "Researchers Uncover Thousands of Phishing Domains Hiding Behind Inactive Pages",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Securing the Mission at Machine Speed: Wiz AI Agents Arrive in Wiz for Gov",
+      "title": "Dangerous Deviation Detection: Catching the Agent Action Nobody Asked For",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Election Scams Are Getting Harder to Spot as Real Campaign Outreach and Fraud Co",
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 91,
+  "total_scanned": 95,
   "selected": 10
 }

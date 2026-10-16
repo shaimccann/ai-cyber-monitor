@@ -1,0 +1,212 @@
+[
+  {
+    "id": "97c95a4bf727afe4",
+    "title_original": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-10-16T01:44:47+00:00",
+    "fetched_at": "2026-10-16T08:55:42.419016+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "summary_he": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "details_he": ""
+  },
+  {
+    "id": "7c9ab7a607d1306e",
+    "title_original": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "description": "",
+    "source_name": "Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog",
+    "category": "ai",
+    "published": "2026-10-15T20:34:01+00:00",
+    "fetched_at": "2026-10-16T08:55:42.419016+00:00",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "summary_he": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "details_he": ""
+  },
+  {
+    "id": "26b7550aa7b90c21",
+    "title_original": "Bringing GPT-Rosalind to academic research labs",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-10-15T19:00:00+00:00",
+    "fetched_at": "2026-10-16T08:55:38.402843+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Bringing GPT-Rosalind to academic research labs",
+    "summary_he": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "details_he": ""
+  },
+  {
+    "id": "9a76a96b7eea3d6a",
+    "title_original": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+    "description": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
+    "source_name": "NVIDIA AI Blog",
+    "source_url": "https://blogs.nvidia.com",
+    "category": "ai",
+    "published": "2026-10-15T17:00:23+00:00",
+    "fetched_at": "2026-10-16T08:55:42.794750+00:00",
+    "sources": [
+      {
+        "name": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+    "summary_he": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
+    "details_he": ""
+  },
+  {
+    "id": "9d24677e543f88a4",
+    "title_original": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google",
+    "category": "ai",
+    "published": "2026-10-15T16:08:03+00:00",
+    "fetched_at": "2026-10-16T08:55:39.101755+00:00",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "summary_he": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "details_he": ""
+  },
+  {
+    "id": "fb301cecb474853f",
+    "title_original": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+    "url": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
+    "description": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft.The postAI-Powered Espionage Campaign Targets Government Linux Infrastructureappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-10-15T22:00:09+00:00",
+    "fetched_at": "2026-10-16T08:55:51.026058+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+    "summary_he": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft.The postAI-Powered Espionage Campaign Targets Government Linux Infrastructureappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "71f0d1d27477a183",
+    "title_original": "Fake Calendar Invites Target Thousands of Organizations in Microsoft Credential-Phishing Campaign",
+    "url": "https://blog.checkpoint.com/securing-user-and-access/fake-calendar-invites-target-thousands-of-organizations-in-microsoft-credential-phishing-campaign/",
+    "description": "A calendar invite is one of the most routine messages in the modern workplace. It lands in the inbox, asks for a few seconds of attention, and is rarely questioned. Attackers know this, and they are now using fake meeting invitations to steal Microsoft account credentials. We have identified several large-scale phishing campaigns that abuse fake calendar invites to harvest credentials. Some arrive as an .ics attachment (example 1). The file is valid calendar data, so the attack abuses calendar features and user trust without exploiting a software vulnerability. Others use a link that appears to lead to a different […]The postFake Calendar Invites Target Thousands of Organizations in Microsoft Credential-Phishing Campaignappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-15T16:05:29+00:00",
+    "fetched_at": "2026-10-16T08:55:58.933909+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/securing-user-and-access/fake-calendar-invites-target-thousands-of-organizations-in-microsoft-credential-phishing-campaign/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Fake Calendar Invites Target Thousands of Organizations in Microsoft Credential-Phishing Campaign",
+    "summary_he": "A calendar invite is one of the most routine messages in the modern workplace. It lands in the inbox, asks for a few seconds of attention, and is rarely questioned. Attackers know this, and they are now using fake meeting invitations to steal Microsoft account credentials. We have identified several large-scale phishing campaigns that abuse fake calendar invites to harvest credentials. Some arrive as an .ics attachment (example 1). The file is valid calendar data, so the attack abuses calendar features and user trust without exploiting a software vulnerability. Others use a link that appears to lead to a different […]The postFake Calendar Invites Target Thousands of Organizations in Microsoft Credential-Phishing Campaignappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "1590937372838345",
+    "title_original": "Researchers Uncover Thousands of Phishing Domains Hiding Behind Inactive Pages",
+    "url": "https://blog.checkpoint.com/security/researchers-uncover-thousands-of-phishing-domains-hiding-behind-inactive-pages/",
+    "description": "A domain returns a blank page. Maybe a generic “Not Found” message. There is no login form, suspicious branding, or obvious phishing content to investigate. Yet the phishing site may still be there. Check Point Exposure Management researchers uncovered a large scale, multi region phishing infrastructure designed to conceal active campaigns behind seemingly inactive domains. Starting with a handful of phishing URLs, the investigation identified a repeatable technical fingerprint that ultimately connected the activity to thousands of rotating domains targeting organizations and users across multiple regions. The infrastructure uses regional paths, localization, session controls, and token gated access to determine […]The postResearchers Uncover Thousands of Phishing Domains Hiding Behind Inactive Pagesappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-15T13:00:30+00:00",
+    "fetched_at": "2026-10-16T08:55:58.933909+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/researchers-uncover-thousands-of-phishing-domains-hiding-behind-inactive-pages/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Researchers Uncover Thousands of Phishing Domains Hiding Behind Inactive Pages",
+    "summary_he": "A domain returns a blank page. Maybe a generic “Not Found” message. There is no login form, suspicious branding, or obvious phishing content to investigate. Yet the phishing site may still be there. Check Point Exposure Management researchers uncovered a large scale, multi region phishing infrastructure designed to conceal active campaigns behind seemingly inactive domains. Starting with a handful of phishing URLs, the investigation identified a repeatable technical fingerprint that ultimately connected the activity to thousands of rotating domains targeting organizations and users across multiple regions. The infrastructure uses regional paths, localization, session controls, and token gated access to determine […]The postResearchers Uncover Thousands of Phishing Domains Hiding Behind Inactive Pagesappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "d5db7e60457d6fb0",
+    "title_original": "Dangerous Deviation Detection: Catching the Agent Action Nobody Asked For",
+    "url": "https://blog.checkpoint.com/ai-security/dangerous-deviation-detection-ai-agents/",
+    "description": "Key takeaways In the past year, 78 percent of organizations reported a confirmed or suspected AI-related security incident, according to Check Point’s 2026 Cloud Security Report. →No attacker required. Agents plan their own steps, and an agent trying to help can take one nobody asked for that deletes data, leaks it or widens someone’s access →Permissions and prompt screening miss the action itself. Least privilege cannot take away access the job needs, and prompt attack detection screens what goes into the agent, not what it is about to do →Dangerous Deviation Detection checks each tool call before it runs. It […]The postDangerous Deviation Detection: Catching the Agent Action Nobody Asked Forappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-15T12:51:59+00:00",
+    "fetched_at": "2026-10-16T08:55:58.933909+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/dangerous-deviation-detection-ai-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Dangerous Deviation Detection: Catching the Agent Action Nobody Asked For",
+    "summary_he": "Key takeaways In the past year, 78 percent of organizations reported a confirmed or suspected AI-related security incident, according to Check Point’s 2026 Cloud Security Report. →No attacker required. Agents plan their own steps, and an agent trying to help can take one nobody asked for that deletes data, leaks it or widens someone’s access →Permissions and prompt screening miss the action itself. Least privilege cannot take away access the job needs, and prompt attack detection screens what goes into the agent, not what it is about to do →Dangerous Deviation Detection checks each tool call before it runs. It […]The postDangerous Deviation Detection: Catching the Agent Action Nobody Asked Forappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "d455f81b11803e48",
+    "title_original": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+    "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+    "description": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026.\n\nThe vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-16T12:25:55+05:30",
+    "fetched_at": "2026-10-16T08:55:45.758809+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+    "summary_he": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026.\n\nThe vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a",
+    "details_he": ""
+  }
+]
