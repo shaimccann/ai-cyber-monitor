@@ -1,0 +1,220 @@
+[
+  {
+    "id": "1c402ac7d045f576",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-21T09:16:23.768630+00:00",
+    "fetched_at": "2026-10-21T09:16:23.768630+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "0e7ea60bde443cc0",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-21T09:16:23.768630+00:00",
+    "fetched_at": "2026-10-21T09:16:23.768630+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "48e0661b049c9edb",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-21T09:16:23.768630+00:00",
+    "fetched_at": "2026-10-21T09:16:23.768630+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "c43946c61bc40ad5",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-21T09:16:23.768630+00:00",
+    "fetched_at": "2026-10-21T09:16:23.768630+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "15a3e7ab723dfaff",
+    "title_original": "Introducing Claude Sonnet 5.5",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-21T09:16:23.768630+00:00",
+    "fetched_at": "2026-10-21T09:16:23.768630+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-sonnet-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Sonnet 5.5",
+    "summary_he": "Introducing Claude Sonnet 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "ae3f0984fed07c29",
+    "title_original": "Operation FlashHole: Lazarus breaks security, defies control",
+    "url": "https://securelist.com/lazarus-operation-flashhole/121541/",
+    "description": "Kaspersky researchers analyze Operation FlashHole – a recent complex attack by Lazarus, involving a sophisticated malware set, watering-hole technique and abuse of CrossWeb EX financial security software.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-10-21T02:07:29+00:00",
+    "fetched_at": "2026-10-21T09:16:34.098510+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/lazarus-operation-flashhole/121541/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Operation FlashHole: Lazarus breaks security, defies control",
+    "summary_he": "Kaspersky researchers analyze Operation FlashHole – a recent complex attack by Lazarus, involving a sophisticated malware set, watering-hole technique and abuse of CrossWeb EX financial security software.",
+    "details_he": ""
+  },
+  {
+    "id": "88103b11c5a53457",
+    "title_original": "Wiz Sensor on GKE. 1-Click Runtime Protection, Now Native.",
+    "url": "https://www.wiz.io/blog/wiz-sensor-on-gke-1-click-runtime-protection-now-native",
+    "description": "Enable native runtime protection for GKE in just one click. The Wiz Runtime Sensor add-on now automates deployment and credential management while delivering predictable, kernel-level eBPF threat detection for your GKE Kubernetes fleets.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-10-20T22:02:42+00:00",
+    "fetched_at": "2026-10-21T09:16:36.664887+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-sensor-on-gke-1-click-runtime-protection-now-native"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Wiz Sensor on GKE. 1-Click Runtime Protection, Now Native.",
+    "summary_he": "Enable native runtime protection for GKE in just one click. The Wiz Runtime Sensor add-on now automates deployment and credential management while delivering predictable, kernel-level eBPF threat detection for your GKE Kubernetes fleets.",
+    "details_he": ""
+  },
+  {
+    "id": "46c85920d758be87",
+    "title_original": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+    "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+    "description": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257.The postThreat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-10-20T20:30:42+00:00",
+    "fetched_at": "2026-10-21T09:16:34.006508+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+    "summary_he": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257.The postThreat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)appeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "cb48b9022335f52a",
+    "title_original": "From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage",
+    "url": "https://www.wiz.io/blog/from-phishing-to-llmjacking",
+    "description": "How a single Google Search ad click leads to credential theft, hijacking of cloud billing account, and hundreds of thousands of dollars incurred in unauthorized AI API usage",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-10-20T20:03:10+00:00",
+    "fetched_at": "2026-10-21T09:16:36.664887+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/from-phishing-to-llmjacking"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage",
+    "summary_he": "How a single Google Search ad click leads to credential theft, hijacking of cloud billing account, and hundreds of thousands of dollars incurred in unauthorized AI API usage",
+    "details_he": ""
+  },
+  {
+    "id": "d61b17d409ba6709",
+    "title_original": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations",
+    "url": "https://blog.checkpoint.com/security/antidetect-browsers-how-ai-is-scaling-online-fraud-and-account-takeovers/",
+    "description": "Online platforms rely on digital signals to identify suspicious accounts and activity. Antidetect browsers make those signals harder to trust by allowing operators to create and manage large numbers of browser profiles that appear to belong to different users, devices and locations. While these tools have legitimate uses, Check Point Research found documented evidence of their use in criminal ecosystems for activities including account takeover and payment fraud. AI and automation can further increase the scale of these operations. Key Findings Antidetect browsers allow operators to manage large numbers of isolated browser profiles that appear to come from different users, devices […]The postThe Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operationsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-20T13:00:37+00:00",
+    "fetched_at": "2026-10-21T09:16:42.656440+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/"
+      },
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/antidetect-browsers-how-ai-is-scaling-online-fraud-and-account-takeovers/"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations",
+    "summary_he": "Online platforms rely on digital signals to identify suspicious accounts and activity. Antidetect browsers make those signals harder to trust by allowing operators to create and manage large numbers of browser profiles that appear to belong to different users, devices and locations. While these tools have legitimate uses, Check Point Research found documented evidence of their use in criminal ecosystems for activities including account takeover and payment fraud. AI and automation can further increase the scale of these operations. Key Findings Antidetect browsers allow operators to manage large numbers of isolated browser profiles that appear to come from different users, devices […]The postThe Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operationsappeared first onCheck Point Blog.",
+    "details_he": ""
+  }
+]
