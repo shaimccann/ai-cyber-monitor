@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-10-21T09:16:50.404587+00:00",
+  "timestamp": "2026-10-22T09:19:23.558762+00:00",
   "errors": [
+    {
+      "title": "Learn more",
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+      "summary_preview": "",
+      "has_details": false
+    },
     {
       "title": "Announcements",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
@@ -26,37 +32,31 @@
       "has_details": false
     },
     {
-      "title": "Introducing Claude Sonnet 5.5",
+      "title": "How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in C",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Operation FlashHole: Lazarus breaks security, defies control",
+      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain co",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Wiz Sensor on GKE. 1-Click Runtime Protection, Now Native.",
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+      "title": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execut",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for ",
-      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operati",
+      "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Interne",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 106,
+  "total_scanned": 129,
   "selected": 10
 }

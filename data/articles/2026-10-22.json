@@ -1,0 +1,220 @@
+[
+  {
+    "id": "11cbd75b9278a06f",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-22T09:18:59.745951+00:00",
+    "fetched_at": "2026-10-22T09:18:59.745951+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "85e0e5ba1174a87c",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-22T09:18:59.745951+00:00",
+    "fetched_at": "2026-10-22T09:18:59.745951+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "4506140dde50b730",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-22T09:18:59.745951+00:00",
+    "fetched_at": "2026-10-22T09:18:59.745951+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "8547eb7bcf06c4b0",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-22T09:18:59.745951+00:00",
+    "fetched_at": "2026-10-22T09:18:59.745951+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "c105e7176f4ce704",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-22T09:18:59.745951+00:00",
+    "fetched_at": "2026-10-22T09:18:59.745951+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "baed9b131c88ebac",
+    "title_original": "How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia",
+    "url": "https://securelist.com/uefi-bootkit-blackx/121539/",
+    "description": "Kaspersky GReAT experts discovered a new UEFI bootkit, BlackX. It exploits the Baton Drop vulnerability (CVE-2022-21894) and is similar to the BlackLotus bootkit.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-10-22T06:00:48+00:00",
+    "fetched_at": "2026-10-22T09:19:08.989008+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/uefi-bootkit-blackx/121539/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia",
+    "summary_he": "Kaspersky GReAT experts discovered a new UEFI bootkit, BlackX. It exploits the Baton Drop vulnerability (CVE-2022-21894) and is similar to the BlackLotus bootkit.",
+    "details_he": ""
+  },
+  {
+    "id": "4d49f5d29f387e2c",
+    "title_original": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+    "description": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.The postAI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromiseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-10-21T18:23:55+00:00",
+    "fetched_at": "2026-10-22T09:19:04.841100+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+    "summary_he": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.The postAI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromiseappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "940d98f4b4c01117",
+    "title_original": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
+    "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+    "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.The postThreat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-10-21T16:30:34+00:00",
+    "fetched_at": "2026-10-22T09:19:08.912280+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
+      },
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
+    "summary_he": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.The postThreat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619appeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "304b2e397410e2cc",
+    "title_original": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
+    "url": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/",
+    "description": "An investigation into a threat actor bypassing AI safety controls to coordinate credential theft, VoIP fraud planning, and database exfiltration.The post“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activitiesappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-10-21T14:00:24+00:00",
+    "fetched_at": "2026-10-22T09:19:08.912280+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
+    "summary_he": "An investigation into a threat actor bypassing AI safety controls to coordinate credential theft, VoIP fraud planning, and database exfiltration.The post“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activitiesappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "8777b5c47fe6261a",
+    "title_original": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+    "url": "https://www.wiz.io/blog/php2shell-php-rce",
+    "description": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-10-21T13:59:59+00:00",
+    "fetched_at": "2026-10-22T09:19:10.768290+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/php2shell-php-rce"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+    "summary_he": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.",
+    "details_he": ""
+  }
+]
