@@ -1,0 +1,216 @@
+[
+  {
+    "id": "dcce0bdef103287f",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-24T08:47:51.148482+00:00",
+    "fetched_at": "2026-10-24T08:47:51.148482+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "52c1418a0f6f9c6d",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-24T08:47:51.148482+00:00",
+    "fetched_at": "2026-10-24T08:47:51.148482+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "7ab57ac37edbb03d",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-24T08:47:51.148482+00:00",
+    "fetched_at": "2026-10-24T08:47:51.148482+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "eca0f313d9f125e2",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-24T08:47:51.148482+00:00",
+    "fetched_at": "2026-10-24T08:47:51.148482+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "5e02f5d0b82de16f",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-24T08:47:51.148482+00:00",
+    "fetched_at": "2026-10-24T08:47:51.148482+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "66c91641a0f3576e",
+    "title_original": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+    "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+    "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.The postThreat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-10-23T19:00:34+00:00",
+    "fetched_at": "2026-10-24T08:47:59.174724+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+    "summary_he": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.The postThreat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)appeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "fb819fb7b074b524",
+    "title_original": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+    "description": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations.The postInside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooksappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-10-23T18:12:19+00:00",
+    "fetched_at": "2026-10-24T08:47:54.862999+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+    "summary_he": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations.The postInside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooksappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "670c06465f790eb6",
+    "title_original": "Closing the Cyber Skills Gap with 300 Academic Partnerships",
+    "url": "https://blog.checkpoint.com/education/closing-the-cyber-skills-gap-with-300-academic-partnerships/",
+    "description": "How 300 Academic Partnerships Are Helping Close the Cyber Skills Gap Check Point’s SecureAcademy has reached 300 academic partnerships across more than 80 countries, connecting educational institutions with industry-aligned cyber security training and resources. While the milestone reflects the program’s continued growth, it also highlights a broader shift: educational institutions are increasingly looking for ways to align cyber security education with the skills employers need today. Turning Classrooms into Career Pathways Organizations worldwide continue to face a shortage of cyber security professionals, while educational institutions are under pressure to keep pace with rapidly evolving technologies and threats. Through SecureAcademy, institutions […]The postClosing the Cyber Skills Gap with 300 Academic Partnershipsappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-23T13:01:00+00:00",
+    "fetched_at": "2026-10-24T08:48:05.488202+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/education/closing-the-cyber-skills-gap-with-300-academic-partnerships/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Closing the Cyber Skills Gap with 300 Academic Partnerships",
+    "summary_he": "How 300 Academic Partnerships Are Helping Close the Cyber Skills Gap Check Point’s SecureAcademy has reached 300 academic partnerships across more than 80 countries, connecting educational institutions with industry-aligned cyber security training and resources. While the milestone reflects the program’s continued growth, it also highlights a broader shift: educational institutions are increasingly looking for ways to align cyber security education with the skills employers need today. Turning Classrooms into Career Pathways Organizations worldwide continue to face a shortage of cyber security professionals, while educational institutions are under pressure to keep pace with rapidly evolving technologies and threats. Through SecureAcademy, institutions […]The postClosing the Cyber Skills Gap with 300 Academic Partnershipsappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "3b8de044add0f2ff",
+    "title_original": "Infostealer riding the AI Train",
+    "url": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/",
+    "description": "Key Points Introduction Infostealers commonly target browser passwords, session cookies, and cryptocurrency wallets. This malware combines those established capabilities with dedicated collection routines for AI applications and development tools. Its targets include Claude, ChatGPT Desktop, Codex, Cursor, Windsurf, and GitHub Copilot, alongside cloud credentials and sensitive files from local development environments. This expanded targeting reflects […]The postInfostealer riding the AI Trainappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-23T13:00:09+00:00",
+    "fetched_at": "2026-10-24T08:48:01.115843+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Infostealer riding the AI Train",
+    "summary_he": "Key Points Introduction Infostealers commonly target browser passwords, session cookies, and cryptocurrency wallets. This malware combines those established capabilities with dedicated collection routines for AI applications and development tools. Its targets include Claude, ChatGPT Desktop, Codex, Cursor, Windsurf, and GitHub Copilot, alongside cloud credentials and sensitive files from local development environments. This expanded targeting reflects […]The postInfostealer riding the AI Trainappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "3d6b6ad496c17b6a",
+    "title_original": "Infostealers Are Targeting AI: What Aokigahara Infostealer Reveals About the New Developer Attack Surface",
+    "url": "https://blog.checkpoint.com/ai-security/infostealers-are-targeting-ai-what-aokigahara-infostealer-reveals-about-the-new-developer-attack-surface/",
+    "description": "AI assistants have quickly become part of everyday work, particularly for developers. Tools such as ChatGPT, Claude, Cursor and GitHub Copilot increasingly sit alongside source code, cloud environments and other sensitive business resources, making the credentials and sessions connected to these tools increasingly important to protect. New research from Check Point Research (CPR) into the Aokigahara infostealer shows how attackers are adapting to this shift. The malware specifically collects authentication files, session data and configuration files associated with popular AI applications and development tools. The significance goes beyond gaining access to an AI account. If stolen credentials or session tokens […]The postInfostealers Are Targeting AI: What Aokigahara Infostealer Reveals About the New Developer Attack Surfaceappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-23T13:00:08+00:00",
+    "fetched_at": "2026-10-24T08:48:05.488202+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/infostealers-are-targeting-ai-what-aokigahara-infostealer-reveals-about-the-new-developer-attack-surface/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Infostealers Are Targeting AI: What Aokigahara Infostealer Reveals About the New Developer Attack Surface",
+    "summary_he": "AI assistants have quickly become part of everyday work, particularly for developers. Tools such as ChatGPT, Claude, Cursor and GitHub Copilot increasingly sit alongside source code, cloud environments and other sensitive business resources, making the credentials and sessions connected to these tools increasingly important to protect. New research from Check Point Research (CPR) into the Aokigahara infostealer shows how attackers are adapting to this shift. The malware specifically collects authentication files, session data and configuration files associated with popular AI applications and development tools. The significance goes beyond gaining access to an AI account. If stolen credentials or session tokens […]The postInfostealers Are Targeting AI: What Aokigahara Infostealer Reveals About the New Developer Attack Surfaceappeared first onCheck Point Blog.",
+    "details_he": ""
+  }
+]

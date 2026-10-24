@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T09:14:57.545994+00:00",
+  "timestamp": "2026-10-24T08:48:13.160492+00:00",
   "errors": [
     {
       "title": "Learn more",
@@ -32,31 +32,31 @@
       "has_details": false
     },
     {
-      "title": "ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Conte",
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 ",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "PHP2Shell: Log4Shell at AI Speed — A CISO’s Perspective",
+      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Pyt",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "EMudhra Intermediate CA Certificates Compromised",
+      "title": "Closing the Cyber Skills Gap with 300 Academic Partnerships",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "PHP2Shell Update: One in ten organizations impacted as Europe bears the brunt",
+      "title": "Infostealer riding the AI Train",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Current Landscape of OAuth Attacks",
+      "title": "Infostealers Are Targeting AI: What Aokigahara Infostealer Reveals About the New",
       "error": "NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 113,
+  "total_scanned": 60,
   "selected": 10
 }
