@@ -1,0 +1,216 @@
+[
+  {
+    "id": "a7ddb0bfa3e07a9b",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-25T09:03:56.306529+00:00",
+    "fetched_at": "2026-10-25T09:03:56.306529+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "c662eef4a32ec314",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-25T09:03:56.306529+00:00",
+    "fetched_at": "2026-10-25T09:03:56.306529+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "64fb6c7658930b7e",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-25T09:03:56.306529+00:00",
+    "fetched_at": "2026-10-25T09:03:56.306529+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "7982123354e860c6",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-25T09:03:56.306529+00:00",
+    "fetched_at": "2026-10-25T09:03:56.306529+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "71d7876a216fb044",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-25T09:03:56.306529+00:00",
+    "fetched_at": "2026-10-25T09:03:56.306529+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "2092b81f8f47158f",
+    "title_original": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+    "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+    "description": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-25T12:24:29+05:30",
+    "fetched_at": "2026-10-25T09:03:58.173490+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+    "summary_he": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
+    "details_he": ""
+  },
+  {
+    "id": "7daa50572aa81435",
+    "title_original": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+    "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+    "description": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-24T16:39:29+05:30",
+    "fetched_at": "2026-10-25T09:03:58.173490+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+    "summary_he": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+    "details_he": ""
+  },
+  {
+    "id": "93d806993f53af3a",
+    "title_original": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+    "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+    "description": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n\"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-24T16:33:33+05:30",
+    "fetched_at": "2026-10-25T09:03:58.173490+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+    "summary_he": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n\"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
+    "details_he": ""
+  },
+  {
+    "id": "ad44084c4e8883fc",
+    "title_original": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+    "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+    "description": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n\"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-24T16:06:33+05:30",
+    "fetched_at": "2026-10-25T09:03:58.173490+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+    "summary_he": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n\"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
+    "details_he": ""
+  },
+  {
+    "id": "2eba729fca19ad05",
+    "title_original": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+    "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+    "description": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent.\n\nPopcorn Time was",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-10-24T14:34:24+05:30",
+    "fetched_at": "2026-10-25T09:03:58.173490+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+    "summary_he": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent.\n\nPopcorn Time was",
+    "details_he": ""
+  }
+]
