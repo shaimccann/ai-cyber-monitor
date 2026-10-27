@@ -1,0 +1,216 @@
+[
+  {
+    "id": "648abd4e6b0290ba",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-27T09:43:43.046732+00:00",
+    "fetched_at": "2026-10-27T09:43:43.046732+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "6f5d36bb9892f557",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-27T09:43:43.046732+00:00",
+    "fetched_at": "2026-10-27T09:43:43.046732+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "9788bb563585ae05",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-27T09:43:43.046732+00:00",
+    "fetched_at": "2026-10-27T09:43:43.046732+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "79829b1857f49537",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-27T09:43:43.046732+00:00",
+    "fetched_at": "2026-10-27T09:43:43.046732+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "09d13e239146a096",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-27T09:43:43.046732+00:00",
+    "fetched_at": "2026-10-27T09:43:43.046732+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "26048952feb16b26",
+    "title_original": "26th October – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 26th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Japanese cloud hosting provider Onamae Desktop Cloud has confirmed a cyberattack in which intruders compromised its infrastructure and installed malware on customer servers. More than 26,000 servers were potentially affected. The provider […]The post26th October – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-26T16:12:38+00:00",
+    "fetched_at": "2026-10-27T09:43:54.224958+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "26th October – Threat Intelligence Report",
+    "summary_he": "For the latest discoveries in cyber research for the week of 26th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Japanese cloud hosting provider Onamae Desktop Cloud has confirmed a cyberattack in which intruders compromised its infrastructure and installed malware on customer servers. More than 26,000 servers were potentially affected. The provider […]The post26th October – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "48d4e5566152e852",
+    "title_original": "The Pwn Request Reckoning: What Still Works Against GitHub Actions",
+    "url": "https://www.wiz.io/blog/github-actions-security-pwn-request-reckoning",
+    "description": "GitHub's 2026 Actions changes make pull_request_target attacks harder, but not impossible. Here's the residual attack surface and how to audit for it.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-10-26T13:24:12+00:00",
+    "fetched_at": "2026-10-27T09:43:54.499873+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/github-actions-security-pwn-request-reckoning"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Pwn Request Reckoning: What Still Works Against GitHub Actions",
+    "summary_he": "GitHub's 2026 Actions changes make pull_request_target attacks harder, but not impossible. Here's the residual attack surface and how to audit for it.",
+    "details_he": ""
+  },
+  {
+    "id": "9eae04acb2ceab93",
+    "title_original": "Budgets Are Stalling Firewall Deals. Here’s How Partners Can Get Them Moving Again",
+    "url": "https://blog.checkpoint.com/security/budgets-are-stalling-firewall-deals-heres-how-partners-can-get-them-moving-again/",
+    "description": "Every partner knows this conversation. A customer agrees their firewalls need replacing. Their teams are using AI tools, they are connecting more systems, and the threats are moving faster than their hardware was built for. They want to upgrade. Then the quote goes into the capital approval process, and the deal goes quiet. This year, that conversation is happening more often. Today we launched Firewall-as-a-Subscription to help partners get those deals moving again. Why deals are stalling Inflation and rising interest rates are increasing borrowing costs and shrinking capital budgets, and security is feeling the pressure. According to the IANS […]The postBudgets Are Stalling Firewall Deals. Here’s How Partners Can Get Them Moving Againappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-26T13:05:17+00:00",
+    "fetched_at": "2026-10-27T09:43:59.819678+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/budgets-are-stalling-firewall-deals-heres-how-partners-can-get-them-moving-again/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Budgets Are Stalling Firewall Deals. Here’s How Partners Can Get Them Moving Again",
+    "summary_he": "Every partner knows this conversation. A customer agrees their firewalls need replacing. Their teams are using AI tools, they are connecting more systems, and the threats are moving faster than their hardware was built for. They want to upgrade. Then the quote goes into the capital approval process, and the deal goes quiet. This year, that conversation is happening more often. Today we launched Firewall-as-a-Subscription to help partners get those deals moving again. Why deals are stalling Inflation and rising interest rates are increasing borrowing costs and shrinking capital budgets, and security is feeling the pressure. According to the IANS […]The postBudgets Are Stalling Firewall Deals. Here’s How Partners Can Get Them Moving Againappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "1c15154aaaebe6eb",
+    "title_original": "Rising Borrowing Costs Shouldn’t Delay Your Security: Meet Firewall-as-a-Subscription",
+    "url": "https://blog.checkpoint.com/security/rising-borrowing-costs-shouldnt-delay-your-security-meet-firewall-as-a-subscription/",
+    "description": "Check Point’s Firewall-as-a-Subscription Puts Advanced AI-Era Protection Within Reach of Every Organization Attacks don’t wait for budget approval. But firewall purchases often do, and that wait is getting longer. Rising interest rates have made borrowing more expensive. For a midsize company, a single rate rise can cost the equivalent of a branch office firewall. A large hardware purchase now means a harder conversation with finance and a longer approval cycle. Meanwhile, the old firewall stays in place; the network grows, and so does the risk. Security is urgent. The way organizations pay for it isn’t keeping pace. Check Point Firewall-as-a-Subscription […]The postRising Borrowing Costs Shouldn’t Delay Your Security: Meet Firewall-as-a-Subscriptionappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-26T12:50:01+00:00",
+    "fetched_at": "2026-10-27T09:43:59.819678+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/rising-borrowing-costs-shouldnt-delay-your-security-meet-firewall-as-a-subscription/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Rising Borrowing Costs Shouldn’t Delay Your Security: Meet Firewall-as-a-Subscription",
+    "summary_he": "Check Point’s Firewall-as-a-Subscription Puts Advanced AI-Era Protection Within Reach of Every Organization Attacks don’t wait for budget approval. But firewall purchases often do, and that wait is getting longer. Rising interest rates have made borrowing more expensive. For a midsize company, a single rate rise can cost the equivalent of a branch office firewall. A large hardware purchase now means a harder conversation with finance and a longer approval cycle. Meanwhile, the old firewall stays in place; the network grows, and so does the risk. Security is urgent. The way organizations pay for it isn’t keeping pace. Check Point Firewall-as-a-Subscription […]The postRising Borrowing Costs Shouldn’t Delay Your Security: Meet Firewall-as-a-Subscriptionappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "6efce81c3376c829",
+    "title_original": "Cato CTRL Threat Brief on Attacks Against Refrigeration Controllers",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-brief-attacks-against-refrigeration-controllers/",
+    "description": "Executive summary CERT-FR’s October 13 update reports compromises of refrigeration controllers, naming Danfoss AK-SM and AK-SC alongside Copeland/Dixell XWEB systems. The entry methods remain unconfirmed. CERT-FR warns that attacks are probably continuing and recommends removing public exposure, checking configurations, and securing remote access. Compromised operational technology (OT) can disrupt cooling, compromise stored products, and threaten...The postCato CTRL Threat Brief on Attacks Against Refrigeration Controllersappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-10-26T12:02:31+00:00",
+    "fetched_at": "2026-10-27T09:43:55.990469+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-brief-attacks-against-refrigeration-controllers/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL Threat Brief on Attacks Against Refrigeration Controllers",
+    "summary_he": "Executive summary CERT-FR’s October 13 update reports compromises of refrigeration controllers, naming Danfoss AK-SM and AK-SC alongside Copeland/Dixell XWEB systems. The entry methods remain unconfirmed. CERT-FR warns that attacks are probably continuing and recommends removing public exposure, checking configurations, and securing remote access. Compromised operational technology (OT) can disrupt cooling, compromise stored products, and threaten...The postCato CTRL Threat Brief on Attacks Against Refrigeration Controllersappeared first onCato Networks.",
+    "details_he": ""
+  }
+]
