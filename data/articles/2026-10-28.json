@@ -1,0 +1,216 @@
+[
+  {
+    "id": "5007085a176789f5",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-28T10:29:11.627448+00:00",
+    "fetched_at": "2026-10-28T10:29:11.627448+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "fcb59cce388ef505",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-28T10:29:11.627448+00:00",
+    "fetched_at": "2026-10-28T10:29:11.627448+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "68e30a1c7c454766",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-28T10:29:11.627448+00:00",
+    "fetched_at": "2026-10-28T10:29:11.627448+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "57551e1a076b027d",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-28T10:29:11.627448+00:00",
+    "fetched_at": "2026-10-28T10:29:11.627448+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "bc44178213d4aee1",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-28T10:29:11.627448+00:00",
+    "fetched_at": "2026-10-28T10:29:11.627448+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "519bd7655b78f7ff",
+    "title_original": "Millions of security cameras at risk: DoS vulnerability in Intelbras devices",
+    "url": "https://securelist.com/intelbras-camera-vulnerability/121131/",
+    "description": "During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-10-28T10:00:18+00:00",
+    "fetched_at": "2026-10-28T10:29:20.377341+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/intelbras-camera-vulnerability/121131/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Millions of security cameras at risk: DoS vulnerability in Intelbras devices",
+    "summary_he": "During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer.",
+    "details_he": ""
+  },
+  {
+    "id": "f6de305c2bdf832e",
+    "title_original": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+    "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+    "description": "Wiz research has been monitoring PHP2Shell exploitation attempts, but none have succeeded so far. We examine the techniques used, what prevented the attacks from completing and how observed exposure has changed since disclosure.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-10-27T13:21:45+00:00",
+    "fetched_at": "2026-10-28T10:29:22.326429+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+    "summary_he": "Wiz research has been monitoring PHP2Shell exploitation attempts, but none have succeeded so far. We examine the techniques used, what prevented the attacks from completing and how observed exposure has changed since disclosure.",
+    "details_he": ""
+  },
+  {
+    "id": "b791f788bf5e8365",
+    "title_original": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
+    "url": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/",
+    "description": "Key Points Introduction Over the past two months, we have been tracking a campaign that abuses the popularity of AI tools such as ChatGPT and Claude to spread a custom malware chain we call Yoba. The attackers use fake GitHub projects that pretend to be AI desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude […]The postTricks from the Past deployed via signed ChatGPT and Claude binariesappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-27T13:03:27+00:00",
+    "fetched_at": "2026-10-28T10:29:22.037033+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
+    "summary_he": "Key Points Introduction Over the past two months, we have been tracking a campaign that abuses the popularity of AI tools such as ChatGPT and Claude to spread a custom malware chain we call Yoba. The attackers use fake GitHub projects that pretend to be AI desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude […]The postTricks from the Past deployed via signed ChatGPT and Claude binariesappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "b8f5e4570a4bcbe6",
+    "title_original": "Yoba Malware Abuses Signed ChatGPT and Claude Binaries to Target AI Users",
+    "url": "https://blog.checkpoint.com/research/yoba-malware-abuses-signed-chatgpt-and-claude-binaries-to-target-ai-users/",
+    "description": "As interest in new AI tools accelerates, cybercriminals are finding ways to exploit the trust surrounding them. Check Point Research (CPR) has uncovered Yoba, a malware campaign using fake GitHub projects impersonating supposed ChatGPT and Claude desktop applications, while abusing legitimate, signed OpenAI and Anthropic executables to help load malware. The campaign shows how the rush to access new AI tools is creating opportunities for social engineering, even when the AI platforms themselves have not been compromised. Key Findings Attackers used fake GitHub projects impersonating supposed ChatGPT and Claude desktop applications to distribute Yoba malware. Legitimate, signed OpenAI and Anthropic […]The postYoba Malware Abuses Signed ChatGPT and Claude Binaries to Target AI Usersappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-10-27T13:00:10+00:00",
+    "fetched_at": "2026-10-28T10:29:27.811217+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/yoba-malware-abuses-signed-chatgpt-and-claude-binaries-to-target-ai-users/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Yoba Malware Abuses Signed ChatGPT and Claude Binaries to Target AI Users",
+    "summary_he": "As interest in new AI tools accelerates, cybercriminals are finding ways to exploit the trust surrounding them. Check Point Research (CPR) has uncovered Yoba, a malware campaign using fake GitHub projects impersonating supposed ChatGPT and Claude desktop applications, while abusing legitimate, signed OpenAI and Anthropic executables to help load malware. The campaign shows how the rush to access new AI tools is creating opportunities for social engineering, even when the AI platforms themselves have not been compromised. Key Findings Attackers used fake GitHub projects impersonating supposed ChatGPT and Claude desktop applications to distribute Yoba malware. Legitimate, signed OpenAI and Anthropic […]The postYoba Malware Abuses Signed ChatGPT and Claude Binaries to Target AI Usersappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "e79aaa8170aca260",
+    "title_original": "Cato AI Endpoint secures browser AI, desktop AI and coding agents on every endpoint",
+    "url": "https://www.catonetworks.com/blog/cato-ai-endpoint-secures-browser-ai-desktop-ai-and-coding-agents-on-every-endpoint/",
+    "description": "AI used to live in a browser tab. Today it also runs inside the apps employees use every day, like Copilot in Word, in dedicated apps like ChatGPT and in coding agents such as Claude Code, Codex and Cursor. Coding agents work differently from chat apps. A chat app answers a question and waits. A...The postCato AI Endpoint secures browser AI, desktop AI and coding agents on every endpointappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-10-27T12:23:35+00:00",
+    "fetched_at": "2026-10-28T10:29:23.702302+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ai-endpoint-secures-browser-ai-desktop-ai-and-coding-agents-on-every-endpoint/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato AI Endpoint secures browser AI, desktop AI and coding agents on every endpoint",
+    "summary_he": "AI used to live in a browser tab. Today it also runs inside the apps employees use every day, like Copilot in Word, in dedicated apps like ChatGPT and in coding agents such as Claude Code, Codex and Cursor. Coding agents work differently from chat apps. A chat app answers a question and waits. A...The postCato AI Endpoint secures browser AI, desktop AI and coding agents on every endpointappeared first onCato Networks.",
+    "details_he": ""
+  }
+]
