@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T10:29:35.269453+00:00",
+  "timestamp": "2026-10-29T10:49:32.707412+00:00",
   "errors": [
     {
       "title": "Learn more",
@@ -32,31 +32,31 @@
       "has_details": false
     },
     {
-      "title": "Millions of security cameras at risk: DoS vulnerability in Intelbras devices",
+      "title": "HTTP2Shell: The Brotli Vulnerability That Extends Beyond Node.js",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+      "title": "Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in ",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
+      "title": "See the Real AI Experience with Cato DEM",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Yoba Malware Abuses Signed ChatGPT and Claude Binaries to Target AI Users",
+      "title": "Cato CTRL Threat Brief: eMudhra Certificate Compromise Highlights the Value of P",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Cato AI Endpoint secures browser AI, desktop AI and coding agents on every endpo",
+      "title": "Unwrapping Retail Peak Season Cyber Threats",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 96,
+  "total_scanned": 94,
   "selected": 10
 }
