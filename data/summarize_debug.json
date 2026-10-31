@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T10:47:53.247511+00:00",
+  "timestamp": "2026-10-31T10:17:36.048886+00:00",
   "errors": [
     {
       "title": "Learn more",
@@ -32,31 +32,31 @@
       "has_details": false
     },
     {
-      "title": "Filter generation in practice: from algorithms to LLMs",
+      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 ",
+      "title": "“Black October” for AI Developer Platforms",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusi",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint S",
+      "title": "Key Takeaways: AI Threat Readiness Survey Report 2026",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+      "title": "Cato CTRL Threat Research: PHP2Shell Exploitation Attempts in the Wild, and How ",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 101,
+  "total_scanned": 74,
   "selected": 10
 }

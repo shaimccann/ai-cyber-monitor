@@ -1,0 +1,216 @@
+[
+  {
+    "id": "43e7bc4ca08f9c78",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-31T10:17:16.135447+00:00",
+    "fetched_at": "2026-10-31T10:17:16.135447+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "5e15d59f72fcab33",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-31T10:17:16.135447+00:00",
+    "fetched_at": "2026-10-31T10:17:16.135447+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "93557f08e29cbb22",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-31T10:17:16.135447+00:00",
+    "fetched_at": "2026-10-31T10:17:16.135447+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "f70b6e45b0c036cb",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-31T10:17:16.135447+00:00",
+    "fetched_at": "2026-10-31T10:17:16.135447+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "00034252b2555341",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-10-31T10:17:16.135447+00:00",
+    "fetched_at": "2026-10-31T10:17:16.135447+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "a7d204002deb14af",
+    "title_original": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+    "description": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it.The postInside a malicious Claude Code-branded extension and its persistent SSH backdoorappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-10-31T01:02:57+00:00",
+    "fetched_at": "2026-10-31T10:17:19.790411+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+    "summary_he": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it.The postInside a malicious Claude Code-branded extension and its persistent SSH backdoorappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "d5f25d2e74fd0608",
+    "title_original": "“Black October” for AI Developer Platforms",
+    "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+    "description": "A series of agentic attacks on AI Developer Platforms has been leading to LLMJacking at scale.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-10-30T22:51:44+00:00",
+    "fetched_at": "2026-10-31T10:17:23.728556+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "“Black October” for AI Developer Platforms",
+    "summary_he": "A series of agentic attacks on AI Developer Platforms has been leading to LLMJacking at scale.",
+    "details_he": ""
+  },
+  {
+    "id": "3a56f213b2dfe377",
+    "title_original": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+    "description": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.The postFrom help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion pathsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-10-30T16:11:44+00:00",
+    "fetched_at": "2026-10-31T10:17:19.790411+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+    "summary_he": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.The postFrom help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion pathsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "5550b9836be63475",
+    "title_original": "Key Takeaways: AI Threat Readiness Survey Report 2026",
+    "url": "https://www.wiz.io/blog/ai-threat-readiness-survey-report-2026",
+    "description": "Key benchmark findings on shadow AI, orchestration risks, and the imperative for an AI-against-AI defensive model.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-10-30T12:57:42+00:00",
+    "fetched_at": "2026-10-31T10:17:23.728556+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/ai-threat-readiness-survey-report-2026"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Key Takeaways: AI Threat Readiness Survey Report 2026",
+    "summary_he": "Key benchmark findings on shadow AI, orchestration risks, and the imperative for an AI-against-AI defensive model.",
+    "details_he": ""
+  },
+  {
+    "id": "d7fcb83d69cd4528",
+    "title_original": "Cato CTRL Threat Research: PHP2Shell Exploitation Attempts in the Wild, and How Cato IPS Blocked Them",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-research-php2shell-exploitation-attempts-in-the-wild/",
+    "description": "Executive summary On 21 October 2026, PHP released fixes for CVE-2026-109618 and CVE-2026-109619, a pair of critical runtime vulnerabilities known as PHP2Shell. One day later, we described how our self-evolving CVE mitigation agent turned the patch into reviewed IPS protection in minutes. This report follows what happened next, including how quickly attackers moved, what their...The postCato CTRL Threat Research: PHP2Shell Exploitation Attempts in the Wild, and How Cato IPS Blocked Themappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-10-30T12:12:17+00:00",
+    "fetched_at": "2026-10-31T10:17:25.186605+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-research-php2shell-exploitation-attempts-in-the-wild/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL Threat Research: PHP2Shell Exploitation Attempts in the Wild, and How Cato IPS Blocked Them",
+    "summary_he": "Executive summary On 21 October 2026, PHP released fixes for CVE-2026-109618 and CVE-2026-109619, a pair of critical runtime vulnerabilities known as PHP2Shell. One day later, we described how our self-evolving CVE mitigation agent turned the patch into reviewed IPS protection in minutes. This report follows what happened next, including how quickly attackers moved, what their...The postCato CTRL Threat Research: PHP2Shell Exploitation Attempts in the Wild, and How Cato IPS Blocked Themappeared first onCato Networks.",
+    "details_he": ""
+  }
+]
