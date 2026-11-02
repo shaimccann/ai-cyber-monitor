@@ -1,0 +1,216 @@
+[
+  {
+    "id": "5b978adb970c9949",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-02T12:13:06.313726+00:00",
+    "fetched_at": "2026-11-02T12:13:06.313726+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "f3e3deb723269f90",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-02T12:13:06.313726+00:00",
+    "fetched_at": "2026-11-02T12:13:06.313726+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "2e28fe0ac99e4858",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-02T12:13:06.313726+00:00",
+    "fetched_at": "2026-11-02T12:13:06.313726+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "f73eee6794441670",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-02T12:13:06.313726+00:00",
+    "fetched_at": "2026-11-02T12:13:06.313726+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "32d9379234aae944",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-02T12:13:06.313726+00:00",
+    "fetched_at": "2026-11-02T12:13:06.313726+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "c8ab18842e56ab02",
+    "title_original": "CyberStrikeAI in the wild: the use of AI in real-world attacks on organizations",
+    "url": "https://securelist.com/tr/cyberstrikeai-attacks/121715/",
+    "description": "We analyze a series of attacks on educational institutions that were fully automated during the post-exploitation phase using the CyberStrikeAI penetration testing framework.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-02T08:00:24+00:00",
+    "fetched_at": "2026-11-02T12:13:12.242348+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/tr/cyberstrikeai-attacks/121715/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CyberStrikeAI in the wild: the use of AI in real-world attacks on organizations",
+    "summary_he": "We analyze a series of attacks on educational institutions that were fully automated during the post-exploitation phase using the CyberStrikeAI penetration testing framework.",
+    "details_he": ""
+  },
+  {
+    "id": "513f4853da4ffc2d",
+    "title_original": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+    "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+    "description": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller.\n\nMicrosoft said in a report that it investigated two such intrusions, one of which resulted in company",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-02T16:38:45+05:30",
+    "fetched_at": "2026-11-02T12:13:08.396156+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+    "summary_he": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller.\n\nMicrosoft said in a report that it investigated two such intrusions, one of which resulted in company",
+    "details_he": ""
+  },
+  {
+    "id": "68c81a0c014189bc",
+    "title_original": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+    "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+    "description": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.\n\nThe activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refers to cluster and \"UNK\" stands for unknown",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-02T16:19:59+05:30",
+    "fetched_at": "2026-11-02T12:13:08.396156+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+    "summary_he": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.\n\nThe activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refers to cluster and \"UNK\" stands for unknown",
+    "details_he": ""
+  },
+  {
+    "id": "a5bf545ae14198a4",
+    "title_original": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+    "url": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
+    "description": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel.The postMalicious Claude Code Extension Served in Cursor Supply Chain Attackappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-11-02T11:29:39+00:00",
+    "fetched_at": "2026-11-02T12:13:08.913523+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+    "summary_he": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel.The postMalicious Claude Code Extension Served in Cursor Supply Chain Attackappeared first onSecurityWeek.",
+    "details_he": ""
+  },
+  {
+    "id": "d691065c1f2e4d61",
+    "title_original": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+    "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+    "description": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.\n\nLike other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-02T11:21:07+05:30",
+    "fetched_at": "2026-11-02T12:13:08.396156+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+    "summary_he": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.\n\nLike other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
+    "details_he": ""
+  }
+]
