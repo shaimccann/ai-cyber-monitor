@@ -1,0 +1,216 @@
+[
+  {
+    "id": "85bc0183040e5da9",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-03T11:47:51.017492+00:00",
+    "fetched_at": "2026-11-03T11:47:51.017492+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "3a94d1b3927c9d24",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-03T11:47:51.017492+00:00",
+    "fetched_at": "2026-11-03T11:47:51.017492+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "d5a1eb36e1ff1263",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-03T11:47:51.017492+00:00",
+    "fetched_at": "2026-11-03T11:47:51.017492+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "cad61839e7ea37b6",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-03T11:47:51.017492+00:00",
+    "fetched_at": "2026-11-03T11:47:51.017492+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "8d75d49e0bf8fbdb",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-03T11:47:51.017492+00:00",
+    "fetched_at": "2026-11-03T11:47:51.017492+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "913d79b433248117",
+    "title_original": "MLEP in KICS for Networks 5.0: how machine learning helps track network behavior of OT devices",
+    "url": "https://securelist.com/tr/machine-learning-event-processor-in-kics-for-networks/121794/",
+    "description": "We explain how Kaspersky Industrial CyberSecurity for Networks uses Machine Learning Event Processor (MLEP) technology to help take inventory of assets and detect anomalies in industrial networks.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-03T10:00:07+00:00",
+    "fetched_at": "2026-11-03T11:48:16.482214+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/tr/machine-learning-event-processor-in-kics-for-networks/121794/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "MLEP in KICS for Networks 5.0: how machine learning helps track network behavior of OT devices",
+    "summary_he": "We explain how Kaspersky Industrial CyberSecurity for Networks uses Machine Learning Event Processor (MLEP) technology to help take inventory of assets and detect anomalies in industrial networks.",
+    "details_he": ""
+  },
+  {
+    "id": "aaef781313340a7e",
+    "title_original": "CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform",
+    "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "cyber",
+    "published": "2026-11-03T00:00:00-08:00",
+    "fetched_at": "2026-11-03T11:48:16.274249+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform",
+    "summary_he": "CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform",
+    "details_he": ""
+  },
+  {
+    "id": "e8882872fb6d7818",
+    "title_original": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
+    "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "cyber",
+    "published": "2026-11-03T00:00:00-08:00",
+    "fetched_at": "2026-11-03T11:48:16.274249+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
+    "summary_he": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
+    "details_he": ""
+  },
+  {
+    "id": "427aec07fe8f13a4",
+    "title_original": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
+    "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "cyber",
+    "published": "2026-11-03T00:00:00-08:00",
+    "fetched_at": "2026-11-03T11:48:16.274249+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
+    "summary_he": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
+    "details_he": ""
+  },
+  {
+    "id": "a64b61a03f2c1f36",
+    "title_original": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
+    "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "cyber",
+    "published": "2026-11-03T00:00:00-08:00",
+    "fetched_at": "2026-11-03T11:48:16.274249+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
+    "summary_he": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
+    "details_he": ""
+  }
+]

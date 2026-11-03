@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T12:13:28.272051+00:00",
+  "timestamp": "2026-11-03T11:48:32.910384+00:00",
   "errors": [
     {
       "title": "Learn more",
@@ -32,31 +32,31 @@
       "has_details": false
     },
     {
-      "title": "CyberStrikeAI in the wild: the use of AI in real-world attacks on organizations",
+      "title": "MLEP in KICS for Networks 5.0: how machine learning helps track network behavior",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Da",
+      "title": "CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the F",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scrip",
+      "title": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+      "title": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observabil",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financ",
+      "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 52,
+  "total_scanned": 103,
   "selected": 10
 }
