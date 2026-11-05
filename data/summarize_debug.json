@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T11:59:43.071100+00:00",
+  "timestamp": "2026-11-05T12:09:07.571493+00:00",
   "errors": [
     {
       "title": "Learn more",
@@ -32,31 +32,31 @@
       "has_details": false
     },
     {
-      "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversa",
+      "title": "The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
+      "title": "HYFLOCK Ransomware Evolves with New Builds and Encryption Weaknesses",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
+      "title": "Why Pay Twice? One Platform for Enterprise WAF and CDN Speed",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "New Falcon Cloud Security Innovations Secure the Cloud AI Runs On",
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Fake-download campaign uses trojanized installers to deliver monetization payloa",
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Cont",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 114,
+  "total_scanned": 100,
   "selected": 10
 }
