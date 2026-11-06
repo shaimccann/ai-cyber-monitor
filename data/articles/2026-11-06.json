@@ -1,0 +1,216 @@
+[
+  {
+    "id": "5cf6b4f627a2df74",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-06T11:58:14.052323+00:00",
+    "fetched_at": "2026-11-06T11:58:14.052323+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "569bdd15bc94a650",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-06T11:58:14.052323+00:00",
+    "fetched_at": "2026-11-06T11:58:14.052323+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "20458152c79844fa",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-06T11:58:14.052323+00:00",
+    "fetched_at": "2026-11-06T11:58:14.052323+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "ec49dc3ec302a796",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-06T11:58:14.052323+00:00",
+    "fetched_at": "2026-11-06T11:58:14.052323+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "7249be405aa9f265",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-06T11:58:14.052323+00:00",
+    "fetched_at": "2026-11-06T11:58:14.052323+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "9ff679105dff7455",
+    "title_original": "Virtualization security: attack layers and misconfiguration impact",
+    "url": "https://securelist.com/virtualization-security-esxi-and-proxmox-ransomware-cases/121819/",
+    "description": "A detailed breakdown of misconfigurations in virtual environment cybersecurity as shown by examples of ransomware cases on ESXi and Proxmox environments.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-06T10:00:12+00:00",
+    "fetched_at": "2026-11-06T11:58:20.365559+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/virtualization-security-esxi-and-proxmox-ransomware-cases/121819/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Virtualization security: attack layers and misconfiguration impact",
+    "summary_he": "A detailed breakdown of misconfigurations in virtual environment cybersecurity as shown by examples of ransomware cases on ESXi and Proxmox environments.",
+    "details_he": ""
+  },
+  {
+    "id": "e0ff8eedb4c734cb",
+    "title_original": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+    "description": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application’s tenant. Agents operating on behalf of threat actors then used the compromised OAuth applications to perform a variety of subsequent actions within compromised organizations.The postThreat actors use agentic AI tooling to find and abuse exposed secretsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-05T23:46:50+00:00",
+    "fetched_at": "2026-11-06T11:58:18.302474+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+    "summary_he": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application’s tenant. Agents operating on behalf of threat actors then used the compromised OAuth applications to perform a variety of subsequent actions within compromised organizations.The postThreat actors use agentic AI tooling to find and abuse exposed secretsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "ddcccf5295115103",
+    "title_original": "A Critical SSH Password Bypass Hits musl-Based Linux",
+    "url": "https://blog.checkpoint.com/exposure-management/a-critical-ssh-password-bypass-hits-musl-based-linux/",
+    "description": "OpenSSH 10.6p2 shipped on November 5, 2026, and it closes a critical password authentication bypass. On affected systems, anyone who can reach the SSH port can log in without knowing a password.   If you run sshd on musl-based Linux with pluggable authentication modules (PAM) disabled, Alpine Linux being the common example, upgrade today.  At Check Point Software, our testing adds two points to the public advisory. The attack needs a second account that is active and has a real password, because a stored hash alone is not enough. Two conditions are also visible remotely before login: the OpenSSH version in […]The postA Critical SSH Password Bypass Hits musl-Based Linuxappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-05T20:56:15+00:00",
+    "fetched_at": "2026-11-06T11:58:27.733985+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/exposure-management/a-critical-ssh-password-bypass-hits-musl-based-linux/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A Critical SSH Password Bypass Hits musl-Based Linux",
+    "summary_he": "OpenSSH 10.6p2 shipped on November 5, 2026, and it closes a critical password authentication bypass. On affected systems, anyone who can reach the SSH port can log in without knowing a password.   If you run sshd on musl-based Linux with pluggable authentication modules (PAM) disabled, Alpine Linux being the common example, upgrade today.  At Check Point Software, our testing adds two points to the public advisory. The attack needs a second account that is active and has a real password, because a stored hash alone is not enough. Two conditions are also visible remotely before login: the OpenSSH version in […]The postA Critical SSH Password Bypass Hits musl-Based Linuxappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "84210d21fbaee939",
+    "title_original": "Inside ARTEX: How Autonomous AI Agents Are Being Used in Real-World Cyberattacks",
+    "url": "https://blog.checkpoint.com/research/inside-artex-how-autonomous-ai-agents-are-being-used-in-real-world-cyberattacks/",
+    "description": "AI agents are already changing how cyberattacks are carried out. Check Point Research (CPR) analyzed ARTEX, an AI-powered penetration testing platform increasingly adopted by cybercriminals and gained rare visibility into how attackers are using autonomous agents from inside their own operator consoles. The findings show that attackers can set an initial objective and leave AI agents to independently find vulnerabilities, exploit systems and pursue that goal at scale, often with very little human involvement. Key Findings ARTEX is already operating at scale: CPR identified 2,557 systems that hosted ARTEX, including 1,608 live, publicly accessible instances at the time of the […]The postInside ARTEX: How Autonomous AI Agents Are Being Used in Real-World Cyberattacksappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-05T17:38:21+00:00",
+    "fetched_at": "2026-11-06T11:58:27.733985+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/research/inside-artex-how-autonomous-ai-agents-are-being-used-in-real-world-cyberattacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Inside ARTEX: How Autonomous AI Agents Are Being Used in Real-World Cyberattacks",
+    "summary_he": "AI agents are already changing how cyberattacks are carried out. Check Point Research (CPR) analyzed ARTEX, an AI-powered penetration testing platform increasingly adopted by cybercriminals and gained rare visibility into how attackers are using autonomous agents from inside their own operator consoles. The findings show that attackers can set an initial objective and leave AI agents to independently find vulnerabilities, exploit systems and pursue that goal at scale, often with very little human involvement. Key Findings ARTEX is already operating at scale: CPR identified 2,557 systems that hosted ARTEX, including 1,608 live, publicly accessible instances at the time of the […]The postInside ARTEX: How Autonomous AI Agents Are Being Used in Real-World Cyberattacksappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "897ed8a91b09040a",
+    "title_original": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
+    "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+    "description": "Key Points Introduction ARTEX is a Chinese open-source, AI-powered penetration testing platform designed to help security teams assess systems they own or are authorized to test. It uses large language models (LLMs) to coordinate multiple AI agents that plan tests, run security tools, and record evidence of potential vulnerabilities. Its web dashboard brings together assets, […]The postHacking on Autopilot: Inside ARTEX Cybercrime Campaignsappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-05T17:22:06+00:00",
+    "fetched_at": "2026-11-06T11:58:22.668164+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
+    "summary_he": "Key Points Introduction ARTEX is a Chinese open-source, AI-powered penetration testing platform designed to help security teams assess systems they own or are authorized to test. It uses large language models (LLMs) to coordinate multiple AI agents that plan tests, run security tools, and record evidence of potential vulnerabilities. Its web dashboard brings together assets, […]The postHacking on Autopilot: Inside ARTEX Cybercrime Campaignsappeared first onCheck Point Research.",
+    "details_he": ""
+  }
+]
