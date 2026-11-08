@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T11:00:51.911694+00:00",
+  "timestamp": "2026-11-08T11:14:21.409125+00:00",
   "errors": [
     {
       "title": "Learn more",
@@ -30,42 +30,12 @@
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
-    },
-    {
-      "title": "ARTEX abuse expands as cybercriminals target financial sector",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Beyond Unified Detection: What Email Security Teams Need to Control",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public ",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
     }
   ],
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
-  "fallback": 10,
-  "total_scanned": 64,
-  "selected": 10
+  "fallback": 5,
+  "total_scanned": 25,
+  "selected": 5
 }

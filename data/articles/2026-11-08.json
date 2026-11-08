@@ -1,0 +1,111 @@
+[
+  {
+    "id": "82fee35b7bc0e33e",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-08T11:11:34.348848+00:00",
+    "fetched_at": "2026-11-08T11:11:34.348848+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "2b9f2af7d1c61461",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-08T11:11:34.348848+00:00",
+    "fetched_at": "2026-11-08T11:11:34.348848+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "98f8592060d37647",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-08T11:11:34.348848+00:00",
+    "fetched_at": "2026-11-08T11:11:34.348848+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "bcd2304cc15a2ba8",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-08T11:11:34.348848+00:00",
+    "fetched_at": "2026-11-08T11:11:34.348848+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "679ad804a516b350",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-08T11:11:34.348848+00:00",
+    "fetched_at": "2026-11-08T11:11:34.348848+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  }
+]
