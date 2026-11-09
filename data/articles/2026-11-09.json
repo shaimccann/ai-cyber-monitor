@@ -1,0 +1,216 @@
+[
+  {
+    "id": "43cff80036609984",
+    "title_original": "Learn more",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-09T12:43:31.034401+00:00",
+    "fetched_at": "2026-11-09T12:43:31.034401+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/public-benefit-charter"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Learn more",
+    "summary_he": "Learn more",
+    "details_he": ""
+  },
+  {
+    "id": "e5225b6012fb07ac",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-09T12:43:31.034401+00:00",
+    "fetched_at": "2026-11-09T12:43:31.034401+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "e7047f9d9fd926c2",
+    "title_original": "Introducing Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-09T12:43:31.034401+00:00",
+    "fetched_at": "2026-11-09T12:43:31.034401+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Haiku 5.5",
+    "summary_he": "Introducing Claude Haiku 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "a1b4af038b51c84e",
+    "title_original": "Model DetailsHaiku",
+    "url": "https://www.anthropic.com/claude/haiku",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-09T12:43:31.034401+00:00",
+    "fetched_at": "2026-11-09T12:43:31.034401+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/haiku"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Model DetailsHaiku",
+    "summary_he": "Model DetailsHaiku",
+    "details_he": ""
+  },
+  {
+    "id": "530e91305527246f",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-09T12:43:31.034401+00:00",
+    "fetched_at": "2026-11-09T12:43:31.034401+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "c991a08ebee56803",
+    "title_original": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+    "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+    "description": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine.\n\nBoth apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-09T16:57:53+05:30",
+    "fetched_at": "2026-11-09T12:43:33.148782+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+    "summary_he": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine.\n\nBoth apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an",
+    "details_he": ""
+  },
+  {
+    "id": "70b7642be97bf929",
+    "title_original": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+    "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+    "description": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.\n\nKeplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week.\n\nWeb3Auth then used the attacker's own route to empty other at-risk wallets before the attacker",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-09T16:26:25+05:30",
+    "fetched_at": "2026-11-09T12:43:33.148782+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+    "summary_he": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.\n\nKeplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week.\n\nWeb3Auth then used the attacker's own route to empty other at-risk wallets before the attacker",
+    "details_he": ""
+  },
+  {
+    "id": "7a23fe9593f4ed41",
+    "title_original": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+    "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+    "description": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.\n\nIt has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-09T15:31:21+05:30",
+    "fetched_at": "2026-11-09T12:43:33.148782+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+    "summary_he": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.\n\nIt has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could",
+    "details_he": ""
+  },
+  {
+    "id": "3749785534375862",
+    "title_original": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+    "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+    "description": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.\n\nThe agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login.\n\nThe researchers are highly confident that the attacker is a single person",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-09T14:31:50+05:30",
+    "fetched_at": "2026-11-09T12:43:33.148782+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+    "summary_he": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.\n\nThe agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login.\n\nThe researchers are highly confident that the attacker is a single person",
+    "details_he": ""
+  },
+  {
+    "id": "2ad93e1b727ad98b",
+    "title_original": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+    "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+    "description": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.\n\nAccording to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026.\n\nIf proven guilty, the",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-09T12:35:48+05:30",
+    "fetched_at": "2026-11-09T12:43:33.148782+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+    "summary_he": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.\n\nAccording to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026.\n\nIf proven guilty, the",
+    "details_he": ""
+  }
+]

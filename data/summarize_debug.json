@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T11:14:21.409125+00:00",
+  "timestamp": "2026-11-09T12:46:03.527570+00:00",
   "errors": [
     {
       "title": "Learn more",
@@ -30,12 +30,42 @@
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
+    },
+    {
+      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unl",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets fo",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers A",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Rec",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive ",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
     }
   ],
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
-  "fallback": 5,
-  "total_scanned": 25,
-  "selected": 5
+  "fallback": 10,
+  "total_scanned": 51,
+  "selected": 10
 }
