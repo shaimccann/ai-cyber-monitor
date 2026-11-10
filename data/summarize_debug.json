@@ -1,8 +1,14 @@
 {
-  "timestamp": "2026-11-09T12:46:03.527570+00:00",
+  "timestamp": "2026-11-10T12:28:35.690757+00:00",
   "errors": [
     {
-      "title": "Learn more",
+      "title": "Read moreTry Claude",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Try Claude",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -14,13 +20,7 @@
       "has_details": false
     },
     {
-      "title": "Introducing Claude Haiku 5.5",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Model DetailsHaiku",
+      "title": "Model DetailsFableMythos",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -32,31 +32,31 @@
       "has_details": false
     },
     {
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unl",
+      "title": "IT threat evolution in Q3 2026. Mobile statistics",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets fo",
+      "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers A",
+      "title": "9th November – Threat Intelligence Report",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Rec",
+      "title": "Cato CTRL Threat Intel: PHP2Shell in the Underground and the Search for a Workin",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive ",
+      "title": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 51,
+  "total_scanned": 111,
   "selected": 10
 }

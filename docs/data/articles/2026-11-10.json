@@ -1,0 +1,224 @@
+[
+  {
+    "id": "eb0de1ea3e17aed1",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-10T12:26:00.954825+00:00",
+    "fetched_at": "2026-11-10T12:26:00.954825+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "fc84054b5c70dbba",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-10T12:26:00.954825+00:00",
+    "fetched_at": "2026-11-10T12:26:00.954825+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "2cd2a9f97e174376",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-10T12:26:00.954825+00:00",
+    "fetched_at": "2026-11-10T12:26:00.954825+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "1486bbcbaa7d601d",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-10T12:26:00.954825+00:00",
+    "fetched_at": "2026-11-10T12:26:00.954825+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "15c61434b1efc7ed",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-10T12:26:00.954825+00:00",
+    "fetched_at": "2026-11-10T12:26:00.954825+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-opus-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "0121b9f9bd8432b2",
+    "title_original": "IT threat evolution in Q3 2026. Mobile statistics",
+    "url": "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/",
+    "description": "Q3 2026 mobile threat statistics for Android malware, adware, and unwanted software, plus the most notable malware found during the quarter.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-10T08:00:17+00:00",
+    "fetched_at": "2026-11-10T12:26:08.920172+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/malware-report-q3-2026-pc-iot-statistics/121843/"
+      },
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "IT threat evolution in Q3 2026. Mobile statistics",
+    "summary_he": "Q3 2026 mobile threat statistics for Android malware, adware, and unwanted software, plus the most notable malware found during the quarter.",
+    "details_he": ""
+  },
+  {
+    "id": "9aecfde1d4bac0e8",
+    "title_original": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/",
+    "description": "Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced trust in unsafe code and what they reveal about Rust's safety guarantees.The postFORGE Lab uses agentic tools to identify memory safety issues in Rustappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-09T20:17:31+00:00",
+    "fetched_at": "2026-11-10T12:26:05.575442+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
+    "summary_he": "Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced trust in unsafe code and what they reveal about Rust's safety guarantees.The postFORGE Lab uses agentic tools to identify memory safety issues in Rustappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "679b5e8d02b11947",
+    "title_original": "9th November – Threat Intelligence Report",
+    "url": "https://research.checkpoint.com/2026/9th-november-threat-intelligence-report/",
+    "description": "For the latest discoveries in cyber research for the week of 9th November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Queens Public Library, a New York City public library system serving approximately 2.3 million residents, was struck by a ransomware attack that encrypted its systems. The incident disrupted public computers, Wi-Fi, checkout […]The post9th November – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-09T16:15:41+00:00",
+    "fetched_at": "2026-11-10T12:26:10.661835+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/9th-november-threat-intelligence-report/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "9th November – Threat Intelligence Report",
+    "summary_he": "For the latest discoveries in cyber research for the week of 9th November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Queens Public Library, a New York City public library system serving approximately 2.3 million residents, was struck by a ransomware attack that encrypted its systems. The incident disrupted public computers, Wi-Fi, checkout […]The post9th November – Threat Intelligence Reportappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "f89fc97f4eb5aa68",
+    "title_original": "Cato CTRL Threat Intel: PHP2Shell in the Underground and the Search for a Working Exploit",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-intel-php2shell-in-the-underground-and-the-search-for-a-working-exploit/",
+    "description": "Executive summary On October 21, 2026, we observed participants in underground forums seeking PHP2Shell exploits, while others shared scripts presented as exploiting CVE-2026-109618 and CVE-2026-109619. Discussion included doubts about prerequisites and whether circulating code worked. This post examines that gap between interest, claimed capability, and verified exploitation. Our assessment covers selected forum posts and messages...The postCato CTRL Threat Intel: PHP2Shell in the Underground and the Search for a Working Exploitappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-11-09T15:35:51+00:00",
+    "fetched_at": "2026-11-10T12:26:12.439949+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-intel-php2shell-in-the-underground-and-the-search-for-a-working-exploit/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL Threat Intel: PHP2Shell in the Underground and the Search for a Working Exploit",
+    "summary_he": "Executive summary On October 21, 2026, we observed participants in underground forums seeking PHP2Shell exploits, while others shared scripts presented as exploiting CVE-2026-109618 and CVE-2026-109619. Discussion included doubts about prerequisites and whether circulating code worked. This post examines that gap between interest, claimed capability, and verified exploitation. Our assessment covers selected forum posts and messages...The postCato CTRL Threat Intel: PHP2Shell in the Underground and the Search for a Working Exploitappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "f55b5a14a2fe5a21",
+    "title_original": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+    "url": "https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild",
+    "description": "A threat actor used IAM credentials from Qubole's AWS account to assume integration roles in customer AWS environments. Here's what we observed and how to hunt for it.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-09T14:56:32+00:00",
+    "fetched_at": "2026-11-10T12:26:10.966181+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+    "summary_he": "A threat actor used IAM credentials from Qubole's AWS account to assume integration roles in customer AWS environments. Here's what we observed and how to hunt for it.",
+    "details_he": ""
+  }
+]
