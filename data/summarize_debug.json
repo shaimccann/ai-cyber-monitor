@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-11-10T12:28:35.690757+00:00",
+  "timestamp": "2026-11-11T11:48:57.060401+00:00",
   "errors": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
     {
       "title": "Read moreTry Claude",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
@@ -26,37 +32,31 @@
       "has_details": false
     },
     {
-      "title": "System CardView",
+      "title": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a ",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "IT threat evolution in Q3 2026. Mobile statistics",
+      "title": "From Water Systems to Supermarket Refrigerators: Inside Shahid Kaveh and CyberAv",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
+      "title": "What 70 European CISOs told us about securing the AI era",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "9th November – Threat Intelligence Report",
+      "title": "Detecting sleeper agents hiding in AI model neurons",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Cato CTRL Threat Intel: PHP2Shell in the Underground and the Search for a Workin",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+      "title": "How to Evaluate AI Agent Cybersecurity Capabilities",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 111,
+  "total_scanned": 122,
   "selected": 10
 }

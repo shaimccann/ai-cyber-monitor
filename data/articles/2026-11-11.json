@@ -1,0 +1,216 @@
+[
+  {
+    "id": "05694c13a69310b8",
+    "title_original": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "source_name": "OpenAI Blog",
+    "source_url": "https://openai.com",
+    "category": "ai",
+    "published": "2026-11-12T00:00:00+00:00",
+    "fetched_at": "2026-11-11T11:46:21.170248+00:00",
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Gilbert + Tobin rethinks the business of law with AI",
+    "summary_he": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "details_he": ""
+  },
+  {
+    "id": "d846c0a7e8adc8e0",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-11T11:46:24.397220+00:00",
+    "fetched_at": "2026-11-11T11:46:24.397220+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "0b6802d82f597541",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-11T11:46:24.397220+00:00",
+    "fetched_at": "2026-11-11T11:46:24.397220+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "3141da67e3e5ac5b",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-11T11:46:24.397220+00:00",
+    "fetched_at": "2026-11-11T11:46:24.397220+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "4a97f07c179ee056",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-11T11:46:24.397220+00:00",
+    "fetched_at": "2026-11-11T11:46:24.397220+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "c08c25c79e393a8f",
+    "title_original": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand",
+    "url": "https://securelist.com/citrus-ransomware/121879/",
+    "description": "We break down the Citrus Ransomware group's attacks: the attackers' TTPs and tooling, including VLESS traffic tunneling and LLM use, plus their links to Toy Ghouls.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-11T10:00:25+00:00",
+    "fetched_at": "2026-11-11T11:46:30.614671+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/citrus-ransomware/121879/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand",
+    "summary_he": "We break down the Citrus Ransomware group's attacks: the attackers' TTPs and tooling, including VLESS traffic tunneling and LLM use, plus their links to Toy Ghouls.",
+    "details_he": ""
+  },
+  {
+    "id": "43a199f91a5fe373",
+    "title_original": "From Water Systems to Supermarket Refrigerators: Inside Shahid Kaveh and CyberAv3ngers’ OT Attacks",
+    "url": "https://blog.checkpoint.com/security/from-water-systems-to-supermarket-refrigerators-inside-shahid-kaveh-and-cyberav3ngers-ot-attacks/",
+    "description": "What does a cyberattack on hundreds of supermarket refrigerators in France have to do with attacks on American water systems? More than you might think.  France has attributed the October sabotage of refrigeration systems at around 700 retail sites to Shahid Kaveh, an offensive cyber unit affiliated with the Electronic and Cyber Center of Iran’s Islamic Revolutionary Guard Corps (IRGC). Attackers manipulated refrigeration controllers, triggering abnormal defrost cycles and disabling temperature alerts. The incidents caused widespread food losses and, according to French authorities, fires at several locations.  The name Shahid Kaveh may be new to many. Its activity is much […]The postFrom Water Systems to Supermarket Refrigerators: Inside Shahid Kaveh and CyberAv3ngers’ OT Attacksappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-11T09:58:47+00:00",
+    "fetched_at": "2026-11-11T11:46:35.782115+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/from-water-systems-to-supermarket-refrigerators-inside-shahid-kaveh-and-cyberav3ngers-ot-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "From Water Systems to Supermarket Refrigerators: Inside Shahid Kaveh and CyberAv3ngers’ OT Attacks",
+    "summary_he": "What does a cyberattack on hundreds of supermarket refrigerators in France have to do with attacks on American water systems? More than you might think.  France has attributed the October sabotage of refrigeration systems at around 700 retail sites to Shahid Kaveh, an offensive cyber unit affiliated with the Electronic and Cyber Center of Iran’s Islamic Revolutionary Guard Corps (IRGC). Attackers manipulated refrigeration controllers, triggering abnormal defrost cycles and disabling temperature alerts. The incidents caused widespread food losses and, according to French authorities, fires at several locations.  The name Shahid Kaveh may be new to many. Its activity is much […]The postFrom Water Systems to Supermarket Refrigerators: Inside Shahid Kaveh and CyberAv3ngers’ OT Attacksappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "644578a8317744fe",
+    "title_original": "What 70 European CISOs told us about securing the AI era",
+    "url": "https://blog.checkpoint.com/security/what-70-european-cisos-told-us-about-securing-the-ai-era/",
+    "description": "Last week I spent three days in Bavaria with more than 70 CISOs from across Europe, the Middle East and Africa at Leaders Point EMEA. Led by our CEO Nadav Zafrir and hosted with Team8’s CISO Village, it was our second Leaders Point and the first in Europe. We kept it invitation-only so people could speak openly.  The timing was hard to miss. Over the past month, attacks on supermarket refrigeration systems have spoiled food and emptied shelves in stores across France and several other European countries. Nobody has yet been shown to be behind them. For anyone who still […]The postWhat 70 European CISOs told us about securing the AI eraappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-11T09:32:55+00:00",
+    "fetched_at": "2026-11-11T11:46:35.782115+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/what-70-european-cisos-told-us-about-securing-the-ai-era/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What 70 European CISOs told us about securing the AI era",
+    "summary_he": "Last week I spent three days in Bavaria with more than 70 CISOs from across Europe, the Middle East and Africa at Leaders Point EMEA. Led by our CEO Nadav Zafrir and hosted with Team8’s CISO Village, it was our second Leaders Point and the first in Europe. We kept it invitation-only so people could speak openly.  The timing was hard to miss. Over the past month, attacks on supermarket refrigeration systems have spoiled food and emptied shelves in stores across France and several other European countries. Nobody has yet been shown to be behind them. For anyone who still […]The postWhat 70 European CISOs told us about securing the AI eraappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "86e2bb8c5962bfd4",
+    "title_original": "Detecting sleeper agents hiding in AI model neurons",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
+    "description": "Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which can identify anomalous weight edits.The postDetecting sleeper agents hiding in AI model neuronsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-10T23:00:00+00:00",
+    "fetched_at": "2026-11-11T11:46:28.564257+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Detecting sleeper agents hiding in AI model neurons",
+    "summary_he": "Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which can identify anomalous weight edits.The postDetecting sleeper agents hiding in AI model neuronsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "e0e6c67513599ebd",
+    "title_original": "How to Evaluate AI Agent Cybersecurity Capabilities",
+    "url": "https://www.wiz.io/blog/cyber-model-arena-ai-benchmark",
+    "description": "A tutorial for building a benchmark for offensive agents, based on how we built the Wiz Cyber Model Arena",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-10T16:03:25+00:00",
+    "fetched_at": "2026-11-11T11:46:32.615710+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/cyber-model-arena-ai-benchmark"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to Evaluate AI Agent Cybersecurity Capabilities",
+    "summary_he": "A tutorial for building a benchmark for offensive agents, based on how we built the Wiz Cyber Model Arena",
+    "details_he": ""
+  }
+]
