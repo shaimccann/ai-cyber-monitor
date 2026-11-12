@@ -1,0 +1,220 @@
+[
+  {
+    "id": "a1bcd3812df7791f",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-12T12:29:20.661155+00:00",
+    "fetched_at": "2026-11-12T12:29:20.661155+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "57090c9ff5ba1fa7",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-12T12:29:20.661155+00:00",
+    "fetched_at": "2026-11-12T12:29:20.661155+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "1274366f54a80654",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-12T12:29:20.661155+00:00",
+    "fetched_at": "2026-11-12T12:29:20.661155+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "f7f978dc6ed2f22c",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-12T12:29:20.661155+00:00",
+    "fetched_at": "2026-11-12T12:29:20.661155+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "272ab1cf57b4e781",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-12T12:29:20.661155+00:00",
+    "fetched_at": "2026-11-12T12:29:20.661155+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-opus-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "a6bd46fdf6bd65d1",
+    "title_original": "Transcending the trust boundaries: how a cloud pentest works",
+    "url": "https://securelist.com/how-a-cloud-pentest-works/121921/",
+    "description": "This is the first article in a series on cloud penetration testing. We'll cover the three cloud layers (External, Overlay, and Underlay), common architectures (OpenStack and Kubernetes), typical attack chains, and real-world incidents.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-12T10:00:53+00:00",
+    "fetched_at": "2026-11-12T12:29:26.942465+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/how-a-cloud-pentest-works/121921/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Transcending the trust boundaries: how a cloud pentest works",
+    "summary_he": "This is the first article in a series on cloud penetration testing. We'll cover the three cloud layers (External, Overlay, and Underlay), common architectures (OpenStack and Kubernetes), typical attack chains, and real-world incidents.",
+    "details_he": ""
+  },
+  {
+    "id": "d4b5a624d4edca96",
+    "title_original": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
+    "url": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
+    "description": "Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks.The postARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Knowappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-11-11T23:00:53+00:00",
+    "fetched_at": "2026-11-12T12:29:26.781833+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
+    "summary_he": "Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks.The postARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Knowappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "2fa6a9438a67d6a4",
+    "title_original": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
+    "description": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity.The postThe global socket: how threat actors are weaponizing GSocket for stealthy C2appeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-11T19:49:57+00:00",
+    "fetched_at": "2026-11-12T12:29:24.792098+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+    "summary_he": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity.The postThe global socket: how threat actors are weaponizing GSocket for stealthy C2appeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "e63387fcd7080d03",
+    "title_original": "Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know",
+    "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "description": "Detect and mitigate CVE-2026-119618, a critical RCE vulnerability in Apache HTTP Server. According to Wiz data, 64% of cloud environments have resources vulnerable to CVE-2026-119618. Immediate patching is advised.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-11T19:49:10+00:00",
+    "fetched_at": "2026-11-12T12:29:28.821809+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know",
+    "summary_he": "Detect and mitigate CVE-2026-119618, a critical RCE vulnerability in Apache HTTP Server. According to Wiz data, 64% of cloud environments have resources vulnerable to CVE-2026-119618. Immediate patching is advised.",
+    "details_he": ""
+  },
+  {
+    "id": "6b25b49a77763dd8",
+    "title_original": "Lessons from 59 Linux Kernel Bug Reports",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
+    "description": "Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the challenges of turning AI-generated findings into validated vulnerabilities and upstream fixes.The postLessons from 59 Linux Kernel Bug Reportsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-11T16:55:00+00:00",
+    "fetched_at": "2026-11-12T12:29:24.792098+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Lessons from 59 Linux Kernel Bug Reports",
+    "summary_he": "Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the challenges of turning AI-generated findings into validated vulnerabilities and upstream fixes.The postLessons from 59 Linux Kernel Bug Reportsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  }
+]
