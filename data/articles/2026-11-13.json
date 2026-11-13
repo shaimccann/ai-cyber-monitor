@@ -1,0 +1,216 @@
+[
+  {
+    "id": "94df5397354b31ab",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-13T12:01:57.210079+00:00",
+    "fetched_at": "2026-11-13T12:01:57.210079+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "46ae8b2c6db7cdaf",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-13T12:01:57.210079+00:00",
+    "fetched_at": "2026-11-13T12:01:57.210079+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "806767c2dcb7477d",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-13T12:01:57.210079+00:00",
+    "fetched_at": "2026-11-13T12:01:57.210079+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "33815d5ad1a91346",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-13T12:01:57.210079+00:00",
+    "fetched_at": "2026-11-13T12:01:57.210079+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "a4f8246564fd534c",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-13T12:01:57.210079+00:00",
+    "fetched_at": "2026-11-13T12:01:57.210079+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "b506d76213d75625",
+    "title_original": "Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes",
+    "url": "https://securelist.com/esxi-ransomware/121959/",
+    "description": "Kaspersky experts analyze a recent ransomware incident and discuss why the hypervisor layer remains difficult to monitor, what common access paths adversaries use to reach it, and how to protect your ESXi systems.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-13T09:00:43+00:00",
+    "fetched_at": "2026-11-13T12:02:04.657716+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/esxi-ransomware/121959/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes",
+    "summary_he": "Kaspersky experts analyze a recent ransomware incident and discuss why the hypervisor layer remains difficult to monitor, what common access paths adversaries use to reach it, and how to protect your ESXi systems.",
+    "details_he": ""
+  },
+  {
+    "id": "97c4ca39a07b4bc8",
+    "title_original": "ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code",
+    "url": "https://www.wiz.io/blog/aspm-ai-era-pt-3-fixing-risk-code-speed",
+    "description": "Accelerate MTTR and eliminate remediation bottlenecks with simplified ownership mapping, code fixes, and automated workflows",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-12T18:32:24+00:00",
+    "fetched_at": "2026-11-13T12:02:06.480055+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/aspm-ai-era-pt-3-fixing-risk-code-speed"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code",
+    "summary_he": "Accelerate MTTR and eliminate remediation bottlenecks with simplified ownership mapping, code fixes, and automated workflows",
+    "details_he": ""
+  },
+  {
+    "id": "a69c29337517f179",
+    "title_original": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+    "description": "Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities.The postTrained to betray: How post-training supply chain attacks hijack coding agentsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-12T17:00:00+00:00",
+    "fetched_at": "2026-11-13T12:02:01.242357+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+    "summary_he": "Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities.The postTrained to betray: How post-training supply chain attacks hijack coding agentsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "bd813334e043929f",
+    "title_original": "Check Point Extends Its Penetration Testing Capabilities",
+    "url": "https://blog.checkpoint.com/security/check-point-extends-its-penetration-testing-capabilities/",
+    "description": "The Check Point Services organization is extending its penetration testing capabilities with deeper, adversary-led engagements. Customers can now choose anything from a scoped penetration test to an objective-based engagement. Each engagement shows three things: how an attacker could break into the environment, how far the attacker could get, and whether the security team would detect the attack. And because environments never stand still, the testing is proactive and continuous, not a one-time project. Key Takeaways Every engagement answers three questions: how an attacker gets in, how far they get, and whether your team detects the attack. You choose the depth: […]The postCheck Point Extends Its Penetration Testing Capabilitiesappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-12T15:25:57+00:00",
+    "fetched_at": "2026-11-13T12:02:10.410445+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/check-point-extends-its-penetration-testing-capabilities/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Check Point Extends Its Penetration Testing Capabilities",
+    "summary_he": "The Check Point Services organization is extending its penetration testing capabilities with deeper, adversary-led engagements. Customers can now choose anything from a scoped penetration test to an objective-based engagement. Each engagement shows three things: how an attacker could break into the environment, how far the attacker could get, and whether the security team would detect the attack. And because environments never stand still, the testing is proactive and continuous, not a one-time project. Key Takeaways Every engagement answers three questions: how an attacker gets in, how far they get, and whether your team detects the attack. You choose the depth: […]The postCheck Point Extends Its Penetration Testing Capabilitiesappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "dbe3900bd754e6ba",
+    "title_original": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
+    "url": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/",
+    "description": "Our analysis of how attackers used the open-source Cairn AI agent framework to autonomously breach semiconductor, defense and civic targets.The postAttackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectorsappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-11-12T15:00:31+00:00",
+    "fetched_at": "2026-11-13T12:02:04.390303+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
+    "summary_he": "Our analysis of how attackers used the open-source Cairn AI agent framework to autonomously breach semiconductor, defense and civic targets.The postAttackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectorsappeared first onUnit 42.",
+    "details_he": ""
+  }
+]
