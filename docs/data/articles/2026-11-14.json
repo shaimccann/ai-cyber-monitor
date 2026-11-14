@@ -1,0 +1,216 @@
+[
+  {
+    "id": "aeca036465a191ab",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-14T11:20:32.273600+00:00",
+    "fetched_at": "2026-11-14T11:20:32.273600+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "3e13fe4bd715b8a3",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-14T11:20:32.273600+00:00",
+    "fetched_at": "2026-11-14T11:20:32.273600+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "90083b32fd862cef",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-14T11:20:32.273600+00:00",
+    "fetched_at": "2026-11-14T11:20:32.273600+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "aa4d04f0ee4ed0b0",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-14T11:20:32.273600+00:00",
+    "fetched_at": "2026-11-14T11:20:32.273600+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "956b879c40312b4c",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-14T11:20:32.273600+00:00",
+    "fetched_at": "2026-11-14T11:20:32.273600+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "a3a58f8bbd8b94fb",
+    "title_original": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
+    "description": "SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.The postSCKit abuses ScreenConnect to deploy remote access and target technician sessionsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-13T21:31:44+00:00",
+    "fetched_at": "2026-11-14T11:20:36.535565+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+    "summary_he": "SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.The postSCKit abuses ScreenConnect to deploy remote access and target technician sessionsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "57878d620afcba61",
+    "title_original": "The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive Data Access",
+    "url": "https://www.wiz.io/blog/inside-green-agent-investigation",
+    "description": "See how the Green Agent balanced security urgency with business continuity to turn a toxic combination into an executable remediation plan and ready-to-merge pull requests.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-13T17:05:02+00:00",
+    "fetched_at": "2026-11-14T11:20:42.192393+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/inside-green-agent-investigation"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive Data Access",
+    "summary_he": "See how the Green Agent balanced security urgency with business continuity to turn a toxic combination into an executable remediation plan and ready-to-merge pull requests.",
+    "details_he": ""
+  },
+  {
+    "id": "8953e89c2336bc1c",
+    "title_original": "CVE-2026-119618: the gap between “affected” and “exposed”",
+    "url": "https://pentera.io/blog/cve-2026-119618-apache-httpd-mod-http2/",
+    "description": "On 11 November 2026, Apache released httpd 2.4.71 to fix CVE-2026-119618, a race condition in mod_http2 that corrupts the heap and, according to the advisory, can lead to RCE. It is the first httpd issue I could find that Apache has rated critical since October 2021. Red Hat scores it CVSS (v3.1) 9.8.The postCVE-2026-119618: the gap between “affected” and “exposed”appeared first onPentera.",
+    "source_name": "Pentera Blog",
+    "source_url": "https://pentera.io/blog",
+    "category": "cyber",
+    "published": "2026-11-13T15:24:17+00:00",
+    "fetched_at": "2026-11-14T11:20:43.224151+00:00",
+    "sources": [
+      {
+        "name": "Pentera Blog",
+        "url": "https://pentera.io/blog/cve-2026-119618-apache-httpd-mod-http2/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CVE-2026-119618: the gap between “affected” and “exposed”",
+    "summary_he": "On 11 November 2026, Apache released httpd 2.4.71 to fix CVE-2026-119618, a race condition in mod_http2 that corrupts the heap and, according to the advisory, can lead to RCE. It is the first httpd issue I could find that Apache has rated critical since October 2021. Red Hat scores it CVSS (v3.1) 9.8.The postCVE-2026-119618: the gap between “affected” and “exposed”appeared first onPentera.",
+    "details_he": ""
+  },
+  {
+    "id": "6cef19322a5fc106",
+    "title_original": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+    "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+    "description": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones.The postApple Reveals How Secure Exclaves Shield Camera and Microphone Dataappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-11-14T11:00:00+00:00",
+    "fetched_at": "2026-11-14T11:20:35.125455+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+    "summary_he": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones.The postApple Reveals How Secure Exclaves Shield Camera and Microphone Dataappeared first onSecurityWeek.",
+    "details_he": ""
+  },
+  {
+    "id": "50981659d47cb0c4",
+    "title_original": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+    "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+    "description": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.The postNo Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Updateappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-11-14T08:40:22+00:00",
+    "fetched_at": "2026-11-14T11:20:35.125455+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+    "summary_he": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.The postNo Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Updateappeared first onSecurityWeek.",
+    "details_he": ""
+  }
+]
