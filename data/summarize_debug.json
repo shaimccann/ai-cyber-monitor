@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T11:23:07.648078+00:00",
+  "timestamp": "2026-11-15T11:54:45.751510+00:00",
   "errors": [
     {
       "title": "Read moreTry Claude",
@@ -32,31 +32,25 @@
       "has_details": false
     },
     {
-      "title": "SCKit abuses ScreenConnect to deploy remote access and target technician session",
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Inci",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive",
+      "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Faceb",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "CVE-2026-119618: the gap between “affected” and “exposed”",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+      "title": "Is AI Making Us Worse at Cybersecurity?",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -65,7 +59,7 @@
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
-  "fallback": 10,
-  "total_scanned": 60,
-  "selected": 10
+  "fallback": 9,
+  "total_scanned": 25,
+  "selected": 9
 }
