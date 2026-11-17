@@ -1,0 +1,220 @@
+[
+  {
+    "id": "0686bbcffe6feb2b",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-17T13:01:45.175051+00:00",
+    "fetched_at": "2026-11-17T13:01:45.175051+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "0edc7e2a179ab433",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-17T13:01:45.175051+00:00",
+    "fetched_at": "2026-11-17T13:01:45.175051+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "708de78d29aa8ffa",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-17T13:01:45.175051+00:00",
+    "fetched_at": "2026-11-17T13:01:45.175051+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "63148f9b884ea69c",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-17T13:01:45.175051+00:00",
+    "fetched_at": "2026-11-17T13:01:45.175051+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "f74496208bf363e4",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-17T13:01:45.175051+00:00",
+    "fetched_at": "2026-11-17T13:01:45.175051+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "f17da6c6dbb58f59",
+    "title_original": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1",
+    "url": "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
+    "description": "In part 1 of our analysis of the recently uncovered Operation ShadowCloud, we discuss the initial infection stage, the GitDoor backdoor using GitHub as a C2, and the shellcode families it loads.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-17T08:00:37+00:00",
+    "fetched_at": "2026-11-17T13:01:53.152630+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/operation-shadowcloud-graphdoor/122005/"
+      },
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/operation-shadowcloud-gitdoor/122004/"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1",
+    "summary_he": "In part 1 of our analysis of the recently uncovered Operation ShadowCloud, we discuss the initial infection stage, the GitDoor backdoor using GitHub as a C2, and the shellcode families it loads.",
+    "details_he": ""
+  },
+  {
+    "id": "6207ba0484b08e69",
+    "title_original": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
+    "description": "Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide.The postHigh volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectorsappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-17T00:08:41+00:00",
+    "fetched_at": "2026-11-17T13:01:49.135218+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+    "summary_he": "Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide.The postHigh volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectorsappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "58cd408322568992",
+    "title_original": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+    "url": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
+    "description": "We uncover a Southeast Asian cyberespionage campaign deploying PerfectPioneer RAT, modular KUKURAT and stealth HTTP/3 C2 communication channels.The postQUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governmentsappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-11-16T23:00:55+00:00",
+    "fetched_at": "2026-11-17T13:01:53.025336+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+    "summary_he": "We uncover a Southeast Asian cyberespionage campaign deploying PerfectPioneer RAT, modular KUKURAT and stealth HTTP/3 C2 communication channels.The postQUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governmentsappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "989c6b729ee60fce",
+    "title_original": "Introducing the Wiz AI Security Agent",
+    "url": "https://www.wiz.io/blog/introducing-wiz-ai-security-agent",
+    "description": "Meet the Wiz AI Security Agent, your newest security teammate to discover AI agents, understand their purpose, and expose hidden risks.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-16T17:02:41+00:00",
+    "fetched_at": "2026-11-17T13:01:54.952398+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-ai-security-agent"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing the Wiz AI Security Agent",
+    "summary_he": "Meet the Wiz AI Security Agent, your newest security teammate to discover AI agents, understand their purpose, and expose hidden risks.",
+    "details_he": ""
+  },
+  {
+    "id": "5ab7ef38d778aadd",
+    "title_original": "Black Friday Cyber Crime 2026: Attacks on Retailers Surge 28% as Risky Domains Multiply",
+    "url": "https://blog.checkpoint.com/corporate/black-friday-cyber-crime-2026-attacks-on-retailers-surge-28-as-risky-domains-multiply/",
+    "description": "Highlights: Cyber attacks on Consumer Goods & Services organizations increased by 28% ahead of Black Friday, outpacing the 22% global increase More than 4,000 new November sales-related domains were registered in October and early November, with nearly one in five already classified as risky. Check Point Research identified fraudulent shopping websites and delivery scams impersonating major brands, including Amazon, Walmart, AliExpress, Temu, DHL, USPS and FedEx. As the yearly popular shopping spree of Black Friday and Cyber Monday approach, shoppers worldwide are preparing to take advantage of the biggest sales of the year. However, while consumers hunt for discounts and […]The postBlack Friday Cyber Crime 2026: Attacks on Retailers Surge 28% as Risky Domains Multiplyappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-16T15:30:23+00:00",
+    "fetched_at": "2026-11-17T13:01:59.824516+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/corporate/black-friday-cyber-crime-2026-attacks-on-retailers-surge-28-as-risky-domains-multiply/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Black Friday Cyber Crime 2026: Attacks on Retailers Surge 28% as Risky Domains Multiply",
+    "summary_he": "Highlights: Cyber attacks on Consumer Goods & Services organizations increased by 28% ahead of Black Friday, outpacing the 22% global increase More than 4,000 new November sales-related domains were registered in October and early November, with nearly one in five already classified as risky. Check Point Research identified fraudulent shopping websites and delivery scams impersonating major brands, including Amazon, Walmart, AliExpress, Temu, DHL, USPS and FedEx. As the yearly popular shopping spree of Black Friday and Cyber Monday approach, shoppers worldwide are preparing to take advantage of the biggest sales of the year. However, while consumers hunt for discounts and […]The postBlack Friday Cyber Crime 2026: Attacks on Retailers Surge 28% as Risky Domains Multiplyappeared first onCheck Point Blog.",
+    "details_he": ""
+  }
+]
