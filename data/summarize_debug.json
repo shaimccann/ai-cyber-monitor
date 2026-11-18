@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T13:02:04.974035+00:00",
+  "timestamp": "2026-11-18T12:54:54.124358+00:00",
   "errors": [
     {
       "title": "Read moreTry Claude",
@@ -32,31 +32,31 @@
       "has_details": false
     },
     {
-      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networ",
+      "title": "Java4Shell (CVE-2026-114938): Check Your Java Services Now",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple",
+      "title": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consult",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+      "title": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Introducing the Wiz AI Security Agent",
+      "title": "Microsoft agent-framework Compromised: Credential Stealer Targets Azure and CI P",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Black Friday Cyber Crime 2026: Attacks on Retailers Surge 28% as Risky Domains M",
+      "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 106,
+  "total_scanned": 121,
   "selected": 10
 }

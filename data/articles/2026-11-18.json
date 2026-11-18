@@ -1,0 +1,216 @@
+[
+  {
+    "id": "970d3149a9d75210",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-18T12:54:24.429747+00:00",
+    "fetched_at": "2026-11-18T12:54:24.429747+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "5ebac564dede332c",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-18T12:54:24.429747+00:00",
+    "fetched_at": "2026-11-18T12:54:24.429747+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "0920f1997f4518b8",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-18T12:54:24.429747+00:00",
+    "fetched_at": "2026-11-18T12:54:24.429747+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "c9d38458c531cdaf",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-18T12:54:24.429747+00:00",
+    "fetched_at": "2026-11-18T12:54:24.429747+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "e77eb3cadc0b6222",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-18T12:54:24.429747+00:00",
+    "fetched_at": "2026-11-18T12:54:24.429747+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "4e76af95f2433174",
+    "title_original": "Java4Shell (CVE-2026-114938): Check Your Java Services Now",
+    "url": "https://blog.checkpoint.com/security/java4shell-cve-2026-114938-check-your-java-services-now/",
+    "description": "Bottom line: A single malformed Base64 string can give an attacker code execution on unpatched Java runtimes, often without logging in. Fixes were released on November 17, 2026. Inventory your Java runtimes, patch identity providers first, and use a startup flag where you cannot patch today. Check Point IPS protection for the public PoC is available now, but patching is still the only complete fix. Our full advisory has every detail.  What we see   The flaw: On recent Intel and AMD x86-64 processors with AVX-512 VBMI, Java’s hand-tuned Base64 decoder miscalculates the output length for the padded tail of a […]The postJava4Shell (CVE-2026-114938): Check Your Java Services Nowappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-18T09:19:33+00:00",
+    "fetched_at": "2026-11-18T12:54:47.363692+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/java4shell-cve-2026-114938-check-your-java-services-now/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Java4Shell (CVE-2026-114938): Check Your Java Services Now",
+    "summary_he": "Bottom line: A single malformed Base64 string can give an attacker code execution on unpatched Java runtimes, often without logging in. Fixes were released on November 17, 2026. Inventory your Java runtimes, patch identity providers first, and use a startup flag where you cannot patch today. Check Point IPS protection for the public PoC is available now, but patching is still the only complete fix. Our full advisory has every detail.  What we see   The flaw: On recent Intel and AMD x86-64 processors with AVX-512 VBMI, Java’s hand-tuned Base64 decoder miscalculates the output length for the padded tail of a […]The postJava4Shell (CVE-2026-114938): Check Your Java Services Nowappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "d577b3e8c27a57b1",
+    "title_original": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting",
+    "url": "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
+    "description": "How does a ransomware gang sell a “forced audit”? We break down AuditTeam’s OpsAgent implant, its Rust rewrite, and the extortion model demanding a consulting fee to delete stolen data.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-18T07:00:07+00:00",
+    "fetched_at": "2026-11-18T12:54:37.738206+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/auditteam-opsagent-forced-audit/122031/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting",
+    "summary_he": "How does a ransomware gang sell a “forced audit”? We break down AuditTeam’s OpsAgent implant, its Rust rewrite, and the extortion model demanding a consulting fee to delete stolen data.",
+    "details_he": ""
+  },
+  {
+    "id": "41dad1b7eed18d91",
+    "title_original": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
+    "url": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk",
+    "description": "Detect and mitigate Java4Shell (CVE-2026-114938), a critical 9.2 RCE vulnerability affecting OpenJDK and major Java-based applications.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-17T22:29:57+00:00",
+    "fetched_at": "2026-11-18T12:54:40.358113+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
+    "summary_he": "Detect and mitigate Java4Shell (CVE-2026-114938), a critical 9.2 RCE vulnerability affecting OpenJDK and major Java-based applications.",
+    "details_he": ""
+  },
+  {
+    "id": "f90a2516e38184ed",
+    "title_original": "Microsoft agent-framework Compromised: Credential Stealer Targets Azure and CI Pipelines",
+    "url": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi",
+    "description": "On November 17, 2026 at 20:35 UTC, versions 1.26.1 & 1.26.2 of the Microsoft PyPI package agent-framework were published with an added credential stealer.  The package gets almost 200k downloads a month. The malicious versions have since been quarantined.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-17T22:03:37+00:00",
+    "fetched_at": "2026-11-18T12:54:40.358113+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft agent-framework Compromised: Credential Stealer Targets Azure and CI Pipelines",
+    "summary_he": "On November 17, 2026 at 20:35 UTC, versions 1.26.1 & 1.26.2 of the Microsoft PyPI package agent-framework were published with an added credential stealer.  The package gets almost 200k downloads a month. The malicious versions have since been quarantined.",
+    "details_he": ""
+  },
+  {
+    "id": "f381b3e959defe1d",
+    "title_original": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+    "url": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
+    "description": "The OPTIMJACK supply chain attack demonstrates how a compromised vendor script can expose websites, highlighting the need for strict segmentation.The postBorrowed Code, Real Consequences: What OPTIMJACK Teaches Usappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-11-17T20:43:14+00:00",
+    "fetched_at": "2026-11-18T12:54:32.308226+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+    "summary_he": "The OPTIMJACK supply chain attack demonstrates how a compromised vendor script can expose websites, highlighting the need for strict segmentation.The postBorrowed Code, Real Consequences: What OPTIMJACK Teaches Usappeared first onUnit 42.",
+    "details_he": ""
+  }
+]
