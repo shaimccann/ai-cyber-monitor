@@ -1,0 +1,216 @@
+[
+  {
+    "id": "f47cc6cebf62828a",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-19T12:46:06.585869+00:00",
+    "fetched_at": "2026-11-19T12:46:06.585869+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "6cb8f77f79c24456",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-19T12:46:06.585869+00:00",
+    "fetched_at": "2026-11-19T12:46:06.585869+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "7de397c3b0440ee6",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-19T12:46:06.585869+00:00",
+    "fetched_at": "2026-11-19T12:46:06.585869+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "ccfb39c4ba3dde26",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-19T12:46:06.585869+00:00",
+    "fetched_at": "2026-11-19T12:46:06.585869+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "45d9b18549c2bcc5",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-19T12:46:06.585869+00:00",
+    "fetched_at": "2026-11-19T12:46:06.585869+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "7dc1343a97fe2ed4",
+    "title_original": "Threat Actors Abuse Suspected Compromised Google Ads Accounts to Target Developers with Fake Tools",
+    "url": "https://www.catonetworks.com/blog/threat-actors-abuse-suspected-compromised-google-ads-accounts-to-target-developers-with-fake-tools/",
+    "description": "Executive summary We investigated malicious Google ads promoting fake Codex, Claude Code, and Homebrew installers. The ads appeared under identities associated with apparently legitimate businesses unrelated to the advertised tools, suggesting compromised Google Ads accounts or misuse of advertiser identities. By combining familiar software brands with routine installation steps, the lures targeted developers and technically...The postThreat Actors Abuse Suspected Compromised Google Ads Accounts to Target Developers with Fake Toolsappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-11-19T10:21:12+00:00",
+    "fetched_at": "2026-11-19T12:46:17.709858+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/threat-actors-abuse-suspected-compromised-google-ads-accounts-to-target-developers-with-fake-tools/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Threat Actors Abuse Suspected Compromised Google Ads Accounts to Target Developers with Fake Tools",
+    "summary_he": "Executive summary We investigated malicious Google ads promoting fake Codex, Claude Code, and Homebrew installers. The ads appeared under identities associated with apparently legitimate businesses unrelated to the advertised tools, suggesting compromised Google Ads accounts or misuse of advertiser identities. By combining familiar software brands with routine installation steps, the lures targeted developers and technically...The postThreat Actors Abuse Suspected Compromised Google Ads Accounts to Target Developers with Fake Toolsappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "7b89b99c862bfa8d",
+    "title_original": "Java4Shell: RCE, one application at a time",
+    "url": "https://pentera.io/blog/java4shell-rce-one-application-at-a-time/",
+    "description": "On 17 November 2026, Oracle and the OpenJDK project shipped fixes for CVE-2026-114938, a memory corruption bug in the Base64 decoder built into the Java runtime. Calif, who found it and named it Java4Shell, reports unauthenticated RCE against Keycloak, Jira, Confluence, Artifactory, Jenkins and PingFederate in their default configurations. Calif scores it 9.2 on CVSS v4.0. Oracle scores it 8.1 on v3.1, with attack complexity high.The postJava4Shell: RCE, one application at a timeappeared first onPentera.",
+    "source_name": "Pentera Blog",
+    "source_url": "https://pentera.io/blog",
+    "category": "cyber",
+    "published": "2026-11-18T21:05:38+00:00",
+    "fetched_at": "2026-11-19T12:46:17.385752+00:00",
+    "sources": [
+      {
+        "name": "Pentera Blog",
+        "url": "https://pentera.io/blog/java4shell-rce-one-application-at-a-time/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Java4Shell: RCE, one application at a time",
+    "summary_he": "On 17 November 2026, Oracle and the OpenJDK project shipped fixes for CVE-2026-114938, a memory corruption bug in the Base64 decoder built into the Java runtime. Calif, who found it and named it Java4Shell, reports unauthenticated RCE against Keycloak, Jira, Confluence, Artifactory, Jenkins and PingFederate in their default configurations. Calif scores it 9.2 on CVSS v4.0. Oracle scores it 8.1 on v3.1, with attack complexity high.The postJava4Shell: RCE, one application at a timeappeared first onPentera.",
+    "details_he": ""
+  },
+  {
+    "id": "97e26a9da9ed0e6d",
+    "title_original": "Cato CTRL Threat Brief on How Java4Shell Turns Base64 Decoding Into an Enterprise Risk",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-brief-on-how-java4shell-turns-base64-decoding-into-an-enterprise-risk/",
+    "description": "Executive summary Java4Shell (CVE-2026-114938), disclosed on 17 November 2026, is a memory-corruption flaw in Java’s accelerated Base64 decoder. Malformed input can crash an affected JVM, and external researchers have demonstrated application-specific remote code execution. Exposure requires an affected JVM on an x86-64 processor with AVX-512 VBMI and BW support, with the vulnerable decoding path enabled...The postCato CTRL Threat Brief on How Java4Shell Turns Base64 Decoding Into an Enterprise Riskappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-11-18T18:10:27+00:00",
+    "fetched_at": "2026-11-19T12:46:17.709858+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-brief-on-how-java4shell-turns-base64-decoding-into-an-enterprise-risk/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL Threat Brief on How Java4Shell Turns Base64 Decoding Into an Enterprise Risk",
+    "summary_he": "Executive summary Java4Shell (CVE-2026-114938), disclosed on 17 November 2026, is a memory-corruption flaw in Java’s accelerated Base64 decoder. Malformed input can crash an affected JVM, and external researchers have demonstrated application-specific remote code execution. Exposure requires an affected JVM on an x86-64 processor with AVX-512 VBMI and BW support, with the vulnerable decoding path enabled...The postCato CTRL Threat Brief on How Java4Shell Turns Base64 Decoding Into an Enterprise Riskappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "f5b7aca05144af40",
+    "title_original": "Cato CTRL Threat Brief and Insights on OPTIMJACK",
+    "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-brief-and-insights-on-optimjack/",
+    "description": "Executive summary On 16 November 2026, malicious JavaScript inserted into Optimizely Web Experimentation projects reached visitors through trusted websites in a campaign publicly referred to as OPTIMJACK. Public research identified affected snippets associated with 178 organizations. The payload could divert cryptocurrency payments, skim card details and deliver exploits targeting vulnerable iPhones and iPads. Optimizely says...The postCato CTRL Threat Brief and Insights on OPTIMJACKappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-11-18T15:54:37+00:00",
+    "fetched_at": "2026-11-19T12:46:17.709858+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/cato-ctrl-threat-brief-and-insights-on-optimjack/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Cato CTRL Threat Brief and Insights on OPTIMJACK",
+    "summary_he": "Executive summary On 16 November 2026, malicious JavaScript inserted into Optimizely Web Experimentation projects reached visitors through trusted websites in a campaign publicly referred to as OPTIMJACK. Public research identified affected snippets associated with 178 organizations. The payload could divert cryptocurrency payments, skim card details and deliver exploits targeting vulnerable iPhones and iPads. Optimizely says...The postCato CTRL Threat Brief and Insights on OPTIMJACKappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "78f57bff8c364dce",
+    "title_original": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "description": "Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-18T15:13:20+00:00",
+    "fetched_at": "2026-11-19T12:46:16.217000+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+    "summary_he": "Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk.",
+    "details_he": ""
+  }
+]
