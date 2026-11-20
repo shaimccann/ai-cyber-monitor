@@ -1,20 +1,14 @@
 {
-  "timestamp": "2026-11-19T12:46:28.472829+00:00",
+  "timestamp": "2026-11-20T12:42:24.545610+00:00",
   "errors": [
     {
-      "title": "Read moreTry Claude",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Try Claude",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
       "title": "Announcements",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Introducing Fable 5.2 and Mythos 5.2",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -32,31 +26,37 @@
       "has_details": false
     },
     {
-      "title": "Threat Actors Abuse Suspected Compromised Google Ads Accounts to Target Develope",
+      "title": "Introducing Claude Opus 5.5",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Java4Shell: RCE, one application at a time",
+      "title": "phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Cato CTRL Threat Brief on How Java4Shell Turns Base64 Decoding Into an Enterpris",
+      "title": "New PHP Vulnerabilities: What Organizations Need to Know and How Check Point Cus",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Cato CTRL Threat Brief and Insights on OPTIMJACK",
+      "title": "Two Critical NGINX HTTP/2 Flaws: What to Patch First",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123",
+      "title": "30 Years of Gatekeeper Asymmetry Doom: The Paradox that Makes Powerful LLMs More",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "The Kill Switch Is the Last Resort. Agentic Steering Is the First Move.",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 116,
+  "total_scanned": 89,
   "selected": 10
 }

@@ -1,0 +1,220 @@
+[
+  {
+    "id": "12884dcc97282ccf",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-20T12:42:11.717879+00:00",
+    "fetched_at": "2026-11-20T12:42:11.717879+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "361f8bf7f5e2a8a8",
+    "title_original": "Introducing Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-20T12:42:11.717879+00:00",
+    "fetched_at": "2026-11-20T12:42:11.717879+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Fable 5.2 and Mythos 5.2",
+    "summary_he": "Introducing Fable 5.2 and Mythos 5.2",
+    "details_he": ""
+  },
+  {
+    "id": "340409227638c748",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-20T12:42:11.717879+00:00",
+    "fetched_at": "2026-11-20T12:42:11.717879+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "b5b6e8eb7e283c23",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-20T12:42:11.717879+00:00",
+    "fetched_at": "2026-11-20T12:42:11.717879+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-opus-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "155fcb1f0c8df258",
+    "title_original": "Introducing Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-20T12:42:11.717879+00:00",
+    "fetched_at": "2026-11-20T12:42:11.717879+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-opus-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Opus 5.5",
+    "summary_he": "Introducing Claude Opus 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "a3850866fc5ad60a",
+    "title_original": "phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know",
+    "url": "https://www.wiz.io/blog/phpaftershell-critical-php-rce-vulnerabilities-cve-2026-126714",
+    "description": "Detect and mitigate phpAfterShell, and additional critical vulnerabilities from PHP's November release that may enable remote code execution.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-19T21:46:23+00:00",
+    "fetched_at": "2026-11-20T12:42:18.944166+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/phpaftershell-critical-php-rce-vulnerabilities-cve-2026-126714"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know",
+    "summary_he": "Detect and mitigate phpAfterShell, and additional critical vulnerabilities from PHP's November release that may enable remote code execution.",
+    "details_he": ""
+  },
+  {
+    "id": "8b0bb7d3bdf5aa98",
+    "title_original": "New PHP Vulnerabilities: What Organizations Need to Know and How Check Point Customers Are Protected",
+    "url": "https://blog.checkpoint.com/security/new-php-vulnerabilities-what-organizations-need-to-know-and-how-check-point-customers-are-protected/",
+    "description": "On November 19, 2026, A series of recently disclosed vulnerabilities in PHP has put one of the world’s most widely deployed web technologies under renewed scrutiny.  The most significant issues, CVE-2026-109618 and CVE-2026-109619, are critical remote code execution vulnerabilities that can allow an unauthenticated attacker to execute code on vulnerable PHP systems. CVE-2026-109618 carries a CVSS 4.0 score of 9.2 and has since been added to the CISA Known Exploited Vulnerabilities catalog.   A third issue, CVE-2026-115560, was disclosed shortly afterward. It involves a more specific PHP configuration and should be considered separately from the two original PHP2Shell vulnerabilities. Public reporting […]The postNew PHP Vulnerabilities: What Organizations Need to Know and How Check Point Customers Are Protectedappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-19T19:12:07+00:00",
+    "fetched_at": "2026-11-20T12:42:22.235678+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/new-php-vulnerabilities-what-organizations-need-to-know-and-how-check-point-customers-are-protected/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "New PHP Vulnerabilities: What Organizations Need to Know and How Check Point Customers Are Protected",
+    "summary_he": "On November 19, 2026, A series of recently disclosed vulnerabilities in PHP has put one of the world’s most widely deployed web technologies under renewed scrutiny.  The most significant issues, CVE-2026-109618 and CVE-2026-109619, are critical remote code execution vulnerabilities that can allow an unauthenticated attacker to execute code on vulnerable PHP systems. CVE-2026-109618 carries a CVSS 4.0 score of 9.2 and has since been added to the CISA Known Exploited Vulnerabilities catalog.   A third issue, CVE-2026-115560, was disclosed shortly afterward. It involves a more specific PHP configuration and should be considered separately from the two original PHP2Shell vulnerabilities. Public reporting […]The postNew PHP Vulnerabilities: What Organizations Need to Know and How Check Point Customers Are Protectedappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "79245401afb4134f",
+    "title_original": "Two Critical NGINX HTTP/2 Flaws: What to Patch First",
+    "url": "https://blog.checkpoint.com/security/two-critical-nginx-http-2-flaws-what-to-patch-first/",
+    "description": "The web server in front of your applications can now be taken over by someone with no login and no help from your own code. Two critical NGINX flaws, CVE-2026-123007 and CVE-2026-123633, make that possible when HTTP/2 is on. F5 and the NGINX project released fixes on November 18, 2026. Our research team published a full advisory on the NGINX HTTP/2 flaws with version tables, mitigations, and hunting guidance. Check Point WAF SaaS, Not Vulnerable – Our R&D team assessed these critical NGINX vulnerabilities and found that Check Point WAF as a Service (SaaS) is not vulnerable to them. The […]The postTwo Critical NGINX HTTP/2 Flaws: What to Patch Firstappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-19T17:41:16+00:00",
+    "fetched_at": "2026-11-20T12:42:22.235678+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/two-critical-nginx-http-2-flaws-what-to-patch-first/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Two Critical NGINX HTTP/2 Flaws: What to Patch First",
+    "summary_he": "The web server in front of your applications can now be taken over by someone with no login and no help from your own code. Two critical NGINX flaws, CVE-2026-123007 and CVE-2026-123633, make that possible when HTTP/2 is on. F5 and the NGINX project released fixes on November 18, 2026. Our research team published a full advisory on the NGINX HTTP/2 flaws with version tables, mitigations, and hunting guidance. Check Point WAF SaaS, Not Vulnerable – Our R&D team assessed these critical NGINX vulnerabilities and found that Check Point WAF as a Service (SaaS) is not vulnerable to them. The […]The postTwo Critical NGINX HTTP/2 Flaws: What to Patch Firstappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "0ddec6b919f40520",
+    "title_original": "30 Years of Gatekeeper Asymmetry Doom: The Paradox that Makes Powerful LLMs More Vulnerable",
+    "url": "https://research.checkpoint.com/2026/30-years-of-gatekeeper-asymmetry-doom-the-paradox-that-makes-powerful-llms-more-vulnerable/",
+    "description": "Abstract We give an exposition for a principle of gatekeeper asymmetry doom in information security, which states that “If the system vetting adversarial input has strictly less power than the system processing that input, without leveraging some hard problem, this will inevitably lead to doom.” We list a variety of examples where one can see […]The post30 Years of Gatekeeper Asymmetry Doom: The Paradox that Makes Powerful LLMs More Vulnerableappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-19T13:19:10+00:00",
+    "fetched_at": "2026-11-20T12:42:18.821570+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/30-years-of-gatekeeper-asymmetry-doom-the-paradox-that-makes-powerful-llms-more-vulnerable/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "30 Years of Gatekeeper Asymmetry Doom: The Paradox that Makes Powerful LLMs More Vulnerable",
+    "summary_he": "Abstract We give an exposition for a principle of gatekeeper asymmetry doom in information security, which states that “If the system vetting adversarial input has strictly less power than the system processing that input, without leveraging some hard problem, this will inevitably lead to doom.” We list a variety of examples where one can see […]The post30 Years of Gatekeeper Asymmetry Doom: The Paradox that Makes Powerful LLMs More Vulnerableappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "e2c14a23e1c08bdd",
+    "title_original": "The Kill Switch Is the Last Resort. Agentic Steering Is the First Move.",
+    "url": "https://blog.checkpoint.com/ai-security/ai-agent-kill-switch-agentic-steering/",
+    "description": "Key takeaways Every AI agent deployment needs a way to stop an agent, and Check Point AI Security does it automatically. Most risky agent behavior has no attacker behind it, though, which is why we keep the kill switch as the last resort and make steering the first move. →Two problems get lumped together. An agent hijacked by an attacker should be stopped. An agent that takes a risky shortcut to finish its job is the more common case, and it needs a different answer →Switching off has a cost. It stops the risk and the work together, and a […]The postThe Kill Switch Is the Last Resort. Agentic Steering Is the First Move.appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-19T13:00:39+00:00",
+    "fetched_at": "2026-11-20T12:42:22.235678+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/ai-security/ai-agent-kill-switch-agentic-steering/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The Kill Switch Is the Last Resort. Agentic Steering Is the First Move.",
+    "summary_he": "Key takeaways Every AI agent deployment needs a way to stop an agent, and Check Point AI Security does it automatically. Most risky agent behavior has no attacker behind it, though, which is why we keep the kill switch as the last resort and make steering the first move. →Two problems get lumped together. An agent hijacked by an attacker should be stopped. An agent that takes a risky shortcut to finish its job is the more common case, and it needs a different answer →Switching off has a cost. It stops the risk and the work together, and a […]The postThe Kill Switch Is the Last Resort. Agentic Steering Is the First Move.appeared first onCheck Point Blog.",
+    "details_he": ""
+  }
+]
