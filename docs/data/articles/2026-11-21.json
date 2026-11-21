@@ -1,0 +1,220 @@
+[
+  {
+    "id": "e5b5b8a53c1c08fe",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-21T12:23:39.043923+00:00",
+    "fetched_at": "2026-11-21T12:23:39.043923+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "23e5b98b7fd98c97",
+    "title_original": "Introducing Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-21T12:23:39.043923+00:00",
+    "fetched_at": "2026-11-21T12:23:39.043923+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Fable 5.2 and Mythos 5.2",
+    "summary_he": "Introducing Fable 5.2 and Mythos 5.2",
+    "details_he": ""
+  },
+  {
+    "id": "291743fd3d1e9f80",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-21T12:23:39.043923+00:00",
+    "fetched_at": "2026-11-21T12:23:39.043923+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "e220e53adb4724c3",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-21T12:23:39.043923+00:00",
+    "fetched_at": "2026-11-21T12:23:39.043923+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-opus-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "5b533380f87c5a4f",
+    "title_original": "Introducing Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-21T12:23:39.043923+00:00",
+    "fetched_at": "2026-11-21T12:23:39.043923+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-opus-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Opus 5.5",
+    "summary_he": "Introducing Claude Opus 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "c7bd7befd4b60939",
+    "title_original": "Dialing for Data: Inside the Com’s High-Profile Heists",
+    "url": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+    "description": "Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance.The postDialing for Data: Inside the Com’s High-Profile Heistsappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-11-20T22:00:25+00:00",
+    "fetched_at": "2026-11-21T12:23:45.568732+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Dialing for Data: Inside the Com’s High-Profile Heists",
+    "summary_he": "Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance.The postDialing for Data: Inside the Com’s High-Profile Heistsappeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "0215f60a14f0b861",
+    "title_original": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+    "description": "We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).The postMicrosoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEMappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-20T17:00:00+00:00",
+    "fetched_at": "2026-11-21T12:23:43.364463+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+    "summary_he": "We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).The postMicrosoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEMappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "2d8b068b2f9e9739",
+    "title_original": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+    "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+    "description": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could be extended to reach the credentials Muse stores for the user's connected accounts.\n\nThe work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-21T17:23:07+05:30",
+    "fetched_at": "2026-11-21T12:23:41.536062+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+    "summary_he": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could be extended to reach the credentials Muse stores for the user's connected accounts.\n\nThe work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's",
+    "details_he": ""
+  },
+  {
+    "id": "71f13cfd476bac18",
+    "title_original": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+    "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+    "description": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.\n\nThe bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-21T16:35:53+05:30",
+    "fetched_at": "2026-11-21T12:23:41.536062+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+    "summary_he": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.\n\nThe bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
+    "details_he": ""
+  },
+  {
+    "id": "0fef2a2c4189727a",
+    "title_original": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+    "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+    "description": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.\n\nThe flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-21T16:33:17+05:30",
+    "fetched_at": "2026-11-21T12:23:41.536062+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+    "summary_he": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.\n\nThe flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
+    "details_he": ""
+  }
+]
