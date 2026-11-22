@@ -1,0 +1,199 @@
+[
+  {
+    "id": "cfec39d7cf647731",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-22T12:26:33.546826+00:00",
+    "fetched_at": "2026-11-22T12:26:33.546826+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "1ed10bbeead1fa0b",
+    "title_original": "Introducing Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-22T12:26:33.546826+00:00",
+    "fetched_at": "2026-11-22T12:26:33.546826+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Fable 5.2 and Mythos 5.2",
+    "summary_he": "Introducing Fable 5.2 and Mythos 5.2",
+    "details_he": ""
+  },
+  {
+    "id": "1e25c40e45475e3a",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-22T12:26:33.546826+00:00",
+    "fetched_at": "2026-11-22T12:26:33.546826+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "61f3891e2e97a8df",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-22T12:26:33.546826+00:00",
+    "fetched_at": "2026-11-22T12:26:33.546826+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-opus-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "21bff90c6c059526",
+    "title_original": "Introducing Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-22T12:26:33.546826+00:00",
+    "fetched_at": "2026-11-22T12:26:33.546826+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-opus-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Opus 5.5",
+    "summary_he": "Introducing Claude Opus 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "003e4fa3f3b5646b",
+    "title_original": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "description": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.\n\nOpenRouter, a gateway that routes customers' AI requests to a pool of",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-22T10:36:55+05:30",
+    "fetched_at": "2026-11-22T12:26:35.104519+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "summary_he": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.\n\nOpenRouter, a gateway that routes customers' AI requests to a pool of",
+    "details_he": ""
+  },
+  {
+    "id": "544eba6f98e7a2e5",
+    "title_original": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "description": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.\n\nSecurity firm pwn.ai showed this week that ordinary upload,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-22T10:33:41+05:30",
+    "fetched_at": "2026-11-22T12:26:35.104519+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "summary_he": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.\n\nSecurity firm pwn.ai showed this week that ordinary upload,",
+    "details_he": ""
+  },
+  {
+    "id": "cd66333f4b30258c",
+    "title_original": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+    "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+    "description": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains.The postFBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Saysappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-11-22T00:53:02+00:00",
+    "fetched_at": "2026-11-22T12:26:36.570835+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+    "summary_he": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains.The postFBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Saysappeared first onSecurityWeek.",
+    "details_he": ""
+  },
+  {
+    "id": "e8431a34dd412b86",
+    "title_original": "President Trump Taps Kirsten Davies as National Cyber Director",
+    "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+    "description": "White House says the battle-tested cyber leader will drive an America First cyber strategy.The postPresident Trump Taps Kirsten Davies as National Cyber Directorappeared first onSecurityWeek.",
+    "source_name": "SecurityWeek",
+    "source_url": "https://www.securityweek.com",
+    "category": "cyber",
+    "published": "2026-11-21T13:00:00+00:00",
+    "fetched_at": "2026-11-22T12:26:36.570835+00:00",
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "President Trump Taps Kirsten Davies as National Cyber Director",
+    "summary_he": "White House says the battle-tested cyber leader will drive an America First cyber strategy.The postPresident Trump Taps Kirsten Davies as National Cyber Directorappeared first onSecurityWeek.",
+    "details_he": ""
+  }
+]
