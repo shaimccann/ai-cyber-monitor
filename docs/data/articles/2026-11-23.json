@@ -1,0 +1,220 @@
+[
+  {
+    "id": "961e6cfd973b1232",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-23T14:19:39.141333+00:00",
+    "fetched_at": "2026-11-23T14:19:39.141333+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "172decacd7a21f8d",
+    "title_original": "Introducing Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-23T14:19:39.141333+00:00",
+    "fetched_at": "2026-11-23T14:19:39.141333+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Fable 5.2 and Mythos 5.2",
+    "summary_he": "Introducing Fable 5.2 and Mythos 5.2",
+    "details_he": ""
+  },
+  {
+    "id": "a4eb8c8fab92a3e2",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-23T14:19:39.141333+00:00",
+    "fetched_at": "2026-11-23T14:19:39.141333+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "6639dc885dde7ab5",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-23T14:19:39.141333+00:00",
+    "fetched_at": "2026-11-23T14:19:39.141333+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/document/claude-opus-5-5-system-card"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "1d91dee291d2626e",
+    "title_original": "Introducing Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-23T14:19:39.141333+00:00",
+    "fetched_at": "2026-11-23T14:19:39.141333+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-opus-5-5"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Claude Opus 5.5",
+    "summary_he": "Introducing Claude Opus 5.5",
+    "details_he": ""
+  },
+  {
+    "id": "cb616b5efc262583",
+    "title_original": "Got the next big thing in AI security? Pitch it at CPX and win!",
+    "url": "https://blog.checkpoint.com/security/got-the-next-big-thing-in-ai-security-pitch-it-at-cpx-and-win/",
+    "description": "Cyber security startups, do you think you have the next big thing in AI? We want to see it. Check Point Software kicks off our fifth global Innovation Sandbox Competition, in Las Vegas and Vienna, in February 2027. Innovation has been part of Check Point’s DNA for more than 30 years. Today we’re continuing that with our fifth global Innovation Sandbox Competition, held at our CPX events in Las Vegas and Vienna in February 2027. Compete for the chance to give a five-minute pitch on our main stage, in front of thousands of Check Point customers and partners, and to […]The postGot the next big thing in AI security? Pitch it at CPX and win!appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-23T13:00:42+00:00",
+    "fetched_at": "2026-11-23T14:20:02.273570+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/got-the-next-big-thing-in-ai-security-pitch-it-at-cpx-and-win/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Got the next big thing in AI security? Pitch it at CPX and win!",
+    "summary_he": "Cyber security startups, do you think you have the next big thing in AI? We want to see it. Check Point Software kicks off our fifth global Innovation Sandbox Competition, in Las Vegas and Vienna, in February 2027. Innovation has been part of Check Point’s DNA for more than 30 years. Today we’re continuing that with our fifth global Innovation Sandbox Competition, held at our CPX events in Las Vegas and Vienna in February 2027. Compete for the chance to give a five-minute pitch on our main stage, in front of thousands of Check Point customers and partners, and to […]The postGot the next big thing in AI security? Pitch it at CPX and win!appeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "a2da3cfd2d76b375",
+    "title_original": "Nginx2Root (CVE-2026-123007): Decade-Old HTTP/2 Flaw Allows Pre-Authentication Code Execution in NGINX",
+    "url": "https://xmcyber.com/cve-advisory/nginx2root-cve-2026-123007/",
+    "description": "Overview On November 18, 2026, F5 released security updates for NGINX that fix CVE-2026-123007, a memory corruption vulnerability in the way NGINX handles HTTP/2 traffic....The postNginx2Root (CVE-2026-123007): Decade-Old HTTP/2 Flaw Allows Pre-Authentication Code Execution in NGINXappeared first onXM Cyber.",
+    "source_name": "XM Cyber Blog",
+    "source_url": "https://xmcyber.com/blog",
+    "category": "cyber",
+    "published": "2026-11-23T11:37:52+00:00",
+    "fetched_at": "2026-11-23T14:20:02.044370+00:00",
+    "sources": [
+      {
+        "name": "XM Cyber Blog",
+        "url": "https://xmcyber.com/cve-advisory/nginx2root-cve-2026-123007/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Nginx2Root (CVE-2026-123007): Decade-Old HTTP/2 Flaw Allows Pre-Authentication Code Execution in NGINX",
+    "summary_he": "Overview On November 18, 2026, F5 released security updates for NGINX that fix CVE-2026-123007, a memory corruption vulnerability in the way NGINX handles HTTP/2 traffic....The postNginx2Root (CVE-2026-123007): Decade-Old HTTP/2 Flaw Allows Pre-Authentication Code Execution in NGINXappeared first onXM Cyber.",
+    "details_he": ""
+  },
+  {
+    "id": "559e643bf79a3a9f",
+    "title_original": "Black Friday, red flags: too-good-to-be-true deals hiding real threats",
+    "url": "https://securelist.com/black-friday-threat-report-2026/122061/",
+    "description": "How cybercriminals prepare for Black Friday: phishing, scams and malware targeting online shoppers and gamers, GTA VI- and wellness-related schemes, and fake sales spam.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-23T10:00:43+00:00",
+    "fetched_at": "2026-11-23T14:19:47.221972+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/black-friday-threat-report-2026/122061/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Black Friday, red flags: too-good-to-be-true deals hiding real threats",
+    "summary_he": "How cybercriminals prepare for Black Friday: phishing, scams and malware targeting online shoppers and gamers, GTA VI- and wellness-related schemes, and fake sales spam.",
+    "details_he": ""
+  },
+  {
+    "id": "bf66a6e4fa618636",
+    "title_original": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
+    "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
+    "description": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic missions abroad.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-11-24T00:00:00+00:00",
+    "fetched_at": "2026-11-23T14:19:42.447450+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
+    "summary_he": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic missions abroad.",
+    "details_he": ""
+  },
+  {
+    "id": "5e4ca96aef04517e",
+    "title_original": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+    "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+    "description": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.\n\nThe vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1.\n\n\"Binary-parser before 2.3.1 contains a code injection vulnerability that allows",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-23T18:52:20+05:30",
+    "fetched_at": "2026-11-23T14:19:41.064694+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+    "summary_he": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.\n\nThe vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1.\n\n\"Binary-parser before 2.3.1 contains a code injection vulnerability that allows",
+    "details_he": ""
+  }
+]
