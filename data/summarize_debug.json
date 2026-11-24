@@ -1,14 +1,20 @@
 {
-  "timestamp": "2026-11-23T14:20:09.398358+00:00",
+  "timestamp": "2026-11-24T14:43:26.538409+00:00",
   "errors": [
     {
-      "title": "Announcements",
+      "title": "Read moreTry Claude",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Introducing Fable 5.2 and Mythos 5.2",
+      "title": "Try Claude",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Announcements",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -26,7 +32,25 @@
       "has_details": false
     },
     {
-      "title": "Introducing Claude Opus 5.5",
+      "title": "Volant Manticore: Flying Under the Radar",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Darknet Forums Are Fragmenting as Observed Breach Activity Rises",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Volant Manticore: New Iranian Threat Group Expands Cyber Espionage Across Europe",
+      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
+      "summary_preview": "",
+      "has_details": false
+    },
+    {
+      "title": "Powering the OpenAI Daybreak Defense Factory with Wiz Security Intelligence",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -36,36 +60,12 @@
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
-    },
-    {
-      "title": "Nginx2Root (CVE-2026-123007): Decade-Old HTTP/2 Flaw Allows Pre-Authentication C",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Black Friday, red flags: too-good-to-be-true deals hiding real threats",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact deta",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
-    },
-    {
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser De",
-      "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
-      "summary_preview": "",
-      "has_details": false
     }
   ],
   "api_test": "FAILED",
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 66,
+  "total_scanned": 112,
   "selected": 10
 }

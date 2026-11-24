@@ -1,0 +1,216 @@
+[
+  {
+    "id": "4248e46d70422730",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-24T14:43:00.156927+00:00",
+    "fetched_at": "2026-11-24T14:43:00.156927+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "b5a7efe9f7961df9",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-24T14:43:00.156927+00:00",
+    "fetched_at": "2026-11-24T14:43:00.156927+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "c3921311b775acc0",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-24T14:43:00.156927+00:00",
+    "fetched_at": "2026-11-24T14:43:00.156927+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "ebd0bc44f95f48e8",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-24T14:43:00.156927+00:00",
+    "fetched_at": "2026-11-24T14:43:00.156927+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "64b6d9376da0db15",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-24T14:43:00.156927+00:00",
+    "fetched_at": "2026-11-24T14:43:00.156927+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "c02df60ee7d1c8c3",
+    "title_original": "Volant Manticore: Flying Under the Radar",
+    "url": "https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/",
+    "description": "Key Points Introduction Check Point Research is tracking a previously undocumented Iran-nexus threat group who we named Volant Manticore. What started in July 2026 as a single backdoor delivered to a Cyprus-based airline through a fake CV has since expanded into a broader cluster of activity that we traced back to September 2025. MuddyWater is […]The postVolant Manticore: Flying Under the Radarappeared first onCheck Point Research.",
+    "source_name": "Check Point Research",
+    "source_url": "https://research.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-24T14:13:55+00:00",
+    "fetched_at": "2026-11-24T14:43:11.437950+00:00",
+    "sources": [
+      {
+        "name": "Check Point Research",
+        "url": "https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Volant Manticore: Flying Under the Radar",
+    "summary_he": "Key Points Introduction Check Point Research is tracking a previously undocumented Iran-nexus threat group who we named Volant Manticore. What started in July 2026 as a single backdoor delivered to a Cyprus-based airline through a fake CV has since expanded into a broader cluster of activity that we traced back to September 2025. MuddyWater is […]The postVolant Manticore: Flying Under the Radarappeared first onCheck Point Research.",
+    "details_he": ""
+  },
+  {
+    "id": "9d9a201f6bc9544b",
+    "title_original": "Darknet Forums Are Fragmenting as Observed Breach Activity Rises",
+    "url": "https://blog.checkpoint.com/security/darknet-forums-are-fragmenting-as-observed-breach-activity-rises/",
+    "description": "Repeated takedowns have disrupted some of the cybercrime underground’s established gathering places. The communities around them have continued to reorganize. BreachForums revivals compete with clones and alternative platforms. Russian-speaking forums have struggled to replace the relationships built around XSS and RAMP. Activity moves between venues, and a platform that gains attention after one disruption may lose it after the next. Check Point Exposure Management researchers examined two years of forum activity to understand how that disruption has changed the underground. The analysis found a more fragmented ecosystem, with observed breach and data-leak activity remaining substantial even as established forums lost […]The postDarknet Forums Are Fragmenting as Observed Breach Activity Risesappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-24T13:00:10+00:00",
+    "fetched_at": "2026-11-24T14:43:18.795558+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/darknet-forums-are-fragmenting-as-observed-breach-activity-rises/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Darknet Forums Are Fragmenting as Observed Breach Activity Rises",
+    "summary_he": "Repeated takedowns have disrupted some of the cybercrime underground’s established gathering places. The communities around them have continued to reorganize. BreachForums revivals compete with clones and alternative platforms. Russian-speaking forums have struggled to replace the relationships built around XSS and RAMP. Activity moves between venues, and a platform that gains attention after one disruption may lose it after the next. Check Point Exposure Management researchers examined two years of forum activity to understand how that disruption has changed the underground. The analysis found a more fragmented ecosystem, with observed breach and data-leak activity remaining substantial even as established forums lost […]The postDarknet Forums Are Fragmenting as Observed Breach Activity Risesappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "30b7522accc858ca",
+    "title_original": "Volant Manticore: New Iranian Threat Group Expands Cyber Espionage Across Europe and the Middle East",
+    "url": "https://blog.checkpoint.com/security/volant-manticore-new-iranian-threat-group-expands-cyber-espionage-across-europe-and-the-middle-east/",
+    "description": "Check Point Research has uncovered Volant Manticore, a previously undocumented Iran-nexus threat group that made Cyprus a primary espionage target before recently expanding its operations also to Saudi Arabia. This group’s focus provides another indication that Iranian cyber activity is becoming more geographically distributed, with targeting increasingly shaped by changing geopolitical priorities across the Middle East and Europe. That change in focus is one of the most important parts of the discovery. It shows how quickly Volant Manticore’s targeting can respond to geopolitical developments and adds to evidence that Iranian cyber interests are extending beyond their traditional focus. Key Findings […]The postVolant Manticore: New Iranian Threat Group Expands Cyber Espionage Across Europe and the Middle Eastappeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-24T13:00:07+00:00",
+    "fetched_at": "2026-11-24T14:43:18.795558+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/volant-manticore-new-iranian-threat-group-expands-cyber-espionage-across-europe-and-the-middle-east/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Volant Manticore: New Iranian Threat Group Expands Cyber Espionage Across Europe and the Middle East",
+    "summary_he": "Check Point Research has uncovered Volant Manticore, a previously undocumented Iran-nexus threat group that made Cyprus a primary espionage target before recently expanding its operations also to Saudi Arabia. This group’s focus provides another indication that Iranian cyber activity is becoming more geographically distributed, with targeting increasingly shaped by changing geopolitical priorities across the Middle East and Europe. That change in focus is one of the most important parts of the discovery. It shows how quickly Volant Manticore’s targeting can respond to geopolitical developments and adds to evidence that Iranian cyber interests are extending beyond their traditional focus. Key Findings […]The postVolant Manticore: New Iranian Threat Group Expands Cyber Espionage Across Europe and the Middle Eastappeared first onCheck Point Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "34c4442574c9b825",
+    "title_original": "Powering the OpenAI Daybreak Defense Factory with Wiz Security Intelligence",
+    "url": "https://www.wiz.io/blog/wiz-openai-codex-integration",
+    "description": "Bringing cloud security intelligence to AI-driven vulnerability investigation and code remediation.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-24T13:00:03+00:00",
+    "fetched_at": "2026-11-24T14:43:11.668242+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-openai-codex-integration"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Powering the OpenAI Daybreak Defense Factory with Wiz Security Intelligence",
+    "summary_he": "Bringing cloud security intelligence to AI-driven vulnerability investigation and code remediation.",
+    "details_he": ""
+  },
+  {
+    "id": "55069f3cbdbb131a",
+    "title_original": "Got the next big thing in AI security? Pitch it at CPX and win!",
+    "url": "https://blog.checkpoint.com/security/got-the-next-big-thing-in-ai-security-pitch-it-at-cpx-and-win/",
+    "description": "Cyber security startups, do you think you have the next big thing in AI? We want to see it. Check Point Software kicks off our fifth global Innovation Sandbox Competition, in Las Vegas and Vienna, in February 2027. Innovation has been part of Check Point’s DNA for more than 30 years. Today we’re continuing that with our fifth global Innovation Sandbox Competition, held at our CPX events in Las Vegas and Vienna in February 2027. Compete for the chance to give a five-minute pitch on our main stage, in front of thousands of Check Point customers and partners, and to […]The postGot the next big thing in AI security? Pitch it at CPX and win!appeared first onCheck Point Blog.",
+    "source_name": "Check Point Blog",
+    "source_url": "https://blog.checkpoint.com",
+    "category": "cyber",
+    "published": "2026-11-23T16:15:15+00:00",
+    "fetched_at": "2026-11-24T14:43:18.795558+00:00",
+    "sources": [
+      {
+        "name": "Check Point Blog",
+        "url": "https://blog.checkpoint.com/security/got-the-next-big-thing-in-ai-security-pitch-it-at-cpx-and-win/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Got the next big thing in AI security? Pitch it at CPX and win!",
+    "summary_he": "Cyber security startups, do you think you have the next big thing in AI? We want to see it. Check Point Software kicks off our fifth global Innovation Sandbox Competition, in Las Vegas and Vienna, in February 2027. Innovation has been part of Check Point’s DNA for more than 30 years. Today we’re continuing that with our fifth global Innovation Sandbox Competition, held at our CPX events in Las Vegas and Vienna in February 2027. Compete for the chance to give a five-minute pitch on our main stage, in front of thousands of Check Point customers and partners, and to […]The postGot the next big thing in AI security? Pitch it at CPX and win!appeared first onCheck Point Blog.",
+    "details_he": ""
+  }
+]
