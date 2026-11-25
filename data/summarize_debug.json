@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T14:43:26.538409+00:00",
+  "timestamp": "2026-11-25T14:06:33.486483+00:00",
   "errors": [
     {
       "title": "Read moreTry Claude",
@@ -32,31 +32,31 @@
       "has_details": false
     },
     {
-      "title": "Volant Manticore: Flying Under the Radar",
+      "title": "How to protect against preinstalled Android malware",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Darknet Forums Are Fragmenting as Observed Breach Activity Rises",
+      "title": "CrowdStrike Accelerates the Shift to the Agentic SOC",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Volant Manticore: New Iranian Threat Group Expands Cyber Espionage Across Europe",
+      "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Powering the OpenAI Daybreak Defense Factory with Wiz Security Intelligence",
+      "title": "“Do Good Security” and Other Lessons from Wiz’s FedRAMP VDR & VER Event",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Got the next big thing in AI security? Pitch it at CPX and win!",
+      "title": "Recent Trends and Tactics of Agentic AI Attacks",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 112,
+  "total_scanned": 102,
   "selected": 10
 }

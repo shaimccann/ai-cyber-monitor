@@ -1,0 +1,216 @@
+[
+  {
+    "id": "42961f06220236a6",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-25T14:06:07.537949+00:00",
+    "fetched_at": "2026-11-25T14:06:07.537949+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "962524b05ca8cd6c",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-25T14:06:07.537949+00:00",
+    "fetched_at": "2026-11-25T14:06:07.537949+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "489c39a056b2eed0",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-25T14:06:07.537949+00:00",
+    "fetched_at": "2026-11-25T14:06:07.537949+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "b1087ac476cca5a1",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-25T14:06:07.537949+00:00",
+    "fetched_at": "2026-11-25T14:06:07.537949+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "0cf9bc8229e37469",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-25T14:06:07.537949+00:00",
+    "fetched_at": "2026-11-25T14:06:07.537949+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "91b7a86dcbf9f610",
+    "title_original": "How to protect against preinstalled Android malware",
+    "url": "https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/",
+    "description": "We look at Trojans in the firmware of Android devices, share some statistics, and discuss the risks to corporate users and ways to counter the threat with Kaspersky Next.",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com",
+    "category": "cyber",
+    "published": "2026-11-25T09:00:35+00:00",
+    "fetched_at": "2026-11-25T14:06:17.683173+00:00",
+    "sources": [
+      {
+        "name": "Kaspersky Securelist",
+        "url": "https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to protect against preinstalled Android malware",
+    "summary_he": "We look at Trojans in the firmware of Android devices, share some statistics, and discuss the risks to corporate users and ways to counter the threat with Kaspersky Next.",
+    "details_he": ""
+  },
+  {
+    "id": "e7331d45da245057",
+    "title_original": "CrowdStrike Accelerates the Shift to the Agentic SOC",
+    "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/",
+    "description": "",
+    "source_name": "CrowdStrike Blog",
+    "source_url": "https://www.crowdstrike.com/blog/",
+    "category": "cyber",
+    "published": "2026-11-25T00:00:00-08:00",
+    "fetched_at": "2026-11-25T14:06:16.910821+00:00",
+    "sources": [
+      {
+        "name": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "CrowdStrike Accelerates the Shift to the Agentic SOC",
+    "summary_he": "CrowdStrike Accelerates the Shift to the Agentic SOC",
+    "details_he": ""
+  },
+  {
+    "id": "bae9ea4221172f47",
+    "title_original": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+    "url": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
+    "description": "Technical analysis of CVE-2026-123633, an NGINX HTTP/2 use-after-free flaw, with details on affected versions, sanitizer tests, and patch guidance.The postNGINX HTTP/2 Use-After-Free: CVE-2026-123633appeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-11-24T23:00:14+00:00",
+    "fetched_at": "2026-11-25T14:06:17.533431+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+    "summary_he": "Technical analysis of CVE-2026-123633, an NGINX HTTP/2 use-after-free flaw, with details on affected versions, sanitizer tests, and patch guidance.The postNGINX HTTP/2 Use-After-Free: CVE-2026-123633appeared first onUnit 42.",
+    "details_he": ""
+  },
+  {
+    "id": "6935e6d8c7db8658",
+    "title_original": "“Do Good Security” and Other Lessons from Wiz’s FedRAMP VDR & VER Event",
+    "url": "https://www.wiz.io/blog/fedramp-vdr-ver-event-key-takeaways",
+    "description": "Key highlights from government leaders, industry experts, and the Wiz FedRAMP team from our November 12th event on modernizing vulnerability management to meet FedRAMP’s new requirements.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-24T18:36:13+00:00",
+    "fetched_at": "2026-11-25T14:06:19.806165+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/fedramp-vdr-ver-event-key-takeaways"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "“Do Good Security” and Other Lessons from Wiz’s FedRAMP VDR & VER Event",
+    "summary_he": "Key highlights from government leaders, industry experts, and the Wiz FedRAMP team from our November 12th event on modernizing vulnerability management to meet FedRAMP’s new requirements.",
+    "details_he": ""
+  },
+  {
+    "id": "eed475dd2ab2925a",
+    "title_original": "Recent Trends and Tactics of Agentic AI Attacks",
+    "url": "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/",
+    "description": "We tracked campaigns where attackers deployed autonomous AI agents to automate multi-platform intrusions, using standard tools while leaving distinct operational traces.The postRecent Trends and Tactics of Agentic AI Attacksappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-11-24T15:00:19+00:00",
+    "fetched_at": "2026-11-25T14:06:17.533431+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Recent Trends and Tactics of Agentic AI Attacks",
+    "summary_he": "We tracked campaigns where attackers deployed autonomous AI agents to automate multi-platform intrusions, using standard tools while leaving distinct operational traces.The postRecent Trends and Tactics of Agentic AI Attacksappeared first onUnit 42.",
+    "details_he": ""
+  }
+]
