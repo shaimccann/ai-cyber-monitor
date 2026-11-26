@@ -1,0 +1,216 @@
+[
+  {
+    "id": "209c19ecc5edc2ae",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-26T13:43:40.757055+00:00",
+    "fetched_at": "2026-11-26T13:43:40.757055+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "bd3268d9431d4ca8",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-26T13:43:40.757055+00:00",
+    "fetched_at": "2026-11-26T13:43:40.757055+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "af3915a23777bdc5",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-26T13:43:40.757055+00:00",
+    "fetched_at": "2026-11-26T13:43:40.757055+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "718fcb124e1667cf",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-26T13:43:40.757055+00:00",
+    "fetched_at": "2026-11-26T13:43:40.757055+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "99826c09e9df465d",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-26T13:43:40.757055+00:00",
+    "fetched_at": "2026-11-26T13:43:40.757055+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "e1b2e51266581aa4",
+    "title_original": "Zero Trust Isn’t Enough for Agent Security",
+    "url": "https://www.catonetworks.com/blog/zero-trust-isnt-enough-for-agent-security/",
+    "description": "An AI agent can have the right identity, the right privileges, and an approved connection, and still take an unsafe action. That’s the challenge as enterprises move from AI that answers questions to agents that do work. Agents retrieve information, invoke tools, send messages, and update business systems. They need privileges to be useful. But...The postZero Trust Isn’t Enough for Agent Securityappeared first onCato Networks.",
+    "source_name": "Cato Networks Blog",
+    "source_url": "https://www.catonetworks.com/blog",
+    "category": "cyber",
+    "published": "2026-11-26T10:18:03+00:00",
+    "fetched_at": "2026-11-26T13:43:52.782761+00:00",
+    "sources": [
+      {
+        "name": "Cato Networks Blog",
+        "url": "https://www.catonetworks.com/blog/zero-trust-isnt-enough-for-agent-security/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Zero Trust Isn’t Enough for Agent Security",
+    "summary_he": "An AI agent can have the right identity, the right privileges, and an approved connection, and still take an unsafe action. That’s the challenge as enterprises move from AI that answers questions to agents that do work. Agents retrieve information, invoke tools, send messages, and update business systems. They need privileges to be useful. But...The postZero Trust Isn’t Enough for Agent Securityappeared first onCato Networks.",
+    "details_he": ""
+  },
+  {
+    "id": "6c41b7d53c4009fd",
+    "title_original": "Introducing Wiz ADR: Strengthening Cloud and AI Detection and Response with Application Context",
+    "url": "https://www.wiz.io/blog/introducing-wiz-adr",
+    "description": "See which functions in your code triggered a runtime alert, use agentic investigation to cut false positives, and automate response down to the exact file and line to fix.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-26T02:26:16+00:00",
+    "fetched_at": "2026-11-26T13:43:51.223582+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/introducing-wiz-adr"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Introducing Wiz ADR: Strengthening Cloud and AI Detection and Response with Application Context",
+    "summary_he": "See which functions in your code triggered a runtime alert, use agentic investigation to cut false positives, and automate response down to the exact file and line to fix.",
+    "details_he": ""
+  },
+  {
+    "id": "d7518667e9840af4",
+    "title_original": "A Feast for AI: What Wiz Agents are Thankful For",
+    "url": "https://www.wiz.io/blog/what-wiz-agents-are-thankful-for",
+    "description": "Grab a slice of Data Pie and pull up a chair. Here’s how Wiz’s Red, Green, and Blue Agents celebrate a quieter, smarter security season.",
+    "source_name": "Wiz Blog",
+    "source_url": "https://www.wiz.io/blog",
+    "category": "cyber",
+    "published": "2026-11-26T02:10:58+00:00",
+    "fetched_at": "2026-11-26T13:43:51.223582+00:00",
+    "sources": [
+      {
+        "name": "Wiz Blog",
+        "url": "https://www.wiz.io/blog/what-wiz-agents-are-thankful-for"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "A Feast for AI: What Wiz Agents are Thankful For",
+    "summary_he": "Grab a slice of Data Pie and pull up a chair. Here’s how Wiz’s Red, Green, and Blue Agents celebrate a quieter, smarter security season.",
+    "details_he": ""
+  },
+  {
+    "id": "08aebc92740968cb",
+    "title_original": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+    "description": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation.The postWhat defenders need to know about ARTEX, the agentic AI framework threat actors abuseappeared first onMicrosoft Security Blog.",
+    "source_name": "Microsoft Security",
+    "source_url": "https://www.microsoft.com/en-us/security/blog/",
+    "category": "cyber",
+    "published": "2026-11-25T18:09:06+00:00",
+    "fetched_at": "2026-11-26T13:43:44.716489+00:00",
+    "sources": [
+      {
+        "name": "Microsoft Security",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+    "summary_he": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation.The postWhat defenders need to know about ARTEX, the agentic AI framework threat actors abuseappeared first onMicrosoft Security Blog.",
+    "details_he": ""
+  },
+  {
+    "id": "e414fd9b997a302f",
+    "title_original": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
+    "url": "https://unit42.paloaltonetworks.com/ai-threat-horizon/",
+    "description": "Unit 42 examines the evolution of AI-driven cyberattacks and outlines proactive defense strategies for security teams.The postThe AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defenseappeared first onUnit 42.",
+    "source_name": "Palo Alto Unit 42",
+    "source_url": "https://unit42.paloaltonetworks.com",
+    "category": "cyber",
+    "published": "2026-11-25T15:00:09+00:00",
+    "fetched_at": "2026-11-26T13:43:49.023478+00:00",
+    "sources": [
+      {
+        "name": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ai-threat-horizon/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
+    "summary_he": "Unit 42 examines the evolution of AI-driven cyberattacks and outlines proactive defense strategies for security teams.The postThe AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defenseappeared first onUnit 42.",
+    "details_he": ""
+  }
+]

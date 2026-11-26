@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T14:06:33.486483+00:00",
+  "timestamp": "2026-11-26T13:44:03.212860+00:00",
   "errors": [
     {
       "title": "Read moreTry Claude",
@@ -32,31 +32,31 @@
       "has_details": false
     },
     {
-      "title": "How to protect against preinstalled Android malware",
+      "title": "Zero Trust Isn’t Enough for Agent Security",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "CrowdStrike Accelerates the Shift to the Agentic SOC",
+      "title": "Introducing Wiz ADR: Strengthening Cloud and AI Detection and Response with Appl",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+      "title": "A Feast for AI: What Wiz Agents are Thankful For",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "“Do Good Security” and Other Lessons from Wiz’s FedRAMP VDR & VER Event",
+      "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors ",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
     },
     {
-      "title": "Recent Trends and Tactics of Agentic AI Attacks",
+      "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
       "error": "NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
       "summary_preview": "",
       "has_details": false
@@ -66,6 +66,6 @@
   "api_test_detail": "model=llama-3.1-8b-instant, error=NotFoundError: Error code: 404 - The model `llama-3.1-8b-instant` does not exist or you do not have access to it.",
   "success": 0,
   "fallback": 10,
-  "total_scanned": 102,
+  "total_scanned": 75,
   "selected": 10
 }
