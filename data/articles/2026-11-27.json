@@ -1,0 +1,216 @@
+[
+  {
+    "id": "c9fb42a2659656e9",
+    "title_original": "Read moreTry Claude",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-27T13:41:02.263460+00:00",
+    "fetched_at": "2026-11-27T13:41:02.263460+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Read moreTry Claude",
+    "summary_he": "Read moreTry Claude",
+    "details_he": ""
+  },
+  {
+    "id": "65fa1d7808637bbe",
+    "title_original": "Try Claude",
+    "url": "https://claude.ai/",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-27T13:41:02.263460+00:00",
+    "fetched_at": "2026-11-27T13:41:02.263460+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://claude.ai/"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Try Claude",
+    "summary_he": "Try Claude",
+    "details_he": ""
+  },
+  {
+    "id": "f439da633b13c73f",
+    "title_original": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-27T13:41:02.263460+00:00",
+    "fetched_at": "2026-11-27T13:41:02.263460+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Announcements",
+    "summary_he": "Announcements",
+    "details_he": ""
+  },
+  {
+    "id": "63b2a5fc0d2745ad",
+    "title_original": "Model DetailsFableMythos",
+    "url": "https://www.anthropic.com/claude/fable",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-27T13:41:02.263460+00:00",
+    "fetched_at": "2026-11-27T13:41:02.263460+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/fable"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude/mythos"
+      }
+    ],
+    "duplicate_count": 2,
+    "title_he": "Model DetailsFableMythos",
+    "summary_he": "Model DetailsFableMythos",
+    "details_he": ""
+  },
+  {
+    "id": "5db869cb1d5ce569",
+    "title_original": "System CardView",
+    "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+    "description": "",
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com",
+    "category": "ai",
+    "published": "2026-11-27T13:41:02.263460+00:00",
+    "fetched_at": "2026-11-27T13:41:02.263460+00:00",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "System CardView",
+    "summary_he": "System CardView",
+    "details_he": ""
+  },
+  {
+    "id": "aeff7aa3b812bbfd",
+    "title_original": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+    "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+    "description": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT.\n\nThe intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.codes-team[.]com\"), from where a Microsoft-signed installer called \"Snipping-Tool.exe\" is",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-27T17:19:34+05:30",
+    "fetched_at": "2026-11-27T13:41:04.062343+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+    "summary_he": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT.\n\nThe intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.codes-team[.]com\"), from where a Microsoft-signed installer called \"Snipping-Tool.exe\" is",
+    "details_he": ""
+  },
+  {
+    "id": "ebb9612219dc01d4",
+    "title_original": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+    "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+    "description": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually happening across the environment that week. Someone pulls them together the week before, cleans them up, and presents a picture of a program that is,",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-27T16:02:18+05:30",
+    "fetched_at": "2026-11-27T13:41:04.062343+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+    "summary_he": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually happening across the environment that week. Someone pulls them together the week before, cleans them up, and presents a picture of a program that is,",
+    "details_he": ""
+  },
+  {
+    "id": "c347669a78ed7521",
+    "title_original": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+    "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+    "description": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website.\n\n\"Evidence indicates that malicious files were generated not only when users downloaded the programs directly from the official download page but also during the update process of previously installed",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-27T14:59:30+05:30",
+    "fetched_at": "2026-11-27T13:41:04.062343+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+    "summary_he": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website.\n\n\"Evidence indicates that malicious files were generated not only when users downloaded the programs directly from the official download page but also during the update process of previously installed",
+    "details_he": ""
+  },
+  {
+    "id": "7fff74f62b8ac3e8",
+    "title_original": "Software giant SAP confirms cyber incident amid reports of source code breach",
+    "url": "https://therecord.media/sap-germany-cyberattack-github",
+    "description": "German software giant SAP confirmed a cybersecurity incident following reports that hackers infiltrated its software development infrastructure, potentially gaining access to the company’s source code.",
+    "source_name": "The Record",
+    "source_url": "https://therecord.media",
+    "category": "cyber",
+    "published": "2026-11-27T13:15:00+00:00",
+    "fetched_at": "2026-11-27T13:41:05.095019+00:00",
+    "sources": [
+      {
+        "name": "The Record",
+        "url": "https://therecord.media/sap-germany-cyberattack-github"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Software giant SAP confirms cyber incident amid reports of source code breach",
+    "summary_he": "German software giant SAP confirmed a cybersecurity incident following reports that hackers infiltrated its software development infrastructure, potentially gaining access to the company’s source code.",
+    "details_he": ""
+  },
+  {
+    "id": "3b09d68a5e8df913",
+    "title_original": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "description": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday.\n\nThree of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major disruptions reported. The victims have not been named, and it is not known who is",
+    "source_name": "The Hacker News",
+    "source_url": "https://thehackernews.com",
+    "category": "cyber",
+    "published": "2026-11-27T11:34:20+05:30",
+    "fetched_at": "2026-11-27T13:41:04.062343+00:00",
+    "sources": [
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
+      }
+    ],
+    "duplicate_count": 1,
+    "title_he": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "summary_he": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday.\n\nThree of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major disruptions reported. The victims have not been named, and it is not known who is",
+    "details_he": ""
+  }
+]
